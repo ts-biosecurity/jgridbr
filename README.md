@@ -8,6 +8,7 @@ Real-time monitoring dashboard for infectious disease news in Brazil, aggregatin
 
 - **Multi-source aggregation**: BlueDot API + Google News RSS
 - **48-hour window**: Fetches only recent articles within the last 48 hours
+- **Automated updates**: GitHub Actions updates data 3 times daily (UTC 0:00, 8:00, 16:00)
 - **State-level mapping**: Classifies articles to Brazil's 26 states + Distrito Federal using location names, city lookups, and coordinate matching
 - **28 regional queries**: National + state-specific Google News queries covering all 5 regions (Norte, Nordeste, Centro-Oeste, Sudeste, Sul)
 - **26 diseases tracked** (see below)
@@ -73,10 +74,25 @@ Open http://localhost:8000 in your browser.
 
 Or visit the live version: [https://ts-biosecurity.github.io/jgridbr/](https://ts-biosecurity.github.io/jgridbr/)
 
+## Automated Updates
+
+Data is automatically updated via GitHub Actions 3 times daily:
+
+| UTC | JST | BRT (Brazil) |
+|---|---|---|
+| 0:00 | 9:00 | 21:00 |
+| 8:00 | 17:00 | 5:00 |
+| 16:00 | 1:00 | 13:00 |
+
+Manual updates can be triggered from the Actions tab via `workflow_dispatch`.
+
 ## Project Structure
 
 ```
 ├── fetch_brazil_infectious disease.py   # Data fetching & processing script
+├── .github/
+│   └── workflows/
+│       └── update-data.yml              # Scheduled data update workflow
 ├── docs/
 │   ├── index.html                       # Dashboard (single-file, no build step)
 │   └── data/
@@ -88,9 +104,13 @@ Or visit the live version: [https://ts-biosecurity.github.io/jgridbr/](https://t
 ## Data Flow
 
 ```
-Google News RSS (28 queries) ─┐
-                              ├─→ Merge & Deduplicate ─→ Translate (PT→EN, JA) ─→ JSON ─→ Dashboard
-BlueDot API ──────────────────┘
+                              ┌─────────────┐
+Google News RSS (28 queries) ─┤             │
+                              │  Merge &    ├─→ Translate (PT→EN, JA) ─→ JSON ─→ Dashboard
+BlueDot API ──────────────────┤ Deduplicate │
+                              └─────────────┘
+                                    ↑
+                          GitHub Actions (3x/day)
 ```
 
 ## License
