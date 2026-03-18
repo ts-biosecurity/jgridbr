@@ -316,6 +316,7 @@ def classify_diseases_from_text(text):
 
 GNEWS_RSS_BASE = "https://news.google.com/rss/search"
 GNEWS_QUERIES = [
+    # 全国クエリ
     "doença infecciosa Brasil",
     "dengue Brasil",
     "surto epidemia Brasil",
@@ -324,6 +325,29 @@ GNEWS_QUERIES = [
     "sarampo OR meningite OR leptospirose Brasil",
     "gripe aviária OR oropouche OR mpox Brasil",
     "covid OR influenza OR gripe Brasil surto",
+    # 北東部 (Nordeste)
+    "dengue OR sarampo OR surto Ceará OR Fortaleza",
+    "dengue OR sarampo OR surto Bahia OR Salvador",
+    "dengue OR sarampo OR surto Pernambuco OR Recife",
+    "dengue OR sarampo OR surto Paraíba OR João Pessoa",
+    "dengue OR sarampo OR surto Alagoas OR Maceió",
+    "dengue OR sarampo OR surto Rio Grande do Norte OR Natal",
+    "dengue OR sarampo OR surto Maranhão OR São Luís",
+    "dengue OR sarampo OR surto Piauí OR Teresina",
+    "dengue OR sarampo OR surto Sergipe OR Aracaju",
+    # 北部 (Norte)
+    "dengue OR sarampo OR surto Amazonas OR Manaus",
+    "dengue OR sarampo OR surto Pará OR Belém",
+    "dengue OR sarampo OR surto Tocantins OR Rondônia OR Roraima OR Acre OR Amapá",
+    # 中西部 (Centro-Oeste)
+    "dengue OR sarampo OR surto Goiás OR Goiânia",
+    "dengue OR sarampo OR surto Mato Grosso OR Mato Grosso do Sul",
+    # 南東部 (Sudeste)
+    "dengue OR sarampo OR surto Minas Gerais OR Belo Horizonte",
+    "dengue OR sarampo OR surto Espírito Santo OR Vitória",
+    # 南部 (Sul)
+    "dengue OR sarampo OR surto Santa Catarina OR Florianópolis",
+    "dengue OR sarampo OR surto Rio Grande do Sul OR Porto Alegre",
 ]
 GNEWS_PARAMS_PT = {"hl": "pt-BR", "gl": "BR", "ceid": "BR:pt-419"}
 GNEWS_PARAMS_EN = {"hl": "en", "gl": "BR", "ceid": "BR:en"}
