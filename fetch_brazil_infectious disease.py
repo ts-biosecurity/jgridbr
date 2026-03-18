@@ -218,6 +218,20 @@ DISEASE_KEYWORDS = {
     "Ebola": ["ebola"],
     "Marburg": ["marburg"],
     "Avian Influenza": ["gripe aviária", "gripe aviaria", "avian influenza", "bird flu", "h5n1"],
+    "South American Hemorrhagic Fever": [
+        "febre hemorrágica", "febre hemorragica",
+        "febre hemorrágica sul-americana", "febre hemorragica sul-americana",
+        "febre hemorrágica brasileira", "febre hemorragica brasileira",
+        "south american hemorrhagic fever",
+        "brazilian hemorrhagic fever",
+        "febre hemorrágica argentina", "febre hemorragica argentina",
+        "argentine hemorrhagic fever",
+        "bolivian hemorrhagic fever",
+        "venezuelan hemorrhagic fever",
+        "sabiá", "sabia virus", "vírus sabiá",
+        "junin", "junín", "machupo", "guanarito", "chapare",
+        "arenavirus", "arenavírus",
+    ],
 }
 
 
@@ -324,6 +338,7 @@ GNEWS_QUERIES = [
     "febre amarela OR chikungunya OR zika Brasil",
     "sarampo OR meningite OR leptospirose Brasil",
     "gripe aviária OR oropouche OR mpox Brasil",
+    "febre hemorrágica OR arenavírus OR sabiá Brasil",
     "covid OR influenza OR gripe Brasil surto",
     # 北東部 (Nordeste)
     "dengue OR sarampo OR surto Ceará OR Fortaleza",
