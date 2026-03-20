@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-03-20T05:10:50.670763+00:00",
+  "generated_at": "2026-03-20T10:04:59.197173+00:00",
   "date_range": {
-    "start": "2026-03-18T05:10:50.670763+00:00",
-    "end": "2026-03-20T05:10:50.670763+00:00"
+    "start": "2026-03-18T10:04:59.197173+00:00",
+    "end": "2026-03-20T10:04:59.197173+00:00"
   },
-  "total_articles": 111,
+  "total_articles": 106,
   "state_summary": {
-    "Amazonas": 6,
+    "Brasil (estado não identificado)": 53,
     "São Paulo": 6,
-    "Brasil (estado não identificado)": 57,
-    "Pará": 25,
+    "Amazonas": 6,
     "Rio Grande do Norte": 1,
+    "Pará": 24,
     "Mato Grosso": 2,
     "Mato Grosso do Sul": 3,
     "Rondônia": 1,
-    "Rio Grande do Sul": 2,
     "Espírito Santo": 2,
+    "Rio Grande do Sul": 2,
     "Tocantins": 4,
-    "Paraná": 5,
+    "Paraná": 4,
     "Goiás": 3,
-    "Bahia": 8,
+    "Bahia": 7,
+    "Acre": 2,
     "Paraíba": 3,
     "Sergipe": 1,
-    "Acre": 1,
     "Ceará": 1,
     "Rio de Janeiro": 1,
     "Distrito Federal": 2
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 15,
-    "Dengue": 17,
+    "Measles": 59,
+    "Doença infecciosa (não especificada)": 16,
+    "Dengue": 15,
     "Influenza": 9,
     "Avian Influenza": 6,
-    "Measles": 63,
     "Meningitis": 2,
     "Chikungunya": 3,
     "Leishmaniasis": 1,
@@ -40,6 +40,26 @@
     "Zika": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_5e95e50d39791b12",
+      "headline": "Caso De Sarampo Em Bebê Reacende Alerta Sobre Vacinação No Brasil - Revista Capital Econômico",
+      "headlineTranslated": "Measles Case in Baby Rekindles Warning About Vaccination in Brazil - Revista Capital Econômico",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-20T09:18:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWdYVW5pQXB0N0l6MEVTLUlGVllucV82dURFMUt1NzRRbjlxRlo0S09iVlVDTmVGN293X0ZGQUlGLXpOTmRPdlczV1lTaHVxNklxU1duN3RmYnh1OTJ4dTYwYjVxN2VTRXVNdWt5eXhTaDFtVVRfZXNub2xvdGNNN0o3SGRpRll0TTNpMS1ieTgzMzNvQloySkJtZU1IOG5HTEdFZWNwRVY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Revista Capital Econômico",
+      "headlineJa": "乳児の麻疹症例が再燃、ブラジルでのワクチン接種について警告 - Revista Capital Econômico"
+    },
     {
       "articleId": "gnews_0f36cb55a64c1cda",
       "headline": "Ministro Mauro Campbell ajuda a conter passageiro em surto durante voo entre Manaus e São Paulo - R7",
@@ -54,12 +74,12 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "São Paulo"
+        "São Paulo",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "R7",
-      "headlineJa": "マウロ・キャンベル大臣は、マナウスとサンパウロ間のR7便で乗客の感染拡大を封じ込めに貢献"
+      "headlineJa": "マウロ・キャンベル大臣は、マナウスとサンパウロ間のR7便での乗客感染の封じ込めに貢献"
     },
     {
       "articleId": "gnews_dd7a698009c2308b",
@@ -115,8 +135,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Rio Grande do Norte"
+        "Rio Grande do Norte",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Na Boca da Noite",
@@ -141,7 +161,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Assembleia Legislativa de Mato Grosso do Sul -",
-      "headlineJa": "ドウラドスの村で集団発生、リア・ノゲイラ議員を緊急対策本部に動員 - マットグロッソ・ド・スル州立法議会 -"
+      "headlineJa": "ドウラドスの村で集団感染、リア・ノゲイラ議員を緊急対策本部に動員 - マットグロッソ・ド・スル州立法議会 -"
     },
     {
       "articleId": "gnews_04745efd31b832ee",
@@ -179,8 +199,8 @@
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
-        "Espírito Santo"
+        "Espírito Santo",
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal do Estado do Rio Grande do Sul",
@@ -222,8 +242,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "O Presente Rural",
@@ -268,7 +288,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "saude.abril.com.br",
-      "headlineJa": "ニパウイルスから鳥インフルエンザまで：新たなパンデミックの到来はあるのか？ - saude.abril.com.br"
+      "headlineJa": "ニパウイルスから鳥インフルエンザまで：新たなパンデミックは目の前にあるのか？ - saude.abril.com.br"
     },
     {
       "articleId": "gnews_e94c8fd769b9300a",
@@ -384,8 +404,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "São Paulo"
+        "São Paulo",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Blog do Hiel Levy",
@@ -449,7 +469,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CREMERJ News",
-      "headlineJa": "麻疹症例確認でワクチン接種率に警鐘 - CREMERJ News"
+      "headlineJa": "麻疹症例確認でワクチン接種率に警告 - CREMERJ News"
     },
     {
       "articleId": "gnews_26f2fbb697aff309",
@@ -485,8 +505,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal O+Positivo -",
@@ -511,26 +531,6 @@
       "dataSource": "Google News",
       "sourceName": "Midiamax",
       "headlineJa": "SUS国軍、ドウラドスでのチクングニア熱発生に対し車両と医療チームを増強 - Midiamax"
-    },
-    {
-      "articleId": "gnews_5d84ad20614b4d19",
-      "headline": "Equipes de combate à dengue poderão entrar em imóveis públicos e privados na Bahia; entenda medida - Blog do Eloilton Cajuhy",
-      "headlineTranslated": "Dengue combat teams will be able to enter public and private properties in Bahia; understand measurement - Eloilton Cajuhy's Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-19T09:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVUpXZ0ZwVWhGNGh1dHBzbHh1TGtJV1FqenJ4RHZjZ0RzLTlLWm5LR3Y4ZmFzVTVVR041d3gzRGI4TjExY2hpQk5aNERLYXhzREF6cnlOdldmYmR1M1htUTEzTzNzQnROMkxkOXcxTFFxcFU0Zk51MGdOc25ici1wVmNnbFZGYVhDR0QtTVo2TUV0dXJhbXZnN051TTA1UXVwR2xUWkxkX2RRMV96YUxDMGtrRlI0Z3Y2V3MtU3QyVnB3NUttMWg0UkZINjhBT1hHNmRDd0lR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Eloilton Cajuhy",
-      "headlineJa": "デング熱対策チームはバイーア州の公共および私有地に立ち入ることができるようになる。測定を理解する - Eloilton Cajuhy's Blog"
     },
     {
       "articleId": "gnews_09e595c2e7af4895",
@@ -643,9 +643,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHVSNW04QjNnLTRETVBWMG45TXJQNE1qSEEtUV9HMWE2NTJ2dVRVcEtuVHBVb0tZUkxmRnFDT3VBWUVXeF9tNUNLSVFGbnpNMnNrTUJGemJmNTN0dUtTbU1UTER0MzhDTHMwM1AxRWd1bHJ1TU92M3FMZnlkMC1yUnZUOVp4OVZJUWl0TC1NVEx0RnEyU1dWVVljMngzWnZPOEZoeWE4ZUNoNXhPUWE4eUQteVZYdVpBT0Q4S0FiaWptdjNvV2cyTkVOQ0w2bWp4QVE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Zika",
         "Dengue",
-        "Chikungunya",
-        "Zika"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -673,7 +673,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "politicadistrital.com.br",
-      "headlineJa": "サンパウロで麻疹の感染者が確認され、ワクチン接種の対象について警告 - politicadistrital.com.br"
+      "headlineJa": "サンパウロで麻疹の感染者が確認され、ワクチン接種の対象範囲について警告 - politicadistrital.com.br"
     },
     {
       "articleId": "gnews_b34a767ae3ef227d",
@@ -694,6 +694,26 @@
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
       "headlineJa": "アメリカ大陸諸国での麻疹流行、ブラジルは厳戒態勢 - Agêcia Brasil"
+    },
+    {
+      "articleId": "gnews_3322cfa79b99632c",
+      "headline": "Quem lê acredita! - Repórter PB",
+      "headlineTranslated": "Whoever reads it believes it! - PB Reporter",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-19T01:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0dNYTd2WmVJMzRiZVVuM2tQZEZ6bWQ3cHRiV1FwbFFtMUE2LTZKRUtIcTVaV2V6VFdKdFhYd3c5TmhUbG9VRF8wRW1KRXhxX0Mza2J2UkN5RzdBNkc1YnNzQVg1aHJNbUxFNUdHVTdzbFZaV0tNM2tnMzFmZGsybE9MZXNycE54MFJtN0dQWldwSmVZTVhzZUFWYmhqQjFLN20yNG5rVERPcXpnWVFlSFlRS1NNNFBBVWM0bERKdUdkQ1hITW9fdEZHZVFkMEJya1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter PB",
+      "headlineJa": "誰が読んでも信じます！ - PBレポーター"
     },
     {
       "articleId": "gnews_242e987418aee574",
@@ -736,21 +756,21 @@
       "headlineJa": "フェリペ・カンポスさん、重体でサンパウロに入院 - CNN Brasil"
     },
     {
-      "articleId": "gnews_59a91255ba3d527e",
+      "articleId": "gnews_26cac83691e744f6",
       "headline": "Casos de sarampo em países da América deixam Brasil em alerta máximo - Bem Paraná",
       "headlineTranslated": "Measles cases in American countries leave Brazil on high alert - Bem Paraná",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-19T01:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXJ0Nm54bnRZaHpiXzV3UTFpSnZxRUdsMHRRTEc2Y1YtekxrajduNzBrN3MzVmo4WlBsLXd4dHVjOFJ2OUJNOEtNeDVWbnA0OG1PRTR4b0Y1V1ozd3FYMzd4NnpQajVCeDFodkpsWV85dnJ2RzV1RTB6WUtBVzhGSWd2SHI5RnMwVHJ3dWVjU05yMlFSSWQzNEozZHFoTWpIOWxpX1RQMmVWQUM4ZEgwbmF4WVJUeWNUanfSAboBQVVfeXFMUDlydDZueG50WWh6Yl81d1ExaUp2cUVHbDB0UUxHNmNWLXpMa2o3bjcwazdzM1ZqOFpQbC13eHR1YzhSdjlCTThLTXg1Vm5wNDhtT0U0eG9GNVdaM3dxWDM3eDZ6UGo1QngxaHZKbFlfOXZydkc1dUUwellLQVc4RklndkhyOUZzMFRyd3VlY1NOcjJRUklkMzRKM2RxaE1qSDlsaV9UUDJlVkFDOGRIMG5heFlSVHljVGp3?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW4yXzdkZmExSUdtc2V6bnhPSEJxdjQ0MFU3YjJ3aF83SC1pSTZNeTdFNFFHUzlCR28wTDZVbzlCWVBQMVVPemhwTzdVbFpiVUQ5dXdNODAtNnZzZFFxT3ZmNDBzemFyMVl0VEZwWnRsaV92WkZMaFo5RGtfaVNxeHVpVmRZMVFyb2tvOVRkVEhVdVQtYU50LUxhd1dHZ052cm0tTlJDTDV3Nmg2b3RFS0JyN0LSAboBQVVfeXFMUDlydDZueG50WWh6Yl81d1ExaUp2cUVHbDB0UUxHNmNWLXpMa2o3bjcwazdzM1ZqOFpQbC13eHR1YzhSdjlCTThLTXg1Vm5wNDhtT0U0eG9GNVdaM3dxWDM3eDZ6UGo1QngxaHZKbFlfOXZydkc1dUUwellLQVc4RklndkhyOUZzMFRyd3VlY1NOcjJRUklkMzRKM2RxaE1qSDlsaV9UUDJlVkFDOGRIMG5heFlSVHljVGp3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Bem Paraná",
@@ -790,8 +810,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Agora RN",
@@ -811,8 +831,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "O Popular do Paraná",
@@ -1156,8 +1176,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -1182,26 +1202,6 @@
       "dataSource": "Google News",
       "sourceName": "Portal Gerais",
       "headlineJa": "ブラジルは麻疹リスクのため厳戒態勢 - Portal Gerais"
-    },
-    {
-      "articleId": "gnews_6e35178b87fff378",
-      "headline": "Saúde está em alerta máximo por aumento do sarampo nas Américas - TC Online",
-      "headlineTranslated": "Health is on high alert due to the increase in measles in the Americas - TC Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T17:30:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUNqN0cxZGo3cEtlYXpQLWNXMnFDRmsyNlh6VTEya01aRHdKcmJPaHdZX01sM3ZGY3prUng1SjhzT3lOeWpoWXJwM1JuMkVXNnBoVWo0ZndTTWNINlpFZ1JwdWh2WnBOdHB1SWM0aE1FYjRqVVhTNTVIckluT3dQRlhhLTB6cnlmb2J2blhNMjVqdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TC Online",
-      "headlineJa": "アメリカ大陸での麻疹の増加により、医療は厳戒態勢にある - TC Online"
     },
     {
       "articleId": "gnews_2b3e627cb9675202",
@@ -1345,26 +1345,6 @@
       "headlineJa": "厳戒態勢：ブラジルは麻疹の蔓延に対する対策を強化 - diaadiaes.com.br"
     },
     {
-      "articleId": "gnews_4dd2f396aaa18d0e",
-      "headline": "Brasil está em alerta máximo devido ao aumento de casos de sarampo nas Américas - Grupo Ceres de Comunicação",
-      "headlineTranslated": "Brazil is on high alert due to the increase in measles cases in the Americas - Grupo Ceres de Comunicação",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T16:26:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEduQkstMTRtaWRTcjhXOUlWWlJwY1Y4RkxWQUotQ3lXbndQUldfUjh2SHVRbE1qNTVwb094Y0NTUzliZFpOMEVOMUVweXBBNlZWVzN1VG5uLU82Tnc3ZVZoQllxU1J0dWNsbWVPYWpEMnFnajQtc2kxN0pjRzgtS2RsLVhNMU8zcEpkOXBEaWQwWHBnWFJ6NWRHMW9tOE15NGZranBzc2EwbXE0X3lqd2NVY1dqcDNo?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Grupo Ceres de Comunicação",
-      "headlineJa": "南北アメリカ大陸における麻疹症例の増加により、ブラジルは厳戒態勢を敷いている - Grupo Ceres de Comunicação"
-    },
-    {
       "articleId": "gnews_8b2166062a4e228d",
       "headline": "América do Sul registra alta de casos de febre amarela e acende alerta de saúde - Rádio Paiquerê FM 98.9",
       "headlineTranslated": "South America records increase in yellow fever cases and raises health alert - Rádio Paiquerê FM 98.9",
@@ -1382,7 +1362,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Paiquerê FM 98.9",
-      "headlineJa": "南米で黄熱病患者の増加を記録し、健康警報を発令 - ラジオ・パイケレFM 98.9"
+      "headlineJa": "南米で黄熱病患者の増加を記録し、健康上の警戒を呼びかけ - ラジオ・パイケレ FM 98.9"
     },
     {
       "articleId": "gnews_9c987ea89dded336",
@@ -1438,8 +1418,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "O POVO PB",
@@ -1503,7 +1483,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Notícias da Lapa",
-      "headlineJa": "デング熱戦闘チーム、バイーア州の敷地内に入ることが可能に - Notícias da Lapa"
+      "headlineJa": "デング熱戦闘チーム、バイーア州の敷地に入ることが可能に - Notícias da Lapa"
     },
     {
       "articleId": "gnews_d64888a46abb8123",
@@ -1607,6 +1587,26 @@
       "headlineJa": "ブラジルは国内での麻疹の蔓延を防ぐために厳重な警戒を続ける - Jornal da Nova"
     },
     {
+      "articleId": "gnews_de4d0ce2a768fb82",
+      "headline": "Notícias - Brasil - Brasil está em alerta máximo devido ao aumento de casos de sarampo nas Américas - PORTAL FARRAPO",
+      "headlineTranslated": "News - Brazil - Brazil is on high alert due to the increase in measles cases in the Americas - PORTAL FARRAPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-18T14:19:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0JpTXhDOUEydW1jZHM1UEJjVjZXVXV6OEZmTVVxQTFTdlNhR1NMeGl4OXp2bDBGNXRpUTRCM1JtVEprUnkxZ2M5U1lwOWhkTXJPV1RacmNqTkRMRWp6VzRQUXAtTmt1a2xxTzdxeW9HaFdXUDZ4ak8xX04wc0NJbW1sRExZX0RpaFFwOTdUSUlMSDNuTUZSSk5sU2ZXcU9fcGdEdUhHTGZoZFhad1JmT0xqLXZqbDB1OC1MQWZtVnBnMHZHcjJHWnBha0t5MXoyeGNXU3dR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PORTAL FARRAPO",
+      "headlineJa": "ニュース - ブラジル - アメリカ大陸での麻疹症例の増加によりブラジルは厳戒態勢 - ポータル ファラポ"
+    },
+    {
       "articleId": "gnews_b8212c41113db78e",
       "headline": "Ministério da Saúde entra em alerta máximo diante do avanço do sarampo nas Américas - Mais FM Iguatu",
       "headlineTranslated": "Ministry of Health goes on high alert given the spread of measles in the Americas - Mais FM Iguatu",
@@ -1644,7 +1644,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "jornaldebarueri.com.br",
-      "headlineJa": "ブラジル、南北アメリカ大陸での感染者増加を受け、麻疹に対する警告を強化 - Jornaldebarueri.com.br"
+      "headlineJa": "アメリカ大陸での感染者増加を受け、ブラジルは麻疹に対する警告を強化 - Jornaldebarueri.com.br"
     },
     {
       "articleId": "gnews_174f56317be6ed22",
@@ -1725,6 +1725,26 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "デング熱対策チームはバイーア州の公共および私有地に立ち入ることができるようになる。メジャーを理解する - G1"
+    },
+    {
+      "articleId": "gnews_926f5a787c15a6e0",
+      "headline": "Confirmação de sarampo em bebê reforça urgência da vacinação - Araraquara News",
+      "headlineTranslated": "Confirmation of measles in a baby reinforces the urgency of vaccination - Araraquara News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-18T13:19:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUFicnFVcmdkUG0zb3ltRkVwaVhPTFBBUnpldkhIeEZ5akVETmlfSkxRLVFORVdPTVZiR3FSVDAxTEJTMUg1N2JxVlBuV1FtSmRmZEpzUmF0alpPWGN5X29XMWlYZFRoOGFNbHFYdGhsb1VxdU1VWnV1cW93N0pKbDl0VXNBcDZ6bjRDcEhrRVJWand6OE9EejdDX3laRUdBM3hIaw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Araraquara News",
+      "headlineJa": "乳児の麻疹確認でワクチン接種の緊急性が高まる - アララクアラニュース"
     },
     {
       "articleId": "gnews_d54377af6a9ffb8d",
@@ -1827,26 +1847,6 @@
       "headlineJa": "アメリカ大陸での麻疹の増加により、健康は厳戒態勢にあります - Portal Cantu"
     },
     {
-      "articleId": "gnews_b6a0cbb2a919fbee",
-      "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - O sul-mato-grossense",
-      "headlineTranslated": "Confirmed case of measles raises alert about vaccination coverage - O Sul-Mato Grosso",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T12:42:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclhCbFpTVjVCWm44TDhmQzhFd3g3ZlU5QUo1V2loaFBNX0tscGI1cGgyRVlnOTBOaEtLQmhTYzRhZ3dSQXpYWDZrWk1VOEVaSm9Ra2Q5TlIyZTF0cEx1Rk1nM3RIMjhuc0RxUU1sZEZsSVJCeWh6OUNGRW8tNEZzWWJTSm1tc1FUTFg2c3lzOE42aDBwejJUZTRIV29MeVBYaGVtbmRZUldfSFp3VU4zRA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O sul-mato-grossense",
-      "headlineJa": "麻疹の感染者が確認され、ワクチン接種の範囲について警戒を呼びかける - オ・スル・マット・グロッソ"
-    },
-    {
       "articleId": "gnews_7d38685e380d50dc",
       "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - Conexão Tocantins",
       "headlineTranslated": "Confirmed measles case triggers warning about vaccination coverage - Conexão Tocantins",
@@ -1865,26 +1865,6 @@
       "dataSource": "Google News",
       "sourceName": "Conexão Tocantins",
       "headlineJa": "麻疹症例確認でワクチン接種率に警告 - Conexão Tocantins"
-    },
-    {
-      "articleId": "gnews_60c7ee2f7fec3ad2",
-      "headline": "Saúde está em alerta máximo por aumento do sarampo nas Américas - Blog do Marcos Dantas",
-      "headlineTranslated": "Health is on high alert due to the increase in measles in the Americas - Marcos Dantas' Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T12:24:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmNuYlktSEdTUmxsa0V1TUtPUk90dWh0a2g4QUY3eHZHNldMeS1nVFQxRFZQb1dFcVhINlo2SjlaSTJiNVBNZ2RrTU1fU1EwOXJ5d2ptaHFicjh3SGM2QlQ4SWtrRS1wWkdaLW5YZE8xTTZWRThoUzVuMTV1Vkh4VmhNQmRKX1VHRDJranFKVkI2eEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Marcos Dantas",
-      "headlineJa": "アメリカ大陸での麻疹の増加により、健康は厳戒態勢になっています - マルコス・ダンタスのブログ"
     },
     {
       "articleId": "gnews_f071c1da76bccdec",
@@ -1924,7 +1904,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Manaus Alerta",
-      "headlineJa": "乳児の麻疹事件でブラジルのワクチン接種率に警鐘 - ポータル・マナウス・アラルタ"
+      "headlineJa": "乳児の麻疹事件でブラジルのワクチン接種率に警鐘 - マナウス・アラルタポータル"
     },
     {
       "articleId": "gnews_ab3035574741e9e6",
@@ -1947,13 +1927,13 @@
       "headlineJa": "麻疹：小さな子どもたちを守るためにワクチン接種に注意 - noticiasdoplanalto.com.br"
     },
     {
-      "articleId": "gnews_837ccd98170afb00",
-      "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - Francês News",
-      "headlineTranslated": "Confirmed measles case sparks warning about vaccination coverage - French News",
+      "articleId": "gnews_dfaa6f4d89b358ad",
+      "headline": "Brasil entra em alerta máximo por causa dos surtos de sarampo nas Américas - Francês News",
+      "headlineTranslated": "Brazil goes on high alert due to measles outbreaks in the Americas - French News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhoMkNrM3RMN1pVdGE3MkZLWnpFZmlPbHd5OFdnbkZHazMtZGZlYmpCV183aGc1WFRoS0xHTXd1LV9lOHJpRzJZYl9JQzV0bWtuNmFMYWdUUC1PWndEb1hJNjM1YmRTWTUxWlBuV18xLWpEb0hMcEJ5NWJqQXZjejRKZV9IWGY3dXdpRHhWZnJfbHFLVlZYM0VUbWFVbzFTLS1XZnZ5M2pRMWc4UlpNMHlKVQ?oc=5",
+      "publishedTimestamp": "2026-03-18T11:54:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOGJwSk1SVHI2VGxYM0ZlUldyRDF2UXNKWmVXa1JFZDA2TTlrblVtTUYxZTBocGxYbEVudC0yY3BJT0NNWTFXem5vQVNvcTVTWkg3OWFuZFFsUDkyUHRXOHdNRHk0eEl6aTg3Wm1femdlNDg4SzJGMF9PLWt1WHlrNW9UNmN4YWs2Qm0xdVNhMEJUTTVRSElZV2JsRGhjaG5PalhfWlpzWHp4VHF6WmhXMWdxUUdSbmFqSWRtVDZPQWQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -1964,7 +1944,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Francês News",
-      "headlineJa": "麻疹症例確認でワクチン接種率に警告 - フランスのニュース"
+      "headlineJa": "ブラジル、南北アメリカ大陸での麻疹流行で厳戒態勢 - フランスのニュース"
     },
     {
       "articleId": "gnews_cdd7d1087bb237a3",
@@ -1976,9 +1956,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3pPMXZObXY2RmdwN05idlFTZWZ0VUhmQkUtUDZZWkhTZ3p4NlBTeFoyU3JTZ29nLUtETjBfY2t3dUxESHdaWEpVY3pYTl9XTU9LNDE4RGNCNFp1V2Uydk9GUGpRZEwybmlQUWNLY3JjWS1STGFkcC1kdy1MeWpIcmRPTVY4aFYwelkyLWpBbUFZSXdUWkpJRFl3Y0pmYk1JMzJsU3V6SFhLaEtfeWlrSUNGckzSAbwBQVVfeXFMUGhLWDlmOVEwY1VRYkVrbklWY0pZNjdsOFM0MVA1X0lTZkF5LWxLZVRKb2NqZkFFd1BybkpnaEg5dzBQYk1JSXF1Vi1uQUFOVFEwSHNlZG9XUGJQUi1QZVQwS18wMm5vOHk2Mll5cGx5OEd3TFVXRFlJdzM5NkN0dmdIdnl1UEYtZ2thLWR3cGFNVVBKU2xsQ2djd0JtaWpFSEpWRnNRZHBxY1NjZVFnSS1nRFFwaTQ1UkwxcGY?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Zika",
         "Dengue",
-        "Chikungunya",
-        "Zika"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -1987,7 +1967,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A TARDE",
-      "headlineJa": "バイーア州、デング熱、ジカ熱、チクングニア熱と戦うための施設へのアクセスに関する規則を作成 - 遅まきながら"
+      "headlineJa": "バイーア州、デング熱、ジカ熱、チクングニア熱と闘うため不動産への立ち入りに関する規則を策定 - 遅ればせながら"
     },
     {
       "articleId": "gnews_159f479b4855dd5c",
@@ -2023,8 +2003,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Maringá Post",
@@ -2064,33 +2044,13 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
         "São Paulo",
-        "Distrito Federal"
+        "Distrito Federal",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal de Brasília",
       "headlineJa": "サンパウロで乳児に麻疹発生、緊急ワクチン接種を警告 - Jornal de Brasília"
-    },
-    {
-      "articleId": "gnews_aaf5243c7665dc73",
-      "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - Jornal O candeeiro",
-      "headlineTranslated": "Confirmed measles case sparks warning about vaccination coverage - Jornal O candeeiro",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T11:34:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjh4b3lPT0dpQVhCSGNGX1lrZjdfMWNMd19DZzV0RjJxdkUyZGNJbnpvUXduX0Y5RjJqWnlGbHk5Z3R0bzZESUZmOXlfeVBYTVhkVGtSdVo5elFKd3l2YURUaTRlM3Bmdm0yUVpSb1A5aFQzcmJQWXFRM3Jrdy1QYWVwZTVIanFnLUJKLUZoc2tsNGdCb0xTYUlWTDBvVVRqM0tqdXFPV2F2UQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal O candeeiro",
-      "headlineJa": "麻疹症例確認でワクチン接種率に警鐘 - Jornal O candeeiro"
     },
     {
       "articleId": "gnews_24eb55f3df04a42d",
@@ -2111,26 +2071,6 @@
       "dataSource": "Google News",
       "sourceName": "Banda B",
       "headlineJa": "ブラジルは2025年に南米諸国の中で黄熱による死亡者数が最も多かった。 PAHO が警報を発令 - バンド B"
-    },
-    {
-      "articleId": "gnews_92043cb01504d888",
-      "headline": "Brasil entra em alerta máximo por aumento do sarampo nas Américas - Portal Tela",
-      "headlineTranslated": "Brazil goes on high alert due to increase in measles in the Americas - Portal Tela",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T11:18:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0hQbFh0SDNQbEpIMGlsWmR0dDJheXRGU184T1R2enE2a2M5MHVYcWVfcXM0SGYyX01XWkM3dDhSRHQ5d1lHUHlPR3h2NVVwTS00b3ZGX0c4ek4tcDYydUR2aUFjYnNscWxCS0FyQlpNTG1RVDNYYnVFVFZFaGMxYk5jLVhWYzZfelM2VjNxT3gxWGUzZUhybXliZjNJZncxTGpvRWQtUTh2RDgtakhDN1lXSXR4WmhsMGtJTUlR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Tela",
-      "headlineJa": "ブラジル、南北アメリカ大陸での麻疹増加で厳戒態勢 - Portal Tela"
     },
     {
       "articleId": "gnews_afec501d22c94e71",
@@ -2193,26 +2133,6 @@
       "headlineJa": "ブラジル、南北アメリカ大陸での感染者増加を受け、麻疹に対して厳戒態勢 - ポータル・マナウス・アラルタ"
     },
     {
-      "articleId": "gnews_ba2b4db893100f1c",
-      "headline": "LEVI SIQUEIRA COBRA AÇÕES E DADOS DETALHADOS DO PODER EXECUTIVO MUNICIPAL NO ENFRENTAMENTO À DENGUE - Gazeta do Triângulo",
-      "headlineTranslated": "LEVI SIQUEIRA CALLS FOR ACTIONS AND DETAILED DATA FROM THE MUNICIPAL EXECUTIVE POWER IN FIGHTING DENGUE - Gazeta do Triângulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T11:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOC1CaTJTc1lzRzdNQmpmRVZBa0VFWjE4UTFrY21hVGRrbTY5bmtGb3NuUlVBNkxZSlFOUXk5VFlDLUFLVVdzc2drZEg1bW1xc2N4aXByVnFLOUxMR1BUQkN5WHV1U1dZcGtRckJFbUNJNEx4RTZLYVExLW9xalhBY1ZuSkI4dmN5dlk4XzBIZmJGQjNjT0JDWFJLWU1pVEpQRFJvcURySjI0bEZXTkFpaEdrTHpXYmhuMC1rLUR4STZBMUxoOUJXRGVFNkhRdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gazeta do Triângulo",
-      "headlineJa": "レヴィ・シケイラ氏、デング熱と闘うために市当局に行動と詳細なデータを求める - Gazeta do Triângulo"
-    },
-    {
       "articleId": "gnews_103e046ce3e7143f",
       "headline": "Saúde está em alerta máximo por aumento do sarampo nas Américas - Agência Brasil",
       "headlineTranslated": "Health is on high alert due to the increase in measles in the Americas - Agência Brasil",
@@ -2272,27 +2192,6 @@
       "dataSource": "Google News",
       "sourceName": "hojemais.com.br",
       "headlineJa": "乳児の麻疹、ブラジルでワクチン接種への警告が再燃 - Hojemais.com.br"
-    },
-    {
-      "articleId": "gnews_137236eabf8934a3",
-      "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - Gazeta do Paraná",
-      "headlineTranslated": "Confirmed case of measles triggers warning about vaccination coverage - Gazeta do Paraná",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-18T09:07:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFdlLU1zNXNLX0Y4ODZNaFZQVWt5Q3FsbVFTQzJtdE1hTV9mSENvb0lTT0xNaTF3N3ZWZFRfbUJZVHBFcTExbmxUWFZFTnBaZFotNVZweUtQMHVtNVVWTzJsV28yWExna1dsX3RaSlhuM082eHJnMjJfTm5jVWZWUkpVcm5tenMySl82bzlMaXUwaTdwWDd3QUlNYmlRbXhxSWs0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gazeta do Paraná",
-      "headlineJa": "麻疹感染者確認でワクチン接種率に警告 - Gazeta do Paraná"
     }
   ]
 }
