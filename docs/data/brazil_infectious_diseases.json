@@ -1,32 +1,72 @@
 {
-  "generated_at": "2026-03-24T05:18:41.226713+00:00",
+  "generated_at": "2026-03-24T10:38:38.763380+00:00",
   "date_range": {
-    "start": "2026-03-22T05:18:41.226713+00:00",
-    "end": "2026-03-24T05:18:41.226713+00:00"
+    "start": "2026-03-22T10:38:38.763380+00:00",
+    "end": "2026-03-24T10:38:38.763380+00:00"
   },
-  "total_articles": 27,
+  "total_articles": 29,
   "state_summary": {
-    "Brasil (estado não identificado)": 16,
-    "Alagoas": 1,
+    "Brasil (estado não identificado)": 17,
+    "Alagoas": 3,
     "Ceará": 1,
-    "Pará": 3,
     "Paraná": 2,
-    "Mato Grosso do Sul": 2,
+    "Pará": 2,
     "São Paulo": 1,
     "Espírito Santo": 1,
     "Goiás": 1,
+    "Mato Grosso do Sul": 2,
     "Pernambuco": 1
   },
   "disease_summary": {
-    "Dengue": 9,
+    "Measles": 9,
+    "Doença infecciosa (não especificada)": 6,
+    "Dengue": 8,
     "Influenza": 2,
-    "Measles": 8,
     "Chikungunya": 4,
-    "Doença infecciosa (não especificada)": 4,
     "Avian Influenza": 1,
     "Oropouche": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_cdf5f7bf2b580487",
+      "headline": "A ameaça do sarampo - O Globo",
+      "headlineTranslated": "The threat of measles - O Globo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-24T07:30:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0JhOEV3blJTTHlldUN1NkJUX2Y5QTkxa0JyRnNHdmtYRzIxLU9NSHdfWG5XazlFMXRlMlE4bmNCWEZMRGVIYzRKREpiXzExOE1nQVBhem9PWG5KdmNFYUdqR01sOUlISTQyeUJqQlJsQzVKMUQ4cjlMRlJGLWlCekhOeTE1Z9IBlAFBVV95cUxOU1hJMGF2SHFybFU3Q1F2WVdPM3kyZHEtOFVTbXBDSUR4MUc0RUJCVzNMMWNzTG1tbkRYTFJpWWY1V0pwM0JnS2VVTGJIbzBGcGtLZlpvTTZDQVFSOFJPR0dOSDU2eG9EWEZzeUNtQnhjLVBzUzJkSlpSbGRtMGtjUUpPNzJNbVpuWjdQMldOdE9CTERY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Globo",
+      "headlineJa": "麻疹の脅威 - O Globo"
+    },
+    {
+      "articleId": "gnews_7c6e4efac963f51d",
+      "headline": "Decisões diferentes podem levar Alagoas ao surto político - Correio do Povo Penedo",
+      "headlineTranslated": "Different decisions could lead Alagoas to a political outbreak - Correio do Povo Penedo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-24T06:28:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzY4NXFQSXMxUjR3RmFxYTRac2tteHZVcnpiU0NwWmd5TmpyRk9hSzRwNVBSdUZMVHVsa0JkWVAyR0w1NS1jZUVWYV9Sb0FaR01pQmNDdmhBMS1yZFV2bEdKUmtxZjRzNHFqd0kwMmpCMVVZOHp2Ym1iWGgtRmRjdjVpeHJTalRQMkZQSTFNTlplRlZtRUtKaWlEaXN3MzJwZGZKdWpuQWliRUt2NTREZUVn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio do Povo Penedo",
+      "headlineJa": "異なる決定がアラゴアス州を政治的勃発に導く可能性がある - コレイオ・ド・ポヴォ・ペネド"
+    },
     {
       "articleId": "gnews_f34c868f8c26a611",
       "headline": "Criança de 5 anos morre com suspeita de dengue na UPA de São Raimundo Nonato - GP1",
@@ -90,7 +130,7 @@
     {
       "articleId": "gnews_08f6aee2828bd894",
       "headline": "Surto de H1N1 leva escola de Maceió a suspender aulas presenciais do 9º ano - cadaminuto.com.br",
-      "headlineTranslated": "H1N1 outbreak leads school in Maceió to suspend face-to-face 9th grade classes - cadaminuto.com.br",
+      "headlineTranslated": "H1N1 outbreak leads Maceió school to suspend in-person 9th grade classes - cadaminuto.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-23T23:04:36+00:00",
@@ -105,7 +145,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "cadaminuto.com.br",
-      "headlineJa": "H1N1感染症の流行により、マセイオの学校は9年生の対面授業を中止 - cadaminuto.com.br"
+      "headlineJa": "H1N1流行によりマセイオ学校は9年生の対面授業を中止 - cadaminuto.com.br"
     },
     {
       "articleId": "gnews_231dd478e44dd1f2",
@@ -126,6 +166,26 @@
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
       "headlineJa": "セアラ州は麻疹の疑いのある症例を調査。セサ氏は病気は制御されていると語る - ディアリオ・ド・ノルデステ"
+    },
+    {
+      "articleId": "gnews_4159e4bb94d42963",
+      "headline": "Homem em surto danifica viatura da Guarda Municipal no Farol - Jornal Extra de Alagoas",
+      "headlineTranslated": "Man in outbreak damages Municipal Guard vehicle at Farol - Jornal Extra de Alagoas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-23T22:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGxwaFRDZ1lxWUlQZUE3U1Q5MlZmTVVQci1mUktRaHhKTTd4RFZoQm1GSjZ5Wk12bDdWUTZ0SWVDX3hjRmZOT0dpM1VQbTlyNy1tU0t6UGR0eGRPbTdNc3VyS0NacndMXzhOOThLSHR5RUc3YmtVWWc0X2xsaVlRRFFqdHNneTA0S0tBckp4eWd0RnR4LWZqV19LQ1RNOUxiX2Y1emFtZnR6RXpPb2R3dm4yQ0lES3ZPYW1R?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Extra de Alagoas",
+      "headlineJa": "感染拡大で男性がファロル市警備車両に損害 - Jornal Extra de Alagoas"
     },
     {
       "articleId": "gnews_b2977693b27a1283",
@@ -161,8 +221,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Curitiba",
@@ -229,26 +289,6 @@
       "headlineJa": "下痢の発生により、サウスカロライナ州のビーチで幼稚園が授業を中止 - レデ・ペペリ"
     },
     {
-      "articleId": "gnews_801b65c5a904eae9",
-      "headline": "Após surto em Dourados, MS passa a integrar a rota de vacinação contra a chikungunya - agorams.com.br",
-      "headlineTranslated": "After outbreak in Dourados, MS joins the chikungunya vaccination route - agorams.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-23T17:50:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTZOUm0wUUVFOHNLRVo5NUgzelJpMWVKT1daQmpOaE9nSkdaUkV2RkFQTVFZQkpKVm1DRTAwNVRkVlA2WkozU3hGaFlWeEE1QTVkVEhmajBJX3hEOGJ2RnJRcTN6NDNqSkdMWXNpbGs1TWNSZHFOVFY1eGRkX2N6cndNemRzeFRKWmYwUTMtcVdyNVVNd3VTTUZMdmZybTUzSmkzRmZNR1ZEZThwV09OOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "agorams.com.br",
-      "headlineJa": "ドウラドスでの発生後、MSがチクングニア熱ワクチン接種ルートに参加 - agorams.com.br"
-    },
-    {
       "articleId": "gnews_e0bff775777ac7e2",
       "headline": "Pantanal entra no radar da gripe aviária após estudo inédito publicado na Nature - RCN 67",
       "headlineTranslated": "Pantanal enters the bird flu radar after unprecedented study published in Nature - RCN 67",
@@ -283,8 +323,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -412,6 +452,26 @@
       "headlineJa": "ゴイアス州では2026年にもデング熱患者が増加し続け、保健当局から警告が発せられる - omaispositive.com.br"
     },
     {
+      "articleId": "gnews_801b65c5a904eae9",
+      "headline": "Após surto em Dourados, MS passa a integrar a rota de vacinação contra a chikungunya - agorams.com.br",
+      "headlineTranslated": "After outbreak in Dourados, MS joins the chikungunya vaccination route - agorams.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-23T12:30:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTZOUm0wUUVFOHNLRVo5NUgzelJpMWVKT1daQmpOaE9nSkdaUkV2RkFQTVFZQkpKVm1DRTAwNVRkVlA2WkozU3hGaFlWeEE1QTVkVEhmajBJX3hEOGJ2RnJRcTN6NDNqSkdMWXNpbGs1TWNSZHFOVFY1eGRkX2N6cndNemRzeFRKWmYwUTMtcVdyNVVNd3VTTUZMdmZybTUzSmkzRmZNR1ZEZThwV09OOA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "agorams.com.br",
+      "headlineJa": "ドウラドスでの発生後、MSがチクングニア熱ワクチン接種ルートに参加 - agorams.com.br"
+    },
+    {
       "articleId": "gnews_be41326433efb023",
       "headline": "Brasil acende sinal de alerta contra o sarampo - G1",
       "headlineTranslated": "Brazil lights warning sign against measles - G1",
@@ -449,7 +509,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Campo Grande News",
-      "headlineJa": "MSにおけるチクングニア熱のワクチン接種：ドウラドスでの発生、3月23日 - カンポ・グランデ・ニュース"
+      "headlineJa": "MSにおけるチクングニア熱に対するワクチン接種：ドウラドスでの発生、3月23日 - カンポ・グランデ・ニュース"
     },
     {
       "articleId": "gnews_6ee011034087a513",
@@ -492,26 +552,6 @@
       "headlineJa": "レシフェでのデング熱の発生を数学がどのように予測し阻止できるか - JC"
     },
     {
-      "articleId": "gnews_0ff62592a937d8e1",
-      "headline": "Imunização que salva: proteja-se com vacinas disponíveis no Brasil - O Dia",
-      "headlineTranslated": "Immunization that saves: protect yourself with vaccines available in Brazil - O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-22T17:57:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHl5cUhINXlHNTNwWU1Eb2QxNU5VM3BaVGZva1pGYlYtRTZBdGpxb1AwYlZ1Nnp6TkxYVGhZcllYWlA1NHdFS3BIRWtLcG04bEVKNnhqQlpsREdCTGRDWm9aT3JDbTBLaUQzQUpGdENpRjdWZFNMMjc2R192SlZ4WEJXTjFUM3VObFAtYVQwaEljQXN4MUVad3VmcVVqUktQVk5YSU9zbmxOcmlQVjk3bWxjRnpfSnowUm5qWkJQLUlCd9IBwgFBVV95cUxPOHl5cUhINXlHNTNwWU1Eb2QxNU5VM3BaVGZva1pGYlYtRTZBdGpxb1AwYlZ1Nnp6TkxYVGhZcllYWlA1NHdFS3BIRWtLcG04bEVKNnhqQlpsREdCTGRDWm9aT3JDbTBLaUQzQUpGdENpRjdWZFNMMjc2R192SlZ4WEJXTjFUM3VObFAtYVQwaEljQXN4MUVad3VmcVVqUktQVk5YSU9zbmxOcmlQVjk3bWxjRnpfSnowUm5qWkJQLUlCdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Dia",
-      "headlineJa": "救う予防接種: ブラジルで利用可能なワクチンで身を守りましょう - O Dia"
-    },
-    {
       "articleId": "gnews_889624ac61152f66",
       "headline": "Com aumento do sarampo, Secretaria de Saúde de Alegrete destaca cobertura vacinal - Portal Alegrete Tudo",
       "headlineTranslated": "With an increase in measles, the Alegrete Health Department highlights vaccination coverage - Portal Alegrete Tudo",
@@ -552,24 +592,24 @@
       "headlineJa": "救う予防接種: ブラジルで利用可能なワクチンで身を守る - Tupi.fm - Super Rádio Tupi"
     },
     {
-      "articleId": "gnews_b3c26e53198b62b5",
-      "headline": "Risco de novo El Niño acende alerta para aumento de casos de dengue no Brasil - Acontece Botucatu",
-      "headlineTranslated": "Risk of another El Niño raises alert for increase in dengue cases in Brazil - Happens Botucatu",
+      "articleId": "gnews_3425eb660d4dbb40",
+      "headline": "Imunização que salva: proteja-se com vacinas disponíveis no Brasil - Correio Braziliense",
+      "headlineTranslated": "Immunization that saves: protect yourself with vaccines available in Brazil - Correio Braziliense",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-22T09:32:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOel9xdGRWTEtERk1la1RoMkVtd1E1dU96dXQzcS0tSWhmaV9VVFBPN2dBZ1JEQmlFYThNSlNWZlBrQ0xkRFZ3RXhVY0RxV3F2dlFSMm1GUGFiWTR5SmV2ZTFSVno1T2ZFX0h2RGF3Mm5rVlpJcV9TUXpXd25LUkcyS005WktEMVk4U29seFdGOEdINVpPVnIxZWx5ZVhoQ19MaUp3alJCN3duSUhWekV0LW02NzFSa0k?oc=5",
+      "publishedTimestamp": "2026-03-22T11:55:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORW5CN05KZ1BfdDc0Q0R0dUJyTGxLSS1DR0pEOGdJR01IVGZHel9zbEtRRnUzTUprOVVsWWlIbXptU2V4ZHAta2dXRjdaNWhPRkExcUo1aGdDYjJxZGlaTmM1S1hlSUtHNk15NW1EY1o3ckMtWi1EZDlWbUo5S2pwRHRNN1hyNkhLVy1SMVVNb0ViNTc2X0x1NkZNUWxQMU9qVmUzTlZDbHFBVG13ajBMN1lHenNIMlNDYVZLY2U5dmVWUDRFSjZuUVN1NWNObHFYREdoUl9ROEhRQdIB2gFBVV95cUxORW5CN05KZ1BfdDc0Q0R0dUJyTGxLSS1DR0pEOGdJR01IVGZHel9zbEtRRnUzTUprOVVsWWlIbXptU2V4ZHAta2dXRjdaNWhPRkExcUo1aGdDYjJxZGlaTmM1S1hlSUtHNk15NW1EY1o3ckMtWi1EZDlWbUo5S2pwRHRNN1hyNkhLVy1SMVVNb0ViNTc2X0x1NkZNUWxQMU9qVmUzTlZDbHFBVG13ajBMN1lHenNIMlNDYVZLY2U5dmVWUDRFSjZuUVN1NWNObHFYREdoUl9ROEhRQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Acontece Botucatu",
-      "headlineJa": "再びエルニーニョ発生のリスクでブラジルでのデング熱感染者数増加への警戒が高まる - Happens Botucatu"
+      "sourceName": "Correio Braziliense",
+      "headlineJa": "救う予防接種: ブラジルで利用可能なワクチンで身を守りましょう - Correio Braziliense"
     }
   ]
 }
