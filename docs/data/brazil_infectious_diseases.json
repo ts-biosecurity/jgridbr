@@ -1,41 +1,42 @@
 {
-  "generated_at": "2026-03-28T02:35:46.735419+00:00",
+  "generated_at": "2026-03-28T08:41:29.056195+00:00",
   "date_range": {
-    "start": "2026-03-26T02:35:46.735419+00:00",
-    "end": "2026-03-28T02:35:46.735419+00:00"
+    "start": "2026-03-26T08:41:29.056195+00:00",
+    "end": "2026-03-28T08:41:29.056195+00:00"
   },
-  "total_articles": 98,
+  "total_articles": 96,
   "state_summary": {
-    "Brasil (estado não identificado)": 36,
+    "Brasil (estado não identificado)": 34,
+    "Acre": 3,
     "Minas Gerais": 1,
     "Mato Grosso": 4,
-    "Pará": 32,
+    "Pará": 30,
     "Pernambuco": 4,
     "Mato Grosso do Sul": 7,
     "Espírito Santo": 1,
     "Piauí": 7,
     "Roraima": 2,
     "Sergipe": 2,
-    "Paraná": 2,
+    "Distrito Federal": 2,
+    "Paraná": 1,
     "Rio Grande do Norte": 3,
-    "Acre": 1,
     "Bahia": 3,
-    "Goiás": 2,
+    "Goiás": 1,
     "Tocantins": 3,
     "Amazonas": 1,
     "Ceará": 1,
-    "Alagoas": 1
+    "Amapá": 1
   },
   "disease_summary": {
     "Chikungunya": 9,
-    "Dengue": 59,
-    "Avian Influenza": 18,
-    "Influenza": 21,
+    "Dengue": 56,
+    "Influenza": 23,
+    "Avian Influenza": 20,
     "Doença infecciosa (não especificada)": 8,
     "Meningitis": 2,
     "Zika": 2,
-    "Measles": 2,
-    "Oropouche": 1
+    "Chagas": 1,
+    "Measles": 1
   },
   "articles": [
     {
@@ -58,6 +59,47 @@
       "dataSource": "Google News",
       "sourceName": "Valor Econômico",
       "headlineJa": "ルーラ首相、スリナム大統領との会談で、デング熱とチクングニア熱に対する物資の送付を発表 - Valor Econômico"
+    },
+    {
+      "articleId": "gnews_1b4868fd1c77ca79",
+      "headline": "Cobertura vacinal contra dengue no Acre fica abaixo do esperado; maioria dos municípios não atinge meta da - oaltoacre.com",
+      "headlineTranslated": "Vaccination coverage against dengue in Acre is below expectations; Most municipalities do not reach the target - oaltoacre.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-27T22:38:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVlJiVS1mcDFiVEJETk5KSXlMcHVtQnJTOEJlcG1rQ2Z0YlB2ZlN5VTJudy1kLU4zOXJkWHMxaGhnUTdyUFNzekRoOU9NSWZYVk0xMkQ2amcyTUhld00tcEhCTVh0Q1hla0NYZVA0UDhJX3ZGSHo4aThWc2ZFYWI3cVEwRFhTQl8yQlJDRk05bml2UDZaVEhOem1xazNfbU92aXdFdG5TR0tQYnFTbEVCWTNEeXMxQy1McHliLUY2Y0Rmb1ZOLUxqckxYcVhyVnFsRFBSRFhGOFfSAd4BQVVfeXFMTVdsZTB2b2hsMUVwNGhHMVlDbVRRbkFsNFU3U1ZxQTNqQkZlNHdKWkdfU1NkcGlseXAycEtlWFVJVmlWdmdkY0tPNU5vMW10b3VIMzY1M2NqWnZQVURNcVk3YU9vUzEzWW81UXYySkY0RWdwaGQ1bjgxVEs4aUlYRFJla2pSVHBDVVpHaFBFNDdyVjVEVGdraDdVTUNReXVLWVN0TDFUazF3alhFdWx0UWtxdlpWQ3dxTUlvcDBzb2FSdmN5Z29STlFSYjdIOFhhS19CSEZId0VjM2VmTkdR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "oaltoacre.com",
+      "headlineJa": "アッコにおけるデング熱に対するワクチン接種率は予想を下回っている。ほとんどの自治体は目標を達成できていない - oaltoacre.com"
+    },
+    {
+      "articleId": "gnews_8ab18c185e114798",
+      "headline": "Mapa prorroga por mais 180 dias o estado de emergência zoossanitária por gripe aviária - CompreRural",
+      "headlineTranslated": "Map extends the state of zoosanitary emergency due to bird flu for another 180 days - CompreRural",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-27T22:30:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcS1hcTVsR1dSa2ptUUQ1QVhLem9wd0ZlemFqNWowWTZRclFhT0Z6bWp4N3djT3hHbHNHNWp5emhRODFKUkhlTmFiMHJzTG52OG1qa2JoZUtqMFQxUmZ5emp5eHVMZmZyM0RFWG9ZaTAtb3NkbXNyaktFQUQ5elZaTkE4eVMxSDc1UUNreFM4aDJtbk9zR3BLTTZmS3hjaXROX1BqYVpmd0trOTNEWnRzSWdvd2FGZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CompreRural",
+      "headlineJa": "地図、鳥インフルエンザによる動物園衛生上の緊急事態をさらに180日間延長 - CompreRural"
     },
     {
       "articleId": "gnews_cdf52529c1808032",
@@ -89,8 +131,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblRQeHJCMlFmS2lDV25Ib3BUVmt0dzAzRENUWDFEWGFnSGdwdFZvNllRQlRCX25LV19MRXcxN05EOGZDQnNGRDlsR3JNaVIwZ2p6S1lpYjd5Rlg5LWNSLWtrOFEtYmNRVHRPNUV3T1EzSTdqbVkxbnowV0xfWVVSdlFpWTllX0lraHdWczRGbWZhbzZoSUk4ZFM2djI3WFZ4djRnOUYyaTcwU29uT0R3RnJB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -141,9 +183,9 @@
       "headlineJa": "モイーニョス・デ・ヴェント病院、デング熱ワクチン研究のボランティアを募集 - GZH"
     },
     {
-      "articleId": "gnews_702f8ff6b60bb4bb",
-      "headline": "MS equipa 79 municípios com bombas para reforçar combate ao Aedes - rcn67.com.br",
-      "headlineTranslated": "MS equips 79 municipalities with pumps to reinforce the fight against Aedes - rcn67.com.br",
+      "articleId": "gnews_4c766d1fcb7849ef",
+      "headline": "MS equipa 79 municípios com bombas para reforçar combate ao Aedes - RCN 67",
+      "headlineTranslated": "MS equips 79 municipalities with pumps to reinforce the fight against Aedes - RCN 67",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T18:39:49+00:00",
@@ -157,8 +199,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "rcn67.com.br",
-      "headlineJa": "MS、ヤブカとの闘いを強化するために79の自治体にポンプを装備 - rcn67.com.br"
+      "sourceName": "RCN 67",
+      "headlineJa": "MS、ヤブカネズミとの戦いを強化するために79の自治体にポンプを装備 - RCN 67"
     },
     {
       "articleId": "gnews_59b7e11188632561",
@@ -174,8 +216,8 @@
       ],
       "locations": [],
       "states": [
-        "Pernambuco",
-        "Pará"
+        "Pará",
+        "Pernambuco"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -195,8 +237,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "capitalnews.com.br",
@@ -368,9 +410,9 @@
       "headlineJa": "ペルナンブコ州のデング熱症例数は2026年初めに12%減少 - city997.com.br"
     },
     {
-      "articleId": "gnews_da2c5860b4fca1fd",
-      "headline": "Influenza aviária e planos de contingência ganham destaque no SBSA 2026 - Feed&Food",
-      "headlineTranslated": "Avian influenza and contingency plans gain prominence at SBSA 2026 - Feed&Food",
+      "articleId": "gnews_45f574f8ba1f1c7b",
+      "headline": "Influenza aviária e planos de contingência ganham destaque no SBSA 2026 - feedfood.com.br",
+      "headlineTranslated": "Avian influenza and contingency plans gain prominence at SBSA 2026 - feedfood.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T14:33:00+00:00",
@@ -381,20 +423,41 @@
       ],
       "locations": [],
       "states": [
+        "Distrito Federal"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "feedfood.com.br",
+      "headlineJa": "鳥インフルエンザと緊急時対応計画が SBSA 2026 で注目を集める - feedfood.com.br"
+    },
+    {
+      "articleId": "gnews_e334b8d4eddcc1e9",
+      "headline": "Emergência por gripe aviária é prorrogada com foco em vigilância e controle - Portal BE News",
+      "headlineTranslated": "Bird flu emergency is extended with focus on surveillance and control - BE News Portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-27T14:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmNHamVpMnFMcmNrbWQ5VjhUS2hsQjRMVzc0cVlLMGxaYURZSExtOHNIUkJzb0xXVVZHQlNzU3M5WFlZWlhMYmVqM3dIdlRPdG0zcDJPWTc5ZmRKekNFYUc0UXd5Z096STE0NEhiRU5KdEFleDVQNGFRZjRQYVNjRE9fMzMyT0tRRjVKR2wzYjZCbC1kQ01JVDdJeUg0UUhYYmplc1BlMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Feed&Food",
-      "headlineJa": "鳥インフルエンザと緊急時対応計画が SBSA 2026 で注目を集める - Feed&Food"
+      "sourceName": "Portal BE News",
+      "headlineJa": "鳥インフルエンザの緊急事態は監視と制御に重点を置いて延長 - BE News Portal"
     },
     {
-      "articleId": "gnews_25b97f13ce15cf9f",
-      "headline": "Prefeitura de Alegrete do Piauí realiza mutirão de combate à dengue e convoca população - portalr10.com",
-      "headlineTranslated": "Alegrete do Piauí City Hall holds a joint effort to combat dengue and calls on the population - portalr10.com",
+      "articleId": "gnews_8249b01c5c5138c6",
+      "headline": "Prefeitura de Alegrete do Piauí realiza mutirão de combate à dengue e convoca população - Portal R10",
+      "headlineTranslated": "Alegrete do Piauí City Hall holds a joint effort to combat dengue and calls on the population - Portal R10",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T13:16:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUVwa3dfbFBJR2JxOXJBWG1maDdUUHk3Y1FhWUZZSEkzak02VEM4b2lRSVk0bkYxT1RSUEQ2Y25qVHNQNEYwNEdJYWdpNHNTNUZQMlA4OWZ4aFlSdjhaVXNjY3NyRW96cnFpdEJnVldNaVNhamY3YXExRGtyd19WWmMwOGEtdHlFYkZCSTZieVFiOTd0cGt6M3kwcGRWaV83TXdIX3dlVFdGamVOREJMd2FDTUZvRUswRERjTkV5SzJsdEtNZjdRbkU1Z0JIMWtRelk3RmRXWDHSAdgBQVVfeXFMTzVFcGt3X2xQSUdicTlyQVhtZmg3VFB5N2NRYVlGWUhJM2pNNlRDOG9pUUlZNG5GMU9UUlBENmNualRzUDRGMDRHSWFnaTRzUzVGUDJQODlmeGhZUnY4WlVzY2NzckVvenJxaXRCZ1ZXTWlTYWpmN2FxMURrcndfVlpjMDhhLXR5RWJGQkk2YnlRYjk3dHBrejN5MHBkVmlfN013SF93ZVRXRmplTkRCTHdhQ01Gb0VLMEREY05FeUsybHRLTWY3UW5FNWdCSDFrUXpZN0ZkV1gx?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb083Z0VmSDQzQzQyVFNvc2xKbHp5cjIxN2ZsWVRFTWxBNmVRTGJiVjBadjNZZ19rZnZEMnZjcVQ1anU5VXlRNGVqUl9hLTRXUHhaX2VFTEstMGJaSjJmdjVXRnBNQ3JYRmNMOHhtWklIWDh5OVRHLWZ1eUd0ZlNJSjJEMmZPeHhldjMwVmdwM3lXQXdYZXE0amplb0RPU3RvSVpxNzF3bUVOYXVTaUlhUklkbDVoczhRMW80ZVVYMTZLb2RqVVJoUklWVUdpR3JDQnY00gHYAUFVX3lxTE81RXBrd19sUElHYnE5ckFYbWZoN1RQeTdjUWFZRllISTNqTTZUQzhvaVFJWTRuRjFPVFJQRDZjbmpUc1A0RjA0R0lhZ2k0c1M1RlAyUDg5ZnhoWVJ2OFpVc2Njc3JFb3pycWl0QmdWV01pU2FqZjdhcTFEa3J3X1ZaYzA4YS10eUViRkJJNmJ5UWI5N3Rwa3ozeTBwZFZpXzdNd0hfd2VUV0ZqZU5EQkx3YUNNRm9FSzBERGNORXlLMmx0S01mN1FuRTVnQkgxa1F6WTdGZFdYMQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -404,8 +467,8 @@
         "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "portalr10.com",
-      "headlineJa": "アレグレーテ・ド・ピアウイ市庁舎がデング熱と戦うための共同取り組みを開催し、住民に呼びかけ - portalr10.com"
+      "sourceName": "Portal R10",
+      "headlineJa": "アレグレーテ・ド・ピアウイ市庁舎がデング熱と闘うための共同取り組みを開催し、住民に呼びかけ - ポータル R10"
     },
     {
       "articleId": "gnews_bc425f327f3a919c",
@@ -417,17 +480,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm5EQXVjcEdQOW9IVWRYSG5PZlkzZXE1aUhMVENOaW5kdGpBSDE4X1kxa3ZfbWYxeVRHN1BSdjdwb3FWbEtXeVZ0NVhJa1FLN1RNbUhScGkxVmRvSmdEakJrb2d3RkZYSGZGTkZUSkdnalBxYV9PQ1Zic3hjYmIwVm5Pb0tFUkNVeXdZa0lvUElhRFJkeVQycWJqR2ZQUkNBbHBIdGJ3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
-        "Paraná",
-        "Pará"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "O Presente Rural",
-      "headlineJa": "アダパル、パラナ海岸で鳥インフルエンザと闘う活動を強化 - O Presente Rural"
+      "headlineJa": "アダパル、パラナ海岸で鳥インフルエンザ対策活動を強化 - O Presente Rural"
     },
     {
       "articleId": "gnews_9a45ea061d7621e1",
@@ -450,9 +513,9 @@
       "headlineJa": "SUSはデング熱診断のための迅速検査を提供 - Gazeta do Cerrado"
     },
     {
-      "articleId": "gnews_aef3fc90df4ae16c",
-      "headline": "Menino de 12 anos morre de dengue no interior do RN - grandeponto.com.br",
-      "headlineTranslated": "12-year-old boy dies of dengue fever in the interior of RN - grandeponto.com.br",
+      "articleId": "gnews_393ae9e5d9b927fb",
+      "headline": "Menino de 12 anos morre de dengue no interior do RN - Grande Ponto",
+      "headlineTranslated": "12-year-old boy dies of dengue fever in the interior of RN - Grande Ponto",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T12:12:00+00:00",
@@ -466,8 +529,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "grandeponto.com.br",
-      "headlineJa": "RN内陸部で12歳少年がデング熱で死亡 - grandeponto.com.br"
+      "sourceName": "Grande Ponto",
+      "headlineJa": "RNグランデ・ポント内陸部で12歳少年がデング熱で死亡"
     },
     {
       "articleId": "gnews_4405587f5bacab41",
@@ -503,8 +566,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "capitalnews.com.br",
@@ -551,25 +614,25 @@
       "headlineJa": "チクングニア熱の流行で先住民が死亡、最大の都市保護区で授業が中断 - Portal Tela"
     },
     {
-      "articleId": "gnews_6dbe5009db21363a",
-      "headline": "Mapa prorroga emergência zoossanitária por gripe aviária por mais 180 dias - Feed&Food",
-      "headlineTranslated": "Map extends animal health emergency due to bird flu for another 180 days - Feed&Food",
+      "articleId": "gnews_f64705ae737a49ec",
+      "headline": "Mapa prorroga emergência zoossanitária por gripe aviária por mais 180 dias - feedfood.com.br",
+      "headlineTranslated": "Map extends animal health emergency due to bird flu for another 180 days - feedfood.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T11:33:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWE1CbUlEYUpiN3ZQQlZENkFONWNoM1AtaWhVVkJwRFl2X3A4bDMxV2JQV1BfQk4wV2VaMV9pdXZXVndoVWdyM0l3VmFuMm91NFFaZERBS0Rwbm1wbDJ3T0FOek5GZkM4c3Q3bmJLdUFLSERXS1pFRmJjNkpNeFBMc1ZvRlJvNjl1dHRSaWJ0OW9PZTJWaldtRjVFclR3SEpU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
-      "sourceName": "Feed&Food",
-      "headlineJa": "地図、鳥インフルエンザによる動物衛生上の緊急事態をさらに180日間延長 - Feed&Food"
+      "sourceName": "feedfood.com.br",
+      "headlineJa": "地図、鳥インフルエンザによる動物衛生上の緊急事態をさらに180日間延長 - feedfood.com.br"
     },
     {
       "articleId": "gnews_5d2269d33939593f",
@@ -585,17 +648,17 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande",
       "headlineJa": "SES、MSのネッタイシマカとの戦いを強化するために150個のバックパック爆弾を送る - A Critica de Campo Grande"
     },
     {
-      "articleId": "gnews_a878f23fc0c1309a",
-      "headline": "Municípios de MS recebem bombas costais para combater o Aedes aegypti - capitaldopantanal.com.br",
-      "headlineTranslated": "Municipalities in MS receive backpack pumps to combat Aedes aegypti - capitaldopantanal.com.br",
+      "articleId": "gnews_9d234c0eeb50297a",
+      "headline": "Municípios de MS recebem bombas costais para combater o Aedes aegypti - Capital do Pantanal",
+      "headlineTranslated": "Municipalities in MS receive backpack pumps to combat Aedes aegypti - Capital of Pantanal",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-27T11:03:00+00:00",
@@ -609,8 +672,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "capitaldopantanal.com.br",
-      "headlineJa": "ミシシッピ州の自治体がネッタイシマカ対策のためバックパックポンプを受け取る - Capitaldopantanal.com.br"
+      "sourceName": "Capital do Pantanal",
+      "headlineJa": "ミシシッピ州の自治体がネッタイシマカ対策のためバックパックポンプを受け取る - パンタナールの首都"
     },
     {
       "articleId": "gnews_4adcb7fbc19a81c6",
@@ -844,8 +907,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3BxS0dnYTNjUW9NWGhTWlhqUkEzX2tOS3VMWm5ReVpQU3A4Rjl5TDZkTmhUSTNtR09GUnp2ckZmY2VfSUkxakxlbkQ4dnBFcGFzYTBIbVNnbVRsVTE3WUVHN0oydGtPbDhtcFBGWTFWZXR0Z2liY3g5eENwTk94eVRwajhBR0pfUnpPNlpWQnJYR3RBM1pVVXhhNA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -874,26 +937,6 @@
       "dataSource": "Google News",
       "sourceName": "Outras Palavras",
       "headlineJa": "ブラジルが立ち上げた健康同盟、最初の焦点としてデング熱を選択 - Other Words"
-    },
-    {
-      "articleId": "gnews_9862c4f2ca43f295",
-      "headline": "Equipe técnica da Sesapi se reúne com municípios da Serra da Capivara para reforçar combate à dengue - Portal Chapada Grande",
-      "headlineTranslated": "Sesapi's technical team meets with municipalities in Serra da Capivara to reinforce the fight against dengue - Portal Chapada Grande",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T20:08:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1YyVHV2ZlpOZndXVXhHRFY4b0thTkRDZ0w2dlRIYkhQNTdTWVVpVkxQcW15aUVENjUzMVEwbVRaUVh3amJMVEFCVEZKSVc2MTk1ZnhUZXkzdVpUcUR1OXhhektvWnNXQXdsbThJVnhuSnQ3a0VYYU94UU5CeTRTZXAyUUZhLUhSNFNjVnFnUV9HT0c3Y09oSlV6NUhhejlyWVd2WTBmYXRnbFp5THVURW9vemhfYzA4T2pyQkoybWRpMlFBdTR2WkR5cUFwX2tvZzc4cUF1U3FzWjA1Umc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Chapada Grande",
-      "headlineJa": "セサピの技術チームがデング熱との闘いを強化するためにカピヴァーラ山脈の自治体と会談 - Portal Chapada Grande"
     },
     {
       "articleId": "gnews_b7fa547199991b79",
@@ -929,32 +972,12 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Midiamax",
       "headlineJa": "マットグロッソ・ド・スル州の11都市がチクングニア熱の流行に直面 - Midiamax"
-    },
-    {
-      "articleId": "gnews_189528a48c3ea308",
-      "headline": "Caso confirmado de sarampo acende alerta sobre cobertura vacinal - avozdaserra.com.br",
-      "headlineTranslated": "Confirmed case of measles triggers warning about vaccination coverage - avozdaserra.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T19:47:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTdpS25HVElDVER4XzVYeGtUeXZKZmYwaXVOUWxkdHdldkZ6RmlRTlZqODN4WnVQT3ZPU3p5S1FUY2F4RmtUcVphM0FsMFlET2hJRW9reER0MXVaT0JDZzBIRk44cG1XUHVJN3VkUFM0VmVZOU51Q3dtWFBfa3g3UDFwYnZNM01nYVJBVWxLdVBXaWo3YjZ1YUNyeXZ4MkNFS0E?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "avozdaserra.com.br",
-      "headlineJa": "麻疹の感染者確認でワクチン接種率に警告 - avozdaserra.com.br"
     },
     {
       "articleId": "gnews_ee95fcb1a8141b38",
@@ -966,8 +989,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2RMQTRpLUxMT2V4YndveHVraWdNTy1oNUtZVHh2Q1lwYVgzZ1B1OHBtQUhQV3BXMTNyS1gta2tEWEJaSS1SODRKRkdLLWp1STZOc2tVdkpzN1NqUmdiRnEwWWNRbE9HM3dWSmpKQklEdlliOXdhaEJVeHZtUG5kNTNWYnpNVHp1OUVUSGwxc1pkcjVWMFVPLWtIdjZGbVZtYlFYZFZuajBPbmZUa0k4cl8xSUYyaWNFRjc5TklnblZleVY3TVhIczZn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1051,17 +1074,17 @@
       ],
       "locations": [],
       "states": [
-        "Tocantins",
-        "Pará"
+        "Pará",
+        "Tocantins"
       ],
       "dataSource": "Google News",
       "sourceName": "Gazeta do Cerrado",
       "headlineJa": "トカンチンスでデング熱が急増、重症者への警戒を呼びかけ - Gazeta do Cerrado"
     },
     {
-      "articleId": "gnews_a01e05fb49eea87b",
-      "headline": "SUS passa a oferecer teste rápido de dengue em todo o país - Portal Gerais",
-      "headlineTranslated": "SUS starts offering rapid dengue testing across the country - Portal Gerais",
+      "articleId": "gnews_97646148ce8b18fa",
+      "headline": "SUS passa a oferecer teste rápido de dengue em todo o país - portalgerais.com",
+      "headlineTranslated": "SUS starts offering rapid dengue testing across the country - portalgerais.com",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-26T18:46:30+00:00",
@@ -1075,8 +1098,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Gerais",
-      "headlineJa": "SUS、全国でデング熱迅速検査の提供を開始 - Portal Gerais"
+      "sourceName": "portalgerais.com",
+      "headlineJa": "SUS、全国でデング熱迅速検査の提供を開始 - portalgerais.com"
     },
     {
       "articleId": "gnews_491db66b5eb188b5",
@@ -1149,8 +1172,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjgtbHcyalc2blBiM0tLdWhhZnJMY3ZVZF9RZG8wVURZY2RxR1ppaUdPQlVpUGFabl8yeUNJd3R5djVaYUlEMVg4VUwxUEhZMmwxMWFpdFFhN2stWW1aaHpGUG9NSTl6MWhXeEg0ZGdIZGZ2MTZYNURTcGR4dVRMVnlrTUt0bnRWekdnRW1lX2lkWXlGQWRtbmhMQWI5dkZ1Tm9v?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1194,8 +1217,8 @@
       ],
       "locations": [],
       "states": [
-        "Pernambuco",
-        "Pará"
+        "Pará",
+        "Pernambuco"
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Recife",
@@ -1235,8 +1258,8 @@
       ],
       "locations": [],
       "states": [
-        "Tocantins",
-        "Pará"
+        "Pará",
+        "Tocantins"
       ],
       "dataSource": "Google News",
       "sourceName": "Jalapão News",
@@ -1252,8 +1275,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTBTTXZHMVZWem16R0szd21Jd2R2VTliQk5tWW90amJqbkxfYWtzNDdXN3ZZYWdCc1pxTDVVcWxtVTFjem9jVnRiT2FBenQyVUpIYy1icXdVeEtlSzM5UElqN0RFUGxiRUpBd1JkYTJxOUpXVHU1MGh5WF9QT1luQ1J3WmtxTjJwV1dndDJ5MENHdDdDblYzWC1NOWo5U2FfaGlvWTNWcWRjUW8?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1293,8 +1316,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3k0R1RSanZYS1pzSHdYa1FJN0h0QkJnUWlkNXZ0X1N3cEVqbEVTdDRiYkF4SXRPWGR6b1ZadjNtOW5KZ09OMlFBSTlON0t5YURDYzM3WjZsbmpuUm1QNFpqeENZaEgydGM2TmV5Z0NVZ1phOTBabEx0cllVSGtUcGdWOWwwbktHVlRsc1V30gGTAUFVX3lxTE50UDMyNHVEdUJtSUNHbGZ5UkRIZk1xSWNPRXNoYXppRmtyX3RzRUtXSGVyZHRBY01TaHp2bWpZSFc2bEcyVWYzQ0VHYnBXS0laMzVHTEFJZHhPSXdEb0JPamJtUWpPN290R0tGb2tPQkg2VUR3Vk5PcXN6OG5rRkZWb2U0YXgtX2NIY0VteUVnVVg1WQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1334,8 +1357,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVThIZVlTdHJGOFJGcHpGblZfNEROd0JuOHRDekdKeW12X1prSHdXcElhSWhfYWZHekV2Nk9zVTE3SkJ1b1E5RzhoWmtQeWR1eW82TFVGTmhwOEtlQUc5VXR3cm9kdXNOc2Ztc3NhaFctNlZjR3JlWnJRVGJUc2lZbHZINTVKOWd1UE40ejNSNUhJVTZ4UTZhQVBxMlFuN053WlplNlk1NWNVaHBHT2pqbTZVeGp0Zm56MkN5WDZ30gHGAUFVX3lxTE9IUnZHVmFUUnNBWkFfRmxRcmVGeU5oYU8xSG8wTlZMY1lDaE5naUR0aURKbnR4NVhDeUh2Q281bmx6d2tpMnU4Z2IyV2U3dzh1TWVNaEJVMV84clcwdVRYZ2U2WDVHa3pRRzRHNFJlVm9ZU2ZmYy1Jc2U5OU4wVkxjaVdyWHZsQXlZcEFGZ3M5SXpjVkZGSUhFX192V3pJcmJFM2p5WTJ5bHdKWXQ3WFhOMHNmTVNxblg2dHJvZ0NuMG1USUtBQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1435,8 +1458,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTG41VjZVaF9TNjBkLTMwRVVabjlvblFvemlQcXgzWlZFRmtzOXkyTUdISWZkUGt6ZFc5OG5wOC1YZ1BqMVEzZkZSdTAyREIyQ3lQNW5PeFB1STd3WjQ1X2k1UGRGUTJ3dllQM29GSFZwa29MaFNGYlNJSnEyTHVEUUxYLXVIcklzOWcyWTM1V29FTDhaSWxJWnRUQkJaU1FqeENSQnRnUWE5NUFZZ25JT1A4cVZBTzJHZjNaQlJTRdIBvwFBVV95cUxOOFhyZHYxZVMxeEV6dFV2SzduM0pZNXB2R2pDckVyMVQ2MjRNdFBQOHhMSzFhSXdyZTVBajJqX2ZMUmRWTUgxRERiVlJVMUwycGJtRUE1a3pFYWstTHJNRm5lVUV5bTVlOGhTakN2VlN3akxwTXRTX2RybWJYRWlUaUlCdDlRWTVNUFBOc3BJbURMSVBHdUtSSlRDT2llb1pkMTFvbmpya0N6ZWdfZDhnQnRPTWxseWpPUV9CU1NoNA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1508,26 +1531,6 @@
       "headlineJa": "デング熱3型感染者が11年ぶりにテレシナに帰還：首都で初の感染者確認 - ジョルナル・ド・ピアウイCV プレイ - CidadeVerde.com"
     },
     {
-      "articleId": "gnews_41b4a09ac4f0b383",
-      "headline": "SUS passa a oferecer teste rápido de dengue - O Dia",
-      "headlineTranslated": "SUS starts offering rapid dengue testing - O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T15:54:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHV1Q1hHYm5vSEZEMWwzenppSnR2N0xSWVFKOFp5a2FUX1ZEV0JtSlNMRXBCUDNIY0EtVnhienJKSU1aOXh5SzVRMkJMejU5SDlycXFELVJ3ekpJRmpMZWJJWW9NbjRfblp6NTVPVG0xMVZHSFotOUV1cUpBaDBrTVZ0U1NBbzZibTgxa2xjUWc2ZnJQYkhTTUtn0gGfAUFVX3lxTE5mLW8zSW0zaFFfMkJvVVAwUDhRVW9sVFBYdTdQVGxsRXlrSnNGZnQ4Q2pJT2JweURsRlEteVN3UXYtbFNSdW4wVjFZWTNPODFLYW5USC1wLXh1QkkwMkl6WExMMkdNZjhNT0p1dC1GMzIya1NKVFF4STBYS3hmXzBzNENUc1lFVGNWVHp6N0VqLUxmejJ4WFdWcElhQlFlMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Dia",
-      "headlineJa": "SUS、デング熱迅速検査の提供を開始 - O Dia"
-    },
-    {
       "articleId": "gnews_b6c956cdd7744f59",
       "headline": "SUS passa a oferecer teste rápido para diagnóstico de dengue na rede pública - Diário da Manhã",
       "headlineTranslated": "SUS starts offering rapid test for dengue diagnosis in the public network - Diário da Manhã",
@@ -1557,8 +1560,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHNuMVh2cjlkNTMtTmQtM0I4SVN3bDNGMmprZVNKMG91RUJXU3dvYW0xTXFrWUdsQWE1SXNhaVpHM3R5UTlyUmo2aUpURnFEU25HTUl5YWItaFFMMEZzWXdaZkc4MU9VbHVtaGZQRGN0VkU0WFZmejk4T2NpNGFPQXU2eEhmblNISHZBNnhtVXVyQmNxakR1NktoRjRLSTdqdTlLMi1hQjRBek94OGNWNk1zTzdtdEZwX25tNlRoZmxJRExBTGdaczQ3MHpHUWhLcGw0VU9kQTY?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1598,8 +1601,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5odWU0MVVJWkUwOGxiTW90VGUwelc2UXVaazRPd2w5dW1aUTJvLXpXNkNONC1HWDd2dlQ4VDZ6dm1sRU84VU5JdlppN3l3REdRa0FvMzFIRzZXNWdYOTI5Q2NoZHZ3djFXV1VnZ21panZfTllPQ2tHcTZzTUJRZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1608,6 +1611,27 @@
       "dataSource": "Google News",
       "sourceName": "ICL Notícias",
       "headlineJa": "農業省、ブラジルの鳥インフルエンザによる非常事態宣言を延長 - ICL Notícias"
+    },
+    {
+      "articleId": "gnews_8afce6badc83d8e9",
+      "headline": "Surto de doença de Chagas é confirmado em Macapá e mobiliza autoridades de saúde - O Alto Acre - oaltoacre.com",
+      "headlineTranslated": "Chagas disease outbreak is confirmed in Macapá and mobilizes health authorities - O Alto Acre - oaltoacre.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-26T15:36:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUUpMMmtILWl4TnZ1cW1qQTJTcjlseTRkSkdCOUhnc2l0aWwtU1FpMkYxdHlMZVNZSTJ4c1owQmlyXzkyZmdkOHJ6UzRNSUV5MXRMbDJNQUxCZS0wYUJLNVFnZUc0U3d3X091N1VMQXRvQ0NMNW9CdXg2SmF5SWs4RjZkbEMySTBfMlBfNlp4VXUzdFpxd01KWjVrQk5HcnVPd1BjZVJn0gGrAUFVX3lxTE5yVkFYekw5VTdFVTlndzBKSV9UYmRyYWFtZURzZV9YQ2JiY3NRblJiUng3YjdFUHZxS0lWVW5TWUJ1ZzBZV3dMaHROeHZVX2ZpX0YxS3llMVEza0ZXUmF2Zk5ET1d6V2N1X2RpSFNKbFVsemZzM01qUzZRT2hmWWVHSVZKdW1ndnJMMGhqdmo4OEl5S3VrbFlpVzhpREt3OTVVcFZIdkNyUkRoZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chagas"
+      ],
+      "locations": [],
+      "states": [
+        "Acre",
+        "Amapá"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "oaltoacre.com",
+      "headlineJa": "マカパでシャーガス病の発生が確認され保健当局が出動 - オ・アルト・エーカー - oaltoacre.com"
     },
     {
       "articleId": "gnews_dc1760f9112735da",
@@ -1619,8 +1643,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1pTdmlWeXZCMXI4RERvSklGYUF6eVlnVDV0SVBrdk00a3JEcFlQd25wZHRNbVc3bEpCbWFrZ25LTnE2X0o1VjVBR00yNXdJemNESnpqb2RYdV91cVFfTFZROG0tTlVhSnkzcEJHMTd6dDlrZE1DaTNOdGhzX1dVSFRlWi1fX2ZWWHdVVTVJU2d4cG5KdkRiMWhOVmZXV2FQSVhaTzJqSTJLVERZTFRNMk1ldHJULW02RXpURmVydw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1668,7 +1692,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Veja Saúde",
-      "headlineJa": "ブラジルではデング熱の迅速検査がSUS表に含まれています。仕組みを見てみましょう - Veja Saúde"
+      "headlineJa": "ブラジルはデング熱の迅速検査をSUS表に含めています。どのように機能するか見てみましょう - Veja Saúde"
     },
     {
       "articleId": "gnews_85139da558bbde41",
@@ -1680,8 +1704,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2ViZjJWX0pZUGpKSTRMNVdDOExyNFMySUY1VHhFR1A2UHV4SkZMZml1b0pDeGlyaERSRzFPbXBkQ3pDYV90Tng1bjNjNTdXRDlVWkFNUmRlMFpiUkJ6UHc2VjlEczgzNVFfNWxFRHE2VkdnZW8wRnYwZ3RIOXFPQ1J5TEdKM0Y1WHg4LUdFblh3SmdkQ202cGZta1BUWVgxcVNWeWFKa1pJUEJBdndUTjB1aw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1712,9 +1736,9 @@
       "headlineJa": "デング熱迅速検査がSUSテーブルの一部に - Agência Brasil"
     },
     {
-      "articleId": "gnews_a2f8b5be1b4df179",
-      "headline": "SUS passa a oferecer teste rápido de dengue - Jornal Extra de Alagoas",
-      "headlineTranslated": "SUS starts offering rapid dengue testing - Jornal Extra de Alagoas",
+      "articleId": "gnews_35499a0a1b1f6a29",
+      "headline": "SUS passa a oferecer teste rápido de dengue - ojornalextra.com.br",
+      "headlineTranslated": "SUS now offers rapid dengue testing - ojornalextra.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-26T15:10:00+00:00",
@@ -1725,11 +1749,11 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Extra de Alagoas",
-      "headlineJa": "SUS、デング熱迅速検査の提供を開始 - Jornal Extra de Alagoas"
+      "sourceName": "ojornalextra.com.br",
+      "headlineJa": "SUS はデング熱の迅速検査を提供 - ojornalextra.com.br"
     },
     {
       "articleId": "gnews_b1ac89797e3b4c3c",
@@ -1741,8 +1765,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTzl2ZmU2U0pLVFQ4QXUxQTJSbXpRMTY5X0xsUE9kcGJNMlZuRWxfZ0hfT2M1Tm5XWnNzdm5YaXFKVTJVc3plRkFTelZtdjBEd0RXZ3Z5V2NrZktFajhZRWlWbl93S3NJNi1kdGh2YWI0M0xqdEJaVFllUUZieWc5Wk05cksxdWJEWG9BT3dZS1JTRml6LTNQb0FSblVVMmpZT0hrcXYtN3RtaXNVREtPWEZHOFJuT0dEeHJOLTNycGJZM0hUWEdWLUJUY3M2TlZkUEV2WDZoSF95cXdVX01V0gHuAUFVX3lxTFAwQlIwVy1ocjdnNXZOVkJXX1NfWUlUSWdtdXl3MEhnWjRuT3NWZFg0Y2x6Y0RFdUZnRkwwcVp6dy1nNXFuMGtvSVJyUjdtTTBRNUxvVlFURVgyS205bzNzUjlKZFdBekRDVjdlRjM1Ml9iM1BRaFQxUW1HaUVDOG92aXBHanIxaXFTSm1QdGFQaVdHT2NZbW9RZHZ5TXJoRFJkdDM0djFqeU9ETmM2bEh4VVlxYzJKNVRjRFpNeFptU09zQnUzbXNHaWF2bnJhSmZNRXFPOWI3WG81NEZIclM3dDVaYndLV0trdlI2aXc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1782,8 +1806,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3RZZHlWMGFLaWVJVHU1dEp5cEpjOXRiS3FDdi00ZzdRckwybGdTajdXRkhiTDZaR3R6VlRnVHNyMlFEeFVVd1NDVzJUUC0xR0ZRVkdtQmd0c1RsWEJ0VWxPWk8zUUJYaGZCMFZVOHprd3E1LWoyUExFUzRob3Q2WGFnX3l2aGwydmZkM3RSUEw3eC11c0IzY0VVT3pxaklvckpyMnBLS1Axd1dZbVZPRFNDREpwZHZzSTdST2VwRFZQV2tXUTFRNG5hMFR3anhs?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1835,25 +1859,25 @@
       "headlineJa": "ペルナンブコ州はデング熱、チクングニア熱、ジカ熱の感染者数の減少を記録 - ReadNow"
     },
     {
-      "articleId": "gnews_7479384919a1ecee",
-      "headline": "Mapa prorroga por mais 180 dias o estado de emergência zoossanitária por gripe aviária - gov.br",
-      "headlineTranslated": "Mapa extends the state of zoosanitary emergency due to bird flu for another 180 days - gov.br",
+      "articleId": "gnews_be66d239ded5d04d",
+      "headline": "Mapa prorroga por mais 180 dias o estado de emergência zoossanitária por gripe aviária - www.gov.br",
+      "headlineTranslated": "Mapa extends the state of zoosanitary emergency due to bird flu for another 180 days - www.gov.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-26T14:02:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmNWNkNUa1RtaGtvSXMzb0ZlREtoaS1tbk9QaVhfSnpzcVFqNE5EYU9IVTRyemtmN2d3RVBnQ0RZSElrUEx1TUR6WWo5RWhpa0N2d0VCTTR2Mm16VDFPVVVJNlh3VjZxX1Z2cERzdE5QeFB5cmNsRUxmREtIQk1ZQU4zS1otNGstdnh4Z1ZBTDlkbzdFWkkwNWZ2MEhRZnFqRU9OQ1ZoanBDSVlOYkFBY3BqbEF6bnVWZ3N5R29FNDY2bzlJY3dSbDVuZWMxS2lURW82V0RTcG4?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "gov.br",
-      "headlineJa": "マパ、鳥インフルエンザによる動物園衛生非常事態宣言をさらに180日間延長 - gov.br"
+      "sourceName": "www.gov.br",
+      "headlineJa": "マパ、鳥インフルエンザによる動物園衛生非常事態宣言をさらに180日間延長 - www.gov.br"
     },
     {
       "articleId": "gnews_b512f7047eb0d6a2",
@@ -1953,7 +1977,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário Indústria & Comércio",
-      "headlineJa": "麻疹：誰が予防接種を受ける必要があるのか​​、そしてブラジルが再び警戒を強化した理由 - Diário Indústria & Comércio"
+      "headlineJa": "麻疹：ワクチン接種が必要なのは誰ですか、そしてブラジルが再び警戒を強化した理由 - Diário Indústria & Comércio"
     },
     {
       "articleId": "gnews_751a6448a1b9f4c9",
@@ -1965,8 +1989,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWxmV0hwREVuTUZpMWpxNHNrcWhtWDdRNVZrb0JVMDg5dnBkR3lPa2xJb1QyLTQ0R0Nhc1Iza2tYUkMyY2VSQTY5TktwTl9KQ25zTk1iam5rMlFKdlZrRzZndDNOSlBCdlJVUzVDdHdfOHZ6cXBuU2xYWG4xY0F1U0hYb21JYVVsNjdZSTU2b2hucVcyaUo4WUFobjhEQXUzZmhUNEgwV1pVUmFscVVkX1dwUUtUd3ZRYXB2TWNPY1NvUdIB0AFBVV95cUxQZVQ4TWJ5WmpVYlpkVzlqVkZRNFVwNmxwUDFiZmhPUXd6VmExSWhDZWZXWmFQVjRyM0FtREJmdF9KTXp1Yzd5Wlp3MmlLTElRcDdTUThhQXRWdjF2YUh2a1VEd2ZqaFFfeGQ2VHBmcWZCYnJmRk1RTlpkNlFjR3VHWkJZS1lKcTB5ZHRmRU5qSEwya3FXVGpUMG9zRko3YzE4bDlEVkFjVllPbnpaOWV1aFV0Y1A5RTd4WndtdWYtVUJ0MjR4MG13eVNIMVpENTV0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1975,67 +1999,6 @@
       "dataSource": "Google News",
       "sourceName": "Globo Rural",
       "headlineJa": "保健省、鳥インフルエンザに対する非常事態宣言を延長 - Globo Rural"
-    },
-    {
-      "articleId": "gnews_195595752a1ee6c4",
-      "headline": "Wolbaquia: cooperação garante adoção de novo método contra a dengue em Curitiba - bemparana.com.br",
-      "headlineTranslated": "Wolbaquia: cooperation guarantees adoption of new method against dengue in Curitiba - bemparana.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T11:33:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXN1MHJzQkp2ckxKcVlyazc5MTVXaEFhVlVjZ2VuYWExSHotX1gzal9FOUpQVm9jX29SYW5jUGVrS001Y0hwZ0lzTW5XR2hxaU1QcEVGak8wOTBhcGtLX3VaTUJkU1pSV012UG96SXdEUHp6R2ZkQWVfOFgwWV9KRUZHSkdtLWloRUxfeGc2a0FJem_SAZgBQVVfeXFMT1RCaFZHM0QwcVdENExRTkl4NW92N0hiYkhnRVIxSlRoS3J6Y2Q2QXVLbUFMVHVENTN4amNVaVlWTnZjaGFjcmxOaHNNQkxWX1NBd0JMMDRLSkpDNHJKQV9IdG9tTDBjODI1Ml9qd0lpbkNKRDVRODQ4c21fTWhxUGRNTV9LVDdTUnQyckxzZHBGbDMtM25iZW4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Paraná",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "bemparana.com.br",
-      "headlineJa": "ウォルバキア：協力によりクリチバでのデング熱に対する新しい方法の採用を保証 - bemparana.com.br"
-    },
-    {
-      "articleId": "gnews_54ee964278a253e0",
-      "headline": "Vírus Oropouche se espalhou por todos os estados brasileiros e já infectou 5,5 milhões, estima estudo - G1",
-      "headlineTranslated": "Oropouche virus has spread across all Brazilian states and has already infected 5.5 million, study estimates - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T08:03:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOFVxTXlUWUVCVTlMZ3VWYTVhWV9Sc1BIRTFTcEx5RWdGM1NtNW5YdGF2dkx1SFRfRVVIT0RyUWZ4SmRrdWFBSGYyUFRkWHJ5ZWpXRkNXRXRUS0pibFhXeGg0azY1bGRlSFQ0REhWeEo4YnVqSGp5RVdXVmsxT2xnUVBNanhwTGlwU2ppS1YxSThrUkJyNXIzMjVOc0gyb3FNV19LeV8zcF9LUl96UmNGTGtLT0V1R3pDa2wzRjN0Q2s3T2tCYlJNdVVLSHk1NzQ3Yktya29nQUFFRmpFa0hFXzFmVmNrWHJPZ3h1WngzcW9jdnVodTAw0gGGAkFVX3lxTE9vcThqQVNXOGtQQUFWelY4S2tkb3pDcWpXYmstOTNBMVBCZk9kX28xcWNjNkVlWk1FcDVSMU0wM0tlMF8tUjdZc2lOeTRBQ000UzBDYUM1N2JVdVo1NHlVZUd4RHpQX2ZzczRIVVRPWVNwcDJZX3pQcFBOb1hYTzNjV2gtR3hmRlFyTUloNnhYR1lua2tHUERCRS1KUXhYT1VGUnRjS240eEQzend5SWxTZTVsX0ZjbkZTRzZsdlB5ZHEwcTRiOEtxNmxaYjVLbTVndWZmeFdGTGFVVUw5OVNxZzlaOHA2bXBZQVlfTVUyclRpMnR1UXNVMHgxUVVza0lWM1NHc1E?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Oropouche"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "オロポーチウイルスはブラジル全州に広がり、すでに550万人が感染している、研究推計 - G1"
-    },
-    {
-      "articleId": "gnews_2a06cfb20403fd8c",
-      "headline": "Prefeitura de Goiânia intensifica combate à dengue com o Dia D de recolhimento de pneus - bombabomba.com.br",
-      "headlineTranslated": "Goiânia City Hall intensifies the fight against dengue with D-Day tire collection - bombbomba.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-26T02:43:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkIwOExUTlpQM0pIUk15ZlZtX0xNdTNDRERJY1diOEN5TTV3NV9xdmJ2cUlFM3AtXzRHYXZxYjVaVHBtVGdGTEl3cVdOaWFVOEtjdkVUVkp3SnNHcmp3Y0R4LUR5a2p2ZGxpTUZlRjJDME9GazYwWkZJdUt3WVdxZ0hrek1IYWRnT0lGVHV0RS1vMDRHQzM1dXZjTXlBMm5CdFQzS2dic2lGWUdJeS1OeDhCeDg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "bombabomba.com.br",
-      "headlineJa": "ゴイアニア市役所、Dデイタイヤ回収でデング熱との戦いを強化 - Bombbomba.com.br"
     }
   ]
 }
