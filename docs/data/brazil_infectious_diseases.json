@@ -1,28 +1,29 @@
 {
-  "generated_at": "2026-03-30T02:52:18.943616+00:00",
+  "generated_at": "2026-03-30T09:14:02.746471+00:00",
   "date_range": {
-    "start": "2026-03-28T02:52:18.943616+00:00",
-    "end": "2026-03-30T02:52:18.943616+00:00"
+    "start": "2026-03-28T09:14:02.746471+00:00",
+    "end": "2026-03-30T09:14:02.746471+00:00"
   },
-  "total_articles": 24,
+  "total_articles": 23,
   "state_summary": {
     "Brasil (estado não identificado)": 16,
     "Piauí": 2,
     "Amazonas": 1,
-    "Acre": 2,
+    "Acre": 1,
     "Goiás": 2,
     "Mato Grosso do Sul": 1,
     "Pará": 1
   },
   "disease_summary": {
-    "Tuberculosis": 3,
+    "Dengue": 8,
+    "Zika": 1,
+    "Tuberculosis": 2,
     "COVID-19": 1,
-    "Influenza": 2,
-    "Avian Influenza": 2,
+    "Avian Influenza": 1,
+    "Influenza": 1,
     "Doença infecciosa (não especificada)": 4,
     "Leptospirosis": 1,
     "Malaria": 1,
-    "Dengue": 7,
     "HIV/AIDS": 1,
     "Measles": 2,
     "Oropouche": 1,
@@ -30,6 +31,27 @@
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_a0fdb3fbdadd799a",
+      "headline": "Dengue, zika, herpes: ao menos 24 tipos de vírus foram transportados em furto na Unicamp, diz TV - Terra",
+      "headlineTranslated": "Dengue, zika, herpes: at least 24 types of virus were transported in theft at Unicamp, says TV - Terra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-03-30T03:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOaDVTbG1GTWxFMmJuVklPSGFFZWtNWmlHOEVBalFTeHF5eWw1WE81VzNWNzN1eDZJcjBxRUJHVFhYcEFacU1mUlpMWmptN1VzczdCamx6WnBfamRxc21Icnd1el8xSXh5dlRlS05KbmlSVi01X1hiMzhiVW0zOEdaWDhvV3Jwd0hwdVh0ZmM0dVh2Z21NNzZXb2EyNjcwUFpHeE5nOEZGNWRwZ19kZ1dtN0ljaHQ3U25uelR1eS1ZZmRoRzE3QXRleGlxbDM3aTY4ZWd5SjhtZGxRQ1UzaDgxREtqMURxMVZSUkJ0dlNILTB2TjhYX25ua3lwUl9ENkxtVmtZV3o4U1M2MEVCS01JT3E2d3E0Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "デング熱、ジカ熱、ヘルペス：少なくとも24種類のウイルスがユニキャンプでの盗難で輸送されたとテレビが語る - Terra"
+    },
     {
       "articleId": "gnews_b9c3fc237d59b73b",
       "headline": "Tuberculose supera 84 mil casos anuais no Brasil e mantém desafio na saúde - Grupo A Hora",
@@ -76,12 +98,12 @@
       "headlineTranslated": "MAPA extends state of emergency due to bird flu for another 180 days - Sapicuá",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-29T21:06:21+00:00",
+      "publishedTimestamp": "2026-03-29T21:08:26+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUVRSzM1cGhFRVdFQzJ3RGRhMWdQY3laaTQzQ2lVM3VtQkItSWZndW1mVGpva2Fua0xCaFhwNFMwZ1haaVhCQ3FmcVY1cVBtbGk2b3lfazJVaGdrOFRDSDMycmtMYWVVMUh4Q0h0eWhJS1A4dkloSDdTNFdiXzhWdmpZUFVJRDZyVk83QjBvdDJWa3NJVUhLdjZqaXBuYjZkWDRiOXVvSTlIZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -141,8 +163,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb09NU0IyVWh1b2lxd1JpN0lwVENBWVg5ODdWZW9leTFGdFBrMGZQMi1lQVZoalpwa2V5M2prQW03UlVHcFMyUC1HNkNaOEJWUkNCV0JZWFY4OFh6eHhvRTNHeVYxU3BWUXUwSDVxeEpZQWo0YzQ5RlltTGVkREV6V3ZqYnNTajBlT0RNbEFiRDZzWjNiR1VMQmJ5OXhJYXltOHBQaGdjNXBkSGROM09lUklzTVRab1FsRVFVNUZRaU9kVGZSXzN30gHHAUFVX3lxTE5vT01TQjJVaHVvaXF3Umk3SXBUQ0FZWDk4N1Zlb2V5MUZ0UGswZlAyLWVBVmhqWnBrZXkzamtBbTdSVUdwUzJQLUc2Q1o4QlZSQ0JXQllYVjg4WHp4eG9FM0d5VjFTcFZRdTBINXF4SllBajRjNDlGWW1MZWRERXpXdmpic1NqMGVPRE1sQWJENnNaM2JHVUxCYnk5eElheW04cFBoZ2M1cGRIZE4zT2VSSXNNVFpvUWxFUVU1RlFpT2RUZlJfM3c?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Malaria",
-        "Dengue"
+        "Dengue",
+        "Malaria"
       ],
       "locations": [],
       "states": [
@@ -202,8 +224,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDBoY0xjWkx4cWR5RFJwLTNlT0I5NzUtX1VDNjJvRk9Ec014NkJRbHI3dzgzS0VJdVUxQjRZdWZLYVdIUjRYTzFpc2xfM1h6VUlXUHZLZnNrWWFKYzZwMXJFajczdFpVMmFiem00RE9jOFlkc0pwdXhXRTUwOUFLdV9ZTjVadks3a0h0QVlHYjB6YXhPTkh2UThHcE9tZ0tITUFr?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "HIV/AIDS",
-        "Tuberculosis"
+        "Tuberculosis",
+        "HIV/AIDS"
       ],
       "locations": [],
       "states": [
@@ -232,26 +254,6 @@
       "dataSource": "Google News",
       "sourceName": "juruaonline.com.br",
       "headlineJa": "クルゼイロ・ド・スル州はアッコでデング熱に対するワクチン接種率が最悪の一つを記録し、公衆衛生上の警戒を呼びかける - juruaonline.com.br"
-    },
-    {
-      "articleId": "gnews_f8779db96d47b25a",
-      "headline": "Tuberculose volta a crescer no Brasil: doença silenciosa já soma 85 mil casos e preocupa especialistas - O Democrata",
-      "headlineTranslated": "Tuberculosis is on the rise again in Brazil: silent disease now accounts for 85,000 cases and worries experts - O Democrat",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-29T11:52:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0FDc1V1d3B2MWJJQlFQTWhOT2lVTkh6X1o3aUM4R2t6XzlJZTVtNWx2S0lBbXBXeGlndFhuOWY2Y3FvQzkzbVRWZnlsX3JWVHhodVlWYzJjcVRBaXV4U25PeUlnTGlRaXZMaGRsdDB5b0FKblBycE40RW9uS0JYM1RUZW9UX1pWUDQ2YzhTWXRNZS1KU1pSUFVsTVJhMTllVjE3YldJMTB1RVlLczJ6YjMxclRCRjdIU1l4UWFVcURNQUlGdi1EZDBMdWU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Tuberculosis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Democrata",
-      "headlineJa": "ブラジルで結核が再び増加中：サイレント疾患の感染者数は現在85,000人を占め、専門家を懸念している - O民主党"
     },
     {
       "articleId": "gnews_c11abf1e88985174",
@@ -352,27 +354,6 @@
       "dataSource": "Google News",
       "sourceName": "TáNaMídia",
       "headlineJa": "11都市で流行中、MSでチクングニア熱による7人目の死亡が確認-TáNaMídia"
-    },
-    {
-      "articleId": "gnews_64e60d01b5a153f3",
-      "headline": "Sem casos no Acre, país segue em emergência por gripe aviária - O Alto Acre - oaltoacre.com",
-      "headlineTranslated": "With no cases in Acre, the country remains in emergency due to bird flu - O Alto Acre - oaltoacre.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-03-28T23:14:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUE5jR3VpRllqS2Fkc0dVZnlsU3pjWmhNQ3VEbjRQUW1VYXY5bzFUMm9ENzRlQkdXSWVrd1k4WF9JVkxWQjllVVhsUjhpRmpjSTNKQmhlOGFkMFZLdF9Rd1Jpc2I1UGdnTWsyRnlZMnJOYkFOdHdtd2ZNOElTUl9oZ2J6RmVRY21JZmdV0gGQAUFVX3lxTE02NHN0TEl0SExVM2pkYzRibTMtdXZfdmNnd3VPaDdSUk5yWDN0TmU5RWxSV2tWQXV3d0dOSlJ3X29RWWo4ai1zRGxfc1RfNkVfRzMta05nVUY5cFdBbnp0cGpXZlBOTGhwcGtHaHVMek5RalphMVdqX2EtYndPNF9GMV96TThWTTczUmVqRUxrcw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "oaltoacre.com",
-      "headlineJa": "エーカーでは感染者は出ていないが、この国は鳥インフルエンザにより非常事態が続いている - オアルトエーカー - oaltoacre.com"
     },
     {
       "articleId": "gnews_8ee20311d8bb1cab",
@@ -476,9 +457,9 @@
       "headlineJa": "PBで中毒を引き起こした疑いのあるピザ屋では細菌に汚染された食品があったと報告書が示す - G1"
     },
     {
-      "articleId": "gnews_cfa7464e984f97b7",
-      "headline": "Prefeitura de Alegrete do Piauí intensifica combate à Dengue com mutirão de limpeza e conscientização - piauiemfoco.com.br",
-      "headlineTranslated": "Alegrete do Piauí City Hall intensifies the fight against Dengue with a cleaning and awareness campaign - piauiemfoco.com.br",
+      "articleId": "gnews_a192e92ef1c25213",
+      "headline": "Prefeitura de Alegrete do Piauí intensifica combate à Dengue com mutirão de limpeza e conscientização - Piaui em Foco",
+      "headlineTranslated": "Alegrete do Piauí City Hall intensifies the fight against Dengue with a cleaning and awareness campaign - Piaui in Focus",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-28T13:06:41+00:00",
@@ -492,13 +473,13 @@
         "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "piauiemfoco.com.br",
-      "headlineJa": "アレグレーテ・ド・ピアウイ市役所、清掃と啓発キャンペーンでデング熱との戦いを強化 - piauiemfoco.com.br"
+      "sourceName": "Piaui em Foco",
+      "headlineJa": "アレグレーテ・ド・ピアウイ市役所、清掃と啓発キャンペーンでデング熱との戦いを強化 - ピアウイ・イン・フォーカス"
     },
     {
-      "articleId": "gnews_d16b0d0c963d1a79",
-      "headline": "Meningite: surto na Inglaterra acende alerta no Brasil e em outros países; médico explica sintomas - atribuna.com.br",
-      "headlineTranslated": "Meningitis: outbreak in England raises alert in Brazil and other countries; doctor explains symptoms - atribuna.com.br",
+      "articleId": "gnews_324f0b49efcddf0f",
+      "headline": "Meningite: surto na Inglaterra acende alerta no Brasil e em outros países; médico explica sintomas - A Tribuna",
+      "headlineTranslated": "Meningitis: outbreak in England raises alert in Brazil and other countries; doctor explains symptoms - A Tribuna",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-03-28T10:08:00+00:00",
@@ -512,8 +493,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "atribuna.com.br",
-      "headlineJa": "髄膜炎：イギリスでの流行によりブラジルやその他の国でも警戒が高まる。医師が症状を説明 - atribuna.com.br"
+      "sourceName": "A Tribuna",
+      "headlineJa": "髄膜炎：イギリスでの流行によりブラジルやその他の国でも警戒が高まる。医師が症状を説明 - A Tribuna"
     }
   ]
 }
