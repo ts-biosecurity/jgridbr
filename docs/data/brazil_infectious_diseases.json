@@ -1,30 +1,156 @@
 {
-  "generated_at": "2026-04-04T08:42:40.303549+00:00",
+  "generated_at": "2026-04-04T16:49:19.320112+00:00",
   "date_range": {
-    "start": "2026-04-02T08:42:40.303549+00:00",
-    "end": "2026-04-04T08:42:40.303549+00:00"
+    "start": "2026-04-02T16:49:19.320112+00:00",
+    "end": "2026-04-04T16:49:19.320112+00:00"
   },
-  "total_articles": 43,
+  "total_articles": 32,
   "state_summary": {
-    "Brasil (estado não identificado)": 20,
-    "Piauí": 3,
-    "Rio de Janeiro": 5,
-    "Pará": 6,
-    "Mato Grosso do Sul": 8,
-    "Mato Grosso": 3,
+    "Brasil (estado não identificado)": 15,
+    "Mato Grosso": 2,
+    "Piauí": 4,
+    "Pará": 5,
+    "Rio de Janeiro": 3,
+    "Mato Grosso do Sul": 3,
     "Ceará": 2,
     "Bahia": 1,
     "Amazonas": 1
   },
   "disease_summary": {
-    "Measles": 15,
-    "Doença infecciosa (não especificada)": 4,
-    "Dengue": 10,
-    "Avian Influenza": 1,
+    "Measles": 11,
+    "Dengue": 8,
+    "Chikungunya": 9,
+    "Zika": 1,
     "Influenza": 4,
-    "Chikungunya": 13
+    "Avian Influenza": 1,
+    "Doença infecciosa (não especificada)": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_2d35708213151cb8",
+      "headline": "Casos de sarampo crescem e preocupam a saúde no Brasil - Portal ABC do ABC",
+      "headlineTranslated": "Measles cases are growing and causing health concerns in Brazil - Portal ABC do ABC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T16:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CQ0tDdXVGREJEbWpkaHEtcUtLYUFlQlhDWDdtaHhNSGdKeXhRNVRLU2REeGV2SDgxejllRVExWkpZM3ZTd1hQSTVBazk3U2FCeS0tODRMVWZ2ZGJJZzBXWkc0dFY0c1F5WXRwMWFSaXQxWGdRc0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal ABC do ABC",
+      "headlineJa": "ブラジルではしかの感染者が増加し、健康上の懸念を引き起こしている - Portal ABC do ABC"
+    },
+    {
+      "articleId": "gnews_2a671307c3d3732e",
+      "headline": "Dengue, Chikungunya ou Zika? Saiba diferenciar os sintomas dessas doenças - band.com.br",
+      "headlineTranslated": "Dengue, Chikungunya or Zika? Know how to differentiate the symptoms of these diseases - band.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T14:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkNZelBDd1R0Z1o3Ym8zUGNsWEd1b1o1WnhQUXlkSkVtWGdoRHl5TzBHWG94d0tTRUp0WVV5M0FqNUdpNmpxY2NwNkIydV9SLTZ4bE1pWHBBQnM2eUVkRUlHWlA4Q29wUmRXaXA1ZmpydTV0ZG1nOHpaRTMtcnFVdzdJQS1Ca0VielBXdGZlVGhLa2xFVFF0SnM5THlGR2ZLRFNjWUNXNjl4SmYtcDNvUUVQak5uN1lRM203ZFBYQXU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya",
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "band.com.br",
+      "headlineJa": "デング熱、チクングニア熱、それともジカ熱？これらの病気の症状を区別する方法を知る - Band.com.br"
+    },
+    {
+      "articleId": "gnews_6b580c4824fbf96e",
+      "headline": "Mato Grosso é o 5º estado com mais casos de dengue e chikungunya no Brasil - Expressão Notícias",
+      "headlineTranslated": "Mato Grosso is the 5th state with the most cases of dengue and chikungunya in Brazil - Expressão Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T14:39:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUVIdVl2OTU5aWlCVVNMNV94Uy1RSFVvVi10VEN2S1duLUdJRGJyVEUtS214Vmx3THplblJFSlhPbTh4eHluWXFYQ0JJMnlZMi1SWXhhSjlJektQT2k5cGg2cU9zdVoyeUNOV3IxYTkwYXNrZXdJekRfaXo2Zkd5U09kQm42RGlUZUxPbTY5YlhyQUxjQ0lxM3hxTUpQbC1CVEZtTndjM3ppdjVfSUhYWDVn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Expressão Notícias",
+      "headlineJa": "マトグロッソ州はブラジルでデング熱とチクングニア熱の感染者数が最も多い州としては5番目に多い - Expressão Notícias"
+    },
+    {
+      "articleId": "gnews_fd8140c64f397397",
+      "headline": "Teste rápido para dengue já está disponível para grupos de risco em Teresina - GP1",
+      "headlineTranslated": "Rapid test for dengue is now available for risk groups in Teresina - GP1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T14:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNm5fUHBDVjlZUkhNTjhoYXdEN0ZIWUlRT3BZQjJmSEFnUFZIV3YwMFlJaVltYk9VM0hXcW90My15VExudFNIS2M5MUtpaF9BcWNTU3FBdnlQN2NHT2pUTTVoOFlTd1ktb2txWFYyR0ZRTGJoUWluMVZXS0NvNnFJWEV6VnYyNzBUZ0J3eDd1b0h6RjZBekdPX3J5RUZSdDlPVmZLN3hab1JQQXRncHpEQkRPcHJNWktZWTRnRnRxZUNVcDdIaC1GZk90UnJBc1HSAdQBQVVfeXFMT05MOUdveGFWUm5reVBMWTdVbzhNVm9OYVlBQnRPcjZ1MFp5ZnMySEdMbEJhU1g4VkhqT0xFSTB5eHhjZ3FPbzFkVHNIY2JoWjMzUENuMVozS3RwSzRjWjlpd0NfdGVDRVFqSmo3LUpSOFRySS1rZDYyYmxIMkRVdVlCN3FTbEd6angtNk5CckgtM0Y4cmpBNEdJa2F1MVluWmUwYXhLRFBOTkZ4NHNWYUR6czZIa2NULTdCZ0xPUkdZUUlXOGhXX2dWY0k5YlpnbloyQUc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "GP1",
+      "headlineJa": "テレシナのリスクグループに対してデング熱の迅速検査が利用可能になりました - GP1"
+    },
+    {
+      "articleId": "gnews_ace444e5d7b2e10a",
+      "headline": "Chile registra caso de gripe aviária; Brasil investiga 4 suspeitas - portal lj",
+      "headlineTranslated": "Chile records case of bird flu; Brazil investigates 4 suspects - lj portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T13:25:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWxQYV81V2ZibmhmaWRySTdrTDJlY3pBLUVHSmYzRDVRV2RuRk9DRTl4QjMycGdaZE5PWThhWmtYMktvZk9kcUNXbEdlWkp1SUFIbHpsSV9vd2pHY0lzYkllRDhqV3pTY3ZWcWhUQnY3a1Y3NVYycWNYV2UzakdYRDBhVXozeWt6dFZaeGV5NWxVbXVDWFpJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "portal lj",
+      "headlineJa": "チリは鳥インフルエンザの症例を記録。ブラジル、容疑者4人を捜査 - ljポータル"
+    },
+    {
+      "articleId": "gnews_5ec60944ecc02674",
+      "headline": "Sarampo preocupa profissionais de saúde e vacinação é principal forma de prevenção - cidade997.com.br",
+      "headlineTranslated": "Measles worries health professionals and vaccination is the main form of prevention - city997.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-04T12:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0VkOTMtclpONWtFOFFRTmZzZllWSktzYVdIdks4dlJiZUNqcmtxVF94Y3FXdHZBSmFxSDVVaGU5dHBuN0t6RGZHMVQ4dHRQMjA0RFFSUjBFLXUxZEJ4dllWRjdsMFlUQUMyX1JGQmk5d3JIVGhxSDdqcnd5d0tmcHg2aThrRW5BamtrZmdlS2FBeUhRWGd5bEcxVmo3QnZvWjFZa3NhSFBQakc0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "cidade997.com.br",
+      "headlineJa": "麻疹は医療専門家を悩ませており、ワクチン接種が主な予防法である - city997.com.br"
+    },
     {
       "articleId": "gnews_f54100578510740e",
       "headline": "Sarampo preocupa profissionais da saúde, mas retorno da doença ao Brasil pode ser evitado - G1",
@@ -43,7 +169,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
-      "headlineJa": "麻疹は医療専門家を悩ませているが、ブラジルへの再流行は避けられる - G1"
+      "headlineJa": "麻疹は医療専門家を心配させているが、この病気のブラジルへの再流行は避けられる - G1"
     },
     {
       "articleId": "gnews_dcd3dd0b1a32f64d",
@@ -66,9 +192,9 @@
       "headlineJa": "麻疹：RJが2026年に初の感染者を確認 - ブラジル61"
     },
     {
-      "articleId": "gnews_a07a79be3a2bbeff",
-      "headline": "Sarampo: RJ confirma primeiro caso da doença em 2026 - sitebarra.com.br",
-      "headlineTranslated": "Measles: RJ confirms first case of the disease in 2026 - sitebarra.com.br",
+      "articleId": "gnews_0e2671f62a1dbd06",
+      "headline": "Sarampo: RJ confirma primeiro caso da doença em 2026 - SiteBarra",
+      "headlineTranslated": "Measles: RJ confirms first case of the disease in 2026 - SiteBarra",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-04T07:00:00+00:00",
@@ -82,28 +208,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "sitebarra.com.br",
-      "headlineJa": "麻疹：RJが2026年に最初の感染者を確認 - sitebarra.com.br"
-    },
-    {
-      "articleId": "gnews_b9b3c057bd7608a2",
-      "headline": "casos crescem, mas combate avança na América do Sul - Jornal Impresso Brasil",
-      "headlineTranslated": "Cases are growing, but the fight is advancing in South America - Jornal Impresso Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-03T21:59:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXJFZXlmMHNvVExLU0lzZEpkVm5MT29GZnVIaUlWNHpKYVRHSG0xbXJ3OE9ncmpwUmhfcTJCa2kzQlhlM01kR3pLWGc0TUNvMEwtQVNTQlQtT1NwUVlHdkRORk1HS0NfTloyQndvYnFvdS1nRERrNlZTd0FsS0VrYjJoZURPSkZxeTVoYm4zVm8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Impresso Brasil",
-      "headlineJa": "感染者は増加しているが、南米では戦いが進んでいる - Jornal Impresso Brasil"
+      "sourceName": "SiteBarra",
+      "headlineJa": "麻疹：RJが2026年に最初の感染者を確認 - SiteBarra"
     },
     {
       "articleId": "gnews_4139d5cb7f865832",
@@ -126,9 +232,9 @@
       "headlineJa": "デング熱の迅速検査はテレシナの UPA と病院で利用可能です - OitoMeia"
     },
     {
-      "articleId": "gnews_1eea3b32f051d6e6",
-      "headline": "Testes rápidos de dengue estão disponíveis em cinco unidades de saúde de Teresina - portalodia.com",
-      "headlineTranslated": "Rapid dengue tests are available in five health units in Teresina - portalodia.com",
+      "articleId": "gnews_cd5106a6c49cb193",
+      "headline": "Testes rápidos de dengue estão disponíveis em cinco unidades de saúde de Teresina - Portal O Dia",
+      "headlineTranslated": "Rapid dengue tests are available in five health units in Teresina - Portal O Dia",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-03T17:36:00+00:00",
@@ -142,8 +248,8 @@
         "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "portalodia.com",
-      "headlineJa": "デング熱の迅速検査はテレジナの 5 つの保健施設で利用可能 - portalodia.com"
+      "sourceName": "Portal O Dia",
+      "headlineJa": "テレジナの5つの保健施設でデング熱の迅速検査が利用可能 - Portal O Dia"
     },
     {
       "articleId": "gnews_20f16d4b8855c927",
@@ -166,25 +272,24 @@
       "headlineJa": "テレシナは現在、UPA と病院でデング熱の迅速検査を提供しています - Portal AZ"
     },
     {
-      "articleId": "gnews_a6808472639250a1",
-      "headline": "Chile registra caso de gripe aviária; Brasil investiga 4 suspeitas - globorural.globo.com",
-      "headlineTranslated": "Chile records case of bird flu; Brazil investigates 4 suspects - globorural.globo.com",
+      "articleId": "gnews_ab90f4f861626ecf",
+      "headline": "MS prepara vacinação contra chikungunya com mais de 46 mil doses para cidades em surto - JD1 Notícias",
+      "headlineTranslated": "MS prepares vaccination against chikungunya with more than 46 thousand doses for cities experiencing outbreak - JD1 News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-03T15:05:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2ROUnRYWXVQSldYM2FmeG14U3ZhQmpLSHRpaEdNVTk0TjJlWG9oUjFHcVJCTXVQTmVsWmxlb3R6Y1FqcDhxZnIwRXdaWVI0TlpmVTRTV0FsMmJXd1FaX25KY3ZyUnBCYkc4N2RrdnFocjNpdk9DRkhWc0ZYRnU0bUFhSFBxbElyYUV5T1EtMWJpb1VVVFR3R2YzOThqdG14cFRfUWFYc3VaeGpSWmV1VlhRWEE3U2laYnp3NS14RGJlNENsSFZsRVh30gHYAUFVX3lxTFBfYk1sYVRTenBRWVZwYkt6RDNqOVlCZFVaZm5YWUFReGo2UmVjckxVRFFiOFFzb3FUNTl1ZnZKYUI0REprUnExZmRMeW1lV1RxZF9jWW9HV19CTG1RSkNZNXlIWjZOa04waHdfQ3hkUlFiakJ5a0FuOUQza2dKdkNnSG1jVXVTWkMwSjRjYmp3MmNkTXFHZnpMMm0zekxJQWh3WkxhSFlQQzE4dkdtMWVlbXpJMUQ5MWFsbjZfeE1zb3ZQa2k2VGNzR280bHkzeUxicHk2WkNOeg?oc=5",
+      "publishedTimestamp": "2026-04-03T15:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDFKcFhmNVNBQVRjMjRFMy1jWWhXclFsUHR4NjZWTWwxTGZXbTNDQXN0WHdjalZJQkxsbEJqLXhCTThub2xjOHlDZGJWWnJJMjdjT0lVdkszSEhWaXNJT1IyMDBkOUFJNEE1X2JlTWhYRjNvR3dPMnVNbzgwUEJhTE9TZkFqc3VtOWlDSFhqSXg1WGlpZ1ZnZHBadGE0UUl3Ym8zY3ZXMkdpdnRxTnpJdQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "globorural.globo.com",
-      "headlineJa": "チリは鳥インフルエンザの症例を記録。ブラジル、容疑者4人を捜査 - globorural.globo.com"
+      "sourceName": "JD1 Notícias",
+      "headlineJa": "MS、流行が発生している都市向けに4万6千回分以上のチクングニア熱ワクチン接種を準備 - JD1ニュース"
     },
     {
       "articleId": "gnews_b5bd8f56da7272dd",
@@ -300,13 +405,13 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
         "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Aquidauana Notícias",
-      "headlineJa": "マトグロッソ・ド・スル州保健省、ドウラドス州とイタポラ州でのチクングニア熱発生を阻止するため4万6千回分のワクチンを動員 - Aquidauana Notícias"
+      "headlineJa": "マトグロッソ・ド・スル州保健省、ドウラドス州とイタポラ州でのチクングニア熱流行を阻止するため4万6千回分のワクチンを動員 - Aquidauana Notícias"
     },
     {
       "articleId": "gnews_1713225678597990",
@@ -389,26 +494,6 @@
       "headlineJa": "麻疹：セアラ州で3月まで調査された疑い例は廃棄された - O POVO"
     },
     {
-      "articleId": "gnews_b9786a27e9b41419",
-      "headline": "Hospital Moinhos recruta voluntários para estudo clínico de vacina contra a dengue em adultos e idosos - Setor Saúde",
-      "headlineTranslated": "Hospital Moinhos recruits volunteers for clinical study of dengue vaccine in adults and the elderly - Health Sector",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-03T01:35:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDZjM1pPQlRGM1JHby1LRWdITm5BNHUyalZZSDZ3MjkxcFlnR3dFcVpnMnFJVmU5Yk56QkNMZ3lNUmFqYWhmWUExeDRFc3M2T2F4MkU5SU1oYkhta2tNV1hGQXBOUTVmWldVX2J2VV9jQjhUSFJlNmh4OVJTV2xfTmVJcE16Nkp1VDRickFJLXlpRFZ2QmxfdmRWbTVuRHNMdmt5UEJwazcwRWplWVJjM042S1RHel9MN3FtNndINnJ4bjk2SFVEdA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Setor Saúde",
-      "headlineJa": "モイーニョス病院、成人と高齢者を対象としたデング熱ワクチンの臨床研究ボランティアを募集 - 保健部門"
-    },
-    {
       "articleId": "gnews_b80e2e68490c402d",
       "headline": "Saúde está em alerta máximo por aumento do sarampo nas Américas - ICL Notícias",
       "headlineTranslated": "Health is on high alert due to the increase in measles in the Americas - ICL Notícias",
@@ -426,7 +511,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ICL Notícias",
-      "headlineJa": "アメリカ大陸における麻疹の増加により、保健衛生は厳戒態勢にある - ICL Notícias"
+      "headlineJa": "アメリカ大陸における麻疹の増加により、健康は厳戒態勢にある - ICL Notícias"
     },
     {
       "articleId": "gnews_c18c6e9978911c22",
@@ -449,29 +534,9 @@
       "headlineJa": "連邦政府、チクングニア熱の流行によりドウラドスで非常事態を認識 - Ciberjornal"
     },
     {
-      "articleId": "gnews_83552180ff6e9bde",
-      "headline": "Sarampo no Brasil volta a crescer e acende alerta com risco alto de contágio - Informe Capixaba",
-      "headlineTranslated": "Measles in Brazil is on the rise again and raises an alert with a high risk of contagion - Informe Capixaba",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T21:59:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDhiUG9UcXVZWDl4SlhOS2lFd2hwcndFRkRmajV4SFppOC13bFlVV05MdlJOazNPR2F6UzVSN3FqcHJ2WGNkV1R3VXlIMTF0Wmk5a19XajJnWXhhQmcwaGN0bjBHMTJGNkE2b0Z1UEJkRDRDQUhNRS1uZHBaTlNrcXZZMWJPd1dPUF93LS1UbU1XLUJXZmdkTFBITjFlZG14SEZ3ZC0wbVVGVGhxUWJKNVJEc1ExcEJ5SHdqX1VkLU4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Informe Capixaba",
-      "headlineJa": "ブラジルではしかが再び増加しており、感染リスクが高いとして警報を発令 - Informe Capixaba"
-    },
-    {
-      "articleId": "gnews_aa7f650c0996b95b",
-      "headline": "Saúde divulga novo Boletim das Arboviroses. Casos de dengue apresentam redução em relação a 2025 - bahiajornal.com.br",
-      "headlineTranslated": "Saúde publishes new Arbovirus Bulletin. Dengue cases show reduction compared to 2025 - bahiajornal.com.br",
+      "articleId": "gnews_dd94cbe1eb41232d",
+      "headline": "Saúde divulga novo Boletim das Arboviroses. Casos de dengue apresentam redução em relação a 2025 - :: Bahia Jornal ::",
+      "headlineTranslated": "Saúde publishes new Arbovirus Bulletin. Dengue cases show reduction compared to 2025 - :: Bahia Jornal ::",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-02T20:51:16+00:00",
@@ -485,8 +550,8 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "bahiajornal.com.br",
-      "headlineJa": "サウーデは新しいアルボウイルス速報を発行します。デング熱患者数は 2025 年と比較して減少 - bahiajornal.com.br"
+      "sourceName": ":: Bahia Jornal ::",
+      "headlineJa": "サウデは新しいアルボウイルス速報を発行します。デング熱患者数は 2025 年と比較して減少 - :: Bahia Jornal ::"
     },
     {
       "articleId": "gnews_cbef6ae01c0f2d31",
@@ -549,9 +614,9 @@
       "headlineJa": "バルネアーリオ・カンボリウはどのようにして 1 年間でデング熱の症例数を減らすことができたのか - NSC Total"
     },
     {
-      "articleId": "gnews_6f14692bf2aaab56",
-      "headline": "Ministério da Saúde confirma caso de sarampo no Rio de Janeiro - portalmanausalerta.com.br",
-      "headlineTranslated": "Ministry of Health confirms case of measles in Rio de Janeiro - portalmanausalert.com.br",
+      "articleId": "gnews_c3adf11aa3f7b375",
+      "headline": "Ministério da Saúde confirma caso de sarampo no Rio de Janeiro - Portal Manaus Alerta",
+      "headlineTranslated": "Ministry of Health confirms case of measles in Rio de Janeiro - Portal Manaus Alerta",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-02T20:04:43+00:00",
@@ -562,12 +627,12 @@
       ],
       "locations": [],
       "states": [
-        "Rio de Janeiro",
-        "Amazonas"
+        "Amazonas",
+        "Rio de Janeiro"
       ],
       "dataSource": "Google News",
-      "sourceName": "portalmanausalerta.com.br",
-      "headlineJa": "保健省、リオデジャネイロでの麻疹症例を確認 - portalmanausalert.com.br"
+      "sourceName": "Portal Manaus Alerta",
+      "headlineJa": "保健省、リオデジャネイロでの麻疹症例を確認 - Portal Manaus Alerta"
     },
     {
       "articleId": "gnews_7d2a667434a66293",
@@ -590,310 +655,25 @@
       "headlineJa": "MSはチクングニア熱ワクチン46,500回分を病気の発生都市に割り当てなければならない - コレイオ・ド・エスタード"
     },
     {
-      "articleId": "gnews_21e367dff57590a3",
-      "headline": "Com surto de chikungunya, Fiocruz também prevê crescimento de casos de gripe em MS - midiamax.com.br",
-      "headlineTranslated": "With chikungunya outbreak, Fiocruz also predicts growth in flu cases in MS - midiamax.com.br",
+      "articleId": "gnews_95c0e22ee941c91b",
+      "headline": "Com surto de chikungunya, Fiocruz também prevê crescimento de casos de gripe em MS - Midiamax",
+      "headlineTranslated": "With chikungunya outbreak, Fiocruz also predicts growth in flu cases in MS - Midiamax",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-02T17:50:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNV8wa2F2LXBieW1oRVhTTWxacnYxbkJUV1hMSTJiWTl1OWdDaTVSNk9aNVlWUDdQNXBoOHdadEZ1a0hmOEN1SEZzdzRvS0o3UnR3NFhlek1pbzB0eVVaNG5JMzdtMXZ2cnY4clIyVzh3VXUxSnhXQm5EZzNOWVVZTjhzUmJmWTFjRTduLXNjUklLTXAzYUdpM25SYjkyc05JYTRkeUlURVI?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "midiamax.com.br",
-      "headlineJa": "チクングニア熱の流行に伴い、フィオクルス氏はMSにおけるインフルエンザ症例の増加も予測 - midiamax.com.br"
-    },
-    {
-      "articleId": "gnews_92fa5c161724f93d",
-      "headline": "Rio de Janeiro tem caso confirmado de sarampo, informa Ministério da Saúde - Rádio Itatiaia",
-      "headlineTranslated": "Rio de Janeiro has a confirmed case of measles, informs Ministry of Health - Rádio Itatiaia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T16:25:47+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmhwTEkzNWFCTDRaaWx2d3VDcm5GbE1ZRGNPbWpFWjJLZVNaVnA2QWQ1eGtlTlhUSDQ1b245eHFpNE5BRXdSbWN6bGFXU2JUeEVkVHhHbF9YTFpQMGxHTm5CNm5fUWxMZTdaRm5ITU9MbG10ZzZNMFBFUW9KVmp5X09nNEJLVDE3Qi1IWUd6OFVaUHBsdFh6LUZPQWMxakZ1SWthTVl4RjVoQ01j?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rio de Janeiro"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "リオデジャネイロで麻疹の感染者が確認されたと保健省に通知 - Rádio Itatiaia"
-    },
-    {
-      "articleId": "gnews_1776daddccd11ed5",
-      "headline": "Combate ao mosquito da dengue no metrô - G1",
-      "headlineTranslated": "Fighting dengue mosquitoes in the subway - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T15:35:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzFkSVBla09uT0lDcGVnUU9pQUlPbFpfZ2FmT3otYTZKR2ZJbm42VzZfSkxhcUh5T3JYN2FiQjB6Vk5HOGlpdmUzYmxRTWVEcHA3eEFLTmV1NW85TGcwV2dKVURPTlpYN2lsa0tzWXV0TU5MajJmZ0hwbzlpWmVReFlxYnRnY0lMMGpRTl93cUdNVEtTdUx3ZkNZa29IQ3lZLTVhV1Jwcl9KblRaNkVsSlIzMXFkNEFucWxKX3R30gG-AUFVX3lxTFBXMWRJUGVrT25PSUNwZWdRT2lBSU9sWl9nYWZPei1hNkpHZklubjZXNl9KTGFxSHlPclg3YWJCMHpWTkc4aWl2ZTNibFFNZURwcDd4QUtOZXU1bzlMZzBXZ0pVRE9OWlg3aWxrS3NZdXRNTkxqMmZnSHBvOWlaZVF4WXFidGdjSUwwalFOX3dxR01US1N1THdmQ1lrb0hDeVktNWFXUnByX0puVFo2RWxKUjMxcWQ0QW5xbEpfdHc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "地下鉄でデング熱蚊と戦う - G1"
-    },
-    {
-      "articleId": "gnews_2d9ad4fd6daa663f",
-      "headline": "MS registra 3,6 mil casos de chikungunya e mais de 2,4 mil de dengue em 2026 - hojemais.com.br",
-      "headlineTranslated": "MS records 3,600 cases of chikungunya and more than 2,400 of dengue in 2026 - Hojemais.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T15:13:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWY1aTVGRGZsdXFDRWNrblZGbXBsODJGZXNpZjRQT25CWmNsTVVObGxyWDc5QzBGOHk3X3d0V1lFWHh4MlhvYmtHaGw0ajg4SWdtQ3VHRk5rUDRlb1RMTVRGMDdYME5faWFMd01iVmFRYnJGZ090cmtyMkJ3aHJLNFU0RGJRU05QNGdiZU9ucWFMYXpSeUg4QnNfeVRITjQtZWNmWVI1b01qQWlpX0hKb0FiYjlHUFZ2MFZUNHZZeklvVDB5VmNB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "hojemais.com.br",
-      "headlineJa": "MSは2026年にチクングニア熱3,600件、デング熱2,400件以上を記録 - Hojemais.com.br"
-    },
-    {
-      "articleId": "gnews_c1d70d559d92419c",
-      "headline": "Mato Grosso do Sul registra 7 mortos por chikungunya em 3 meses - topmidianews.com.br",
-      "headlineTranslated": "Mato Grosso do Sul records 7 deaths from chikungunya in 3 months - topmidianews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T14:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVBEX2VUd09qdnZ2ZmM2WjhNR3JtbG00VlVfSi1DVnpYaHQ4T0JkREpmVWh2aTVjaUNoQ1JDUl9KZlVLVjlFajVVUm1YZllLR1ladlh0ZjA1bTdQU000Sm0wR1U5OUU0SVFsY3pzVjd1eTQzMG9PM0FOa3hmQ0tlYW5OSlRlYlJUM2NkM1dxSjdUcHhfWVdIZjk3YVRqNzVpbm5mT2c5UEp1U0Zyb0HSAbYBQVVfeXFMTTVvZTBQc3RJYmZsT0g4S0sycVVGSkktWHFaOTBTNFg4SnlrRVc3bGZDR0VINWhCd3pEVldJaExlVDF5OVBsM1BDemYyYk4zQjFxS0luX3NVZExsdUxYdFVaMzFncTFXaWxaZmdsR2xKdWRWM2twS1hPXzhFUWxBU0pyRTV5TXRkUTZGLUtXTkdxZnJNa3N6RUVKU3pvSEktX3cxeVotTy1wTzBpYzNuUjFPbU1iQVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
+        "Influenza",
         "Chikungunya"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "topmidianews.com.br",
-      "headlineJa": "マットグロッソ・ド・スル州、3か月でチクングニア熱による7人の死亡を記録 - topmidianews.com.br"
-    },
-    {
-      "articleId": "gnews_738e02c22d559718",
-      "headline": "Ministro visita Dourados para combater surto de chikungunya - Campo Grande News",
-      "headlineTranslated": "Minister visits Dourados to combat chikungunya outbreak - Campo Grande News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T14:44:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmloQ2k0TG9NMlB2bnlkNXFRY0k2bXNQT1hVQ3VVTDI1UEZ3SlA4UHRKcm54d1VZc3NXeDhNR2xBRVMzUkJldWZKanFNQzUzd1BRU04wSS1RcnYxLTBSU0FNQWN5T1N2YlJjMFJNQ1dFVElQcS1odjFxNU84ZDg2dE4zVjc3aDdCNnMzUTV3QWJNaE0tU1lNNkhkZnZxOU5KVmF1YXN5YjdQaW1zSDFZNTVSbV9qUdIBtgFBVV95cUxPMjJITk5La3NVNjN4NFQ2ZmdjZnR6MDNBVXZ6S0huMjI4R2hvU3R5YjB6aHFQVTM2TW1USkt6WWdEUU9RN3pibkpNQmxxdjJaWHRjd1Nyd2NCM3gzR0VYci05cjV0UGxRT3F1b1FfMm5IR1NKb0djZ3dXRF8yUDVaMlZWYzlKb1JVQ1NoRF8tM1ZLYWc0cHJadWtPaFZBZFgwYy1TN3F5YjctdThZWlcyOVhKWmJVUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Campo Grande News",
-      "headlineJa": "大臣、チクングニア熱流行対策のためドウラドスを訪問 - カンポ・グランデ・ニュース"
-    },
-    {
-      "articleId": "gnews_1265051fdb5b2b29",
-      "headline": "Rio confirma caso de sarampo e alerta saúde - ofluminense.com.br",
-      "headlineTranslated": "Rio confirms measles case and warns health - ofluminense.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T13:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sdXVrWlh3aFBfNkF5R0VmM0VRR1pGRmpqT1FxMDhKRHN5RGtSdWw1blZmQkZjOHJ3TFRHbXJGdkN0U09mMFFjMXVEMGF1ZHhHa2hybmpjR3BZdlBhSUJuaGtXbnVVaVJXNzlKeU5scXVzcjBaVGdMd2NHRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "ofluminense.com.br",
-      "headlineJa": "リオ、麻疹症例を確認し健康に警告 - ofluminense.com.br"
-    },
-    {
-      "articleId": "gnews_8a1fb6ecc164df19",
-      "headline": "Ministério da Saúde anuncia caso de sarampo no Rio de Janeiro - Araraquara News",
-      "headlineTranslated": "Ministry of Health announces case of measles in Rio de Janeiro - Araraquara News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T13:39:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnBhalFVZXg5bm5yYzJVOW80YzZ0TjdTaEw3R2JSbnpacDYzX0R6UktRZktadmo0UVpsUTlwZ0gtc2Vnd2d6M2pTQUJJSHBJVE5ENElzQXdvWHM4WF9mM09oaG41LVNPOVFhU0FCb0tQOHNva1UzMHhMbzdTd2o2Nm01RHNlZkd0Qlkza2pKRGdxVmRQMFVPOHBqYjFzc2xmTjByc0dB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rio de Janeiro"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Araraquara News",
-      "headlineJa": "保健省、リオデジャネイロでの麻疹症例を発表 - アララクアラニュース"
-    },
-    {
-      "articleId": "gnews_495c6d5d3df0cb40",
-      "headline": "Caso de sarampo em jovem sem vacina é confirmado no RJ; saiba sintomas - viva.com.br",
-      "headlineTranslated": "Case of measles in young people without vaccination is confirmed in RJ; find out symptoms - viva.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T12:21:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhHTXROR1ZBXzJEc1p2dXM3VnBkX0dKS0ZUS0dzTUMwSzBxa1BEeFVwWDNhdTBuOHJ1WUhBUjR0M2xlSWYzWEZFeDUzRnA3NHktaFpKZ1cyZzZqcEUwYW5xdW1zUDdJR01JZTFmUkhQYUVKMkU3ZUNiSnFNdzV3T1prLV8zX0FUejZlMld5bGRNXzhJNU11Y3RObFQ5bFVKRFNQU1hiN0RmMnB4aXNWdzNR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "viva.com.br",
-      "headlineJa": "ワクチン接種を受けていない若者の麻疹症例がRJで確認された。症状を調べる - viva.com.br"
-    },
-    {
-      "articleId": "gnews_93a09eab82809e5d",
-      "headline": "Inspetor Cabral solicita informações detalhadas sobre ações de combate à dengue e chikungunya em Dourados - agorams.com.br",
-      "headlineTranslated": "Inspector Cabral requests detailed information on actions to combat dengue and chikungunya in Dourados - agorams.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T12:20:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTg1Z3hDYzZGTFdyWHAzRkNLWUc5V0oyX1JqdC1LNFBiWDg0NWJvSmQ1aFg0VXZpd2Jhc2I1aXBtY0RLWVV1a09GZ2M4RTV6RklBczVtbUFGU0hLeFFINU9YZFRabTh3dVBtUFJZVVV0Wl9wckFtWjVDSGNhWUpjVVozYnQzcTNwZ0oyZXFRcXlha1B5c3FNRDhHUDlYbk41WE94LXV0VVliNW9qaU9kT3BPNURrX3RBWUhiNEdCTWpSa3lodDk0dzdlcUxzQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "agorams.com.br",
-      "headlineJa": "カブラル警部、ドウラドス州のデング熱とチクングニア熱と戦うための行動に関する詳細情報を要請 - agorams.com.br"
-    },
-    {
-      "articleId": "gnews_50aea047c9977171",
-      "headline": "Costa Rica lidera casos de dengue em MS e acende alerta na região norte - MS Todo dia",
-      "headlineTranslated": "Costa Rica leads dengue cases in MS and raises alert in the northern region - MS Every day",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T12:13:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRE50aVFBVGswYy1jN2VmNVp6S2tVcnJia0prNmduT1lmWm55R2wyWDFpdDZIb1JBa2dxTFV6YWVSS211MmFlY2dXRU9vQWNFUENEdjJMdzBVeVBEY081NFRIN0JCa3Mtek9wUl9SRjdNbTZpdWNmdl9xdE9mdUVSbk92MXRpcTRCQmNnekJ3QmV5eU1HZFZqTTIzWU9lNlM5bC1OcTJURk1MNlBUOG10S0JvMU5BUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "MS Todo dia",
-      "headlineJa": "コスタリカ、ミシシッピ州でデング熱感染者が増加、北部地域で警戒を強化 - MS Everyday"
-    },
-    {
-      "articleId": "gnews_1ed837401a4e187a",
-      "headline": "Com surto de chikungunya, Dourados e Itaporã vão receber 46,5 mil vacinas - Campo Grande News",
-      "headlineTranslated": "With the chikungunya outbreak, Dourados and Itaporã will receive 46,500 vaccines - Campo Grande News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T12:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkgxY3VNRmRScFE0RWNCbzNLa2xSUk9HVGNSY00wSGpZVkg5bExMaDhXaUdRRDVBbGFLdG1XTEV4VU51RkxIbWtGRG9MQUhmSVo0ZHlibVhta3Y1eGJoNXhpWHR0S2Y2X196RjZwVXM0d2l3ZTBYNWpqc1QxcXFBR0NQWDR5Nm9mYWdBY1pqdktTSll3X3AxTmZmYTgyRW9ta2dEdHl2Z2w4b1ljX2FWRWZUdlZDY3JKZlN4RlA3Zm9IZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Campo Grande News",
-      "headlineJa": "チクングニア熱の流行により、ドウラドスとイタポラは46,500回のワクチンを受け取ることになる - カンポ・グランデ・ニュース"
-    },
-    {
-      "articleId": "gnews_1a4790c8ae41b2c8",
-      "headline": "Mato Grosso do Sul confirma 7 mortes por chikungunya em 2026 - Jornal da Nova",
-      "headlineTranslated": "Mato Grosso do Sul confirms 7 deaths from chikungunya in 2026 - Jornal da Nova",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T12:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1JZUFZHV05KSzJieUhEYkM3NjBaTlcwQVZGSEFDT2xSTDlEbUNFX2VYRDFmdnlXV2hJN1h1cHhjTG5qanhUdU9rWW9BLWVuMUQ3Mlg4alU3T0NjOXVFajl1WW51REFvWk16VktFZTRESUV2b3h3V1JnOWVjZDhpY2FrOXQzNTZJMHlkb0dPbVpkcjh0dU13M25Zc0tuNVphSjlIR19R?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da Nova",
-      "headlineJa": "マットグロッソ・ド・スル州、2026年にチクングニア熱による7人の死亡を確認 - Jornal da Nova"
-    },
-    {
-      "articleId": "gnews_b0ce9d327a5d1a0e",
-      "headline": "Brasil registra novo caso de sarampo no Rio, mas mantém controle da doença - 93fmbq.com.br",
-      "headlineTranslated": "Brazil records new case of measles in Rio, but maintains control of the disease - 93fmbq.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T11:59:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHBzYm5vRDB6TUVpOFFhYXBONUVuR1llSjU1OFpwTlhYcFBZZzlzZG1TSmxJd05kQ25oalBwMTBJUW9qSXlIQmZrTVRMOGNMZ1NWUnl6WVduU3puOXd0c3pYeVdqWnNwUjI5MjJyQTRXNmN3bXZqRHY4amg1c1ROaHZuc3p6akhMRF9ObnN1OU10dFpCM2JvVHNWWlNsZFZrYVVNN0xMbkI?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "93fmbq.com.br",
-      "headlineJa": "ブラジル、リオで新たな麻疹患者を記録、しかし病気の制御は維持 - 93fmbq.com.br"
-    },
-    {
-      "articleId": "gnews_ab0ee975cac3806c",
-      "headline": "Casos de chikungunya seguem disparando em MS e já somam 7 mortes - jd1noticias.com",
-      "headlineTranslated": "Cases of chikungunya continue to skyrocket in MS and already total 7 deaths - jd1noticias.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-02T10:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObERsbm41eEhCNGdjWms2WjBGdm1PSzlXUURoVHB2RjBMYktmc3N5NVhBbk8wNnpTUk9GR2lzOHBsd3ltdElpQ0wtay1ici1nRHdkZHY4U2RXb2hyN1U1ZHBLLUU3QXRWekVodlJNb1BDdFJzM09LSXNsMHJLb0ZsT3VGY2J0d3FDTWtJY1VFUE1uRm1WZkxjTFRqNW4xc2FyTGNHZkxnLTNCUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "jd1noticias.com",
-      "headlineJa": "MSではチクングニア熱の症例が急増し続けており、すでに合計7人が死亡している - jd1noticias.com"
+      "sourceName": "Midiamax",
+      "headlineJa": "チクングニア熱の流行に伴い、フィオクルス医師はMSにおけるインフルエンザ症例の増加も予測 - Midiamax"
     }
   ]
 }
