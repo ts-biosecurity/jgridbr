@@ -1,26 +1,149 @@
 {
-  "generated_at": "2026-04-07T17:13:33.538386+00:00",
+  "generated_at": "2026-04-08T02:48:00.566430+00:00",
   "date_range": {
-    "start": "2026-04-05T17:13:33.538386+00:00",
-    "end": "2026-04-07T17:13:33.538386+00:00"
+    "start": "2026-04-06T02:48:00.566430+00:00",
+    "end": "2026-04-08T02:48:00.566430+00:00"
   },
-  "total_articles": 19,
+  "total_articles": 23,
   "state_summary": {
-    "Rio de Janeiro": 1,
+    "Bahia": 3,
+    "Minas Gerais": 1,
+    "Rio de Janeiro": 2,
     "Brasil (estado não identificado)": 14,
     "Goiás": 2,
-    "Pará": 2,
-    "Bahia": 1
+    "Pará": 2
   },
   "disease_summary": {
-    "Measles": 5,
+    "Influenza": 2,
+    "Dengue": 9,
+    "Measles": 6,
+    "Meningitis": 1,
+    "Oropouche": 1,
     "Doença infecciosa (não especificada)": 4,
-    "Dengue": 6,
-    "Chikungunya": 1,
-    "Influenza": 3,
-    "Avian Influenza": 2
+    "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_beb99a15f4a76dbf",
+      "headline": "Surto de gripe na Bahia: o que explica o aumento de 185% nos casos em 2026 - A TARDE",
+      "headlineTranslated": "Flu outbreak in Bahia: what explains the 185% increase in cases in 2026 - THE AFTERNOON",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T23:03:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVlB5dnFCa0FNV201S2ZHd3hkb09ITUZaRkJpb3pfYzZ4WE8tYWtVMGJEbzdPYTlzdEhTSGtnbTVaWE02Q1B4b0xja0I4MjBoQVJpbktyZlh0d21zMlZXRDlUaE5xTDNfSUZNZjFzYTA5c2owZzM5QWJ6U1g0QXA0bHAzNVc0NnFJbHczaGtYSlViNDRrZF9vTS1WbHdUQWlkRWZPQjF5TG1fUnJC0gG0AUFVX3lxTE9FNkowamJXd3B5eGNoc0hRcndtVEZmeFdDejNtX01ld0lBZnpyQXJlUEQtZnFSaWdIcXUyVDZCSFZza1NTM1lMSW9od3cwRnlvYUZwLTZpdDJ3MFI2Sk5lWkZpeWx1ZmUxLWZ2UUthYjhMaWszU3kzbE5yT296dXlTTElzTEFJalhkWjVzcGcyNVBta1o0UGRXbndSYUxfTUJ4RUdSOGJvNktZUHJWcmI3Zjh6bQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A TARDE",
+      "headlineJa": "バイーア州でのインフルエンザ大流行: 2026 年の感染者数 185% 増加の説明 - THE AFTERNOON"
+    },
+    {
+      "articleId": "gnews_c0d981099d61312c",
+      "headline": "Minas Gerais tem mais de 13 mil casos confirmados de dengue em 2026 - Rádio Itatiaia",
+      "headlineTranslated": "Minas Gerais has more than 13 thousand confirmed cases of dengue in 2026 - Rádio Itatiaia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T19:29:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGlIMmZWdWtVNHVDQ2s3UFZRUUxpUUhDQjE0UU1IenBCeHNId0RhY3hUWmlwQUhoR0tYVENnN09DZDNoODd0T3dBQW1Yampib2thT0RMNi1FN1ppQThXVnlzX2NyUVFRMTY1eHRzSGV4S2xYZTNYYXM5X19DdXBLbWpJQWdTdGtXRHAyV3ZIdTNrMGxqSGgxTnlmTlBiRXh6RXIzdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Minas Gerais"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia",
+      "headlineJa": "ミナスジェライス州では、2026年に1万3千人以上のデング熱感染者が確認されている - Radio Itatiaia"
+    },
+    {
+      "articleId": "gnews_cd23f1ef5ee4ed82",
+      "headline": "Ministério da Saúde confirma caso de sarampo no Rio de Janeiro - CREMERJ News",
+      "headlineTranslated": "Ministry of Health confirms case of measles in Rio de Janeiro - CREMERJ News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T19:19:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWNYdXBhaUFmckhDY3hmRFVYbnNFbVB0MjhCY2JtRTI1NnpGWlpodXVzUkIyU1N2Yk5DMWMxcHJnZ1lPaHJGNFptb0IxcWlXQ1RldjlyY1VWVVdidmc3N3dRWjRQY2FEa1lhZ1JSZFNFcGdPZXZCVVoxME9XUmQxeDlOQUVXVWxqVFZ0amRsUG4xeHNnOUpGRUZJQnFpVjNtUkIzaw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Rio de Janeiro"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CREMERJ News",
+      "headlineJa": "保健省、リオデジャネイロでの麻疹症例を確認 - CREMERJ News"
+    },
+    {
+      "articleId": "gnews_2f7952e1efe2abfa",
+      "headline": "Santa Luzia do Norte confirma caso de meningite e inicia monitoramento - Francês News",
+      "headlineTranslated": "Santa Luzia do Norte confirms case of meningitis and begins monitoring - Francês News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T19:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2FoZ19zVzhKQkh6Vk13aHp3NXdTZjhMSF81MmtyRFNNUWxreDhaaDlmMHZZUld6UzJQd2dlM0pSOW92N3dxSkZaejVyZ0N5QVdYYjhDOTJ5eV9RcjZGbnllbjdlenNOOWYyX3BkMDZOd1BaaHZ4ZU01VjFMdjRuOTZoR3M2MlpudmJDQnNxOUd6bFdfMUJOWURLQXBVRUEwMUNZOW5iNHhDYmZVaWdjci1laUxaX25PUUpV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News",
+      "headlineJa": "サンタ・ルジア・ド・ノルテ州、髄膜炎の感染を確認、監視を開始 - フランシス・ニュース"
+    },
+    {
+      "articleId": "gnews_03cd887cd400d326",
+      "headline": "Vírus Oropouche volta a se espalhar pelo Brasil, avança silenciosamente com mosquito quase invisível e preocupa pela semelhança com dengue - CPG Click Petróleo e Gás",
+      "headlineTranslated": "Oropouche virus is spreading again across Brazil, advancing silently with an almost invisible mosquito and worrying due to its similarity to dengue fever - CPG Click Petróleo e Gás",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T19:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1ZoZ3hxbERUVHJ5aHBibG9PRHJ4aEJ2S0M3MzB3ZkNSaU5CejJtV05TdFptRjVJLTl4N2kwbmN5X0cyOWVyN0ZlenByRTBmRDBKSzBxNG9jUG05VUdrejBISWNWdDBGSm1mNHR0ckxLeHIzNWl5bEk4TjRld1ZPMzJiWEJrZk9YUGxNbHlnbGFzSFhYbDF3YTlUczVsMjNSNGNIZWxQQ1l4OGVkXzRXOEw0WmstRXNpX2FZNUtHRGFSVmNTdUQ2R1Z1S01QSWJQY1RoUXJNRVVpX3NHVE00T1hvZ3dkRENWS2FGc0loUXVKWUlLaVhZRklNc1pHSDJLcWRBaHVVTQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Oropouche",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CPG Click Petróleo e Gás",
+      "headlineJa": "オロポーチウイルスがブラジル全土に再び蔓延しており、ほとんど目に見えない蚊とともに静かに進行しており、デング熱との類似性により懸念されている - CPG Click Petróleo e Gás"
+    },
+    {
+      "articleId": "gnews_9eb3bd534bcecb69",
+      "headline": "Paciente com doença renal crônica tem maior risco de ser hospitalizado e morrer ao contrair dengue, aponta estudo - Jornal da Unesp",
+      "headlineTranslated": "Patients with chronic kidney disease have a higher risk of being hospitalized and dying when they contract dengue, study shows - Jornal da Unesp",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T17:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzJ6cHJTbWlrRGFZeFNYckNLU0Q0a25fcElrcHdubFM5VVVvMVhnLVo2bG5BOTRsX0J2eXFLczZWSm5wN0YyVWZsdDRXRGxOa3VhWG5qcnVrNmRGZ3FJUThLV0UxSW5qcFVyVjhKN2RhQ0I3eExEYU1OQnJIUG5LaE53dmZoS2ZlR3lpRWFfaWRRTXp2c201YWhtZWhPa1lZUkc3RnI2V0hXR1pJZEExVFBBRFc1dGdTbnJnLU9sXy1qQUFwQXlSaTdVM1NZYlZfV204Ukd0X2ZhMEVpRlNRVnJR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da Unesp",
+      "headlineJa": "慢性腎臓病患者はデング熱に罹患すると入院して死亡するリスクが高いことが研究で判明 - Jornal da Unesp"
+    },
     {
       "articleId": "gnews_12456825738aac30",
       "headline": "Ministério da Saúde confirma caso de sarampo no Rio de Janeiro e reforça vacinação e vigilância epidemiológica - Portal Farmacêutico - PFARMA",
@@ -122,6 +245,25 @@
       "headlineJa": "ゴイアニアのデング熱症例数は今年1万件を超える - CBN ゴイアニア"
     },
     {
+      "articleId": "gnews_56053990a84c5cbb",
+      "headline": "Casos de sarampo acendem alerta, mas avanço pode ser evitado - Folha do Estado da Bahia",
+      "headlineTranslated": "Measles cases raise alarm, but progress can be avoided - Folha do Estado da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-07T12:02:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVpqNXloZTlkSXNzR1pyNUhFbzk5d05oZ2xFTUd5eFQxTVc1MzUwZm5pTGpUZmp3MzREZWdZakdFYm9oUU1NYURFNFljRFVzc19mRzJ0S2JKTkRKUDE3aG1KSVpQamlhWEloa0h3czVCRmV1WjNKa3c2Q3NDQklCMFFScWpSSEtKTDc4cVpVU1VfV2pNOEdxazFwcVZndnVkRGZGSg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha do Estado da Bahia"
+    },
+    {
       "articleId": "gnews_f136a582bca181ab",
       "headline": "Casos de dengue em MG sobem quase 50% em três semanas; chegam a 39 mil - Portal Tela",
       "headlineTranslated": "Dengue cases in MG rise by almost 50% in three weeks; reach 39 thousand - Portal Tela",
@@ -158,8 +300,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "PDNews",
-      "headlineJa": "無料のトレーニングで感染症との闘いと抗生物質の安全な使用を強化 - PDNews"
+      "sourceName": "PDNews"
     },
     {
       "articleId": "gnews_234380605efe8010",
@@ -239,7 +380,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "capitalnews.com.br",
-      "headlineJa": "デング熱 2026: ブラジルでは SP と MG がピークとなり、180 万人の感染者が登録されると予想 - Capitalnews.com.br"
+      "headlineJa": "2026 年のデング熱：ブラジルでは SP と MG がピークとなり、180 万人の感染者が登録されると予想 - Capitalnews.com.br"
     },
     {
       "articleId": "gnews_744ea094299fbdba",
@@ -262,9 +403,9 @@
       "headlineJa": "女性が「集団感染」に陥り、危険な運転をし、トラックと正面衝突 - Jornal da Cidade Online"
     },
     {
-      "articleId": "gnews_8a3fc03b63ea2d62",
-      "headline": "Sarampo: com dois casos confirmados esse ano, quem precisa tomar a vacina? - saude.abril.com.br",
-      "headlineTranslated": "Measles: with two confirmed cases this year, who needs to take the vaccine? - saude.abril.com.br",
+      "articleId": "gnews_6f806274e22eaef1",
+      "headline": "Sarampo: com dois casos confirmados esse ano, quem precisa tomar a vacina? - Veja Saúde",
+      "headlineTranslated": "Measles: with two confirmed cases this year, who needs to take the vaccine? - See Health",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-06T15:17:13+00:00",
@@ -278,8 +419,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "saude.abril.com.br",
-      "headlineJa": "麻疹：今年は2人の感染者が確認されていますが、誰がワクチンを受ける必要がありますか？ - saude.abril.com.br"
+      "sourceName": "Veja Saúde",
+      "headlineJa": "麻疹：今年は2人の感染者が確認されていますが、誰がワクチンを受ける必要がありますか？ - 健康を見る"
     },
     {
       "articleId": "gnews_35556c070d00aa40",
@@ -335,73 +476,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Bahia"
+        "Bahia",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Correio",
       "headlineJa": "バイーア州ではインフルエンザによるSARS感染者数がほぼ192%増加しており、「スーパーインフルエンザ」に警戒している - ジョルナル・コレイオ"
-    },
-    {
-      "articleId": "gnews_e1b2068253a45b38",
-      "headline": "Chile registra caso de gripe aviária; Brasil investiga 4 suspeitas - brasilagro.com.br",
-      "headlineTranslated": "Chile records case of bird flu; Brazil investigates 4 suspects - brasilagro.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-05T22:53:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWlRQ1ZORkI0anBqX1V5REIzc3k4ZUtxamNZeFRSaXo4cjE5aVVMQ3BLOHgxdjBZT08yaDREa2lfSElBNmhXY0Z2T2xIZ2RNczllUHlTSUxvaTZZN3NfbGVNLVZuanA0ZVgyS3RiTWZpekc2MHZpOHlhYmFoa0dVVGlOb2xNRnhPbm1lbEVaam5Fb2M4NnRhb0pKdkxiaWxSY3BwbVZRb21BczNRMUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "brasilagro.com.br",
-      "headlineJa": "チリは鳥インフルエンザの症例を記録。ブラジル、容疑者4人を捜査 - brasilagro.com.br"
-    },
-    {
-      "articleId": "gnews_519a79277478923e",
-      "headline": "Casos de sarampo acendem alerta, mas especialistas dizem que avanço pode ser evitado - metro1.com.br",
-      "headlineTranslated": "Measles cases raise alarm, but experts say progress can be avoided - metro1.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-05T21:35:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2JXelNuUXNKUjdKTUtWZmVNTUZlT01hQlFXSkdqRlFmRlhXQmVQU1pyc1hyMk15akhoQUZiZnc4R3V3SE5DcDZOeW1iYVc1Rm1sYV9KYXI1bjk4QlMtbGE2aG1DaWszdDU3cTJHTzcyZ3ZJZFluMjJBb3N6TVZYN2s0ZHRZY3FGOGJHNmJ0YTdSRFVITVVteU5PTmlfamdYOURkcXdndTItZ0tCY25ZbE5POUNVejBMaXRoNmVQX2RqQ2pSQldFclB2VQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "metro1.com.br",
-      "headlineJa": "麻疹症例は警戒を強めるが、専門家は進行は避けられると語る - metro1.com.br"
-    },
-    {
-      "articleId": "gnews_50d1265abde764fe",
-      "headline": "Vacina do Butantan contra gripe aviária chega à fase 2 de testes em humanos - band.com.br",
-      "headlineTranslated": "Butantan vaccine against bird flu reaches phase 2 of human trials - band.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-05T18:34:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFQYVdmMldZV3hnLVJHU0ZRZW5wRzlCWnhvMGl1NUxXTWFaQmNINDU3M0tFSUg4QnlyVXluc3VSbjQ1NlJWOHlmTVZHZjlTdWhCR2szM1VwY0E1VUlQcm9iNWJ5Y3lBNkxZcDF0VmgzWW94N0pwNVl4MmFaVmJFdVdkc0JSWnNrU2VxblZTeC11ano5Wm9YQkxKNDFfR1BtT19LMEhpQXlXZ0JzSXk3cE1odWRjNlF0NXNZWVJ5VWs?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "band.com.br"
     }
   ]
 }
