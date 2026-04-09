@@ -1,29 +1,51 @@
 {
-  "generated_at": "2026-04-09T02:42:14.441592+00:00",
+  "generated_at": "2026-04-09T09:09:13.089055+00:00",
   "date_range": {
-    "start": "2026-04-07T02:42:14.441592+00:00",
-    "end": "2026-04-09T02:42:14.441592+00:00"
+    "start": "2026-04-07T09:09:13.089055+00:00",
+    "end": "2026-04-09T09:09:13.089055+00:00"
   },
   "total_articles": 19,
   "state_summary": {
+    "Brasil (estado não identificado)": 7,
     "Pará": 3,
     "Goiás": 4,
     "Tocantins": 2,
-    "Brasil (estado não identificado)": 6,
     "Bahia": 2,
     "Minas Gerais": 1,
-    "Rio de Janeiro": 2
+    "Rio de Janeiro": 1
   },
   "disease_summary": {
+    "Avian Influenza": 1,
+    "Influenza": 2,
     "Chikungunya": 1,
     "Doença infecciosa (não especificada)": 3,
     "Dengue": 9,
-    "Measles": 4,
-    "Influenza": 1,
+    "Measles": 3,
     "Meningitis": 1,
     "Oropouche": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_ace444e5d7b2e10a",
+      "headline": "Chile registra caso de gripe aviária; Brasil investiga 4 suspeitas - portal lj",
+      "headlineTranslated": "Chile records case of bird flu; Brazil investigates 4 suspects - lj portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-08T23:16:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWxQYV81V2ZibmhmaWRySTdrTDJlY3pBLUVHSmYzRDVRV2RuRk9DRTl4QjMycGdaZE5PWThhWmtYMktvZk9kcUNXbEdlWkp1SUFIbHpsSV9vd2pHY0lzYkllRDhqV3pTY3ZWcWhUQnY3a1Y3NVYycWNYV2UzakdYRDBhVXozeWt6dFZaeGV5NWxVbXVDWFpJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "portal lj",
+      "headlineJa": "チリは鳥インフルエンザの症例を記録。ブラジル、容疑者4人を捜査 - ljポータル"
+    },
     {
       "articleId": "gnews_1e867a03eeb9713e",
       "headline": "MS busca apoio do Governo Federal para combater surto de chikungunya, diz Riedel - Midiamax",
@@ -62,7 +84,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário da Manhã",
-      "headlineJa": "アパレシダ・デ・ゴイアニアで感染発生中の女性が偽の切手を使って診療所を占拠 - ディアリオ・ダ・マンニャ"
+      "headlineJa": "アパレシーダ・デ・ゴイアニアで感染発生中の女性が偽の切手を使って診療所を占拠 - ディアリオ・ダ・マンニャ"
     },
     {
       "articleId": "gnews_5ce07654449ad841",
@@ -138,12 +160,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Tocantins"
+        "Tocantins",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Tocantins",
-      "headlineJa": "パライソ市役所、デング熱症例の増加に直面してネッタイシマカ対策の必要性を強化 - Agência Tocantins"
+      "headlineJa": "パライソ市庁舎、デング熱症例の増加を受けてネッタイシマカ対策の必要性を強化 - Agência Tocantins"
     },
     {
       "articleId": "gnews_1a381290fd831699",
@@ -203,7 +225,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A TARDE",
-      "headlineJa": "バイーア州でのインフルエンザ大流行：2026年に感染者数が185％増加する理由 - THE AFTERNOON"
+      "headlineJa": "バイーア州でのインフルエンザ大流行: 2026 年の感染者数 185% 増加の説明 - THE AFTERNOON"
     },
     {
       "articleId": "gnews_c0d981099d61312c",
@@ -224,26 +246,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
       "headlineJa": "ミナスジェライス州では、2026年に1万3千人以上のデング熱感染者が確認されている - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_cd23f1ef5ee4ed82",
-      "headline": "Ministério da Saúde confirma caso de sarampo no Rio de Janeiro - CREMERJ News",
-      "headlineTranslated": "Ministry of Health confirms case of measles in Rio de Janeiro - CREMERJ News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-07T19:19:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWNYdXBhaUFmckhDY3hmRFVYbnNFbVB0MjhCY2JtRTI1NnpGWlpodXVzUkIyU1N2Yk5DMWMxcHJnZ1lPaHJGNFptb0IxcWlXQ1RldjlyY1VWVVdidmc3N3dRWjRQY2FEa1lhZ1JSZFNFcGdPZXZCVVoxME9XUmQxeDlOQUVXVWxqVFZ0amRsUG4xeHNnOUpGRUZJQnFpVjNtUkIzaw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rio de Janeiro"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CREMERJ News",
-      "headlineJa": "保健省、リオデジャネイロでの麻疹症例を確認 - CREMERJ News"
     },
     {
       "articleId": "gnews_2f7952e1efe2abfa",
@@ -384,7 +386,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Goiânia",
-      "headlineJa": "ゴイアニアのデング熱症例数は今年1万件を超える - CBN ゴイアニア"
+      "headlineJa": "ゴイアニアのデング熱症例数は今年1万件を超える - CBNゴイアニア"
     },
     {
       "articleId": "gnews_56053990a84c5cbb",
