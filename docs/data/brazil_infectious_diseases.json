@@ -1,31 +1,173 @@
 {
-  "generated_at": "2026-04-12T08:50:17.508207+00:00",
+  "generated_at": "2026-04-12T16:53:54.772709+00:00",
   "date_range": {
-    "start": "2026-04-10T08:50:17.508207+00:00",
-    "end": "2026-04-12T08:50:17.508207+00:00"
+    "start": "2026-04-10T16:53:54.772709+00:00",
+    "end": "2026-04-12T16:53:54.772709+00:00"
   },
-  "total_articles": 33,
+  "total_articles": 34,
   "state_summary": {
-    "Piauí": 6,
+    "Pernambuco": 1,
+    "Tocantins": 1,
+    "Brasil (estado não identificado)": 12,
+    "Piauí": 7,
+    "Rio Grande do Sul": 1,
+    "Rio Grande do Norte": 1,
     "Pará": 9,
-    "Brasil (estado não identificado)": 11,
     "Alagoas": 4,
-    "Mato Grosso": 5,
-    "Mato Grosso do Sul": 5,
-    "Paraíba": 3,
-    "Acre": 1,
-    "Rondônia": 1
+    "Mato Grosso": 4,
+    "Mato Grosso do Sul": 4,
+    "Paraíba": 1
   },
   "disease_summary": {
-    "Dengue": 9,
-    "Measles": 4,
-    "Chikungunya": 10,
+    "Dengue": 11,
+    "Measles": 6,
+    "Doença infecciosa (não especificada)": 4,
+    "Chikungunya": 9,
     "Zika": 1,
     "Avian Influenza": 5,
-    "Influenza": 5,
-    "Doença infecciosa (não especificada)": 6
+    "Influenza": 5
   },
   "articles": [
+    {
+      "articleId": "gnews_311a2a607a855134",
+      "headline": "Rafael Dhalia: Fiocruz Pernambuco e a vacina da dengue - JC",
+      "headlineTranslated": "Rafael Dhalia: Fiocruz Pernambuco and the dengue vaccine - JC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T16:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeS1Ua09UdHFPT2xkZFFvVlBMeWs2VXFRclhDbG4wbklYVlZpQkFMd2tyaGJpeG8wbTQ1eDlUNDcyZ0dlRnZ4VmZPYlVHcnpQQ1NHdmpDQk9DSWJxMzNmeHZPdkhHWS0wQWxTWW5MWDZBTUxzbEZhdm9rUDNYLWJfLTZ6WS04S3pTdFZZSldpbVhTUDJ6TlJiYlRMSW9OYTcyY2t4X1JkU1dJZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JC",
+      "headlineJa": "ラファエル・ダリア：フィオクルス・ペルナンブコとデング熱ワクチン - JC"
+    },
+    {
+      "articleId": "gnews_b0767376fd4822a9",
+      "headline": "Com mais de 10 mil casos prováveis, dengue cresce no Tocantins em 2026, aponta Ministério da Saúde - Jornal Opção | Tocantins",
+      "headlineTranslated": "With more than 10 thousand probable cases, dengue fever will increase in Tocantins in 2026, according to the Ministry of Health - Jornal Opção | Tocantins",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYW9FczNMQjU2N1BnUVFQdXNldHZrRFBkaWtvaV9nZUNKR0Q3LVdkcTlHUVZhSjhjUldzM2NGZWV2b1hZYmVoUjN2ZnRrQmx2WEFPU0RpMTU5RkZmbktyRUxVR3dmYUhpOEhMMlREZU1KeF9ubzcwLTJpZWZTSFQzYmUxM19nWVpCbkNDZS0tOEdkSXloMUZxeDczNzBZUzFoYkZIcGxET2o0dzItV3NuTkVBMU5sdmxPWW5ua085cHVWaU1Oc2czSzg1dGFJMFNxVlBZV1AyWHFMMHJ2NHZHbEJxc00?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Opção | Tocantins",
+      "headlineJa": "保健省によると、感染者は1万人を超え、2026年にはトカンチンス州でデング熱が増加する可能性があるとのこと - Jornal Opção |トカンティンス"
+    },
+    {
+      "articleId": "gnews_5b8bb9270a281105",
+      "headline": "Avanço nos casos de sarampo liga alerta às vésperas da Copa do Mundo 2026 - band.com.br",
+      "headlineTranslated": "Progress in measles cases league alerts on the eve of the 2026 World Cup - band.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T15:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02U1pSWi00S0hWUEVyVXUzWnhveDhTSHZZTzVVNHFhcXhwZnJGV1BORENCVFViYlZvTDh3QTlqbkJrcnJxbEdLemNPNm1oTmh6LUc3aTFHNTNsVmZER0s5bGllS1hHWHZJS2pjSzJZZWpyS0dmU0ZvZVJ5OUtuZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "band.com.br",
+      "headlineJa": "麻疹症例の進展 2026 年ワールドカップ前夜にリーグが警告 - Band.com.br"
+    },
+    {
+      "articleId": "gnews_39d0f9ff71c86958",
+      "headline": "Mistura de crack e Bombril causa surto de febre entre moradores de rua no centro de Teresina - OitoMeia",
+      "headlineTranslated": "Mixture of crack and Bombril causes fever outbreak among homeless people in the center of Teresina - OitoMeia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T14:25:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1BQeDV6a0FOakMyX0puQU84WHZxUFZySTRubDQxbVg0bm13alhaTHhwVVdrQVpaTE5xSzZrYXNXWHJpbHJZcExLTmIxMlFIZ1VMc3Q4ZkNUZW10ME01bTdJeHdod28tWFBpSE9FTHByUTJoVzR2LTVIVlRRUzlDbW5wbFlWWDB4UTVpS1JrOVN6Mlh4MDBqMndmV0MwYkNjVy11SGpUQlNnSFBldWhnVl9uM3hFVDl6TWliN3VJbTZ1UTN3bEMwYlZ6WTZVUDFxVEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "OitoMeia",
+      "headlineJa": "クラックとボンブリルの混合物により、テレジナ中心部のホームレスの人々に発熱が発生 - オイトメイア"
+    },
+    {
+      "articleId": "gnews_b60b845b613dbd6d",
+      "headline": "Homem em surto é morto após tentar tomar arma e agredir PM de folga em Porto Alegre, diz polícia - G1",
+      "headlineTranslated": "Man in outbreak is killed after trying to take a weapon and attack off-duty police in Porto Alegre, police say - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T13:59:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODdCcFlxR2xtWWUycTFGdGNHRmpUNFpJLXVrVVJ0RlNPb25ZbXoySkVSdEdSZGJwYVJXcFp5N1hncEFsRUhxSWtOc28xbVJJZTBKVDdZUjNsN3NNNzUtZi1wZ1FGbFhRNjJaeHNUWmx5d0c4U1EyMnFPSWFMYkNRcDM2TDVldFJiQUFDX0dtdFNGUUlqZ2ZuOFo1ZmF1NTVwa1dnYlRFMUU2OW5UUE9J0gG-AUFVX3lxTE10V1pNaHVGbG53eTFlb1BpMHAzM0xUZloxZ2JwcVFSbkUybngxVG1jZzczeXRacFl6YWo0amxTQlUzZXdsSzhkS2dzUDh2cXRwb1hjeFBTS1JYOWlpbjJBYlN3czJvN0lUN3FyOEczWkp3c0ktcWNQQ19Cc3cyYXAxSDBEZUpselZoYUhrTHNFRGlZVUpqN19OZlEwb0NNZ0lFUUZOS3ExRktyNXlGLWFuR1BZMVY1VmViYU1BekE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ポルトアレグレで感染拡大中の男性が武器を奪って非番の警察を襲撃しようとして死亡、警察発表 - G1"
+    },
+    {
+      "articleId": "gnews_58e9309f3f538e23",
+      "headline": "Sarampo não tem reforço de rotina, mas pode exigir dose extra em casos específicos - Guararema News",
+      "headlineTranslated": "Measles does not have a routine booster, but may require an extra dose in specific cases - Guararema News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T11:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM21fd0JsbzItLWFkZUd4enU4WlpSWDRxVU0wcmdDUGpRY0RNWHhpeWx1R0tMRlYyNlh3VXduc0hwemRyYklaeHIxbzBJZnN6MW81c3dOODJseXFUZXpmbnRMdEFnR2M5dUpkLUhRd3ZtdVNiNkZxeFFqUkFXUnNvOUJ0bkh1eUZ2M2ktTVQyMnV0LWo4NHNRY2loWmhWSDVtRGJEd3hQcllkeEN5LXMzUGNBMHhObDhw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Guararema News",
+      "headlineJa": "麻疹には定期的な追加免疫はないが、特定の場合には追加投与が必要となる場合がある - Guararema News"
+    },
+    {
+      "articleId": "gnews_e63c42d73a1bad8e",
+      "headline": "Painel do Ministério da Saúde registra morte e aponta avanço da dengue no RN - BNews Natal",
+      "headlineTranslated": "Panel from the Ministry of Health records death and points to the spread of dengue fever in RN - BNews Natal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T09:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHZuSThvZ1c5WnBoUjYxd1dJVU9nWXZPWk5FQXVTMnZfSVNnamRVM01waHAzWkxVQURLZ0JzeGN4SVlidW01UGlkdnBUbnVpU09BVUtLMkRQUmRVYVNkRERxQjEta0xhSUljV0llUmQzdldlaHA4alk2Qk15WjU1YU16NlVna1FQczE2SUtrWmF1alY2TnMwLWRSc0RZR0FLVnFJVWxvTWg2eU5jUGlnbGVodEw0WlNfbDV3UDVyYkxSenhxNGpV0gHMAUFVX3lxTE1RZ2dmWEllV0ItM19QRU9COU1pYkx6Z1ZNTlh6eTFPZ2toQy1uZTU4X3RzOVFJaG1qSFdfVVE5R2I5TWg4ZVdOU1UzLWs4Q2dzTWhjRU90ZFZCUHp6a2QzeExwTUN5SExCc3JRM3JHWWI4UUF2di1rNC0tWTRQcFl6SmVFaGJka0RIdmo4WEtMMUhKajNoajVaWVM2bElPMkN2TVpISEpqSWJTWFE4YTd1WmdjR3NlcHZIYkFBM1JYNHMyVXRBSWhGTXdjUA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Norte"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BNews Natal",
+      "headlineJa": "保健省の委員会が死者を記録し、RN州でのデング熱の蔓延を指摘 - BNews Natal"
+    },
     {
       "articleId": "gnews_985dc816131aea3f",
       "headline": "Piauí tem 28 municípios com alto risco para dengue - GP1",
@@ -40,8 +182,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "GP1",
@@ -97,9 +239,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEtLR3RYQWtlWVBSNkIwdWh3b3gzRXFOcDVVd002Uk1aRjhaSDBLQ2tUQlY4MFlQVDFLdkdySm0wTGVlTkxjUDBKRlRGTXV4dV8wVXE2SzBCUlBrV0pGUUxCRlR0NXM4SEMwb1JrZXBJTWxrX3NLRnluNG50YXVZQVd6SVBiYTZ5aWhZemVKLXhaQmZjRVFJaktHV3hIMkd5cmhCcWpIYlh2U2ZjcWZ5THdUeWtvYjF6bEdWV0t3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Zika",
         "Dengue",
-        "Chikungunya",
-        "Zika"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -108,6 +250,26 @@
       "dataSource": "Google News",
       "sourceName": "Portal Tela",
       "headlineJa": "デング熱、ジカ熱、チクングニア熱の蚊の繁殖地をなくす方法 - Portal Tela"
+    },
+    {
+      "articleId": "gnews_b84d1fa4ee34f8cd",
+      "headline": "Doença erradicada pode voltar: sarampo acende alerta no Brasil em 2026 - BnT Online",
+      "headlineTranslated": "Eradicated disease may return: measles raises alert in Brazil in 2026 - BnT Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-11T19:54:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkczSlRGT0wybUowMkNBbU45cnAxbnl1d0ZQbGVULVVyLURCb1BHb3VCa01POS1TUVRxYVJJWW9nTGhnYmV0MlZfTHJ5ZmNrMVZYaDZLRnM3WGF0MVl1enh2XzV6ZTlhVnVMa2FpNzVQOVdmdFZTRUxHcGJJSUo1SmpWZ0JfM0F1NnFROGlwMnkteWxlZWxqLU9qb9IBoAFBVV95cUxQNVVxMjNHRWJaUDhOZkwzUUFwM3l4WU5vN2JNQjBxOWxCNnBGU2ZsUFhYdlUyNE90blhPSmxNT0hBMktGMlVhdXNwTkRHUWFteXBCSHYzSU5Cbk5VRUVmdmY4TE9yRVdFS1FHbjVMM1U5cHY0MTBfQlNXb3MyWXRhWjN0Zk9VUmVEMmhHNlpZZTlCTTJTTmVnRTdKdFBCa3RI?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BnT Online",
+      "headlineJa": "根絶された病気が再発する可能性：麻疹、2026年ブラジルで警戒喚起 - BnTオンライン"
     },
     {
       "articleId": "gnews_97ed686c6588481a",
@@ -145,8 +307,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "TNH1",
@@ -206,8 +368,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "GP1",
@@ -268,32 +430,12 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Clube News",
-      "headlineJa": "ピアウイ州はデング熱のリスクが高い28の自治体を登録。州の感染者数は4,000人以上、死者数は1人 - Portal Clube News"
-    },
-    {
-      "articleId": "gnews_8a0560ba58648e6c",
-      "headline": "Sarampo: um quarto dos pacientes pode precisar de internação, alerta pediatra - Portal Tela",
-      "headlineTranslated": "Measles: a quarter of patients may need hospitalization, pediatrician warns - Portal Tela",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T11:17:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0hVb3RQN2V1MTlfLTVNdnMtRG9SZE54ZVVmSldOa0VLS2I5aFlMVXhWTUE3c0tSZ1ZPVUs2cGtkQWdVamk1OXlhYUp6OHQwMzk4NVZSMXdTT1BrVUZhX09FUHlIT2VSYW5hUV80cEdTMkRUVE44UG12cld4WWRXcFJqTWRTT2VNUUtMZkpmajVjY3BaUjFZV2p4NUFQRGZoRS1TaXV4WkxGT0pjUXRHR0ZMUVVGRVpVYUZoOU5jcEFLQ1VENFA4engwdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Tela",
-      "headlineJa": "麻疹：患者の4分の1は入院が必要になる可能性がある、小児科医が警告 - Portal Tela"
+      "headlineJa": "ピアウイ州はデング熱のリスクが高い28の自治体を登録。州の感染者は4,000人を超え、死者は1人 - Portal Clube News"
     },
     {
       "articleId": "gnews_d5d0c7ced08cb355",
@@ -371,8 +513,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Extra de Alagoas",
@@ -392,8 +534,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com",
@@ -421,27 +563,6 @@
       "headlineJa": "マットグロッソ・ド・スル州、2026年に2,102人のチクングニア熱感染者と10人の死亡を確認 - A Critica de Campo Grande"
     },
     {
-      "articleId": "gnews_5add01af7bda5c9c",
-      "headline": "Itália registra caso de gripe aviária H9N2; situação representa algum risco? - Terra",
-      "headlineTranslated": "Italy records case of H9N2 bird flu; Does the situation pose any risk? - Earth",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T21:41:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNajBrNC05SkRSZVBheFZmWjZFRGd1ekgzQzV5VUVCcEJNNEUwaW1QU1FHbG43SFFoYVhCWGdCVmxyQVUzVm9Gd0I2eTVsSXVwLTNucTBBZzVHc244c1IxTWgtSDBPZ1FoWjR0bDdkNl93N2RPV2lzZHpaQUdjR0t2cVQ2c0ExaU5Od0lKa211b1hkeU9neGZDcHo3bFl6djlFejIxek5kTzBZYjlkRjI3cWlkVEZnWWludEpZYjlTaVpEUmJpblR1R2dfcTNNdG1HRlprcGdGdWdmTzBCaHF1YWtBak9UMDhEcEk3dmZ3TUJqX2hQTy1KdA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "イタリアではH9N2型鳥インフルエンザの感染者が記録されている。この状況に何らかのリスクはありますか? - 地球"
-    },
-    {
       "articleId": "gnews_8df9169f3a612fe1",
       "headline": "Alerta H5N1: Alagoas cria Força-Tarefa e fluxo de emergência contra a Gripe Aviária - Alagoas 24 Horas",
       "headlineTranslated": "H5N1 Alert: Alagoas creates Task Force and emergency flow against Avian Flu - Alagoas 24 Horas",
@@ -461,6 +582,27 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas 24 Horas",
       "headlineJa": "H5N1 警報: アラゴアス州、鳥インフルエンザに対する特別委員会と緊急フローを創設 - アラゴアス州 24 時間"
+    },
+    {
+      "articleId": "gnews_1a032c35cae84da1",
+      "headline": "Itália registra caso de gripe aviária H9N2; situação representa algum risco? - Estadão",
+      "headlineTranslated": "Italy records case of H9N2 bird flu; Does the situation pose any risk? - Estadão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-10T21:31:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTIzVE1TUjE0NXBNMEdUbWwtLTJLV1AyNV9nNVdDeHhWYmRjaEUwUFAwYWl1ZjZyeThJQm9tX1JVd3ZoaXJsVHJIYk9fbTkxUXBVcHNwVTM5U3RmY21fSmFTOFdJTnl2YmlxUXJrU2RfV0VaUW0tQ09vLXlFRHoxdm1lNmg2RzE0bHRpQXFGendNb1lpRF9GTkFDWUFEalJJcHFjUEVacWNHZVc1ZVZ2VnNWY9IBuAFBVV95cUxPYzNrOWR1YWo0a3EyRkpNNThySjhzZHZhM0IyTHZnR21rZnFMczVDNEFibU1TdHJnMHo3UzJUak1ybDdWejE4Wk1EMngxbTFfNjhnaS1NMm5VY2czcktmcUZPSEJFbjF0WDR1RndmU0ZsZzBiYjBVWXRBNnZ6WVVCa2lXUmlGQTN1ZmpMZzZGLXo3N2h2RmgtVXZDbHdaNEZSMGRSeHF4c3JyTk1GY3JvNXpidmpwbjRO?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão",
+      "headlineJa": "イタリアではH9N2型鳥インフルエンザの感染者が記録されている。この状況に何らかのリスクはありますか? - エスタドン"
     },
     {
       "articleId": "gnews_d2aeddcc15c2fcd7",
@@ -504,26 +646,6 @@
       "headlineJa": "憲兵伍長、ジョアンペソア州バンカリオスのアパート内で暴れる - WSCOM"
     },
     {
-      "articleId": "gnews_ee7368936c17f987",
-      "headline": "Policial teria entrado em surto em casa nos Bancários; PM foi acionada - Portal Tela",
-      "headlineTranslated": "A police officer reportedly went into an outbreak at the house in the Banking Center; PM was called - Portal Tela",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T19:47:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHBuQXM2bUstZk51WkxHY2lrdEZRSDFxem1NQTdIeTBhM3hOYjJnRmdWOVR1MzNFMXRrc0xLTkkxcFRCMnROWXpUY3VYREloTkRHTWhYR2lYMkZKMnFWQUJOUklqODZOczBpVTdYV19HTnB0MzdkUXpqMUc1cjQ2YjVyd2thY21CMTB4aUxqM3FlbUczTmVFTnFJdUlKaDl3RFFKQmF6dDJqc0lkSy14X1NUT2NZcVJ5dHZhYWFQRmY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Tela",
-      "headlineJa": "伝えられるところによると、警察官がバンキングセンターの家で集団感染を起こしたという。 PMが呼ばれました - Portal Tela"
-    },
-    {
       "articleId": "gnews_6b882ec5237d8323",
       "headline": "Piauí tem 28 municípios com alto risco para dengue; estado tem mais de 4 mil casos e uma morte em 2026 - G1",
       "headlineTranslated": "Piauí has ​​28 municipalities at high risk for dengue; state has more than 4 thousand cases and one death in 2026 - G1",
@@ -537,8 +659,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -603,107 +725,6 @@
       "dataSource": "Google News",
       "sourceName": "Idest",
       "headlineJa": "MS、チクングニア熱感染者2,102人確認、死亡者10人を記録 - Idest"
-    },
-    {
-      "articleId": "gnews_a44f08c4b5ffd4a8",
-      "headline": "Polícia Militar interdita rua após suspeita de surto de policial em apartamento, em João Pessoa - G1",
-      "headlineTranslated": "Military Police closes street after suspected police outbreak in apartment, in João Pessoa - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T16:42:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazZTVlZ0NjdNZ3Z3ODBHVkhjN0w2T3dKYjcydUlYWEFYYnB3aThMSmRGTmY4QVAxV2tUdVQ4ME4yR1oyQkxTWmtXTExUWTQwam1objRGclVBRjdqM2lPcVRUaU1xOFdKeEtENmQyV1ZvbFJSMlhQMldjNnpTdllJdWN0d2R0T2IyRm5tRnNvcUV6dF9YdmVWTnhjZEc4SXJLS01pVDdFeHJzX184cmNKcVBsaGhPSUxtVlB1MkZIdlB3M2vSAdIBQVVfeXFMTzJyRVgtWGxubXhZQUhNR3M5V1VCOEpyTzR6S3IyRENXNGNXcC16dGZvaUgwWlI1eHJFa0pJU3AxYzRqczRZUlBjVWp0Vi1DLW9rNkNyQm80OHpsQjllNkg0M09nSXpLNTFJcHp6dDRoMk9Zb002OWdnUExsSnNOUVp3S0x1Q1dNTDh5T2h1TXpIZkI5cFFPNThrR2xUNDBjQnRxM0N0LTVzTXRhN29VdGx5Y1Z1cjZ3SnhPVTRXOURrODBITlh2YUNoeV94Zndud0NB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ジョアンペソアのアパートで警察による集団発生の疑いを受け、憲兵隊が道路を封鎖 - G1"
-    },
-    {
-      "articleId": "gnews_d897c3e2f3a54577",
-      "headline": "Quem lê acredita! - Repórter PB",
-      "headlineTranslated": "Whoever reads it believes it! - PB Reporter",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T16:42:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSU1TTldncVNuRHlvV3Q3MTFROEJleFAyWUl1eHFIMFkwUzJ0eUNzTEJoN3hjNGVMZll2WU1WODVaVWRuNEF3ZEhwNnk3MHhaMkVTTS1DN2llRTBDSExaQndOTS1KN3J0TjZsbE1ieVpBQXNnbjVBOEowRmtIVGt4WEJPRXhCTG1xa196YmtRLTI3aFRNcS1maTZLek52V1lpQ0hreHZrZUJSVWYxSmpXTHU4SGhvRHp2MC1WR2NBRVZoWE45LUx3SHBHYllDcTRRaVd1a1BUQ2NWb29DR2hDQ3NYY2oxUnY4LTRaZXZBM1M0ZG8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter PB",
-      "headlineJa": "誰が読んでもそれを信じます！ - PBレポーター"
-    },
-    {
-      "articleId": "gnews_cf94959154e27a2c",
-      "headline": "Policial militar estaria em surto dentro de apartamento nos Bancários, em João Pessoa - THMais",
-      "headlineTranslated": "Military police allegedly had an outbreak inside an apartment in Bancários, in João Pessoa - THMore",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T16:32:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZXdlcno4ZjNQeDFmWFhtY3A5VHdEMkVJWU9LbUtha2lMc1JJVWFqQThEUFNEc2xCNEpGOHhGLS1MSDhobDZwcHFHZ3lNR1JXS2JTV2FLRUJtemRXSHY3c0h0dlN6UUdscEpwaHFzX2RJc25ReFd2bk9EYzJSc1dXbEJ5OVVINlcwUm5qbFVUbDlYSk1uQzI4V0plelFGUWgxQnhlNE41N2ZSNlI3eUlIMTFnTE50cW45WDRBaGVHVG1ad3UyYnhmRFVheDNleldoN21tZEVR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "THMais",
-      "headlineJa": "ジョアンペソア州バンカリオスのアパート内で憲兵隊が集団感染を起こしたとされる（THさらに表示）"
-    },
-    {
-      "articleId": "gnews_36c34a734f7156a6",
-      "headline": "OMS: dengue é indicador da relação mudanças climáticas e arboviroses - Rondônia Dinâmica",
-      "headlineTranslated": "WHO: dengue is an indicator of the relationship between climate change and arboviruses - Rondônia Dinâmica",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T15:04:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0JGOGxuTjdKQ1dySUZkZVdVT3BiaWFJNkx6ZnRsb0N2bl81Mjl5TWVTd09hNlZUZTEtam0yVW5qUWM2UmlmS0lVOEVZd3hJc0JmUThsd3VMZTVXQmx3aU5MdHVJa0llTmtWSTdxQTFSZGRXOTBiNG5kT1cyUzhJYWg3R19TNXh1OHkyYjFNUUFKZEJaQnFPeGtxT2ZjcFc1cklJWG51YlJGNFZiQzAzNVJ4QTNkZ3dNTVVrOWV3c21jM3dnOGZvV0Jn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rondônia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rondônia Dinâmica",
-      "headlineJa": "WHO：デング熱は気候変動とアルボウイルスの関係を示す指標である - Rondônia Dinâmica"
-    },
-    {
-      "articleId": "gnews_5432feb1ef527305",
-      "headline": "Com 4,2 mil casos, 16 cidades de Mato Grosso do Sul enfrentam epidemia de chikungunya - Midiamax",
-      "headlineTranslated": "With 4,200 cases, 16 cities in Mato Grosso do Sul face a chikungunya epidemic - Midiamax",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T12:08:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWFReGdKY1Y0WDlTaHFJY2JlRzBjR0ZFNGJFZ3luTjAyUVhpajZZX2E5R1ZPZVMzNDl0Rk9HWDFsd0l0NTh6WEZ6Z3NBMzFTWjlJNEk2VW5JdHNVSVV5U2hHZVB5NjMwM1hFQWN1bjc1R0Zac0R5MlFiNXhiZk5MdkJJSThtNTdKMHVoSW1GcURZVXVscWE4SXpmZVJod1dpN1JaQ2s3QmVfcGVvV3Nr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Midiamax",
-      "headlineJa": "感染者数4,200人、マトグロッソ・ド・スル州の16都市がチクングニア熱の流行に直面 - Midiamax"
     }
   ]
 }
