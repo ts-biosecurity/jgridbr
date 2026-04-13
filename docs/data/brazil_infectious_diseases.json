@@ -1,33 +1,113 @@
 {
-  "generated_at": "2026-04-12T16:53:54.772709+00:00",
+  "generated_at": "2026-04-13T03:22:16.415432+00:00",
   "date_range": {
-    "start": "2026-04-10T16:53:54.772709+00:00",
-    "end": "2026-04-12T16:53:54.772709+00:00"
+    "start": "2026-04-11T03:22:16.415432+00:00",
+    "end": "2026-04-13T03:22:16.415432+00:00"
   },
-  "total_articles": 34,
+  "total_articles": 27,
   "state_summary": {
-    "Pernambuco": 1,
-    "Tocantins": 1,
+    "Pernambuco": 2,
     "Brasil (estado não identificado)": 12,
-    "Piauí": 7,
+    "Pará": 7,
+    "Tocantins": 1,
+    "Piauí": 4,
     "Rio Grande do Sul": 1,
+    "Alagoas": 3,
     "Rio Grande do Norte": 1,
-    "Pará": 9,
-    "Alagoas": 4,
-    "Mato Grosso": 4,
-    "Mato Grosso do Sul": 4,
-    "Paraíba": 1
+    "Mato Grosso do Sul": 1,
+    "Mato Grosso": 1
   },
   "disease_summary": {
-    "Dengue": 11,
+    "Dengue": 10,
     "Measles": 6,
+    "Avian Influenza": 4,
+    "Influenza": 4,
     "Doença infecciosa (não especificada)": 4,
-    "Chikungunya": 9,
-    "Zika": 1,
-    "Avian Influenza": 5,
-    "Influenza": 5
+    "Chikungunya": 4,
+    "Zika": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_1f55e267c781d36e",
+      "headline": "Casos de dengue caem 13% em Pernambuco no primeiro trimestre - cidade997.com.br",
+      "headlineTranslated": "Dengue cases drop 13% in Pernambuco in the first quarter - city997.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T19:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzJ1eDNOZTM0LUo5dXBFMjgyeGpQcTVTRW9VUE1RbFByYXU1UHg2Qk9VMTRPUmhQUUltSm5PRUZHcl94SVlRYUVwTjFmWFk4T3pBdHpGU0JocGRvMnBRQUY2aGhyTFppWGY0QjVlVWVXek5aRS1zdXZMZEFxNE9YazZNRnhHTWlpaFc3VTZn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "cidade997.com.br",
+      "headlineJa": "ペルナンブコ州のデング熱感染者数は第1四半期に13%減少 - city997.com.br"
+    },
+    {
+      "articleId": "gnews_043c0fa6390c6e60",
+      "headline": "Sinal vermelho: Sarampo volta a preocupar o Brasil após novos casos confirmados; entenda o risco - Diário do Litoral",
+      "headlineTranslated": "Red light: Measles is once again a concern in Brazil after new confirmed cases; understand the risk - Diário do Litoral",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T19:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGVaTXRqRi1XeVBiMnQzb2M1YUwtUjA5andRcDQzRGw1c0Jidl9EQ0hDX0gzeTQ3TWN0ODdaQ0QyNlZsd2t4LUc2UlFFQzVSb01yQ1FsVWgybXY5QTZhRzdMTW9SbHRyU3F1ZUlwZVExTE5NSFNIYnU3SkhtNDdtd3ZSWnhfSUM0TC1sQmw4ajJ5bFpIQ3FCVkFaQTRRd2JsSG8tVkVSalF0R1BnZjM1Q1gxNmdZcFRYRFBN?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Litoral",
+      "headlineJa": "赤信号：新たな感染者が確認されたことで、ブラジルでは麻疹が再び懸念されている。リスクを理解する - ディアリオ・ド・リトラル"
+    },
+    {
+      "articleId": "gnews_e53e44066fb41e5e",
+      "headline": "Com 308 novos casos em uma semana, MS entra em nível de alerta para dengue - Midiamax",
+      "headlineTranslated": "With 308 new cases in one week, MS enters alert level for dengue - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T18:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVdDTFJYSHQ2NE5KUFlsSDNYY3BycXRxWDl6UDgyOHpfQnlNSmdNeGoyMGlVMGdIM0h1VHFXcl9maVlXLUZacGpOT2ZQa3Z5X0R2VklHVnpqSFlvcUpMdG9ZUldIR0RCcEswREMxMDREOUtEZW85cmt0ZjM0eS0wcHB1WXZLaXBGcGQ0OUxKVVd0dzZyMEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "1週間で308人の新規感染者が発生し、MSはデング熱の警戒レベル - Midiamaxに入る"
+    },
+    {
+      "articleId": "gnews_f50b781a82dd8829",
+      "headline": "Gripe aviária: em meio a emergência zoossanitária, ave marinha é recolhida por populares em praia de AL e Instituto alerta sobre perigos - Cadaminuto",
+      "headlineTranslated": "Avian flu: amid the animal health emergency, seabird is collected by people on the beach in AL and Institute warns about dangers - Cadaminuto",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T17:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNR2s2V1RlTmJFSmFCZTJScDYybE1RSGJfRDMyOVZjN1dIekcxdGhFNVFMSWF1RWpDcEdIczBKbkYwUWM0Q1d3dUtCeTVFbzZoUURjb1JMa3BfYVM0eHNsc2duZHhFTDFVeDlFU3ZHZ3EyNkVHVFNIUmtqNTJxTTBHTjViejRjcnVCTVl0VVIyMm41TWVPdDZTZnVDbFdLNS1zVW9vUkpHeDZ2RkdZYU5QMjgtM1hkdHdpdy1fX2ctUjU2Wmd5c2VscEQzRmFmdml5end2MnVVSjA2S0QzeWtfZFdCSmtZaU5Gd0wyMG9fbGJHRGtyS0lra0pJTGpoUlNOQ2lqWDhGV3A5RS1DZXRmNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Cadaminuto",
+      "headlineJa": "鳥インフルエンザ：動物衛生上の緊急事態の中、アラバマ州の海岸で人々が海鳥を採取、研究所が危険性を警告 - Cadaminuto"
+    },
     {
       "articleId": "gnews_311a2a607a855134",
       "headline": "Rafael Dhalia: Fiocruz Pernambuco e a vacina da dengue - JC",
@@ -149,6 +229,48 @@
       "headlineJa": "麻疹には定期的な追加免疫はないが、特定の場合には追加投与が必要となる場合がある - Guararema News"
     },
     {
+      "articleId": "gnews_5a905fc7eedfe25d",
+      "headline": "Instituto Biota alerta para risco de gripe aviária em aves em Alagoas - Jornal Extra de Alagoas",
+      "headlineTranslated": "Biota Institute warns of risk of avian flu in birds in Alagoas - Jornal Extra de Alagoas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T11:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGVHYTBxOGxaUDBYWEZ4NUxMREstUUFsRHlKQUE2dUpDcXlvcFdvR3ZKV25zcUx3WkNiQi1ZekxNcE9LSkhMQmFMdXBaeEY3U3hudXFOUHVEX3pQVld6eEVLSWZ3SGFRTXU5cHpmYjJreWR2WnRDVEZRMlF6UWJ4RGdiUVhfdl9zX1JXeWJPRGxXSmVBVGVoT2lGTjl6VkJqemk2M01rNVhDR2lCNzZmZnBOQndOYTdmQVF6Wkt1d3lWWlZoQmxycA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Extra de Alagoas",
+      "headlineJa": "生物相研究所、アラゴアス州の鳥に鳥インフルエンザのリスクを警告 - Jornal Extra de Alagoas"
+    },
+    {
+      "articleId": "gnews_b2ccac21b3195acd",
+      "headline": "Estudante agride colegas e professores e deixa cerca de 10 feridos em escola de Parnamirim - Agora RN",
+      "headlineTranslated": "Student attacks classmates and teachers and leaves around 10 injured at school in Parnamirim - Agora RN",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-12T09:37:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEFTX2lGeUN2eWVUSGN6dzVQZHpzMFJjeWpjd1hmZGdUYjVIY2taSVFXRjJiLTc4NW80ZDBRRy1OdkY2ZjFkZVNVbmpsUldyWUg5OHpER0lJTWJJZFpQRExnMFlnOEppQ2NhQWNGYThCdjdVSTNDYWF6VW1vZmptNlE5TUw2d2V4bFJybnljbzg2OXJfbkxTQWF5WlBHYkhORVJTcVhyVEgyV2tVNUxqZ2IwektSOG5nM3c0NXFTSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agora RN",
+      "headlineJa": "パルナミリムの学校で学生がクラスメートや教師を襲い、約10人が負傷 - アゴラRN"
+    },
+    {
       "articleId": "gnews_e63c42d73a1bad8e",
       "headline": "Painel do Ministério da Saúde registra morte e aponta avanço da dengue no RN - BNews Natal",
       "headlineTranslated": "Panel from the Ministry of Health records death and points to the spread of dengue fever in RN - BNews Natal",
@@ -182,8 +304,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "GP1",
@@ -239,9 +361,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEtLR3RYQWtlWVBSNkIwdWh3b3gzRXFOcDVVd002Uk1aRjhaSDBLQ2tUQlY4MFlQVDFLdkdySm0wTGVlTkxjUDBKRlRGTXV4dV8wVXE2SzBCUlBrV0pGUUxCRlR0NXM4SEMwb1JrZXBJTWxrX3NLRnluNG50YXVZQVd6SVBiYTZ5aWhZemVKLXhaQmZjRVFJaktHV3hIMkd5cmhCcWpIYlh2U2ZjcWZ5THdUeWtvYjF6bEdWV0t3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Zika",
         "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Zika"
       ],
       "locations": [],
       "states": [
@@ -307,8 +429,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "TNH1",
@@ -368,8 +490,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "GP1",
@@ -409,8 +531,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Capital do Pantanal",
@@ -430,12 +552,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Clube News",
-      "headlineJa": "ピアウイ州はデング熱のリスクが高い28の自治体を登録。州の感染者は4,000人を超え、死者は1人 - Portal Clube News"
+      "headlineJa": "ピアウイ州はデング熱のリスクが高い28の自治体を登録。州の感染者数は4,000人以上、死者数は1人 - Portal Clube News"
     },
     {
       "articleId": "gnews_d5d0c7ced08cb355",
@@ -456,275 +578,6 @@
       "dataSource": "Google News",
       "sourceName": "Diário do Comércio",
       "headlineJa": "ブラジルから絶滅した致死性の病気が2026年にはかつてないほど強力に復活する可能性があると医師が警告 - Diário do Comércio"
-    },
-    {
-      "articleId": "gnews_0b3ac7d97938a9b1",
-      "headline": "Chikungunya registra 2.102 casos confirmados em Mato Grosso do Sul - Folha MS",
-      "headlineTranslated": "Chikungunya records 2,102 confirmed cases in Mato Grosso do Sul - Folha MS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T23:42:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTlNeGJoNm9aNDZHMkloOHF3cE8zejdPZVFfWHFVVG1POEFMVDNBTUtlZmdVTWxPVFk1SXVaYzN6NDdGNmVGUUF4T0NDZzNUTFgxV0huelRaQkNFZnAtZWVNclpoTHB5bC0yWlNXRDdUellxal80U1FlM3V6TGc0NVpFWWdvbjd4ZUlOaUVxT3VWczlqbE4zWlZRZkc5a0lWdnpF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha MS",
-      "headlineJa": "チクングニア熱、マットグロッソ・ド・スル州で2,102人の感染者を記録 - Folha MS"
-    },
-    {
-      "articleId": "gnews_d2e0ba29e748a5ce",
-      "headline": "Alerta contra a Dengue no Piauí: especialistas reforçam importância de prevenção e vacina - G1",
-      "headlineTranslated": "Alert against Dengue in Piauí: experts reinforce the importance of prevention and vaccination - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T23:38:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTmVZYnlkY1NpajJveWtGRUlmV1VScTQyOTVtS2M4aVVwWDcyai11bGdJUVJJYXRIQ012S1Y5OEZsanVlWHBiZjRHQVkySkhXU2ZIOGlRZTBidm0zS3dYUjY5ODF6ODhVcGI4VHhaTUcxUXRfcHItX2w0OVJJZHIyS3c1cTQtbi11MFc4NlZkejdCOVk1azBmWm53Skpsc1JZeDg4d1RMWktQb1I1TUZTTlFSNHRqR0cyY0hvOEVsR2VHVklRTjd3X2taR2lMTFgyQ1k5MVVQN3F2UVVKVUJ2MW9kTEFLVDFvVUhwOW82VjZrQUhCSmFrejllN3o4cXNj0gGAAkFVX3lxTE1OZVlieWRjU2lqMm95a0ZFSWZXVVJxNDI5NW1LYzhpVXBYNzJqLXVsZ0lRUklhdEhDTXZLVjk4RmxqdWVYcGJmNEdBWTJKSFdTZkg4aVFlMGJ2bTNLd1hSNjk4MXo4OFVwYjhUeFpNRzFRdF9wci1fbDQ5UklkcjJLdzVxNC1uLXUwVzg2VmR6N0I5WTVrMGZabndKSmxzUll4ODh3VExaS1BvUjVNRlNOUVI0dGpHRzJjSG84RWxHZUdWSVFON3dfa1pHaUxMWDJDWTkxVVA3cXZRVUpVQnYxb2RMQUtUMW9VSHA5bzZWNmtBSEJKYWt6OWU3ejhxc2M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ピアウイ州でデング熱に対する警戒：専門家が予防とワクチン接種の重要性を強調 - G1"
-    },
-    {
-      "articleId": "gnews_cc5160c1cd4f21f4",
-      "headline": "Alagoas define protocolo para casos suspeitos de gripe aviária - Jornal Extra de Alagoas",
-      "headlineTranslated": "Alagoas defines protocol for suspected cases of bird flu - Jornal Extra de Alagoas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T23:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMngyRHNwbTlldkdQUWZwUzFhUWQ0eE9LNFk3bGRHVWYydEtJdVByaTRUaEpwdWZBZVRsYW5zeE9NMm5ETDltYklfN3NONU9VdS1UT3ViU3lxV2gybHQ0ZHVSb290cEFSMWxlNVRLcEdfTHBmMWhLNnhKc0pKdWVQZ2NkZnZncXdULWZ1Yk1sa0JpdUpSblZ3Y0pDenpRUk12STN1QVQ5a2VNZE44bkxsVkctZXN4WktlM1hNLXpnVQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Extra de Alagoas",
-      "headlineJa": "アラゴアス州、鳥インフルエンザの疑いのある症例に対するプロトコルを定義 - Jornal Extra de Alagoas"
-    },
-    {
-      "articleId": "gnews_ac5ae71578eb7f49",
-      "headline": "Piauí tem 28 cidades em alto risco para dengue; Saúde aciona plano de emergência - CidadeVerde.com",
-      "headlineTranslated": "Piauí has ​​28 cities at high risk for dengue fever; Health activates emergency plan - CidadeVerde.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T22:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTNKTGFRQTBia2pEODZ6ZU9fWTZfWmpBN1V1N3hseUhLSnAxQjdRaTVDSkxpcGthNTJXanN1LXJMc19sWXJBVVpQV0xCNDZ2X0htamhHdU5JT3g3MUhxN0hLRy1OZUxFZWlWem5uWlJTemg2dVV5ZFJQV0ljLThqc3BTWFFOaWkySUZpXzl1bXJJcHNhaXVuRWI3R3poRUhfT3I0bDhJckZ2S0ZmUEVDdXNlMmFENnRWNjJN?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CidadeVerde.com",
-      "headlineJa": "ピアウイにはデング熱のリスクが高い都市が 28 ある。健康が緊急計画を発動 - CidadeVerde.com"
-    },
-    {
-      "articleId": "gnews_581302bf6b3bea32",
-      "headline": "Mato Grosso do Sul confirma 2.102 casos de chikungunya e 10 mortes em 2026 - A Crítica de Campo Grande",
-      "headlineTranslated": "Mato Grosso do Sul confirms 2,102 cases of chikungunya and 10 deaths in 2026 - A Crítica de Campo Grande",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T22:08:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0dJZkFUS3d0LWJKU3JIaV84OHFMcWx2eDFhSFlUcVZweG1yQk45d0tTZnB2MWE0UV9NLURWUjhTbDg2RXQ0RVhLbHd5azB4RkoxRlRiRllqTldGS3ZuSnE3V1lGZUhTZDRxTHlNcV9PeXhmWTU5N2xWaThfaTNmZmpfX29zZFJ3YU9vdXNpalFINkJGVFZZQWF4ZWt0cW5VTFdB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Crítica de Campo Grande",
-      "headlineJa": "マットグロッソ・ド・スル州、2026年に2,102人のチクングニア熱感染者と10人の死亡を確認 - A Critica de Campo Grande"
-    },
-    {
-      "articleId": "gnews_8df9169f3a612fe1",
-      "headline": "Alerta H5N1: Alagoas cria Força-Tarefa e fluxo de emergência contra a Gripe Aviária - Alagoas 24 Horas",
-      "headlineTranslated": "H5N1 Alert: Alagoas creates Task Force and emergency flow against Avian Flu - Alagoas 24 Horas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T21:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkRRZmNJWWE4MTZSZHZXaW5oakFiU0ptUmxBeDJGQTdxdS1tY1RnVEJYQ0JYeEFlMGhaaXdQRGg1V0JUNWtBcXlVS0djdnhUZUF3c1FDUnlWckduRDZteXdiOF9adGhFaUhzeVVDand6TWQzZzRjbnBVSkRVVTVNNF93X2UtVHRvUUk0Sl85dVdpS2NRQ0J0Ym1nMjFvRVNhNnJHc1A1LTJ4SmgwV0tBY2lvTFZOR0JFd3pfZlZPNUVGeGvSAcgBQVVfeXFMT0locmRBM0lCZ1dfNHEwMXdGM2ZlNWRVMVVyc0NaNXl4OHBNZk0wc0pZbFZrZ0syN0I0eEJ4anl2SlMzdnpZMkJCZFNyMkhuREp5QzFvSG9DNmtJOGtqMnZZdk5YLXFDbDZWNFhVX3VSZkJNNHZFMDE3ZUNjSzQ1NWRVOFBzNkdHTWU2MTJqRml0T3Jjb2VNbmRBTThhczZzMXVnTGpCRDFvVDBLZW9IQjJrUGk2YmN0dThzX2dZNmhmZFUzbVVhTUY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "H5N1 警報: アラゴアス州、鳥インフルエンザに対する特別委員会と緊急フローを創設 - アラゴアス州 24 時間"
-    },
-    {
-      "articleId": "gnews_1a032c35cae84da1",
-      "headline": "Itália registra caso de gripe aviária H9N2; situação representa algum risco? - Estadão",
-      "headlineTranslated": "Italy records case of H9N2 bird flu; Does the situation pose any risk? - Estadão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T21:31:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTIzVE1TUjE0NXBNMEdUbWwtLTJLV1AyNV9nNVdDeHhWYmRjaEUwUFAwYWl1ZjZyeThJQm9tX1JVd3ZoaXJsVHJIYk9fbTkxUXBVcHNwVTM5U3RmY21fSmFTOFdJTnl2YmlxUXJrU2RfV0VaUW0tQ09vLXlFRHoxdm1lNmg2RzE0bHRpQXFGendNb1lpRF9GTkFDWUFEalJJcHFjUEVacWNHZVc1ZVZ2VnNWY9IBuAFBVV95cUxPYzNrOWR1YWo0a3EyRkpNNThySjhzZHZhM0IyTHZnR21rZnFMczVDNEFibU1TdHJnMHo3UzJUak1ybDdWejE4Wk1EMngxbTFfNjhnaS1NMm5VY2czcktmcUZPSEJFbjF0WDR1RndmU0ZsZzBiYjBVWXRBNnZ6WVVCa2lXUmlGQTN1ZmpMZzZGLXo3N2h2RmgtVXZDbHdaNEZSMGRSeHF4c3JyTk1GY3JvNXpidmpwbjRO?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Estadão",
-      "headlineJa": "イタリアではH9N2型鳥インフルエンザの感染者が記録されている。この状況に何らかのリスクはありますか? - エスタドン"
-    },
-    {
-      "articleId": "gnews_d2aeddcc15c2fcd7",
-      "headline": "Vacina contra Chikungunya chega em Mato Grosso do Sul na próxima semana - RCN 67",
-      "headlineTranslated": "Chikungunya vaccine arrives in Mato Grosso do Sul next week - RCN 67",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T21:20:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFU5VzZQUWtaT2tDRUZYa19yS29zNDEwTVN1T0dyQ0NLR0VzZWxRWHBCZlFBSWNOeFRnYTVwbUtaZE5ZM0FmZzJBVVJTQi1RcVoteWR2elNvV0FfU2drdkh6SEpWRnFxVE5CQzJKUnhDcDRJb1JhTWVFcnpUX0VZdDFYaXcwdnZoR1ViZDRGcEJJSkVOZzdlU0tUQUpzNXMxTVJiMmdMdVlQQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "RCN 67",
-      "headlineJa": "チクングニア熱ワクチンが来週マットグロッソ・ド・スル州に到着 - RCN 67"
-    },
-    {
-      "articleId": "gnews_74624e7d7cdfcdf6",
-      "headline": "Cabo da Polícia Militar surta dentro de apartamento no Bancários, em João Pessoa - WSCOM",
-      "headlineTranslated": "Military Police corporal freaks out inside apartment in Bancários, in João Pessoa - WSCOM",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T19:49:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1dDNEJJQUZYcllDZFZrWVVsVVUxQmhSM1Qybl84WjZDY1RZT1E0X1E4TzlpdUFaMUlhRVVmcmtKemVtU0s1dXR4Sno3cmx2UzlXVFVDRW4wVUF4SV9QTWM4WFFZLWJ5NVhHUHRrLVdiSlpKUU9uNXhFWjVmUUFWRE5nM25qZm9pTjZONzA5RE1BYldZRU1zQ2MtX2p6UHFfcHB5cUdCSVhZOENQb2VCNDZSZUIyZEg0ckV4Vlh4M2x3NXlrV3pLTE00VzFfeThBSkVV?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "WSCOM",
-      "headlineJa": "憲兵伍長、ジョアンペソア州バンカリオスのアパート内で暴れる - WSCOM"
-    },
-    {
-      "articleId": "gnews_6b882ec5237d8323",
-      "headline": "Piauí tem 28 municípios com alto risco para dengue; estado tem mais de 4 mil casos e uma morte em 2026 - G1",
-      "headlineTranslated": "Piauí has ​​28 municipalities at high risk for dengue; state has more than 4 thousand cases and one death in 2026 - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T19:38:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2pRRk5GMXBJZTcxbUFNakh6VVd0SXlLZ2VEd1FWcE9xNlFMTmw3ZThQMF9RVFF3SFFxYmNieDE0aE9mWEFfTXVud0FxVUVvcEF1N3g1T1g4YXN5S1BKZS1LdUJIbUdUS1QtUUkyQ3hXbjROQ0hFcHA1aW5GNWxaZUdzQ1pLVVF5OE5GNmFhVE5xTVXSAaIBQVVfeXFMT1R1NE81ZUV6MGZnanJSbXcyNXA4X0VyZkFjRXRJb3RteUxDdVNFZVBBcF9TbENycEtqRU4yaWdpMHBDU0RnNzhjaXctWU1KSWF2UktnUWRUQUtfYVZwNFh2bko0Tk5aYUd5VkJqTFA4NU5ReGdvMFdkbWRhdDFXVEJ2S19OdllkQlBvWjhUUHBKM19CZzQ0djJrdmZTdWhIOXRR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ピアウイにはデング熱のリスクが高い自治体が 28 ある。州では2026年に4,000人以上の感染者と1人の死亡者が発生 - G1"
-    },
-    {
-      "articleId": "gnews_d00f2fd191a6ee91",
-      "headline": "Boletim Epidemiológico: MS registra 2.102 casos confirmados de chikungunya - agenciadenoticias.ms.gov.br",
-      "headlineTranslated": "Epidemiological Bulletin: MS records 2,102 confirmed cases of chikungunya - agenciadenoticias.ms.gov.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T19:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFRWSW42YS1rU0R3MnNCUmpTRTh2N0ZQaDU4VWt2ZVhnLUtqUkZ5a181ZUI5YnY2LVhWMVhZbEV0R1Z2c2hZWVBmSXNwSDJJQU9kdjAwYUc3aFpUZ2hfb2tqZjh0QzBYa1lTUGs4OFhDYWxSY2FhTHF3aF92Y054VlF3czF0LWxXYWlHNk9ONXdUbjNtc2tKYVZtVDAtY29ZcENRdG9fTlYyWGl6SzFj?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "agenciadenoticias.ms.gov.br",
-      "headlineJa": "疫学速報: MS はチクングニア熱の確定症例 2,102 人を記録 - agenciadenoticias.ms.gov.br"
-    },
-    {
-      "articleId": "gnews_cc78350782a486bf",
-      "headline": "Giro Saúde destaca lei que garante folga para exames preventivos, sarampo no Brasil e Memorial da Pandemia - O Cafezinho",
-      "headlineTranslated": "Giro Saúde highlights law that guarantees time off for preventive exams, measles in Brazil and Pandemic Memorial - O Cafezinho",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T17:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTNsZEFDa2FTcDYtMjQ2ZlhFYXpvN1drQkpjalV3dVh0N3pXQVk0RlV2SjZJNkp0Vk5DTWRPTjRzMFJMUmRZcHN1Yk8xT25rZmVyeFkxNDFTbnhUTGFkNnp3Vk9UT1A0anZ4aVVRaTk2a2d0YmlUTTVtSk1nRUk3R1VSVnpreEdNNVFXV19pTi1EcUgxXzFtVFk3N0c3eGJ3YWhwMVNhMm5fSmVaZEJ1S3ZqQ0NQaGluOHJfZVE3OEZmT1BjTE82VExEME9TbTVyUjBVZVJaMnVZTkZs0gHiAUFVX3lxTE5Hem45d1R6cUlyME9PRnhvYTVfWmhWdXZURXdCNTZvRVh5M01YZ1NjT05SM09yQlpZcklLM29vUzg1b19haGFQWTZlR2JzSW5vZk5LSUhONjJLNFRScUV2RUQyaWN5M3g3WEJjQ2xpbUdmU2JVYVkyVmZIWU45Z19PdWVHRTVwdDhCZU5MaDJVWkxMOUNqdGlKaWdFOG1HRUpEUkVzTS1uUnlNUTJmd2NWU2tiNmFXUi1KODJnN1FrMWM1VE5Vejk3cXAyekVzMDF5OW5OOHNkbmFoRTlTejVwVUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Cafezinho",
-      "headlineJa": "ジロ・サウデ氏、予防検査、ブラジルの麻疹、パンデミック記念碑のための休暇を保証する法律を強調 - O Cafezinho"
-    },
-    {
-      "articleId": "gnews_0d20998b1acf2de8",
-      "headline": "MS registra 2.102 casos confirmados de chikungunya e 10 mortes, aponta boletim - Idest",
-      "headlineTranslated": "MS records 2,102 confirmed cases of chikungunya and 10 deaths, reports bulletin - Idest",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-10T17:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0g5djZRejZ5QWlNVlVKbGlUSHhVd05FX2h2dmkzd00zN2lvZ1JGOC1LLWVQU2swcWlXVXVoT3RyTWJ1MHd5QWxjdy1pX3k1MXJ4NnhGMG92R1ZMRUt2Y3pGT1JEeW02TkpqRWJadzBpSVZrejRSYkFhWnFMQzB1Z2tsLVhIUmJxRkEya2tkNjhqMXUzaUlFOFBjV1YzTGRaaG9aLW9Ub0FhcW1pUzVodXFoeHFsYk90clpkS0hHbDFiX1RWQjBJekJMcmNTREE3WUl3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Idest",
-      "headlineJa": "MS、チクングニア熱感染者2,102人確認、死亡者10人を記録 - Idest"
     }
   ]
 }
