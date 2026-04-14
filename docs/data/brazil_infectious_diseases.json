@@ -1,38 +1,252 @@
 {
-  "generated_at": "2026-04-13T17:15:51.614798+00:00",
+  "generated_at": "2026-04-14T02:55:11.034820+00:00",
   "date_range": {
-    "start": "2026-04-11T17:15:51.614798+00:00",
-    "end": "2026-04-13T17:15:51.614798+00:00"
+    "start": "2026-04-12T02:55:11.034820+00:00",
+    "end": "2026-04-14T02:55:11.034820+00:00"
   },
-  "total_articles": 29,
+  "total_articles": 35,
   "state_summary": {
+    "Mato Grosso": 2,
+    "Mato Grosso do Sul": 3,
+    "Brasil (estado não identificado)": 11,
+    "Goiás": 1,
+    "Pará": 10,
+    "Distrito Federal": 3,
+    "Paraíba": 2,
+    "Tocantins": 3,
     "Bahia": 2,
-    "Brasil (estado não identificado)": 13,
-    "Tocantins": 2,
     "São Paulo": 1,
-    "Pará": 6,
-    "Distrito Federal": 1,
-    "Piauí": 2,
+    "Piauí": 1,
     "Pernambuco": 2,
     "Rio Grande do Sul": 1,
-    "Alagoas": 3
+    "Alagoas": 1
   },
   "disease_summary": {
+    "Chikungunya": 3,
+    "Dengue": 14,
     "Doença infecciosa (não especificada)": 5,
-    "Influenza": 6,
-    "Avian Influenza": 6,
-    "Measles": 10,
-    "Dengue": 7,
-    "Chikungunya": 2
+    "Measles": 11,
+    "Zika": 1,
+    "Avian Influenza": 4,
+    "Influenza": 4,
+    "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_1bce62cb455cb2bc",
+      "headline": "Com alta de casos e mortes, MPMS reforça fiscalização contra dengue e chikungunya em Dourados - Mato Grosso do Sul Notícias",
+      "headlineTranslated": "With an increase in cases and deaths, MPMS reinforces inspection against dengue and chikungunya in Dourados - Mato Grosso do Sul News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-14T01:09:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM1VxVDQ5OEhYdGdZTTU3NmFPcWdMczdFUm52YTB0c3RJbm03YnVyNWo3QjhZTTNyek5mMnBmSlFHVmJwMGlLT2JsbTJCTW5ScDJySHRCR3ZrRHlzbUxvbkt0UDYycWpJZEpqUWEySk92Q19FZHNvYjVNUFFCSTk4bDJwUDd6SDh1T1YzTERCbEstSzNXVnFJUVZyVHB4ZXJOOWREaUdYa0NFdlhJTUQ3OWJSYldHdFVvWkNldWFSdE5NbkRvZGVqR25GWGNoODdpRTdidw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mato Grosso do Sul Notícias",
+      "headlineJa": "感染者数と死者数の増加を受け、MPMS、ドウラドス州でデング熱とチクングニア熱の検査を強化 - マットグロッソ・ド・スル州ニュース"
+    },
+    {
+      "articleId": "gnews_b09969f0b189475e",
+      "headline": "RN registra alta de 13% nos casos de dengue no primeiro trimestre - Tribuna do Norte",
+      "headlineTranslated": "RN records a 13% increase in dengue cases in the first quarter - Tribuna do Norte",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-14T00:57:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0VYQ2MzRWFvTVdBNkpWRFhVQktwQ2Zwb0VrUXhoY1FnSVRhSFFjT3QzVEZUTkpyd2pGVjFLd2NlMnh2anFHQnFGUjFRUHJQT09fUXdvVXE5RHIyWk5STWJ4TDJldXJkSlY0czk1Rmd2bzRjdlJCdEFDVGV4TEp0b0FJMkJmRXlKT1AyUW1IMnZfYkRLMUxYeUpNUGJqT0t4eXdz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Norte",
+      "headlineJa": "RN、第1四半期のデング熱症例数は13%増加を記録 - Tribuna do Norte"
+    },
+    {
+      "articleId": "gnews_e661d3b2dbbc9728",
+      "headline": "A Mídia Eletrônica mais completa de Mato Grosso do Sul - Jovem Sul News",
+      "headlineTranslated": "The most complete Electronic Media in Mato Grosso do Sul - Jovem Sul News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T23:59:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYW9uMHhjZFR4WG05QS1xSDNLc0JYOUVFQU14NU9WaS1sMUtqVmlrUFE1ZTlSRmhTdXc5clFNZHg2S25sMDgyWjRHM3ktbWVsMl9VV1l5R3lLZV9aaGdYelNHd3d6SFVTVHVodldCYzAyWGpkUTdrQUtKb2lvMGpqSjNxV0kteE5ya3E0ZEtYS0hyWUVTMnVRd1Z1bjZTTzkwNy1kSk50SEdDeFFEbGJ3a0xiNnpXMU14blR4ZVFoRGxzaVd6UFFXQU1IOEYyOUU4alVVemxoMkl2SnpvRWFpRlZacmxvQ01vaHdXN1I5T3pnR1o1OFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jovem Sul News",
+      "headlineJa": "マットグロッソ・ド・スル州で最も完全な電子メディア - Jovem Sul News"
+    },
+    {
+      "articleId": "gnews_314306bb554959a0",
+      "headline": "Dengue: 5 cidades de MS entram em alerta máximo - Campo Grande News",
+      "headlineTranslated": "Dengue: 5 cities in MS go on high alert - Campo Grande News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T23:43:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc01WVDdzbE1QVm01Q0JpRnNPMlljZlFsUVgwa2c2YmFZQjl1SkwwUUE1ZEw1RUdnRlh2TmRsUEpiYzN0ZzB1S192NE84bUM2WXhyM2lLdFRkV2RqYm1mUy1xT3FybGJwZWlEQ21kS2x1TjFEdnJVU2xVQzhqdTg1UlZCV2RMU1ZVWUhsNmtEU1VZZk5LZ3FWZW1xbUJ0aGxkdUZzMzVWVmZBM051cHpuamVDRmZjZnFiRE1KakpHSWVUTl9MbFZz0gHHAUFVX3lxTE96aWp3Tkk2VDMtYlUxN3ZWcldtbGROZ1c4Y2VCbzBSU2VwUVVkWkZsSHhtQ0IyVm50NGctN3doTVFOcGFBTEtGSkhLa1FMWUtyN3RKQmpsNTdtbGsyTk5nTlJsZ1N2b0dFakp2V2RsWDV4V0dyazBKNzRaTEFUaDVpTFNzdWFXaEZFNmQwM1NIWTRHc2QtaFVOZ0otdzV4dzM0bnVSS0tXblhrV3U4Y3JWVWVOY2FOWWRDSTJVN0dpeUJzOVJPY3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campo Grande News",
+      "headlineJa": "デング熱：ミシシッピ州の5都市が厳戒態勢 - Campo Grande News"
+    },
+    {
+      "articleId": "gnews_7845de9012e7e5ed",
+      "headline": "Goiânia volta a usar fumacê após 10 anos para conter avanço da dengue - Portal 6",
+      "headlineTranslated": "Goiânia returns to using tobacco after 10 years to contain the spread of dengue - Portal 6",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T22:05:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1FqdGM2alN4OWxPVEQ0NGV4QWJCdUFpZ0loY3hIMl9TbGhhTURfMDdaS3d6QlU3SXJQeFhUeHhOYWpXdWlfS0lueUxxUWpUV0lxRFdXam9Ca3pRWXZXS1llaDUxbEl3OEhIUTBNcGR5cUF2MWRRVXNwVlhBRkE4OFoxUV9nbXZuMWIwcW5PTFhad0toNDd0Vnh5Zmg0TEMydmUtbzFIMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal 6",
+      "headlineJa": "ゴイアニア、デング熱の蔓延を阻止するために10年ぶりにタバコの使用に戻る - Portal 6"
+    },
+    {
+      "articleId": "gnews_51734ce7422787c9",
+      "headline": "Queda da cobertura vacinal gera alerta para volta do sarampo - RADAR DIGITAL BRASÍLIA",
+      "headlineTranslated": "Drop in vaccination coverage raises warning of measles return - RADAR DIGITAL BRASÍLIA",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T22:01:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0wxU0FwRUZpdlJRYmFzdU5hZ3VDbkRqb2IyUjRYZC0wc2c2QWVnMWtrQzhjQkpldk9jZ0RISERCb2FoTXRpY0tiUjNFZWhwbFBRNGhCNzNKN2E3QkZVWmxzZGN5VDIyWGxDVTE3SHJLNDJLQVhUNHhBY3cwSXViRDZtamlZR0h1aW9ySmFmY0dfVmlFbE85d3NJdWRwNkR3d2dVeGRlVXlZNmVNM2JaUDVrTzJkTVotZm9pemtFenZsZXI3bk1MMlo5Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RADAR DIGITAL BRASÍLIA",
+      "headlineJa": "ワクチン接種率の低下で麻疹の再発への警告が高まる - RADAR DIGITAL BRASÍLIA"
+    },
+    {
+      "articleId": "gnews_6c5a91a5ae413bb7",
+      "headline": "Queda da cobertura vacinal gera alerta para volta do sarampo - Terra",
+      "headlineTranslated": "Drop in vaccination coverage raises warning of measles return - Terra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T21:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXc4OGRucmh4c3IyczRvWTZqbURCa3ZBTXJCUmtwbEFMLW80NjRDYld5NXJKeEVTRmd4RzdudWs2akVwckUxN1dWaTRXd0dveTh5NDd1UXBQOUlERFVDWjNvQ0xPOXhGM0hhMW82WlZsMHhKSUZaSldXOUZMdEZ1MDV0dmtLREpQcEt6S0I5MHRuYUMzUHkyejhpZ1NFSWpkQzRRMnl5V1hPQXltR1JBUTYwQU4zdEZ6Q3haT3JTSzlCY0tjbjc0MXoxYTV6R2dNR05qYzZSSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "ワクチン接種率の低下で麻疹の再発への警告が高まる - Terra"
+    },
+    {
+      "articleId": "gnews_237c26957d0e25fe",
+      "headline": "Fumacê começa a circular em João Pessoa no combate à dengue - politicaetc.com.br",
+      "headlineTranslated": "Fumacê begins to circulate in João Pessoa in the fight against dengue - politicaetc.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T20:50:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTFzZGk0NFk2ZFlYOUpvMVN0QlpLdlFSYUs2Nm50RFYzNmlZdlhKRUhIM3NoOVJuMkN6NV9lUlNnVk56bHY0MGZWd0RfNFFoNkszOF9KWXE2VkxMVlhzdmRtZ3BiZU5xUGh6TjJoOEFBalNQMUdPSU1fZ2xGU0V1enRaYXpaeE9MM0hDUXlVaWtRUmV2bzhZbC1HcHBBTEs0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "politicaetc.com.br",
+      "headlineJa": "デング熱との戦いでジョアンペソアでフマセが流行し始める - politicaetc.com.br"
+    },
+    {
+      "articleId": "gnews_634bfa0f161841b5",
+      "headline": "Saúde inicia aplicação de fumacê em João Pessoa para enfrentamento da dengue, zika e chikungunya - Polêmica Paraíba",
+      "headlineTranslated": "Health begins applying fumigation in João Pessoa to combat dengue, zika and chikungunya - Controversy Paraíba",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T19:46:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTm04RFdMY1JSUUZ1SzJjcEpoektRTTFwSTBsYXVPWTUwd0l2cDBaYzVaU2JNblRTelYzQTJjV2JoT2haMldRdUJDTllGaGt1ZGRyLXlRSHVyYXhCblNfU25TbVE0ZjhjR3pueFVqSVNQX1FLMXlEb2FfTDRubDhkX1RBV0xhTlpoTndYZlFucnN4WG9kMGdYQm1hTVVGNGJKYTJmc292XzFvTGdpZmFNYVZxQ25SaVJ0OXlXSmtsaG1ta3JFa2VmUXFQTkhqRFhBZVJv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Polêmica Paraíba",
+      "headlineJa": "デング熱、ジカ熱、チクングニア熱対策として保健省がジョアンペソアで燻蒸を開始 - 論争パライバ"
+    },
+    {
+      "articleId": "gnews_24784d423b74a0a0",
+      "headline": "Com histórico recente no Tocantins, sarampo volta a ameaçar o país após casos importados - afnoticias.com.br",
+      "headlineTranslated": "With a recent history in Tocantins, measles threatens the country again after imported cases - afnoticias.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T17:34:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWtGQnB6S1J3SE11UlhJQ2lvVzRGT25BeThWWm82ZXRCM0xlNjZoaTRXZFROUTl6dkhPUExuSXprQmNoS0h6bTUwdWhKQUZNQ2h1aXJpNnFsU1JoU0VwNTFLOGNSU3VFbjhLN0RTcl9DeGdkNWwtRl9fc1NJQlJCN0JjWHdocHZ2WjlXbndvZG9qcldJUFhHeUc2anFwZFg5VGl4VzU4Ym95ZFdxVVZjU2lWMDlTNlpLUGpyeQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "afnoticias.com.br",
+      "headlineJa": "トカンティンスでも最近発生した麻疹は、輸入症例を受けて再び同国を脅かしている - afnoticias.com.br"
+    },
     {
       "articleId": "gnews_83294dc267a33adb",
       "headline": "PRF intercepta mãe em surto com 4 filhos na BR-242, no Oeste da Bahia; vídeo mostra atendimento - Portal do Cerrado",
       "headlineTranslated": "PRF intercepts mother in outbreak with 4 children on BR-242, in Western Bahia; video shows service - Portal do Cerrado",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T16:19:47+00:00",
+      "publishedTimestamp": "2026-04-13T16:20:39+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGJLUjIzNnd6cEFjZE1jNU1ZRXZQUEIwc3l4YWo5OFYzZUxpdmp3Y245Nm9mQjVlSnJEUGFUcDRPcThQOWI5X2xlSGluWGFja1FYZExUeGwyX0VCbDR5R0stUU5jdThEZWFIc2VKTzFkd0pWRXhhbkhSbzFRS1cxRUZVZE9xRS1r?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -67,6 +281,26 @@
       "headlineJa": "致命的な病気は2026年に再びブラジルを脅かす可能性があると専門家が警告 - JETSS"
     },
     {
+      "articleId": "gnews_9689c5a70e6077d1",
+      "headline": "Sarampo em SP: primeiro caso de 2026 confirmado é de adulto não vacinado - soubrasilia.com",
+      "headlineTranslated": "Measles in SP: first confirmed case of 2026 is in an unvaccinated adult - soubrasilia.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T15:45:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGlNRGd2M3dBcEt5RlJGVHg2TXlqX2dJbVFhUjE2NjY1bTkxNDF4NkpSVDVhdk1UUVVXdmpfY1Vmb3BHRFZET0NqWUQ0eW94UGFhZ2ttcWJHUTdQdHJmXzFrTjUzWktiMlpmaEJaODJNX1dUbGRwZm9pZmFpZjF2VERHc0NyYWYyYlA5TUtHMUk4NUg5MlhtaVg0TzU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "soubrasilia.com",
+      "headlineJa": "SPの麻疹：2026年に最初に確認された症例はワクチン接種を受けていない成人だった - soubrasilia.com"
+    },
+    {
       "articleId": "gnews_45e13a43ebfabb73",
       "headline": "🚨 Gripe aviária: instituto faz alerta sobre perigo de contato com aves #BalançoGeralAL - TNH1",
       "headlineTranslated": "🚨 Bird flu: institute warns about danger of contact with birds #BalançoGeralAL - TNH1",
@@ -76,8 +310,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSHZKb1FJSm9jNC1XX2RJb1NSMmZqbWNBTTROLTd2eGlzYVh2MXV6SE04VXluMXRTREItNkFBT3NHWjhIVWtqcWpFUHFFRGJVaGU1dy1uSjlyZkJ5eHJoRzZQODZDU251d2YyNmhKSnRYeWZJVFB6b3V4YzVLQk5Gb1VycmxvN25uV0FmLWRUVFRWZ0ZieXRjNkRPRmJDSHVDZENZY1lFdWRrT05wY1hBeDFEMGxXVUxVQm1qN0ptUV9kU1lXSmc4TVdXa0ZhR0U?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -108,28 +342,6 @@
       "headlineJa": "トカンチンスで最近発生した麻疹により、ブラジルで麻疹への意識が再び高まっている - Conexão Tocantins"
     },
     {
-      "articleId": "gnews_a5e8e42fe13a3648",
-      "headline": "CASO IMPORTADO DE SARAMPO EM SÃO PAULO ALERTA PARA VACINAÇÃO, INCLUSIVE DE ADULTOS - - Bahia Economica",
-      "headlineTranslated": "IMPORTED CASE OF MEASLES IN SÃO PAULO ALERT FOR VACCINATION, INCLUDING ADULTS - - Bahia Economica",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T14:34:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHFCQTdubE96a1ZJbGlpcl90STlsTEhYTGo3cUZmMzBsWTVYSGxLZV9HM29IUVpPcy1aVEpBSFJrRHQ3WHRaQ1JFeGtwUkZheTJ1V08wMk5jc0g4aGZod1VqQ3ktUEU2bEgxSExWQjZLS1JzRmhRbDg2cFlBOGUwdmJxYnpSOXZ5NVdHSDN2ZWRIdEQxT25BNkJBUGYtQzFLclVROUlEd0NuWHg3QWEyczJDcHpKV3Y1b2ZTcllqNVVNOGtZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Bahia",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "- Bahia Economica",
-      "headlineJa": "サンパウロにおける麻疹の輸入症例、成人を含むワクチン接種を警告 - - Bahia Economya"
-    },
-    {
       "articleId": "gnews_bf39665391cc69cd",
       "headline": "Costa Rica está entre cidades com maior incidência de dengue em MS, aponta boletim - MS Todo dia",
       "headlineTranslated": "Costa Rica is among cities with the highest incidence of dengue in MS, reports bulletin - MS Todo dia",
@@ -150,17 +362,17 @@
       "headlineJa": "コスタリカはMSのデング熱発生率が最も高い都市の一つであると速報 - MS Todo dia"
     },
     {
-      "articleId": "gnews_fcdfd311bc41b8aa",
-      "headline": "Gripe Aviária: instituto biota alerta para riscos de interagir com aves - TNH1",
-      "headlineTranslated": "Avian Flu: biota institute warns of risks of interacting with birds - TNH1",
+      "articleId": "gnews_c6ba7f4ead3602ca",
+      "headline": "Gripe Aviária: Instituto biota alerta para riscos de interagir com aves - TNH1",
+      "headlineTranslated": "Avian Flu: Biota Institute warns of risks of interacting with birds - TNH1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-13T13:59:04+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejdiX0NITEhzaWhlUkFGdk40QllrUTcyWHhPNWNCLXltTEsyTG9sSzduekpibzRJRjliNVdrbnR2bXF4MGNXMkJOeW4zVWFPeHNrVVhSUmRKdHRVSmh3dGdCaVhPU1VTVlpreUVjSUdLRkg0eVJKckNkT2VPUnV1TnFCQ2FMNjFfUEVoN2JGZmJGV25DczNQdGcyeFZyTk5IZjRSTGFoYllyNTE3dlFDbmNRX1V3TUF5XzZ2a0s4UQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -168,16 +380,16 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TNH1",
-      "headlineJa": "鳥インフルエンザ：生物相研究所、鳥との接触のリスクを警告 - TNH1"
+      "headlineJa": "鳥インフルエンザ：Biota Institute、鳥との接触のリスクを警告 - TNH1"
     },
     {
-      "articleId": "gnews_e1399445fa727189",
+      "articleId": "gnews_8e2a7113be8d172e",
       "headline": "Viajantes e profissionais da área de turismo devem se vacinar contra o sarampo - Jornal de Brasília",
       "headlineTranslated": "Travelers and tourism professionals should get vaccinated against measles - Jornal de Brasília",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-13T12:36:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFZtekpMN0NWOHRaX04yRUNvSzg2bExvRjUwcF9RYjJCWUxtMmlVRHdZOFZzSkoyNWhuekoxMGIxdXU4ZGxodE53RVkxSmtDX3pNb2E0bTRVc2lhVkg5UTFCOXljQ0Y2UkUyRElTMkVIZnhEZGRObDJCc0pJcU1hNUNPZjF0d0N5SndfOXdTc2R4cTNlVDhUY2s5VTg1Uno1c3pwLXpZbmRMREZHNHVnekdfSGRIZ0RoZy04cQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX05ZeW9MUmpRMjI2VkV4Mi1JNk95SUFWamZKR01zaGFfVGEyMnUya0dTMDNIQURNS2wyWVJ5cHNJZExBVjBhWXlTVTV0bTBobmRqQ3Q1Y3k5N0lOUlVHLVp5WE55YjJwY2xKYUhWNEdKWjVpXzcwemUwUG92RlRvYjZ1RDA1OUozVHViNUc3VnBOeGZycXZOclQ5UmlIY3ZrXzJsVFNpbS1KX0ZrczlvWVZ5ZFJOWFpkYkN2dXVieWs0VUVI?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -189,6 +401,48 @@
       "dataSource": "Google News",
       "sourceName": "Jornal de Brasília",
       "headlineJa": "旅行者と観光従事者は麻疹のワクチン接種を受ける必要がある - Jornal de Brasília"
+    },
+    {
+      "articleId": "gnews_a5e8e42fe13a3648",
+      "headline": "CASO IMPORTADO DE SARAMPO EM SÃO PAULO ALERTA PARA VACINAÇÃO, INCLUSIVE DE ADULTOS - - Bahia Economica",
+      "headlineTranslated": "IMPORTED CASE OF MEASLES IN SÃO PAULO ALERT FOR VACCINATION, INCLUDING ADULTS - - Bahia Economica",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T12:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHFCQTdubE96a1ZJbGlpcl90STlsTEhYTGo3cUZmMzBsWTVYSGxLZV9HM29IUVpPcy1aVEpBSFJrRHQ3WHRaQ1JFeGtwUkZheTJ1V08wMk5jc0g4aGZod1VqQ3ktUEU2bEgxSExWQjZLS1JzRmhRbDg2cFlBOGUwdmJxYnpSOXZ5NVdHSDN2ZWRIdEQxT25BNkJBUGYtQzFLclVROUlEd0NuWHg3QWEyczJDcHpKV3Y1b2ZTcllqNVVNOGtZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Bahia",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Bahia Economica",
+      "headlineJa": "サンパウロにおける麻疹の輸入症例、成人を含むワクチン接種を警告 - - Bahia Economya"
+    },
+    {
+      "articleId": "gnews_d711bf8c7aedbe56",
+      "headline": "1º LIRAa de 2026 alerta para alto risco de dengue em municípios de MS - Capital do Pantanal",
+      "headlineTranslated": "1st LIRAa of 2026 warns of high risk of dengue in municipalities of MS - Capital of Pantanal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T12:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWQycW5BR3ZPUGEyMzdPRWFfdXpkNEI0dnhjVGdvcEV6TEdTR3JYQXZsejliQnZtMDI5WHdRVE1JSk1OYWE3c2RKSV9PNE5oZ00wWWFYSWR6cjlPa0xrM1ZEM1oydl9qa0tLZjZiVVlxb3hCT2tfaGY4S3hFb3FBUFpfR0h0dG1wbHBCX3EtUHkzcXMwcEJxX3MyRndiZDBmejY3b0ZVR3l6QWJra0VZdTZudE81ZHo0emgxWldfUkItV1RxV0FV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Capital do Pantanal",
+      "headlineJa": "2026年の第1回LIRAaは、パンタナール州の首都MS州の自治体におけるデング熱の高いリスクを警告"
     },
     {
       "articleId": "gnews_a908d2c23fa860ce",
@@ -209,6 +463,26 @@
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com",
       "headlineJa": "ピアウイでは、2026 年に 4,000 人以上のデング熱感染者が発生する可能性があると記録されている - Notícia da Manhã | CV プレイ - CidadeVerde.com"
+    },
+    {
+      "articleId": "gnews_7fe8c82d806a06bd",
+      "headline": "UFAL retoma aulas presenciais na Faculdade de Direito após caso de meningite bacteriana - Francês News",
+      "headlineTranslated": "UFAL resumes face-to-face classes at the Faculty of Law after case of bacterial meningitis - Francês News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-13T11:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXVxdjJpeEJlSE1XeXpiNjh3cnVQRjdfOU16LVhGeUg5aEpkdndnNzgyUm5nUG0tbkl4S0Jpam9tdmUzdFZmWVZnYUliUHg3Mk1VajJRSWxVQ0dKNlZYVm5NQjZ4anptc0F4TmEwQWN4NS1icjZUVDRScEdxeEJ2Ym9HNEJSVkltNEZucTVCV1owUURFTEN1Mmd2R1VfaTFQVHp2NHVwVGFkaG8yVHBOcnpaeE9iNnhYNy1JVVNCd2R6VFprT09FeWNOM1pEc2R1b1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News",
+      "headlineJa": "UFAL、細菌性髄膜炎の症例を受けて法学部での対面授業を再開 - フランシス・ニュース"
     },
     {
       "articleId": "gnews_1d3361201fa28661",
@@ -250,26 +524,6 @@
       "dataSource": "Google News",
       "sourceName": "cidade997.com.br",
       "headlineJa": "ペルナンブコ州のデング熱感染者数は第1四半期に13%減少 - city997.com.br"
-    },
-    {
-      "articleId": "gnews_04a1220a60549259",
-      "headline": "Sinal vermelho: Sarampo volta a preocupar o Brasil após novos casos confirmados; entenda o risco - Jornal Impresso Brasil",
-      "headlineTranslated": "Red light: Measles is once again a concern in Brazil after new confirmed cases; understand the risk - Jornal Impresso Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-12T19:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUktvMTFJek5nM1JSY3lEUDJZYnhUQ3MzXzJHb2dNcXFSdS1aLXdWYUNRN29lWmZuUmEyX0haR0F0dG9PUGROMHBid1RiV0V5MEVvcjBOanB1SWNJWjh4cE1SekFycHJfckMzbjhoVElBSE1XbHNOZnk5aDQtWElfQ3JOV1F2bnF4RmxNYWlLYVl5UXlIV181SlRMd1U3eWlPazRKSGdUM2hNTWVFaHQtNHZqYXhOSGgybWVRRkdoVE5palNwWE11NE90UQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Impresso Brasil",
-      "headlineJa": "赤信号：新たな感染者が確認されたことで、ブラジルでは麻疹が再び懸念されている。リスクを理解する - Jornal Impresso Brasil"
     },
     {
       "articleId": "gnews_043c0fa6390c6e60",
@@ -321,8 +575,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNR2s2V1RlTmJFSmFCZTJScDYybE1RSGJfRDMyOVZjN1dIekcxdGhFNVFMSWF1RWpDcEdIczBKbkYwUWM0Q1d3dUtCeTVFbzZoUURjb1JMa3BfYVM0eHNsc2duZHhFTDFVeDlFU3ZHZ3EyNkVHVFNIUmtqNTJxTTBHTjViejRjcnVCTVl0VVIyMm41TWVPdDZTZnVDbFdLNS1zVW9vUkpHeDZ2RkdZYU5QMjgtM1hkdHdpdy1fX2ctUjU2Wmd5c2VscEQzRmFmdml5end2MnVVSjA2S0QzeWtfZFdCSmtZaU5Gd0wyMG9fbGJHRGtyS0lra0pJTGpoUlNOQ2lqWDhGV3A5RS1DZXRmNA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -330,7 +584,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Cadaminuto",
-      "headlineJa": "鳥インフルエンザ：動物衛生上の緊急事態の中、アラバマ州のビーチで人々が海鳥を採取、研究所が危険性を警告 - Cadaminuto"
+      "headlineJa": "鳥インフルエンザ：動物衛生上の緊急事態の中、アラバマ州の海岸で人々が海鳥を採取、研究所が危険性を警告 - Cadaminuto"
     },
     {
       "articleId": "gnews_311a2a607a855134",
@@ -393,26 +647,6 @@
       "headlineJa": "麻疹症例の進展 2026 年ワールドカップ前夜にリーグが警告 - Band.com.br"
     },
     {
-      "articleId": "gnews_39d0f9ff71c86958",
-      "headline": "Mistura de crack e Bombril causa surto de febre entre moradores de rua no centro de Teresina - OitoMeia",
-      "headlineTranslated": "Mixture of crack and Bombril causes fever outbreak among homeless people in the center of Teresina - OitoMeia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-12T14:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1BQeDV6a0FOakMyX0puQU84WHZxUFZySTRubDQxbVg0bm13alhaTHhwVVdrQVpaTE5xSzZrYXNXWHJpbHJZcExLTmIxMlFIZ1VMc3Q4ZkNUZW10ME01bTdJeHdod28tWFBpSE9FTHByUTJoVzR2LTVIVlRRUzlDbW5wbFlWWDB4UTVpS1JrOVN6Mlh4MDBqMndmV0MwYkNjVy11SGpUQlNnSFBldWhnVl9uM3hFVDl6TWliN3VJbTZ1UTN3bEMwYlZ6WTZVUDFxVEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "OitoMeia",
-      "headlineJa": "クラックとボンブリルの混合物により、テレジナ中心部のホームレスの人々に発熱が発生 - オイトメイア"
-    },
-    {
       "articleId": "gnews_b60b845b613dbd6d",
       "headline": "Homem em surto é morto após tentar tomar arma e agredir PM de folga em Porto Alegre, diz polícia - G1",
       "headlineTranslated": "Man in outbreak is killed after trying to take a weapon and attack off-duty police in Porto Alegre, police say - G1",
@@ -462,8 +696,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGVHYTBxOGxaUDBYWEZ4NUxMREstUUFsRHlKQUE2dUpDcXlvcFdvR3ZKV25zcUx3WkNiQi1ZekxNcE9LSkhMQmFMdXBaeEY3U3hudXFOUHVEX3pQVld6eEVLSWZ3SGFRTXU5cHpmYjJreWR2WnRDVEZRMlF6UWJ4RGdiUVhfdl9zX1JXeWJPRGxXSmVBVGVoT2lGTjl6VkJqemk2M01rNVhDR2lCNzZmZnBOQndOYTdmQVF6Wkt1d3lWWlZoQmxycA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -513,109 +747,6 @@
       "dataSource": "Google News",
       "sourceName": "Metrópoles",
       "headlineJa": "麻疹に対する追加接種はありますか?感染症専門家が明らかに - 大都市"
-    },
-    {
-      "articleId": "gnews_4553c8fe87b380b4",
-      "headline": "MS supera 4,2 mil casos prováveis de chikungunya e confirma 10 mortes em 2026 - Jornal da Nova",
-      "headlineTranslated": "MS surpasses 4,200 probable cases of chikungunya and confirms 10 deaths in 2026 - Jornal da Nova",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T20:49:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHdjZDRVck96OHN2YmV5dTBNQXZWdFlfamJqNllaN1E5bVhMek9LcTVhYTk3QWN5YUtVcFRKV3hFS19pNG9ucHZHZDVRci11d19ycElQX1pwdlc1ZzZhS1Q0ZTlUYzdRSGw0NDlkNVlEc2EzMmFHYzBpU2lfTEdXak9ET2I3M0pVTzAxVmtRWDlJMFpNUk12Wmg0WTJ6MjUybnd0R2NPT19pY1BDSDdwTDJfY2oydkRrTGhr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da Nova",
-      "headlineJa": "MS、チクングニア熱感染確率4,200人を超え、2026年には10人の死亡を確認 - Jornal da Nova"
-    },
-    {
-      "articleId": "gnews_b84d1fa4ee34f8cd",
-      "headline": "Doença erradicada pode voltar: sarampo acende alerta no Brasil em 2026 - BnT Online",
-      "headlineTranslated": "Eradicated disease may return: measles raises alert in Brazil in 2026 - BnT Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T19:54:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkczSlRGT0wybUowMkNBbU45cnAxbnl1d0ZQbGVULVVyLURCb1BHb3VCa01POS1TUVRxYVJJWW9nTGhnYmV0MlZfTHJ5ZmNrMVZYaDZLRnM3WGF0MVl1enh2XzV6ZTlhVnVMa2FpNzVQOVdmdFZTRUxHcGJJSUo1SmpWZ0JfM0F1NnFROGlwMnkteWxlZWxqLU9qb9IBoAFBVV95cUxQNVVxMjNHRWJaUDhOZkwzUUFwM3l4WU5vN2JNQjBxOWxCNnBGU2ZsUFhYdlUyNE90blhPSmxNT0hBMktGMlVhdXNwTkRHUWFteXBCSHYzSU5Cbk5VRUVmdmY4TE9yRVdFS1FHbjVMM1U5cHY0MTBfQlNXb3MyWXRhWjN0Zk9VUmVEMmhHNlpZZTlCTTJTTmVnRTdKdFBCa3RI?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BnT Online",
-      "headlineJa": "根絶された病気が再発する可能性：麻疹、2026年ブラジルで警戒喚起 - BnTオンライン"
-    },
-    {
-      "articleId": "gnews_97ed686c6588481a",
-      "headline": "Ave marinha é retirada de praia em Alagoas e reacende alerta sobre gripe aviária - Alagoas 24 Horas",
-      "headlineTranslated": "Seabird removed from beach in Alagoas and reignites warning about bird flu - Alagoas 24 Horas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T19:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWjdBUkNJZktNV1hWYWo0UGM1NXo5R0piSEVaSFV5WXBjTFo2aElyOWp4bExpSlB0d0xOQnNLcDVGdnU5M0x2aFdNNUF2TFktOWRrU3NLSnVSdHFFZS1HNDRXWV8wcE94RHJibnZ5N1ZzclRHNjhkSjQyc0hwZzJZb05MTFQ1YjVlZGtUZVFBN0lMUU45b3JPZTcxemRMdzlRbkpRSy1iSzVDS1JOLUZVeWVTc2dGVTVDU2M4Z280X0nSAcYBQVVfeXFMTmdHRmpnbHBuVUQ0SW5NR29GQUIxUUk1SEdhci1YNjRqMUxUX0QwNDF1V05qdDU2R01mTC03VlpkS2VmLTBPZkFyRE5RWEM4TllJSm5CR2thMzlqRm1XRGMzQm16c2h1aTZUQWdra0F2WXVEM0FicmxqdmJSMW4ySFU1RUdPNkdPQWpNWldhUEc0UWM2WXMxenlkNVFwSHFSdF9YR1FuZVR0VEpZNDdsaDlSZ0ViUlRfeFNjSmlma2pkS2FKcFd3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "アラゴアス州のビーチから海鳥が撤去され、鳥インフルエンザに対する警告が再燃 - アラゴアス州 24 ホラス"
-    },
-    {
-      "articleId": "gnews_91cec269d2e348c4",
-      "headline": "Após ave ser recolhida em praia de Alagoas, biólogo faz alerta para risco de gripe aviária - TNH1",
-      "headlineTranslated": "After the bird was collected on the beach in Alagoas, a biologist warns of the risk of bird flu - TNH1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T19:22:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3BIRTFwQ1NOeEFVUWt0V3dvRXltZ1FMMFVtVUNGdW5OUkFxNlpRd3g3dzRIeFhYSGI4NnNtdnFjODZTZWlHUWZQR1V1TWdiaU1tUElJRjVsc0ZCZ2FwX3F3ZnBHY2NlV0VHc3QwcnB0bFV3b29aclRlM3h6Rko2YXVHZGlKb2t6OGNTV2JNaGQwOE5VNFFzbVhWVEJ2MHMxSmV6QmRhTGtMMUs1dTBXU2lRZkdoeUR6VFAwWlFHeUZDMlJK0gG_AUFVX3lxTE96dlV0Y3h5c1ZwZE9KQTU4VFNia2dNa2h6NjFSRzN1UWxvZ0g5U2pTSWNJbzRwVTZzM3UtTnFJUG1rUWEwN1IyN01kWDFTemgyVkhCYlJCTHIyUDh4OTFYbVhvX1hMVEwtRkhLS09TQ09IcEhncTNCcVJJRFhLMGZYWWRoN1hMTEFjLVdWblNkbVZaUkZRdGVWT3ZDT3Ryc09paEhEcTJTc3Z6YTNoaXVfc3JybTBkY0FUbWtpNWJ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TNH1",
-      "headlineJa": "アラゴアス州の海岸で鳥が収集された後、生物学者は鳥インフルエンザの危険性を警告 - TNH1"
-    },
-    {
-      "articleId": "gnews_afd4406bb93dde63",
-      "headline": "Sarampo volta preocupar autoridades e pode causar surto nacional - Boca do Rio Magazine",
-      "headlineTranslated": "Measles again worries authorities and could cause a national outbreak - Boca do Rio Magazine",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-11T18:30:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEJFMTVLRkxyanBWSzlhSThZcGU5dnVpMXEyZ2ZQTTVaWkREOEhlVlBoMTNNY0FTUmoyZzJTMEc5aXZTckk1NzdIX001SlF3YnpDYndIZHRSYzcwb083UnAzczYyamltX1pZS3Nyc1MzS0RETFJid1ZMQkcwRERjeFNPT1g4b0FZLXJSczlIUE5yZWVKMFhMUmNuUmUwOVU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Boca do Rio Magazine",
-      "headlineJa": "麻疹は再び当局を心配させ、全国的な流行を引き起こす可能性がある - ボカ・ド・リオ・マガジン"
     }
   ]
 }
