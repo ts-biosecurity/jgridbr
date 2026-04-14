@@ -1,37 +1,56 @@
 {
-  "generated_at": "2026-04-14T02:55:11.034820+00:00",
+  "generated_at": "2026-04-14T09:19:23.167427+00:00",
   "date_range": {
-    "start": "2026-04-12T02:55:11.034820+00:00",
-    "end": "2026-04-14T02:55:11.034820+00:00"
+    "start": "2026-04-12T09:19:23.167427+00:00",
+    "end": "2026-04-14T09:19:23.167427+00:00"
   },
-  "total_articles": 35,
+  "total_articles": 33,
   "state_summary": {
+    "Brasil (estado não identificado)": 12,
     "Mato Grosso": 2,
     "Mato Grosso do Sul": 3,
-    "Brasil (estado não identificado)": 11,
+    "Pará": 8,
     "Goiás": 1,
-    "Pará": 10,
     "Distrito Federal": 3,
     "Paraíba": 2,
     "Tocantins": 3,
-    "Bahia": 2,
-    "São Paulo": 1,
+    "Bahia": 1,
     "Piauí": 1,
-    "Pernambuco": 2,
+    "Pernambuco": 1,
     "Rio Grande do Sul": 1,
     "Alagoas": 1
   },
   "disease_summary": {
+    "Doença infecciosa (não especificada)": 6,
     "Chikungunya": 3,
-    "Dengue": 14,
-    "Doença infecciosa (não especificada)": 5,
-    "Measles": 11,
+    "Dengue": 13,
+    "Measles": 9,
     "Zika": 1,
     "Avian Influenza": 4,
     "Influenza": 4,
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_5a20fca53a879c8e",
+      "headline": "Vírus roubados de laboratório de alta segurança geram polémica no Brasil - ZAP Notícias",
+      "headlineTranslated": "Viruses stolen from high-security laboratory spark controversy in Brazil - ZAP Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-14T08:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53R2lMbURoTnpVZVUtTUNrZFlhbWZvTzZpNzQ3SnRkWHNuVTRlRmozb25oTXJLcUVCNmlEWmN2M3ZsU0RWM2V5ZzAxOWtVUUJwNXh4MGZvdlNNUGJJMlM3bVI1dENweHVYMk1nOWxB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ZAP Notícias",
+      "headlineJa": "高セキュリティ研究所から盗まれたウイルスがブラジルで論争を引き起こす - ZAP Notícias"
+    },
     {
       "articleId": "gnews_1bce62cb455cb2bc",
       "headline": "Com alta de casos e mortes, MPMS reforça fiscalização contra dengue e chikungunya em Dourados - Mato Grosso do Sul Notícias",
@@ -129,8 +148,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal 6",
@@ -150,8 +169,8 @@
       ],
       "locations": [],
       "states": [
-        "Distrito Federal",
-        "Pará"
+        "Pará",
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
       "sourceName": "RADAR DIGITAL BRASÍLIA",
@@ -213,8 +232,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Polêmica Paraíba",
@@ -403,28 +422,6 @@
       "headlineJa": "旅行者と観光従事者は麻疹のワクチン接種を受ける必要がある - Jornal de Brasília"
     },
     {
-      "articleId": "gnews_a5e8e42fe13a3648",
-      "headline": "CASO IMPORTADO DE SARAMPO EM SÃO PAULO ALERTA PARA VACINAÇÃO, INCLUSIVE DE ADULTOS - - Bahia Economica",
-      "headlineTranslated": "IMPORTED CASE OF MEASLES IN SÃO PAULO ALERT FOR VACCINATION, INCLUDING ADULTS - - Bahia Economica",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-13T12:20:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHFCQTdubE96a1ZJbGlpcl90STlsTEhYTGo3cUZmMzBsWTVYSGxLZV9HM29IUVpPcy1aVEpBSFJrRHQ3WHRaQ1JFeGtwUkZheTJ1V08wMk5jc0g4aGZod1VqQ3ktUEU2bEgxSExWQjZLS1JzRmhRbDg2cFlBOGUwdmJxYnpSOXZ5NVdHSDN2ZWRIdEQxT25BNkJBUGYtQzFLclVROUlEd0NuWHg3QWEyczJDcHpKV3Y1b2ZTcllqNVVNOGtZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Bahia",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "- Bahia Economica",
-      "headlineJa": "サンパウロにおける麻疹の輸入症例、成人を含むワクチン接種を警告 - - Bahia Economya"
-    },
-    {
       "articleId": "gnews_d711bf8c7aedbe56",
       "headline": "1º LIRAa de 2026 alerta para alto risco de dengue em municípios de MS - Capital do Pantanal",
       "headlineTranslated": "1st LIRAa of 2026 warns of high risk of dengue in municipalities of MS - Capital of Pantanal",
@@ -504,26 +501,6 @@
       "dataSource": "Google News",
       "sourceName": "Idest",
       "headlineJa": "MSは2026年にチクングニア熱の可能性が高い症例を4,281件記録している。 SESはデング熱による10人の死亡と2,793人の感染可能性を確認 - Idest"
-    },
-    {
-      "articleId": "gnews_1f55e267c781d36e",
-      "headline": "Casos de dengue caem 13% em Pernambuco no primeiro trimestre - cidade997.com.br",
-      "headlineTranslated": "Dengue cases drop 13% in Pernambuco in the first quarter - city997.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-12T19:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzJ1eDNOZTM0LUo5dXBFMjgyeGpQcTVTRW9VUE1RbFByYXU1UHg2Qk9VMTRPUmhQUUltSm5PRUZHcl94SVlRYUVwTjFmWFk4T3pBdHpGU0JocGRvMnBRQUY2aGhyTFppWGY0QjVlVWVXek5aRS1zdXZMZEFxNE9YazZNRnhHTWlpaFc3VTZn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "cidade997.com.br",
-      "headlineJa": "ペルナンブコ州のデング熱感染者数は第1四半期に13%減少 - city997.com.br"
     },
     {
       "articleId": "gnews_043c0fa6390c6e60",
@@ -701,8 +678,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Extra de Alagoas",
@@ -727,26 +704,6 @@
       "dataSource": "Google News",
       "sourceName": "Agora RN",
       "headlineJa": "パルナミリムの学校で学生がクラスメートや教師を襲い、約10人が負傷 - アゴラRN"
-    },
-    {
-      "articleId": "gnews_754b61d9a0ea963e",
-      "headline": "Existe dose de reforço para o sarampo? Infectologistas esclarecem - Metrópoles",
-      "headlineTranslated": "Is there a booster dose for measles? Infectious disease specialists clarify - Metropolises",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-12T05:00:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5UFNhZVpZRmphakdnWGQ4M2pmaFBFVnVTN1RMZVBDQ294WXFONFhkZkw4LXczUzVFUHZRUUxEOWZISlZWWkNWS014UVk4YkhrcUhkdG9XdC1XUjBEYnBuNm9hTTJEQTdmM1l1dTBpMXM2dEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Metrópoles",
-      "headlineJa": "麻疹に対する追加接種はありますか?感染症専門家が明らかに - 大都市"
     }
   ]
 }
