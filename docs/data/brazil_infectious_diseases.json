@@ -1,38 +1,137 @@
 {
-  "generated_at": "2026-04-18T08:53:11.278569+00:00",
+  "generated_at": "2026-04-18T16:54:48.890567+00:00",
   "date_range": {
-    "start": "2026-04-16T08:53:11.278569+00:00",
-    "end": "2026-04-18T08:53:11.278569+00:00"
+    "start": "2026-04-16T16:54:48.890567+00:00",
+    "end": "2026-04-18T16:54:48.890567+00:00"
   },
-  "total_articles": 75,
+  "total_articles": 60,
   "state_summary": {
-    "Pará": 10,
-    "Brasil (estado não identificado)": 37,
-    "Rio Grande do Sul": 3,
+    "Goiás": 4,
+    "Mato Grosso do Sul": 1,
+    "Ceará": 1,
+    "Brasil (estado não identificado)": 30,
+    "Pará": 8,
     "Sergipe": 1,
     "Tocantins": 1,
     "Minas Gerais": 2,
-    "Goiás": 3,
-    "Alagoas": 4,
-    "Bahia": 2,
-    "São Paulo": 6,
-    "Paraíba": 2,
-    "Piauí": 5,
-    "Ceará": 2
+    "Rio Grande do Sul": 3,
+    "Alagoas": 3,
+    "Bahia": 1,
+    "São Paulo": 4,
+    "Paraíba": 1,
+    "Piauí": 2
   },
   "disease_summary": {
-    "Dengue": 46,
-    "Meningitis": 1,
-    "Doença infecciosa (não especificada)": 5,
+    "Dengue": 30,
+    "Chikungunya": 3,
     "Influenza": 8,
     "Avian Influenza": 8,
-    "Yellow Fever": 11,
-    "Measles": 2,
-    "Chikungunya": 2,
-    "Malaria": 1,
-    "Zika": 2
+    "Doença infecciosa (não especificada)": 6,
+    "Meningitis": 1,
+    "Yellow Fever": 9,
+    "Measles": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_fc65c8bc0dea244f",
+      "headline": "Goiás ultrapassa 39 mil casos e 20 mortes por dengue em 2026 - Diário do Município Anápolis",
+      "headlineTranslated": "Goiás exceeds 39 thousand cases and 20 deaths from dengue in 2026 - Diário do Município Anápolis",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T15:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVhyTkNzSkZXQXhnZDhObFg3VWZ3RUtybEFXY1JWMkZXa0xJMmNVVDJ2ZjhhRE9iMm9TZXl6WW96YUJoOE1Id25WMWZhYWhXYllyUmdOdTFuZTAwX3JrcGpELTBxWmFyQ0hEQ29pYzJfSWRfVjBXaXNLYktUbW55OFVwaExNdzJCbVZBcm9fUmJkaGVqdU1pNDNNck1SdHVxNXM3Qnc3MA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Município Anápolis",
+      "headlineJa": "ゴイアス州、2026年にデング熱感染者3万9千人、死者20人を超える - アナポリス市"
+    },
+    {
+      "articleId": "gnews_98fca7fc37b000f8",
+      "headline": "Dourados chega a 5 mil casos prováveis de chikungunya - Midiamax",
+      "headlineTranslated": "Dourados reaches 5 thousand probable cases of chikungunya - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T14:44:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSF9vdXFVaG9GaUtfU25CZEl3ZlZST0xoRmFPRWwwSmwwblExMnFwemRYWUhQLU9ZZWVBWnlnaE9UMnlKRzhKbkZrTDNHd3Q4Zl9zOUhIcnB5STlyZDdMUVdZZHRlczNQR1puemh6MVVEa1BFSnJQZ3JLcFZBdS1xa3E5dzJZdGxHMFd0dnA1cU1JQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "ドウラドス、チクングニア熱感染者確率5,000人に到達 - Midiamax"
+    },
+    {
+      "articleId": "gnews_0068038707a7e114",
+      "headline": "Casos de dengue caem 75% no Brasil em 2026, aponta Ministério da Saúde - A Notícia do Ceará",
+      "headlineTranslated": "Dengue cases fall by 75% in Brazil in 2026, says Ministry of Health - A Notícia do Ceará",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T13:03:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXdidlZfaEJaeEVLUF9zeWM5YWJqdGQ1blFyUnJFM2c1STJPX0VEa1RXSmN5ZWV5Yk1oek1XcVBpUks3UC1fRktMNkpJc2cxVE1zSVVwTjNpaTNEeU9rSTJpVHlmd0pKX29zNmw0N1ZINnRsdWpCQzF0cUZ0bWJxcWlYRzRnOGhyY2lTc1lBR3h4LXRXcjhiaFdaLWk5dVozMWc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Notícia do Ceará",
+      "headlineJa": "ブラジル保健省、2026年にはデング熱感染者数が75％減少すると発表 - A Notícia do Ceará"
+    },
+    {
+      "articleId": "gnews_a3d40f4eba95c50f",
+      "headline": "Dengue no Brasil cai 75% no início de 2026, diz ministério - Poder360",
+      "headlineTranslated": "Dengue in Brazil drops 75% at the beginning of 2026, says ministry - Poder360",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T10:04:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjVVMEctY1BaLWxkTGxsR3FGWU1lcW53QXBlU3kzUGl2MGYzcUNQdFk0Ykx2VkNiRi0wR29GQm9Gc0h2aXlYR01xLTlWbTFHd2RsQXpUcUVjdHpGS1EwUFl6OUhHSC1pdTJBMlk4c21YQ3JtOXhxTXRIRjZKcFF4S01jQUxwQ2p5UVQ1Nm5Ua2QzYk4zNk5EM3dER0syUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Poder360",
+      "headlineJa": "ブラジルのデング熱は2026年の初めに75％減少すると同省が発表 - Poder360"
+    },
+    {
+      "articleId": "gnews_e24491cc116644a8",
+      "headline": "Primeiro óbito por dengue no RS: detalhes da vítima idosa - DIÁRIO DO ESTADO",
+      "headlineTranslated": "First dengue death in RS: details of the elderly victim - DIÁRIO DO ESTADO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-18T09:57:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0FjQjNSY1lvbUlXRmw5VDBaU2hab1pjSGx2SjR6TU9jZEF4X3pneTctSVFEQWhWcHFObE9rTGlvOHNOMHI5M214Sk9lWTZCd0dCMnJocDdCQnNsLWdxaXJBVmJUc1B4TjNFWnRxNE1nYWhYNjFod3FLU1ozSUd1dG02Umg1REpkcjlmVk5nUlJNMjFXY1dNeTlVUW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DIÁRIO DO ESTADO",
+      "headlineJa": "RSで初のデング熱死亡：高齢犠牲者の詳細 - DIÁRIO DO ESTADO"
+    },
     {
       "articleId": "gnews_93edefe7255111fe",
       "headline": "Vai viajar? Veja dicas para proteger a casa da dengue no feriado; veja - band.com.br",
@@ -72,6 +171,47 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "RS、2026年にデング熱による初の死亡を確認 - CNNブラジル"
+    },
+    {
+      "articleId": "gnews_781c570c6ee9e1e3",
+      "headline": "IMA vistoria 50 propriedades rurais em exercício simulado de gripe aviária - Primeiro a Saber",
+      "headlineTranslated": "IMA inspects 50 rural properties in a simulated bird flu exercise - First to Know",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T23:04:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0hUNmhKeGF4eXlESmdWMVMwcmhZWk5leVRTVWJOcmFUYktaaU9QN01tSWwtQ0ttR0plODZKZWt4RFB2UnpPOThfa0k2N3ZDWWQyWk53ZGJCcUdzeTJRaTREOFVPYm5IUEMtdHRLSFZzTnpvRmFQWDlmRFR4dGVsWDM3WWladlpGRkREQmhFd0FoSWpjVTdPTjVkM0RhYUJrVVVleERLbGhqT0NWSVNFdmVhbEVMek0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Primeiro a Saber",
+      "headlineJa": "IMA、鳥インフルエンザの模擬訓練で田舎の土地50ヶ所を検査 - まず知っておくべきこと"
+    },
+    {
+      "articleId": "gnews_81d1627c3e9ad118",
+      "headline": "'Foi uma surpresa', diz Luciano Moreira, cientista brasileiro incluído na lista das 100 pessoas mais influentes da Time - Época Negócios",
+      "headlineTranslated": "'It was a surprise', says Luciano Moreira, a Brazilian scientist included in Time's list of the 100 most influential people - Época Negócios",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T22:36:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNF9lUnQwZm1mcHlKdXJBaFVqdnNwZC1rMWRFVnBJaWZYZUljNG5fTk96c2dBWUdtcEcyY1lXdlgwQ2JvRHFRNmF3OERnR01UbjBOOWlwOUg5czJLMmtUblc0d2RIMUhTa3lsNE9PZGlvRU9PTzFQZUhkbHQtWlpOWWJXcGxRRTRBVW5OZzRxenlPS0JsUW9Rb3RTTnk2dTJib2w5Wm9LM1otNDZvUEFKMVp5RkMwNS1TclZVX2hXX1diNk1kcnZmaGJwd0dMRnZGVUU2RkllSk9Sd2czNmhmVlBGSDRWQ0V0elVsTGJXaVRRTnQ0SzBZWjhJLUM5ZmFOR0HSAZACQVVfeXFMTlVuNGVYcEZCa3VYMGJUdnEwVXhPTzZfcmxleERHVFhQc0U5Smo2MFJQUEl1UmZjT2JieDY1SXZ1S281aGg5ODU2SE55b3ItbUwwb0R6eEdyTF9ZVEdfLWRjQklDWXlGWWdXUF9NdXJhd1NZVEYtZlRkOURwcUhlXzRGOHl1NEt5LXQ4YURZbXhuZW5QUjE5bVdRbWRCNHhyVkpxdlpIUjJ1Uld0djJrbDI0TG5DN3l5R1VkU3lVdFFfMm1hTDNLMzdfV05NSjBxdWwxdjM4WjdqbzlzUWRoTXNOZERmNGhwTFZTck9pNGZXdlFkVW1iNFdWUmJHSTZEdHBZNGtJdGdxRFRvUk9ibVM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Época Negócios",
+      "headlineJa": "タイム誌の最も影響力のある100人のリストに選ばれたブラジル人科学者ルチアーノ・モレイラ氏は「驚きだった」と語る - エポカ・ネゴシオス"
     },
     {
       "articleId": "gnews_e9b09ec26c5e4085",
@@ -114,26 +254,6 @@
       "headlineJa": "乳児の B 型髄膜炎に対するワクチンは SUS に組み込まれていません。理解します - CNN ブラジル"
     },
     {
-      "articleId": "gnews_564775acc947d05b",
-      "headline": "Rio Grande do Sul registra primeiro óbito por dengue em 2026 - Bei Notícias",
-      "headlineTranslated": "Rio Grande do Sul records first dengue death in 2026 - Bei Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T21:24:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTJOcVRxbXIwXzlfRTRxdXFRR0VSblVocTFiRVFWbkpNQUZ2M3VhNW9ZNTEwQmZqbEdrUDlNc1FNZXBJMWx1MnJYQkQ0SllZWFFCVDVLaUJRamJGUS1uR0gtbGR3R29nbHJTSU1teDBDSGhGNzJJaFRKSVJTZkFEY19mRUdkaUlWQmVHYk9kaFlDamJPby05MjEwbw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bei Notícias",
-      "headlineJa": "リオグランデ・ド・スル州、2026年に初のデング熱による死亡者を記録 - Bei Notícias"
-    },
-    {
       "articleId": "gnews_817280395a558755",
       "headline": "Mulher em surto psicótico é presa após matar filhotes de cães em Sergipe - Infonet",
       "headlineTranslated": "Woman in psychotic episode is arrested after killing puppy dogs in Sergipe - Infonet",
@@ -154,47 +274,6 @@
       "headlineJa": "セルジッペ州で子犬殺害後、精神異常の女性が逮捕 - Infonet"
     },
     {
-      "articleId": "gnews_5b216427529f23a7",
-      "headline": "Casos de dengue caem 75% no Brasil em 2026, aponta Ministério da Saúde - Folha BV",
-      "headlineTranslated": "Dengue cases fall by 75% in Brazil in 2026, says Ministry of Health - Folha BV",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T20:50:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlpCSm1WSW9sYUUyajBqMFEwNGhwbnBFNmRLdTRwdk9uaXoyV0NXZXh4ZU0tRml2ODNtZG9UMHlvT3c2WndCN1RQODZ4cXVENm9ObW05YW5LNHRST1ZaejEtUWc5Rjh5QU9BczFqRUpENlpKX19JNlRRQTRjZkZtbkZyaGFlUTFhdEdqcmhwUjRMdklqeFhLVmd2aG9tN3laT1NTb3lKejJzQmdON1hFdmJaWTc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha BV",
-      "headlineJa": "保健省、2026年にはブラジルのデング熱感染者数が75％減少すると発表 - Folha BV"
-    },
-    {
-      "articleId": "gnews_079151f28b909f71",
-      "headline": "IMA vistoria 50 propriedades rurais em exercício simulado de gripe aviária - Grupo Portal de Notícias",
-      "headlineTranslated": "IMA inspects 50 rural properties in a simulated bird flu exercise - Grupo Portal de Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T20:48:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVN1bU9pci14MDE3Ml9tZDUxQTF2TE83MmVZYTFzUGl1Qk1ydDFJb3VWY3VCQ3lGRHZsUExIZnVIY1BlM0x3Vmhjc2V4LXJUZ3UtdFB1VnpFZVdUTDF4M0VDaUp4R1EzM0RuMTdTNjdQNlgwZkRHNlppQndxTDdpQVNlMVhZRTN2aFB0ZXhlYjVFREU2T05FU0haTVRlVXVHOHJVWFFYTjgwR1JIcUFERkhR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Grupo Portal de Notícias",
-      "headlineJa": "IMA、鳥インフルエンザの模擬訓練で田舎の不動産50ヶ所を検査 - Grupo Portal de Notícias"
-    },
-    {
       "articleId": "gnews_a5fd90c6adf0a714",
       "headline": "17 cidades do Tocantins terão dia D da vacinação contra a dengue no sábado (18) - G1",
       "headlineTranslated": "17 cities in Tocantins will have D-day for dengue vaccination on Saturday (18) - G1",
@@ -213,6 +292,27 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "トカンチンスの17都市は土曜日（18日）にデング熱ワクチン接種のDデーを迎える - G1"
+    },
+    {
+      "articleId": "gnews_246b91c0b06f1580",
+      "headline": "IMA vistoria 50 propriedades rurais em exercício simulado de gripe aviária - Agência Minas Gerais",
+      "headlineTranslated": "IMA inspects 50 rural properties in a simulated bird flu exercise - Agência Minas Gerais",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T19:35:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa182bTZ3b3BZUlB4VjNpVHd3bGYzNVBQNzhRRk1zV2VocExORWpnYW1WS0s5MWJTMmg0MzM1NUx3NjZYU3p3dXlxX25WWGw4VVo4c0dtZlV1bHVXM3lRbkxFbTJCLXFqVnNqdnZLV2NIeHo5Z2hNb0JrNy1oX1NmMWJUY3BXZ29yV2RKdzIwY2Iwem5zcURUWGhCczlNYzRDY1BpRnFhU2tzak1Cb29ieFdlQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Minas Gerais"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Minas Gerais",
+      "headlineJa": "IMA、鳥インフルエンザの模擬訓練で田舎の土地50か所を検査 - ミナスジェライス州庁"
     },
     {
       "articleId": "gnews_56824d4edff2ca8b",
@@ -288,8 +388,8 @@
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
-        "Pará"
+        "Pará",
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Studio Notícias",
@@ -376,6 +476,26 @@
       "headlineJa": "マセイオ - マセイオ、デング熱に対する革新的な学校ワクチン接種戦略でExpoepi 2026で2位を獲得 - マセイオ記者"
     },
     {
+      "articleId": "gnews_0f26e75ec88d1e05",
+      "headline": "Confirmada a primeira morte por dengue em 2026 no Rio Grande do Sul - Jornal O Sul - Jornal O Sul",
+      "headlineTranslated": "The first death from dengue fever is confirmed in 2026 in Rio Grande do Sul - Jornal O Sul - Jornal O Sul",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T18:06:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDNsazR2ZWEyNGZmTXBvSVFVczM5bzVZemFtR3M4RDN5aTdXT3NfazkyUm4zakdZQmVQT2pqVzVjTEZzRUxDejdlMDhvM1ZoVzlyUUZjWmZsOUJWdk9OYnVIRTVrZFNtWThxTWdDb29ybXVHQ2d3clpUYkFrcG11YlJfY0RjTzhXdjlvWFJENG95V25Yby1v0gGcAUFVX3lxTE9IRExIeHFINVNQcHdtVHJ6Y3ZTUmtVZ2RHeUNlaTJtTlNXcmxtejZwcW5UUUFwOXVfQ1ZCZ2dtYjVabHd5V0djdk5felBLZ2h1cGduMTZ6WUZxaG5pQXBhTXR4aGdwU1hZUGZUY2hmTlVuN0FldEtnZklud0ZFOFp2eEpibWFBdjN5LWpGQU5KUEdhSnVLZ01TbEwyVw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal O Sul",
+      "headlineJa": "2026年にリオグランデ・ド・スル州でデング熱による初の死亡が確認される - ジョルナル・オ・スル - ジョルナル・オ・スル"
+    },
+    {
       "articleId": "gnews_b3ebe9b6b082d638",
       "headline": "Resposta rápida fortalece combate à dengue em Uauá e reforça vigilância em saúde na Bahia - saude.ba.gov.br",
       "headlineTranslated": "Rapid response strengthens the fight against dengue in Uauá and reinforces health surveillance in Bahia - saude.ba.gov.br",
@@ -449,8 +569,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -475,6 +595,26 @@
       "dataSource": "Google News",
       "sourceName": "A Redação",
       "headlineJa": "ゴイアス州、2026年に3万9千人以上のデング熱感染者を記録 - ニュースルーム"
+    },
+    {
+      "articleId": "gnews_54ccb655658458b6",
+      "headline": "Sarampo volta a ameaçar a comunidade com o registro de vários casos no Brasil - Portal Contexto",
+      "headlineTranslated": "Measles threatens the community again with the record of several cases in Brazil - Portal Contexto",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T14:14:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEhqeWxtYmhwQmdPNVZrUDltWUhXQzltNWJVanNIcmxBRFMySy12dGVVNk5SX01oSE9fWUhkUUN5QkdtMHZGTGRzTWE4YVN4c001Q1QtUHh4Yjhxc0pFZkxXNEozUG9aN0FpN0R3QWZ6amtQQzZxOU5nNFlacFJpa0REUENQcnJpOW5wQmQybVh1R3FOdW55UHNwNERhLWVXV0p6MjFISEM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Contexto",
+      "headlineJa": "ブラジルでの複数の症例記録により、麻疹が再び地域社会を脅かす - Portal Contexto"
     },
     {
       "articleId": "gnews_a2e2bea3a26d5abf",
@@ -517,26 +657,6 @@
       "headlineJa": "サンパウロで黄熱病による初の死亡者が記録 - R7"
     },
     {
-      "articleId": "gnews_4916e57ea1ae8bfa",
-      "headline": "São Gonçalo do Piauí reforça combate à dengue com campanha - GP1",
-      "headlineTranslated": "São Gonçalo do Piauí reinforces the fight against dengue with a campaign - GP1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T13:12:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOFN5ampGbDV6LUZvcTVvQWdQLXZyUVVGMGRodUdjQkhna0lHdkViUTVnYkZEa1pfWEx4eXFfbWo4X0x2UXo1SFNjYlplbkowdGIteUZsUk13R3ZOMFd4MTFVZlNSRDRuWFdIM2FWRVdZY3JQdVJlQVlMczNJMkZTaUZ4bzA1dXdudEFsSWFjQmpVX2JKRG9Scm5vbUR2NGJSZTN3QlV0TjVUSmQ2OG00TDIwQnRRRzJ2NkFfU3U1cHRlNHllblhwdXQ3alBwSHNiSnRfQllsdGJFT2FPYXR6M1NFN2h3bnotT1VIMdIB7AFBVV95cUxQOFN5ampGbDV6LUZvcTVvQWdQLXZyUVVGMGRodUdjQkhna0lHdkViUTVnYkZEa1pfWEx4eXFfbWo4X0x2UXo1SFNjYlplbkowdGIteUZsUk13R3ZOMFd4MTFVZlNSRDRuWFdIM2FWRVdZY3JQdVJlQVlMczNJMkZTaUZ4bzA1dXdudEFsSWFjQmpVX2JKRG9Scm5vbUR2NGJSZTN3QlV0TjVUSmQ2OG00TDIwQnRRRzJ2NkFfU3U1cHRlNHllblhwdXQ3alBwSHNiSnRfQllsdGJFT2FPYXR6M1NFN2h3bnotT1VIMQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GP1",
-      "headlineJa": "サンゴンサロ・ド・ピアウイ、キャンペーンでデング熱との闘いを強化 - GP1"
-    },
-    {
       "articleId": "gnews_94fe3cae4dbb70a5",
       "headline": "Ministro alerta para aumento de sarampo nos EUA e reforça importância da vacinação para quem vai à Copa - Tribuna do Sertão",
       "headlineTranslated": "Minister warns of increase in measles in the USA and reinforces the importance of vaccination for those going to the World Cup - Tribuna do Sertão",
@@ -575,6 +695,26 @@
       "dataSource": "Google News",
       "sourceName": "Portal R10",
       "headlineJa": "デング熱との戦いが住民を動員し、サンゴンサロ・ド・ピアウイでの警戒態勢となる - ポータル R10"
+    },
+    {
+      "articleId": "gnews_a15d7809b9121ce6",
+      "headline": "Boletim Epidemiológico: MS Registra 2.639 Casos Confirmados De Chikungunya - folhadoms.com.br",
+      "headlineTranslated": "Epidemiological Bulletin: MS Records 2,639 Confirmed Cases of Chikungunya - Folhadoms.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-17T12:10:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWI4UW5VRmdXbV90dElyaVFfN0MyaXVYMFlwLWNUNzdVWFBJblhoT3lLZ0U4Q09BUGhjMTg3bkVRdUx4a3kzWFRPODJ0MlBxSTY2Ny1LTDVHT09KWk9HQ3dQVTZndnNTY2Vsd2NDU1pjU01SbEphYUF2S3ItQWs4Zm5aMWYyMjJDVFBvS09DcXVMdDVmUzJPMHBMT0p4UXhZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "folhadoms.com.br",
+      "headlineJa": "疫学速報：MS、チクングニア熱確定症例2,639人を記録 - Folhadoms.com.br"
     },
     {
       "articleId": "gnews_99a376bdfaf84268",
@@ -617,26 +757,6 @@
       "headlineJa": "サウスカロライナ州でのサソリの発生で警戒が高まる。自分自身を守る方法をご覧ください - Guararema News"
     },
     {
-      "articleId": "gnews_3fc12619cd667c4f",
-      "headline": "vacina-dengue - A Notícia do Ceará",
-      "headlineTranslated": "dengue vaccine - The News from Ceará",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T11:05:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2dNcWxCT2MzODRyZGRucGZlUXVScV9NVi1TY0xNVzYyMGpkay1WME5qbEw0TzBIZUFGZG5ZZEJHS3J6NHh0OTJCYkFsYmR2RU5PUi1zNUcwTklpN0RyY0FLZGd1LVdsaG9DRjZ4WmVWZGpRLUt1c1dSUWtLYm5SWHk1Ml82cTJxVDFaaXNaOTgzQWViRlJBZzNTR0VYMDNsZXVz?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Notícia do Ceará",
-      "headlineJa": "デング熱ワクチン - セアラからのニュース"
-    },
-    {
       "articleId": "gnews_c474f2c3bfb73a12",
       "headline": "Febre amarela pode se espalhar com mais intensidade perto de metrópoles, revela estudo liderado pela USP - canal63.com.br",
       "headlineTranslated": "Yellow fever may spread more intensely near metropolises, reveals study led by USP - canal63.com.br",
@@ -676,26 +796,6 @@
       "dataSource": "Google News",
       "sourceName": "TV Pampa",
       "headlineJa": "ほぼ2か月後、リオグランデ・ド・スル州政府はタイム生態保護区での鳥インフルエンザの発生を終結させる - TV Pampa"
-    },
-    {
-      "articleId": "gnews_1becc6ec67929725",
-      "headline": "Estudo alerta para relação da dengue com a Síndrome de Guillain-Barré - Painel Notícias",
-      "headlineTranslated": "Study warns of dengue's relationship with Guillain-Barré Syndrome - Panel News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-17T01:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGdyeHFxV3NZMGlEWVNwMHNyQ3VLVUVxZXMzREMxalY0THFUTGl3NDVZa25DTlk4NFBxV3lJTGhEQ21rbkJnRlpSc3ZNaV9aTzRwNWdGZFdYMU9tZmpncUpYeWIyS1FtazdWUURLenVveDlLT0p6OURPR1dlYTlXRVVKTWd4RHI4MTFnUDlGZGV3bm1YRnd3emJESjFpTjRudTVTMUh4M1I1dFE1WUdyY3hR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Painel Notícias",
-      "headlineJa": "デング熱とギラン・バレー症候群の関係を研究が警告 - パネルニュース"
     },
     {
       "articleId": "gnews_e079e5958fc61b98",
@@ -921,26 +1021,6 @@
       "headlineJa": "SP、2026年に黄熱病による初の死亡を確認 - O Antagonista"
     },
     {
-      "articleId": "gnews_a3ee165148f8045d",
-      "headline": "Pacientes com dengue têm 17 vezes mais chances de desenvolver Síndrome de Guillain-Barré - enfoco.com.br",
-      "headlineTranslated": "Dengue patients are 17 times more likely to develop Guillain-Barré Syndrome - enfoco.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T20:00:42+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2tYbkF4LUJwY2ZPUWE5ZF9SWWpQd3l5c1lnZmFSVjJVeWFWaVRTSEpmLW04TnYyNjFmU0tGb1RtTnRQZy1xLTJiYXllcXh2OVlRanBYS3hrcXdOTlpwX0EydE9LcVpLSzVfdjlfeTNoR3FseHBIdzd3MFRwWHp4cTJmZ3hmVkI0RDVYTjAtb3RiWWQ3NWtuWmxrSHNJZkpINGlXckpfa2NIX2NWb05DUGt6SzB6blV5anFZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "enfoco.com.br",
-      "headlineJa": "デング熱患者はギラン・バレー症候群を発症する可能性が17倍高い - enfoco.com.br"
-    },
-    {
       "articleId": "gnews_c608ec8d37443f79",
       "headline": "Estudo aponta relação entre dengue e a Síndrome de Guillain-Barré - Agência Sertão",
       "headlineTranslated": "Study shows relationship between dengue fever and Guillain-Barré Syndrome - Agência Sertão",
@@ -1143,13 +1223,13 @@
       "headlineJa": "疫学速報: MS はチクングニア熱の確定症例 2,639 人を記録 - agenciadenoticias.ms.gov.br"
     },
     {
-      "articleId": "gnews_16ed4155483f28e9",
+      "articleId": "gnews_2699f3dba2d5a878",
       "headline": "Prefeitura de São Gonçalo do Piauí intensifica ações de combate à dengue com campanha de conscientização - GP1",
       "headlineTranslated": "São Gonçalo do Piauí City Hall intensifies actions to combat dengue with an awareness campaign - GP1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-16T17:29:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLVhrOFhHQWloQ2pvWHRDYkMyakJnaVBOaGthX1NyRHJSalh4OTVsRnBFSHJNcEVRX29yM2ZreE9YeERWaDBfVENsZ1o4cU53UzdkMzJrZl9BTElpOWlPUEpTOEZFdFhBMXNrbnprUVN6d0lvQXJNY0RialRjQVYwZl94dWE5UlVKdE83Z1FPTnc5QTQyX0ROSWFWTVZVOVFOZWNqSHFnN2paV1FDUWlWUkNwRDFlUE9RaUZVaklHTVFEc1ZndkRkUzFzWWRRcWhVZzR5T3BVUEQ4NFNoZjNSNG1KMnFjYV9sS2ptYXpMNXROSHRSekttcGczdWNLUmvSAf8BQVVfeXFMUC1YazhYR0FpaENqb1h0Q2JDMmpCZ2lQTmhrYV9TckRyUmpYeDk1bEZwRUhyTXBFUV9vcjNma3hPWHhEVmgwX1RDbGdaOHFOd1M3ZDMya2ZfQUxJaTlpT1BKUzhGRXRYQTFza256a1FTendJb0FyTWNEYmpUY0FWMGZfeHVhOVJVSnRPN2dRT053OUE0Ml9ETklhVk1WVTlRTmVjakhxZzdqWldRQ1FpVlJDcEQxZVBPUWlGVWpJR01RRHNWZ3ZEZFMxc1lkUXFoVWc0eU9wVVBEODRTaGYzUjRtSjJxY2FfbEtqbWF6TDV0Tkh0UnpLbXBnM3VjS1Jr?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd25BcTdkOUEtTTB0bTc4bUFxUjRkT2w1bVRQU1dJQ0Y0a0oxd0tHakdsWUpTZW1tOGF1S3ZfRnpiN2VCX3VxMlZ0TEduel9CYkxwTDVvLXVBcEphWkh3V1Y2NGt5YjhqU1A0REhBNFgzOUdOYVVWaUNVOHJlSjJOdXlkelNpWXVTSGkzNG9xcmNLRlhzNDdUMjZZZzBwSEdzclA0SHlta2Y4bjd0YW9qUDIxMGNfN3pzLUdLbEZ6eVdZSWtPNEJWS1lBYWtjZDgwZ0VMSnhJanhZN3ZoQXlNb19oNTVJVXo3eEF4Qk1qLXRPdS10YmNfNzZR0gH_AUFVX3lxTFAtWGs4WEdBaWhDam9YdENiQzJqQmdpUE5oa2FfU3JEclJqWHg5NWxGcEVIck1wRVFfb3IzZmt4T1h4RFZoMF9UQ2xnWjhxTndTN2QzMmtmX0FMSWk5aU9QSlM4RkV0WEExc2tuemtRU3p3SW9Bck1jRGJqVGNBVjBmX3h1YTlSVUp0TzdnUU9OdzlBNDJfRE5JYVZNVlU5UU5lY2pIcWc3alpXUUNRaVZSQ3BEMWVQT1FpRlVqSUdNUURzVmd2RGRTMXNZZFFxaFVnNHlPcFVQRDg0U2hmM1I0bUoycWNhX2xLam1hekw1dE5IdFJ6S21wZzN1Y0tSaw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -1161,391 +1241,6 @@
       "dataSource": "Google News",
       "sourceName": "GP1",
       "headlineJa": "サンゴンサロ・ド・ピアウイ市役所、啓発キャンペーンでデング熱と闘う活動を強化 - GP1"
-    },
-    {
-      "articleId": "gnews_47052042308e8d03",
-      "headline": "Comitê de dengue reforça ações de combate ao Aedes aegypti em Três Lagoas - ArapuaNews",
-      "headlineTranslated": "Dengue committee reinforces actions to combat Aedes aegypti in Três Lagoas - ArapuaNews",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T17:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVBpLWJwTXBPaXF4eF9fUGhZSjhNcTVxaUJtZ09ZTy11ZlJoa0pLb1ZPbTNXQjYxbk50ZmtBUy1sUmZSaEh0Mm56TWItdVUzUmpmeTFqSWRzd3AzeGU3VG5CZnFPeWg1QUtGcjAtTlJWTUpBNzVxdFpGR25NYmxoZUk2b0JDQ2dvUHpXMjYtQWw2RldxWDV4TkNnaTQ0dWZGcXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ArapuaNews",
-      "headlineJa": "デング熱委員会、トレス・ラゴアスでネッタイシマカ対策の活動を強化 - ArapuaNews"
-    },
-    {
-      "articleId": "gnews_4679f2ee1372a8d9",
-      "headline": "Brasil registra queda histórica nos casos de dengue; saiba detalhes - Bnews",
-      "headlineTranslated": "Brazil records historic drop in dengue cases; find out details - Bnews",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T16:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHloRzZoeTF2dHB5azJGWTF1bl9LVVZuaFNSam05MzQwLUtwZmZicVRhazZsc0ptTjJYX0NPdURWSVJVQndldzRuczU2WW1sWDhNZ2g0QUVtbE16djNTZFZXN3VKVm1oczdYN1hja0ZQZFJEWmNHellTTnhzelliRU52aGZxYXJ3d25hLThObTlpanU5NGh2ZkVBeVR5MEJsNVRWaTlCaVJCUGVxS3ZsVdIBtgFBVV95cUxQSjMzYXM4NndiNnhvWVhYUFlHVnlCYnRpUnNDLVBGR2Q3SklsQ0V6YnRaVDhzV0oxakpoU0lVWEpOaFViSndOblhkMFhYS3AxbmthaENYdVhEQnRGVHhDaTVTZ25pR2pCMzIwNzl5WGtHNDRSVk5VS0t2a0RQSWZXUTlOckdxaWJxMzY2OWVab3VVdU1IZUpheWRmbF9LbmVxdksxZzRyYlhqXzUzc09GeklyclRpQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bnews",
-      "headlineJa": "ブラジルではデング熱感染者数の歴史的な減少を記録している。詳細を調べる - Bnews"
-    },
-    {
-      "articleId": "gnews_279996883e55ac99",
-      "headline": "Brasil registra forte queda na dengue e avanço no combate à malária - barelandia.com.br",
-      "headlineTranslated": "Brazil records a strong drop in dengue fever and progress in the fight against malaria - barelandia.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T16:10:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjl6eTBjLUsxNGZVVW5HLTNhalcxWG1KTWs2MUdNMmM0MkQyZmt0VjVRcWZ6Vl9RLTBCbDhvWHhEWGJPdTB2TDZyNzUzaEJlSnhJTmx1SFBkbWwtaElnYkowNlV4ZDR3d1dCYUZnRkZVUVlqaUlWc0tLYUFteDFWd2dhRmM4R3dUOG02Vk4xZ0xaMWNaS0liRWY1UkxmTDZhUlE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "barelandia.com.br",
-      "headlineJa": "ブラジルはデング熱の大幅な減少とマラリアとの闘いの進歩を記録 - barelandia.com.br"
-    },
-    {
-      "articleId": "gnews_746292d225d45909",
-      "headline": "Casos de dengue caem 75% no Brasil, informa Ministério da Saúde - Tribuna do Sertão",
-      "headlineTranslated": "Dengue cases drop by 75% in Brazil, reports Ministry of Health - Tribuna do Sertão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T16:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWllOcS1UaVZEZDNZck01dEo5Y1hjOWJOWVVsdUI0MmgwNV9MQnYxNGZ1Qm12N2h6SFhmbzM0NTN5SlVVWmE1alFERXEwcDlHVm50akhxUWF4bnZLS1d3SVNqQWkydncyUU5XVWNoMHJVSnpvMEp1dFhaT05lcS04QV9Sd2hfbUJwdzdPdXN3alA1M2UwdmNNUGVBY0E3MlVkLU43SXppcVJOUDNjQnFyMkF6bkRnZW5OUGxoYWJGNHA4Uk12ZUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Sertão",
-      "headlineJa": "ブラジルでデング熱感染者が75%減少、保健省が報告 - Tribuna do Sertão"
-    },
-    {
-      "articleId": "gnews_836797b643ddb51d",
-      "headline": "Casos de dengue no Brasil têm queda de 75% em 2026: o que muda? - DIÁRIO DO ESTADO",
-      "headlineTranslated": "Dengue cases in Brazil will fall by 75% in 2026: what will change? - STATE DIARY",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T15:59:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjZySVdLY3Q4YTNtTEN2bzI0MVlFRGVOcTZTcHFwQWJrTzFXaFpYNkd4MTRmUE5lUTRnbnlZMkhGT2w5WlY1cUl0S2RCaDhRQjgzVEM0VDlPbGFwMnpLcHdyVVFmN1JzMkZIcHhER2JXUU9DWlp5VDJiekIzN0FjRzRRZmtlVWlCSjMtQ3A4RTVtMGNRQXhiVmVIUjFPbFhHTFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "DIÁRIO DO ESTADO",
-      "headlineJa": "ブラジルのデング熱感染者数は 2026 年に 75% 減少します。何が変わるでしょうか? - 状態日記"
-    },
-    {
-      "articleId": "gnews_fff4ed713190c65f",
-      "headline": "Casos de zika aumentam 25% na Paraíba - ClickPB",
-      "headlineTranslated": "Zika cases increase by 25% in Paraíba - ClickPB",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T15:45:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YzdDa01oLW11M1dKTlZVOXdPaDdSZFJYalQwNmc1cWxNdDBmS2tSZG1oLTQ5RzFhVUQzS1RDWTU0Ul80azQzUGxLZGkxMW03V0VkM3pfUW5XQnBpRE43U0VDLUxYVldBbDBWSlRR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Zika"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ClickPB",
-      "headlineJa": "パライバ州でジカ熱感染者が25%増加 - ClickPB"
-    },
-    {
-      "articleId": "gnews_44b6bdbafb677b2d",
-      "headline": "MACEIÓ - Maceió Inova com Ônibus Escolar e Aumenta Cobertura Vacinal Infantil contra Dengue - Repórter Maceió",
-      "headlineTranslated": "MACEIÓ - Maceió Innovates with School Bus and Increases Child Vaccination Coverage against Dengue - Repórter Maceió",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T15:34:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2pUZ3MwNS1VQmgyUVp0ZDdhZVZTTG5YNHd6bWpDUGFyOE9mLUFaZEwxZl9YYnhndFc0d2Z5WGFCRV9fTGQ3TUF5eENlNElhNHg5UkFsbFNUZVJUbTltRl9JdDRYbHBHRndTdVNvT0xuaUg2X1IwZjNWaGVka3NBTVZkWXpHSVNKWU91WGdLWjZLd2EyTm9aVUdIUjJITmxSZmIxVGxvSDc0QzhqMnJKT25ZVGJXQjFsZzRkOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "マセイオ - マセイオ、スクールバスを革新し、デング熱に対する子供の予防接種対象を拡大 - 記者マセイオ"
-    },
-    {
-      "articleId": "gnews_b3fbd94ee7cb7544",
-      "headline": "Pau D’Arco do Piauí realiza mutirão contra a dengue na localidade Vaquejador - Portal R10",
-      "headlineTranslated": "Pau D’Arco do Piauí carries out a joint effort against dengue in the town of Vaquejador - Portal R10",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T15:18:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdS1RMmZXc0UtM1lybDA4b3R4cDN4alA2aVZrcXp3V3ZJUDhJdkM0MVdrMkxzSkhpLTZPWVNNSlpaZkJqS1FkS1NEazlLS1E3TC01WTY4Vng0NHZvdTdReE5JTHZYZlFtQzZqejk2V3RKTWkxSnFQektTQUFLMWtUVXJocVM4dDdDNXNaVkFDNGdSWnRoYUQ4MUpiN3Z4Wm5vNU9WTkIxeFZlSmJrdW5hSWotc3pIcG5EMHJpQk5xcVZZWWfSAcgBQVVfeXFMUGVVUFFWLXdOMVhlYmhWV3ZmSThDSXVKM3hlZzY4c3hRZW12VlN1dUNGX3VpSDVidWZnQkI4bjNZeVBDeTU1TU5GYWQxUjJwdnpDXzZLQklsWk41V2hhMkV5X1Y3SE4zQnJMZHBXb1JwVVhvci0xellvb2VMX3lPNEU0Wkdqb05ORVgtU0NqcmtwQTZ5WVZCTFZtckk0Qnh6NTBzT2pVeFYzcDB6RXN2bzRDQnRwcXExUFp5bUpKS3pwUV93RF9ZeVY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal R10",
-      "headlineJa": "パウ・ダルコ・ド・ピアウイ、バケハドルの町でデング熱に対する共同取り組みを実施 - ポータル R10"
-    },
-    {
-      "articleId": "gnews_99ba514322b6af7c",
-      "headline": "Estado de São Paulo registra a primeira morte por febre amarela em 2026 - liberal.com.br",
-      "headlineTranslated": "State of São Paulo records first death from yellow fever in 2026 - liberal.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T14:39:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEV6Ti1KNVl5eGhQMmUxeVZNcXQ4VElXU2NGQUlBU3lkSEozQnZHWHNmc05Fd1ZWRVJrLWZpanZyZzlRTE1PQnZSZE1GdXA5Y3RVeHNlUUdwd0hlanlnRWpTLTNDWG1xbWdWM2hUVHBla0RlTVM0am1lYXpsd1FELXd5QzkzbTVMUG4xWUkyeWk3YmZCNDVRTmV0Z3NfaHEycmNvZVJQZU1qQ2NEZ3RfV05CT0dwUjhwbk5Z?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "liberal.com.br",
-      "headlineJa": "サンパウロ州、2026年に黄熱病による初の死亡者を記録 - liberal.com.br"
-    },
-    {
-      "articleId": "gnews_99dfc5b71c805894",
-      "headline": "Dengue em alta: com aumento da dengue, Teresina reforça combate a focos em terrenos - G1",
-      "headlineTranslated": "Dengue on the rise: with an increase in dengue fever, Teresina reinforces the fight against outbreaks on land - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T14:32:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaGJWUTJBcnZVa2diS1ptNXo2Sng3OHVUa0lzaTRDWVpzU1NBVFlDa3dPdjZobnVEV1VDQ1JRV0FUU1JFVHdEbEhBUUUxd2dTQ2g3WEdfbHBaUHVrRHp6NFQycmRMS0VoZWNRUlM5VFF0VW1ycHdyYlRVZ282QURPdjJ0dkZGY3dhT0pXc1lxYXBZeHhjWmJHYkdEVjZscUZLTVczS1g3bkUtWjh6REozeW9BRXpBMEw4akNmNk9BUlFzRU1hR2FKTU82QjRNeEVXbmRkZWwzV3pvNnVxR05iRzhCaWx2aWhUaWNMU3REV3hfMFBsOVg00gH3AUFVX3lxTFBoYlZRMkFydlVrZ2JLWm01ejZKeDc4dVRrSXNpNENZWnNTU0FUWUNrd092NmhudURXVUNDUlFXQVRTUkVUd0RsSEFRRTF3Z1NDaDdYR19scFpQdWtEeno0VDJyZExLRWhlY1FSUzlUUXRVbXJwd3JiVFVnbzZBRE92MnR2RkZjd2FPSldzWXFhcFl4eGNaYkdiR0RWNmxxRktNVzNLWDduRS1aOHpESjN5b0FFekEwTDhqQ2Y2T0FSUXNFTWFHYUpNTzZCNE14RVduZGRlbDNXem82dXFHTmJHOEJpbHZpaFRpY0xTdERXeF8wUGw5WDQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱が増加中: デング熱の増加に伴い、テレシナは陸上での発生との闘いを強化 - G1"
-    },
-    {
-      "articleId": "gnews_309927d00ee719d6",
-      "headline": "Casos de dengue caem 75% no Brasil em 2026, aponta Ministério da Saúde - ClicRDC",
-      "headlineTranslated": "Dengue cases fall by 75% in Brazil in 2026, says Ministry of Health - ClicRDC",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T14:30:11+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOakZTTGZJZHZsWGJucjNraVhNRFR0NTN6cXMtMnFWT1M2STlpQWstNWtWSi1hbm9LM201ZFphWVNXeEhvRV9DSjFWRmwxWlYyR1h6cVpuMWV2U0s0Wl9pNi1GZDUyRUhranltRE03SWR3NVNWcGl6M1ZFTFp2OXUzbW9TWnkyXzlTNUprUmt3dU5DRDFveE1YUmc2Rlp4TXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ClicRDC",
-      "headlineJa": "ブラジルでは2026年にデング熱感染者数が75％減少、保健省が発表 - ClicRDC"
-    },
-    {
-      "articleId": "gnews_44a47f04287cb200",
-      "headline": "Casos de dengue caem 75% no Brasil e vacinação ganha reforço, diz Ministério da Saúde - Agenda do Poder",
-      "headlineTranslated": "Dengue cases fall by 75% in Brazil and vaccination is reinforced, says Ministry of Health - Agenda do Poder",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T14:03:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWlwNDlDZG5hS0txWjBrNV9IZkRNalc1YXVzMmszREFYZHUwRnFrc1pvNEFKRFJ0ZEREdkFpb3pCZ0hwYXJ2andmeE5qeFYwNXd4THJxelo1cHJUUEtwTE1teTU4Y2FCTjd3SDBQZmVBcHRzcm9ET2QtWDFFR0VtTlZwak9XOHJqejVCb2xEbHluRG9MLWN0ZzhaZUZpZXV4b0JobWhEVnJjRW1NU0VwN3p6NA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agenda do Poder",
-      "headlineJa": "ブラジルでデング熱感染者は75％減少、ワクチン接種は強化されていると保健省が発表 - Agenda do Poder"
-    },
-    {
-      "articleId": "gnews_f204244793cf6cf5",
-      "headline": "Estado de São Paulo tem morte provocada por febre amarela - msemfoco.com.br",
-      "headlineTranslated": "State of São Paulo has death caused by yellow fever - msemfoco.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T13:47:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEdsR2F1NTg1NXdNUzhyYk9meHhoeXMyV1MwZTNzZVlGaDkxd2dnQ3VNa3VHSG5fY2hYMEpqQ0JoSXRWWlloTUJvcUhUYkZVekhvZGh6Q19YYWFFdnJQazRra2Z1d1dFSHpQTU9TazNnLU5XbVZWZmo5X3RZVy1UbWlXa0tqaFk2dUY5TE5UQkl5S1JhQUE2Qw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "msemfoco.com.br",
-      "headlineJa": "サンパウロ州で黄熱病による死亡者が発生 - msemfoco.com.br"
-    },
-    {
-      "articleId": "gnews_8463daea2f443c8b",
-      "headline": "Minas Gerais em alerta: mais de 70% dos municípios enfrentam risco de dengue, chikungunya e zika - DIÁRIO DO ESTADO",
-      "headlineTranslated": "Minas Gerais on alert: more than 70% of municipalities face risk of dengue, chikungunya and zika - DIÁRIO DO ESTADO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T13:10:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWtiTkJTdTRUNmlsdERTS0gwOHljeXNURElfblRMa0p0RmpablJtLUZxRG9HMjc2RTI2UUtCN3pCcHY3azhOaWo3OXR1eEU4eXRBdE9WdWJpRE41WVR1cmIxVHUyTUVNemdoY3Yxb0J3eGRjbFNfZlZTVzlXT0JHc2M0aENQel9BTUFBaDRVSV90UUUxTUhVT1M4ZWFnNzZqYXR2M3QxbVpuOGJ1cV9lMlBXYTc5WkJERi1FM3FNa2txcHMwcFRRSkRDZUVQZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Zika",
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "DIÁRIO DO ESTADO",
-      "headlineJa": "ミナスジェライス州は警戒中：自治体の70％以上がデング熱、チクングニア熱、ジカ熱のリスクに直面している - DIÁRIO DO ESTADO"
-    },
-    {
-      "articleId": "gnews_3a8b96ecd15e1d4f",
-      "headline": "Estação Ecológica do Taim reabre após interdição por gripe aviária - GZH",
-      "headlineTranslated": "Taim Ecological Station reopens after closure due to bird flu - GZH",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T13:08:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZHhybXRLZERiUzRMUkpRQjY0T05vamJrWVVCZFFvamJBUUtXQnYxc2NnX0dhbjBfNWNQc0VRZDA3YmFvbjJ0b2RJWG5nZERRVlRFVmdDYlQtaURwZlVIVGNvRV9xNUFfbW93ZHR5VTBLRnNLS3d4cFZWV1czeHVCamtiSTZoblZydmh2c1NxczZMZTRBMk5TMTV3eUFMNHl0cDhubUV1d2dvR01DMnF2LTJ4RTU5ZmtIeFdIdGlYUWxwVmUxSFpjVmh3cmUwT1RDbTc0VVNyT29GYktTSUl3bjFZUlQ3aDJGZGVwWXZWSkNvY3UwMjRr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GZH",
-      "headlineJa": "タイム生態ステーションが鳥インフルエンザによる閉鎖後再開 - GZH"
-    },
-    {
-      "articleId": "gnews_31fc8e84490f0c19",
-      "headline": "Casos de dengue caem 75% no Brasil, diz Ministério da Saúde - O GLOBO",
-      "headlineTranslated": "Dengue cases drop by 75% in Brazil, says Ministry of Health - O GLOBO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T13:03:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjZtWlV1ZlJqWkNxT3l1eDg0WDFvN1ZEaGRETkVOcEp5TG9wbXZTb1p5OTNPMTluelZzQjR1SzZOa1BCeGEzSVRucDNOUUluLUsxN2FSb0VrQU5xMEhMbmJ3S3NEZ2VUWUNpLWxxMlJ0bGgwSFlzNDkyVGhVRnFQOWVYdEpET1B1YWk0Nkl0VTNFcVZXN0tkV0Q5eElYTEljeTZiNkcyWFVBZ0NyMUJueFJHVm1uQllHZ3dhMtIBywFBVV95cUxQZU9TRURXWXBjNUM1VEtsOW92cEt6Q3BKdU03Y1BvSVYtTDhVV3FIVzdYS0xTUWM4d2FRc1F1eUtsYWZCTWd3UWRmMzd4enhLUWhxZERSOWR3SlBNb29jWkozVnBpMnVoTF83cUxhWnotcEpSOWNnUWZhbDJJNGw4Zl8tUjFDSmRtVXZEeEdpSjBveVZwSklQV1Ryc2NONTI5VmJ4LUxNZUxJWUtYdmx3NHQ2R1pMRjBZRW83V3p6M3owRWMtaUhvaUVIYw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O GLOBO",
-      "headlineJa": "ブラジルのデング熱感染者は75％減少、保健省が発表 - O GLOBO"
-    },
-    {
-      "articleId": "gnews_7165214ef06a06a6",
-      "headline": "Brasil registra queda de 75% nos casos de dengue em 2026 - A Notícia do Ceará",
-      "headlineTranslated": "Brazil records a 75% drop in dengue cases in 2026 - A Notícia do Ceará",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T12:31:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmpCbHBDQU9wbERocW9JWUpNUUZ1VFhCSjZPVEFuSUFKV1h0Mkd2dElybTlObU9zQTQ4RTVNSm5VZ3kxMFVwamkzRjhubkhNMVdOek1pR3lQR3FxSkNLQUhFaUNQZldfMFpFY05QQzEyS3pIVXp6N2Ftc1pEM0h6cHNZdVppMXJJN3habHlEaDY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Notícia do Ceará",
-      "headlineJa": "ブラジル、2026 年のデング熱感染者数は 75% 減少を記録 - A Notícia do Ceará"
-    },
-    {
-      "articleId": "gnews_406bb407389d1147",
-      "headline": "Brasil registra queda de 75% nos casos de dengue no início de 2026, aponta Ministério da Saúde - Rádio Costa Sul",
-      "headlineTranslated": "Brazil records a 75% drop in dengue cases at the beginning of 2026, according to the Ministry of Health - Rádio Costa Sul",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T12:04:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEQ5NVpicUdBSnN5R0RoaW9fV190Y05fNmF2VE0zemhDUDlULXRGV3VvVDMtZTlUM09oVUZ3VDNvWkZmQzgtdUVzZXJQMGx1MXZJZHZnN1pyM2pNVWszOUkxSWttTWxDMUtVdExueXZKdmZONzEwcWstbVVkRW5OQm45UEQ5RnRxNC10b1ZUSnNhRS1mR0ctWm5JQjBQSkJ1anJISS1nQU1YaGt1UDE4Nlc0bzB1d0pWUnoxMEY1eEw5Y1BTOHJlNjhfVlRUUGFwQnotdHlxUEhUVXExOWQxcjVYRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Costa Sul",
-      "headlineJa": "保健省によると、ブラジルでは2026年初めのデング熱感染者数が75％減少したと記録 - ラジオ・コスタ・スル"
-    },
-    {
-      "articleId": "gnews_1083f49b581cd833",
-      "headline": "Casos de dengue caem 75% no Brasil em 2026, aponta Ministério da Saúde - Se Ligue Bahia",
-      "headlineTranslated": "Dengue cases fall by 75% in Brazil in 2026, says Ministry of Health - Se Ligue Bahia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-16T10:27:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnhFUHg1dERsZ2k4VkNNU2RfNmFoeUhDRmJfcHMydThTbHBUNk4tNFpjdWhMRjFNeGwxbXBDT2htdG9zSnBBWmYwZVlWcklacGg1T0FhTHh0R3dhRlczTzAxZDdDSkxSanl0VllxRkw5a2NJSDk5ZTQ1bFhvemV5RlRDVlc3NmhrRGxWbTlGeDJOSlFUMzFJM05PSGpZc0pYZTJTWlVPS1hwcWs?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Se Ligue Bahia",
-      "headlineJa": "ブラジルのデング熱感染者数は2026年に75％減少、保健省が発表 - セ・リーグ・バイーア"
     }
   ]
 }
