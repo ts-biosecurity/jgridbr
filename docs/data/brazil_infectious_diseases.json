@@ -1,53 +1,175 @@
 {
-  "generated_at": "2026-04-20T17:17:10.415385+00:00",
+  "generated_at": "2026-04-21T02:56:27.626905+00:00",
   "date_range": {
-    "start": "2026-04-18T17:17:10.415385+00:00",
-    "end": "2026-04-20T17:17:10.415385+00:00"
+    "start": "2026-04-19T02:56:27.626905+00:00",
+    "end": "2026-04-21T02:56:27.626905+00:00"
   },
-  "total_articles": 25,
+  "total_articles": 30,
   "state_summary": {
-    "Brasil (estado não identificado)": 7,
-    "Mato Grosso do Sul": 2,
-    "Pará": 5,
-    "Sergipe": 2,
-    "Acre": 5,
+    "Brasil (estado não identificado)": 8,
+    "Ceará": 2,
+    "Alagoas": 4,
+    "Pará": 7,
+    "Sergipe": 3,
+    "Mato Grosso do Sul": 3,
+    "Acre": 3,
     "Minas Gerais": 1,
-    "Alagoas": 2,
+    "Mato Grosso": 2,
     "Bahia": 1,
-    "Goiás": 2,
-    "Mato Grosso": 1,
-    "Tocantins": 1
+    "Goiás": 2
   },
   "disease_summary": {
+    "Dengue": 10,
+    "Influenza": 5,
+    "Avian Influenza": 4,
+    "Doença infecciosa (não especificada)": 6,
+    "Meningitis": 5,
     "Chikungunya": 5,
-    "Dengue": 11,
-    "Doença infecciosa (não especificada)": 5,
-    "Influenza": 2,
-    "Avian Influenza": 2,
-    "Meningitis": 2,
-    "Yellow Fever": 2,
+    "Yellow Fever": 1,
     "Zika": 1
   },
   "articles": [
     {
-      "articleId": "gnews_813452edb9ecec9a",
-      "headline": "Itaporã sai na frente e inicia vacinação contra Chikungunya em MS - capitalnews.com.br",
-      "headlineTranslated": "Itaporã takes the lead and starts vaccination against Chikungunya in MS - capitalnews.com.br",
+      "articleId": "gnews_2e3a5f23828c48cf",
+      "headline": "Estudo aponta risco elevado de Guillain-Barré após infecção por dengue - Diário da Guanabara",
+      "headlineTranslated": "Study points to increased risk of Guillain-Barré after dengue infection - Diário da Guanabara",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T17:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGFzdFZoMENuQ1hXVVYzVW9wZVJzNjBYTVVJUFY0Z2NGZWY4a1R2cjNnZDBGWUppTHNRaC1tNnhzTFJ4S2VhZHVkWExGRndNd0RtZlk1RFpwZE05cTZ2aFpoWXRiOXozdnN4R3RlXzl5TElJcHlDRnhXcUx5SWpNU0M5RTBLUXoxRlByYWh4cEIwZ3l1VjlOeXlNME15Zjk2WGc1SDZVR3g2S3hPSDdYM0FIdXpfTDdSamF4aDRwNENSalNJWlZxeV9jQQ?oc=5",
+      "publishedTimestamp": "2026-04-21T00:18:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUZJRUs0V0psTjNnZVA5V3pycUZ0TEJweDFJdHBjcWttcGRiSHpFZWpFeWU4QnFrSnl4bmh0SDk1WUdYZUNZbnMtVDNGSXVMMG9FWV9SalliOXdVUjZsdHAyUFo3ak1vQlNaOWFXWWRrRWVid2JHdTJMYTg0RVhWYlRLTVdnaFBlcElaZ1p0UjVuVEtTQ3pPd0tLOG1EbU1WcDNwbFFB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya"
+        "Dengue"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br",
-      "headlineJa": "イタポラが主導権を握り、MSでチクングニア熱のワクチン接種を開始 - Capitalnews.com.br"
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "デング熱感染後のギラン・バレーのリスク増加を研究が指摘 - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_33cc6513a8d557bf",
+      "headline": "Surto antecipado de gripe no Brasil é causado por mutação no H3N2 - band.com.br",
+      "headlineTranslated": "Anticipated flu outbreak in Brazil is caused by H3N2 mutation - band.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T21:34:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdXdNLUpFdWV3UC1qdzVpQWg2OTdxRm5KWnJZM1FXX2dLSjZyeHB2eElIN3lwTEFUZ1dmQlBJS3VzOUJfRl9fbk4yTnd0RVNSTGFiWFM2RWtzYy1DX19vNXRXQ01FbXVZNmtDVERfalJNSUUwUUlCdFpaLU5ITXhYTlFMQUVMeU15RFM5WjAxMTB4N1JBWlZGVU1zWUN0RlNvVFh1MENqY1pNaWQ0WDh4NmJudW9SeGt3SjRKcGRIb1FvZThuTkVUOXJR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "band.com.br",
+      "headlineJa": "ブラジルで予想されるインフルエンザの流行はH3N2変異が原因 -band.com.br"
+    },
+    {
+      "articleId": "gnews_c0ae1ffddf348c60",
+      "headline": "Fortaleza registra baixa adesão de adolescentes à vacina contra dengue - A Notícia do Ceará",
+      "headlineTranslated": "Fortaleza records low adolescent adherence to the dengue vaccine - A Notícia do Ceará",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T21:04:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU01PSU0yNjJTUC1odHh5RjhqY2h4bEhkbjMzMkxYZkV0TVU2VkhURDBlSXVtTnp4R0wwYlF4NXJSZmFYSzQwdGZhSl9PZ0lCUHhrc2VyWDVIRW1WMm9OazN0Q3huVWJsT0VjUUk4bHZfTzV1Vl9xSXB3UmZNeXJnaTNzZy1CcHpmQ3d1aS1TVS1kN1pRRUpEUzlRLVdZWTVaSVN0eg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Notícia do Ceará",
+      "headlineJa": "フォルタレザ、青少年のデング熱ワクチン遵守率の低さを記録 - A Notícia do Ceará"
+    },
+    {
+      "articleId": "gnews_8d34adf73d845dae",
+      "headline": "Vídeo de mulher dando água para ave em Maceió gera alerta para gripe aviária - G1",
+      "headlineTranslated": "Video of woman giving water to birds in Maceió raises awareness of bird flu - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T19:36:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVRvbHpQdzhfNVNZR2lSNlRaNmdVeXI3dW52UGVHdmh1WDVvaDh0QmFETURudk1MZ0JyTUlkTlNFVGJTX3JjcVp2ZVd6a0hfWFJaZVZvalNmcWVtOVdKdjVYaWVNU3FvaF9Jb016ZlloSjhITHRLby05VUl2YVhIS1dWTk5ibDlVRUlUQXdZcU5LUEtHN2tyQlp4S2lEaGdRV1JNMmY4LU95WWM1ZFVwYS1KMTBLRG13eFdnTW0zSlEzc2RWWUJhX05oUl9vd9IB3AFBVV95cUxQMklCM0R5aHVVQmhnRm93a2VodXZOdVp3Wk5PTWtvYS0xeWpaekp6VXFqZ3AwTTlMNjIxT043RllOTFBmeVhfNXlRdXlaTVZtbms1Wm5odkxBYmZrQXpRQTVXSm9QbXVmN1FXb3RtSEpaY1ZtQkZsOHdMWFVHSjVIUm9qbFpreG9keXM0SkhlMXdyck91V2NjenI3ODFNYThXaTNWYUxkU0R3Y0kzUjBRMWc1cEd2bTJpMldGYURQUldYc1hJV0pBRVhHVDNKZXpJanVMd21DUERIMFRy?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "マセイオで鳥に水を与える女性のビデオが鳥インフルエンザへの意識を高める - G1"
+    },
+    {
+      "articleId": "gnews_02be729abc19d5c1",
+      "headline": "65% dos adolescentes não completaram vacinação contra dengue em Fortaleza - OpiniãoCE",
+      "headlineTranslated": "65% of teenagers did not complete dengue vaccination in Fortaleza - OpiniãoCE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T19:00:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkhKOUtaYk1ySDBIU1A1ZWRZV2JwdEJxZGtMV2Z6NjNSZ1JNYjJoRHg4OVNERGl2YTFYZWZkSFJncXBVX0ZWa2xiTkhsRjVOd054UlFyWnFUb05wZG1CWFpKWXZ4SXBmdV9VUU93OGxXU3kzYVhCaWo2Rmx1c3FfMVRSOF8zWHA2bGFVeVB6YjBJbWFLTE1BQWl5cFNZZFAtbzZ6Vk8zUGNyZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "OpiniãoCE",
+      "headlineJa": "フォルタレザでは10代の若者の65％がデング熱ワクチン接種を完了していなかった - OpiniãoCE"
+    },
+    {
+      "articleId": "gnews_d5c0c1567d164f58",
+      "headline": "Homem ateia fogo em residência após surto em Aracaju - Infonet",
+      "headlineTranslated": "Man sets fire to home after outbreak in Aracaju - Infonet",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T18:55:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDlKSnpNaHJxc0VrMGl3Z3haUVVpS1dBbXI2c1lrSjk0ekI3Vkx0dmJfa2FXa2Nfc1hIcUJIV3VHVmZVcldNRmRtd01zdUJPR0tJbHJuN05uTmptWDVoc2hKNDJMalpRTVRtLUpQN0Q5eXp2d2EtZmJwUzIzSjhENGhtMElPcVFIVklyOWFTM0t6VlAwZjlZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Infonet",
+      "headlineJa": "アラカジュで集団発生後、男性が家に放火 - Infonet"
+    },
+    {
+      "articleId": "gnews_edf2da8e9c962e26",
+      "headline": "Menina de 5 anos morre com suspeita de meningite em Sinop - Única News",
+      "headlineTranslated": "5-year-old girl dies of suspected meningitis in Sinop - Única News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T18:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEN1dEl5WGNfV0dtbXBqZEZ0MWdjNnhfR2x1ckVrOXJ3eG5CVG9OZWQ0MmtPNnZ0dDdydFBSU2ZGLTFpdkY4ZjQ1VVFJaGNHaTVxaTlTQ05NTkpkaFI2THA1bFRWa2tVSVBTQnVrdkh6RHpQUml3aE54bDIyQnZ1djBBclRaLUg2WFRCZXRnR0R2MXdGTmxDN2NOeE5PS1lQamR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Única News",
+      "headlineJa": "シノプで5歳女児が髄膜炎の疑いで死亡 - ニュース"
     },
     {
       "articleId": "gnews_7732a7f928e8983a",
@@ -92,6 +214,26 @@
       "headlineJa": "精神病の男性がアラカジュの自宅に放火 - ファンF1"
     },
     {
+      "articleId": "gnews_c447fce679c94619",
+      "headline": "Ministério da Saúde decide não incluir vacina contra meningite B no SUS. Entenda! - Portal Leo Dias",
+      "headlineTranslated": "Ministry of Health decides not to include meningitis B vaccine in SUS. Understand! - Leo Dias Portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T16:35:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2FCd050dkN1RWJ5ZURvZFIwemc5MlZrMGdiMkFSY2FRU2pYY04tYUFmUGp2ZnVBd1o5X3VaMUNUZnJDSDJOeVZjZXNyVDJIY1otRTR4VlV4TWVOV3ZETEtpcXdNYV9JNVdsY2Y0MWRmQUhMd2hsUmlKNW9TQ0liVmEyemJ1RS1oVVVTRmRBSVNKcUdfaEhmeWtJcmsxRjdFMFNSaWVuQmtrWWNJRlNXUdIBtgFBVV95cUxON1lIS21KbV9CV0lsdHNlakhZYWwwS3NqVnJLamphZVlHSjB6NHJDeEFfQjAwTUttaU1Xd2g4MV9JTVBoRkNaakVtaDZ1cjNSTFppWlB6LXg3XzRqaVN2cnEyNllwTWd2YkRGUG1SbkJNaThTWm1LT1J1ZWF4OUV1QzdhaWlpUTVCbjlZQTZ3dG5CbE5TNFIzc3BBMTUxTXpTaW5OWUNsY2p1Q0p6MEpuWWNpT3Q4UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Leo Dias",
+      "headlineJa": "保健省は B 型髄膜炎ワクチンを SUS に含めないことを決定しました。理解する！ - レオディアスポータル"
+    },
+    {
       "articleId": "gnews_27318960db1aa6ec",
       "headline": "Homem mata irmãos e agride familiares durante surto em área rural de Boca do Acre - Jornal Opinião",
       "headlineTranslated": "Man kills brothers and attacks family members during outbreak in rural area of ​​Boca do Acre - Jornal Opinião",
@@ -121,8 +263,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ29UNkpxWHZSU3B6cS1sZzRxSzVodzBPVjlJb01pYkVERjhBeUxiV2Fabl9qb1p5MGlpX2R1SEdyMXB2QUVnUUdjX0NzTjZ1LVNhNno1NWJXOGRMSGNwMm1icVpqRHpLd296QmlFOWdvZGJOSFk0MUtMVmFpNkYxUFVsSnc2dllTenN1eHB2YmphVUJqN0NyUDhNUmpxZmQyMkJUd01adXdJaWxOdktQR01vY3Q?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -131,6 +273,49 @@
       "dataSource": "Google News",
       "sourceName": "RCWTV",
       "headlineJa": "IMA、ミナスジェライス州の鳥インフルエンザシミュレーションで田舎の不動産50ヶ所を検査 - RCWTV"
+    },
+    {
+      "articleId": "gnews_b05ca1964069a534",
+      "headline": "Vídeo de mulher dando água em copo para ave em Maceió acende alerta para risco de gripe aviária - cadaminuto.com.br",
+      "headlineTranslated": "Video of a woman giving water to a bird in a glass in Maceió raises awareness of the risk of bird flu - cadaminuto.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUVhfVDZkN01faC0zSTFTbEZqanE4UW94QTlPOW1ZUWcyWDE1OUpVQS1ad3lLLTRmNk5GeGZjTVRxa0F0bkUwSzNKaVRaWHRkcnJHc1pCV2IzVWpZbC12dEpieWZhT3Z1blJXNUx2cmtyS195MFFmeVM5UHFidDNTQ3hVZjJWVnFrVTBkek1TQ3ZDUkczNWdrUmo2aE5ldXdoLTdEUG9sZXNNM3BoV2dfbHpuQ3NEY0NXNWdiOHpFWTBhdmNOcmxwdjdRSTRZeHBQWUxRVWVjMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "cadaminuto.com.br",
+      "headlineJa": "マセイオでガラスの鳥に水を与える女性のビデオが鳥インフルエンザのリスクへの意識を高める - cadaminuto.com.br"
+    },
+    {
+      "articleId": "gnews_a9295ccf9632d9f3",
+      "headline": "Itaporã sai na frente e inicia vacinação contra Chikungunya em Mato Grosso do Sul - capitalnews.com.br",
+      "headlineTranslated": "Itaporã takes the lead and starts vaccination against Chikungunya in Mato Grosso do Sul - capitalnews.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSG9tVWtyenpNRW15YVhJRV92bTB6bzhmOEVYMGIwYjF5b2staXJITmVGSlhaMklNV0hURXBYRFlzbWxweUJkeEg2bFFrU3RJSkFzSmpuTDRVd3gxRHZPbmREcXFKclV2UU94eDY5cW1QRXJieTZxNGI4eXp4SGtGelRYVDdQT1lxb09rVFdNNlFYenk5ODh0Nkw2UTB4Q3RyaWNfOVQxSjRvazNWbEZVckV2Xzh1T3plOUpadDlUdzV4cTctLVFaZ3JhVEt1WWZvMU9CRmlfWURtdnlrM2JNWA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "capitalnews.com.br",
+      "headlineJa": "イタポラが主導権を握り、マットグロッソ・ド・スル州でチクングニア熱のワクチン接種を開始 - Capitalnews.com.br"
     },
     {
       "articleId": "gnews_66eb35e9e70c0f5d",
@@ -142,8 +327,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVZMencwcXNWdzNDQmxoNnRNLXZ6SU1vaXZ6UkxzZldheFpFZDNTdjJfMDZTX1FrRkxyQ1NOVzk3QXk3d2pJdWVfRUI2VV8wY1VrWVBDSFBrRzZGdHUzQVljZFM2czBiUno1TGNyMDZoZThCSTV0SnZLbDBHc3M1enNkdnEwbG9Pa0RaUlM5clZJV1M3Y25ub0FDc1hDaG5mT092eDYya2dTVmQ0bllfcWI5Y3NxRWN5ZWhkb2I3RlJUc3l6T3R6T2hhaXBYMHh60gHLAUFVX3lxTFAwUmxaeC1LVk5kQnRWNTBXd0tQQzNnbmlYV2tCT09Ta3NFVTdyU1RXY24zaHN0TkE4Y0NUV1pSaGE5anlMbXBpWFk2bnVmbHhpTm12S2NEMjB3Z3RWV1hrU2kxdUExZS1CcGF0X1lNMk5WZ0NkUVI3M2NvdlpReURtX3k1WnFTdUNQaVRRWHBVT0UxYnI4ZGt2TkhsVVo3X05LMHpUcFBvTzlOWDlOQy04QlJOc3V5UjFxNXBEaS1HSDA3RGRlUjFIWGYw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -215,6 +400,46 @@
       "headlineJa": "アクレではデング熱は減少しているが、ワクチン接種レベルが低いため警戒が続いている - ContilNet Notícias"
     },
     {
+      "articleId": "gnews_6efe0354ce2abe92",
+      "headline": "Dengue pode aumentar em 17 vezes o risco de Síndrome de Guillain-Barré – Instituto Gonçalo Moniz - Fiocruz Bahia",
+      "headlineTranslated": "Dengue can increase the risk of Guillain-Barré Syndrome by 17 times – Instituto Gonçalo Moniz - Fiocruz Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T15:10:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0xkdmUtLVViaUpJQzhXVThUQWF3R05XZ19IR1dWcjRqallUMV9zZFVRMnA0d2QxUEdQWkpoclpmZzNnWlQtcnJwbDVDd0c2NHJGR1diZEFGY0toQTVUNWR2SkM0aGJRTEktOUViUnozNE5FZlVjaWlIbmhtOXNWaXhjVmNDcFlIdEVtakk0RHdiS2Q2MVNyMTNLcUZQa1YtZ0ZzSw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fiocruz Bahia",
+      "headlineJa": "デング熱はギラン・バレー症候群のリスクを17倍増加させる可能性がある – ゴンサロ・モニス研究所 – フィオクルス・バイア"
+    },
+    {
+      "articleId": "gnews_de69ca6aa02fcf24",
+      "headline": "Abril reforça alerta para prevenção da meningite no Brasil e destaca importância da vacinação - JM Online",
+      "headlineTranslated": "April reinforces alert to prevent meningitis in Brazil and highlights the importance of vaccination - JM Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T13:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnFQUUkxLVdkS192ZFA0UHIwVWlZZHJzbnV1SjhjWU0zODB6S3ZGVGViaVVCTjE0SEpTa192M2VTbjBTTmRhVXVaMXpjSUNHajV0OElzNDB6S0JKU0J1T0F0NE5Qb04xMnhWcW95b0s1eXlqQWlMQ24tSWNfVDctYmttMTFKM2VYcmNiRHExVDBHNXI3UzE1WVBOcndvZXZVY2JUOS1nbjliUzJ6TTd0OENhQlJzeHpJcjZNQ3JGRzVOTFVDbzl6Ykd5aVHSAdQBQVVfeXFMTXlydTgzSERaWWRVVjFPbHhUVm1GZ0FtdGFtUFlNdmVWcnVhMTBaaXJNTkxFVmZRRVlRTFg3dkxPRy14d0xqVXJqbUg0Z25hRU5TelRITldkSGZXVnZKSjRTUk9EaEZ2Y0xYTWlvQ2FFNmlZNzJ0ZHdzS2NjWjczeTlwak1RTzltcG1xQ1IxQUlfWmlUNGpRLTBZVGE5WmE5ektReWFLZjh4bEhjZXlQV3BsVkdMT0xPR2ZHdlVpcDJLTGhHS0JoT0Rhak9IQmh3RVEtVlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JM Online",
+      "headlineJa": "4月、ブラジルで髄膜炎予防への警戒を強化し、ワクチン接種の重要性を強調 - JM Online"
+    },
+    {
       "articleId": "gnews_6ede858c383b4dc1",
       "headline": "Abril reforça alerta para a prevenção da meningite no Brasil - Muzambinho.com",
       "headlineTranslated": "April reinforces alert for the prevention of meningitis in Brazil - Muzambinho.com",
@@ -255,24 +480,24 @@
       "headlineJa": "デング熱患者：エーカーでは発生件数は減少しているが、リスクは依然としてある - G1"
     },
     {
-      "articleId": "gnews_6efe0354ce2abe92",
-      "headline": "Dengue pode aumentar em 17 vezes o risco de Síndrome de Guillain-Barré – Instituto Gonçalo Moniz - Fiocruz Bahia",
-      "headlineTranslated": "Dengue can increase the risk of Guillain-Barré Syndrome by 17 times – Instituto Gonçalo Moniz - Fiocruz Bahia",
+      "articleId": "gnews_630736134c134b13",
+      "headline": "Menina de 5 anos morre com suspeita de meningite em Sinop (MT) - G1",
+      "headlineTranslated": "5-year-old girl dies of suspected meningitis in Sinop (MT) - G1",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T12:32:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0xkdmUtLVViaUpJQzhXVThUQWF3R05XZ19IR1dWcjRqallUMV9zZFVRMnA0d2QxUEdQWkpoclpmZzNnWlQtcnJwbDVDd0c2NHJGR1diZEFGY0toQTVUNWR2SkM0aGJRTEktOUViUnozNE5FZlVjaWlIbmhtOXNWaXhjVmNDcFlIdEVtakk0RHdiS2Q2MVNyMTNLcUZQa1YtZ0ZzSw?oc=5",
+      "publishedTimestamp": "2026-04-20T12:54:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnJqalZxaXNOSjFId0xRTWpDTEUxWE8zRUR6ZEhPYjUtbjlfSndTLUhUT3BlaHRmZGg4STk4cXByR0F1RjkwcXZrWFVZdHkyRy04TGZEQVpZb1VNUWxJMU1uSGRiZVpzQTdCYlNIcVhZU1c1bmlwQlNXaWxQT28yVEh6ejlxWF9Hd0ZvM0tCd3lxYkdHQ3p5YVZtT19GY3ZyM2tKX3RVWVQ0b0h4T1hsYURCYUFvSUN0ZENCa0NB0gHMAUFVX3lxTFBwUWNoTFN4LVRVRGJyVzBseTVvRWI4eFptb25xaFhwSTkyd0NPX2E1MER0Y2ZESXh2VktvaE9YQXJTTVNyUnJnY2RGNzhIeVZtdGctYXB0dXRReVlXZUt0bkFjMFZ0d1lzdDRZRmY4cWlFWG5KdUNMYkJZR2xHYVZuQ2cwZ29rSTdhUkEyM1B3eVdFM1RNcEl2Y09rQmFDV1ZZZFY3QkFOS2ZpSlhOU0Iwb3ZKa0M3aEZPSzhqN2hrdUVPRGI3d1luV0NIYg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Meningitis"
       ],
       "locations": [],
       "states": [
-        "Bahia"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Fiocruz Bahia",
-      "headlineJa": "デング熱はギラン・バレー症候群のリスクを17倍増加させる可能性がある – ゴンサロ・モニス研究所 – フィオクルス・バイア"
+      "sourceName": "G1",
+      "headlineJa": "シノップ（MT）で5歳女児が髄膜炎の疑いで死亡 - G1"
     },
     {
       "articleId": "gnews_cb475637809ba528",
@@ -355,26 +580,6 @@
       "headlineJa": "2人のブラジル人科学者がタイム誌の「世界で最も影響力のある100人」のリストに選ばれた。1人は蚊がデング熱を媒介できなくする細菌を作成したことで、もう1人は化学肥料を土壌微生物に置き換えたことで知られる - CPG Click Petróleo e Gás"
     },
     {
-      "articleId": "gnews_22182b71a4b957a4",
-      "headline": "Casos de dengue no Acre caem 81% em 2026, com 689 confirmações e nenhum óbito - O Alto Acre - O Alto Acre",
-      "headlineTranslated": "Dengue cases in Acre fall 81% in 2026, with 689 confirmations and no deaths - O Alto Acre - O Alto Acre",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-19T20:23:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFJWVlU4TXBEWVZkV0sxQzlHQzE5X3Q3ZUF4alZFemQtODNXc1RhLWZNYmNtNjF1YjJqdU5TbUJIc0RfU2R5dFB0bGxTSWNWT0dxUkpMb1FiTzNrbndqLVNtUTdjQ21SdzBsMTJDTFdybzJsM3pwQ1VsQnktVlRVVVhaYmZmVnYtUWprTFhZSGJGUnE0MXdXaEhiclAtelXSAaQBQVVfeXFMT2NzQU5HaU5WSWwzY1BuM2VaSHBnLThHWUNZMUd6eGJUNkNhUEJjenRaaUh4WVpxSm5yNFJvRzE5RVVFd0lpQTBIUmFhaHhacUh2d1pfeHBOTnlLejlpWXJxUXo3VERheEJpZzBJeW9oMU1SN0JKVEUxYzFlaVg5dlZqM2RaeEt0U1VIRDBpN3FvWndCNnVZREZ0ZFhHSlVhN2JjTXo?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Alto Acre",
-      "headlineJa": "エーカーのデング熱症例は2026年に81%減少、確認者数は689人、死亡者なし - オ・アルト・エーカー - オ・アルト・エーカー"
-    },
-    {
       "articleId": "gnews_da48fedca7dfaa42",
       "headline": "Goiás decreta emergência por surto de SRAG em bebês - band.com.br",
       "headlineTranslated": "Goiás declares emergency due to SARS outbreak in babies - band.com.br",
@@ -426,8 +631,8 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue",
-        "Zika",
-        "Chikungunya"
+        "Chikungunya",
+        "Zika"
       ],
       "locations": [],
       "states": [
@@ -436,107 +641,6 @@
       "dataSource": "Google News",
       "sourceName": "Gazeta de Alagoas",
       "headlineJa": "この州ではデング熱とジカ熱が発生しています。チクングニア熱感染率が800％以上増加 - Gazeta de Alagoas"
-    },
-    {
-      "articleId": "gnews_38ae51ad7d825103",
-      "headline": "Dengue pressiona saúde no TO: Araguaína realiza Dia D de vacinação após alta de casos - Daqui",
-      "headlineTranslated": "Dengue puts pressure on health in TO: Araguaína holds D-Day vaccination after cases rise - From here",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-19T00:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2R5dWcwVEV2SGtZSUpRdGpVb05mbkRXaXpGSXQ3YXFBWHMtYXVWaHBTTGdzQ1pVS3prenZiTUFqam5GYkVrelN5UFl4empFVjI4akJfN3BxczRnNGhlS1BSZzZLdUo2VTlJTm5uTjl0clhFdy1rNnlHdmZ0WXRFRHdiVHZsVHJGTm5pdHVOMGxySWZCTzc1ZU4xQUQzSy14cDl5b2ZvOGJQV1l2ODVOcXMtM25BWERHaXBKN0NPbWdram1vWlRYN1NB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Daqui",
-      "headlineJa": "デング熱がTOの健康を圧迫：アラグアイナは症例増加を受けてDデイワクチン接種を実施 - ここから"
-    },
-    {
-      "articleId": "gnews_4032bc92671879ec",
-      "headline": "Dengue pressiona saúde no TO: Araguaína realiza Dia D de vacinação após alta de casos - Jornal do Tocantins",
-      "headlineTranslated": "Dengue puts pressure on health in TO: Araguaína holds D-Day vaccination after cases rise - Jornal do Tocantins",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-18T20:25:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmJ5d1JtVm1rNlUxRktXdHRtQU9HQ1NrZDdrajZ3Y1NMeHF1UFF2QUVHeXhCME9vLWdNdXhqM1Q5Q3NKUHpsczBvbmFpTGJZQ1I4QUkyb2ZLSlpmUnJQdEZBZnRvYjlQOXhaU3NobGZzTDU2V3dLc2w2TVQ1enktMlZCNktEb3Z1YjA3QXlCNnF1YmVDV0ZCYzNiMHF5X3NPTW1oUDc0U3lGenNacU53Z2ZHM0tuZEo2WlA3bkhNblhtQ01CNTRpV2hQOWt1eENtWWRna2NR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal do Tocantins",
-      "headlineJa": "デング熱がTOの健康を圧迫：アラグアイナは症例増加を受けてDデイワクチン接種を中止 - Jornal do Tocantins"
-    },
-    {
-      "articleId": "gnews_19b471f01e3dc0d7",
-      "headline": "Saúde decide não incluir vacina contra meningite B no SUS para bebês - O Alto Acre - O Alto Acre",
-      "headlineTranslated": "Health decides not to include meningitis B vaccine in the SUS for babies - O Alto Acre - O Alto Acre",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-18T18:14:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1RlX0lQbnJIZDNHUlZtY2NUbXZHQzZzenQtSVEtbGk4SjZtZWlpeUZpY1ZucmZfOC1lWE1LUWJsWVQwVEJLWVM1a3R1S1JKUEZrdUgtUWVzVUhmak5RSFdBYUQyTzJXYnpTcVotQUZldjlMTlBZUXV3dWFub19NcE40YkRZQ3Z6dWdPODc4M1FLZUUwZ0HSAZsBQVVfeXFMTmxwTlN0Tm5XaDA1cFZwSkMtaW5vR0FaSVBNTDV5RllKWDh0RWVGMGU0Mk5jM0cybkpzR00xZEVvSkVaX1JJSHVCb0ZTR19GSk90TEI2OUtYZkwzZXVGMzMyYkp5VC1TRUkyY3U5bnJfdEdLc0x6TnQtVjluc2VhZ2JtZTExVjVhYzdvQ2RNTFdSUXVPY1d4RTBJRDQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Acre",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Alto Acre",
-      "headlineJa": "保健省、乳児用SUSにB型髄膜炎ワクチンを含めないことを決定 - オ・アルト・エーカー - オ・アルト・エーカー"
-    },
-    {
-      "articleId": "gnews_5497a4199514ee43",
-      "headline": "Combate à dengue entra em Dia D com hospital lotado em Araguaína e alta de casos no TO - G1",
-      "headlineTranslated": "The fight against dengue enters D-Day with a full hospital in Araguaína and a high number of cases in TO - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-18T17:52:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdzAxbDVUX1BhWGR5TUlvYlNlTDJINlFMclJCOEs3YVRqZWVGZWFlN2hvZ0VPSkw1MHloaThlTXQ3OHZHUlF5MWR4NXo4bE5Ic3JZUi1xS1NVNXdFbHB1LXFTdFFBY0VxbGVuYTRHWmJ0Q3RPRkczY2FGODVXb0tlc0VIWE1rV3FRaTVCeUZDbklhTDJkWW9fY2wwdHM1SVpyZndtWEtnZ3VfNEoxYl8tcDdBWTFLa0drV0ExVExEbG9JUHZBc3h2X3dWUXEzdVZYbVB4YUFfbGZlVmYzb1HSAewBQVVfeXFMTzlabTRZRjBuOWlWRmVzdUt2aXBYeDFZYnd4a3ktQV83bmJkeE9zd1N6Rm1nX1NFMTd6ZHQ0SjhxVXdYb1p0a1dtZVJweGo4bFRpWkxhUnpIWEpsZkdwLWFQeVJOOGdyTmttM2hJZ0Y5S1ZxaGFqR1pMb3g4Y040YWthV2Z4TG9aTm9vMVphRUxVTmNjM0lkSEdXVnJUT2RWZTZHTG40WmwwbW9mVEhLUi1MQUdDSWFjQmxQWWJ4TnU3UXdRaVdmTnNyRHBiUmI0VTZjQ2Q5RUVhYmFoaFpPWVV4bzV5QkVnUHpHZHE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱との戦いはD-Dayに入り、アラグアイナの病院は満員となり、TO - G1では多数の症例が発生している"
-    },
-    {
-      "articleId": "gnews_70a0dbeb53557181",
-      "headline": "Febre amarela pode levar metade dos casos graves a óbito, diz especialista - CNN Brasil",
-      "headlineTranslated": "Yellow fever can lead to half of serious cases dying, says expert - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-18T17:23:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU1paGNGQ2FGQWtYMEg4QzEwU2VNWmw5bEc3aXQyQzJIVko2MmZmdkdaR08zUWRoaTlJT09ONHprZUY0LWt1czF2clJxdTEwRGw4VGt5MUxCVEtKdnhpMXNrN0hIc1pySU5CcXZ0MkdzLWRlLXlnWDh4U0M0azV1ZnFaVUw1YlFacEUtNUptY01LUU9kNUtVd0VJd3NqUVlvN2pmb1RUSm5zSGlqVXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "黄熱病は重症者の半数が死亡する可能性があると専門家が指摘 - CNNブラジル"
     }
   ]
 }
