@@ -1,34 +1,95 @@
 {
-  "generated_at": "2026-04-21T02:56:27.626905+00:00",
+  "generated_at": "2026-04-21T09:27:51.032549+00:00",
   "date_range": {
-    "start": "2026-04-19T02:56:27.626905+00:00",
-    "end": "2026-04-21T02:56:27.626905+00:00"
+    "start": "2026-04-19T09:27:51.032549+00:00",
+    "end": "2026-04-21T09:27:51.032549+00:00"
   },
-  "total_articles": 30,
+  "total_articles": 32,
   "state_summary": {
-    "Brasil (estado não identificado)": 8,
+    "Brasil (estado não identificado)": 10,
+    "Rondônia": 1,
     "Ceará": 2,
-    "Alagoas": 4,
-    "Pará": 7,
+    "Alagoas": 3,
+    "Pará": 8,
     "Sergipe": 3,
-    "Mato Grosso do Sul": 3,
+    "Tocantins": 1,
+    "Mato Grosso do Sul": 2,
     "Acre": 3,
     "Minas Gerais": 1,
-    "Mato Grosso": 2,
     "Bahia": 1,
-    "Goiás": 2
+    "Goiás": 2,
+    "Mato Grosso": 1
   },
   "disease_summary": {
-    "Dengue": 10,
-    "Influenza": 5,
+    "Dengue": 12,
+    "Influenza": 6,
     "Avian Influenza": 4,
     "Doença infecciosa (não especificada)": 6,
     "Meningitis": 5,
-    "Chikungunya": 5,
-    "Yellow Fever": 1,
-    "Zika": 1
+    "Chikungunya": 3,
+    "Yellow Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_cafde0c831ec5db7",
+      "headline": "Casos de dengue no Brasil caem 75% em 2026 - Medicina S/A",
+      "headlineTranslated": "Dengue cases in Brazil fall by 75% in 2026 - Medicina S/A",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-21T08:04:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hVXpObWVraEdmS2FMcUZVREhWbGlHWHJJVDRBMlo1QXNpMmtselpuS0t5dWdPMDBPUkwxYi11M1RSV21ublJNeUtOTnRHTDZjUXk5MVJMbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Medicina S/A",
+      "headlineJa": "ブラジルのデング熱症例は2026年に75%減少 - Medicina S/A"
+    },
+    {
+      "articleId": "gnews_3a647e07be70fadf",
+      "headline": "Programa de combate à dengue tem obtido êxito no controle da doença - O Globo",
+      "headlineTranslated": "Program to combat dengue has been successful in controlling the disease - O Globo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-21T03:09:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWdkWUY0QllWU2ZEX2VwT3Zscm15VUoxdy1tcWpmN2hNXzF5aGg2b1MyVTFiVnlrcllFNWtnZGdGOWRtZTBBWTRjNmVVSllJQm1wdzJKMW1mOHNqSTN4U29UUTRWNzNfa2xmODZwSXQyQi1xeVlObW9xWFRxMzRpRmkzZ3R3SzNRWWhCNjNmb3R2YkVla3pnWGl3TldvUFY3WlRiekVIelpkYnptQm5RWEtMSmo5TEZOTmR6X29YRF9VaW5ZTVBmZEZLc9IB2gFBVV95cUxPeU9JdWdwaTNaQ3d2YUxPa3ltOVFKVk9nODFGcmFzUklfRmtmMGp1STA4TC1qNHlqM016Mk9kckpHMnhFdW92RV84cFphMzF4S1JKQUZYaXdyYTB4TGpGaGFYUjRXUmMwYWdsLXhJcnJySWJmVlhaenpQS1ZzMFpOZ0JTd01CNWptTlFlVkRuNl9EdXBBYnNSYWlpcnVrbG5zNkZhNDBOd2ZrVDQ2dHVlcTFzcU56YnJEWnZQZmR6aVAxVHNOMGJsWUNjeTUxbG1XT1Z5LUFZRzJEQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Globo",
+      "headlineJa": "デング熱と戦うプログラムは病気の制御に成功している - O Globo"
+    },
+    {
+      "articleId": "gnews_5dd9b131a7b255c2",
+      "headline": "Índice de dengue em Rondônia está entre os maiores do Brasil - G1",
+      "headlineTranslated": "Dengue rate in Rondônia is among the highest in Brazil - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-21T01:07:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQazBsTW1xVXZRSTdLZ0o0MzlnUzcwNHprUHdaSkZ0OVl3ZmZoY21CSXNZOXpBY3RpT0VLeUhybWpyemFHeEhPbEhGa1Q4dTV2TE9IOG0yYzQ1b3ZicG1RTk1fX2E5eTF1QlI2R2JWQWNLaEs3SnlNLVFOZWNMQ3hwaXEySjQyUzBGYXMtZkhaSklKeVcxTGRKRU40bUFmNERoNjdIU2o5Z0xRNFNTd3FuaklYbzFSX0JsT1RCa1R6RDFteXRRYnRFYnFpQkR5LWtkeTh4d3VBb0hCNW1FTUdXMXlwd9IB8gFBVV95cUxNdXZtYkRsbGsydnJhc3hCNnFfWTZ2ekxwVEVwVEdGZWY0aU1yazNtWUVBTXpvMXBpZlBlb25McHhBaXpveWN1UWN2blNjSmw1TTdybGtlZWZROHZZeENRN3BnbEVVT21paEhteEtGQWVxaWpxbkNYa2RHdjhKbzl0QWhvZlpkNlZPZGlpX0ZTNHRIZG1HMFpvaFFjVWZxVDZ6ZHJCMFNSQTB2aUl1TUFVbG5XeC1kNU1ZQnlPZWthUzhSZG9qYkd3Rm1hRzdOak9RVkVlLW1ZcVhaSHZGUjZ4LU1JeWRYQVF2bkttZTJKbHZCZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rondônia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ロンドニアのデング熱罹患率はブラジルで最も高いものの一つ - G1"
+    },
     {
       "articleId": "gnews_2e3a5f23828c48cf",
       "headline": "Estudo aponta risco elevado de Guillain-Barré após infecção por dengue - Diário da Guanabara",
@@ -75,7 +136,7 @@
       "headlineTranslated": "Fortaleza records low adolescent adherence to the dengue vaccine - A Notícia do Ceará",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T21:04:03+00:00",
+      "publishedTimestamp": "2026-04-20T21:04:37+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU01PSU0yNjJTUC1odHh5RjhqY2h4bEhkbjMzMkxYZkV0TVU2VkhURDBlSXVtTnp4R0wwYlF4NXJSZmFYSzQwdGZhSl9PZ0lCUHhrc2VyWDVIRW1WMm9OazN0Q3huVWJsT0VjUUk4bHZfTzV1Vl9xSXB3UmZNeXJnaTNzZy1CcHpmQ3d1aS1TVS1kN1pRRUpEUzlRLVdZWTVaSVN0eg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -99,8 +160,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVRvbHpQdzhfNVNZR2lSNlRaNmdVeXI3dW52UGVHdmh1WDVvaDh0QmFETURudk1MZ0JyTUlkTlNFVGJTX3JjcVp2ZVd6a0hfWFJaZVZvalNmcWVtOVdKdjVYaWVNU3FvaF9Jb016ZlloSjhITHRLby05VUl2YVhIS1dWTk5ibDlVRUlUQXdZcU5LUEtHN2tyQlp4S2lEaGdRV1JNMmY4LU95WWM1ZFVwYS1KMTBLRG13eFdnTW0zSlEzc2RWWUJhX05oUl9vd9IB3AFBVV95cUxQMklCM0R5aHVVQmhnRm93a2VodXZOdVp3Wk5PTWtvYS0xeWpaekp6VXFqZ3AwTTlMNjIxT043RllOTFBmeVhfNXlRdXlaTVZtbms1Wm5odkxBYmZrQXpRQTVXSm9QbXVmN1FXb3RtSEpaY1ZtQkZsOHdMWFVHSjVIUm9qbFpreG9keXM0SkhlMXdyck91V2NjenI3ODFNYThXaTNWYUxkU0R3Y0kzUjBRMWc1cEd2bTJpMldGYURQUldYc1hJV0pBRVhHVDNKZXpJanVMd21DUERIMFRy?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -152,6 +213,27 @@
       "headlineJa": "アラカジュで集団発生後、男性が家に放火 - Infonet"
     },
     {
+      "articleId": "gnews_4c3be65e51a37d1f",
+      "headline": "Influenza, viroses respiratórias e arboviroses pressionam a saúde no Tocantins; especialista alerta para sintomas que se confundem - Diário Tocantinense",
+      "headlineTranslated": "Influenza, respiratory viruses and arboviruses put pressure on health in Tocantins; specialist warns of confusing symptoms - Diário Tocantinense",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-20T18:38:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSkwxV09VUVEyYXdfTDAxZW1xZmpKM3oxWlZncnkzRDdWOTAybWN5MEg3eC1BdkQ3MnRENkw2QjlfRURORGRYVndEYVVOOHdlTTBNTXRwLTBhaDNQR1VOanQxajFpZmdvUW1WNDRNelpWbDZuQ2kxelk0MU1qdDhGd3RvSXdQdHNJdk9jLThsSFQ5SXJqd0tGaTVQQldwOHFFaVhrUjdJS1lUQl9fT1V5Q0EwSFprVFBpT1gxN3pZdDJIcXphamtReGtMcW1vMklKV1lpaVZlNVczTFdiNWpsTDVqWnRlRWZaazJ6bXloN3oxWDgyb0ZfamNiUXgwdV9rcjBrTw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário Tocantinense",
+      "headlineJa": "インフルエンザ、呼吸器ウイルス、アルボウイルスがトカンティンスの健康を圧迫しています。専門医が紛らわしい症状を警告 - ディアリオ・トカンティネンセ"
+    },
+    {
       "articleId": "gnews_edf2da8e9c962e26",
       "headline": "Menina de 5 anos morre com suspeita de meningite em Sinop - Única News",
       "headlineTranslated": "5-year-old girl dies of suspected meningitis in Sinop - Única News",
@@ -181,13 +263,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWI5QjdQWUNrb25Db2FMSkpEclJDU3haV1NTZUg5YktHS0lPZWhNcXpCYTZPckFBcV8zcW15am5FVldEMmpmbm83WG5ET21wX0dFeVhnZnZyVlltSDhkUTRjeXRhcnR5VEwzVTh1aXlLNHRsTExSMlVfdk1fZVdyRnh2LTh4bk9DNGlLZW9QaDh1R0dvMFoxUi05U28zRmFWaGQzSl9n?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande",
@@ -263,8 +345,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ29UNkpxWHZSU3B6cS1sZzRxSzVodzBPVjlJb01pYkVERjhBeUxiV2Fabl9qb1p5MGlpX2R1SEdyMXB2QUVnUUdjX0NzTjZ1LVNhNno1NWJXOGRMSGNwMm1icVpqRHpLd296QmlFOWdvZGJOSFk0MUtMVmFpNkYxUFVsSnc2dllTenN1eHB2YmphVUJqN0NyUDhNUmpxZmQyMkJUd01adXdJaWxOdktQR01vY3Q?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -284,8 +366,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUVhfVDZkN01faC0zSTFTbEZqanE4UW94QTlPOW1ZUWcyWDE1OUpVQS1ad3lLLTRmNk5GeGZjTVRxa0F0bkUwSzNKaVRaWHRkcnJHc1pCV2IzVWpZbC12dEpieWZhT3Z1blJXNUx2cmtyS195MFFmeVM5UHFidDNTQ3hVZjJWVnFrVTBkek1TQ3ZDUkczNWdrUmo2aE5ldXdoLTdEUG9sZXNNM3BoV2dfbHpuQ3NEY0NXNWdiOHpFWTBhdmNOcmxwdjdRSTRZeHBQWUxRVWVjMA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -297,38 +379,17 @@
       "headlineJa": "マセイオでガラスの鳥に水を与える女性のビデオが鳥インフルエンザのリスクへの意識を高める - cadaminuto.com.br"
     },
     {
-      "articleId": "gnews_a9295ccf9632d9f3",
-      "headline": "Itaporã sai na frente e inicia vacinação contra Chikungunya em Mato Grosso do Sul - capitalnews.com.br",
-      "headlineTranslated": "Itaporã takes the lead and starts vaccination against Chikungunya in Mato Grosso do Sul - capitalnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-20T16:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSG9tVWtyenpNRW15YVhJRV92bTB6bzhmOEVYMGIwYjF5b2staXJITmVGSlhaMklNV0hURXBYRFlzbWxweUJkeEg2bFFrU3RJSkFzSmpuTDRVd3gxRHZPbmREcXFKclV2UU94eDY5cW1QRXJieTZxNGI4eXp4SGtGelRYVDdQT1lxb09rVFdNNlFYenk5ODh0Nkw2UTB4Q3RyaWNfOVQxSjRvazNWbEZVckV2Xzh1T3plOUpadDlUdzV4cTctLVFaZ3JhVEt1WWZvMU9CRmlfWURtdnlrM2JNWA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br",
-      "headlineJa": "イタポラが主導権を握り、マットグロッソ・ド・スル州でチクングニア熱のワクチン接種を開始 - Capitalnews.com.br"
-    },
-    {
-      "articleId": "gnews_66eb35e9e70c0f5d",
-      "headline": "Vídeo mostra mulher dando água em copo para ave em Maceió; Biota alerta para risco de gripe aviária - TNH1",
-      "headlineTranslated": "Video shows woman giving water from a glass to a bird in Maceió; Biota warns of risk of bird flu - TNH1",
+      "articleId": "gnews_01154424b753f355",
+      "headline": "Vídeo mostra mulher dando água em copo para ave em Maceió; Biota alerta para risco de gripe aviária - tnh1.com.br",
+      "headlineTranslated": "Video shows woman giving water from a glass to a bird in Maceió; Biota warns of risk of bird flu - tnh1.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-20T15:51:18+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVZMencwcXNWdzNDQmxoNnRNLXZ6SU1vaXZ6UkxzZldheFpFZDNTdjJfMDZTX1FrRkxyQ1NOVzk3QXk3d2pJdWVfRUI2VV8wY1VrWVBDSFBrRzZGdHUzQVljZFM2czBiUno1TGNyMDZoZThCSTV0SnZLbDBHc3M1enNkdnEwbG9Pa0RaUlM5clZJV1M3Y25ub0FDc1hDaG5mT092eDYya2dTVmQ0bllfcWI5Y3NxRWN5ZWhkb2I3RlJUc3l6T3R6T2hhaXBYMHh60gHLAUFVX3lxTFAwUmxaeC1LVk5kQnRWNTBXd0tQQzNnbmlYV2tCT09Ta3NFVTdyU1RXY24zaHN0TkE4Y0NUV1pSaGE5anlMbXBpWFk2bnVmbHhpTm12S2NEMjB3Z3RWV1hrU2kxdUExZS1CcGF0X1lNMk5WZ0NkUVI3M2NvdlpReURtX3k1WnFTdUNQaVRRWHBVT0UxYnI4ZGt2TkhsVVo3X05LMHpUcFBvTzlOWDlOQy04QlJOc3V5UjFxNXBEaS1HSDA3RGRlUjFIWGYw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -336,8 +397,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "TNH1",
-      "headlineJa": "マセイオで鳥にグラスの水を与える女性の動画。 Biota が鳥インフルエンザのリスクを警告 - TNH1"
+      "sourceName": "tnh1.com.br",
+      "headlineJa": "マセイオで鳥にグラスの水を与える女性の動画。 Biota が鳥インフルエンザのリスクを警告 - tnh1.com.br"
     },
     {
       "articleId": "gnews_853a3f961f897b48",
@@ -613,34 +674,12 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "O Globo",
       "headlineJa": "マトグロッソ・ド・スル州は感染拡大のさなか、チクングニア熱ワクチン46,500回分を受け取ることになる - O Globo"
-    },
-    {
-      "articleId": "gnews_070d970f3dbcfb5a",
-      "headline": "Ocorrências de dengue e zika caem no Estado; já os de chikungunya aumentam mais de 800% - Gazeta de Alagoas",
-      "headlineTranslated": "Occurrences of dengue and zika fall in the State; chikungunya rates increase by more than 800% - Gazeta de Alagoas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-19T08:29:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjNrS1BWMWVQcmxuSlBDR1hJWGhhcGFXel82eXA1ejlfVUVQUENaWC1UU0NYUkgxc2Y0RkpzUGp5V3VtVjV1S2RNRGVMOFNUY2pza0pObW9CLTlxbk1pSzZha0RwaU1MTWlNRk5GSnA4Z3hsbHdqVlZoOEdlT0lab2sxQ1FRSXFqTlA3cm12NExDTEMxekMwdnE1aElmUTF2cVd2LUl3RjhNbTNPSUQtRFQ4bUkxNkNmY2hFMU4xb28xSEh0R00xVFNVZlp0WUtt0gHYAUFVX3lxTFBXaUJrOERqTVZBNzBQd3JTSzZGU0RqVjJQYVo5SVhZWVhWREgzNWZhdG5ZYUdGZUhfS09JdEpScEFyaWZUTjAzZ3AwRmhGR3hNX2JQT28zUGF6SDlaZnBRcnh2eno0VFltYVpPd0ZqYk5hdHE5NkROSEF4bk13Sm1Ga3FJMllLSFdyamVON1lLRWdhWEFvNW5ZQkZiMHNvWHNlTHBLOVNKdC1MYXViRG1PaFRmRGYyOWoyZVF5TWRyRFI4QV9kaV9iUlhPbmJQclY2aFdQY0lUWQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya",
-        "Zika"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gazeta de Alagoas",
-      "headlineJa": "この州ではデング熱とジカ熱が発生しています。チクングニア熱感染率が800％以上増加 - Gazeta de Alagoas"
     }
   ]
 }
