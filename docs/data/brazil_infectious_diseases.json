@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-04-23T02:58:08.110183+00:00",
+  "generated_at": "2026-04-23T09:29:33.586071+00:00",
   "date_range": {
-    "start": "2026-04-21T02:58:08.110183+00:00",
-    "end": "2026-04-23T02:58:08.110183+00:00"
+    "start": "2026-04-21T09:29:33.586071+00:00",
+    "end": "2026-04-23T09:29:33.586071+00:00"
   },
-  "total_articles": 23,
+  "total_articles": 22,
   "state_summary": {
-    "Piauí": 2,
+    "Rondônia": 1,
     "Pará": 8,
-    "Brasil (estado não identificado)": 9,
+    "Piauí": 3,
+    "Brasil (estado não identificado)": 7,
     "Rio Grande do Sul": 3,
     "Tocantins": 2,
     "Ceará": 2,
@@ -16,29 +17,49 @@
     "Bahia": 1
   },
   "disease_summary": {
-    "Dengue": 12,
-    "Measles": 1,
-    "Doença infecciosa (não especificada)": 4,
-    "Meningitis": 5,
+    "Measles": 2,
+    "Dengue": 10,
+    "Doença infecciosa (não especificada)": 5,
+    "Meningitis": 4,
     "Yellow Fever": 1
   },
   "articles": [
     {
-      "articleId": "gnews_d407264f31692d24",
+      "articleId": "gnews_b1970fe521727d62",
+      "headline": "Com surto na região Norte, campanha contra o sarampo no AP começa em agosto - Expressão Rondônia",
+      "headlineTranslated": "With an outbreak in the North region, the campaign against measles in AP begins in August - Expressão Rondônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-23T09:20:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHRoakdpN04xc2dfa2VjT2dkbXpJLXQ3U3pBbTZkYVVNTkxxSndIdWFwU2lfbHJRNERZaTZscmFhc1VKdnRNZzVXRTEyM0NyeGRhZWlCSXJIQ2k5STZmQ3VodmdjRFNSTE1VZ3pOcUpwUi1IcWZDNWU4Tl9GWHE0NEVHYXZvaG05WXRjRV83Y0pKVEpETjBueFhrZTVxQUVuelFFQjNlRm5mSnQt?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Rondônia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Expressão Rondônia",
+      "headlineJa": "北部地域での流行を受け、AP通信で麻疹撲滅キャンペーンが8月に始まる - Expressão Rondônia"
+    },
+    {
+      "articleId": "gnews_76279a357d0ee77c",
       "headline": "Sesapi oferece curso online sobre Dengue para profissionais da saúde - Portal Piauí Hoje",
       "headlineTranslated": "Sesapi offers online course on Dengue for health professionals - Portal Piauí Hoje",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-23T00:07:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVVma0RnS0hpVGZrSUwyYjA0ZjZtdDB2eEw3bkhYTi1aaHU5aHJQVUw1SU9QUFVnTWwwSjE0WXh6WnFOdmN6SDAxZVVDNklVMHdSUnVnMndYUUdCUHRzTWZfVTlRYzRjeFE2d2lwRW1pWVp3RkZpMkFLcTlzTGozNzFBSGFLYkJmRk8yTktvRVljb3N4dnlKdnVOUGx0RWMzLW9ZLXVGZkpCd2RKemc2aEYxY1Q2SU5W?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUZpLUZSVXJYNnl3VTJrNlBHMExoUmVzMDJCaDJxRnVPODBKbzViazlaZlR2NG1FZjA2NnlHc2dDZ0RPa1Vyb05wRGFXTkZXSFZ0cTlsQlNBN2NRdDh0Z3BsSE5DRm1SQ2NHQzJMSTl6UzNCMlY5SS1SODdOOW03djNib2JDdnhWa0UxQW5BM2MtME1zQ2d5cHpVa0lrRTVKZzFvc2JWc0FmOXhSY0N1LWZOYU1Qc05V?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Piauí Hoje",
@@ -65,24 +86,65 @@
       "headlineJa": "カタルーニャ州で麻疹の新たな感染者が確認されたことを受け、保健当局が警告を発した＝バディニョ"
     },
     {
-      "articleId": "gnews_ae9d200e741eeae0",
-      "headline": "Sesapi promove capacitação online sobre Dengue para profissionais de saúde - Portal Chapada Grande",
-      "headlineTranslated": "Sesapi promotes online training on Dengue for health professionals - Portal Chapada Grande",
+      "articleId": "gnews_322c0cb71d75a142",
+      "headline": "Bebê prematuro que morreu após testar positivo para superbactéria em hospital tinha irmão gêmeo, que segue internado no RS - G1",
+      "headlineTranslated": "Premature baby who died after testing positive for superbugs in hospital had a twin brother, who remains hospitalized in RS - G1",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T21:28:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkp6T3FTVE1VdFlqQTdGS1paNDNFRGZONzhMSFFSTHk1QmE2ZEFfRzFsd05oU1ZrQUxBRS1MdzBvczE3Q0pYR0hWdmluM2RvVEc2S2NNb3ltNmRiWmUzckxQemlYVG05UzZCVUFGbGVIa29LRDhCM1V5VTlzZkNTSkd0dGVmeEdQY0pqNzVsVUdxVDZvVzMyN0F3TjNCd1hMQ1QwOVNHWGwtdGhROE5HNDRYMzcxTWVlT2hn?oc=5",
+      "publishedTimestamp": "2026-04-22T22:23:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOEJ2aVFkUFVTalFiQ0tIaElwOU5DdjdMbXRwWW52dXFfdmlBTnlySjk5ZWROcnFHTlZQczhuczk2NkptbkpXNENHWlNKU2kzZElzVWJaLXQ3LTRDa2VWUUE2c0NjX1dIYlZSVjhsNXh2NWJXMlREM0ctenh6WUF5azBiVzRPX0p3YVpFMjA1ektuMHFCZGlfMElUcklZdzNxbWRhWnNaRWt0MHpmME9wNm5TcGl1UUxmcGt0UzVXSzJGU2pKVWRKbUx3dWdTSXFmMUhxR3JtUzF6U1lndmozNGJnMNIB8gFBVV95cUxOUS1qR0NmTjM5Nlc3TWVUYld3TXVkanc2WUlXZEZMR09GWFJIRTJNZjRxVTI5VHpfV2NvQ2JhVHFkQnM1SU44b2xWZVd5RG5sbVhWR29GS2Jka1hyNk5Mai1yckk5TlMxckF3c1NsUUtrdGRTeENTYnNBSTc4TWRDdHB1OTc1d0tLWEtDZjVJcWV3eWhFZncwWWdaSWh3bzEwTGZib2pzdXRpUFRVRHJpRnlxU2J2em5JRmhWVEJ1ZVBwWGRfaU1XWXV4SkViWEROTlQ5eTNvYlZPZnFNRkdRSGZsZG9lWnJJa3p2ZzlrMVkyUQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Chapada Grande",
-      "headlineJa": "Sesapi、医療専門家向けのデング熱に関するオンライントレーニングを推進 - Portal Chapada Grande"
+      "sourceName": "G1",
+      "headlineJa": "病院でスーパーバグ陽性反応が出て死亡した未熟児には双子の兄弟がおり、現在もRS-G1で入院中"
+    },
+    {
+      "articleId": "gnews_6bd3910b8e268fbd",
+      "headline": "Campanha reforça alerta para o perigo e a prevenção dos tipos de meningite no Brasil - Jornal da Franca",
+      "headlineTranslated": "Campaign reinforces awareness of the danger and prevention of types of meningitis in Brazil - Jornal da Franca",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-22T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmNJRWR4MzhfQ2hsTnBORnFyR0FfSWg3cFZkWmZqcS1TVlc4SzRqOG5Gb0hGeWVENmVFUmlhNjZVMTV1ZjA2N1lVdjBIX2R0OFdNV2lEc2hNams3SU1qTWRveFdsNWRoWGQ2UEZCc0xPcG53bnlVMG5vRm13aVlyQzNhYml6WTdPWEpTTUlBc3d4REM5SHhVXzBRNGttVGxSQnRKVXpkM292NUp2?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da Franca",
+      "headlineJa": "ブラジルにおける髄膜炎の危険性と予防に対する意識を高めるキャンペーン - Jornal da Franca"
+    },
+    {
+      "articleId": "gnews_a8a6c271efabd833",
+      "headline": "Sesapi promove capacitação online sobre Dengue para profissionais de saúde - Teresina em Foco",
+      "headlineTranslated": "Sesapi promotes online training on Dengue for health professionals - Teresina em Foco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-22T21:30:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGU2YmhPNE9zdVNjWTRERVgzREV1UWhBMEp5eHc3NHJ4RGIwdE5wcUI3d3h2RFRlNW9vbXJBN3NXWllPR21oZE53SVdydW9HVmNFTUpiNy1DYkVmNVhya1JlVUlBcDhhZTFWQlo5SF95WHFIUU9xX290NWNoUk4tZUdqOFNOaVhHWFhSeHI2Njl6Y2FPemFtVnFEXzRfMkcyYVJvcExHVjROV1NnR0Q5N0k0U3FsdFBBQkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Teresina em Foco",
+      "headlineJa": "Sesapi、医療専門家向けのデング熱に関するオンライントレーニングを促進 - Teresina em Foco"
     },
     {
       "articleId": "gnews_74e6d6265c93e9ed",
@@ -165,13 +227,13 @@
       "headlineJa": "MT州の髄膜炎による死亡：SUS州で利用可能なワクチンを調べてください - Radio Itatiiaia"
     },
     {
-      "articleId": "gnews_86b0fb071c5ba0ac",
+      "articleId": "gnews_cdb6bbee2beed764",
       "headline": "Números de casos de dengue no Brasil caem 75% em 2026 - Cultura Rede de Comunicação",
       "headlineTranslated": "Number of dengue cases in Brazil falls by 75% in 2026 - Cultura Communication Network",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-22T13:13:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXZZNGdTenM0YUt6RnQtZ3JpN0tOeWFUalFkXzZqbnRHclVmRk44OWhyWU55VnFrT2xOdnJyMUZ5dUVQYmpfQjNFNEpRVDFGVGFNT1VGQ05JaThNTEdpZDd1ZE9uY2JnZF9DeFoxLTlhbUdOYnRrNW9nWTZmT0ZPZ1NUTHFlTjc4a3pDUEc2ZjJwUWlneGc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcF8zVWhPYVZpdzItdE0zWEVtZmpkSU14dUtiN2pjdXdibkFGQUVYWXM0NXBtMS1IMEc5WXk5dFp6MHhzM29XZzI4Nnp4YTdqMjRUQnJ0MFlvbkJq?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -205,26 +267,6 @@
       "headlineJa": "黄熱病は大都市近くでより激しく広がる可能性がある - Jornal da USP"
     },
     {
-      "articleId": "gnews_2e5d716a5ea04de9",
-      "headline": "Mês de abril reforça alerta para a prevenção da meningite no Brasil - Jornal de Beltrão",
-      "headlineTranslated": "Month of April reinforces alert for the prevention of meningitis in Brazil - Jornal de Beltrão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-22T11:08:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vbHQ3TnNkenpEeE84MXdsSUlwX1pEWjhSUkJwYmhCZGlRZXNIRGt0RjhlRWJHYmRWQ1NqZ0c2VmlBQzF5S2xpSjNmZHBIXzRjNWFQcExhcTl4S0RJS3RsTUczMXk3UVowUGo5RVVzWFNxeHM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal de Beltrão",
-      "headlineJa": "4月はブラジルで髄膜炎予防に対する警戒を強化 - ジョルナル・デ・ベルトラン"
-    },
-    {
       "articleId": "gnews_6fcbd946686396ae",
       "headline": "Nova estratégia em Gurupi usa armadilhas para rastrear mosquito da dengue - Jornal do Tocantins",
       "headlineTranslated": "New strategy in Gurupi uses traps to track dengue mosquitoes - Jornal do Tocantins",
@@ -238,12 +280,12 @@
       ],
       "locations": [],
       "states": [
-        "Tocantins",
-        "Pará"
+        "Pará",
+        "Tocantins"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal do Tocantins",
-      "headlineJa": "グルピの新戦略はデング熱の蚊を追跡するために罠を使用 - Jornal do Tocantins"
+      "headlineJa": "グルピの新戦略はトラップを使ってデング熱蚊を追跡 - Jornal do Tocantins"
     },
     {
       "articleId": "gnews_cfc2345c0987eb7f",
@@ -299,9 +341,9 @@
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
         "Pará",
-        "Rio Grande do Norte"
+        "Rio Grande do Norte",
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -321,8 +363,8 @@
       ],
       "locations": [],
       "states": [
-        "Tocantins",
-        "Pará"
+        "Pará",
+        "Tocantins"
       ],
       "dataSource": "Google News",
       "sourceName": "Conexão Tocantins",
@@ -367,26 +409,6 @@
       "dataSource": "Google News",
       "sourceName": "O GLOBO",
       "headlineJa": "髄膜炎：シノップ（モンタナ州）でティーンエイジャーと子供が死亡。ブラジルで利用可能なワクチンについて調べる - O GLOBO"
-    },
-    {
-      "articleId": "gnews_75e6177963d34650",
-      "headline": "Abril reforça alerta para a prevenção da meningite no Brasil - OCP News",
-      "headlineTranslated": "April reinforces alert for the prevention of meningitis in Brazil - OCP News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-21T16:23:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1dnbm5PbVhoMHNhdF9QY0R0QVJFMmFjajNFMDF5TkpWNFZYUzZIUHpZRHhOZzAtTHpqZGZhVnN3cW5GeEtDaTRCRXlBVF9YMWtBeUY2REpVUWhFWUFfWkNZZzMyV2Judzc4ZE1kYmhNRkZJQ1BiaUtzWERCa01nOFNrLWhIT3RBUVd1bXo4QmY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "OCP News",
-      "headlineJa": "4月、ブラジルで髄膜炎予防への警戒を強化 - OCPニュース"
     },
     {
       "articleId": "gnews_deb172c9f2d6ecab",
@@ -447,46 +469,6 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "遵守率が低い: テレシナではデング熱ワクチンの需要が低い - G1"
-    },
-    {
-      "articleId": "gnews_cafde0c831ec5db7",
-      "headline": "Casos de dengue no Brasil caem 75% em 2026 - Medicina S/A",
-      "headlineTranslated": "Dengue cases in Brazil fall by 75% in 2026 - Medicina S/A",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-21T08:04:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hVXpObWVraEdmS2FMcUZVREhWbGlHWHJJVDRBMlo1QXNpMmtselpuS0t5dWdPMDBPUkwxYi11M1RSV21ublJNeUtOTnRHTDZjUXk5MVJMbw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Medicina S/A",
-      "headlineJa": "ブラジルのデング熱症例は2026年に75%減少 - Medicina S/A"
-    },
-    {
-      "articleId": "gnews_b8690af9654b9692",
-      "headline": "Programa de combate à dengue tem obtido êxito no controle da doença - O GLOBO",
-      "headlineTranslated": "Program to combat dengue has been successful in controlling the disease - O GLOBO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-21T03:09:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWdkWUY0QllWU2ZEX2VwT3Zscm15VUoxdy1tcWpmN2hNXzF5aGg2b1MyVTFiVnlrcllFNWtnZGdGOWRtZTBBWTRjNmVVSllJQm1wdzJKMW1mOHNqSTN4U29UUTRWNzNfa2xmODZwSXQyQi1xeVlObW9xWFRxMzRpRmkzZ3R3SzNRWWhCNjNmb3R2YkVla3pnWGl3TldvUFY3WlRiekVIelpkYnptQm5RWEtMSmo5TEZOTmR6X29YRF9VaW5ZTVBmZEZLc9IB2gFBVV95cUxPeU9JdWdwaTNaQ3d2YUxPa3ltOVFKVk9nODFGcmFzUklfRmtmMGp1STA4TC1qNHlqM016Mk9kckpHMnhFdW92RV84cFphMzF4S1JKQUZYaXdyYTB4TGpGaGFYUjRXUmMwYWdsLXhJcnJySWJmVlhaenpQS1ZzMFpOZ0JTd01CNWptTlFlVkRuNl9EdXBBYnNSYWlpcnVrbG5zNkZhNDBOd2ZrVDQ2dHVlcTFzcU56YnJEWnZQZmR6aVAxVHNOMGJsWUNjeTUxbG1XT1Z5LUFZRzJEQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O GLOBO",
-      "headlineJa": "デング熱と戦うプログラムは病気の制御に成功している - O GLOBO"
     }
   ]
 }
