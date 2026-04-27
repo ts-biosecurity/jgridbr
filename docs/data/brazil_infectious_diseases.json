@@ -1,33 +1,115 @@
 {
-  "generated_at": "2026-04-26T16:57:13.441307+00:00",
+  "generated_at": "2026-04-27T03:30:56.938319+00:00",
   "date_range": {
-    "start": "2026-04-24T16:57:13.441307+00:00",
-    "end": "2026-04-26T16:57:13.441307+00:00"
+    "start": "2026-04-25T03:30:56.938319+00:00",
+    "end": "2026-04-27T03:30:56.938319+00:00"
   },
-  "total_articles": 32,
+  "total_articles": 24,
   "state_summary": {
-    "Pará": 9,
-    "Brasil (estado não identificado)": 15,
+    "Brasil (estado não identificado)": 13,
+    "Pará": 8,
+    "Piauí": 1,
     "São Paulo": 1,
     "Bahia": 1,
-    "Goiás": 1,
-    "Mato Grosso do Sul": 1,
-    "Distrito Federal": 2,
-    "Pernambuco": 2,
-    "Piauí": 1
+    "Paraná": 1,
+    "Mato Grosso do Sul": 1
   },
   "disease_summary": {
-    "Measles": 10,
-    "Meningitis": 2,
+    "Chikungunya": 3,
+    "Dengue": 6,
+    "Measles": 8,
+    "Influenza": 1,
+    "Avian Influenza": 1,
+    "Meningitis": 1,
     "Yellow Fever": 5,
-    "Dengue": 10,
     "Zika": 1,
-    "Chikungunya": 5,
     "Malaria": 1,
     "Syphilis": 1,
     "Doença infecciosa (não especificada)": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_cb6b729105a566d1",
+      "headline": "Chikungunya avança em MS com mais de 7,5 mil casos prováveis e 13 mortes confirmadas - Notícias de Três Lagoas - Rádio Caçula",
+      "headlineTranslated": "Chikungunya advances in MS with more than 7,500 probable cases and 13 confirmed deaths - Três Lagoas News - Rádio Caçula",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXdYdmZud3BQRHBHaXlKWnVBNlhDOHA1cHR5STI1UExvNG5zWG9seklxV2NfMXVpRkYzdlRJbnFYbkdvOGE3X2ZsSENsdC02dFc1bW82UHdUTTZPVUxLWGh6Z2MydS0wMDZLYmlYbGd0T3JIcEcyRU5SSm9mb1N0bUo4YWRtalVXY1lCMXdqdXh1QVdpdWJ1LVpvRVI2RnpPbFItWHNfYzFXX3c0aVR5NFhvSk9OZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias de Três Lagoas - Rádio Caçula",
+      "headlineJa": "チクングニア熱、多発性硬化症で進行、感染確率7,500人以上、死者13人以上 - トレス・ラゴアスニュース - Rádio Caçula"
+    },
+    {
+      "articleId": "gnews_9d979a2437a34751",
+      "headline": "Secretário alerta para crescimento da dengue e reforça prevenção no Piauí - CidadeVerde.com",
+      "headlineTranslated": "Secretary warns of growth of dengue and reinforces prevention in Piauí - CidadeVerde.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T20:56:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxhNmozeGE3Q25URF9ScHpzaG52NXNHZ0xvQ1hJbWtzVGswR1ZSVFB4aXBONnhDSVZxZG5TTGg2a2tBWHR6TlBPWnhQTTZpM3RNV0xQbl9tOFNNeFd6X0c3c1Fkd21xYXNCdTNLemVLamtoN0E5Q1lvVFNLdl95eWFtR3lwYm1BZlBtd1BXd2JDX2VjRHRmUm44bm9xZkl2OUVnODRmUUtXWTVMSFN6Tm16NA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CidadeVerde.com",
+      "headlineJa": "長官、ピアウイ州でデング熱の拡大を警告し予防を強化 - CidadeVerde.com"
+    },
+    {
+      "articleId": "gnews_0b279ee04a762d2b",
+      "headline": "Ministério da Saúde alerta para risco de casos de sarampo após Copa - TubaNews",
+      "headlineTranslated": "Ministry of Health warns of risk of measles cases after World Cup - TubaNews",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T18:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE04eFNhOFlBWks5ekx0M3Q0ZnZzQlMzSmNOeUdoVEJQdTJuRFlUU2hCQkt4TnlmSExwdnJfNGZ4N1duR1FjbGxaS0JTdERESzMwdEg2YU5mNXRnZTlZR2JqSW9kRWpVcUxWZXpuMEZFZ00wSE5zTUJINkFXSmRseFBad1ctN1hwS1BwVHlXdWpZdVExWXN2RmtrcE9aaWVlYzMtak93?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TubaNews",
+      "headlineJa": "保健省、ワールドカップ後の麻疹感染リスクを警告 - TubaNews"
+    },
+    {
+      "articleId": "gnews_53ee16343287358b",
+      "headline": "Japão bloqueia frango de mais duas cidades brasileiras, após gripe aviária em criações domésticas - MSN",
+      "headlineTranslated": "Japan blocks chicken from two more Brazilian cities, after bird flu in domestic farms - MSN",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T17:26:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPYzQwSjZhWVVUMEtySDFxNTNHYldmbmJKdEpTVkRpU1ZsdGU1YS1yQUg4TUp5RnVhS3BGQnlhVGNpSE1KMTNhdzktQ1hRSk9hSWhLS2lBcHY5b2NiMDhjU3E3b1ktRXRpcjNBdkgtNzNhS0YxbENaRXhLb0ZNR1BodHBGWWZKakVaT0lRVVlCTmExM3cxQnFFSlFtWmZ4VGh3WXRuV0dlamNaaXRnZ3Q5NlhkRXg1RE5nZTlyYnNBN3JfSXBTNVRyb0RzRy1kN1Z1N2FVZW81ZUlhNHRMT0Z2Z2JWYllRT0pRSHJJUkZGYkROdnpGUWNjMW81QkdZbmZOa3FuUnNKMWFISXlNOUdpazNUYXZhN1pkdXFnS3J0OGVqN1VydWNWdlQwY01BNjBNdlRBT2M5UGREQXRHNlkybFNWMkNPZmUtQXpWcU9qczNrTGRJbGpPOE5ONG4yVk9KcXVIMThXNFhTcFh1a0xGazVMVXhnTHFBUzlKTUZhODM0UmxPMURwUTlVQ2M0MkM0RW1YY1BWUWozQVNzV1FYUFFhYURqWEV3OXpEWmJ5dkM3OTEzQTdiazRSdF9wb2pk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MSN",
+      "headlineJa": "国内農場での鳥インフルエンザを受け、日本はブラジルのさらに２つの都市からの鶏肉をブロック - MSN"
+    },
     {
       "articleId": "gnews_87f9812a45203dba",
       "headline": "Alta de casos de sarampo faz Opas convocar países para reforçar vacinação - Daqui",
@@ -98,9 +180,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc3lzV1A5ZURQeWxZWjltaGRRbTBZNEFwNGtOSHdhUy1UUDk5clBNRUJvNDNRNFRsSzhRb3RiRlNxclRmZkROMXBWeDZQZTEzbUZNV3dGb0NRTkpKWURGT0c0c2g3aDNmcnRhX0JpbENjVlhRbVZEMHQ5QWtmQ1VSQzliV3J2NURTeE1xazhZVEpCRjRVQU5oZHhhc0NMN2pHRC1neVhFZkRDSl9lakZSZGZxVHJpcmRBamNxTG1pRzRpU1hSMEZuZTBPT3JFOUctc0NzNkltaTBSdXlkd3FpUnRHbGVveFppVTkxWTUxd1prWXoy?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
+        "Chikungunya",
         "Zika",
-        "Chikungunya"
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -131,13 +213,13 @@
       "headlineJa": "黄熱病は大都市近くでより激しく蔓延する可能性がある、USPの研究が示す - Agêcia SP"
     },
     {
-      "articleId": "gnews_ee15b42ba9966863",
+      "articleId": "gnews_ceff07a8efaf50af",
       "headline": "Saúde reforça alerta de sarampo após Copa - Guararema News",
       "headlineTranslated": "Health reinforces measles alert after World Cup - Guararema News",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-26T10:33:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcUQ0bHVod3RpRHgxdmdrNzBQMnJ1azhyYVdaQUtzbW9LN1N0UkpPOF91WngySmx4ZHcxaEkxTDdkQ19DV3B2ejg2QTYtWTY2enVPVHpsN0paYnFWTEdBbnFFTTZyTDFxdHhiTnczQUstMnJYcm9ZRVd6QThfT0lJd0dpaw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jYXNWdEU2OUtucHN2MkJYdkVuX0tvX25PQlNIdFE0Q2NfVjFHZGxKYTlrUzk5WVczZ0VMbU40dmhndU5yWjJKaWlpdGJJSDQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -180,8 +262,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXZxYWFYSW9mellBMXdUZ0ZHZG5KeTBXTTJsM2JYVUZmcXZXYkxuMzM0d3pMNmxFVTdXSFRleXhGdXJ6aU90c21XT0FLeHpub3VaMHJwaEZJLXBETGE2Qk41Znl0RHZmQ1RtMUIyNW1jWFhrSG1BUDRpaFBKS2lsemlveUN6VFNRaFRtY2Jia25sMVJSV3JpTUtLMzM?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Yellow Fever"
+        "Yellow Fever",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -209,7 +291,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Gláucia Lima",
-      "headlineJa": "マラリアと闘う世界デー、ブラジルでの予防と前進を強化 - グラウシア・リマ"
+      "headlineJa": "世界マラリアと闘う日、ブラジルでの予防と前進を強化 - グラウシア・リマ"
     },
     {
       "articleId": "gnews_e91bc370a4caa9e7",
@@ -221,8 +303,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0ZRNm94VVdLWFdnejlZWm4yaGxxREpBWjQwQnVYR21FOFhnR1FXaXdjTzJxQ0NHWlRYampzOU42R2t1V1lqWDdVbnZmVUc0TUlyOERFbDAyU0JhQlF5UmhIMlR0MDR6aHZVVkhKelVIVHFDWlNBY0FHVlczWnAzVk1FZGFHMlV4QTBwSkVHd3BLYS1LTVNVeE1mTFd5N19aeHlNWS16Y0tqOU1iVjQ1Z0kwV1dVQUotOUtF?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Yellow Fever"
+        "Yellow Fever",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -270,7 +352,28 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Click Xaxim",
-      "headlineJa": "ブラジル、ワールドカップ後、新たな麻疹症例の差し迫ったリスクのため警戒 - Click Xaxim"
+      "headlineJa": "ブラジル、ワールドカップ後に新たな麻疹症例の差し迫ったリスクのため警戒 - Click Xaxim"
+    },
+    {
+      "articleId": "gnews_c7c10df7d0f41b73",
+      "headline": "Organização Pan-Americana da Saúde convoca países para reforçar vacinação contra o sarampo - Bem Paraná",
+      "headlineTranslated": "Pan American Health Organization calls on countries to reinforce measles vaccination - Bem Paraná",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-25T18:18:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVhjUEVNSDB2RzVybG5CNlZJWS1tWTVDdVNnVFh6bEhBQWc2WkUzRG1GcmExQzNucm44dC1WVnNROG50bXMzSzlfQVNJVENySW5LQzVnY3QyVGhCS1F1TmZZdUJZeTJwNl93VzRfY19HZXoyZUZsbEI1ZXRxa3RERHlyX2cxTG5SQUhvMllPVXRJRXp0Q0NzNHlDelctREFtV0FJNDZYRm5iTDItSWlYR1ctUFNUd2pQa1FMTXBCdWxsYm5NdU45WGZxamJTQ2FX0gHWAUFVX3lxTE5PXzk5UjBGRTk5XzdibV9pQkE0aGZ3anNJWnE5MkJMeUFSaGRZdUxqNUllbEkxUWNoSkROQ3MtVllUSDEwT2ExRWxiWVhFLWRQcHFjcHZVRmRXcmVPekc0T1VZdTcwMVVRbmlYSXJjbVlpajFBcXV6VEpMVlZoa2hBVXdSQnNOUnhzWlJVQUZxeE11b0xVUG1pRkRIOU1uX3NOb3FrYXNiLWYzcXhtOHN1cHM0TXlOYnpMSU1aQXo1VHRCOTZSbzFHZFBhaGkzWVkwMURaWnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bem Paraná",
+      "headlineJa": "汎米保健機構、麻疹ワクチン接種の強化を各国に呼び掛ける - ベム・パラナ"
     },
     {
       "articleId": "gnews_039eec14d7f52799",
@@ -291,26 +394,6 @@
       "dataSource": "Google News",
       "sourceName": "Agenda do Poder",
       "headlineJa": "麻疹症例の増加により汎米機構が各国にワクチン接種の強化を呼び掛ける - Agenda do Poder"
-    },
-    {
-      "articleId": "gnews_eb6b2ec8002dbfc8",
-      "headline": "Menina de 7 anos morre com suspeita de dengue em Goianésia; caso é investigado - Mais Goiás",
-      "headlineTranslated": "7-year-old girl dies from suspected dengue fever in Goianésia; case is investigated - Mais Goiás",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T17:52:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTlwd0tBdmxTbm5uaUM3dUdPbnh2ZkNPVERjc0dRaG1CS1pRNXZYeWw3R3JqRVpLZ0FLVkl0U2JxQVVSdGFmTGNsZUoxX3FDMnFnU3pkdENqMGRXX3BwSFNsNE9nSWZITHNjMlAxSnF6ZGxVNFQxOElZdFVhYjNCekhaRG82dXVrVm8ycnR5bDBZektYVS1Id2I2UHlzMjNYU3RhZHdvZjdzdmUxMThGWmJlTklYZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Mais Goiás",
-      "headlineJa": "ゴイアネシアで7歳女児がデング熱の疑いで死亡。事件は捜査中 - マイス・ゴイアス"
     },
     {
       "articleId": "gnews_e475925126849242",
@@ -370,7 +453,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
-      "headlineJa": "ワールドカップ、麻疹症例増加のリスクに警戒喚起 - CNNブラジル"
+      "headlineJa": "ワールドカップ、麻疹症例増加のリスクに警戒を呼びかけ - CNN ブラジル"
     },
     {
       "articleId": "gnews_290bc3bd08d1d4e1",
@@ -431,247 +514,6 @@
       "dataSource": "Google News",
       "sourceName": "Poder360",
       "headlineJa": "デング熱とギラン・バレー症候群の関係を研究が示す - Poder360"
-    },
-    {
-      "articleId": "gnews_c40e987099eb59fb",
-      "headline": "Ministério da Saúde alerta sobre o risco de sarampo na Copa do Mundo - O Dia",
-      "headlineTranslated": "Ministry of Health warns about the risk of measles at the World Cup - O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T00:47:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFRZOFhncWZIa1cycjZHbWVqMVZNVmZsZTJ6aEROb2RiTlZLd3hycFc2MDZKSS1QRzhIZ1loNGM1M0NqMVVEd1dSaTVmRTI2dl9WbE4zcmxGbHRoQ2dhOXVKSllHeDYxUVBDRFEtdjJLSEF0QzZ4YnlBUnFXOUhpMVBLc2hHc2FqbktzMGN2OHgySWFUcEpreThmU1M5S2ozSUgzS0E0amxjVGxfXzM4aXFiQkR3QXhZeW1J0gHAAUFVX3lxTE84blQtUzB4SU1JVzNJVDBjSXFIQ0duc1M3WEJpTGl3WlZJQlJ4akZOQ0VoVjZCLWp0aUhiX2s1dEFyMm9JVTctOXQ3LXpFcU0wQnVTc3hXY1B5emF5QWRQbW5WeWJ1X3RXb1AwVUZzbmdlUTV5UnN0bVdnelIxV05LWlZTOXFJRVViNThSS0x5ekN4Q21ENWMtYmtpaUV6TTVDN0k3T2Y0Q2FZU2gwdURwZWkyTVdCY0N6Qi1qQjlMMQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Dia",
-      "headlineJa": "保健省、ワールドカップでの麻疹のリスクについて警告 - O Dia"
-    },
-    {
-      "articleId": "gnews_7aaeb6a7783c7178",
-      "headline": "Menina de 7 anos morre após quadro suspeito de dengue em Goianésia - Portal 6",
-      "headlineTranslated": "7-year-old girl dies after suspected dengue fever in Goianésia - Portal 6",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T00:15:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlR0bDMwYVVDRk5QTEdDVnc4TXpiQVFlSDBHdzdKSWpDNDZOR2RoUkRETk1rUUhiSUI4TndCbktILWNIQkRfUUs2c3gtMTlRaTJEQlhWbDNtNDJRZFFfVE1ia0JqU21FNEJvQkc5MjlHdDgtZWZpU255SGl6bGxIWnE3U1BiQ09BTVhndnBoLWNhcFNmNGxLZjdzUF9NWlEzV0pr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal 6",
-      "headlineJa": "ゴイアネシアで7歳女児がデング熱の疑いで死亡 - Portal 6"
-    },
-    {
-      "articleId": "gnews_bc4301f9f7ec0a15",
-      "headline": "Ministério da Saúde alerta sobre o risco de sarampo na Copa do Mundo - jornaldebrasilia.com.br",
-      "headlineTranslated": "Ministry of Health warns about the risk of measles at the World Cup - Jornaldebrasilia.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T23:40:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDVXT2ctOE8yR3J6VGVMR08wNEVRVnZfbEUwR1l2c0pMcHhpRzMwTFBMY0ZCLUxOV3BxRjVUUWFOWjByOWRqaGhTOW9feXUzNFZqTS1TTkFmYmhyR0N3YjJJWkJ3SGJDSGdkak5nZlZENWYxRVFHQjlFaGRWMFJTOFJzcTVSVm16QWVPaTNLTXlRNy1WMUw0SnJhN0J2S2ZHTWZJVGgwd2J1dV9IUTdSZkJibkp4LVU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "jornaldebrasilia.com.br",
-      "headlineJa": "保健省、ワールドカップでの麻疹のリスクについて警告 - Jornaldebrasilia.com.br"
-    },
-    {
-      "articleId": "gnews_3a0c18dfa7992df4",
-      "headline": "Com média de 17 casos por dia, dengue é alvo de mutirões de enfrentamento em Pernambuco - Edenevaldo Alves",
-      "headlineTranslated": "With an average of 17 cases per day, dengue is the target of joint efforts to combat it in Pernambuco - Edenevaldo Alves",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T22:02:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdE1jMVprQ013QzdNamJKRTNyeHpGOFVCTm9jcjdjQ05IVHpyb0xVUm9KLW1mY3oxOEdzMEtBeEdhT29TS0FhUHk3ZkJNQ29yczJNTTlmWVd4bFpwdG1GcWdaalh4M3ltc1F0TGpESDh6dmgzbTVINFIzVU5Rb3hEeEVaaHRQaUkxWjVFZlpZZlE3Rnh1UTBMLThRVjFQQV92MUNkNlg0WEV5ME0yUTQyWTJHVmdtWE56cGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Edenevaldo Alves",
-      "headlineJa": "デング熱は1日平均17人の感染者が発生しており、ペルナンブコ州ではデング熱と闘うための共同取り組みの対象となっている - エデネヴァルド・アウベス"
-    },
-    {
-      "articleId": "gnews_60068922c538724d",
-      "headline": "Idoso de 87 anos em Bonito é 13ª morte por chikungunya em MS - Folha MS",
-      "headlineTranslated": "87-year-old man in Bonito is the 13th death from chikungunya in MS - Folha MS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T21:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEhlWFdiaDk0Wnl6cHJVYmt4eV9WN2lLaTJTRkFsUVIxTGlUdXAyRVlaMmhYV3lmdWg0YnBzTE9wV05mbllicWw5Vk1ualJKVTdseGc1bWhxNm03cWNBTXdsRU1mY0VGeGZYQVkzSkxkSE1EbnVTejNNNHA4UGJvYnRILUJ1Q3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha MS",
-      "headlineJa": "ボニートの87歳男性、MS州のチクングニア熱による13人目の死亡者 - Folha MS"
-    },
-    {
-      "articleId": "gnews_05df5cc660848129",
-      "headline": "Combate à dengue começa dentro de casa; veja como se prevenir - Diario de Pernambuco",
-      "headlineTranslated": "Fighting dengue starts at home; see how to prevent yourself - Diario de Pernambuco",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T20:01:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVNQTJFMXRGQUdOQTgzaTdJTEJSNGxQc1Y2Mk10bVgwZ2NybzBmQm1qbFF0YUJ1RkVkNGpxd2V3cklTZmZyMHU5NmR4M01tXzFqemtyOWI2d2FWSVJwb1o1TEZnbUJiNGZKSWlrbUc0Z1hOSThJRW4xLUIxSG5ETnBqSzJZRTAybDdEeVN4YURHaW4wT2tPWXBkUFlKbmlIWlA3ZnFwc1J0b3ZHZ1hYWTNMNVE3bkhPdXE4Vks5QXBqRUlFSXhfX0VBNnpYa0U1UXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diario de Pernambuco",
-      "headlineJa": "デング熱との闘いは家庭から始まります。自分自身を防ぐ方法を参照してください - Diario de Pernambuco"
-    },
-    {
-      "articleId": "gnews_ffa9f89d4c7f443f",
-      "headline": "Vacinação: A Chave no Combate à Meningite em 2026 - Jornal Brasília Capital",
-      "headlineTranslated": "Vaccination: The Key to Combating Meningitis in 2026 - Jornal Brasília Capital",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T19:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2MyZlItdlkxeGZ0cHRCY05DOGNwODFGTkNLYUJIRDBxRWpIN1RHNVJ3bGVHdlZzalFkamh0NUY1ZHZkZmhMTDlDaDZEMm1uSEg2aElKUW9YUjdlWEIwVk9WVzl0amhOUDVIaFNJUGl3SUtGSVlJMmtMd2lCQnl6Sw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Brasília Capital",
-      "headlineJa": "ワクチン接種: 2026 年に髄膜炎と戦う鍵 - ジョルナル ブラジリア首都"
-    },
-    {
-      "articleId": "gnews_7b9e671aa087b14b",
-      "headline": "Governo de MS mobiliza estrutura e amplia ações para conter avanço da chikungunya no Estado - agenciadenoticias.ms.gov.br",
-      "headlineTranslated": "Government of MS mobilizes structure and expands actions to contain the spread of chikungunya in the State - agenciadenoticias.ms.gov.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T19:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUd3SnBjT0pPUngtZVEwS3NfYm0wR0lUQXh1Q2tXa2Jodm9XcDItemtMNXY2ZEprZlZCSzBDeXBVYUZITTN6VGNodE1YR2hHWmZodGF2aXE3c245bFBIOFdBcUJaVnd6cDlBUTAycXhNRXRQZF9JVkxjeFB0b0tXTkg4RkVmaXZaSkROckdJZm9HSlNZVExfMjZaOVZDMDNITkxWa3lZeXpzdngydGZ4SG5hVUlidWstTG5TWGt2dTkya09EZ0I0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "agenciadenoticias.ms.gov.br",
-      "headlineJa": "MS州政府、州内でのチクングニア熱の蔓延を阻止するために組織を動員し、行動を拡大 - agenciadenoticias.ms.gov.br"
-    },
-    {
-      "articleId": "gnews_a59ae617c6e30b60",
-      "headline": "Ministério da Saúde emite alerta para reintrodução do sarampo após a Copa do Mundo - Tribuna Online",
-      "headlineTranslated": "Ministry of Health issues warning for reintroduction of measles after the World Cup - Tribuna Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T18:41:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFlrYjgzMkxxS043enFma0VfWGw5NlJHWk02MzVibTFyRU10WnJUZHNPdXRzZkdIdWhfb29fZExQX0lwNmlfWXhjYm9Ud0tGaXJ2UWgxUVY0dUlLdDFTRHh0TUh0U0FUMkUtNHphcllTOElwV21Lb3FMZnpkRXNLTGRYeDF6SlZKUTRKZmcyU21QbVdzTHlnZ3dybU1lRGE4Y3Z3MUE0XzlvSVFlWWY4YXVXNlR1WkhmaFF2SGQzTW9sUdIBygFBVV95cUxORTRQMkFFZnlNa0Q3THZhbmZ6Q3I3a3pvSnV5VEw4d1hPaXVrMXQ3Slp3a2xUejJFWkctV2V0UEMxdDhUUlpYOXNZR3ZfY0RkSjdXcEZMNDE1cWFtU3VyZTdqcXdaSW1oeGxfb0xBcDFacjJHX3VYeWFSbzJoS1lnTVQzWjdZMEpYYnd3dTNKWWRfRTl3OW8wcjRFTmhqWElhQVMyR0J3dEIyVm1yN3Fka2owc1NrcXg0dEFqRjJfVy1kNENFWFVYRGNn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Online",
-      "headlineJa": "保健省、ワールドカップ後に麻疹の再導入に警告 - Tribuna Online"
-    },
-    {
-      "articleId": "gnews_cac48d73153d5b43",
-      "headline": "MS confirma 3.490 casos de chikungunya e 13 mortes pela doença, aponta boletim da SES - Idest",
-      "headlineTranslated": "MS confirms 3,490 cases of chikungunya and 13 deaths from the disease, points out SES bulletin - Idest",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T18:28:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUtnWFFXaDg2WmNVdWR1QzQ1V3Fsc1JnSjBJRmZLYnh1b2JUcllSV2ZPTHBhVEZrNVlWMWdkNE8xMGZSbHM1OHRXV0tTOXVKVHRlWWtoLW1BbW9tb0llYlFqMmoweHhLRjZ2ZElnZTdmc2J6OGRROWg3UEF4Y0ljWG0zZ0dZeXBwUDdua1IxYUVlVThhRFZhdV9nMXFkN25WRWQ0bWdHZzdkVlN3N0pRMmlfakw1bmx0VnMzcWpESE0yZ1g3alE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Idest",
-      "headlineJa": "MSは3,490人のチクングニア熱感染者と13人の死亡を確認、SES速報を指摘 - Idest"
-    },
-    {
-      "articleId": "gnews_688c8fd9ccf5849d",
-      "headline": "Ministério da Saúde faz alerta sobre Sarampo aos torcedores que viajarão para acompanhar a Copa do Mundo - Senado",
-      "headlineTranslated": "Ministry of Health issues warning about Measles to fans who will travel to watch the World Cup - Senate",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T18:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcHotMU92V0hBdTFVMlByQUw5VlFmTzRvcXRxY0lUZktxZ1BmYk0xZDhjbl84alcyN3YyZXh6NFljcW5xRDdOeDBPd3dfNS0wUnlFanBaWmhDRFhiZldiN1V2TzhDOUpURUoxRWVMZWZMdEQtbGRKRlFSaTRlMWpqOHhwd3BBRVV2SmItaHdvSVZPa25BQkhJMHE0bXBYVkhjTlJsTllXSWMxNGdpajk3ZGlxRjJ0WF96eFFyZnJpcnVHX1oyemp2WGRaV0RNYjltMDJpcU5waHRkd05LMG5zSU1tb3FFOW9FNjB6aDJQcV8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Senado",
-      "headlineJa": "保健省、ワールドカップ観戦に訪れるファンに麻疹について警告 - 上院"
-    },
-    {
-      "articleId": "gnews_06fb6f5d8fe515ed",
-      "headline": "Secretário de Saúde do Piauí alerta população para avanço da dengue no estado - Jornal do Piauí | CV Play - CidadeVerde.com",
-      "headlineTranslated": "Secretary of Health of Piauí warns population about the spread of dengue in the state - Jornal do Piauí | CV Play - CidadeVerde.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-24T17:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTldaVVNQclVFRzYzSmJRV3lkZ3ZjWjBEVTdQa1VqNlBHRWUwdHJkWE8waFZNX0pfMVlNMVBSZEw5djNKbFdkTF9ERVY3cEh5VXM0NjBIbExFaWpGaEJvNE5pTFFGZGg5N0steEprVW16OS1hdnJERDl2dElYTWwwS0ZXWGNfekFqWnUwaExNYUdjUFF6QTJzMktNSUlkV09uZGV4aGdTa1NndEliNUo2M3dGTkxlRzRG?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CidadeVerde.com",
-      "headlineJa": "ピアウイ州保健長官、州内でのデング熱の蔓延について国民に警告 - Jornal do Piauí | Jornal do Piauí CV プレイ - CidadeVerde.com"
     }
   ]
 }
