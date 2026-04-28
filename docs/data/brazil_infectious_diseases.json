@@ -1,36 +1,157 @@
 {
-  "generated_at": "2026-04-27T17:39:18.150967+00:00",
+  "generated_at": "2026-04-28T03:35:59.622605+00:00",
   "date_range": {
-    "start": "2026-04-25T17:39:18.150967+00:00",
-    "end": "2026-04-27T17:39:18.150967+00:00"
+    "start": "2026-04-26T03:35:59.622605+00:00",
+    "end": "2026-04-28T03:35:59.622605+00:00"
   },
   "total_articles": 30,
   "state_summary": {
-    "Pará": 12,
-    "Pernambuco": 1,
-    "Brasil (estado não identificado)": 11,
-    "Distrito Federal": 1,
-    "Alagoas": 4,
+    "Brasil (estado não identificado)": 10,
+    "Pernambuco": 2,
+    "Paraíba": 2,
+    "Pará": 9,
+    "Mato Grosso do Sul": 1,
+    "Distrito Federal": 2,
+    "Alagoas": 5,
     "Rio Grande do Norte": 1,
-    "Paraíba": 1,
     "Piauí": 1,
     "São Paulo": 1,
-    "Bahia": 1,
-    "Paraná": 1
+    "Bahia": 1
   },
   "disease_summary": {
+    "Meningitis": 2,
     "Dengue": 7,
-    "Measles": 12,
-    "Doença infecciosa (não especificada)": 5,
-    "Leptospirosis": 1,
+    "Leptospirosis": 2,
+    "Measles": 10,
+    "Chikungunya": 3,
+    "Doença infecciosa (não especificada)": 6,
     "Influenza": 1,
-    "Chikungunya": 2,
-    "Yellow Fever": 5,
-    "Zika": 1,
-    "Malaria": 1,
-    "Syphilis": 1
+    "Yellow Fever": 3,
+    "Zika": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_a22eb41e092c4f03",
+      "headline": "Brasil registra ocorrências de meningite B e reforça atenção à doença - ND Mais",
+      "headlineTranslated": "Brazil records occurrences of meningitis B and reinforces attention to the disease - ND More",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T00:00:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemc3QkI3dVUwRE51Vnl3Y05BTjY2MEZTTjdGNHlpVnNjSXJ2aFBHMi1iX2VFdHNKeG1uUXdPcnVMbEtDTm15YVBIajFnV1kwaHd1YXRmckZwbUt1UHhVOG1EVWJPSWNCZGZudTFqcWFzdEtJbGI3bGQ0NW5oVlYzaEFMcUo5UXZPdFhacXg1S1FTejZKU2hGR0VJcllObW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ND Mais",
+      "headlineJa": "ブラジル、B型髄膜炎の発生を記録し、この疾患への注意を強化 - ND"
+    },
+    {
+      "articleId": "gnews_02a29bacf5e62808",
+      "headline": "Dengue tipo 3 já responde por 80% dos casos em Pernambuco no início da sazonalidade das arboviroses - JC",
+      "headlineTranslated": "Dengue type 3 already accounts for 80% of cases in Pernambuco at the beginning of the arbovirus seasonality - JC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T23:18:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS3ZxOGpLTGFvZWxBd3k4c09aUmVPenJzZC04UDVybk5YZlgxOWswd21vN09MRWhEWWp6Yl9ESk5FUFo2dVJMdXFQOXREdzJuMGJ3SC1xX0VIYWZaTE1uRHJ1amRBMS1WYmUwSWJZZFN1SG1HTTVTb0VSMGNmMWR0eUt4b1hkNDEwMG1lUEZ1Qy1jYWRnSVppRWhGaXNVcTJaN0dNX2xxeVNLMWYxMHBUcTNEdlFVcnl0VGpmNjllRWhPY0hsSWREX0Vhc3B5cW1UbjB2aXd5dmt5d3U1RFM1R2JaVFg2WEE0UGNnX0pLOS1tNVZ2?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JC",
+      "headlineJa": "アルボウイルスの季節性の初めに、ペルナンブコ州ではデング熱 3 型がすでに症例の 80% を占めていた - JC"
+    },
+    {
+      "articleId": "gnews_ee2ff149b62931c1",
+      "headline": "Ação contra dengue e leptospirose em mercados públicos de João Pessoa começa nesta terça (28) - THMais",
+      "headlineTranslated": "Action against dengue and leptospirosis in public markets in João Pessoa begins this Tuesday (28) - THMais",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2NEX00ybXBZdTc0ZGc5QnpVazREd2ZNV0EwaUE0OUozbE9maXF6b0JXTUQxNTY3MUNzbXR2dWtreVVZMERkdG51eGZaZlZ2ZzRXQWlBdllpNFFsTmNCcE42Qk1rbEVBVk15ZUozek9zTWtIOW0tUjJ3RWN6V3VuS2xWUENuUmFDVVJUQUkzdjk3Rm50cXNzVTRvYnZKd2ptb3Z5dzd0WEp1cWtwelhBUk8xYXVPUmlxYzFDSDNhVEhyX1kzWmt0dS0zLTZ6Ti10ODdXYmc1cXF6WnRjSFNfSDRpUTNoNGJHTkFJZQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Leptospirosis",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "THMais",
+      "headlineJa": "ジョアンペソアの公設市場でデング熱とレプトスピラ症に対する行動が今週火曜日（28日）に始まる - THMais"
+    },
+    {
+      "articleId": "gnews_7966023e731788ac",
+      "headline": "Ministério da Saúde alerta para risco de contaminação por Sarampo durante a Copa do Mundo - Super Rádio Tupi",
+      "headlineTranslated": "Ministry of Health warns of risk of Measles contamination during the World Cup - Super Rádio Tupi",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T21:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa19MejNmSzM4d3FiVFFqcGNGbTZpMWdFbkNKQTlacG5kNFlDbWwyNFBrdVFlMEdzaTNHTDhSSTZDbl94bXItQ2V2QVpLRUctZHEwck1lcmlnUi1FZzg4V29oOTNDcUtsQmViVEZZcUJEQ2UtWXdjbEVpTHpNczFFUEVkTUY2RUJGSVFJRHJPeVlEbGxFLTBuTENZY2RtR0ttbk9ZNW9GZE04STR0N2tYTldHSlpVNHMxWks2eHFR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Super Rádio Tupi",
+      "headlineJa": "保健省、ワールドカップ期間中の麻疹汚染のリスクを警告 - Super Radio Tupi"
+    },
+    {
+      "articleId": "gnews_9c57da4f8192c243",
+      "headline": "Dourados inicia vacinação contra chikungunya em meio a surto - Jornal de Brasília",
+      "headlineTranslated": "Dourados begins vaccination against chikungunya amid outbreak - Jornal de Brasília",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T21:00:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkp4Yy1vS3JkSWFjNncxM0hJWGlNcjBPQm1MejJuOUlOYi1wcmgwS3lPS1RSLTY5Y1NrcHpzWU40d1NTZGtld3lVSHhscTFKdVVGeU53OEotQVktQ2xuMk11VkkyLUxSOXdaQ1pSY05RbjRYeDNfVnl4bEE3UWo5YS1zWlZEcEUxeFlXU1I0aFdVOFgwUWZ4SjF4N3B3YVlBaTdJMVZyakdQLVNQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Distrito Federal"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal de Brasília",
+      "headlineJa": "ドウラドス、大流行中チクングニア熱のワクチン接種を開始 - Jornal de Brasília"
+    },
+    {
+      "articleId": "gnews_3bd385a9e93336b0",
+      "headline": "Pit Bull Mata e Ataca Duas Mulheres em Maceió: Idosa e Outra Vítima Precisam de Atendimento Médico Após Surto do Animal - Repórter Maceió",
+      "headlineTranslated": "Pit Bull Kills and Attacks Two Women in Maceió: Elderly Woman and Another Victim Need Medical Attention After Animal Outbreak - Repórter Maceió",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T19:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUE0wZ0RJNkNJRnBuMXpMcGdncEVCZ25VTHJnN2xYbk1WdVp6WWtlamZFU0dhdmpnamlMYkpxQ3FoTmpnLW5Rc0JYaHhMOVd3YTZzcEkxYk5QMTVKejFvV0s4YlVVWW93Z1NWWk1hOXRxY2NFWFFtUG8zNnYxdlVoLVNtLVRwbHJsbklma3NvNEFOUlJBSmozNlE2WE4zVWR6TF9hcXJlaE5KM01JaHBNQ1JKYjcwQkg1czRRQ29TX2JVTmx2VThmeW1qbFRIYWdNS3JmdUlvY0NjbGJjX0FXNVZINA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Maceió",
+      "headlineJa": "マセイオでピットブルが女性２人を殺害：動物発生後、高齢女性ともう１人の被害者は治療が必要 - マセイオ記者"
+    },
     {
       "articleId": "gnews_0e9d0ee49128fdcd",
       "headline": "Pesquisadora do Recife faz campanha para treinamento em Harvard voltado ao combate da dengue - JC",
@@ -53,26 +174,6 @@
       "headlineJa": "レシフェの研究者、デング熱との闘いを目的としたハーバード大学での研修をキャンペーン中 - JC"
     },
     {
-      "articleId": "gnews_6d5957a25bb8fdc6",
-      "headline": "Vacina é principal proteção antes de viajar para países com surto de sarampo - JORNAL DO VALE",
-      "headlineTranslated": "Vaccination is the main protection before traveling to countries with a measles outbreak - JORNAL DO VALE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T14:33:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekJJMVFrVEVuVGNTdWJ1SlpnYmpVTGlsWDhqVFAwX0w4d0p6MExCcTdYanZCbzR0YWFRZ0cyWGxQdHp1dlVXQm10dk5WdGd0enJEZHM4RUpjYW8xOTVpNWZZd1lrZjdKUEcwRVNKblR2NTdGdjgzaXUtc1N1T2tfN3ptNzVZVTBic1R3OTFmWHFCRnRtckE5dVhBN3d1Qm1RMHpZNg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "JORNAL DO VALE",
-      "headlineJa": "麻疹が流行している国に旅行する前の主な予防策はワクチン接種です - JORNAL DO VALE"
-    },
-    {
       "articleId": "gnews_465394f368ed6a9e",
       "headline": "Pitbull em surto ataca idosa e mulher dentro de casa no bairro da Gruta; animal morreu - TNH1",
       "headlineTranslated": "Pitbull in outbreak attacks elderly woman and woman inside home in Gruta neighborhood; animal died - TNH1",
@@ -93,6 +194,26 @@
       "headlineJa": "集団発生中のピットブルがグルータ地区の家の中で高齢の女性と女性を襲う。動物が死亡 - TNH1"
     },
     {
+      "articleId": "gnews_7da79dbde7761ea5",
+      "headline": "Saúde reforça alerta sobre risco de reintrodução do sarampo no país - Diário da Jaraguá",
+      "headlineTranslated": "Health reinforces warning about the risk of reintroduction of measles in the country - Diário da Jaraguá",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T14:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUVOOGNTNUNaYm9ldTg1cmlfb2lBaGVCbUJiclZpalhZeFlzYTA4eWI5REhQdXdjVEpPZFZUQjNMQzUydGt5SnlMcUxsOThqbFdqWUtaUHlwU1NHSzJqbzlQQlNFdFBzZjBma3pKLVZ6bXNYTHpZUmxWcVpRLVlISlpaX2swX1lSWHRWRzluS21FbTltcHlnX2w3U05uUnRwUmUwNDJPM3dTTXR3cHNCalFRM1FZOVXSAb4BQVVfeXFMUE1BbG9iS0xHdkNKY01aT1A5ZmFEVTloUktUWHVWS3BLdC1xQU9LclYxSnh0aHZ2WTloVDY5RGpfNGNXNUF3d3JraXE2TDVRUExIRDh6Xzh2MGZWRHI3WHVVNVlEUnRWY1VIcFljWlBBRHB3TG1uekppMG9zcmhEQ1U2QV8tUVFWbnkyZnh0SG5HTVBZVmtTQUV6V1NHUGw0WmVYeXhYeTE1VGRqTThOM2tvandVSTJXMEdfNHBZZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Jaraguá",
+      "headlineJa": "保健当局は国内での麻疹再導入の危険性についての警告を強化 - ディアリオ・ダ・ジャラグア"
+    },
+    {
       "articleId": "gnews_d3720cac307c6d30",
       "headline": "Ministério da Saúde recomenda vacinação contra sarampo para viagem à Copa de 2026 - Jornal de Brasília",
       "headlineTranslated": "Ministry of Health recommends measles vaccination for travel to the 2026 World Cup - Jornal de Brasília",
@@ -106,21 +227,21 @@
       ],
       "locations": [],
       "states": [
-        "Distrito Federal",
-        "Pará"
+        "Pará",
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal de Brasília",
       "headlineJa": "保健省、2026年ワールドカップへの旅行に麻疹ワクチン接種を推奨 - ジョルナル・デ・ブラジリア"
     },
     {
-      "articleId": "gnews_979cfbd9383cbd46",
-      "headline": "Jaraguá do Sul alerta sobre risco de reintrodução do sarampo no país - RBN 94,3 FM",
-      "headlineTranslated": "Jaraguá do Sul warns about the risk of measles reintroduction in the country - RBN 94.3 FM",
+      "articleId": "gnews_8ed050a483802043",
+      "headline": "Saúde de Jaraguá do Sul reforça alerta sobre risco de reintrodução do sarampo no país - fm105.com.br",
+      "headlineTranslated": "Health in Jaraguá do Sul reinforces warning about the risk of reintroduction of measles in the country - fm105.com.br",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T13:54:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNkV5YTRCdnRuMXd3cU5uM3hUdEJlSm9hNTBNQUVoVnh3STUtY3VrYmpQWjJfb1ZKaVQxMHU0YWxGdHZ0b05sa0tRcnh2VFAwMlVobGVFbXpLeUgxMndmZGlIcXEtdUZZR3kxRGxrRzlGVjc0UkRabk5iNncxUmdhMFN1bGpXY1N1MjFEcDZXM1YwSmZTUjdUdzQ4ZVdLUQ?oc=5",
+      "publishedTimestamp": "2026-04-27T13:58:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazlFZjdlUFpYZEtjWnQ5OS1iQjZ5TjFodFBIN0VGdE9VbVpuSXhLX3pKdXZ2cmxyZTlaRU5rVExLTXhKdkJRVDF2TjNneEc1RFhXS0tndDJPQmZtd3g4WGZTak5LdGtxNGd2VkZCdm1vQkNCWXdoVWhpQk5aTHpBUHFla3BUQWFzNk55ZXJpRlVrd29vVVNkXy1wRF9FYzNqWWtDM2I2dGc5a0Zq?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -130,8 +251,28 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "RBN 94,3 FM",
-      "headlineJa": "ジャラグア・ド・スル州、国内での麻疹再導入のリスクについて警告 - RBN 94.3 FM"
+      "sourceName": "fm105.com.br",
+      "headlineJa": "ジャラグア・ド・スル州の保健当局、国内での麻疹再導入の危険性についての警告を強化 - fm105.com.br"
+    },
+    {
+      "articleId": "gnews_0ad707ce78d6db3b",
+      "headline": "Vacina é principal proteção antes de viajar para países com surto de sarampo — Ministério da Saúde - www.gov.br",
+      "headlineTranslated": "Vaccination is the main protection before traveling to countries with a measles outbreak — Ministry of Health - www.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-27T13:12:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2dfRW05NE5TekpwdUFmLTJLcEJsMTdxMXo4b0I1eDZmdkNfeFdGQzFBZEhSMXJCUkhRRVItLTRGWTNSeWM5Y3MzUmtSM1d4VEhXQ0pFd2ZiNkZweFdRU0IzVzg3em9qZmJfVUp5bklSbUhGR1FTMS15SWtYT1Z4YnlpYlMwWTZ2Z0h0LTJ2Sk85b05UbGp3dFdMbnFhM2hiMDFvdFJuYmFVWjJldmVxWHpLNUVIOWdFd2dkYW1rZ1EzcWhoME1BYVJNaGptR0YxSGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "www.gov.br",
+      "headlineJa": "麻疹が流行している国に旅行する前の主な予防策はワクチン接種です — 保健省 - www.gov.br"
     },
     {
       "articleId": "gnews_17edf2e9d6612c38",
@@ -244,8 +385,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYmphaVdlRWdER1VOdERNRWNxTEd2YVMxWk1qbWdsUlhjcnhfd2VWa3dpQTQ0R2w1dWJPekE5R1hJdU5IaWZHSFd2bE12OUVJNGVlaG8wVWdsYVlrajRyd3Z5R3BudVlCM3ptanpwZkpqaXI0a0VseFI3T0Etd2hYT2NobFdFVmJMTUhQczV1WlN6MTEyejRiNzFOWEpiSl9Wc2FzaEwzbmlFNUV0T2pfb0tFbU5FTmk1cThmRzdxMmUxSnlZOFBSRXRhUXcwNXI3dlJZVl9GRVUwbUl6?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Leptospirosis"
+        "Leptospirosis",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -330,8 +471,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com",
@@ -376,6 +517,26 @@
       "dataSource": "Google News",
       "sourceName": "Daqui",
       "headlineJa": "麻疹症例の増加によりPAHOは各国にワクチン接種の強化を呼び掛ける - ここから"
+    },
+    {
+      "articleId": "gnews_265b43d47d78ade1",
+      "headline": "Sinop; Adolescente morre após mais de 9 dias internada com suspeita de meningite - JL Notícias",
+      "headlineTranslated": "Sinop; Teenager dies after more than 9 days hospitalized with suspected meningitis - JL Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-26T16:47:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnNOVzk4cndMQ2s3MjAxQmVqNjFHY2ltRmx0MGlIdWc1RFRBSWQ4ci1PM0VYVm9jMjF6V09oRnFyRDljczBsd0RnVncxZXlxVl83TjdZaEJIRVQxYWFXUWdPZHRXeE5oaGpnNElsWXlDU202RjQ4VFVXdHFDQ0ZIQkZUeUhuZFlUQnMzcy1pZFg4azJXbEY0RWxNOTE2Y2I5T0d4MG1nWFJhaDVEQjk3WDNGSl9VMkpX?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JL Notícias",
+      "headlineJa": "シノプ;髄膜炎の疑いで9日間以上入院したティーンエイジャーが死亡 - JL Notícias"
     },
     {
       "articleId": "gnews_f0fcc6136c91c426",
@@ -478,169 +639,6 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "黄熱病と包括的な保護 - CNN ブラジル"
-    },
-    {
-      "articleId": "gnews_f64b018ab9754ad0",
-      "headline": "Febre amarela ou dengue? Saiba como diferenciar os sintomas - SCC10",
-      "headlineTranslated": "Yellow fever or dengue? Learn how to differentiate symptoms - SCC10",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-26T00:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXZxYWFYSW9mellBMXdUZ0ZHZG5KeTBXTTJsM2JYVUZmcXZXYkxuMzM0d3pMNmxFVTdXSFRleXhGdXJ6aU90c21XT0FLeHpub3VaMHJwaEZJLXBETGE2Qk41Znl0RHZmQ1RtMUIyNW1jWFhrSG1BUDRpaFBKS2lsemlveUN6VFNRaFRtY2Jia25sMVJSV3JpTUtLMzM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SCC10",
-      "headlineJa": "黄熱病かデング熱か？症状を区別する方法を学ぶ - SCC10"
-    },
-    {
-      "articleId": "gnews_a259d34270f268a4",
-      "headline": "Dia Mundial de Luta contra a Malária reforça prevenção e avanços no Brasil - Gláucia Lima",
-      "headlineTranslated": "World Day to Fight Malaria reinforces prevention and advances in Brazil - Gláucia Lima",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-26T00:12:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeC1fVFNvQlVzZUIxLWxCeEFIcmUzYkRMQlVuWUJPN2FtcFBneVY5V05LVXNtVGZTcncyQjUwQ1U4djNaNWRObFNNRDVTRGtVcEV2dzF0ZmpsVXF5dG9SMXcyQnV0UWQ3eV9QUzlhWUxobVNWdnhDU3k5Qi1NVmxfMkdSWngzRjB1M0tSejJyWWdiYlc2WGRURWZibEdFeXI4aVpvdzJBV2N0RzE3VlJF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gláucia Lima",
-      "headlineJa": "世界マラリアと闘う日、ブラジルでの予防と前進を強化 - グラウシア・リマ"
-    },
-    {
-      "articleId": "gnews_e91bc370a4caa9e7",
-      "headline": "Febre amarela e dengue: saiba diferenciar sintomas e a importância da vacinação - SBT News",
-      "headlineTranslated": "Yellow fever and dengue: know how to differentiate symptoms and the importance of vaccination - SBT News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T23:40:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0ZRNm94VVdLWFdnejlZWm4yaGxxREpBWjQwQnVYR21FOFhnR1FXaXdjTzJxQ0NHWlRYampzOU42R2t1V1lqWDdVbnZmVUc0TUlyOERFbDAyU0JhQlF5UmhIMlR0MDR6aHZVVkhKelVIVHFDWlNBY0FHVlczWnAzVk1FZGFHMlV4QTBwSkVHd3BLYS1LTVNVeE1mTFd5N19aeHlNWS16Y0tqOU1iVjQ1Z0kwV1dVQUotOUtF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SBT News",
-      "headlineJa": "黄熱病とデング熱：症状の見分け方とワクチン接種の重要性を知る - SBTニュース"
-    },
-    {
-      "articleId": "gnews_d1ea2c083d093394",
-      "headline": "Brasil participa de estudo para 1ª vacina contra sífilis - guiagaysaopaulo.com.br",
-      "headlineTranslated": "Brazil participates in study for 1st syphilis vaccine - guiagaysaopaulo.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T20:54:42+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaE81d1FiQUJScUlra185NkEyVHhBbHZyTUhVbnRDWUFTNklFRm5qT3M4ekJMVDcyakxaVHQxVkVRSURpWmRWZU1XTURuNGxkSFdDUENoVGpWMEdnUk1lLWJFY01taVVaNTZMZnA2VllGRFVsanhQVm93cXBPSWZJa0ZtV0FHbWRMcVNYbm1FTWRsdGM3U1Jfclh6RmhUYndCVGNkN2otdFM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Syphilis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "guiagaysaopaulo.com.br",
-      "headlineJa": "ブラジル、初の梅毒ワクチンの研究に参加 - guiagaysaopaulo.com.br"
-    },
-    {
-      "articleId": "gnews_ce3f90d4000449ed",
-      "headline": "Brasil entra em alerta por risco iminente de novos casos de sarampo após a Copa do Mundo - Click Xaxim",
-      "headlineTranslated": "Brazil goes on alert due to imminent risk of new measles cases after the World Cup - Click Xaxim",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T19:54:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2dQTm1zYXZPOWFwTHFNeExwTXpaUVBCSlQ1RDN6TU1UZWpxOUxfMk1OdTlWN2tBZFZjTDFpamJJOGJWWkozQU5JUS13enlqQ28xXzlZTS1jcXV2TjFRYVNGQzhFLUpFYjVMS2xqLTcxMlFfRldSdGRLQ2d6OXc4emxYTGxMOC1sM1VLYjZPaGg0ckpTOTBZanZKeTVfdHJfQjhaeWg5S0VBTW5feGswOHJJaEI5Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Click Xaxim",
-      "headlineJa": "ブラジル、ワールドカップ後に新たな麻疹症例の差し迫ったリスクのため警戒 - Click Xaxim"
-    },
-    {
-      "articleId": "gnews_17c3cb97e275cd91",
-      "headline": "Alta de casos de sarampo faz Opas convocar países para reforçar vacinação - Tribuna Online",
-      "headlineTranslated": "Increase in measles cases leads PAHO to call on countries to reinforce vaccination - Tribuna Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T19:18:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzVWaWloa2s0ekU2TUd5N0hVYTFFYmZCQ0lVWFRYMGM4NHpuMnFhSTd1YzdlOEtTNE1hN3EyWG5tMy0zTTJWal9POFhQUHZDLUlrM1hmRTRfV1FxQ1k3bXNhMmQ2NndMcW8tdFhLWnFhM291NC1xNE9TaWhSblcwLXpEYW5adWhDZ2pnWHcwbVk0MW8td0RuUGtRa3o5RHV4VjJXYUFSOHViNnVDLUZqbWJTREU0QdIBvgFBVV95cUxOV2FYWWM5RHB5T3I3MTNZLW1lYXE5Z1hVUm8zYUMwd3hScjA1TGZXT1NFdXFHWlZYaFRlU3FxZzQ5RDBjcG8tZ0pITW1fbVJmc0ZiWDlrZTVaNHQ1dUlVM0JvdkU5cTdLaHE4WnRRRk1hYUpXSEp6SGptOXFJbm5JNkl0WXNXQV9jUmt6YlFSM0lwZVhDNllEQ2xPMlQwZTRMRjZJQk9nTXppWWdqRDhBd2tFRjdQc2VJTGM4VjVn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Online",
-      "headlineJa": "麻疹症例の増加を受け、PAHOが各国にワクチン接種の強化を呼び掛ける - Tribuna Online"
-    },
-    {
-      "articleId": "gnews_c7c10df7d0f41b73",
-      "headline": "Organização Pan-Americana da Saúde convoca países para reforçar vacinação contra o sarampo - Bem Paraná",
-      "headlineTranslated": "Pan American Health Organization calls on countries to reinforce measles vaccination - Bem Paraná",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T18:18:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVhjUEVNSDB2RzVybG5CNlZJWS1tWTVDdVNnVFh6bEhBQWc2WkUzRG1GcmExQzNucm44dC1WVnNROG50bXMzSzlfQVNJVENySW5LQzVnY3QyVGhCS1F1TmZZdUJZeTJwNl93VzRfY19HZXoyZUZsbEI1ZXRxa3RERHlyX2cxTG5SQUhvMllPVXRJRXp0Q0NzNHlDelctREFtV0FJNDZYRm5iTDItSWlYR1ctUFNUd2pQa1FMTXBCdWxsYm5NdU45WGZxamJTQ2FX0gHWAUFVX3lxTE5PXzk5UjBGRTk5XzdibV9pQkE0aGZ3anNJWnE5MkJMeUFSaGRZdUxqNUllbEkxUWNoSkROQ3MtVllUSDEwT2ExRWxiWVhFLWRQcHFjcHZVRmRXcmVPekc0T1VZdTcwMVVRbmlYSXJjbVlpajFBcXV6VEpMVlZoa2hBVXdSQnNOUnhzWlJVQUZxeE11b0xVUG1pRkRIOU1uX3NOb3FrYXNiLWYzcXhtOHN1cHM0TXlOYnpMSU1aQXo1VHRCOTZSbzFHZFBhaGkzWVkwMURaWnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bem Paraná",
-      "headlineJa": "汎米保健機関、麻疹ワクチン接種の強化を各国に呼び掛ける - ベム・パラナ"
-    },
-    {
-      "articleId": "gnews_68aaae83ca54279e",
-      "headline": "Alta de casos de sarampo faz Opas convocar países para reforçar vacinação - Folha de S.Paulo",
-      "headlineTranslated": "Increase in measles cases leads PAHO to call on countries to reinforce vaccination - Folha de S.Paulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-25T17:41:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjRkaHgtc1VoWmUtZmIzeWVqcUZ4ODFhQlBxVzNRWGtkUzZtVlNrcXVmeU1QUjRINlUyMWxocTluQjRSZnFRVW43Z1hCSksyaS1YZ1o0Q243TEltVmxjbkhkUkpGRWVyZ1ZDSDBMSWtJUzdxMFRTeGJzTjFrMzVPcGtDbHVZdzZ1emhLTkdzRUluOUdPNzdiUTJGSnRxaTVFLTZfTVZfTXZGYTZ2UFdSUDNMc1UxbGY2LUQ2dUd6Q2hvcU9NdDhfSzdKZVJIcHfSAdQBQVVfeXFMUG1NcFB1SzFsZ2lGSEJLSWM5SUhUNVNySUxzUnRDN0V3TDhad1JuMDhvMFZFNjJRc1NFWmZlNTJpdkFubTBhMWttbHhLYWJld0U1ejhtdjdlSzRQSGdCT0pMdFpvNEJyYy1WM0ZkcUhXdG12R2JsMTdVdjlfWUI5OXdFc3VZenBJTXdHNTAxTDltbUM5VzExckNKU3IzRFVwQ0ZzVHdLTV9XMDJWVXYzaTFFX3FPTHhRQnNfUEY2eHNSdjgzZ0t2T2hjNjl1RDlHRE0zaUM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de S.Paulo",
-      "headlineJa": "麻疹症例の増加を受け、PAHOは各国にワクチン接種の強化を呼び掛ける - Folha de S.Paulo"
     }
   ]
 }
