@@ -1,37 +1,769 @@
 {
-  "generated_at": "2026-04-29T17:48:33.934667+00:00",
+  "generated_at": "2026-04-30T03:35:25.152688+00:00",
   "date_range": {
-    "start": "2026-04-27T17:48:33.934667+00:00",
-    "end": "2026-04-29T17:48:33.934667+00:00"
+    "start": "2026-04-28T03:35:25.152688+00:00",
+    "end": "2026-04-30T03:35:25.152688+00:00"
   },
-  "total_articles": 74,
+  "total_articles": 102,
   "state_summary": {
-    "Pará": 18,
-    "Piauí": 3,
-    "Brasil (estado não identificado)": 37,
-    "Ceará": 3,
-    "Mato Grosso": 1,
-    "São Paulo": 6,
-    "Bahia": 2,
-    "Minas Gerais": 1,
-    "Alagoas": 3,
-    "Pernambuco": 1,
-    "Paraíba": 1,
+    "Brasil (estado não identificado)": 44,
+    "Pará": 34,
+    "Mato Grosso": 3,
+    "Piauí": 6,
+    "Acre": 2,
+    "Mato Grosso do Sul": 2,
+    "Bahia": 4,
     "Distrito Federal": 1,
-    "Mato Grosso do Sul": 1
+    "Alagoas": 2,
+    "Amapá": 1,
+    "Ceará": 4,
+    "São Paulo": 7,
+    "Minas Gerais": 1
   },
   "disease_summary": {
-    "Measles": 42,
-    "Influenza": 11,
-    "Dengue": 9,
-    "Yellow Fever": 4,
-    "Doença infecciosa (não especificada)": 5,
-    "Meningitis": 2,
-    "Avian Influenza": 5,
-    "Leptospirosis": 2,
-    "Chikungunya": 1
+    "Avian Influenza": 6,
+    "Influenza": 13,
+    "Measles": 63,
+    "Meningitis": 3,
+    "Dengue": 14,
+    "Chikungunya": 1,
+    "Zika": 1,
+    "Doença infecciosa (não especificada)": 6,
+    "Leishmaniasis": 1,
+    "Yellow Fever": 5
   },
   "articles": [
+    {
+      "articleId": "gnews_72d055bd9e4c21f7",
+      "headline": "Inteligência artificial identifica genomas da gripe aviária com maior risco de adaptação a mamíferos - O Cafezinho",
+      "headlineTranslated": "Artificial intelligence identifies avian flu genomes with greater risk of adapting to mammals - O Cafezinho",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T02:32:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMU9fVWFEUFlQTV9QM3ZOeW1WUXNtV25IWS1sRzF6RG8zQl9nWVRlWkRUTFg0UTNKVHN1LXlhSHBsM1JTOXotbzZRUTRTTE9ocGFZU1U2aEI5WGYySExGbHpzS3JYaVdtaXJtOWNJVzBYa0FwWXFKdmQzQXpYR1BRQTBpbC1OQTNOZGt6V2t1YndUYUthcDB1Ry1yUlc3QjdKc2d6dzVJdF9aSVFlaVZROXpzeWxnM3RrbndzWFhyb1JSd0Qtd3FDUUxQWXlPNE1Sc0JxM3Zn0gHbAUFVX3lxTE93MmZHRFloRUd5aWRMVnIwaWxoaGNwc3J2VEwxVVZkN003YzUtVENhT3JNOXd1N3dKMjBsbkItQ3gxTGJTMWUtd2plZXY5ci1UdEJnX3RubDdrZHk3RGpsV0xWdkhpbHJMV0FYV25nNENsVjJLNmIzSUR5OE0xU2g4dWhiY2NlWU0xTm5xQ19jMkNRMHN1YWhFRHp0MTltVGc2ZVZMOG9SaXJMMnJZR2VHSnhzdjFYTFRtM2JaMDFjOWExY3d5a0w3UEVFVEFza18yMjd1NTVUMVl5QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Cafezinho",
+      "headlineJa": "人工知能が哺乳類への適応リスクが高い鳥インフルエンザのゲノムを特定 - O Cafezinho"
+    },
+    {
+      "articleId": "gnews_396e94a36374ed59",
+      "headline": "Sarampo: governo lança campanha de vacinação para torcedores que vão à Copa - Metrópoles",
+      "headlineTranslated": "Measles: government launches vaccination campaign for fans going to the World Cup - Metrópoles",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-30T01:59:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmlwYTNrMjlHUzZ6SmJyemJaczVEbzc1MHhUbnZCc21SWEFiRzZua1M0WGdUeU02WUFvUGJURVM5Slo5OUdtLTlXRDhQQUt6cm9IS0dLbkx6NXNqNmxobG9xNklOSkxNY19Kd2RmU0hMd1NCVElXZlk0ZG1lR1UxNjg5aE9helQzbjVxTnMzNE1YRVNJelVGQ2R4V3hXNUlRZkN3aHdWYjJBSzAt?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrópoles",
+      "headlineJa": "麻疹：政府、ワールドカップに行くファン向けにワクチン接種キャンペーンを開始 - メトロポール"
+    },
+    {
+      "articleId": "gnews_60be55ef21c351b9",
+      "headline": "Governo lança campanha de vacinação contra sarampo para torcedores que vão para a Copa do Mundo - SBT News",
+      "headlineTranslated": "Government launches measles vaccination campaign for fans going to the World Cup - SBT News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T23:49:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWtIcENEYk9NWHFxWFFWS2p2Zldsa3RkS2FTa3QtanN1Sm05ZTF4UFlhUHJhOUNFX3dyTHROU3RsS3hwcWl6ZzJ5dUQxTDhhUzhNNU9WM0ZKaDg5NGhPZy1xQ3RYRXJST0RVMkpTdENxQlYzLWVjc2YtbjVUSG92ZmYwd1p3V09WR3dLbW1yZ1IwLTBVWDloLWJjMGxCdzhtVS1NWHU1eEs0ZVFJOUpWY0lfOXZJMmQ0eUtfZE9YT1dUbEd0UVlxcWRDV3BjMFdfTlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SBT News",
+      "headlineJa": "政府、ワールドカップに行くファン向けに麻疹ワクチン接種キャンペーンを開始 - SBTニュース"
+    },
+    {
+      "articleId": "gnews_c9c7e88d8846cf38",
+      "headline": "Mato Grosso registra 8 mortes por meningite e o maior número de casos dos últimos dois anos - G1",
+      "headlineTranslated": "Mato Grosso records 8 deaths from meningitis and the highest number of cases in the last two years - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T23:32:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRlpfVURzMU1lY0ZFamZQd1cxX09LTEtkTWZNdjNabV9uYWZ4U2hiWHRTQVNvbE1nX2t6cXJPS0NPeDUzdEFBbEpxSTJtMk44Y01YLWppSFl4dzRValJqeXhZeWR6NUdabmVXRzI1TXNqUTQxdlcyUkp2U2tJQzZ5QXJHeDN3NVBFQTA4MjJ3U0Z1WnVKdjlub2RtMEluWVF4VHl3MjdIWC1kVG5RZ1A4M01aa0JZZXBKd1lDeEl1ZmZIdjA3MDBsV2c0ZEVoRGZaR1lLTUJmTEFqMUt3SkcwV1VPVkNKbm_SAfYBQVVfeXFMT0RpOFNZZlRZRkM5a3pSWkFVYnlzSm9GVkFfeUFTNS0zalptczFERFg3QmtNMFd2Zk5UNldnUG5IUDBWU0RzOVlCMGVxWmtMUjQ0WkdiWWpkX2k4dm1HaURCV1M4cFRXRUVZMm4zcmpaNlBkZTN4WEVpTUtOTlYtY1FqOUtHdFRJVUc4REdORkVGeDRRZlRpVGZQOEdINmlkdVQtdHdCY0o0emEtU3JXTXllc3NJMm45SXc4dXVGVExKbTZXWEFBNjhNUUFZWU9BM2NLc0lUVXVOUlpFczFycklLaWFXd3ZYenhQYXdyTW5IY3o0SXNR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "マトグロッソは髄膜炎による死者8名と過去2年間で最多の症例数を記録 - G1"
+    },
+    {
+      "articleId": "gnews_d55752673d442c9b",
+      "headline": "Campanha contra o sarampo busca evitar casos importados durante a Copa - Francês News",
+      "headlineTranslated": "Campaign against measles seeks to prevent imported cases during the World Cup - Francês News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T22:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUZQY01XaWJjbllxUXJSTWdZMUtpLTBPd1VCS1NQUzZIRDdfZ1VJNVoycjZESmZCaVpkUEdHNHlXbTFMWjZlRFZRTHE4MkFyNDl1UVFhUmJ2V1RWUzM2aDh5QkdQaVlHTmhCWmhlTXJpcEpnMlpkc3A0NXQ0VTBPWm9tanV6c09YaGdkZE93TE5McVRTaHpBR28zeC1RS0Z4TGtuYWdXUU1mQmtMWVF0Uzd0WVJ1NmZFc1R3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News",
+      "headlineJa": "麻疹撲滅キャンペーンはワールドカップ期間中の輸入症例の防止を目指す - フランシス・ニュース"
+    },
+    {
+      "articleId": "gnews_8fbb182a539634dd",
+      "headline": "Clube do Piauí tem partida pela Copa do Brasil adiada após surto de Influenza A - Portal O Dia",
+      "headlineTranslated": "Clube do Piauí has ​​match for the Copa do Brasil postponed after outbreak of Influenza A - Portal O Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T22:43:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckk0amxyOTBUTXR4LWRxLV9qNkM5eXFxdWdDVFBzcWVVOEtEQ3hldjU0US1PT3FlU3g3aXFtRVRBbjR6azQ3OWExSUZhT0luZkp1eHFtN28ya2JtRnBkaWJxZk5CN3dna0pnWmkwd1NJMFd1RVNkUUZqZkpWVlkwQk1lWlpDRjB2STFvLUhEV3RxT0tSTFBjbUVqYlFtamtSczF6RTU3Z3BwdGpzOUJxelZuZm01Zk1SVTFxUjZVMlZTNTR6?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal O Dia",
+      "headlineJa": "クルベ・ド・ピアウイ、インフルエンザA流行を受けコパ・ド・ブラジルの試合を延期 - Portal O Dia"
+    },
+    {
+      "articleId": "gnews_bedc0b5e5ddc0074",
+      "headline": "Ministério da Saúde lança campanha contra sarampo para proteger brasileiros durante a Copa do Mundo de 2026 - Repórter Beto Ribeiro",
+      "headlineTranslated": "Ministry of Health launches campaign against measles to protect Brazilians during the 2026 World Cup - Repórter Beto Ribeiro",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T22:31:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0l6WXRKRWExcmFfbnozTTBfUmg0RTdkcm44TnhYb01zUmdaWnp0TzB6eFRObGlkSUE3YWs3YTZ3X29YNnk0Q3A3UDNoU2pWNU04bURMcVRxdnZ2RDRKeTlrT1l0a19qY3JTT2ZvTXlyakFUZ0RZOHhCU3ZTbFFJQnFTSzlvQ0dCTUNaMHRJUHF5T25JbklYYmRCR2xBcVVaLTlrSTFRREUyUkFJSjhRcllYVnNGeXZwVlRnZHYwYTBWNjBqSVAzem14SzJDQlFIY1hJaTd6M2JpRjg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Beto Ribeiro",
+      "headlineJa": "保健省、2026年ワールドカップ期間中にブラジル人を守るために麻疹対策キャンペーンを開始 - ベト・リベイロ記者"
+    },
+    {
+      "articleId": "gnews_d2020e693f4e07bc",
+      "headline": "Surto de dengue no Sul do Piauí: Simplício Mendes ultrapassa 400 casos notificados - G1",
+      "headlineTranslated": "Dengue outbreak in the south of Piauí: Simplício Mendes exceeds 400 reported cases - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T22:25:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejhROWFjZHFOWlNEOTV6SVMySEk1UUVIWGRwSWxITDV3S29fNkV2M21uWUg0U1VhLUFTcjBsMk9OYlBHSlliM0V5akJocXYyOGFtdVN6Wl94M1ZRNlVCbTZuemNoZEdSd1JwVHFUNDU5MlBzcmdrUnhvRUpaLVpQdDFPZEl2eFBzUEljdlBGZWlGS2M3TkJVdC1kcnF3RnNFSUg2Zmd4TVhyMUNyVUpPenhDVTdmSmJab3JzZnJSZlFMcTRjNGVYeXJaY3NKT3pVWmFXTlhWS2Y1Ulo2OU1ITU96bElpVmJmOFVNeDhTYTFUUFlrbVFF0gH3AUFVX3lxTE16OFE5YWNkcU5aU0Q5NXpJUzJISTVRRUhYZHBJbEhMNXdLb182RXYzbW5ZSDRTVWEtQVNyMGwyT05iUEdKWWIzRXlqQmhxdjI4YW11U3paX3gzVlE2VUJtNm56Y2hkR1J3UnBUcVQ0NTkyUHNyZ2tSeG9FSlotWlB0MU9kSXZ4UHNQSWN2UEZlaUZLYzdOQlV0LWRycXdGc0VJSDZmZ3hNWHIxQ3JVSk96eENVN2ZKYlpvcnNmclJmUUxxNGM0ZVh5clpjc0pPelVaYVdOWFZLZjVSWjY5TUhNT3psSWlWYmY4VU14OFNhMVRQWWttUUU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ピアウイ南部でデング熱発生：シンプリシオ・メンデスの報告症例が400人を超える - G1"
+    },
+    {
+      "articleId": "gnews_138d83f8ec60279f",
+      "headline": "Campanha visa prevenir casos importados de sarampo durante a Copa do Mundo - Notícia Toda Hora",
+      "headlineTranslated": "Campaign aims to prevent imported cases of measles during the World Cup - Notícia Toda Hora",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T21:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2UxeklGSnN2REZ4dnJYTkROc1l4Rzg2aHVhMlRXV1RFUU02aENBMXlhR3JDUjdNQ29MVFY0NVlXWG5FVE11X0p3X0U2LUZTZXJRNVlUcW11Qzkwa0hMWTJLVFVWbE1JU1hRMEhEczdkT0JTSU4xd19tMzF3QVBpTzF1aV9ydUVYNHlqdEwwZXhLMlhsTGJIZ09aV0ZmUTB4OEN3OXNVS2hYdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícia Toda Hora",
+      "headlineJa": "キャンペーンはワールドカップ期間中の麻疹の輸入症例を防ぐことを目的としています - Notícia Toda Hora"
+    },
+    {
+      "articleId": "gnews_16e1d9e61577b724",
+      "headline": "Países-sede da Copa concentram 70% dos casos de sarampo e alerta mobiliza vacinação - ND Mais",
+      "headlineTranslated": "World Cup host countries account for 70% of measles cases and alert mobilizes vaccination - ND More",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T21:29:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGk5Vk1fYjFMYU5jelJDMWJ6MjNqTWlkSDg2M0k1bzAyNmR4akdDU2N3c0F2UVZ4aklfTzlURlZQMDIwRU1pSzgzN0VsUTRDS1R0elUxbFZVQmNtck9kdXV6bnU3MENOc3BqUVFfdHdZMTViYW1OeGhxcERVOTJucl93eWtXXy1UQkRWdncxYXFCNWR2cGR0MjUtX0lRd29ycjB2RU5kM0xKY3RLc3lVUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ND Mais",
+      "headlineJa": "ワールドカップ開催国は麻疹症例の70％を占め、警戒によりワクチン接種が促進される - ND 詳細"
+    },
+    {
+      "articleId": "gnews_2aaef2f76faaa912",
+      "headline": "Surto de dengue: criança de 5 anos e dois adultos são internados em estado grave em Teresina - Portal Clube News",
+      "headlineTranslated": "Dengue outbreak: 5-year-old child and two adults are hospitalized in serious condition in Teresina - Portal Clube News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T20:56:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVlMNVcyQ2ZVWjBnTTlnRVFsMm1rclM0NEIxSkhUak5JWlNvVjhSTkNvUTg0allvVXVlM3VqSzEwdk4yVDcxUUNzV0Q3SDJuYnJheE0wbWo5QS1mTkNQTU4tTFhWd2dqOTMxdE9tWGhZNm9yNVNRRUFsQXBaYjhDV2VMRUM4OGR1akh4emlaRElYMzVRbUxwTWlwQnIwZWpOYjlsMThNbW9jX2lTb0FLTnV4dnJXRXFIRXFHZDMzUk01MUIyNzVMUmJCcw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Clube News",
+      "headlineJa": "デング熱流行：テレシナで5歳児と大人2人が重篤な状態で入院 - Portal Clube News"
+    },
+    {
+      "articleId": "gnews_211b7f37eb513193",
+      "headline": "Campanha Vacinar é muito Brasil visa proteger brasileiros do sarampo durante a Copa do Mundo - Grupo Chiru",
+      "headlineTranslated": "Vaccinate is a lot Brazil campaign aims to protect Brazilians from measles during the World Cup - Grupo Chiru",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T20:53:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmJsQlo0VkdqLUhnY1hoWFl3bXdzeW9iNURfakZDU2JOV0hWX1FMZ1JrOEZjNTZzbl9mQVZaLW9SNm03dl9ycUVRQ016SThPX3diR2MyZ0pSeU5kZ1NHNnk1VTl6UTEtcE1BX3I3Rm44S0Z1Qmd3U2VKV0cybElVckpaUmRvSDlOMUpmSzA5WTVLaGVkYnNXYVdnUFZxS0MzMzI2cVE1eE1XXzBjaEEzWDA2T3BrREZIRk5kT1Fsem5aR1FqTG1wUg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Grupo Chiru",
+      "headlineJa": "ワクチン接種は大いに必要 ブラジルのキャンペーンはワールドカップ期間中に麻疹からブラジル人を守ることを目的としている - Grupo Chiru"
+    },
+    {
+      "articleId": "gnews_7e5b7da31629fae1",
+      "headline": "Campanha de vacinação contra o sarampo foca em quem vai para a Copa - Blog do Banana",
+      "headlineTranslated": "Measles vaccination campaign focuses on those going to the World Cup - Blog do Banana",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T20:31:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVl0eTRIdnVjckNqdEM4Q2VJMFZYdlVWWEc1dGV1N0FqUDVOTFZZaUtsdnk2VElhcXFlVW15QlFtV0RZRXRoZ2kwbFFXQUphUjRadmFLcE1iZzhJekQ0bFgwNl9yWXlQb2tWLVBSTnVHRy16TllwVFlUQ0JpdmpIbkVwZmQ0UWh1WHJGaHZlRXgxY21PTDhMVlBPeXpVZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Blog do Banana",
+      "headlineJa": "麻疹ワクチン接種キャンペーンはワールドカップに参加する人々に焦点を当てる - Blog do Banana"
+    },
+    {
+      "articleId": "gnews_63b3889f9c7b9b48",
+      "headline": "Acre tem 1.333 casos de dengue, 39 de chikungunya e 16 de zika em 2026 - ac24horas",
+      "headlineTranslated": "Acre has 1,333 cases of dengue, 39 of chikungunya and 16 of zika in 2026 - ac24horas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T20:17:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnJuczNxR3UwcmZad2dJMF9SVDEtWHZNcmNOYmpwNkREX3FmbDVOQTEyaG81Rm1yN1c3TzI3X3hTRTBVbFRHUFFqTHEyMmpCMWYzbnM1N2thSzQ0Y2txaHlmdVQxSDJTTVh0WG1xc05JN2xPZ3lmODdUZjZfWnNIZTFsQ3dkdjFEcWJTQlZBUjRtS21ZejdmWF9sY0JRR3Z5VmR4b0JR0gGrAUFVX3lxTE9qdE51VmhOczU1WmE5ZUxrWWJ2NnlUVzF1RTVlcmJuYzIyMGV1OG9aWW5tRGNVZVdsdjRTVEw0Q0hHYnlRM1d5b3dyZXFXdkJNTG5POXdIaGJDMVQyTjduYW1ESnM0clBtZWlnMml5ZjIyUllwblRabVIyN0dfLU1HX29UOVRrNXFIU1dlUVFpTFJxWGNOMVVxSEFtQ1drTnhpWU9uOHExRFRBQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya",
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ac24horas",
+      "headlineJa": "エーカーでは2026年にデング熱が1,333人、チクングニア熱が39人、ジカ熱が16人発生 - ac24horas"
+    },
+    {
+      "articleId": "gnews_41411c37e0f72770",
+      "headline": "Campanha contra o sarampo visa evitar casos importados durante a Copa - Melhor Notícia",
+      "headlineTranslated": "Campaign against measles aims to prevent imported cases during the World Cup - Melhor Notícia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T20:15:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeGdWYXBmUjZlQU5MZWVLZzRxMlNYblAtN3NGOXFTMlhvZnhKazRWTVQ5OVFEb3J0ZFV3aklPSzViWFBEVU5xMFFZWFZJNG5hTzBMRHhFbi11bDJEX3VMZXRsSDJZRmxPRXNWMDZOZ1B0MUpGYi1OQl9fbElqNEgzOVVMV1NhMTZkZWlFODJvQ0JLWVNvZUhNOGotTWVaNWNQc2lkMjA3RjFnVnRPdlAwclRXa3RaUGpfNFlaczNudXZob2M?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Melhor Notícia",
+      "headlineJa": "麻疹撲滅キャンペーンはワールドカップ期間中の輸入症例を防ぐことを目的としている - Melhor Notícia"
+    },
+    {
+      "articleId": "gnews_1d3d3385ff514ef0",
+      "headline": "Vacinação contra sarampo para viajantes na Copa - noticiasdoplanalto.com.br",
+      "headlineTranslated": "Measles vaccination for World Cup travelers - noticiasdoplanalto.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:59:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQci04LWc4eVg2cXQ2QTFKTHpLalJISTZhRERDV0dUcU1LU1RsYUVuMlZZRnQ3Wi0xd3lGbnZVMEZydmNKMktLZnUwdGhMNVJfQ2FMVzc5X1d1emZCVjNDTXJqdTJfcjZyN0JIclFOU3MxWEpBSHU2bnhKQm5qUnJLWW9XdGVvWVY4LVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "noticiasdoplanalto.com.br",
+      "headlineJa": "ワールドカップ旅行者に対する麻疹ワクチン接種 - noticiasdoplanalto.com.br"
+    },
+    {
+      "articleId": "gnews_73b5d84cb6f98420",
+      "headline": "Ministério da Saúde reforça vacinação contra o sarampo com foco na Copa do Mundo - Diário da Guanabara",
+      "headlineTranslated": "Ministry of Health reinforces vaccination against measles with a focus on the World Cup - Diário da Guanabara",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:55:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSU9fdkFEd0F0THVvNVdKa3hFcGNHUThiLXgxdjk5Y0FSaS1mc3pOVzNLcmZ1WGtUSlpIcWJvVUNQOWlITU13Uk9TZkR4dDN1NFYtUUpCcXMwSHA4NmhEeXJrZUpmMGJLYk1MMFJvNXRmV2lSalcwYjJTbEd2RVp2TVJfY2lLNV9sU3ZQSkRla0RSRmhTSTYzemNXWm9fa1hnbDJHQTlKMUYwTkl3MmJjc0dwYw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "保健省、ワールドカップに焦点を当てて麻疹ワクチン接種を強化 - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_4424bfdd88fbcdda",
+      "headline": "Governo lança campanha e pede que viajantes se vacinem contra o sarampo - Folha MS",
+      "headlineTranslated": "Government launches campaign and asks travelers to get vaccinated against measles - Folha MS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:46:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFFqYUVuTWxmNC02OXN5cGZlaVFiRmxKWHRFcks2dEx3cFNvY0pldEpydWNUZUo3VTU0bDhGVGwxS0tNNy1HbzdUNGNEeHN6RkJoc2l2b3I2R1BCNDZjdFdsTDlYTXpaXzd1c0VXMUlKOEhkNVRNR3Y4MHo1TUFhcjhaN0MwQ1VValJ4ZmhuOUZUbV9ZWW82ZUU4U1RIOWhDZXowcERGcFhZUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha MS",
+      "headlineJa": "政府がキャンペーンを開始、旅行者に麻疹ワクチン接種を要請 - Folha MS"
+    },
+    {
+      "articleId": "gnews_76b593920f38bbe8",
+      "headline": "Criança de 5 anos e outros dois pacientes estão em estado grave com suspeita de dengue em cidade com apenas 13 mil habitantes no PI - G1",
+      "headlineTranslated": "A 5-year-old child and two other patients are in serious condition with suspected dengue fever in a city with just 13 thousand inhabitants in PI - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:25:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0p3WnVrRVoxSUljR1YtUGhTbVBlXzc5Tl9keDVDTXlKVi13WWlqQ09kTGQ1Q2tyNmNkWThpb0dnWUZJWFpJZXFid1cxc0FsSy1CVTBIRHZKWWlHbXFGSkRzTjdrd1YyN1Q1dFVmWGk5RlRzTTVvcC1TOVZTVm9Ma1hxMNIBkgFBVV95cUxOaUtjRHM1aVEzbVBGbmQ5LTlaQnpsVHlraGcxd3d6bU5za2dZODF2UzIya1pIdEFYS25QYW5OcnF4b3FjZW9zRXRRSUo5WlJfOGVFU3pzYzQtSGt5MlJod0hDZUg3TDZpTHFEQXM2RU1FcFJyZnQzb2xhbjluZ2ZySGRFT0drOGJpa0tyTGJCZGhzQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "PI-G1の人口わずか1万3千人の都市で、5歳児と他の2人の患者がデング熱の疑いで重篤な状態にある"
+    },
+    {
+      "articleId": "gnews_a1e50caa0bd89b4d",
+      "headline": "Campanha contra o sarampo mira torcedores da Copa para evitar casos importados no Brasil - A Crítica de Campo Grande",
+      "headlineTranslated": "Campaign against measles targets World Cup fans to avoid imported cases in Brazil - A Crítica de Campo Grande",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:25:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmFDWklScjFZdXlscFNTT0lXZmJrMnVzaDF3U2p4aHlQVjVKa1laZTI3MW9ZM09Way0ySDJsQnBnaUExODFQRXZLcjZkRmpsTG1yX183Y2ZyQ3NFeE9iakZMVGF5YXdKNXZIYktRQmZtUGdwb1lWUkJpX3Q5MkMzOUpWYksxazUyNW94NG5WUWF0NzVzOEs1MlNwVHA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande",
+      "headlineJa": "ブラジルでの輸入症例を避けるため、麻疹撲滅キャンペーンはワールドカップファンをターゲットに - A Critica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_8531b723434cdac6",
+      "headline": "Campanha Vacinar é muito Brasil foca em viajantes para Copa - Folha do Estado da Bahia",
+      "headlineTranslated": "Vaccination is a lot Brazil campaign focuses on travelers to the World Cup - Folha do Estado da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:23:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUxNZHBVeXNTS3ZMZnhHTnJnRXpVQnRVenEwdXhjTnB3VEpmREVmUGZrcHlDOUN4RVluWW1nY0R6bkN1THhQUDRvTmJENy14LXlOQ2NBbDJKUGdWZ2dtQUJBNFp2MTBMLUVwT3ZTXzJRQjFGZjdUb2tDSmJ2ajJfQ3BhYkRZOWlPdkxkS21hQkVwLXhoNm5nZ0wwZVpnQ29GUWNldA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha do Estado da Bahia",
+      "headlineJa": "ワクチン接種は大いに必要 ブラジルのキャンペーンはワールドカップへの旅行者に焦点を当てている - Folha do Estado da Bahia"
+    },
+    {
+      "articleId": "gnews_941bfa32fd0e2004",
+      "headline": "Governo reforça vacina contra sarampo antes da Copa do Mundo de 2026 - A Crítica de Campo Grande",
+      "headlineTranslated": "Government reinforces measles vaccine before the 2026 World Cup - A Crítica de Campo Grande",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40X3h0YnV6cHdCTzM0Q044NXQwMGRHV0t4MWg2LThZR1VhRWNDZUJNRmZYeDV1RkU4T18xc0lVWWVWUDc4QzdGLW9oeFdfdmZyX2U0dEZjenFvTDV1YnpFVk10aGc5dzZreUdiQTN4QWE4Q1VNOUFnMWNIZkpwMlk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande",
+      "headlineJa": "政府、2026年ワールドカップ前に麻疹ワクチンを強化 - A Critica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_934163e9d449a49a",
+      "headline": "Campanha contra o sarampo visa evitar casos importados durante a Copa - O Dia",
+      "headlineTranslated": "Campaign against measles aims to prevent imported cases during the World Cup - O Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:14:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1NUd2F0UG9vMXZ3UG5Wc3dHTk5aZ09oYWhYOGkxbTBReXdab0NjLTRrci1XelRzQXdndXAtLTlYYnlEeFhKOExxN2d1MEx6Y2F0bDc3MmFva2tPNHpkM1Nlc0UySDFKMnR5dUx1OV9aY0ZKZlh2cC11aV85QUY1RUJwSlgxLXdyUGgydE5DTUxQUEdjWXpCZGtIei04Z2huVEFjbnJQWUxiVDE1OU94dFF6ZUFVcXNrY1l0edIBwgFBVV95cUxQdFJBVU5IVEM3YllBXzdjWnBCbEFSbGJZTzlheTZhbkdGTjg3c09hbTNuWVhfOXZsVUZ2ZFBuUGROdUR5T0FTeW1nSEtIRlFKOExHYXhrTzZlTnA2bWYzc3ljc2YxcWdIWUM0dUc4X1pscFdqTVAyWFRqck1WLWVZZ1pReDZTWGR3NE9mRjJKd3gtc0dJVjZ6b3lqTUdQVE12NUpGeUwxUWg5MmNfX2hzdUNJMWotbFExTTB2VnhzZmRtZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Dia",
+      "headlineJa": "麻疹撲滅キャンペーンはワールドカップ期間中の輸入症例を防ぐことを目的としている - O Dia"
+    },
+    {
+      "articleId": "gnews_a71e9569cf611e45",
+      "headline": "Brasil intensifica vacinação contra sarampo para viajantes da Copa do Mundo - Relata Bahia",
+      "headlineTranslated": "Brazil intensifies measles vaccination for World Cup travelers - Relata Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:12:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUw1NTg4TGVac0o2bWZuck5uODZxempFQWY3ajFEUC1VaXlVZ08tcXEzM3d1NDE3MjJXbWN1VUVTYUlxZ2lHak1kYUFkdjIzN05kLWxjV2pRRlM0eDlUZHQ0QnY4ZG9xaEU0OF9NWElmdWJOLXNFQ0ZRc0JZVEtrZFNlRXhkZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Relata Bahia",
+      "headlineJa": "ブラジル、ワールドカップ旅行者への麻疹ワクチン接種を強化 - Relata Bahia"
+    },
+    {
+      "articleId": "gnews_fb6b241efcd7c68b",
+      "headline": "Ministério da Saúde lança campanha de vacinação contra sarampo para Copa 2026 - Jornal de Brasília",
+      "headlineTranslated": "Ministry of Health launches measles vaccination campaign for World Cup 2026 - Jornal de Brasília",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:11:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGtyNU1ScHZLenNROEZwMjVZckdnRE9WRUNvSnl2X2lycTRqWHYtSkYxaWZwOVpxcEt3VjF2eTRPd0NJV2JwTGppNnlqZ25NTEhmeVdkeWQxV1JzaHI1ZS1fOUw0WGRNRmloaFBVVmdEeWJOTjgwOG42clVRUWVWUlFpcWl4ZWgzUkh2UmRHUkQ3dF9sVEZaWllyMlNiY0tZMVRuZlVJNUh3SWNHc2lVemhMUXlQcVp6b2l1bFpRNG95NUk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal de Brasília",
+      "headlineJa": "保健省、2026年ワールドカップに向けて麻疹ワクチン接種キャンペーンを開始 - ジョルナル・デ・ブラジリア"
+    },
+    {
+      "articleId": "gnews_2cb4b4e5b7a2d52c",
+      "headline": "SAÚDE - Ministério da Saúde Lança Campanha de Vacinação para Brasileiros que Viajam à Copa em Meio a Surtos de Sarampo nas Américas - Repórter Maceió",
+      "headlineTranslated": "HEALTH - Ministry of Health Launches Vaccination Campaign for Brazilians Traveling to the World Cup Amid Measles Outbreaks in the Americas - Repórter Maceió",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY3FZSTVodWwwcWhicDZ2a2dLU18wUk5tYWt4WWkzblJKSlJfSW1zQ1hWVWNUOXQxZnVlR29DY2FleVpiOE94cUNaX01SUER1YUZGTVlSNmJQZ1AwR25EWTJDX0tVSWFlUU83Nmx5ekNjekF4MFduclY2WHRBY3FwSktOdnZkUTFtVVV5XzVwTEZHWDlUc1JqazlCbEFLYy1HTjJ4enVQTy1vWGVpTUZqOTZyTkVQX0Y2amE3SDIxTFJ3ODd4Um56UjBqTXpnVXRVSUtaOFVvTWFjVkcwU2VJNE0zVkZTVmk1TC1KOHF0bzFPZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Maceió",
+      "headlineJa": "保健 - アメリカ大陸で麻疹が流行する中、保健省がワールドカップに旅行するブラジル人へのワクチン接種キャンペーンを開始 - マセイオ記者"
+    },
+    {
+      "articleId": "gnews_10f25bfed074e48f",
+      "headline": "Dengue no Amapá: área na zona sul foi classificada como de alto risco para infestação - G1",
+      "headlineTranslated": "Dengue in Amapá: area in the south zone was classified as high risk for infestation - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:10:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbDJqM0xwc0xidko3RkEwQ0hzQ2RxU3psdUxTdDlDWkREMkhBczNJRFNpeGM3MU5wNVUyUkNyZXhMZ3pBVHc3c05GUEhuT0JaejJ0di0yM01RUEExWDJEeC1CQzBrWWI4QWp0MlJmZEowSnRza3FLVFV1NldDckplU1hxQjhHcHltdnRNbVc4QkplU0k5SmlnMjBUWjFLWk9Cby1QU1M1a281QlRUVXptSXhESm5QWDZsbU4yM1FsS0MzeVlJSy1HQ05SMDhmZVJVc25CTzZjQzFXaHdQaEo2bW13cDdsb1RzVENTMkZWTWtMYkQ4U0dfVE9KVdIBigJBVV95cUxPRHdYRlFzNU5leGsxSkUyNXhuUDFGeS1sUXZkRDNMalpFVWpyWS05bjEyVXBlUGRWemdLcENsTEdVVkZDaXc4dVQxYmwtS01QZ3JyWGFvS1kzVTlvNENkbGMtU2ZUR1dRa1lkQ1pPcXRQZ1l1RTBmSDVnaTdsQW5pcGhaQ0JTNTZQVUNWN1ZHalVlM25KdGV2MDBMNkNGQjdYUzNZY29lRUtxb0FCeGpzeEoxdmhhQkJfd1NCcmNtYldBRUZObWhsMXV1c2FXWXU4ak9DV0hPTGQ3dkZIcnc0Z05hRzlsbVFiUlJBN21KczhLOWVGeTJwcTZWbm1UZWNuQWJrMFM0VjMtdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Amapá",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "アマパのデング熱：南部ゾーンの地域は蔓延の危険性が高いと分類されました - G1"
+    },
+    {
+      "articleId": "gnews_c73064b1515aa50f",
+      "headline": "Campanha contra sarampo busca evitar casos importados na Copa do Mundo - CenárioMT",
+      "headlineTranslated": "Campaign against measles seeks to avoid imported cases at the World Cup - CenárioMT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:08:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzdmb3JPS2JPZzJsN2JFQko0MmdQNFRJbWE2cjc5bEZ3MV9tenJFQ2NSR21sUkVaZkVPWEZsT180Mktsc185cGZVejFPd2dXUWVKdUQ0aDRlVDRJN2c3Y2lXV29JUklDUGYyRlBWbTlhY3haaHVwUzhVU1UwNVRQb1FPM2NodDNyRTZnWi1ZSzc5UjBUczd2VzdKbmpQMHo0ck9RaA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CenárioMT",
+      "headlineJa": "麻疹撲滅キャンペーンはワールドカップでの輸入症例回避を目指す - CenárioMT"
+    },
+    {
+      "articleId": "gnews_d8b222e532e23de2",
+      "headline": "Governo federal inicia campanha de vacinação contra sarampo voltada para torcedores da Copa de 2026 - Impactto News",
+      "headlineTranslated": "Federal government begins measles vaccination campaign aimed at fans of the 2026 World Cup - Impactto News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:04:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVN0Rk5UVXVaalU2dVRvQi1mV2ljUGtEcmIwUUZKYnh4VkQ3d2NES2pTUFdobEVJOUsxX2NUV0JLVzdZVXZ4aFhmZ3RtYUo5NVBuYUxBc1FrVXdPV0xQNUJ1R3hOeERXb2dmd0ZHM0JmTWJ5M0lpa2lBbUNSN1VvVFVSaXY2eE1rUHlfc0JoNVNhQkZxelZhM0taUkxnNEJRODJoMUwtWWZUWWlrQnJ5SWJ1X1hVbmhxTzlURGVMd2R5cF9ZcVoycUZ0UHo2MHNUdFZhQ1NmME1XNHM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Impactto News",
+      "headlineJa": "連邦政府、2026年ワールドカップのファンを対象とした麻疹ワクチン接種キャンペーンを開始 - Impactto News"
+    },
+    {
+      "articleId": "gnews_2c1ffd580ea3ba4f",
+      "headline": "Campanha de Vacinação Contra Sarampo Lançada para Viajantes da Copa do Mundo - Metrô News Jornal",
+      "headlineTranslated": "Measles Vaccination Campaign Launched for World Cup Travelers - Metrô News Jornal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T19:04:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWhGYzVMU1cxbk42MmRYRTRUbzJfc2VOYXlxY0JaYkw1b2JBN1EzR3V4aFh3UzQ4dVFDdEVKYVFvLWlpa2hWRFhncXMzMTV5YldWX2V1c3JfbHVPdEQ4eHVqdGhYd2tJUXZlRXl1RkQ4YnJhdkFOM3Uxb05OX296NVNjWE9vdUF6bkJnX1lWRm5McWRpOVJvMU1HSm1MR1BpUlJhWA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrô News Jornal",
+      "headlineJa": "ワールドカップ旅行者向けに麻疹ワクチン接種キャンペーンを開始 - Metro News Jornal"
+    },
+    {
+      "articleId": "gnews_2dca01bf47a68fa4",
+      "headline": "BOLETIM DENGUE E LEISHMANIOSE – 29 de abril de 2026 - ArapuaNews",
+      "headlineTranslated": "DENGUE AND LEISHMANIOSIS BULLETIN – April 29, 2026 - ArapuaNews",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T18:59:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGdtZFZKX2VfQWN2QkE3YmNhMHllaGVfZ09XSnl2VnJMb0ozb05kcGx4d00wdi1McU1YaVBnTFlDRWc2MXQtcUJwZjFqZEMyX0FkYXhOVEFWeTd4cGQtakE0MDhNVGxsZ2QxaTc5anlEd21aYU9zXzE4cVhrUWxqaHZR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Leishmaniasis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ArapuaNews",
+      "headlineJa": "デング熱とリーシュマニア症の速報 - 2026 年 4 月 29 日 - ArapuaNews"
+    },
+    {
+      "articleId": "gnews_b77fd65c8dd711af",
+      "headline": "Lançada campanha de vacinação contra sarampo para proteger quem vai à Copa do Mundo - Agora MT",
+      "headlineTranslated": "Measles vaccination campaign launched to protect those going to the World Cup - Agora MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T18:47:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDcyNHhCS1RCNVhfRXpqSjgyd0F6ZUl5RjlDZ1ZyR1ZvR0VwNk5vX2xBZ2FTU25uNXM5UHItOFJyTGktRDdlSUJsSEFTUlZMX21HeUZMYnhzdkNaVXQxN1JkLXdVZ3dzRmVWcFEycFROSm94VnVWdzZGdmludU1COE4tX1dENTRGTU5RcnhlRGhSMnFsZ2VSSnFscjdhakljOXJSVFVQTENGb3YwcGE2OWtLVlJfR3o0UndZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agora MT",
+      "headlineJa": "ワールドカップに参加する人々を守るために麻疹ワクチン接種キャンペーンが開始 - Agora MT"
+    },
+    {
+      "articleId": "gnews_416c5ded5b925fa8",
+      "headline": "Mulher em surto psicótico provoca incêndio em casa, fica presa e é resgatada no Ceará - A Voz de Santa Quitéria",
+      "headlineTranslated": "Woman in psychotic episode causes house fire, gets trapped and rescued in Ceará - A Voz de Santa Quitéria",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T18:33:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTN1cll6Tlp5WDVoVFdVXzhGUzFyM29RVDB2dFdobHBocUlKWWwyTmJsbElya1FvVHZpSkRCdDJzRkhSc1lSTDhUd0NoQ3kxcE85a0c3MjhCbXJMelMtMzBXYTF2SG0zbmFfRWtKcllhZ0ZfVE1uQWxEMjAwQnF5YUZoOWwzTHBnMjBjS3BnVUZUTlZ1SWJ5Y1h2RXRQcnJweWl4aXJFLTZFdnRGdnkza1ZPcGdpRFRhYmVuVjBmR2Z0WUY4VndRZWJIcmRhdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Voz de Santa Quitéria",
+      "headlineJa": "精神異常の女性が住宅火災を起こし、閉じ込められセアラで救出される - A Voz de Santa Quitéria"
+    },
+    {
+      "articleId": "gnews_4a3f82c359b1f0fe",
+      "headline": "Sarampo: após alerta, Brasil lança campanha para vacinar torcedores da Copa - VEJA",
+      "headlineTranslated": "Measles: after warning, Brazil launches campaign to vaccinate World Cup fans - SEE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T18:20:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXJ6eThDaDQ4WmVWRXZxSEVXakF4QXZkVC1kN3F1bU0teDdhN3FHOG9odXBCZFo2Tm1EUThCYjRZSE5PU3N2NTVzWWxpeFEzbFV0alFRdms0Z25QS2hLSGNrVFNSVjFuazNhZnV0T3VDdVdNb3NmMUlIbnJUancwOG5TclV4d0Y0SklKNVg4WldpQnhMSENDYnI3OU9kU1pYMG5DRTVsSERrUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "VEJA",
+      "headlineJa": "麻疹：警告を受けて、ブラジルはワールドカップファンにワクチン接種キャンペーンを開始 - SEE"
+    },
+    {
+      "articleId": "gnews_a9c980c6e84155a1",
+      "headline": "Vai para a Copa? Brasil lança campanha de vacinação contra o sarampo para torcedores; veja quem deve se vacinar - Crescer",
+      "headlineTranslated": "Are you going to the World Cup? Brazil launches measles vaccination campaign for fans; see who should get vaccinated - Crescer",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T18:19:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOGZCZ1cyckNrWFBxbk9QS0l6aW5TS2hid0IwNUYybi03YmRlRkUtYmhWM3Nqb2kxYmtJRDhqYW1WWE9fUXhHSXRyZE1ISzZGaExPZTNneXo5dUtKbkIyLWppVVdrVlRoX1FpRjlMWmFIVUVTdjJnLXo5Q3dsd1o2SzE4amRmQkE5SFJNLWxYZlZLOC1FMW5UcEI1VmtEbWdpeVU3dEI3NHlfSWJSYmtaaFgwcVlVdDhpTE5SbTJLWTJRWEhrZXlxUmxJMHNkTW9vTXVwN3hXcWRoQjV6b2tUZl9XeFFwbjRvZWxqbG92elR6ZzZUVzhybkpQSF9pWU05VzBSaTRNb1J3dWvSAZoCQVVfeXFMUDZhSThSc1VYTUk2TTBvVGJCbWlGNVpjQ0hEWDA4TGJhZ1ZIMGlnRmRjenVPVmpKbUp6alJtbGxReHh1N1V0aHZ1T0pWZVZaQjA0TnA4VW5BR1FWaHRjVzRveDRJOExGSU1hXzJMdWFKOVZ4ZXJuM01nMl8tVExMVDJHdzFPWGhjR28tckRYZ2xyek9uUWtpOFdEWENvMDA3NXhpN3FjSXZiLUVUcTJoamVZbmRhOFFPZ3ZxVDBXWHNaVlNBYXJldzBSY3BBOEJYOWQyVWxWX0xwUmdyQnduVDA3eFFPOVlHZVdZd3BKMWZzTm5Oc2FnQWhqTFNBU1M1eGRFZnpIX2ttdG1ud1JzM1hLektXUlRzNFpn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Crescer",
+      "headlineJa": "ワールドカップに行くんですか？ブラジルはファン向けに麻疹ワクチン接種キャンペーンを開始。誰がワクチン接種を受けるべきかを確認する - クレセール"
+    },
+    {
+      "articleId": "gnews_80f26948d64527d2",
+      "headline": "Alerta: Confundida Com Dengue, Febre Amarela Já Causou 3 Mortes Este Ano - Acre in Foco",
+      "headlineTranslated": "Alert: Confused With Dengue, Yellow Fever Has Already Caused 3 Deaths This Year - Acre in Foco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T17:56:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUxWbnpjbUl5aE9qNkJyejZRM29Xd2EyVVA5UFg2SnlsckRDZkl4djJpWm1lYVB2eHN2bE5tMTNOMmhlY3FCRW9QQ2V0N1pmLUpheV9wRlN2ZDZrUDI3ZHJjZHpWcUNncU5GelQxTEdUOGVoWk1BaEMwTzJ5SHJGR3RfQjNMV0JwYU05eTFUblRKcjdVcXpGTzc1YXhONnpzZUFsYw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acre in Foco",
+      "headlineJa": "警告：デング熱と混同、黄熱病は今年すでに3人の死者を出している - フォコのエーカー"
+    },
     {
       "articleId": "gnews_f3108897b0f3b5a7",
       "headline": "Brasil lança campanha de vacinação contra sarampo para torcedores que vão para a Copa 2026 - Metro 1",
@@ -53,13 +785,33 @@
       "headlineJa": "ブラジル、2026年ワールドカップに行くファン向けに麻疹ワクチン接種キャンペーンを開始 - Metro 1"
     },
     {
-      "articleId": "gnews_9990bd4e382586f5",
+      "articleId": "gnews_d92ed1dfc307ca3e",
+      "headline": "Governo de SP confirma novos casos de sarampo e acende alerta para viagens da Copa do Mundo - Francês News",
+      "headlineTranslated": "Government of SP confirms new cases of measles and raises alert for World Cup travel - Francês News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T17:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1dYQldvdmM4QTdwQk9ZTDhQYlJvS0RadG9iX1c2X2RiVlhkVEw3NzRaenBQN0pCY1JhRk1JT0tqY1FBeWFGSjZVbXdIdWpWRjVjSVJ2UkpNOXVWelFRWUxOZWE2eVZWcUVTSk5kYU1nUEowa1lfUmRGVGxVaWFVc1ZaMXd4YktNRUYtc0drTVNQMEJvbGpWUy1CZC1KelZqcDlvYUQzWEpjQmd4N1hvTDE4SlBFd21Ga19CZkg0cW9KUUJaWFRYNXZUaVY0dVVubkRERjNfdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News",
+      "headlineJa": "SP政府、新たな麻疹感染者を確認、ワールドカップ旅行への警戒を呼びかけ - フランシス・ニュース"
+    },
+    {
+      "articleId": "gnews_5a0a1ac7ff5a8d17",
       "headline": "Clube do Piauí tem partida pela Copa do Brasil adiada após surto de Influenza A - Portal O Dia",
       "headlineTranslated": "Clube do Piauí has ​​match for the Copa do Brasil postponed after outbreak of Influenza A - Portal O Dia",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T17:09:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVBHWHFhUXR4UFRBOTFTTkpBWF96WExad1p2d0oxZ0U3SE1wS1Y4cTZzcEpVVkxNNHBvY3RKU204QTlXSXVVUll4WFRTR0Uzd2l4XzRNTU9jR1hJNUExMDVKVEZISFpJcTAxQVZUanlKM3N1enJfLW9pTTVqRmVEZ3I4bDdTSWY5bHotSVVJTTQyMUh6VTVqcVZDMEt4VW15X1dWVFpsWllNZk9fVWhFcW9qZEFuVXRLbi1tbWtyVE9tRk5rdXBWTQ?oc=5",
+      "publishedTimestamp": "2026-04-29T17:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU5IeUdjWGppbVBwWnhaRmFUU1p5TjlSWFp0ZmQ0Q3NLZUpUN3o5WTZXaDBlbGd4ejc5Z2tBdGdacjREWmNRU0Q1MDdYWjU1M2ZGT2NMejNmSk0zWjY1VE1SU1NCWHA1Q0V5SmhsVUltaUJ2bFNkV01uSDNjcDNIUEZMUDJLZkZLa3Bsa0RzYXd5QUJOS2NWckgySWswOFFGOUgyLXU5MDYzUWstcmUyY3NOS0RRY1BCcHRkaVdFMkl4dW9UVTBJ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Influenza"
@@ -194,6 +946,26 @@
       "headlineJa": "CBF、インフルエンザ流行を受けブラジル女子カップのリーガ・サンジョアン戦を延期 - GP1"
     },
     {
+      "articleId": "gnews_ed8d21e0dea0cd3e",
+      "headline": "Brasil lança campanha de vacinação contra sarampo para proteção dos torcedores que vão para Copa do Mundo de 2026 - CONEXÃO MT",
+      "headlineTranslated": "Brazil launches measles vaccination campaign to protect fans going to the 2026 World Cup - CONEXÃO MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T16:36:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFV4VmZ4V2R5b3F0b05aSTJxZzZIY0dZcmVwd3FGZWN3UUtONGpnWHMwazh4Qkl5Q08yWngxZUdRR3NQbmU0d1dqSHlRZUJyQnl6WTZmM1dDQ0tTYWtYdkFMR3BoS2QzVkNjVWdxaHJRT0Q4eWNXMjA0aEhLZWY4YTNsZ1h2MFJXNG5qR0ZtVks0aGk0VEl4czdFeWFhTzAycy1uY0R5Z2N6MTZ6YzNwMGJuYU43XzItQkl1Y2tFcFpuVGFrY1J5b25NZHdKcV85NlRSNjFBM2YxQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CONEXÃO MT",
+      "headlineJa": "ブラジル、2026年ワールドカップに向かうファンを守るために麻疹ワクチン接種キャンペーンを開始 - CONEXÃO MT"
+    },
+    {
       "articleId": "gnews_de957496779f2e6d",
       "headline": "Secretaria de Saúde do Ceará orienta vacinação contra sarampo para quem vai viajar à Copa do Mundo de 2026 - News Cariri",
       "headlineTranslated": "Ceará Health Department advises measles vaccination for those traveling to the 2026 World Cup - News Cariri",
@@ -213,6 +985,26 @@
       "dataSource": "Google News",
       "sourceName": "News Cariri",
       "headlineJa": "セアラ保健局、2026年ワールドカップへの旅行者に麻疹ワクチン接種を勧告 - ニュースカリリ"
+    },
+    {
+      "articleId": "gnews_7efab532e29121b9",
+      "headline": "Campanha nacional quer evitar volta do sarampo durante a Copa do Mundo - Diário da Amazônia",
+      "headlineTranslated": "National campaign wants to prevent the return of measles during the World Cup - Diário da Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T16:24:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzJGWWJTc2daWjBQZ0lFcVd0WW9ZTTZUX3c3QzdJUm16ZDR6RzF3RHNjVjhoRWNUWWtQUWFSUFlkQVg5THFUZjhZeWtzaUYteHFSalBJcTV1QWtwWWFPLVZ0UkNVSVhJTWlEMUNVSDVuamtJemRpNjI5alJMeGFJUmtCVExoaE42QkotdDVqb1pvQUJ1dThJUHRLTnJHYWZPa2lCWE4xNVFRYk03eTZKWkpsTGRhVWo3UVlB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Amazônia",
+      "headlineJa": "全国運動はワールドカップ期間中の麻疹の再発阻止を望んでいる - ディアリオ・ダ・アマゾニア"
     },
     {
       "articleId": "gnews_a663306a5dbdfc02",
@@ -300,7 +1092,7 @@
       "headlineTranslated": "Mato Grosso has 29 cases and 8 deaths from meningitis in 2026; Health denies outbreak - noticiasdoplanalto.com.br",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T16:02:19+00:00",
+      "publishedTimestamp": "2026-04-29T16:02:24+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblp3dDZMem92WDBYMjZuZ3pad1BUek9PZU1KOEl3TnhXa3pjaktOZUJHWkUyeUVFcmpPRmQ4OUZ4WVlLeUVkMG1uZWZfbFdwRF9WekhJc2dpdU1lZjV6Ynp1elBEdFFOcWZkRzhzWXlLaWhDU3liYkYzNVRHNDNvVlJ2NTVrRG9taU5Remh4dUpPN2FjNWV4UjFmdVItMV9VdUxLejBYbmxOcmZ2aEE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -320,7 +1112,7 @@
       "headlineTranslated": "Health launches measles vaccination campaign for those traveling to the World Cup - Portal Em Tempo",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T15:59:24+00:00",
+      "publishedTimestamp": "2026-04-29T16:00:27+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IbkRFbzRIMHZ3T2pnX0ZCTnhJa1NtaGlSTG9pcTdZX1pDWnNOaGJLVXNxdTFzWGR6c3J6VmhnREFzdlVSLU9WMTg3cUthZnBjUEI2N2hUaTFYZEwzWXZSdVdUakVmUEQxei1KSEFLelE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -355,13 +1147,13 @@
       "headlineJa": "USPの研究は、大都市に近い地域で黄熱病の蔓延が加速していることを指摘 - ファラ地域"
     },
     {
-      "articleId": "gnews_34fc34b22779d4e4",
-      "headline": "Campanha de Vacinação Contra o Sarampo: Alerta Viajantes - vtvnews.com.br",
-      "headlineTranslated": "Measles Vaccination Campaign: Alert Travelers - vtvnews.com.br",
+      "articleId": "gnews_f9614a2e5cb77348",
+      "headline": "Ministério da Saúde lança Campanha de Vacinação contra o sarampo com foco em viajantes - Super Rádio Tupi",
+      "headlineTranslated": "Ministry of Health launches measles vaccination campaign with a focus on travelers - Super Rádio Tupi",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T15:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjX3E3WXFGRGV6dWJraWlJZE1QVTc3QThXRGU2R3ZpWjFDcUdEcURQMzFaOC1vVFlXRm1xNWVidnRsQ1gxNklWMFoySEg0WnJXb2tKSFBGd1pseEo1R1V1YnV3Yjg3cHZQUnFHRHFn?oc=5",
+      "publishedTimestamp": "2026-04-29T15:53:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZS1oNFJRWWQyZ2F5TndfZmd0bVhYN3dieFVjcVFVYko0SkxGYVlISmdrMmRRWHZPb0ZFUXp0LVp3NDJTZkY4MW5ITzBFdEFoXzNJSWpXVDdZbnoyVXJkWnVUbmZOOU5PemNXdGdEQXBzZElwZXFjQXd2Y3AxVFJPa1hEVlNDRlRSNnNrQnJ5aWFZa1BUTEhaUVQ5aFR2eVRaS1B6MHlLblhUUWUxSURJelhzOEFtY2ctUEE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -371,8 +1163,28 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "vtvnews.com.br",
-      "headlineJa": "麻疹ワクチン接種キャンペーン: 旅行者に警告 - vtvnews.com.br"
+      "sourceName": "Super Rádio Tupi",
+      "headlineJa": "保健省、旅行者に焦点を当てた麻疹ワクチン接種キャンペーンを開始 - Super Radio Tupi"
+    },
+    {
+      "articleId": "gnews_f208d415860e4878",
+      "headline": "Mato Grosso registra 29 casos e 8 mortes por meningite em 2026; Saúde descarta surto - O GLOBO",
+      "headlineTranslated": "Mato Grosso records 29 cases and 8 deaths from meningitis in 2026; Health rules out outbreak - O GLOBO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T15:15:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1VGUjVsZjdXNFI3eDcyXy1QenAySVpVMVhLaU9rcDYtclVVY0hUYk84WFJXczVrd3d1UjlNb3ZYUXhvU0V3Y1RQZlB3TWVWOEVSQVNJT3Q3TktFLW4zVFZadkxrWkZnT1NzanJWZ01jNTVzVHJvalVvejJ3WThQcW55S2pXSzNHWkhpX1llOERSNGt0VTMzVWFVaXhEYjl4elpXbFNtY2hpcEJQRHZNUTVSSV93WDRMRXlPNFJjVmxFV2taQzF3ZW5VNHZ6ZWdXRUhKemhn0gHkAUFVX3lxTE5EZDFHdi1MOUlrWG4yT0hnMlpTXzlBWFVLN3NUQktLVlpkczBIWE1tM2hRSEdkMGhFdm9oNkN5eHBPV1lLZVphRTVxel9rUHdnSWRXSWlFc1ppblRpZXZSaGkyT2NNYjI1ZGxOYmt6eXg0alNDVk1NaFJDbVU1cDM3MjladmFHU25zM2NySnoyVDJjcTRBeExnOWwxTmVnenhlS1V5dEtLQXZEV2VfQXM4X2JIN2FBZ3J6b21XZVJheHQ3X1FuWXYxVTI0N3BjTENyeTZ5a1pHcjg5TTJmVVdOUVAyUA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O GLOBO",
+      "headlineJa": "マトグロッソ州では、2026年に髄膜炎による症例29名と死亡者8名を記録している。健康はアウトブレイクの可能性を否定する - O GLOBO"
     },
     {
       "articleId": "gnews_c6755058556f53b7",
@@ -380,7 +1192,7 @@
       "headlineTranslated": "Brazil launches measles vaccination campaign to protect fans going to the 2026 World Cup — Ministry of Health - www.gov.br",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-29T14:43:10+00:00",
+      "publishedTimestamp": "2026-04-29T14:43:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLVVSTkdiS0FEc2ZUbktXM3RBVERrN2dnTl9IOGFFeTEtZUJacGROSUhZN0l2dnpqS0sxbHhkc3BoOENHS3dlZVNwcDFNMkVIMTFvZXcyMzEyWHVCUVU3MW1KUnZpWmhfank1T1V0YVdCRTZRODVEbDItQzFJTFNmUU9XTEZHZl9yd1BmTzVpM3k3OFQwTE95LUhwaEQ5eElsZzV5RUNOd0JUdFIzZDBIZWNXcXlzOFJlQllTLTZmWm5UeUNYRG8zR2JhSS11MjFCWnNCcU8tSTNPSWVNRkpuREpPUDRFdkowVUszcUVkM095b2RyS0RzZEgwWGpiN2lrVkpJ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -404,8 +1216,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQWZiSnA2UWgxWFBFTFlZR28yT3p4ejhVQVVkN3lBaHRSczRiak02QTMzWTV2WTNqSXpjN01xSjlfS1Z4OXI5a2thLW9KOXFrSXNBZ01rY0RPTkU0TEdLbnh4VUVYSUd1SEh5U3NkWU1WUjlPZW5vd0lBNEs5VklNc2kxQ3Q2c1FoYmJKMjVvTDNZdVk1VGVrS243WmdiUkZCZ09VbGR0d3BhTDhGdWV1alhtRmtjZ0NBOVhWTFU1VnM0ZkhQb0h6LU5TLTlESF9aVnpPQVgyVG5vUkt6Z2NNZUpscGtFcG9JNzB0alRWN2pkdHNFV0xmZXh4TzhwWHNUakdnX2ZnSzFKdVJQbkk4c1E4Ukd5THFGTlpJa0dCbGRsRDRlWnVrQU8tcFBPR05UUUZPWHczYjNQbV9BYzBfcTNYUldHXzg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -636,6 +1448,26 @@
       "headlineJa": "SP市、麻疹の2例目の輸入例を確認 - SBTニュース"
     },
     {
+      "articleId": "gnews_f3c5eaecd7edc6ea",
+      "headline": "São Paulo confirma segundo caso importado de sarampo em 2026 - ICL Notícias",
+      "headlineTranslated": "São Paulo confirms second imported case of measles in 2026 - ICL Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-29T01:02:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSmV0bF9EQTN0MFhMYjROZWx4ZHo5VGRGbUNJbWV3WGZyTjJUOWUwbXJRczRFeTUtc09SOEhZZGlKQXVVS0RlM29xenVaYTJHYTBtRWJfNkVkTUlnY25na3ZsLUszN3hZeGdicmFtQzJqV3pOcUdISENuVGc5Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ICL Notícias",
+      "headlineJa": "サンパウロ、2026年に2例目の麻疹輸入例を確認 - ICL Notícias"
+    },
+    {
       "articleId": "gnews_a3916bb63c37abd3",
       "headline": "Baixa vacinação acende alerta para risco de sarampo em Catalão - Badiinho",
       "headlineTranslated": "Low vaccination raises alert for measles risk in Catalão - Badiinho",
@@ -725,8 +1557,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOS2lKLTRkSFFLNGhad2k3M2o1SkN3dk5GeU5kbFlUVlVCNklfSWNUUFdRcUlpUF9sR3JabkhMM0J3ODNJSFRHOG1nbGN6am5LLVhQYlR2R0lkWloxRmZpR3ZHTVdnU1I5aFd6d0pQakZxN09fcUcyMlB6MG51SmhveGpXVFo3dVRJZG40ZmNKNXBwUW1UQVc1WUFSd1lLc1lyYjlqd3FDUzBhY2JMbUhFTnB2bmNJQ1h2bzl2VjNfUHo0cnZ2WXk2Z0tMN3VXOHd5OWMzRWpKb0JtX1p4RGVveVY5TDIzeE5UZTlDZjc2emV1b2plT0tCcEpBWWppNGRSYXozYUF6T1dEUTcxQTNxZ19vT3puWkJVZWM4ODZQbUpiNjJodXIyX2ZLRXNQRkxFaDQwTU9fVWtGRld3N01BaDFvd2FIQk5MVEFpdzVtQ0dYal93Y3l1Q3FIWjRYdTRHZlJQTEpzNTVCRW10S0VaRGZGTEczVUNwMERDMTNlOWxCNWF2MFh3Q1dUN2VlUEIxWldQLS0zX1ZjSkJBNS1yM3pWcnFuRFZ0QUt4VzcyM2JySVJrbnl6QUZZUGRRUGRNUE1EZGtRZy1lZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -817,26 +1649,6 @@
       "headlineJa": "黄熱病が進行、大都市近郊で警戒を強化 - Guararema News"
     },
     {
-      "articleId": "gnews_5579d8eac1bd0447",
-      "headline": "Segundo caso importado de sarampo no ano vem da América Central - gazetaweb.com",
-      "headlineTranslated": "Second imported case of measles this year comes from Central America - gazetaweb.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T20:19:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVFpVzlKVk5rMG1FSUd1M0gyYUlZeUJwMWxhN2xXaVYwN2MwTE05cG1uY3pWOV9YUzBBeGN6Qzdaa0xXczVmYUZiSXQtN29wcnF1YlpOcFJ0cjBsNWVlLXc5Q2pIekdPY0hrTzJJMWFUUXFST2dwUXBDQ1lMYmZWSlNiQ2lwUDI4QTlmMExETVlyMlZKWW0yUU5vdzJYSmhhSVpvczE1elA0VENNWnNXSEF30gG6AUFVX3lxTFBjdUFHV0lveGp6c3g2UUQ4MW51Ql9qSmRZUDhWZG1fd1ZiaGpxYTFGaXpnQVQwcUFaeG1mN2pLMWFUODJTYTdfb0hDaENPSkxRU2dubGt6VmpITEd5LUp6SWNnaXBMTF9vemk1R2lSTWZGajVudHRZcG1tcUhFZE1lNzRfTFpnbUliZVZhX2ZZM0wzVWo4cXFqVTAwaFloOEQtN2xKeFhMcHZxS0xMOFJ4aXRqTERUb2V3dw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "gazetaweb.com",
-      "headlineJa": "今年2人目の麻疹輸入例は中米から発生 - Gazetaweb.com"
-    },
-    {
       "articleId": "gnews_137e3a488b2b3bab",
       "headline": "SP confirma segundo caso importado de sarampo - A Província do Pará",
       "headlineTranslated": "SP confirms second imported case of measles - The Province of Pará",
@@ -870,8 +1682,8 @@
       ],
       "locations": [],
       "states": [
-        "Bahia",
-        "São Paulo"
+        "São Paulo",
+        "Bahia"
       ],
       "dataSource": "Google News",
       "sourceName": "Relata Bahia",
@@ -896,26 +1708,6 @@
       "dataSource": "Google News",
       "sourceName": "Estado de Minas",
       "headlineJa": "感染症専門家、ワクチン減少と麻疹再発の危険性を警告 - エスタド・デ・ミナス"
-    },
-    {
-      "articleId": "gnews_debe579dad4b0296",
-      "headline": "SP confirma novo caso importado de sarampo - noticiasdoplanalto.com.br",
-      "headlineTranslated": "SP confirms new imported case of measles - noticiasdoplanalto.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T19:01:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFVDMk1seVVyM1ZmWnJnYTVaNEJIekY1SmJQd3daX3RITE1mSDFXYzR4TDljaHlyQm9ha3B0WV9tRDJSZDZROEJkaDYwendSdGY1Q0dvSWs1Z2pEVy1scUtFa05vcGdQdlV5Y25qOFBtRFRDUUNWdm9sSWVJdThVOW4xZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br",
-      "headlineJa": "SP、麻疹の新たな輸入症例を確認 - noticiasdoplanalto.com.br"
     },
     {
       "articleId": "gnews_6079ab8531fa099a",
@@ -1015,7 +1807,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "correiodamanha.com.br",
-      "headlineJa": "サンパウロ、麻疹の2例目の輸入例を確認 - maildamanha.com.br"
+      "headlineJa": "サンパウロ、2例目の麻疹輸入例を確認 - maildamanha.com.br"
     },
     {
       "articleId": "gnews_b78c6086e258305b",
@@ -1047,8 +1839,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZngwV1RoUE1Gc3R0M0pMS0ZYMDZybzM1Q1ZDZ2VoNTdhZ25LS2tjMHNYenFoZmpDc3RMNGpyTi12VVBXY0FjY21ubDlJYjg3Y1RlWi01c0F5SHZiVXIwM01MV2Jrc2tzSlVSNHRBUC1oTklMZ3dxbHl5UEIzUXY4aE5aNTV6Q1NYODlfNEY4UGNOQmJlUDlNUWZheUhQMGhHLUNRWDhtQTNwMXB4?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -1079,17 +1871,38 @@
       "headlineJa": "ワールドカップ：北中米での麻疹流行中、保健省が麻疹ワクチン接種について警告 - Tribuna do Sertão"
     },
     {
-      "articleId": "gnews_c6484b32150e32b2",
-      "headline": "A FAO está em alerta devido ao surto de gripe aviária em vários países do continente americano, incluindo o Brasil - Notícias Agrícolas",
-      "headlineTranslated": "FAO is on alert due to the outbreak of bird flu in several countries on the American continent, including Brazil - Notícias Agrícolas",
+      "articleId": "gnews_efd670385c6922ed",
+      "headline": "FAO alerta para aumento do risco de gripe aviária na América Latina e reforça detecção precoce - Notícias Agrícolas",
+      "headlineTranslated": "FAO warns of increased risk of bird flu in Latin America and reinforces early detection - Agricultural News",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-04-28T17:12:50+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTXBMZEpmeDlFdm5Ja3ZpWW8tdEQxVXlOdUNUSFhEVjJRd3FFT05lcGZiLUtzTWNpVlRFNktrcHE1V1lSZ2pwRU5MaUNUYUNGdTFzRUV6QW0zRVA4a0NVblZENVBITDNhQ21kSHoyNHpfeGMyZ3VRWktIWVBTTGttM2JnYktwbVZBckR5YzVtTmVoTTg2WWZWVmlNa0tkbURHdTlPM2x4bTBKcGxLZlVsT3lXck9jeXVXb1FDc0Z6S3R5VHItb3JjSDRjTkRtUTZlU0hvelBDREt6Z1NHbjV1RXpFV0U2Rmc5dGxiRTctQk54TEcxMVduTEFsQzJRVFNFZzdGUW1mZ2ZDYXQ4SGh30gGUAkFVX3lxTE5HZnFLQXp3ZDhqZFJNZDNud0RGcXZYTHdNY0xLUUdxRzFVblYtdy05N183X3ZUbWJWLUtkckNyMDUtc3hYRk1MZElqYktKN29SeHdmanR1Yl9ZYk91ZEtlYzNGVjRGWTR0T3NVREptVldCUXBXbDk4ZmZ4NEt0YUtuMnFsLWFYSmx4LWdaenhqbVR1MWd3enJCanJMUVJEVWczdjNqY3RONnR6NDJtcU1NZmo4aEZ3UWRCNkU4ZEY3N1BSMld1Ym9rNm5oWjZWdmdkYURaQ1UzUW5Xd1h6al9yN01leHZSYlN0Q1l6Q2xFN3Y0aW9OSW5ZRkhILUdVeFlxRDVSa0ZTVElhYXFiX0hsWUI0VA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias Agrícolas",
+      "headlineJa": "FAO、中南米における鳥インフルエンザのリスク増大を警告、早期発見を強化 - 農業ニュース"
+    },
+    {
+      "articleId": "gnews_79ee3a2b2ff5bd7f",
+      "headline": "A FAO está em alerta devido ao surto de gripe aviária em vários países do continente americano, incluindo o Brasil - Notícias Agrícolas",
+      "headlineTranslated": "FAO is on alert due to the outbreak of bird flu in several countries on the American continent, including Brazil - Notícias Agrícolas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T17:12:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOR2ZxS0F6d2Q4amRSTWQzbndERnF2WEx3TWNMS1FHcUcxVW5WLXctOTdfN192VG1iVi1LZHJDcjA1LXN4WEZNTGRJamJLSjdvUnh3Zmp0dWJfWWJPdWRLZWMzRlY0Rlk0dE9zVURKbVZXQlFwV2w5OGZmeDRLdGFLbjJxbC1hWEpseC1nWnp4am1UdTFnd3pyQmpyTFFSRFVnM3YzamN0TjZ0ejQybXFNTWZqOGhGd1FkQjZFOGRGNzdQUjJXdWJvazZuaFo2VnZnZGFEWkNVM1FuV3dYempfcjdNZXh2UmJTdENZekNsRTd2NGlvTkluWUZISC1HVXhZcUQ1UmtGU1RJYWFxYl9IbFlCNFTSAZQCQVVfeXFMTkdmcUtBendkOGpkUk1kM253REZxdlhMd01jTEtRR3FHMVVuVi13LTk3XzdfdlRtYlYtS2RyQ3IwNS1zeFhGTUxkSWpiS0o3b1J4d2ZqdHViX1liT3VkS2VjM0ZWNEZZNHRPc1VESm1WV0JRcFdsOThmZng0S3RhS24ycWwtYVhKbHgtZ1p6eGptVHUxZ3d6ckJqckxRUkRVZzN2M2pjdE42dHo0Mm1xTU1majhoRndRZEI2RThkRjc3UFIyV3Vib2s2bmhaNlZ2Z2RhRFpDVTNRbld3WHpqX3I3TWV4dlJiU3RDWXpDbEU3djRpb05JbllGSEgtR1V4WXFENVJrRlNUSWFhcWJfSGxZQjRU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -1118,46 +1931,6 @@
       "dataSource": "Google News",
       "sourceName": "VEJA",
       "headlineJa": "麻疹：サンパウロ、2026年2例目の輸入例を確認 - SEE"
-    },
-    {
-      "articleId": "gnews_827cf91775a4c552",
-      "headline": "Como evitar a leptospirose em período de chuvas em Alagoas - BR104",
-      "headlineTranslated": "How to avoid leptospirosis during the rainy season in Alagoas - BR104",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T16:48:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGI2TWRHTjhpa0FRdHhMVlBDM2NqNnFPOEtPN1FfYVQ5N2NUU29ycEMxN0diYVZSN0VZQWUyeEU5R3plZVc2c2ZHRFJ1R2pkRl9xUWxzV09JVjZmbHRVbkt2YmhLNVh3TVBLaWZQMFJEREI3S1M4S3FUTmlEUlFIYjlNbDljYW9zSGhuQnd3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Leptospirosis"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BR104",
-      "headlineJa": "アラゴアス州の雨季にレプトスピラ症を避ける方法 - BR104"
-    },
-    {
-      "articleId": "gnews_7aeb6e8841758c5b",
-      "headline": "Ministério da Saúde alerta para risco de sarampo durante a Copa do Mundo de 2026 - Portal Alegrete Tudo",
-      "headlineTranslated": "Ministry of Health warns of risk of measles during the 2026 World Cup - Portal Alegrete Tudo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T15:31:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEVqQkdIUGp0R1ZhWjFvR3YzQkJDTVc0OTNodkRCRDhrTlN0cmd2anBuNDhVaFVNRjl2V0lJNFkxYXRIdkdzQWpwU0k4bDU2SWFCMllla00yc294anpOX3pGZjUzWFBpeEVManFHMUxxeHBGbXdWYnZUYnBBOWNBbW1XN1ZoVmNvTlUwdml0Nk5hd2h0czRtRWc4czVWcnlReTJqSmt1LVp4dVFfX0dCek5YUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Alegrete Tudo",
-      "headlineJa": "保健省、2026年ワールドカップ期間中の麻疹のリスクを警告 - Portal Alegrete Tudo"
     },
     {
       "articleId": "gnews_a087656c286004b3",
@@ -1200,26 +1973,6 @@
       "headlineJa": "ワールドカップ：米国、カナダ、メキシコでの麻疹の流行に直面し、保健省は今すぐワクチンを接種する緊急性を強調 - O GLOBO"
     },
     {
-      "articleId": "gnews_5cbf1a2ec2ff0e51",
-      "headline": "Ministério da Saúde alerta para risco de casos de sarampo após Copa - Âncora 1",
-      "headlineTranslated": "Ministry of Health warns of risk of measles cases after World Cup - Anchor 1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T14:03:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1hOQkh2U3RaeHBjbGRyTnFyQUt1ZUlZTGhVaDNHdUtmNUJTR3RldkZybHp6WThhVjR4U1dRU2l6MzV3WkM2M2d4ZGhZRHNGcXI4UkdETlAyLUFZZVBob0pNVWt5SDFYRVdmNmpJam1McUF4U19yZTNUVVNuVVRUNVNGNldKdHFzbEFidkh4ZUQwbzlpdzdNag?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Âncora 1",
-      "headlineJa": "保健省、ワールドカップ後の麻疹感染リスクを警告 - アンカー 1"
-    },
-    {
       "articleId": "gnews_1c2b709f265b679a",
       "headline": "Vacina é principal proteção antes de viajar para países com surto de sarampo, alerta Ministério da Saúde - Alagoas Alerta",
       "headlineTranslated": "Vaccination is the main protection before traveling to countries with a measles outbreak, warns Ministry of Health - Alagoas Alert",
@@ -1239,6 +1992,26 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
       "headlineJa": "麻疹流行国へ渡航前の主な予防策はワクチン接種、保健省警告 - アラゴアス・アラート"
+    },
+    {
+      "articleId": "gnews_43b8bd9b771e3b90",
+      "headline": "Semana Mundial da Imunização acende alerta no Brasil com retorno do sarampo e queda vacinal - Jornal Voz Ativa",
+      "headlineTranslated": "World Immunization Week raises alarm in Brazil with return of measles and drop in vaccination - Jornal Voz Ativa",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-04-28T13:47:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTk8xNVdnakJqbldoMjhjUlpHOGtUX0JOLWc4ZlRleVQ2cjA4czBEZVFRSjZONUVFQm5oaTBZS0JueS10dFhEZ29US0ZydFBlbXlLdmdRUU1wdWhpT1JJRm9LQ1NKc0xZUlVDZUNCRjYzWnpzTmpvbklOS3dPaTFtUl9VVk1hQ2hpdjBGMmdqaWpxRWppMGZBNTVNRmVWUXJiNjVULW9JMzhPeEZpZHVfejBzLV9WLVl5MGdRbjd5dGI4MGZRMDUwVGJLLUg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Voz Ativa",
+      "headlineJa": "世界予防接種週間、麻疹の再流行とワクチン接種の減少でブラジルで警戒を強める - Jornal Voz Ativa"
     },
     {
       "articleId": "gnews_d6e97d27cb48c7af",
@@ -1319,209 +2092,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Rio Mar",
       "headlineJa": "SBI、ワールドカップが近づくにつれて麻疹のリスクを警告 - Radio Rio Mar"
-    },
-    {
-      "articleId": "gnews_9b5d46bee82e0ece",
-      "headline": "Sarampo: quando a prevenção é a única barreira - OCP News",
-      "headlineTranslated": "Measles: when prevention is the only barrier - OCP News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T09:52:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxVmhiWC00dURVMVNxRm9faUllZjhXU3lfM25lSmxzYlpoUmNXbTU3ekVuVU0xeDl1LXNiUkxUMkptbEhUM3Q3NlFwQlBEUHVQcmZZNlQ1UlVrR1pFZ3p6NHFObjJJemU3elVFUlFnclNhMkptT0NiWk90ck45QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "OCP News",
-      "headlineJa": "麻疹：予防が唯一の障壁となるとき - OCP ニュース"
-    },
-    {
-      "articleId": "gnews_2b6149dd1aa09eb9",
-      "headline": "Semana Mundial da Imunização destaca papel das vacinas na prevenção das doenças como o sarampo - Diário MS News",
-      "headlineTranslated": "World Immunization Week highlights the role of vaccines in preventing diseases such as measles - Diário MS News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T09:01:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUVRRWNlTUx0QmxBZ09sLTJmTWVrM1piaFFHb2EweEFDSjJHdEFTSVlMVW1hRW5ac2g0eVJORmV3RDVOLURxTGxzYXhIdmoyRlQweTJfZGxvVXpsSXlXVzNkU0JqVkhYV1h5VjZWckx1RGFqbGkyWjVBMGMwSWF3cWt1cGd4UkxYenhZejIxUnc1bDVYSndLejhXXzNUay1nVjEwXzR1aXZ4bFhwY015Rk9xTE5zS1FWWFBNbnpTeUZ2ZlI0eTdFaGVYMEY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário MS News",
-      "headlineJa": "世界予防接種週間、麻疹などの病気の予防におけるワクチンの役割を強調 - Diario MS News"
-    },
-    {
-      "articleId": "gnews_a22eb41e092c4f03",
-      "headline": "Brasil registra ocorrências de meningite B e reforça atenção à doença - ND Mais",
-      "headlineTranslated": "Brazil records occurrences of meningitis B and reinforces attention to the disease - ND More",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-28T00:00:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemc3QkI3dVUwRE51Vnl3Y05BTjY2MEZTTjdGNHlpVnNjSXJ2aFBHMi1iX2VFdHNKeG1uUXdPcnVMbEtDTm15YVBIajFnV1kwaHd1YXRmckZwbUt1UHhVOG1EVWJPSWNCZGZudTFqcWFzdEtJbGI3bGQ0NW5oVlYzaEFMcUo5UXZPdFhacXg1S1FTejZKU2hGR0VJcllObW8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ND Mais",
-      "headlineJa": "ブラジル、B型髄膜炎の発生を記録し、この疾患への注意を強化 - ND"
-    },
-    {
-      "articleId": "gnews_02a29bacf5e62808",
-      "headline": "Dengue tipo 3 já responde por 80% dos casos em Pernambuco no início da sazonalidade das arboviroses - JC",
-      "headlineTranslated": "Dengue type 3 already accounts for 80% of cases in Pernambuco at the beginning of the arbovirus seasonality - JC",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T23:18:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS3ZxOGpLTGFvZWxBd3k4c09aUmVPenJzZC04UDVybk5YZlgxOWswd21vN09MRWhEWWp6Yl9ESk5FUFo2dVJMdXFQOXREdzJuMGJ3SC1xX0VIYWZaTE1uRHJ1amRBMS1WYmUwSWJZZFN1SG1HTTVTb0VSMGNmMWR0eUt4b1hkNDEwMG1lUEZ1Qy1jYWRnSVppRWhGaXNVcTJaN0dNX2xxeVNLMWYxMHBUcTNEdlFVcnl0VGpmNjllRWhPY0hsSWREX0Vhc3B5cW1UbjB2aXd5dmt5d3U1RFM1R2JaVFg2WEE0UGNnX0pLOS1tNVZ2?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "JC",
-      "headlineJa": "アルボウイルスの季節性の初めに、ペルナンブコ州ではデング熱 3 型がすでに症例の 80% を占めていた - JC"
-    },
-    {
-      "articleId": "gnews_ee2ff149b62931c1",
-      "headline": "Ação contra dengue e leptospirose em mercados públicos de João Pessoa começa nesta terça (28) - THMais",
-      "headlineTranslated": "Action against dengue and leptospirosis in public markets in João Pessoa begins this Tuesday (28) - THMais",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T22:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2NEX00ybXBZdTc0ZGc5QnpVazREd2ZNV0EwaUE0OUozbE9maXF6b0JXTUQxNTY3MUNzbXR2dWtreVVZMERkdG51eGZaZlZ2ZzRXQWlBdllpNFFsTmNCcE42Qk1rbEVBVk15ZUozek9zTWtIOW0tUjJ3RWN6V3VuS2xWUENuUmFDVVJUQUkzdjk3Rm50cXNzVTRvYnZKd2ptb3Z5dzd0WEp1cWtwelhBUk8xYXVPUmlxYzFDSDNhVEhyX1kzWmt0dS0zLTZ6Ti10ODdXYmc1cXF6WnRjSFNfSDRpUTNoNGJHTkFJZQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Leptospirosis"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "THMais",
-      "headlineJa": "ジョアンペソアの公設市場でデング熱とレプトスピラ症に対する行動が今週火曜日（28日）に始まる - THMais"
-    },
-    {
-      "articleId": "gnews_7966023e731788ac",
-      "headline": "Ministério da Saúde alerta para risco de contaminação por Sarampo durante a Copa do Mundo - Super Rádio Tupi",
-      "headlineTranslated": "Ministry of Health warns of risk of Measles contamination during the World Cup - Super Rádio Tupi",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T21:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa19MejNmSzM4d3FiVFFqcGNGbTZpMWdFbkNKQTlacG5kNFlDbWwyNFBrdVFlMEdzaTNHTDhSSTZDbl94bXItQ2V2QVpLRUctZHEwck1lcmlnUi1FZzg4V29oOTNDcUtsQmViVEZZcUJEQ2UtWXdjbEVpTHpNczFFUEVkTUY2RUJGSVFJRHJPeVlEbGxFLTBuTENZY2RtR0ttbk9ZNW9GZE04STR0N2tYTldHSlpVNHMxWks2eHFR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Super Rádio Tupi",
-      "headlineJa": "保健省、ワールドカップ期間中の麻疹汚染のリスクを警告 - Super Radio Tupi"
-    },
-    {
-      "articleId": "gnews_9c57da4f8192c243",
-      "headline": "Dourados inicia vacinação contra chikungunya em meio a surto - Jornal de Brasília",
-      "headlineTranslated": "Dourados begins vaccination against chikungunya amid outbreak - Jornal de Brasília",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T21:00:47+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVkp4Yy1vS3JkSWFjNncxM0hJWGlNcjBPQm1MejJuOUlOYi1wcmgwS3lPS1RSLTY5Y1NrcHpzWU40d1NTZGtld3lVSHhscTFKdVVGeU53OEotQVktQ2xuMk11VkkyLUxSOXdaQ1pSY05RbjRYeDNfVnl4bEE3UWo5YS1zWlZEcEUxeFlXU1I0aFdVOFgwUWZ4SjF4N3B3YVlBaTdJMVZyakdQLVNQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal de Brasília",
-      "headlineJa": "ドウラドス、大流行中チクングニア熱のワクチン接種を開始 - Jornal de Brasília"
-    },
-    {
-      "articleId": "gnews_d69052fe0b1e3887",
-      "headline": "Ministério da Saúde alerta sobre risco de sarampo na Copa - Guia da Farmácia",
-      "headlineTranslated": "Ministry of Health warns about risk of measles at the World Cup - Pharmacy Guide",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T20:00:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3R1dkFfTGNxMHFTTk1GeGwxYm5QUGRuMzJvcGRlT3FDUkJBZGZNY21lakQxRS1XSmQyMHM3a0ptYzRtbXVnZFBpY1QydDczX045V2I1TWtNM0xSb2VCNTZkRTZrYkdnXzYzRVZsRE91eUpINUc3T0RJczJwY0preV93OEgyMTBaa2RPcnRKLW1hQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Guia da Farmácia",
-      "headlineJa": "保健省、ワールドカップでの麻疹のリスクについて警告 - 薬局ガイド"
-    },
-    {
-      "articleId": "gnews_3bd385a9e93336b0",
-      "headline": "Pit Bull Mata e Ataca Duas Mulheres em Maceió: Idosa e Outra Vítima Precisam de Atendimento Médico Após Surto do Animal - Repórter Maceió",
-      "headlineTranslated": "Pit Bull Kills and Attacks Two Women in Maceió: Elderly Woman and Another Victim Need Medical Attention After Animal Outbreak - Repórter Maceió",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T19:26:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUE0wZ0RJNkNJRnBuMXpMcGdncEVCZ25VTHJnN2xYbk1WdVp6WWtlamZFU0dhdmpnamlMYkpxQ3FoTmpnLW5Rc0JYaHhMOVd3YTZzcEkxYk5QMTVKejFvV0s4YlVVWW93Z1NWWk1hOXRxY2NFWFFtUG8zNnYxdlVoLVNtLVRwbHJsbklma3NvNEFOUlJBSmozNlE2WE4zVWR6TF9hcXJlaE5KM01JaHBNQ1JKYjcwQkg1czRRQ29TX2JVTmx2VThmeW1qbFRIYWdNS3JmdUlvY0NjbGJjX0FXNVZINA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "マセイオでピットブルが女性２人を殺害：動物発生後、高齢女性ともう１人の被害者は治療が必要 - マセイオ記者"
-    },
-    {
-      "articleId": "gnews_091f9d0c6d20a5be",
-      "headline": "Pesquisadores dos EUA desenvolvem vacina experimental contra gripe aviária com resultados promissores em animais - Feed&Food",
-      "headlineTranslated": "US researchers develop experimental vaccine against bird flu with promising results in animals - Feed&Food",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-04-27T19:10:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamtVVi1uMTI4NE5TR29FNFpBZzI2OFNrRlh5dmRNM3NxTTZHTUlsb0lzZS1UakV4OWRsYWtTN2luZkRzMFRaQzhfVF9RckhoVVJiOVlUeWNWYUpqbXdNMXhTZnVNakozTjdCMUJ4OVVpZy1HNGpsejVDLS10Umt6QlQxRTJENlBQZjE4ckJwRlI5Ujh2ZDAwWUsweHJUcGR6SlFWbzRIV1lOWXJsdjNUeENBRjg5bGQ1cUkzR213aDk2Y2FKYWJNdXlLWVowLU5FajVz?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Feed&Food",
-      "headlineJa": "米国の研究者が鳥インフルエンザに対する実験的ワクチンを開発し、動物で有望な結果を得る - Feed&Food"
     }
   ]
 }
