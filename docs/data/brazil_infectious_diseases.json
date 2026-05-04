@@ -1,27 +1,473 @@
 {
-  "generated_at": "2026-05-04T10:14:43.897766+00:00",
+  "generated_at": "2026-05-04T17:49:54.971748+00:00",
   "date_range": {
-    "start": "2026-05-02T10:14:43.897766+00:00",
-    "end": "2026-05-04T10:14:43.897766+00:00"
+    "start": "2026-05-02T17:49:54.971748+00:00",
+    "end": "2026-05-04T17:49:54.971748+00:00"
   },
-  "total_articles": 26,
+  "total_articles": 43,
   "state_summary": {
-    "Pará": 3,
-    "Brasil (estado não identificado)": 7,
-    "Bahia": 10,
-    "Piauí": 5,
+    "Brasil (estado não identificado)": 11,
+    "Bahia": 14,
+    "Pará": 7,
     "Maranhão": 1,
-    "Acre": 1
+    "São Paulo": 5,
+    "Rondônia": 1,
+    "Piauí": 8,
+    "Mato Grosso do Sul": 1
   },
   "disease_summary": {
-    "Measles": 1,
-    "Dengue": 19,
-    "Yellow Fever": 2,
+    "Chikungunya": 3,
     "Meningitis": 3,
-    "Doença infecciosa (não especificada)": 2,
-    "Chikungunya": 1
+    "Dengue": 27,
+    "Doença infecciosa (não especificada)": 7,
+    "Measles": 3,
+    "Yellow Fever": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_fa5bc8f0e93a609e",
+      "headline": "Anvisa libera produção no Brasil de vacina contra chikungunya do Butantan - VEJA",
+      "headlineTranslated": "Anvisa releases production of Butantan chikungunya vaccine in Brazil - SEE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T17:21:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTAxOUFuVHRNeDVWM3Foa3Fwb1h2aVc3UVlYVmZoOHRsdng5bjdkaFJQZTJxMlVkMGE1R1dsQnRmOW5HTEVjUW1GaDgwM0Mwb1E3cmxQR04wVkhBSEN6VlNGQVMyOFUxZ1R6WFFuTVotSHc2UmxHYkl0Z183dWQ3RFEzMTV0bW01MUVQLVFEZDh4VzRUYVJackNhal9wRmRMSnZpSXRfZkc1dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "VEJA",
+      "headlineJa": "Anvisa、ブラジルでブタンタン・チクングニア熱ワクチンの生産を開始 - SEE"
+    },
+    {
+      "articleId": "gnews_f2431e5a0062c6f4",
+      "headline": "Governo Lula deixa vacina contra meningite B fora do SUS e mantém imunizante restrito à rede privada - Conexão Política",
+      "headlineTranslated": "Lula government leaves the meningitis B vaccine outside the SUS and keeps the vaccine restricted to the private network - Conexão Política",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T17:14:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3Y5dFFIbjVtSUhwaldQdkZRdy1LekpPNzRVOTNhQnVrVVdCWFJNWlNJcnJnZjgtYm8wU3FTS2Z5LUR2TTRxZlFVTEVsczZuSURXcHdXTDNFdWVjMWJVeDVGMlFlLWtMMXptX21FVm9wV1gtX2cyVVVhNTI1bzVGckhOZHpnODVTcHBtaW9jNXRsUTBWZ2pGdVQxcDRVck11M3VsUHVJOExRcjRWUENMbWo2eklyRkkxaXJFdF9UQ3lGS3ZwU25DWEkyaGtsLUt2Nk90aEJ2WGVxam9zcVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Conexão Política",
+      "headlineJa": "ルラ政権、髄膜炎BワクチンをSUS域外に残し、ワクチンの使用を民間ネットワークに限定したままにする - Conexão Política"
+    },
+    {
+      "articleId": "gnews_8a28d196216f806e",
+      "headline": "BRUNO REIS DEFENDE ESPOSA E CRITICA JERÔNIMO SOBRE CASOS DE DENGUE EM UAUÁ - - Bahia Economica",
+      "headlineTranslated": "BRUNO REIS DEFENDS WIFE AND CRITICIZES JERÔNIMO ABOUT DENGUE CASES IN UAUÁ - - Bahia Economica",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T16:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZy1PV2d4VU15bmQyUVNUdTUzS0xPd09JWWZrSEJYX2l3cW5uc0FsazAyUjROSzZ0clp1dTdfRmlEemNyeVplZkV1TlBoYUREa0NrMHVsckUwSWZPYURiSXRHVlhqcVczRjNaZE56a28wdmg3OVQwVW54WEFCWkU3QWQtYlFkS2tWWXFrbFV4dUl5NDFUQ1I2T0tEMGdJNnl1Z0ZOVkR4c3ZvbTl1ZVEwVFRETTJJb2JZMDlv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Bahia Economica",
+      "headlineJa": "ブルーノ・レイス氏、ウアウでのデング熱症例について妻を擁護し、ジェロニモ氏を批判 - - バイーア・エコノミカ"
+    },
+    {
+      "articleId": "gnews_f5a2d7ef50f0eb86",
+      "headline": "SP amplia vacinação contra dengue para novos grupos - noticiasdoplanalto.com.br",
+      "headlineTranslated": "SP expands dengue vaccination to new groups - noticiasdoplanalto.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T15:57:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX082Mk9DVmdkeGdWTnFsbDdXN2FMWmRqYi1DS0cxUm1Qcl94Qm50cjlxXy15T0dhU0hrTVhOUXhqVnRtb0g1QldPaHpKOHY2Ym9IaGw3MnZvTjNfYVkyaEhKSWFScHFmdHc5OEFxOS11Q2FKcUR0RDAycnYxRXFjN18zQ0NGcF9FTXFZQWxBYw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "noticiasdoplanalto.com.br",
+      "headlineJa": "SP、デング熱ワクチン接種を新たなグループに拡大 - noticiasdoplanalto.com.br"
+    },
+    {
+      "articleId": "gnews_4015d50e7a20c5d2",
+      "headline": "Casos de dengue se concentram no sul do Maranhão; São Luís soma 372 confirmações - G1",
+      "headlineTranslated": "Dengue cases are concentrated in the south of Maranhão; São Luís has 372 confirmations - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T15:39:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNVk4dng5Skk1bnhJU2JUeFAwT2M1V2hhQi1DRXlXQVB1em54emVBdHhJTngwQU1uVXBlOEFFTTc2Y3NiX2l1QXVaQkJzaWFDQjVjMzlJckNFT0pFM1NYNTdkQWlRTVBDSmU5Sm5XX0FsRmNYNmg3aUUwQTludmg5R0tpTlgyRHQxQXBWSnZLSFZ6Z0ZzeVEtZWtCVGlaNmdic1NYaWp3c2puSXZfdzltNDJnVlFiNjRtZFFCaUxXaWRZTk1wRk5VaXVJUnBoUGxHaU1FTzJZc2VIZmpmNnZNVzBPOVF1d04wenk5aWw2dUFOcko5X0I5ddIB-AFBVV95cUxQNVk4dng5Skk1bnhJU2JUeFAwT2M1V2hhQi1DRXlXQVB1em54emVBdHhJTngwQU1uVXBlOEFFTTc2Y3NiX2l1QXVaQkJzaWFDQjVjMzlJckNFT0pFM1NYNTdkQWlRTVBDSmU5Sm5XX0FsRmNYNmg3aUUwQTludmg5R0tpTlgyRHQxQXBWSnZLSFZ6Z0ZzeVEtZWtCVGlaNmdic1NYaWp3c2puSXZfdzltNDJnVlFiNjRtZFFCaUxXaWRZTk1wRk5VaXVJUnBoUGxHaU1FTzJZc2VIZmpmNnZNVzBPOVF1d04wenk5aWw2dUFOcko5X0I5dQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Maranhão"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "デング熱の症例はマラニョン州の南部に集中しています。サンルイスには 372 件の確認があります - G1"
+    },
+    {
+      "articleId": "gnews_761e22b0b5c136aa",
+      "headline": "MS termina abril a três mortos do pior ano em óbitos por chikungunya - Correio do Estado",
+      "headlineTranslated": "MS ends April with three deaths from the worst year in chikungunya deaths - Correio do Estado",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T15:32:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3Q1N2tKZWdMUkY2RXF6Tm9GWlVCUEE4eEN4aGZITF9NbnhfQkV2YWRFeW1GZGRTY2FKM2FvUl9hbS1DbThOVE1xY28zMTJ2Q2hMeE1kcHI2QmJMa09JVE1zMWtCcnlmRVFxaDVVVnh1T3phYjVfeEk5bU82Nk8tbGJ2Uy1UM0h5d2x5OF9ZZEZqbWEtbWFKQUJycnZ3SUdPQnNPQl9QMnNCWV9xcmtFY3BZa1RXZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio do Estado",
+      "headlineJa": "MS、チクングニア熱死亡者数最悪の年の死者数3名で4月を終える - Correio do Estado"
+    },
+    {
+      "articleId": "gnews_a063585e87c55482",
+      "headline": "São Paulo amplia público-alvo da vacinação contra a dengue - Rondônia Dinâmica",
+      "headlineTranslated": "São Paulo expands target audience for dengue vaccination - Rondônia Dinâmica",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T15:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaks0QkVyQi1WV3dmRHNWZTVpOFRQdlc3Y2UxSDJCd3N6ek84RXVyRWgzbjlXRE1YSTl4LUdkbF9zVjdocGpQRUlpTXdaWGRNN3B3aVI2dmp1RWlIU0JLQllZSGNqV1dacnpKQ24xT09VS2IxUnM1cjFHSWZTSVljMEl1ZWxFZ0FIMEhPSnNNNzR4bGtkazRNQ0lGUVFtdTJmRE80d1FackthZTNTR1dMM0ZaQ3Y5cjl0Z2l6S0pR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Rondônia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rondônia Dinâmica",
+      "headlineJa": "サンパウロ、デング熱ワクチン接種の対象者を拡大 - Rondônia Dinâmica"
+    },
+    {
+      "articleId": "gnews_b75b059389e5daee",
+      "headline": "São Paulo amplia público-alvo da vacinação contra a dengue - Agência Brasil",
+      "headlineTranslated": "São Paulo expands target audience for dengue vaccination - Agência Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T15:07:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk1WRkxOdklqWnJNbkdIRzh2aF8yTDNiSjRVbFdBNGpuZGwyQ3VWVVBBRV9kVkplOFBFYmRrQ1VxZmsxTkNkVXNGU1pzbHd6RG1udUtqRURvS1ZBQkF4dlprcld1Z0NTdUNTR3JhRUY2cWpvaHozTjI1cUZnc0JvM3V5aUV1cWR2WGpGZlJORWVubDd1SEZncU85MTZHRlhJcEdaVUNKaVlYVzBKQjVVNg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil",
+      "headlineJa": "サンパウロ、デング熱ワクチン接種の対象者を拡大 - Agência Brasil"
+    },
+    {
+      "articleId": "gnews_618212516c89faab",
+      "headline": "São Paulo expande vacinação contra dengue para maiores de 59 anos - diário do estado",
+      "headlineTranslated": "São Paulo expands dengue vaccination for people over 59 years old - state diary",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T14:51:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVBwaVU0VXlUQXgxMExpT1h5V3BvaEJrVk9adWJwV3Joc2pPU2xQV3N5aGd3TGp0ZlBmazVCb0tOdzZXS1g3M1pNVlgzeEVRbHBkTW9rYjlQNVcwRXdtZ3FLRFVzeEJ0XzVKWXJ6MWRKdUlDQnpJcjREeVNHRVhGSkhzZjJrSE9FajBIS1AtOXM0Mjd1ZkxBY3J5akFOVms?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "diário do estado",
+      "headlineJa": "サンパウロ、59歳以上へのデング熱ワクチン接種を拡大＝州日記"
+    },
+    {
+      "articleId": "gnews_dd3a1a1a732abcf4",
+      "headline": "Três pessoas morrem em cruzeiro em meio a possível surto de hantavírus - Alô Alô Bahia",
+      "headlineTranslated": "Three people die on cruise amid possible hantavirus outbreak - Alô Alô Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T14:43:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1dTZVNtWExZbnd2Nzg5aG14N3BTVnJNbnVqTDBjTkFiSFFLUHhGQUVYNjd2enc1WG9qRWs0R3Y4VGVIUTZnSUZVdWVlbW9kd0MxdWtVbXYwWmYzNFF2aGZtZTFQYWZXUDZlbDVmcUVkMXBlbFg5Tnh4ZjluVTRJYnhoeE4tR3NJNXUzcjRQTko4WlFCWjMyaGIycWRQejlGMjgyUU5keS1XRkQxcC13WHhYMThVQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Alô Alô Bahia",
+      "headlineJa": "ハンタウイルス感染拡大の可能性でクルーズ船内で3人死亡 写真1枚 国際ニュース：AFPBB News"
+    },
+    {
+      "articleId": "gnews_930cb8610d9e3b7c",
+      "headline": "São Paulo confirma segundo caso importado de sarampo em 2026 - BossaNews Brasil",
+      "headlineTranslated": "São Paulo confirms second imported case of measles in 2026 - BossaNews Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T14:27:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaERLVmVBMXlkc1EwTXVqTWVDNVdJWS1ZcW1TYmZMdlU0QlhnMUJza3dUeTBfSm90UmFjWTF0ZDNnWGdvd3dOUXlQcFBTR2N6a2k3Vl9vSGxlYnVzMy01MXBnam5aMHU1RnF1Mmp6SFMtazA4ZkVhY0FoQzdESXExRGdBdzBHeEhQZWZjWWFKTzBzTmpJWkJIbE5paw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BossaNews Brasil",
+      "headlineJa": "サンパウロ、2026年に2例目の麻疹輸入例を確認 - BossaNews Brasil"
+    },
+    {
+      "articleId": "gnews_ee3bfb58f37b6517",
+      "headline": "Homem em surto ameaça familiares com facão e é contido por policiais no Piauí - CidadeVerde.com",
+      "headlineTranslated": "Man in outbreak threatens family members with machete and is restrained by police officers in Piauí - CidadeVerde.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T14:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSl9fUEd5WDJKZVF4LThDN0FJVHNHUW9ibDJhbE5lMkpqX2FhaGlyVTN2OUY4SVl4b2x2Um53aW13OUNUWmxaNzg1OWJJNnJGcm9WbGxPRVFhS25Xb25sa21YVDZfR2VGcEVOVHFwUi1HekMzaUdtU1dMa0xaYVRjOEtVa2xYbzhJRnRRbjMyTzdBVFdQSUdnSU11azZoenhuMjM0dFdJb25qcTVmMFJrdWxfb28wN1hyV2ZrcldRNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CidadeVerde.com",
+      "headlineJa": "ピアウイ州で感染爆発の男性がナタで家族を脅し警察官に拘束される - CidadeVerde.com"
+    },
+    {
+      "articleId": "gnews_254eac730db9f670",
+      "headline": "Surto de hantavírus em viagem marítima preocupa OMS - gazeta24horasrio.com.br",
+      "headlineTranslated": "Hantavirus outbreak on sea voyage worries WHO - gazeta24horasrio.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T13:48:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2pCbWRWajFZbnE4QzJ5RU1QbzlsUzNGUDNfVE53a215b1N2cUdMcktuWnNtYVdod0w0QzNRcktTWVdYVEVvU1FsOVNYWnh3MUhCNHQzOG0xYmhUU00wU2M5Q2p3R1hnVXZvMWdvTWtlb1VtWkVDSUtjejl6X2RqQmZKRmNhTGZydF9VbDdSa0twMjNTWGxjd0NR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "gazeta24horasrio.com.br",
+      "headlineJa": "航海中のハンタウイルス流行、WHOを懸念 - Gazeta24horasrio.com.br"
+    },
+    {
+      "articleId": "gnews_faea5cb50f585262",
+      "headline": "Quem tem 59 anos também pode se vacinar contra dengue a partir desta segunda (04) - Jornal da Franca",
+      "headlineTranslated": "Anyone aged 59 can also be vaccinated against dengue from this Monday (04) - Jornal da Franca",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T13:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnJqQ2lYanNHMVB0RjdzYnU1dHBZX2NZbGxJNE9ESXcxX1lpQ25TLTBhWVVtMlB3dHpNZEE1S2lwdFlqRWhKenRDaXYtQXR6akhkSTZxYnNRWHVUT1FHNURUdC03SDVVWTdqYmZrZU4wVS1lTmFHTDNVNmItb2E4M1Z5bVplVWk5V3V5dVlHbGFsbWc4V2VCWXR6NS11VDJVTS1TcHBMRm1waE5QUmlWSTU5VU5vRk8z?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da Franca",
+      "headlineJa": "59歳の人は誰でも今週月曜日からデング熱の予防接種を受けることができる(04) - Jornal da Franca"
+    },
+    {
+      "articleId": "gnews_c029d52b7e5ecd24",
+      "headline": "Alerta no Embarque: Campanha contra o sarampo foca em viajantes da Copa do Mundo para blindar o Brasil - Gazeta News Guarulhos",
+      "headlineTranslated": "Boarding Alert: Campaign against measles focuses on World Cup travelers to shield Brazil - Gazeta News Guarulhos",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T12:52:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVU14NmJwQU1FWkkyQnBPSFVRUDdUNk9JMnhTcHNvXzNVQ0RtVF9qOExxV3JVazJWekJnZ1hrbXUwQV95aGVReGtvMXE1RnUyWjI3Rk8zdWxLX2t4d1V1SjUzdldIX0g2M3RlOTFlekVaMDQ2emdlc2VjbTYyRG1BQWhwbkRnYW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Gazeta News Guarulhos",
+      "headlineJa": "搭乗警告：麻疹撲滅キャンペーンはブラジルを守るためにワールドカップ旅行者に焦点を当てる - Gazeta News Guarulhos"
+    },
+    {
+      "articleId": "gnews_f2315d38a6a508cc",
+      "headline": "MS registra 8.894 casos prováveis de chikungunya em 2026 e confirma 14 mortes, aponta boletim da SES - Idest",
+      "headlineTranslated": "MS records 8,894 probable cases of chikungunya in 2026 and confirms 14 deaths, points out SES bulletin - Idest",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T12:43:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa1ZlUGlDRzQ3SnRMcEx4X1VrRGFWZ3pJc29Gb3dTalRYZW8zd0ZRenpwaGlONmY2TkpDcWd3R2JTa1FUNXhEUkZ5cWFvWDRQQ2xaY1U1VGt5MmVhQVZHbUhQQ3pTczdkWGlXanZUUG1teVFUNXFaQzlsenhOYUdhRmp3UUpwc0F6N1VhSEVibV9CdXREbHlQWnZoOE5nN2FMc1ZEcGY2dTdSUGFONjMwelVhZExDREsyREdVMVBfYXRVZjQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Idest",
+      "headlineJa": "MSは2026年に8,894人のチクングニア熱感染の可能性を記録し、14人の死亡を確認、SES速報を指摘 - Idest"
+    },
+    {
+      "articleId": "gnews_31674e505e070862",
+      "headline": "Homem em surto é desarmado pela PM após ameaçar moradores no Piauí - Conecta Piauí",
+      "headlineTranslated": "Man in outbreak is disarmed by PM after threatening residents in Piauí - Conecta Piauí",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T11:56:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzdvMmRlQWFtYXRpT1BJN0RjQmZOemN2QUs0OVhpVFMtbkQyNFJOb1VjRkhsbDlNVkJRY0hPWF9jZ3dwcGhQRUJxY0QtVkoxUmlQSThwb25xaXc3WksyX0Zobm4yajVrSFc1UU9HQ0hoVWNTQUQwa1ZXTGFVc3RLb0luNW1HTHRHaDRMdl8zNlFGTG9GS0pmVGcwUHRLbWIzU1VyZHZhUFlvSXhkbHE4bHRLUXdmcG9zN1JUSEhPV294OHZMOVHSAcsBQVVfeXFMUDNwY2dCYXo1LXc5QXdqWl9iWVYxQmZvRU9UYWVCUzZoRmM2RHZiTjVxT00yYUdSSFk5Ykg2a0xZNEs5T3NUS2ppeFlQellrV0IyV1dIMjFnNUdxYlFiWHZWMmdHQnNHOVdkem1XX0FMakkzcHJfSms2ZnR4SXpIOG9hODZUQ3kybEZ1ZGEtY0pXcTBtOUU5Z0x2SnNBVjhDWGMydTZiVlc1Vjd1NVhmZWNMQXlaeUZrSjFMLVVIOFUtdDNKaEdpQmlZR1U?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Conecta Piauí",
+      "headlineJa": "ピアウイで住民を脅迫、流行中の男性を首相が武装解除 - Conecta Piauí"
+    },
+    {
+      "articleId": "gnews_4edfa83035412b7d",
+      "headline": "SESAB REBATE PRIMEIRA-DAMA DE SALVADOR SOBRE DENGUE EM UAUÁ E DIZ QUE ‘DOR ESTÁ SENDO USADA COMO PALANQUE’ - - Bahia Economica",
+      "headlineTranslated": "SESAB REBATES FIRST LADY OF SALVADOR ABOUT DENGUE IN UAUÁ AND SAYS THAT ‘DOR IS BEING USED AS A PANEL’ - - Bahia Economica",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T11:54:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQk5idkVua3RPMGNiUHg1dm1Rc1VTNXFIa2xHc0tRa0NvdE1kY3NwQWtZeEVCa3Z6LTR4SkRYdHdycFpjR1gwQ0h0Um00aXlJQk94aHBwdzhZRWM2eDdIcU93YkJ0YldrQWIydzFQd1lYOENlQnJ1US1MQllMWmRQaFhhLUh5T0dsSk9iU1ZfaWNiSmI2eC1DTHlOZEEtN21mV2x0MFNXNGN0LUplS1ZoT2VIR0NRNGJNa01TdlB4RFpmM3JUZldNZmVNaDNONjdwWkd5aDMxTTNmeUxlRWNSdEEyVQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Bahia Economica",
+      "headlineJa": "セサブ氏、ウアウでのデング熱についてサルバドール大統領夫人を非難、「ドルはパネルとして利用されている」と発言 - - Bahia Economya"
+    },
+    {
+      "articleId": "gnews_a0de14d0a79d6b03",
+      "headline": "Estudo aponta pico de mortes por dengue no Piauí - Notícia da Manhã | CV Play - CidadeVerde.com",
+      "headlineTranslated": "Study points to spike in dengue deaths in Piauí - Notícia da Manhã | CV Play - CidadeVerde.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T11:39:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmp2R3BBNHY2Q01ERTZBODV0SkJEazBCVUFHc1U5eEtMTGhtVUJJa2lnb1pYMHJ2R3JLNGQtWW9aTlZISmlWNnJOS0h3bGo2T201c3IwSElGMmVHYVZ4TEQ0aDd6aEpkMUpua0VjUXdqb3p0UEcxOERxSVpWNEZYMVpRUy1CVDlIVDdZVHY4LUdaQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CidadeVerde.com",
+      "headlineJa": "ピアウイ州でのデング熱による死亡者数が急増していることが研究で指摘される - Notícia da Manhã CV プレイ - CidadeVerde.com"
+    },
+    {
+      "articleId": "gnews_d7a69d26810b3225",
+      "headline": "Jornal Midiamax. . ↗️Discussão termina com cliente morto por dono de bar no Santa Emília ↗️Funciona? Campo Grande tem 187 pontos de wi-fi gratuito que dividem opiniões ↗️Onça-pintada que comeu cadela em Corumbá é capturada para exames ⏰ - facebook.com",
+      "headlineTranslated": "Midiamax newspaper. . ↗️Discussion ends with customer killed by bar owner in Santa Emília ↗️Does it work? Campo Grande has 187 free wi-fi points that divide opinions ↗️Jaguar that ate a dog in Corumbá is captured for exams ⏰ - facebook.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T11:38:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFZDN2l3V2lFb2Vycjh1UldEbW5yUXhaWnBOQWRqcV9hYW5hbWRqajhyR0ptYm1MZEhxdHotTnBTRGFvMnB6TndIcS1IY08zMHZYV1VYaklOdVFzT21FQnhmTmFtQkJPYVVmRGIxZ2JsWHdQZlVYSVU5dnVkeERYa3lJN1k2ZlZFWGpXUE1pblc0aWVieVRRaGYxZ1ZjaU9WSkREVEZkWTFZYU1hRDBRS2ZZYnFkamNLTnZCMHI2QmFlSktWalhxNnpqcDh0NnV1WWE4bWppcWxpaUpr?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "facebook.com",
+      "headlineJa": "ミディアマックス新聞。 。 ↗️サンタ・エミリアのバーのオーナーが客を殺害したことで話し合いは終了 ↗️効果あるのか？カンポ・グランデには意見が分かれる無料Wi-Fiポイントが187か所ある ↗️コルンバで犬を食べたジャガーが試験のために捕獲される ⏰ - facebook.com"
+    },
+    {
+      "articleId": "gnews_6ebf9de3baa4fa02",
+      "headline": "PRIMEIRA-DAMA DE SALVADOR COBRA JERÔNIMO APÓS CASOS DE DENGUE HEMORRÁGICA EM UAUÁ - - Bahia Economica",
+      "headlineTranslated": "FIRST LADY OF SALVADOR COBRA JERÔNIMO AFTER CASES OF HEMORRHAGIC DENGUE IN UAUÁ - - Bahia Economica",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T11:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVhEVy1aU2k4dmV4UWZUeTFOYTJDOWd3TFdCMVE4TU55VFctRm15Q0E3VVdrVEVfRkZ3amdjc2RYZ3ktdzh3ZzJKUXpza1RXeEpFQl91OXJLU2tVbUlmWHZEUm9YQ3Fsa09UbXBPZ2ZXckxfejNFek1Dbl9iVERjTEdSMGZOTG0yMjNWVmM0WXBXcW8xa1pxR1MtelZxd08wQm5UelVsQkhsQnRrb0RFRVc0LVJhSEtPRDg5T2dSTEQ5MzFo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Bahia Economica",
+      "headlineJa": "ウアウで出血性デング熱患者発生後、サルバドール・コブラ・ジェロニモ大統領夫人 - - バイーア・エコノミカ"
+    },
+    {
+      "articleId": "gnews_a024bc61d9c9bb19",
+      "headline": "Homem em surto psicótico ameaça familiares com facão e é contido pela PM no Piauí - G1",
+      "headlineTranslated": "Man in psychotic episode threatens family with machete and is restrained by police in Piauí - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-04T10:21:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGhMTk5oRWJaZFM5N050S1pqdmpEMnZyRWpXS2Z1cnZ4Mzl5dm9sdThLY01KckROUC00R0tnbjQwZ1FKMEU3UG5OWkpIMXVrQUV6dWRDZWp2RUZxa0lwV2JzUVdYRnRFSlRtbDlUdEFNbHRqd2lJVDVTTHVpRzM0WVJmRlTSAZMBQVVfeXFMTVBzVVRIYXdiNGl4VEdFeUZvanFFOFRSczMwVUpqZDV4ZFl0b2VGVGxUX1lNNWR6UzhVblBUa21aTUY1MGxKR1M1a2pER0p4UU5GMFdUY1JNWkQ5XzBpMkx6cjM1RDFwX2RwYjhqYXQ2SldSQk5Lam02TWxpOG9NV1JlX3RIUU5yRXpvYjktXzFEUE9F?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ピアウイで精神異常の男性がナタで家族を脅し警察に拘束される - G1"
+    },
     {
       "articleId": "gnews_7afa297f43f0a42a",
       "headline": "Vacina é principal proteção antes de viajar para países com surto de sarampo - Diário de Petrópolis",
@@ -225,9 +671,9 @@
       "headlineJa": "SP市庁舎、デング熱ワクチン接種の対象者を拡大。詳細はこちら - CNN ブラジル"
     },
     {
-      "articleId": "gnews_3d34e9828930f715",
-      "headline": "Após apelo sobre dengue, primeira-dama de Salvador é cobrada por crise na saúde municipal - Jornal Grande Bahia",
-      "headlineTranslated": "After appeal about dengue fever, first lady of Salvador is accused of municipal health crisis - Jornal Grande Bahia",
+      "articleId": "gnews_aed4fb02955f43d2",
+      "headline": "Após apelo sobre dengue, primeira-dama de Salvador é cobrada por crise na saúde municipal - jornalgrandebahia.com.br",
+      "headlineTranslated": "After appeal about dengue fever, first lady of Salvador is accused of municipal health crisis - Jornalgrandebahia.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-03T15:58:40+00:00",
@@ -241,8 +687,28 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Grande Bahia",
-      "headlineJa": "デング熱に関する控訴後、サルバドール大統領夫人が自治体の健康危機で告発される - ジョルナル・グランデ・バイア"
+      "sourceName": "jornalgrandebahia.com.br",
+      "headlineJa": "デング熱に関する控訴後、サルバドール大統領夫人が市の健康危機で告発 - Jornalgrandebahia.com.br"
+    },
+    {
+      "articleId": "gnews_5c684be01d5535f8",
+      "headline": "Piauí intensifica ações contra dengue em alerta estadual - piauihoje.com",
+      "headlineTranslated": "Piauí intensifies actions against dengue in state alert - piauihoje.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T15:22:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnB5TEdVS2pZc2lJQUxpN08yTmxOc2NmOXVVcFlKSDFIUHl6WDV5T0lWNl9vZkYzX28tWWYzQ3lNYnl6LWNRcGlCMzl0ZGM5NnpVRDZPUl82TDRzUFhlcTBQUmRSRkNma1lKSjZjeWN5US1uQkJMQXVQaF9WaFlyWk9tQWFPY0w1Um5WVUhmSEdJRFRRZlpmZ2dSTEpqU0lYT1U3cnlOR0NYMHhaNlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "piauihoje.com",
+      "headlineJa": "ピアウイ州、州警戒でデング熱対策強化 - piauihoje.com"
     },
     {
       "articleId": "gnews_585c6a15d2b2b83f",
@@ -386,26 +852,6 @@
       "headlineJa": "サルバドール大統領夫人、ウアウアでのデング熱死亡を受けバイーア州知事に訴え - エデネヴァルド・アウベス"
     },
     {
-      "articleId": "gnews_ce1f3d4bee5830cb",
-      "headline": "Um homem, identificado como Yuri Gabriel Soares da Silva foi preso em flagrante na noite dessa sexta-feira (1º), após conduzir um trator sem autorização na BR-135, na região do Cajueiro, Vila Maranhão, em São Luís. Segundo a policia militar, ele fazia ma - instagram.com",
-      "headlineTranslated": "A man, identified as Yuri Gabriel Soares da Silva, was arrested red-handed on Friday night (1st), after driving a tractor without authorization on the BR-135, in the Cajueiro region, Vila Maranhão, in São Luís. According to the military police, he was doing something bad - instagram.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-03T03:43:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tbVdGLTdqc3k0bVNyQ0MwVjB5dmRfWE95WnR1ZmdRRW9QYXVPVDFPQ2FoTi05NlZKZHhQcXluek5mNm9uaE5uWlQ2S09CYU5NVkhKWWNn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Maranhão"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "instagram.com",
-      "headlineJa": "金曜日（1日）夜、サンルイス州ヴィラ・マラニョンのカフエイロ地域でBR-135でトラクターを無許可で運転したとして、ユーリ・ガブリエル・ソアレス・ダ・シルバとされる男が現行犯逮捕された。憲兵によると、彼は何か悪いことをしていた - instagram.com"
-    },
-    {
       "articleId": "gnews_9c61a73d0a6f9431",
       "headline": "Morte de bebê acende alerta para maior letalidade da meningite em SC - Metrópoles",
       "headlineTranslated": "Baby's death raises awareness of increased lethality from meningitis in SC - Metrópoles",
@@ -444,106 +890,6 @@
       "dataSource": "Google News",
       "sourceName": "Se Ligue Bahia",
       "headlineJa": "レベッカ・カルドーソ氏、ウアウアでのデング出血熱患者発生を受け、ジェロニモ政権に措置を要求 - セ・リーグ・バイーア"
-    },
-    {
-      "articleId": "gnews_892b948ccfd7f557",
-      "headline": "MS fecha abril com 14 mortes por chikungunya e quase 9 mil casos prováveis - RCN 67",
-      "headlineTranslated": "MS closes April with 14 deaths from chikungunya and almost 9 thousand probable cases - RCN 67",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T14:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlFTNFJHU0FXcTZyQVhuQVRJVGZpbUlhVmJWRUJsZFF6bHhfYW9SajhkOHVLOWw3RGh3cDRtX29Pak5lTnRVelZycXhITHQtM0R0QmwyQm1nRE95TVZ1cXF4MVNJOWU0YXYtaG1nWDdCMjNqbzBIR1c5N1lyTTRyRWZfNnJ5OHVXLWtlTXpVM1J6ZWZvU1RKWXFfWjk3RE5rbkoxTUcyeVQzUk1SdUZQLVU3RQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "RCN 67",
-      "headlineJa": "MSは4月をチクングニア熱による死亡者14名、感染確率約9,000名で終了 - RCN 67"
-    },
-    {
-      "articleId": "gnews_e686812a5c9662d4",
-      "headline": "Piauí registra pico de mortes por dengue em abril e maio, aponta levantamento - Portal Lupa1",
-      "headlineTranslated": "Piauí records a spike in dengue deaths in April and May, according to a survey - Portal Lupa1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T14:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUUyay1vQ2s2dlRDa2RZVUlCYkJZdEFHcXpUZUEzUU5ldTk2QVd0bW9ZSk1oM0poMVJWVlFSRlpSUjVRWWFiZHA3emJxQnhIN0pUdE55YUZQY2E4RnFkYWJhYk9oc1ItWG51NmpHNy1tZFFfOUtwOUJXZVByLTQ0UmdyVVRwNVR3d29Hc2RvcmM1YzhjSVVZbl9wcU5tdkYwUDIzRGFkcXE1WDZLZ1pfQkVVVDF2ZTN5c084MExZdHM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Lupa1",
-      "headlineJa": "調査によると、ピアウイでは4月と5月にデング熱による死亡者数の急増が記録されている - Portal Lupa1"
-    },
-    {
-      "articleId": "gnews_95168c4f1d5dd9bf",
-      "headline": "Bebê de 6 meses morre após ser internado com meningite em SC; dose da vacina estava atrasada - G1",
-      "headlineTranslated": "6-month-old baby dies after being hospitalized with meningitis in SC; vaccine dose was late - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T13:57:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVU54VTRycURJdTktNU44YU4zWnhRTXNWelFFa0JLNjFoRUdZMk5TcGdCa3VMMFBMQ0c4RDktNHRBOHNrVzc3OEhxVFVoLS1vbEg4Wkc3RVc3Z0dja0pIbmV3V19DcFJ0QmtBd3RvTXBtQmRWVlNRb25vSUhsYzUteUlDVXJwTG00UHpPT0hXbk5MSVFOYXRJWXdSY2tJeXRNdVBkbm8ySmZUQTlsUVEtWTV1dHZSd0hoNktZRTgxcU5WV3dzeUZKT0QwUdIB2gFBVV95cUxQNlZlai14TXM0VFJDc24tY3ZYb1p1U2MxUkx6VmpqeWdWVm1GdWNOU29XaXY4bGRyNmtVNTBROFMtTXBwX2g1NkJpenBvSUdwRmphLWhKamNyZ0JUSkFsc0FXMzNFdFlvTTlhaDc0X1g3TzVrSnMzb0hWbmJkcC1RN2oxdWk1dlkzUktVTENwZEpwSGlEMjFsUW5ZYlBRSjZQbmJpQmZtMHZKR3NuZzlzSWpLYUFySmZWRFBiVndYRmQwcEtXSExtc0UybHYzZlRRRFg0Y2lZalREQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "生後6か月の乳児がSCで髄膜炎で入院後に死亡。ワクチン投与が遅れた - G1"
-    },
-    {
-      "articleId": "gnews_8f02c3ee3f7a7a47",
-      "headline": "Brasil registra queda de 75% nos casos de dengue, mas Acre permanece em zona de alerta alta - Juruá Online",
-      "headlineTranslated": "Brazil records a 75% drop in dengue cases, but Acre remains in a high alert zone - Juruá Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T12:38:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHduRTh2eHpWX0RwdFh3LTdsaE8tSG5QRWVINlY4OF9scy1jT1B3Y0NRc3d2UGZxYzczb3ZJUkFMaUtVdERTRFdvQ09RZkx1N0Rta18xUEhJQTEta09nRkJxa0NHUnNROUI4MTJhLUt5eDlOcmdKOTJ5RmF6dTB5X3lWbzY2SVEtU3FjNVJqSzNyN0NGUnhORGQwbFV5M1Jzc0h6VGNpXzFPdGp4NjNzS3pPbDNVUHVi?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Juruá Online",
-      "headlineJa": "ブラジルではデング熱感染者数が75％減少したが、アッコは依然として厳戒地帯にある - Juruá Online"
-    },
-    {
-      "articleId": "gnews_7f9633b08fdbcced",
-      "headline": "CIATEN: dengue mata mais em abril e maio no Piauí, diz levantamento - Conecta Piauí",
-      "headlineTranslated": "CIATEN: dengue kills more in April and May in Piauí, says survey - Conecta Piauí",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T12:15:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmwzZE1US2ItNkZ6TjhRVW9rNGFDZDRCbFlKcW9YYzZ5SXBVUk8ySEppUkVHS2FKZ2pySkhPaDFkYWVuWnFERWF6cnJqc0NYUUhOMy1GeVRMSTRHS0I5SXhGUDQ1UG9mM3JkTVZWZEk4ckQyX3AxMUVMNmlwODJSeTNZbDhBemFsSmFlV1VTaEhpekNfYTk3Qm5ubnppREt1UlI4UHlPWmc1Z2h2bjUwWEhUZHQ5eVk4M2d6OG81a1rSAcYBQVVfeXFMTTBvYlp6bnpSZzBWT3dwWVhPa0xldUZNajYyZjEwM1lkV0UyRVE4UHhLY1BGUkJFY0hnT3l3MDV5MnE1WXJPNE5kbG1qUUtjZXpwNUVnSW1TamV5VDhvUnlSU2VYcmdnTk5mcUdVVTk0enRnQVJyNVU0dWV2N2MyVHNNLTRWNWhnRU9LaTA5ZHc3blZ5UDV2dFMweVlGNTNTM0hRUGE4OGprTmZ2ckIwT3NYNVJ2cU5WbG1mYkpOb2w2RzZxSlR3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Conecta Piauí",
-      "headlineJa": "CIATEN：ピアウイ州では4月と5月にデング熱による死者数が増えると調査が発表 - Conecta Piauí"
     }
   ]
 }
