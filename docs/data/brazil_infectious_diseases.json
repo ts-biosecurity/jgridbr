@@ -1,30 +1,149 @@
 {
-  "generated_at": "2026-05-03T17:02:01.096722+00:00",
+  "generated_at": "2026-05-04T03:36:20.787706+00:00",
   "date_range": {
-    "start": "2026-05-01T17:02:01.096722+00:00",
-    "end": "2026-05-03T17:02:01.096722+00:00"
+    "start": "2026-05-02T03:36:20.787706+00:00",
+    "end": "2026-05-04T03:36:20.787706+00:00"
   },
-  "total_articles": 27,
+  "total_articles": 28,
   "state_summary": {
-    "Brasil (estado não identificado)": 10,
-    "Bahia": 7,
-    "Pará": 3,
-    "Piauí": 3,
+    "Brasil (estado não identificado)": 6,
+    "Bahia": 10,
+    "Piauí": 7,
+    "Pará": 2,
     "Acre": 2,
     "Maranhão": 1,
-    "Mato Grosso do Sul": 2,
-    "Mato Grosso": 1
+    "Goiás": 1
   },
   "disease_summary": {
-    "Dengue": 14,
+    "Meningitis": 2,
+    "Dengue": 21,
+    "Yellow Fever": 1,
     "Doença infecciosa (não especificada)": 2,
-    "Meningitis": 1,
-    "Avian Influenza": 2,
-    "Influenza": 2,
-    "Chikungunya": 4,
-    "Measles": 4
+    "Chikungunya": 2,
+    "Measles": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6bc8a9883484297c",
+      "headline": "Psicóloga de 25 anos morre por meningite; família vai doar órgãos da jovem - Terra",
+      "headlineTranslated": "25-year-old psychologist dies from meningitis; family will donate the young woman's organs - Terra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T20:29:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYkQ4RFdmUW1Xazd6SXdLWUdzMHdOV0dUekdZbDJmclVDUzZLRUlDY0JXNDl3Um9LT1pzZlBFUE5KbFFNUjJXSFgyY1BBYjhLMG45N2FiQ2p1OW9YRWxKeHFuQnlteXV1bDRyYzJhc3l5eGszTGY0cWxULUw0eURTYlZiRUlXYzFaTE5SQ1VSRktJdXYtMzhpMnBwUUdTUmt1LWtqZU9aMmJnZVR0WWFHZW9UZDcxbTZ1RkpMeU1oeXdVQ0VyMWZlY25IQ0NfNmN6VnJEM2xtWktBYmQtaFBLekF6RkF1NURQd2wzSGZfZ21iQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "25歳の心理学者が髄膜炎で死亡。家族は若い女性の臓器を提供する予定 - Terra"
+    },
+    {
+      "articleId": "gnews_aa189d57f40f475b",
+      "headline": "Primeira-dama de Salvador cobra governador após casos graves de dengue em Uauá - Bahia.Ba",
+      "headlineTranslated": "First lady of Salvador demands governor after serious cases of dengue in Uauá - Bahia.Ba",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T19:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlV5WmtlOFRwU1JGVURfZ3VDdS1PMzVSdnNCb3Z2V1phN1NnYXFnSkZJTWdSRUJMOGl3VXJTbk5iTU5xaXNIVFo2VGhkektjb0dsdjdZcm5xZW4wNjZZNlJNa2MwNktPOXBzektId0tCcGszaWhScnkzb3F2djVkNzIxa18ySGxCbmkwN28zWHVFc1RfakVBUXdKM1d2Rzd4aTNTaUFWNlY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia.Ba",
+      "headlineJa": "サルバドール大統領夫人、ウアウアでのデング熱重症例を受けて知事に要求 - Bahia.Ba"
+    },
+    {
+      "articleId": "gnews_55d1eb5af913b3f9",
+      "headline": "Febre amarela e dengue: saiba diferenciar os sintomas das duas? - Estado de Minas",
+      "headlineTranslated": "Yellow fever and dengue fever: do you know how to differentiate the symptoms of the two? - State of Minas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T19:39:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUVBdW9YQW1iMkFwUGczMHZiU0pEUUFza00xM2xHUko0elRnanZMUUp2c2hwbnlQMTQ3UVRYUmtWVDBRR1BIb2tKYkRnV0M5VGVBOVY4cXRKbkk4Rm9FWUNhSUItTXNWYk5ZNVRsMzJzb0poVHBoaFBZVmlqYi1MWTRQb1VWWlVvWXZUeHhCenNlaHcxWVNqZHRKbTZtendoLTdBZGhEMWtUZHR1anNxYnhMMXXSAboBQVVfeXFMUEo4d1ZTeVpGdFRRaVFDMHM0N0RmdEgyU3VneF91aURiWHhTX2RwZ2g1VjRKRUhUT2x6Z1JhT3NvTXdlVk9UUURJUGxnUDh1MUNoZnZQNll2RWc1VEdGYTZoRDNtbHhkMDRiRFhRblM3N3psQTl2anpSYUg0dVA0YS0xRzRaWUtfR2RNaU9WRDBhVGVBUjk3ZkRHU2FGeHJlRWVTM0J0d3VYWWtEUmdZM2tpYWhrUmJzalJB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado de Minas",
+      "headlineJa": "黄熱病とデング熱：この 2 つの症状を区別する方法を知っていますか? - ミナス州"
+    },
+    {
+      "articleId": "gnews_cbdf25debef45cd1",
+      "headline": "Bahia registra cerca de 8 mil casos prováveis de dengue em 2026 - Portal Tela",
+      "headlineTranslated": "Bahia records around 8 thousand probable cases of dengue in 2026 - Portal Tela",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T18:18:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkRRVHBzZTFBZXNxWWFhTjdwVXJZTUJZOE5kMWNVX3poQ3ZQdWs0M0RLb3gtYUM3LTRJb0lHamF4OUNNVlVvdUZpR3UwcTV5Ym9raVBreGRrTi1ST1R5YU9wdjN2MzZEZ1pvR19MeWFtS1lVbk9iZ0YxcXhDZXJKUF9oaFdMUFdLNGZMMnVZNm5qMmdXTWN2MkZWbENXczJKWVZtRlMzM1FNajJ3RE01TXdWd3ZyVWo5dm5Z?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Tela",
+      "headlineJa": "バイーア州は、2026年に約8,000人のデング熱感染者を記録 - Portal Tela"
+    },
+    {
+      "articleId": "gnews_f308542076dfd280",
+      "headline": "Bahia registra cerca de 8 mil casos prováveis de dengue em 2026 - CNN Brasil",
+      "headlineTranslated": "Bahia records around 8 thousand probable cases of dengue in 2026 - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T18:08:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJhc0Y1RkdFbDZVcHFidkNDZHJ5NW5ZSmNDZy1YMmtmeW95WS1fRmI3V1BOTGlHWnNVN2lpckJDeW9HOGoyYTZKS2RJMDFKeHFtVXAwSXZOTm1uWjZObXEtN1BQZl9lclNGZnJIeE1fUGFpSDNaSkxOc2lLQVNhRHJaRENDMzlHQ2l2WWJUVWx6cmY2QzlpYlhvdm9tUGdGUFYzbFlkTmJUTjJpTDNpQkVRdGY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "バイーア州、2026年に約8,000人のデング熱患者が発生する可能性があると記録 - CNNブラジル"
+    },
+    {
+      "articleId": "gnews_50137fbbec508156",
+      "headline": "Ações de combate à dengue são intensificadas com aumento dos casos no Piauí - Viagora",
+      "headlineTranslated": "Actions to combat dengue are intensified with an increase in cases in Piauí - Viagora",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T17:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXIwTVdiOVlNaGc2ZDgtWDRGejVZYUpzNExwMjBhalc5VHR6b05KRDUtNVVKTEdwVHlIaHVub1lFSGZUMk5tTnpOc1pCSUpXZ0l4U3lGSTg2cS1yS1BGbktoUnRpLWhKX0FybXBSbUlTZjh3VVdHWjYwaUVkVWsyNEtHdC1OeG1EMjN0TXlKUDBQSnVvQ05Kb09FYmRqTER0Wms4RzFudDExaHFiUi1iV0txM3JfTGVpZk5GLXR4UzNmdXVrazhnTnFsVHJLLW1Gb29z0gHYAUFVX3lxTE51M2ZyWktjYk00TEtvdVo5TmJTUF9YenllSENRUk81ZHpNMTdRWkFWbnUzVFBwazNVbEtheWFYRmhBNmFvWjJHME5sZFpBN1V4N3JWS1llVVVJOUtPZEZ0M25PQ0JZcVotc0RBRFZHUHV1cVRQbGI1d3hDdEx0akxSSGtWOTdYTUNRVnA0YURLbDFoUnNNODVtZkdVRjF6VkdFMnJFVEV5OFp5Z01KRGp6UVFCVHdSU1VBRTdPdUlUcHdYaUpMREpsZG00b29ySWcwejdWOU9TVA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Viagora",
+      "headlineJa": "ピアウイ州での感染者数増加を受け、デング熱と闘う活動が強化 - Viagora"
+    },
     {
       "articleId": "gnews_0befdb88c00f16c9",
       "headline": "Prefeitura de SP amplia público-alvo da vacinação contra dengue; saiba mais - CNN Brasil",
@@ -66,6 +185,26 @@
       "headlineJa": "デング熱に関する控訴後、サルバドール大統領夫人が自治体の健康危機で告発される - ジョルナル・グランデ・バイア"
     },
     {
+      "articleId": "gnews_5c684be01d5535f8",
+      "headline": "Piauí intensifica ações contra dengue em alerta estadual - piauihoje.com",
+      "headlineTranslated": "Piauí intensifies actions against dengue in state alert - piauihoje.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T15:22:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnB5TEdVS2pZc2lJQUxpN08yTmxOc2NmOXVVcFlKSDFIUHl6WDV5T0lWNl9vZkYzX28tWWYzQ3lNYnl6LWNRcGlCMzl0ZGM5NnpVRDZPUl82TDRzUFhlcTBQUmRSRkNma1lKSjZjeWN5US1uQkJMQXVQaF9WaFlyWk9tQWFPY0w1Um5WVUhmSEdJRFRRZlpmZ2dSTEpqU0lYT1U3cnlOR0NYMHhaNlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "piauihoje.com",
+      "headlineJa": "ピアウイ州、州警戒でデング熱対策強化 - piauihoje.com"
+    },
+    {
       "articleId": "gnews_585c6a15d2b2b83f",
       "headline": "Sesab rebate críticas da primeira-dama de Salvador e nega falha em regulação após morte por dengue na Bahia - Muita Informação",
       "headlineTranslated": "Sesab responds to criticism from the first lady of Salvador and denies regulatory failure after death from dengue fever in Bahia - Much Information",
@@ -83,7 +222,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Muita Informação",
-      "headlineJa": "セサブ氏、サルバドール大統領夫人の批判に応え、バイーア州でデング熱による死亡後の規制の失敗を否定 - Much Information"
+      "headlineJa": "セサブ氏、サルバドール大統領夫人の批判に応え、バイーア州デング熱死亡後の規制の失敗を否定 - Much Information"
+    },
+    {
+      "articleId": "gnews_3f2b59e5e6e4e0af",
+      "headline": "Mortes por dengue no Piauí aumentam em abril e maio, aponta estudo da UFPI - piauihoje.com",
+      "headlineTranslated": "Dengue deaths in Piauí increase in April and May, according to a UFPI study - piauihoje.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T14:53:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFZSbVNneVp5UHprRmFTUW91SEZZQ1BTYTRPbzVZZjBKRkI1TmRpamdWWmc2dFBUOGVvYzkzeE9sZ0FLR2hRTGlqV3VJV1NzSzJtaElDdU9PTllEQmdpZE1CQ0V0OGpsT1pySkNTLUxPUTlrNTM2RG4xRWRYQjNqRlVrbzExcVd1blMybkJaaWlIdFBWSENmVUR4UVNfcjZkRWhzQU1hcW00ajJkVEQ0NG5uOGMxQ1Vja2VfQ1FOV1RaWjdu?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "piauihoje.com",
+      "headlineJa": "UFPIの調査によると、ピアウイ州のデング熱による死亡者数は4月と5月に増加 - piauihoje.com"
     },
     {
       "articleId": "gnews_7e1d35a0d36c652a",
@@ -119,8 +278,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Bahia"
+        "Bahia",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Taktá No AR",
@@ -145,6 +304,26 @@
       "dataSource": "Google News",
       "sourceName": "Diário da Guanabara",
       "headlineJa": "デング熱が再び増加しており、ブラジルの専門家を心配させている - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_7ba61fcb20f187d0",
+      "headline": "Governo do Piauí fortalece estratégias da rede de atenção à saúde no combate à dengue no estado - pi.gov.br",
+      "headlineTranslated": "Government of Piauí strengthens health care network strategies to combat dengue in the state - pi.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-03T12:22:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEJ3TWZhLVNpam5PRmpFMVlHM0ptdzJobjdyaGZxM19FcEtKMC1xYTJTN2Njdll0Q2t2RGpDWWgxSEFzWFhrblBISllUem0wOTlDSXlQcExUaUtiNlUtRG01QURSbk9VemUwTFJxS0NwTHRhckJWb3g4S2NsOEsxejJNZ0RCYldOMkVTRXVYeUV0Mkw0Ung2M3NfWF82a285UnVSRXhkTG9kNUNGVTJzYy0yY3hoNktEdWc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pi.gov.br",
+      "headlineJa": "ピアウイ州政府、州内のデング熱と闘うために医療ネットワーク戦略を強化 - pi.gov.br"
     },
     {
       "articleId": "gnews_0b630d24e6dd7c70",
@@ -184,7 +363,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Edenevaldo Alves",
-      "headlineJa": "ウアウアでのデング熱死亡を受け、サルバドール大統領夫人がバイーア州知事に訴え - エデネヴァルド・アウベス"
+      "headlineJa": "サルバドール大統領夫人、ウアウアでのデング熱死亡を受けバイーア州知事に訴え - エデネヴァルド・アウベス"
     },
     {
       "articleId": "gnews_b3fcbcc0ee7d1866",
@@ -287,25 +466,24 @@
       "headlineJa": "レベッカ・カルドーソ氏、ウアウアでのデング出血熱患者発生を受け、ジェロニモ政権に措置を要求 - セ・リーグ・バイーア"
     },
     {
-      "articleId": "gnews_d5aa3dfe28fa4527",
-      "headline": "Prefeitura de Jundiaí confirma caso de gripe aviária em ave silvestre - TV Sorocaba",
-      "headlineTranslated": "Jundiaí City Hall confirms case of avian flu in wild birds - TV Sorocaba",
+      "articleId": "gnews_b6c16178122196bf",
+      "headline": "Goiás investiga primeira morte suspeita por chikungunya em 2026; caso é de Caldas Novas - Mais Goiás",
+      "headlineTranslated": "Goiás investigates first suspicious death due to chikungunya in 2026; case is from Caldas Novas - Mais Goiás",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T16:08:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTV9yVGFZc3VRZlBUZ1d6eEg4VW8tVUhadU1BOFlYd3drUkZBNWpkNEk1c0FVZUJ2RTBDQkd0a0NDQzZLcjZMSFUzZS1jeEdzZ1FOUVJ4NmZWQTlhdUJjd1BYTDdiaGx6Nmt6NC12cDF4UDdLTU9ZaE1KcHI2RHdidEhrejFJUVQ3OWVkNWo2M0pNLTVUU3pPbzNfaUZnVTM3Nnc?oc=5",
+      "publishedTimestamp": "2026-05-02T17:34:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDl3TG82c3dGd2g5NEJZeUtERHM5YnhtSHNtN0FKN0xwZkhPZGg1WTIyczFaOGYwMzdNQzJ6LXQ1VVNQMDRhd0lBUjkyVVIyNXhNeXJPdWY1X1RReldnT1QyM3VmNFd4dk03czJQNEk4LTUtMnNRUHIwcmN3SWRQRXN5eDhPZkVVUnF4NE5yQ0tMWlQ5dkpuY2JrZ19jOHVpT212VmVHS2p6NUt3N0ZrMm9FWkQ5LUZCOGZEMVlaTXFLWlBIY1VIRXRMUGFWbXFtV2ow?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "TV Sorocaba",
-      "headlineJa": "ジュンディアイ市役所、野鳥の鳥インフルエンザ感染を確認 - TV Sorocaba"
+      "sourceName": "Mais Goiás",
+      "headlineJa": "ゴイアス州は2026年にチクングニア熱による最初の不審死を調査。ケースは Caldas Novas - Mais Goiás からのものです"
     },
     {
       "articleId": "gnews_892b948ccfd7f557",
@@ -328,13 +506,13 @@
       "headlineJa": "MSは4月をチクングニア熱による死亡者14名、感染確率約9,000名で終了 - RCN 67"
     },
     {
-      "articleId": "gnews_e686812a5c9662d4",
+      "articleId": "gnews_e271340505852c59",
       "headline": "Piauí registra pico de mortes por dengue em abril e maio, aponta levantamento - Portal Lupa1",
       "headlineTranslated": "Piauí records a spike in dengue deaths in April and May, according to a survey - Portal Lupa1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-02T14:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUUyay1vQ2s2dlRDa2RZVUlCYkJZdEFHcXpUZUEzUU5ldTk2QVd0bW9ZSk1oM0poMVJWVlFSRlpSUjVRWWFiZHA3emJxQnhIN0pUdE55YUZQY2E4RnFkYWJhYk9oc1ItWG51NmpHNy1tZFFfOUtwOUJXZVByLTQ0UmdyVVRwNVR3d29Hc2RvcmM1YzhjSVVZbl9wcU5tdkYwUDIzRGFkcXE1WDZLZ1pfQkVVVDF2ZTN5c084MExZdHM?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWNoa1Jta1MtZjJPeWtDcGxQYnFCcjR5SDdXNGQzQ1VTM2hNLVQ4QVd2LXBiR0p5UEE5NFY0RWRJQkZfYTVLd3VTVWtrZ0staExnalpVZ2I3RDdNeDhWekxrOVZVcU9nWGd1N0xGRC1UM2U5RzVmTUhya0xJZXk5eXlNWGcwSXNMU3RiS3c2TFJuVmhPMk9KYkNHRlUtUUVvc0NDbDZFNDBweVZzUmFvSjlaUmllc3M2X3NQdlRnMmc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -346,26 +524,6 @@
       "dataSource": "Google News",
       "sourceName": "Portal Lupa1",
       "headlineJa": "調査によると、ピアウイでは4月と5月にデング熱による死亡者数の急増が記録されている - Portal Lupa1"
-    },
-    {
-      "articleId": "gnews_35c463888d8f0fb3",
-      "headline": "Sarampo: Campanha de vacinação visa evitar casos importados durante a Copa do Mundo 2026 - TC Online",
-      "headlineTranslated": "Measles: Vaccination campaign aims to prevent imported cases during the 2026 World Cup - TC Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T14:00:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3RKampya2NPQmVJbWwtZFNVSTNVRUdydXNTd1I1dFZqQ0lDTmJheG5mN3dlY21YbXhSdEJXVTJoU2RIUXlQdHVEMzNFWjNES2RUNDNlMG52d3d1Sm5ocVFXWDRVNzRtaGtHc0w3d3hjcTkwMEJobkoyVEhuLUhwaGtRczdQMXBfZ1JWcW9CTWRlQldsUThCeXltMUV1bktEbXhkNVd4U0VpeFFYX3k5RG13?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TC Online",
-      "headlineJa": "麻疹：ワクチン接種キャンペーンは2026年ワールドカップ期間中の輸入症例を防ぐことを目的としている - TC Online"
     },
     {
       "articleId": "gnews_8f02c3ee3f7a7a47",
@@ -426,148 +584,6 @@
       "dataSource": "Google News",
       "sourceName": "Brasil 61",
       "headlineJa": "麻疹：ワクチン接種キャンペーンは、2026年ワールドカップ期間中の輸入症例を防ぐことを目的としている - ブラジル61"
-    },
-    {
-      "articleId": "gnews_e220becfca2adc46",
-      "headline": "Brasil lança campanha para conter avanço do sarampo durante a Copa - Enfoco",
-      "headlineTranslated": "Brazil launches campaign to contain the spread of measles during the World Cup - Focus",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-02T01:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTWhScC1maFVNQ0lPVUhPY3ZMLXRyOXRuUkkwZ1ZvZ3JxcEs5djNacUlUTzI4R19hT01ONUt0TGQ4RDRqMEhQSUs4ak9IQ19wQXk1dUFPcGZHM2xCRE91bFdHLWcxalFHSHpFVA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Enfoco",
-      "headlineJa": "ブラジル、ワールドカップ期間中に麻疹の蔓延を阻止するキャンペーンを開始 - フォーカス"
-    },
-    {
-      "articleId": "gnews_47f53e78a0e79d55",
-      "headline": "Em meio à alta de dengue, até posto de saúde tem focos do mosquito em Campo Grande - Midiamax",
-      "headlineTranslated": "Amid the rise in dengue fever, even a health center has mosquito outbreaks in Campo Grande - Midiamax",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T22:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR090LU54b1gzQjNyUGZ2dnFLYlQtREhTSTdsNzFXYmNlMEs0a3hPMTdOajlFaGU5NEVicUhuRlZIS2lPdWs5TnhpUnpzelAwNmFoRDgwbE9zcmNXWkRBaUd3dlZSSnpzRGJnNDZIUWxzUUhKQXVjLVFUMmJiU2tISHVremVaZEdZb3hNNXp0Rm1waHF5RUE2cWRQblB1SGdSVTBlanE5Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Midiamax",
-      "headlineJa": "デング熱が増加する中、カンポ・グランデでは保健センターでも蚊が大発生 - ミディアマックス"
-    },
-    {
-      "articleId": "gnews_39099694ccfe4ab0",
-      "headline": "Gripe aviária já matou 201 milhões de aves em granjas dos EUA - brasilagro.com.br",
-      "headlineTranslated": "Bird flu has killed 201 million birds on US farms - brasilagro.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T21:33:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWtRQWlYR3NHRUVfOXpsSGJrWGU4NEZSM1dJbFM2eEJfd3dKYmxRdEVVRGpLSFlJZGJNTFVCM0hpM0lIdlpoanhEZzlSMkVPendDUkczdFYtb0gwSHMzNE8xXzJvTFQwXzdibXRvbkpMdC1hM0ZGRW1LbkNiem5FeXlST3RmN3RlcTZJbGR2ekFqSG10MUhsSmZIOHdSZmpXaUlEcUF5bzc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "brasilagro.com.br",
-      "headlineJa": "鳥インフルエンザにより米国の農場で2億100万羽の鳥が死亡 - brasilagro.com.br"
-    },
-    {
-      "articleId": "gnews_0f5c1f08df21a663",
-      "headline": "MS registra 14 mortes por chikungunya em 2026 - Jornal da Nova",
-      "headlineTranslated": "MS records 14 deaths from chikungunya in 2026 - Jornal da Nova",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T20:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTE1kWS1PbmFSRlhHS3FQa2pkWmx6VVl2NFBERzVVekVUMjMxMGhzWncwZVVwRTFEMndHTVJ6UUU0d1A3S0tNTk56NkZwcGpSVWYwNDktNENmV2ZJTTd0Mm0wSzIyRnVnOW1MNkNNQm5lazBycmo2NDZnMnluMXpOZ19LUTBleFlza3A0ZlFiSXBDQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da Nova",
-      "headlineJa": "MS、2026年にチクングニア熱による死亡者14人を記録 - Jornal da Nova"
-    },
-    {
-      "articleId": "gnews_29b0c4618758159b",
-      "headline": "Vacinação contra sarampo é reforçada em aeroportos do Rio - Portal ABC do ABC",
-      "headlineTranslated": "Measles vaccination is reinforced at Rio airports - Portal ABC do ABC",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T18:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WNXR6RjdmUnhzWWpZTG9JNnA0NjZFTHpUYXh3bEdvQXpvWWJrdmc3X3FSSVhtWW9CR1lKa3NnS2x5VDNxQVNseDNoMVhBMDRkaGthc1RhcjlQMHpMdzVoUFhGdGtYamdfanpZaQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal ABC do ABC",
-      "headlineJa": "リオの空港で麻疹ワクチン接種が強化 - Portal ABC do ABC"
-    },
-    {
-      "articleId": "gnews_02abce81561a3194",
-      "headline": "Mato Grosso do Sul investiga novos óbitos por chikungunya após estado atingir 5,2 mil - capitalnews.com.br",
-      "headlineTranslated": "Mato Grosso do Sul investigates new deaths from chikungunya after state reaches 5.2 thousand - capitalnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T17:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXpJVTRjU1lnT1c3dE9ObW40UHI0QmQxRl83Ujl6Vl9sQ190UG54UnI2XzVqMGtYWlhWZkE5T1dvUlFoSVFzdHp4MlNILW9KSXNGZUlfc1JSR0cxazBxRjBFeUxOTjJDclQxMVB0TmFFR1BSYUNyal8wWTE5eThoXzJMckxBdjNNSGJqbXdTN2stRjBieVozVTA1YWtIWHVoUjlPbWJTV0tzUy10QjFhN0JDVUVXUHpJQ0VDSmpjY2ttMUVtT0loNjYxUDh2NHFuUzFIREM3dVdZaFdoU0NRamp5N3Q?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br",
-      "headlineJa": "マットグロッソ・ド・スル州、チクングニア熱による新たな死者数が520万人に達し調査 - Capitalnews.com.br"
-    },
-    {
-      "articleId": "gnews_10d6cf7d707fe667",
-      "headline": "Com 14 óbitos, MS alcança 5.214 casos confirmados de chikungunya em 2026 - Caarapó News",
-      "headlineTranslated": "With 14 deaths, MS reaches 5,214 confirmed cases of chikungunya in 2026 - Caarapó News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-01T17:26:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2N5M2VIc0p4VGdxMHM4c3dEeWd3cDlyTzNlSXZpeGRLM2ZNRXYxOTNKM2NTS0Q3VmVSckhkcnd3RTVzTEhZT0ItYkltNFJfMFNtMVkxVlBvSXJ3TFNPNUhWZlJDTkdCanBISGRibTBjYXpQZlZzNHRDWEZVWG5KNFJrYnZycEpSejhpMjQxU0hSejI4MDZKN0xQOUpTX0tHUTNlS3FTdF9RUEt6emoyMm5xcFJZbzA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Caarapó News",
-      "headlineJa": "14人の死亡により、MSのチクングニア熱感染者数は2026年に5,214人に達する - カアラポニュース"
     }
   ]
 }
