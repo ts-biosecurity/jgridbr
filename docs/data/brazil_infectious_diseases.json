@@ -1,59 +1,140 @@
 {
-  "generated_at": "2026-05-09T09:20:56.795761+00:00",
+  "generated_at": "2026-05-09T17:05:19.152385+00:00",
   "date_range": {
-    "start": "2026-05-07T09:20:56.795761+00:00",
-    "end": "2026-05-09T09:20:56.795761+00:00"
+    "start": "2026-05-07T17:05:19.152385+00:00",
+    "end": "2026-05-09T17:05:19.152385+00:00"
   },
-  "total_articles": 48,
+  "total_articles": 40,
   "state_summary": {
-    "Brasil (estado não identificado)": 19,
+    "Brasil (estado não identificado)": 13,
+    "Pará": 8,
+    "Ceará": 3,
+    "Rondônia": 2,
+    "Pernambuco": 2,
     "Paraná": 1,
-    "Pernambuco": 4,
-    "Pará": 5,
     "Amazonas": 2,
     "Alagoas": 6,
-    "Goiás": 4,
-    "Distrito Federal": 2,
-    "Mato Grosso do Sul": 4,
-    "Mato Grosso": 4,
+    "Distrito Federal": 1,
+    "Goiás": 3,
+    "Mato Grosso": 2,
+    "Mato Grosso do Sul": 3,
     "Bahia": 1,
-    "Rondônia": 1,
-    "Ceará": 1,
-    "Paraíba": 1,
-    "Piauí": 1
+    "Rio Grande do Norte": 1,
+    "Paraíba": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 13,
-    "Dengue": 17,
-    "Meningitis": 4,
+    "Meningitis": 5,
+    "Measles": 3,
+    "Avian Influenza": 3,
+    "Influenza": 3,
+    "Doença infecciosa (não especificada)": 10,
+    "Dengue": 13,
     "Leptospirosis": 1,
     "Oropouche": 2,
-    "Avian Influenza": 2,
-    "Influenza": 2,
-    "Chikungunya": 7,
-    "COVID-19": 1,
-    "Measles": 1
+    "Chikungunya": 3
   },
   "articles": [
     {
-      "articleId": "gnews_1a85eee39db07f77",
-      "headline": "SC confirma primeiro caso de hantavírus em 2026 e afasta relação com navio - NSC Total",
-      "headlineTranslated": "SC confirms first case of hantavirus in 2026 and removes relationship with ship - NSC Total",
+      "articleId": "gnews_47cf59c256f85ed5",
+      "headline": "Flávio Bolsonaro critica o SUS, mas ignora rejeição de vacina da Meningite B no governo do pai - Brasil 247",
+      "headlineTranslated": "Flávio Bolsonaro criticizes the SUS, but ignores the rejection of the Meningitis B vaccine by his father's government - Brasil 247",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T03:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGs4U0hGVzBTQm9JcDJ3bC1pY3JpQjN3U3RSS2ZjV2YxeVpOa2VlSF85MlhrQ1pLZkpfZmVMZkNIb0pqMU8tVDN5X1UzdUc0cTlJdzlVTE5ZakQtWE5ickJyOGtvQ25WN2VJc0UxcEdjRjNPNE5OS0FQSzJjbV9IcXlXZFR5ZWptc2FUNVJDRDhjVV9ITmtYMklaUnpITkVrbHZ2VDlNZXdTemlvSXZYag?oc=5",
+      "publishedTimestamp": "2026-05-09T14:09:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1BRZm9OcDJrVFIxNy03WU8xVXpVRk9scUZKVGRIQThoU2tBUGxKQU1XcnZmZUFMQlNpa1lHMkhXZjhYMGJmRWJVYnJ5MDlxODVkVnR4amRIU29hdV9vLUlUSWZXUkJvMTE2RXlYSmtyVE9KQmwxT01mRm83bnVmZ2UtZ1JwTzg5dFZoX1Z0LVNyZDFiNXp4LTZTVzdLc2x2c0J5aXBoZWVDRzRvUGpyclg2c2lKWXJYVnp1Mm9sMThMWk5h?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Meningitis"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "NSC Total",
-      "headlineJa": "SC、2026年初のハンタウイルス感染者を確認、船舶との関係を解消 - NSC合計"
+      "sourceName": "Brasil 247",
+      "headlineJa": "フラビオ・ボルソナロはSUSを批判するが、父親の政府によるB型髄膜炎ワクチンの拒否は無視 - ブラジル247"
+    },
+    {
+      "articleId": "gnews_6b0de7ccb66d1225",
+      "headline": "Vacina contra sarampo é gratuita pelo SUS e Fortaleza reforça alerta para torcedores da Copa do Mundo - OpiniãoCE",
+      "headlineTranslated": "Measles vaccine is free through SUS and Fortaleza reinforces alert for World Cup fans - OpiniãoCE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T13:32:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLWoyZGlCQWc2SVFPUklFNGYwSkhZdm1Ed3g4VUhpQm8zQUo1dHdHSDd6bXdQcnlscGo1M3djRnJrWkJKMW0xVW83WkVzcDdLY193RUJWQi01MmlHbm5TRi1raVJrcXJ0V3YzZ1g1azV6cjBXblowSm9YMnkwcTA1U21oNUp2VXR0SVlCS1RxWDljVURlblVTTVhKVjJYdVRHbGtzWEg1SVpWUjB5NFJQS0tOcTJ0aU01eUd5UWNtNXRaLTFBTWU2OW0xVlJwYmhjcEVMcHlIYW0xSTFWRnc0aWF1RWo2S2s?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "OpiniãoCE",
+      "headlineJa": "麻疹ワクチンはSUSを通じて無料、フォルタレザはワールドカップファンへの警戒を強化 - OpiniãoCE"
+    },
+    {
+      "articleId": "gnews_b2e9337716d7e4c9",
+      "headline": "Adepará confirma caso de gripe aviária no Marajó e orienta prevenção - DOL",
+      "headlineTranslated": "Adepará confirms case of bird flu in Marajó and advises prevention - DOL",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T12:46:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHlfcnd1enhZb1ZHa2FSRU1hZEN6b1dwYW9TelJYemJoVGlIbllWSFlZeW5SVkgzMFo0ejNURGZYbzVQdk1RNENXYWxUeU0wLTI5N2g0MzU4aHptMllWTEhwakRodTFYSXVpR2JPalU2Wllpc3dmWTRnV2x0VnJEbkE1Y3M4M1c4eW1jNko5b0JKMGZhcUdTbEpvSy0zOHhXWktmcEdGOThENjRs0gG0AUFVX3lxTE9rR1lMV19xRGFLVkc4djNnaE1SZTNULWVvWFZTMzg5a0dzZHdMU0I2eXFVQVRpVDBibl9tTnhwSnpIbWdUdzNyc2hsOVRiTndQdWR4bG5CeldVamNyM3NwVUJyaTNGc25EUVJscXhocXpXaUFXSm1nYlNuNWlsczdmQVNzNGZ4SEZNZnlsTlJvcVRBWXhQdXREbVdMWDMzSjlocHVCOGdVZjlvQnZ5Mjg3aEFRSA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DOL",
+      "headlineJa": "アデパラ氏、マラジョで鳥インフルエンザの感染を確認、予防を勧告 - DOL"
+    },
+    {
+      "articleId": "gnews_32fd7a10ee37007d",
+      "headline": "Saúde de Campos orienta para que a população se vacine contra o sarampo antes de viajar - Campos 24 Horas",
+      "headlineTranslated": "Saúde de Campos advises the population to get vaccinated against measles before traveling - Campos 24 Horas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T12:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHRldHB1aFRNNjMwVXVXenQ2NzdtZUlNTUxIZUFwNmlvZWw4UVctcVRHUlplSlJsU1dmZXVzenVHTllXNFJOaVctdnBsX1Q3eDZVLU5GYkxlQzBudGtkdy12bnZvZ1VDS0E2WHNWWWpoVTE0UHpReFo0aGpfSmxTQWIySEY1RjFUanNqa0wxZWs2VllBM2RkZHptWEctNWVEeEllWmRoUy1ndFc5d18wQjhjd3M?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campos 24 Horas",
+      "headlineJa": "サウデ・デ・カンポス、旅行前にはしかの予防接種を受けるよう国民に勧告 - Campos 24 Horas"
+    },
+    {
+      "articleId": "gnews_00ce55ce752a5ecc",
+      "headline": "Surto de hantavírus em cruzeiro alerta países - News Rondônia",
+      "headlineTranslated": "Hantavirus outbreak on cruise alerts countries - News Rondônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-09T11:00:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalJnWVdjWTYzWGIxb1EwMDNCRnNGZzFvSmk5N3EwMkRLNFBZNHlvVElLd053M09QZ3A3NEdpdkZXVjRDRWdfV21iYmlsSXlTMDRUZTlkYWp3WVVxV0RKcWdULWxia2VQWk9XR2RTN01BenF5Q3hrYlpCeDlkeTBxZmtIb3FHa3VrbW9BMkNwckhnbGV4WnVKTzR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Rondônia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "News Rondônia",
+      "headlineJa": "クルーズ船でのハンタウイルス発生で各国に警告 - ロンドニアのニュース"
     },
     {
       "articleId": "gnews_f4918dda5fd8372f",
@@ -169,13 +250,13 @@
       ],
       "locations": [],
       "states": [
-        "Paraná",
         "Pernambuco",
-        "Pará"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco",
-      "headlineJa": "パラナ州のハンタウイルス：船内で発生後、ブラジルが感染者を記録 - Diario de Pernambuco"
+      "headlineJa": "パラナ州のハンタウイルス：船内での感染発生後、ブラジルが感染者を記録 - Diario de Pernambuco"
     },
     {
       "articleId": "gnews_6615dfe61fad4bb4",
@@ -215,7 +296,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ICL Notícias",
-      "headlineJa": "マナウスでは記録的なオロプーチェの発生とブラジル全土へのウイルス蔓延が記録されていると研究が発表 - ICL Notícias"
+      "headlineJa": "マナウスでは記録的なオロプーチェの発生とブラジル全土へのウイルス蔓延を記録、研究発表 - ICL Notícias"
     },
     {
       "articleId": "gnews_8e404e1cd716ae21",
@@ -235,7 +316,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CompreRural",
-      "headlineJa": "シンダンは動物衛生月間中のブルセラ症に対する警告を強化し、ブラジルでのワクチン接種の義務化を強調 - CompreRural"
+      "headlineJa": "シンダン、動物衛生月間中のブルセラ症に対する警告を強化し、ブラジルでのワクチン接種の義務化を強調 - CompreRural"
     },
     {
       "articleId": "gnews_40696e07ded07a85",
@@ -272,8 +353,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Distrito Federal"
+        "Distrito Federal",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "RADAR DIGITAL BRASÍLIA",
@@ -298,26 +379,6 @@
       "dataSource": "Google News",
       "sourceName": "Midiamax",
       "headlineJa": "フマセ：今週金曜日、7つの地域がデング熱蚊との戦いで援軍を受ける - Midiamax"
-    },
-    {
-      "articleId": "gnews_1926770d1bd1a9b8",
-      "headline": "Ações estratégicas mantêm casos de dengue sob controle em Maceió - Painel Notícias",
-      "headlineTranslated": "Strategic actions keep dengue cases under control in Maceió - Panel News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-08T15:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWs4QVh1c2phMHlzeTVPRVNxT2VVb205NUlDMUtHVWViYkNtbjBCdlVkWmt1aS1JeGpwWDVrR09aYU4tcUlBNjAxRGI1ZVloZ09nOUFXU0RMQlZlMWZSQ2dqLVU3UkV0SjVqV1p6SVdGelBoUndYbVdwZURyWTVnSi1nMVNwMWx0WnZwOTAwQnBjTDdLMWdKTTAtQWhycHF4U3U4TjluYWY2SUU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Painel Notícias",
-      "headlineJa": "戦略的行動によりマセイオのデング熱症例は抑制されている - パネルニュース"
     },
     {
       "articleId": "gnews_f9bb1058f6104ca7",
@@ -374,8 +435,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Aquidauana Notícias",
@@ -420,6 +481,26 @@
       "dataSource": "Google News",
       "sourceName": "Bahia Notícias",
       "headlineJa": "バイーア市役所、デング熱対策のため放棄された土地の所有者に罰金を科す - Bahia Notícias"
+    },
+    {
+      "articleId": "gnews_0f17c16a0199f1eb",
+      "headline": "OMS confirma cinco casos no surto de hantavírus em cruzeiro de luxo - Natal em Foco",
+      "headlineTranslated": "WHO confirms five cases in hantavirus outbreak on luxury cruise - Natal em Foco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-08T12:59:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXVwMFMwdGJXbk1MalFseXZLZlVZOXZmV3FMWExPNnplbnRQWXZnQzZENkp6aFhHZExwNUFnWVNWa1hwRkxVM09nSWc3SDZKc2RSbzRlM1VNXy1BYjlRWWxQSmlzak9OdE96aVFrTmZWeVlfTGtzZDdkbFBSVERhci1RN1pNQkZXVkVROHdWVTMwT3p6NW9ZSVN3Ri1CMHR2R3RMWUJyaw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Norte"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Natal em Foco",
+      "headlineJa": "WHO、豪華客船でのハンタウイルス流行で5人の感染者を確認 - Natal em Foco"
     },
     {
       "articleId": "gnews_27d539f6e312e9bd",
@@ -482,26 +563,6 @@
       "headlineJa": "フォルタレザでは10年前に初めてチクングニア熱が発生した。今日の病気のシナリオをご覧ください - Diario do Nordeste"
     },
     {
-      "articleId": "gnews_f5ebb140b06dd98e",
-      "headline": "Hantavírus, COVID, norovírus… Por que os navios de cruzeiro são tão suscetíveis a surtos de doenças? - G1",
-      "headlineTranslated": "Hantavirus, COVID, norovirus… Why are cruise ships so susceptible to disease outbreaks? - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-08T07:01:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWU92eGhIZGgyaDIweDhMdUhnUE0teWNETTlBYkRvWG1DVWt1RE4tdG9nYTlEVTBxeTYyOGt2NmZzWWFfWDZyQ3YyaDNLWElOenFrMjBOaU9WOC02OVFWRkNwRHBRMk1CRDdvSFJfTVZ2ZE4wUGV1Zk9xN0E2azRYSTlDa20zWkl0N3JKYTNEV3pTbjB6RXNVdWhhZ0xIbEtaaHEwRkx5aXN4Vng5TE41Qm50VmlZZU1BVkMzem5TWm43RVpYTDZzVWxwalZpdXl0TThfSTNJaHViZVpDcHYwUEZ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "COVID-19"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ハンタウイルス、新型コロナウイルス、ノロウイルス…なぜクルーズ船は病気の流行にこれほど弱いのでしょうか? - G1"
-    },
-    {
       "articleId": "gnews_32176838d0eaf212",
       "headline": "Pernambuco confirma primeiro óbito por dengue em 2026 - Tribuna Online",
       "headlineTranslated": "Pernambuco confirms first death from dengue in 2026 - Tribuna Online",
@@ -542,24 +603,24 @@
       "headlineJa": "マセイオのデング熱感染者数が29%減少、疫学速報が指摘 - Jornal Extra de Alagoas"
     },
     {
-      "articleId": "gnews_b6c119c9681847a7",
-      "headline": "Boletim Epidemiológico: MS Registra 4.342 Casos Confirmados De Chikungunya - Folha do MS",
-      "headlineTranslated": "Epidemiological Bulletin: MS Records 4,342 Confirmed Cases of Chikungunya - Folha do MS",
+      "articleId": "gnews_e92c7d1f8b5d80fa",
+      "headline": "Ações estratégicas mantêm casos de dengue sob controle em Maceió - Francês News",
+      "headlineTranslated": "Strategic actions keep dengue cases under control in Maceió - Francês News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T21:39:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1piR3k4UXhZZVFkbC1KekU3R0hXWFF4cklMSDZCSUh5bWVXM0l0TnJSZ1BUd29LUW1BVmhUTVRBd0kzeHRlMzBkOVI3YThXaTZHU2xwUVM5Zm90VUZqamFpM3ZmUnVzbU4zWXBxa1lSWm9paDRtVWZ1Nm5pdHpRRjZDVkFFaXJqc2JJcHRqYzlfS0Y1RXVkYWxfZHF6R3Ey?oc=5",
+      "publishedTimestamp": "2026-05-07T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWVJSHlBZ3I2RF9ZZkN4cWN4cnE1bURmRlo0SDN6SVdxNTdYUEZEQ2lQeVREbUZPcWRKLXBZTm84TFcxRS1NbW9NZzdBeGxGQjB6VVFtbXBDMU1uQkNNU1dSVTFfRmFUcHZGWG9yOHpIWTRNVmVzSjk4TjlLWE95ZklZQlZjcC1vOEg4bjVfRms2VDVEYUZQMzFIamM3dmxyekRmdmtydnZUemc1RXhkRmRROA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Alagoas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Folha do MS",
-      "headlineJa": "疫学速報：MS、チクングニア熱確定症例4,342人を記録 - Folha do MS"
+      "sourceName": "Francês News",
+      "headlineJa": "戦略的行動によりマセイオのデング熱症例は抑制されている - フランシス・ニュース"
     },
     {
       "articleId": "gnews_95f2af17548ef07d",
@@ -643,24 +704,25 @@
       "headlineJa": "戦略的行動によりマセイオのデング熱症例は抑制されている - マセイオ市庁舎"
     },
     {
-      "articleId": "gnews_e5bb511d902cf668",
-      "headline": "Diretora chama PM após relato de que aluna estava “endemoniada” e “levitando” em colégio de Goiânia - Portal 6",
-      "headlineTranslated": "Director calls PM after report that student was “possessed” and “levitating” at school in Goiânia - Portal 6",
+      "articleId": "gnews_525d866a1342840d",
+      "headline": "Vai viajar para a Copa do Mundo da FIFA 2026? Atualize seu esquema vacinal contra o sarampo - Prefeitura de Fortaleza",
+      "headlineTranslated": "Are you traveling to the 2026 FIFA World Cup? Update your measles vaccination schedule - Fortaleza City Hall",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T19:15:30+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXdzZU1kT0pSTWxaTlVYVzhmWVl5dVVvM3FJLVJjeHVpdVg5NV8wby1wbnh6ZE03X0YtT2FTdDRRZGs0dTVUbEhKQ3dELTJnb2F2aDNyUWhMNnVoZk9LRS1UYXNMbC01X1JldmhtUUl2dmpZSDhydVJjZ0NYTS1VZE5Ga2ZjbllBZnVmbVJKUXJQNE1aMlhwdTJSa0FMRy1oSmg4TFZyU2tNeUd6SGUxQ3JrU1FfNzZQV3RSMHpOSzVENHRpbzJpTzdR?oc=5",
+      "publishedTimestamp": "2026-05-07T18:55:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWEJKWGhtWHBhd3U4d2JNQXRPR2YzRGpmUjBNQUJkWVpOSzlaR201ZEVkMlcwVGtVTkVDa2kyc0l1bXJFREtmOEctaEtfVzZnY3p4d2poQ1dXWjZwZUZpQUpmOWtDX0c0cTlpdFQzM0FPeDJjenROeU1OT2JBX0NFVllwMHVwUVlfM29mcko1SEJBQS10Y3JXVTI3NFlPMmE3dWV6ZUhFYTJyd3RxbmNyWFVYMGFkNkVseDM0WmZmdGZPSF83RlVBd0xycw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Goiás"
+        "Pará",
+        "Ceará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal 6",
-      "headlineJa": "ゴイアニアの学校で生徒が「憑依」され「空中浮遊」したとの報告を受け、理事長が首相に電話 - Portal 6"
+      "sourceName": "Prefeitura de Fortaleza",
+      "headlineJa": "2026 FIFA ワールドカップへご旅行ですか?麻疹予防接種スケジュールを更新 - フォルタレザ市役所"
     },
     {
       "articleId": "gnews_2bedd62a135d6e17",
@@ -676,8 +738,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Paraíba Já",
@@ -702,26 +764,6 @@
       "dataSource": "Google News",
       "sourceName": "BBC",
       "headlineJa": "ハンタウイルスの発生：クルーズ船内での最大の健康リスクは何ですか? - BBC"
-    },
-    {
-      "articleId": "gnews_f214a1bd4a88bb7e",
-      "headline": "Boletim Epidemiológico: MS registra 4.342 casos confirmados de chikungunya - Portal Único ms.gov.br",
-      "headlineTranslated": "Epidemiological Bulletin: MS records 4,342 confirmed cases of chikungunya - Portal Único ms.gov.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T18:13:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1UtR3dZa0JwRDFWcXNYY2xRSFF6Z2ZabVE1WGJkRGtWUzFQeUZSM2lyeVRtdzFvZGszRm5JR1lVZU5CMlB6dUZ0T2JtR1NOblIwQko5YzhydFhOODg1MktkcjBRVi1UTDdVeFUyVFRIeFM5QUY4QUYySlhJQ3V6eVdEMzRVZVp0cDhuNWVNbEYwZGFKeEk1MWptMXd2U2Zpd1dkaU9CQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Único ms.gov.br",
-      "headlineJa": "疫学速報:MS、チクングニア熱確定症例4,342人を記録 - Portal Único ms.gov.br"
     },
     {
       "articleId": "gnews_c709ece1c11166a8",
@@ -757,8 +799,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "capitalnews.com.br",
@@ -802,208 +844,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "VEJA",
-      "headlineJa": "アンデスから来たウイルス: ハンタウイルス大流行の起源とブラジルのリスク - SEE"
-    },
-    {
-      "articleId": "gnews_a630e980b0e4c27a",
-      "headline": "Butantan vai produzir vacina nacional contra chikungunya - Folha de Alphaville",
-      "headlineTranslated": "Butantan will produce national vaccine against chikungunya - Folha de Alphaville",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T15:43:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1NsUTlvZ2tSdDZFaXR5U2NPeDA4dnhJUnZ0NFh5Skotc2x2bkZDSGJ0bHZJU2QteEJEOW9RMTNzSzJqcDEyYllwOHlqM1dJQUdjd1E2NnRCOURvOWo2MzJud2paaTNURl9xMXY1UENfbi14R2JOZUYwNWxPYlVJSmE2eUJiNVlWMXktRHpreXZDTVZFSHpOeklpM1NrakQ5VHFGUmJ0NFBpT1hBRGFBdg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de Alphaville",
-      "headlineJa": "ブタンタン、チクングニア熱に対する国家ワクチンを生産へ - Folha de Alphaville"
-    },
-    {
-      "articleId": "gnews_784990441211f259",
-      "headline": "Terrenos abandonados viram criadouros do mosquito da dengue no Piauí - G1",
-      "headlineTranslated": "Abandoned land becomes breeding grounds for the dengue mosquito in Piauí - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T15:40:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVU15M2M4YnMyVFRFSkRJaDdpZ3hObkx3Z0NCbkZiWGFuYThrdzZBTnRuUnRFRnRTV0Y0bXN5Q1hqN1hpaFM4NEJQQmNFV3U0UE1fX3VMOElqaUt6SXJXS1Q2aXlOUEc4d0ZOMngxVlQxRkJYbjVlUXJVSkh2VVdZUFhNRkNqS0hObnpGakJkbGVwQVc3TnNXUi1RTG92elRWUk1MQWx4Mnl5dG04bVZZRUMzeDZETUFiNkh5QUNVSU1KTHlOaGM0Q3pJbjFGU2hRLXJFRlBtVnZGQms5UEtwYzBGenVjd9IB5gFBVV95cUxOVU15M2M4YnMyVFRFSkRJaDdpZ3hObkx3Z0NCbkZiWGFuYThrdzZBTnRuUnRFRnRTV0Y0bXN5Q1hqN1hpaFM4NEJQQmNFV3U0UE1fX3VMOElqaUt6SXJXS1Q2aXlOUEc4d0ZOMngxVlQxRkJYbjVlUXJVSkh2VVdZUFhNRkNqS0hObnpGakJkbGVwQVc3TnNXUi1RTG92elRWUk1MQWx4Mnl5dG04bVZZRUMzeDZETUFiNkh5QUNVSU1KTHlOaGM0Q3pJbjFGU2hRLXJFRlBtVnZGQms5UEtwYzBGenVjdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ピアウイ島の放棄地がデング熱蚊の繁殖地に - G1"
-    },
-    {
-      "articleId": "gnews_811ceb9012298413",
-      "headline": "Anvisa suspende venda e proíbe produtos da marca Ypê - GPS Brasília",
-      "headlineTranslated": "Anvisa suspends sales and bans Ypê brand products - GPS Brasília",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T15:31:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZlY3M1RpTU5STjl1UHNUQ2UzMmc0RUxZd3c1VTBKUlhWazFPLU9QZTRuNmN4SHYyN3psUEhJMjRvNktQMXcwcjgxV3Y0cVY0OTJWMzg3LUNrOWs1WlJTTzVneGVzbFhMc09lQXB6VDFzVk1LWkpHeFNTWVZ5cjQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GPS Brasília",
-      "headlineJa": "Anvisa、Ypêブランド製品の販売を一時停止し禁止 - GPS Brasília"
-    },
-    {
-      "articleId": "gnews_4954e5ad923da1c9",
-      "headline": "OMS afirma que surto de hantavírus em cruzeiro não indica pandemia - Brasil 247",
-      "headlineTranslated": "WHO says hantavirus outbreak on cruise ship does not indicate pandemic - Brazil 247",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T15:10:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUFEZmE3MHJ1UE1VY3d1eVhYMWtEX2xsM0tLMzUyd2lBTlYtQVlhTWdGMnJtVjhHelpmaXZUWTlpY0tma2FmOE95cWc3Wjl6R0dlX3k0VGV6QzhabE15NFloMFpwbFYzemx5OWJzbEFfMmRmcXZCNXVwX2lxa3B6T3pDQndKZC00QUdnbFpaamxRaklvR0U0Wjl6bUlyYnM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Brasil 247",
-      "headlineJa": "WHO、クルーズ船でのハンタウイルス流行はパンデミックを示すものではないと - ブラジル247"
-    },
-    {
-      "articleId": "gnews_a712c9db4565fb1a",
-      "headline": "Vacinas essenciais para quem vai viajar na Copa do Mundo 2026 - DIARINHO",
-      "headlineTranslated": "Essential vaccines for those traveling to the 2026 World Cup - DIARINHO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T15:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0J2RTVlTW1CMTNNZW5qQTB5YkxNVUR3MlRKOVN2LVBVa21lNHhoc0lwbUo0TWRJalFkT3FQVElJbXhibmR6RFk1N19rVmJMZlVJZGx3NkhscWs4dUk3UlFsMVg3S2dHTnRCVkU1MjdBU09UNng4dDFYWWhMc2p0azhFVExLalRrVkVmRFVXaFVzRzlNamc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "DIARINHO",
-      "headlineJa": "2026年ワールドカップへの旅行者に必須のワクチン - DIARINHO"
-    },
-    {
-      "articleId": "gnews_ac83001b4fde3b18",
-      "headline": "Casos de sarampo em países da Copa do Mundo de 2026 preocupam autoridades de saúde no Brasil - jornaldebarueri.com.br",
-      "headlineTranslated": "Measles cases in 2026 World Cup countries worry health authorities in Brazil - Jornaldebarueri.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T14:04:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3R6X2t2X1VIc2xxSEpBdjdsdHJfUEk3UHhVUmtQcGU1eGdzSzREYkQzRm12bWQ3NWd5M0VvbWdNbl8yR0FTdE1HUi1GQnR1UU05VU83SzI5MUQ2MU5RVWp6OVdyZGdBX2M1ZlExVExTa014Rl9DM1lTTEJYZlVDb3FyaHhGWlA3VnFtTmllRS1KSVkwOVJ3c1ByRkR4RFRwRzZhVDNKVDlRWGZ3SUN1U0RqWXhqTmMyS1dxMExUQWs5Yk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "jornaldebarueri.com.br",
-      "headlineJa": "2026年ワールドカップ出場国における麻疹症例、ブラジル保健当局を懸念 - Jornaldebarueri.com.br"
-    },
-    {
-      "articleId": "gnews_3ff9c75f72beb4dc",
-      "headline": "Chikungunya em gestantes sobe 25% em Mato Grosso do Sul - Campo Grande News",
-      "headlineTranslated": "Chikungunya in pregnant women rises by 25% in Mato Grosso do Sul - Campo Grande News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T13:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1NnaDVoX1hVRzJPckVIZVp3XzBiNkVVOHRoQ1BsSVYyWWxoekZpVTl0TEs3OUNnMkdsQ2d2SGVEQlpUYmpFNmJkMVZ0bGFsYm5TSkt5Q2x2UWlPa250bXhmZTFGbjFneUpocVdBanZNVFNZMzJweHV5T1VoQ1hlM1FrSk8ySUJnNV82N3lTNlRkN29HMnlwSFBTVWpIVlp0MWp2bENVVWptQdIBqgFBVV95cUxNMDdUUHotNzZMbXd3bjV3UDRvcGw2Vmw5UGVhcWY3V1JMUnNlbmM5UGZDQnRidlhPaU9fVDUtY2hpZzJSWlhFbFNLaVItcklDdXNaOUNjRmdES2l6LTBDLTliVHZBd19RVGw3WkVrT0lIbURNcDRkU1RVMkhrejlqMG8zUVpqS1pWZU0xQ2wwRll1OUxyWFA2V0I3bDhQc1hfcnpTZWdhT2Rqdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Campo Grande News",
-      "headlineJa": "マットグロッソ・ド・スル州で妊婦のチクングニア熱が25％増加 - カンポ・グランデ・ニュース"
-    },
-    {
-      "articleId": "gnews_e998cf322287b4d7",
-      "headline": "Dengue em Pernambuco tem queda de casos em 2026, mas estado já registra morte confirmada - Pernambuco Notícias",
-      "headlineTranslated": "Dengue in Pernambuco has a drop in cases in 2026, but the state already records confirmed deaths - Pernambuco Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T13:25:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFdhTVZ3RHNTWG5oR1ZKVWhHbmFSdHhLdkxRWHRrNVRSY2hIWUpvTUlKMkV5N1haaVVFbFRjeXJCTXl3M29OemExUTFMazgxbVhHRkdqSFZiOEFqSGk4MXZheVBLc21zbkFJb1A5V2lQUlZyOVBXVGlKUlRnNGozRUlLYkpkUVBKTG9uNzhOT0lFcFJ2SGlQUmJIaXBrZEpxUnZRRGMzTXpUcnhMYzBzcVFwUTNnWjlmQ0M0TlRQTQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Pernambuco Notícias",
-      "headlineJa": "ペルナンブコ州のデング熱は2026年に症例数が減少するが、州はすでに確認された死亡者を記録している - Pernambuco Notícias"
-    },
-    {
-      "articleId": "gnews_72d7620bd2debcbb",
-      "headline": "Mato Grosso registra 7,7 mil casos de dengue e sete mortes nos primeiros meses de 2026 - Cliquef5",
-      "headlineTranslated": "Mato Grosso records 7,700 cases of dengue and seven deaths in the first months of 2026 - Cliquef5",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T12:39:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWllUVYyUWtNU1Zrbkw1dlVGSUU0UnpJZUoyOU1qVE9WZnlfR3NvUEx1WmtwRFJxM05FVURienp4SDBuTmpoM2NaYVN5UFdzbVRJVnhzRm1Bb3R6bEJlQ0U0ekhBTmYzejU1bUxzSGh6MFNpQnZYLVc4RWZPcXM0OXZERlpzdnlXTGlOYVpFZlVZSnFySFNzQUFsM0JNTmt3QklhMjVVYXhyQmNCVmYtQ3gza0F5RDczSElYclQ3MmNDN21ZUHdRVHctT3pIc2R2dGR1d0FsUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Cliquef5",
-      "headlineJa": "マットグロッソ州は、2026 年の最初の数か月間で 7,700 人のデング熱感染者と 7 人の死亡を記録 - Cliquef5"
-    },
-    {
-      "articleId": "gnews_939cb8358d271d0f",
-      "headline": "Pernambuco registra primeira morte por dengue em 2026, informa SES-PE - CBN Recife",
-      "headlineTranslated": "Pernambuco records first death from dengue in 2026, reports SES-PE - CBN Recife",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-07T10:20:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2hXZmhVWDlWRTZUR0Y2OXJOTjM2amxUSXY0MWdvNVlwVmJObVNDR2I2LWwyeGFBbmxzY0VlanV4XzZxWldmR0hMN09zb0RyZGRRelR1b0QtcU1SN2xpdWp1d1Rhc2x2V3I5NUlHeDZkYkg5TWxVMU9xTnpqNU1wWnZfOTdYZXpkU3c0QWJpLW1ING02VDJzMl94SmpTVDBMSHRaYldKbUMxZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CBN Recife",
-      "headlineJa": "ペルナンブコ州、2026年にデング熱による初の死亡者を記録、SES-PEが報告 - CBNレシフェ"
+      "headlineJa": "アンデスから来たウイルス: ハンタウイルス流行の起源とブラジルのリスク - SEE"
     }
   ]
 }
