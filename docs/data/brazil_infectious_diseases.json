@@ -1,38 +1,342 @@
 {
-  "generated_at": "2026-05-11T18:02:13.767381+00:00",
+  "generated_at": "2026-05-12T03:38:14.208705+00:00",
   "date_range": {
-    "start": "2026-05-09T18:02:13.767381+00:00",
-    "end": "2026-05-11T18:02:13.767381+00:00"
+    "start": "2026-05-10T03:38:14.208705+00:00",
+    "end": "2026-05-12T03:38:14.208705+00:00"
   },
-  "total_articles": 31,
+  "total_articles": 43,
   "state_summary": {
-    "Bahia": 9,
-    "Goiás": 1,
-    "Santa Catarina": 1,
     "Brasil (estado não identificado)": 11,
-    "Pará": 4,
+    "Bahia": 16,
+    "Pará": 7,
+    "Goiás": 2,
+    "Mato Grosso do Sul": 1,
+    "Pernambuco": 2,
+    "Mato Grosso": 1,
+    "Santa Catarina": 1,
     "Rondônia": 1,
     "Acre": 1,
-    "Alagoas": 1,
-    "Espírito Santo": 1,
-    "São Paulo": 1
+    "Alagoas": 1
   },
   "disease_summary": {
-    "Dengue": 15,
+    "Dengue": 23,
+    "Doença infecciosa (não especificada)": 10,
     "Influenza": 5,
-    "Avian Influenza": 4,
-    "Doença infecciosa (não especificada)": 9,
-    "Meningitis": 1,
-    "Measles": 1
+    "Avian Influenza": 5,
+    "Meningitis": 2,
+    "Measles": 2,
+    "COVID-19": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_bed6fa2b0a454c8f",
+      "headline": "Braço do Norte investiga morte suspeita de dengue em meio à alta de casos em SC - Hora Hiper",
+      "headlineTranslated": "Braço do Norte investigates suspected dengue death amid the rise in cases in SC - Hora Hiper",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T23:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczNlVV96ZEQ2b2pWNFpQeVFEanpOdU5RdTd6ZWI5TjNoOWtxczR1cVAtZDVQa0dkbXVFYmdKUnNQNzZrUkhZblZZMVUwZ04yWGtvZU9JZ3FnNjhCdzh0WGg1RlV3VDNlQy1teHBhWEZNZXJMLUgyT1RRRnNIbzI4Znh5bV92V240RThsMmhRckhBejZsNGUwTXMzWldldzRqYnJNSG9rOUNXZnhkekxnaHRPN0FNZms?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Hora Hiper",
+      "headlineJa": "サウスカロライナ州で感染者が増加する中、北ブラソ州がデング熱による死亡の疑いを調査 - Hora Hiper"
+    },
+    {
+      "articleId": "gnews_62c0153141958bdf",
+      "headline": "ba.gov.br - Plataforma de serviços e informações do Estado da Bahia - ba.gov.br",
+      "headlineTranslated": "ba.gov.br - Service and information platform for the State of Bahia - ba.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T23:07:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1VMYVBHYl9yeS1aeDRvbGtNZGNMdjRCZDBpMU1iamVmeGRyVXNiZjNwZEs2Q04xVFRkSE9zNGRIazRfdFdGeVJ2OEFvaGVxQzU4Yl9FUzd4UzRjNnpYVzhWZXlsT3ZqMWR2bldNbTNnLTIzRnQwZmEyX0c1MHdTQ3lXWnRZUTNDa1lhSkJScE9obGNVVGRB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ba.gov.br",
+      "headlineJa": "ba.gov.br - バイーア州のサービスおよび情報プラットフォーム - ba.gov.br"
+    },
+    {
+      "articleId": "gnews_5a978b38ba0480b6",
+      "headline": "Bahia entra em alerta com dengue e seis cidades já em epidemia - Jornal O Fluminense",
+      "headlineTranslated": "Bahia goes on alert with dengue fever and six cities are already experiencing an epidemic - Jornal O Fluminense",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T23:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXZ4T01WR2oxYkZaemthY3ZHcFdJOXFCUnVvck5XYUo3bHhkNngtM0VsNHFhaEpxalE0ZUI5Mk9MWlF0a3pYTkRqYUdjblgtQ3FpdkJ3bXhrQ3JpYVhoYzFaNWFFNHRwRllOeGF6bkdEQUF6azkzXzZiNjBkWnRxZ2J5Slh5a1FpSzd5VDh6bTJ5RzMz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal O Fluminense",
+      "headlineJa": "バイーア州はデング熱に警戒し、6つの都市はすでに流行に見舞われている - ジョルナル・オ・フルミネンセ"
+    },
+    {
+      "articleId": "gnews_16017c5c4e6420b1",
+      "headline": "Casos de dengue caem 41% na Bahia, mas 6 municípios seguem em epidemia - Acorda Cidade",
+      "headlineTranslated": "Dengue cases drop 41% in Bahia, but 6 municipalities remain in epidemic - Acorda Cidade",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T21:47:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZktkLVpJd3Nnc2lSSHM0TEJ1b1U5VmVDVU5zc2VlVWFoV2dIOE1ud1hYS2N4OEhiU0tubV9zN0Z3M05wR3JyNjdwaE1raWlDN0k1MkNXeXZNcVRQVzBXeGlHaVM0NnR1SlBjeW56b3djRkJoNDl3VDYyOGQtRXJFTU1UMWpFcTdZMXkwaU9sV18wdFJQalZHbG5YZHhSWmVHeU11Skc0MjVsaW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acorda Cidade",
+      "headlineJa": "バイーア州のデング熱感染者数は41%減少、しかし6つの自治体では依然として流行が続いている - Acorda Cidade"
+    },
+    {
+      "articleId": "gnews_39cbcbbaed21ffc6",
+      "headline": "Gripe aviária no Pará: caso é registrado em propriedade rural no Marajó e defesa agropecuária faz alerta - romanews.com.br",
+      "headlineTranslated": "Bird flu in Pará: case is registered on rural property in Marajó and agricultural defense issues alert - romanews.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T20:44:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZm1jYzcwc05JUFFGT1lxTC1BdlVUaEd0czNLNnJodnJwcWtYRjVBYzNlZ1d3cGhxbDhtX1U3c2pFZktCN1ZHRXp0b1VjZFJScFdTVmVsYlRkOEFoWWJ6SGRwMy1JM2xWZm1pdEhKR193VktYeDBNUGZlWTV4cGpDY0F0R05IM1JaYlpUNUF1bGxXaXRyUFo1eG5vQWlHRU45R3hfZHBQbzM2RVFBT041QXZ0ZC1xOGZNZlgwcEF0OWRBNEJDNTBTVFlTWDhDdFAtT2hoc3hCWVlzTTNv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "romanews.com.br",
+      "headlineJa": "パラー州の鳥インフルエンザ：マラジョーの田舎の土地で症例が登録され、農業防衛問題に警告 - romanews.com.br"
+    },
+    {
+      "articleId": "gnews_ba9bec78bd6909e4",
+      "headline": "Prefeitura de Goiânia alerta para medidas de prevenção da dengue - A Redação",
+      "headlineTranslated": "Goiânia City Hall warns of dengue prevention measures - A Redação",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T20:25:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZm9yNTlzQjU5UTQweHlLZmVtbDJYLTd0ZTllaDBKMnpFdjhHUWV3ZWRNR3EwQVB6RWNoaGtlbV9ibk9vcmZoVFAwZ2poTnJ2bExNYW5BUUxFX2ozdW1QYjNza1laMnJUWHhpMDc3Z1ZacUt4NGo0YkVNSHFUWGhCSlN0T1hWdE1FUVpGUDQybk1KNm8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Redação",
+      "headlineJa": "ゴイアニア市役所、デング熱予防策を警告 - A Redação"
+    },
+    {
+      "articleId": "gnews_6dfef99ee31163ea",
+      "headline": "Hantavírus no Brasil mata quase metade dos infectados: onde há mais risco (e por que não tem a ver com surto em cruzeiro) - BBC",
+      "headlineTranslated": "Hantavirus in Brazil kills almost half of those infected: where there is more risk (and why it has nothing to do with the cruise outbreak) - BBC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T20:24:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80R3hYWVQwZWFOVWN2c1FlVjZaTzRJNFBPUUhzVlZxZ1R4SUVTbzVjVFZpNXptZklFNlhfbjh4MG9yS1o0LXE2akZXRW9PcHljSGVkYVNmaEtvN1Vnczd3Y25n0gFnQVVfeXFMT1RXYjkwUjhTVXRiZEd5RHAyODFnZVNjVnJsUnVwNS1NQUdNRDVXbllKVWJZQUVCMk9heDNZQjVtYkVkZ2VnZ1k3dzluN2pWT1lpNUl5dHM1SUI3eXlSaEZDdDlCbTFnNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BBC",
+      "headlineJa": "ブラジルのハンタウイルス、感染者のほぼ半数が死亡：よりリスクがある場所（そしてなぜクルーズ船の感染拡大と無関係なのか） - BBC"
+    },
+    {
+      "articleId": "gnews_e98546250e078488",
+      "headline": "Ypê: Superbactéria contamina produtos e Anvisa alerta - Campo Grande News",
+      "headlineTranslated": "Ypê: Superbug contaminates products and Anvisa warns - Campo Grande News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T20:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHdSaW01TTVNMVROYklWdjE1VHVFTHREU1lSNDlySUxVUTBUT3VNcWVoeTF3VUlLMnFzWk1ib19iWXhMVUVoeGlmNUNnV3hfci1yUVZSSUNYLXkwRmFhZGVSVERvQVhhc2cwMXVPNHkwV1lSUnpwQURXemlEcU9QX09ROExjWUs0S2V2QmtmZFJZVEJ0VHF4T0JUYmU3WGluMlJHc1BXRHB0azBCNTFqbGNBOGZ1c04tZDlMaV96WWNsZklC0gHEAUFVX3lxTE1XSzB1OFUzVFRPQ3UtbEp0SGp3d0tEWkFycEFXSjFQdkgzcUNySTJaY3ZFbDk0NkFtT3BLM2JGc0hzMXp3ZWtpT3VRVjNYNmxqbEpHR25HYlFvZzlqcDUwbXF1SkNBNmpQMnFmQ2UwZDZjd2I5NDZEOFpMd3I1aHF4aGRsMWF2NUtEVnZzMlNmOUpET2JFdGtBSkdUZ1NjTEVwdzhwb0Z2QXMxLXFyRlFrMGJYWFBpTmloaXZzODJ6RlVzWFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campo Grande News",
+      "headlineJa": "イペ：スーパーバグが製品を汚染、アンビザ社が警告 - Campo Grande News"
+    },
+    {
+      "articleId": "gnews_dab0ef4fb24bf8b5",
+      "headline": "Seis cidades da Bahia estão em epidemia de dengue, diz Sesab - G1",
+      "headlineTranslated": "Six cities in Bahia are experiencing a dengue epidemic, says Sesab - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T19:50:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVZpT2prT29DLXdzRGJETzlaYjhhZWxQY2lnZTZ5Nm1pcnR0U0Jja3JWTFRIdFVLMlFhOUdla2hlNnFTU09rY2lTamJFemZiRHRCSThnX2dlWC1nSHQ2bVhvMGpMUFFCaGEwNUsyTER2aHZsdGxsb2pBa3FMdkZtYUlCdDBqbnFSQ250Qkl5aElkcFVhb3cwMtIBpwFBVV95cUxNYlBLY25HTkFzSFg2eGdrVWp5WmU3YkxmencxcHBIcXAzYkRzZDM2aThlY2owaVhPTU1LSUdPZjlWOVlEU3k5NWsybVl0eDNaczZ0b21sYmVGRjA5djZtWkZqZG5fOGFBSnU1OVVtMWFRQUhabzlWTWtsUG5MSVNQdldxQUs1LVI1Q2VJa2ZEXzgxcHZVaHdsOWo1YUpqaXJhbjVPcm1VSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "バイーア州の6つの都市でデング熱が流行しているとセサブ氏が語る - G1"
+    },
+    {
+      "articleId": "gnews_2ce6ff7e64bd4d7a",
+      "headline": "ÁUDIO: Bahia registra queda de 41% nos casos de dengue em 2026 | SECOM - Secretaria de Comunicação Social - ba.gov.br",
+      "headlineTranslated": "AUDIO: Bahia records a 41% drop in dengue cases in 2026 | SECOM - Secretariat of Social Communication - ba.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T19:42:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0k1U3Exd0FmaWV1ZjFuaVNja2w4N2xSOC1qOFZkZEw5aVNtSi0ybWxYR0VvTTlhaTVqdm5HSjE0d3UwUVlrNDQyNHFwNFQ3WEk2c3YyTkZmTy1TRURqOXJCaEI2dkVkX1dpbkx4dGtUZEM0LTBMNmFoRVF6aWFHVE5KUXNEdUtKTnRFekZ0eGM2cEFvVk82RkpLZEcxNHlJN2txRVdNX3NhVGFzbzBaS0FjMEFjZTN6a3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ba.gov.br",
+      "headlineJa": "音声: バイーア州は 2026 年にデング熱症例数 41% 減少を記録 | SECOM - ソーシャルコミュニケーション事務局 - ba.gov.br"
+    },
+    {
+      "articleId": "gnews_48a3e56c6f21755a",
+      "headline": "Seis municípios baianos enfrentam epidemia de dengue - Folha do Estado da Bahia",
+      "headlineTranslated": "Six municipalities in Bahia face dengue epidemic - Folha do Estado da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T19:37:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmdrQnJyQVB0NGtRWjlhUWFGTFBtTzJ2TFA2QnlqLU92cXdNX1NuM2R3d25JbmMzY2ptcTBoMDRCbDJMamk1SERiZlRORll0aGgxMzRlb2hWT1hlbmtCRUIzRi1hdlhDSnhPMUtfOE1ITklScGZ5d21VbEJPMG9ENm5rT1FTSGtXdXZXWjIzODJqcmpCU1MzcEt6Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha do Estado da Bahia",
+      "headlineJa": "バイーア州の6つの自治体がデング熱流行に直面 - Folha do Estado da Bahia"
+    },
+    {
+      "articleId": "gnews_08d8647e564c7ddf",
+      "headline": "Chance de surto de Hantavírus em Pernambuco é mínima, diz SES-PE - Diario de Pernambuco",
+      "headlineTranslated": "Chance of Hantavirus outbreak in Pernambuco is minimal, says SES-PE - Diario de Pernambuco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T19:11:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkhKZGhWTVRBbS1EZGJ2Mm4tUFdmX2Y4SjNuc1FMVk1wQTVmYmM5VllrQWZUdDhVczAzWmRyblFHQzNzOWdOM2ZMbUFQWVhJTGFZdjJZb1FPNlZtN0VieHpiSkVIUUl5bk0wckRnVDZqRXZZV1ZVandHd3NDQVFBUzh0Q3JCWE1fUDROOEQ1ZTVxMjZKY0tabk93MGd4c3IteWp0MVFKaVgwMldLTEhrbkNXbUtVUXY0NUMyU2tnQkhVMllTOE9rem9tdTdORHJyZXdBUVdn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diario de Pernambuco",
+      "headlineJa": "SES-PE、ペルナンブコ州でハンタウイルスが発生する可能性は最小限であると発表 - Diario de Pernambuco"
+    },
+    {
+      "articleId": "gnews_97cae2bf403c7e7d",
+      "headline": "Seis cidades da Bahia estão em epidemia de dengue após aumento de casos - Blog do Valente",
+      "headlineTranslated": "Six cities in Bahia are experiencing a dengue epidemic after an increase in cases - Blog do Valente",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T18:45:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZEaWRnOFAxVzFoRURtWFdRMlNyTk1mYktQSEh3NDJfbjlKNW81SURqb1JJdGVNRHRoeU5TR3ZIc2oyQWhCcUhfMWFmQ2hrYjc4SGRWcXBYWDVnNm9OT3o4ZW1JVEdVMVoxbFBoTHoxVmFqa215V2dhUDFWUjJDenduSkRWMTlGaWhoczJNWm54MnQ5VEROSlVaME9tVVBuVXdWRkFCNGVvRWFRc2dLYzBtX0pCcjJ5?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Blog do Valente",
+      "headlineJa": "バイーア州の6都市で感染者数増加を受けてデング熱が大流行中 - Blog do Valente"
+    },
+    {
+      "articleId": "gnews_2c0ffc1653b0346a",
+      "headline": "Especialista alerta para epidemia de dengue em cidades baianas - MundoBA",
+      "headlineTranslated": "Expert warns of dengue epidemic in cities in Bahia - MundoBA",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T18:38:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWZweG9TQl8wV3hTR0I0cVV6RlZEbTNPMEVVQmxhTDlxYnA4X2RCUVFySVlLYk9md0tmYlhSZ3VDZnJvN05SRnhEQ0c2SUMwTHpLclNTYklVenRGeWM0ZkxNd2hqYmx1UFdHS0h5bWJ2aVNjWDZPYWNja2lucTQyNkU5US1Ya1VteV81U1pKeGFFcmpnMGtF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MundoBA",
+      "headlineJa": "専門家がバイーア州の都市でのデング熱流行を警告 - MundoBA"
+    },
+    {
+      "articleId": "gnews_96c393f883ee1b08",
+      "headline": "Meningite tipo B é descartada em Cuiabá; exames adicionais vão identificar qual tipo da doença está em investigação - plantaonews.com.br",
+      "headlineTranslated": "Type B meningitis is ruled out in Cuiabá; Additional tests will identify which type of disease is being investigated - plantaonews.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T17:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOVkzbVBOdnMxRk5PUlFOcFpiWHgtdmtjZ1Qxcm5WT3FuRjRJZmVtSkRReUMxZ1BDTTQteThDM29abWRaVGtVNHFoaFFXb04tamFXQmN6dVN5aU9YN2RQeDUtMmhFTTM3UDBKdjZZZTR6Z1lwTndseGVMeF8ya2V6TDI2aC14QlluX2twTUxyZHpaMVZQUUdkYnBmeWlpYzJmMk54Ml9zMzM4RFhWcHgwS20yVS1JMlB2d0lFZkRQcUJCZkpPalRFcy1USW9PXzNLemkyRE5IX1ZHQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "plantaonews.com.br",
+      "headlineJa": "クイアバではB型髄膜炎は除外されています。追加の検査により、どの種類の病気が調査されているかが特定される - plantaonews.com.br"
+    },
     {
       "articleId": "gnews_435499f422a2883b",
       "headline": "Bahia tem seis cidades em situação de epidemia de dengue; veja lista - Aratu On",
       "headlineTranslated": "Bahia has six cities experiencing a dengue epidemic; see list - Aratu On",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-11T16:56:00+00:00",
+      "publishedTimestamp": "2026-05-11T16:55:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeC1rSENrVzEzS3Ita1NtTThJRUJGRXUtY2tTTi0tTm5YZmZUNXY3azFFMkRGTHJ4UkFpS2cyQWdkMUVqVjAtNkVvOXFvRXFFTGNGLW1sbkZUMjBJVTkxOEtIckZyckUxVFlKRTU4a0xFVE9fbkRSVWtkcU1IRXdIaER5WHh0c2JuNkZNaVpiZ0lJbXZIcXJnb2hNVW9IZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -168,6 +472,26 @@
       "headlineJa": "バイーア州の6都市がデング熱の流行に直面しているとセサブ氏が語る - Portal do Case"
     },
     {
+      "articleId": "gnews_6715ceb1d37b2d20",
+      "headline": "Pediatras alertam para risco de sarampo durante Copa do Mundo - Sociedade Online",
+      "headlineTranslated": "Pediatricians warn of risk of measles during World Cup - Sociedade Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-11T13:13:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk92eUVVaFE4V1pwSWRDd1drVHdSNjZTMWZ1eFk5ZEphZHZEV0xWZzdZQVhLX0hjdmd5Q3hXMWRudnRjTGhoY3VXQjF0dmJEcjNrS2EtY2t1OGo0VFdFVVMwM3FEMTJ5UE5SZUhGbFJSSE5lYzRWOXJ6ZENKb0VWNXJ2TVpDektEWjMwdFp6QzdZSFFNbGZLV1ZpZDRISWIwUnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Sociedade Online",
+      "headlineJa": "小児科医、ワールドカップ期間中の麻疹のリスクを警告 - ソシエダーデ・オンライン"
+    },
+    {
       "articleId": "gnews_f1bfb1c18d2de746",
       "headline": "Infectologista alerta para avanço da meningite mais letal - vgnoticias.com.br",
       "headlineTranslated": "Infectious disease specialist warns of advancement of the most lethal meningitis - vgnoticias.com.br",
@@ -286,7 +610,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Taktá No AR",
-      "headlineJa": "バイーア州、6都市をデング熱流行地に指定。彼らが何であるかを理解する - Taktá No AR"
+      "headlineJa": "バイーア州、6つの都市をデング熱流行地に指定。彼らが何であるかを理解する - Taktá No AR"
     },
     {
       "articleId": "gnews_60f045be252e17d8",
@@ -490,44 +814,24 @@
       "headlineJa": "ハンタウイルスの発生があった船から乗客が下船し始める。避難作戦は…まで続くはずだ - Bnews"
     },
     {
-      "articleId": "gnews_46adaf9478c40746",
-      "headline": "Ameaça silenciosa: infectologista alerta para hantavírus após morte em MG e surto em navio - Rádio Itatiaia",
-      "headlineTranslated": "Silent threat: infectologist warns of hantavirus after death in MG and outbreak on ship - Rádio Itatiaia",
+      "articleId": "gnews_6fdcafb1daa74d35",
+      "headline": "Passageiros de cruzeiro com surto de hantavírus estão assintomáticos; OMS diz que não é Covid - Diario de Pernambuco",
+      "headlineTranslated": "Cruise passengers with hantavirus outbreak are asymptomatic; WHO says it is not Covid - Diario de Pernambuco",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-10T19:21:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczNyODVwRTRyQXljQk9zbWRNYXdNTTU5dk9DdWVodmktWGpoX0s0dmxZM2hmVjdZSlRpYXAyZ2F0SExfeHpmMUtPRFNZSnZiV2VBb2lEcUJWWHBuY2kzR1FmYWhLbE5lbU1VZWtoQVIzTUZJQVFRMkowX2JYV1AtM2NvTzF0RU5aUWlQMVJORk1IQzFZVm5pS3BGeDdwekJ3WFpXLW1iSUQ1bk9DU2ZjLTBlUnp5MUFuTWlaQm5Dd1hlQQ?oc=5",
+      "publishedTimestamp": "2026-05-10T13:46:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTUxvbVFXa2pJeDZiRm14NVhhcE9Ha1VTVWpVemtXd2NLTzZ0SkxId2ZVNG1TclY4ME9qRGhySEZTR2UzVExBb0duUzhGUUxqWVRuZlZsRlMzT0RkbDhHOU45bVQ0YTBmZHhHb0FwVkFmaFAxWkZqaGZxN2lGQ2hXdUhqSDI4akpINElhd0JJenZSMDhfUll6QUhpVkdFY0hUREgtVF9NVlFvVGtOZlN1ZHYwUk1oeG9xQzhEZm53ME42SGdZNzZ1STNMa19PbkV5TURCcEp3d2lvRHFQYmE2dS1FWTVieWNOYXBDNW9XTGs0OEI5?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "COVID-19"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "静かな脅威：MGの死亡と船内での集団発生を受け、感染学者がハンタウイルスを警告 - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_5199d9ea310d5766",
-      "headline": "Terrenos abandonados são motivo de preocupação com dengue no Seminário - Midiamax",
-      "headlineTranslated": "Abandoned land is a cause for concern with dengue fever at the Seminar - Midiamax",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-10T18:21:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlhDOU10dHpCSHlMbmpMTG1UbkVfLVBlNThrWXBUZGcyOEdLTXEyaFM5Z1lBR21pQWhLdG9XZ0ZUZEN4a1B6V0lnQWE2QmRraTRsck1ROW1TQnNGRUJHNk1zVms1Z1EtcjRMVTNBbDNRbXdySVRwaDdkd0RyT2RXQXRxNW50NEF5Sks5SFBFNU9yZm9JeGpvNXJOMjBzYU00bFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Midiamax",
-      "headlineJa": "放棄された土地はセミナーでのデング熱の懸念の原因 - Midiamax"
+      "sourceName": "Diario de Pernambuco",
+      "headlineJa": "ハンタウイルスの発生に感染したクルーズ乗客は無症状である。 WHO、新型コロナウイルスではないと発表 - Diario de Pernambuco"
     },
     {
       "articleId": "gnews_c7a19d3460d1090e",
@@ -589,66 +893,6 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
       "headlineJa": "ハンタウイルスの感染拡大に見舞われた船がカナリア諸島に到着―アラゴアス警報"
-    },
-    {
-      "articleId": "gnews_90d1ca44504bf5c7",
-      "headline": "TRISTEZA: Mãe é espancada e morta pelo filho em surto na Serra - Jornal Espírito Santo Notícias",
-      "headlineTranslated": "SADNESS: Mother is beaten and killed by her son in outbreak in Serra - Jornal Espírito Santo Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-10T01:19:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUxLVGJrXzUwTFFiekdOeDMyTUpncTlSRHRBNXRDUkRrSzltZDFpRllXQmVJajc0ZDNQOEdlV1V4UFNVRE5GNmhNM0JuVE9PajJWMDlxZk9FWVZJeXZRNzhvRDFWRko1ZGNJXzV1aG1DMS12SnJaSjA1ZG0xQk5SY1Z0TWIzbWh1dExPdzlOX3pHUHNicVhCdDd2Y2l3MGhVMTNlOTh3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Espírito Santo Notícias",
-      "headlineJa": "悲しみ：セラで発生した集団感染で母親が息子に殴打され死亡 - Jornal Espírito Santo Notícias"
-    },
-    {
-      "articleId": "gnews_7fec18ead42e2049",
-      "headline": "Agrodefesa reforça importância da prevenção contra influenza aviária no outono e inverno - A Redação",
-      "headlineTranslated": "Agrodefense reinforces the importance of preventing avian influenza in autumn and winter - A Redação",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T20:45:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdLR3B4WUZiTlo2STdLdl9KeElrQnU0RlZVTWVmNE84ZWRBa29uOWRFeXl6TVRfd3RrbExFcjRLZEVxZ01pcGhUWHNhNnZBSlNVYzRxVGE5QnZmWWhEbDlERzF4SjQ3aFFmbkxOQy1LRTVQU3lvQVpURmRVU3dsUlRnT3lOQ1dvQXBQYU9YOXU2N0hYcTFyb19hNlFOTTM1UEdvNGF3WWg5UUpCSEdsQm0xdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Redação",
-      "headlineJa": "アグロディフェンスは秋と冬の鳥インフルエンザ予防の重要性を強調 - A Redação"
-    },
-    {
-      "articleId": "gnews_39a46a043778c336",
-      "headline": "Países europeus organizam retirada de passageiros de navio com surto de hantavírus - Portal do Marcos Santos",
-      "headlineTranslated": "European countries organize evacuation of passengers from ship with hantavirus outbreak - Portal do Marcos Santos",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-09T20:40:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk1rVURmMmV6Rlg4MEFlb3Rra3VCRnNsRTBndnBCSzNTWTV3ZmNrcEs3MExuUEMyRjlRUW54SDFVV1lIQUw0ekh4bGxjNFVYMWhOZGIxTENjTDJoa2pvbld5cmZFaXdRc2o1NE80UEIyVHNfWHduUXlKbEpzdXNQczVXYXdFZ3BtY3hyVXdvQmswUHVQQUZrc01zSjVqYjc0aVZQOVpJektDck5QbU9DbnVBdmx4MWMzWlhmQU1kOHlXOFFxcEdYaFFzYUo?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal do Marcos Santos",
-      "headlineJa": "欧州諸国、ハンタウイルス発生で乗客の船からの避難を組織 - Portal do Marcos Santos"
     }
   ]
 }
