@@ -1,39 +1,326 @@
 {
-  "generated_at": "2026-05-15T10:24:47.150936+00:00",
+  "generated_at": "2026-05-15T17:51:06.784391+00:00",
   "date_range": {
-    "start": "2026-05-13T10:24:47.150936+00:00",
-    "end": "2026-05-15T10:24:47.150936+00:00"
+    "start": "2026-05-13T17:51:06.784391+00:00",
+    "end": "2026-05-15T17:51:06.784391+00:00"
   },
-  "total_articles": 55,
+  "total_articles": 54,
   "state_summary": {
-    "Pará": 20,
-    "Brasil (estado não identificado)": 13,
+    "Pará": 19,
+    "Goiás": 4,
+    "Espírito Santo": 1,
+    "Pernambuco": 2,
+    "Paraná": 3,
+    "Brasil (estado não identificado)": 11,
+    "Bahia": 15,
+    "São Paulo": 2,
     "Minas Gerais": 2,
-    "São Paulo": 1,
-    "Paraná": 1,
-    "Bahia": 14,
-    "Ceará": 4,
-    "Mato Grosso do Sul": 2,
+    "Ceará": 2,
     "Distrito Federal": 4,
+    "Mato Grosso do Sul": 1,
     "Tocantins": 1,
     "Amazonas": 1,
-    "Paraíba": 6,
-    "Pernambuco": 1,
-    "Alagoas": 1,
-    "Rio Grande do Norte": 1
+    "Paraíba": 2
   },
   "disease_summary": {
-    "Measles": 3,
-    "Yellow Fever": 3,
-    "Dengue": 29,
-    "Meningitis": 1,
-    "Doença infecciosa (não especificada)": 15,
-    "Influenza": 5,
+    "Doença infecciosa (não especificada)": 13,
+    "Dengue": 24,
+    "Measles": 7,
+    "Yellow Fever": 4,
+    "Chikungunya": 4,
+    "Meningitis": 2,
     "Avian Influenza": 5,
-    "Zika": 2,
-    "Chikungunya": 3
+    "Influenza": 5,
+    "Zika": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_fe90f35f58cabf40",
+      "headline": "Vai para a Copa de 2026? Goiânia orienta atualização do cartão de vacina; veja onde se imunizar - Jornal Opção",
+      "headlineTranslated": "Are you going to the 2026 World Cup? Goiânia advises updating the vaccination card; see where to get immunized - Jornal Opção",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T15:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVlVTmNlek5NLXlCbEk0MldVSnJTSFZ3TG1ReU5GM2lCZkFUUjZDeFV2STFrR2VsTHFTalloNWNzTkU4a3FfU3JGanZ4M0V3YXJuS2wxWmg0VzJSeGRZT2oyRzR4aFlHbDY3U2xxTnZKV0pxSDgtUWpYRXFKSElZRzEzX2NCb0VQNE5XLURENHFtbk9vRFJNOC10cVI5R2M?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Opção",
+      "headlineJa": "2026 年のワールドカップに行きますか?ゴイアニアはワクチン接種カードを更新するようアドバイスしている。予防接種を受けられる場所を確認 - Jornal Opção"
+    },
+    {
+      "articleId": "gnews_fe0d8bd1a3cc4d43",
+      "headline": "Cuidados para prevenir a proliferação da dengue devem ser mantidos mesmo na seca, alerta Saúde - CBN Goiânia",
+      "headlineTranslated": "Care to prevent the spread of dengue fever must be maintained even during drought, warns Saúde - CBN Goiânia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T15:41:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWk1TT3owX3hKLVc1c3IzWHJESTZ5NjNYVk43TklQWUlvc1VKem5ERmVpMnc0QzkwV2NXdnhQVUIzRkpSWGw4YXB0UG5XZlhObFROcENJN0tjaFFZZE43UlFfakhFUjR5WWVhbGtmbE5feEtFeF9kc3QteWZnM1ZscHRzZFdSV0JjOUFOMDRqblRPNkdvSTdsZDFNTWdrdE1yTnhKUXEtOUJyazN0bkxVbGg4T3FOaWZoSGJNbjM0VVU1cWZ3eU90UTVGREVTWVpobXNJU0pESlYyejdWUnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Goiânia",
+      "headlineJa": "デング熱の蔓延を防ぐための注意は、干ばつ中でも維持する必要があるとサウデ氏が警告 - CBNゴイアニア"
+    },
+    {
+      "articleId": "gnews_e336032e4ea214d8",
+      "headline": "Marataízes usa drones para identificar focos do mosquito da dengue em bairros da cidade - Jornal Espírito Santo Notícias",
+      "headlineTranslated": "Marataízes uses drones to identify dengue mosquito outbreaks in city neighborhoods - Jornal Espírito Santo Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T14:44:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWUl5M1BrWGJGbDVNeUxXdUJ4Y2hOT1JpR1kxS3lQdEY4WV9Za0RiS1pFM0hiOG4yd3JHMUtmaTZuU2MwRkUzSkVkU3RPbEp2aEdoaElfNjhqOW9NUnl5Smt1Q1VsbjN1LXExa0JVU1B0Smh6bFE5bG5nLUk4MzNHQ1REM2ZSM2F1d3ZWRDduTlMwd3Q1bEljRVh6d0pFbVdLSkJWRjRYOENFRE9pbFBNdHdLMkx1QmpmeTMwMEhweDNGWDhxSno3dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Espírito Santo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Espírito Santo Notícias",
+      "headlineJa": "マラタイゼス氏、ドローンを使用して都市近郊でのデング熱蚊の発生を特定 - Jornal Espírito Santo Notícias"
+    },
+    {
+      "articleId": "gnews_efb8b5b84bc9e92b",
+      "headline": "Pernambuco apresenta leve queda nos casos registrados de dengue - Rádio Cultura do Nordeste",
+      "headlineTranslated": "Pernambuco presents a slight drop in registered cases of dengue fever - Rádio Cultura do Nordeste",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T14:17:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlRuU3BtdGNrRlA5LXg4d1M4OUV6djA5M0RYejNJWmVDYjZEbnlzRU1DSC1DSEZBUkthYUU1VUM1cDJ1d2RfUVoyRGMtZElqZTA1VE8tcDlLWm9wYWJXVTBYdlNwNXJxM1NDMTRkaVB1T0d2WXJlQlNVbDFGNXJNXzhkRldXZlZFcDNPYWlfdDlqU2dIeDVCMERYR1lYNm8wVmdJVQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Cultura do Nordeste",
+      "headlineJa": "ペルナンブコ州、デング熱の登録症例数がわずかに減少 - Radio Cultura do Nordeste"
+    },
+    {
+      "articleId": "gnews_3181226e58fb3c9b",
+      "headline": "Londrina reforça vacinação contra sarampo para viajantes da Copa do Mundo de 2026 - CBN Londrina",
+      "headlineTranslated": "Londrina reinforces measles vaccination for 2026 World Cup travelers - CBN Londrina",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T14:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ19Yck9nS2s5MldqcDd3S1ZSQVlOU1F0REtkdS1oaDM0b0JxaDJ4WjduQndOblVhV0VUaVl3WEhSakkwMS1qb1JDYzc1T0k2MmwtTzdEU3ZOX2ZuZVVEemxQR09Qc21rRGs5NDEtSkxNQVVrZUdlTk9ueGxwRVFDbVQxYTlNY3VfU1lGMC02SEVGak1Db3JJbzdlYk0tTjItd0xmeWFlc0o3dXhUR285bkgwVmdKMnBX?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Londrina",
+      "headlineJa": "ロンドリーナ、2026年ワールドカップ旅行者への麻疹ワクチン接種を強化 - CBNロンドリーナ"
+    },
+    {
+      "articleId": "gnews_fdf6b68e72cbbffc",
+      "headline": "SP confirma mais duas mortes por febre amarela e alerta cresce no estado - vtvnews.com.br",
+      "headlineTranslated": "SP confirms two more deaths from yellow fever and alert grows in the state - vtvnews.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T13:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM1ZOZU5WNDBmSW9XU2NlbEgzUGJtWXhZUVdYV0xlVEF3ck1pOFhta3lfWWdCQUYtd1VTeHRJallfSnY5UU9NRDhsTGdvU0RUMlZFeDYxdFZnUnZpN0Z4bkx4UUFMUUhVTkJub2dqclpETVdsdGVvZHhmNjVFa3gtdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "vtvnews.com.br",
+      "headlineJa": "SP、黄熱病によるさらに2人の死亡を確認、州内で警戒が高まる - vtvnews.com.br"
+    },
+    {
+      "articleId": "gnews_26a004563b6906ea",
+      "headline": "Aumento de casos de dengue e chikungunya leva MPMS a instaurar procedimento para reforçar ações de combate às doenças em Sete Quedas - MPMS",
+      "headlineTranslated": "Increase in cases of dengue and chikungunya leads MPMS to introduce a procedure to reinforce actions to combat diseases in Sete Quedas - MPMS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T13:34:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOb2QyN3pySmNqZ1JEakRxZE00OGx4c1BCSXNkT3Z3cEtuMkFOQmdEc0JkbmNlT3lyUGtlQUZCUFdWQ2FPM2NFUjVvVkZ5RDE0dlFPM3JmVzNlNzlYcUt6QVlSVzdxWVJxanhGU1JXa0ZpVjFhVjdFNDdLejdNc1JhTE9weEFBb3R2N3ZudFkteFpsVktZNExuOTVTeDdhcFBBYVFUb1ZiR05BUUxyRnM1dzhrbjUtLXBsT2R6TDhMWlpLUGhnOVhoekdjcG1oLWUxb0Qyb3Yzc2lfbUFZbktUWUVwSzJwa0F0ZnlaYTNDRHNKMlRIT182Wi1xOXdxZThXUmJF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MPMS",
+      "headlineJa": "デング熱とチクングニア熱の症例増加により、MPMSはセテ・ケダス州で病気と闘うための措置を強化する手順を導入する - MPMS"
+    },
+    {
+      "articleId": "gnews_ba36a1d3b768d6a7",
+      "headline": "Cidade de Dracena confirma a morte de um homem por dengue - band.com.br",
+      "headlineTranslated": "City of Dracena confirms the death of a man from dengue fever - band.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T13:29:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkFCVFUzUGVDZEY0TmptLWZOWXAzRWM2U1FrU0l6UWNhSnJlaXIwRkxKS0trSFAzSkU3WlhvM0JNZjNKTEtwTzZOUDAyMi00VHFjWjcwdm9Hb2xNZ1pJQ2tRRjJ0RE92SWNPRjFSRW4wcWJocHJUYTRlSGRFSVhjQXVvMTJfMDZobGtsX2dPZ3pkMmhfb0JoTFpWWmhVS2ZZcXZHNmdGOWJ6VlhnYWRXc0lWNUZqRnFEVzVJM2hJN0NtbTN0YVRJTkJid1ZhdGVoS2c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "band.com.br",
+      "headlineJa": "ドラセナ市、デング熱による男性の死亡を確認 -band.com.br"
+    },
+    {
+      "articleId": "gnews_a6805da5e43943fd",
+      "headline": "Vai para a Copa 2026? Inclua a vacina contra o sarampo na lista, orienta Sesa - Portal Tempo Novo",
+      "headlineTranslated": "Are you going to the 2026 World Cup? Include the measles vaccine on the list, advises Sesa - Portal Tempo Novo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T12:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajdGUHhRaWJkZGNmbGFQNTBZNU1aRzU3bVRLanJIWXltbVJ5WjZ4cDY5TmdwV3J6WUJmWmF5cXl0YUFFYVlEaktIcGFYTGItS2xnSVI0TVRCTzhUZGUyUHJ4RmJ1aU1ZRFZuS2FSSG5TZ1VTX0Qzd1RnV1E5N1c0VWNlanltYnpsakh0d1JaX3FyTHJzOUlUWlh4cGdoUURUMnFBQ0pEaXQ4cXV1NFhRcA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Tempo Novo",
+      "headlineJa": "2026 年のワールドカップに行きますか?麻疹ワクチンをリストに加えるようセサ氏が勧告 - Portal Tempo Novo"
+    },
+    {
+      "articleId": "gnews_fe8e4aa598deec9e",
+      "headline": "Prefeitura de Goiânia orienta vacinação contra sarampo para viajantes da Copa do Mundo 2026 - Notícia Toda Hora",
+      "headlineTranslated": "Goiânia City Hall advises measles vaccination for travelers attending the 2026 World Cup - Notícia Toda Hora",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T12:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWZwZkl5aWVWdHFzRW84WjRjc2c2OVgxaEpDWXVxVlNHZGNoRHpSTmdGeVVUbFZpWWdzM2dPMTRuRFBQQXl2emM3eHhKYXRIbXhKaDloM1BaRFl2QllxdnE5ZXNuenYxVWt3aVVZTE00bVdiNW1VUTJkRFc1RGxpQ0FSR0FjV1dsdHp6QjA1Mk9oU3JLbFhrS2dzblV5UXJHMkMwbWR2S0hrRjlYQTcwZHVYakxLZ3Mxa2YxbnM3S2I?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícia Toda Hora",
+      "headlineJa": "ゴイアニア市役所、2026年ワールドカップに参加する旅行者に麻疹ワクチン接種を推奨 - Notícia Toda Hora"
+    },
+    {
+      "articleId": "gnews_afcf9d8299bcffdd",
+      "headline": "CASOS DE DENGUE CAEM NA BAHIA, MAS VIGILÂNCIA SEGUE REFORÇADA - Se Liga Barreiras",
+      "headlineTranslated": "DENGUE CASES FALL IN BAHIA, BUT SURVEILLANCE REMAINS STRENGTHENED - Se Liga Barreiras",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T11:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFpGUUVCMmo5TTFVaFBOQ1IzdW03bHhUcjZUbXBrVWNpTWFiLXZsTVNUU25ZYmxpdDZ5OFp1OVIzRkliNlZKZ1M3MXVmRGQyNEQ2VzVIMDBSSDB0X1Y3NC14RWJCTnFWSWgzVlJOQjRCMDdhSWlTaTlLbFlzWDZOek1KRlJSODdvYWJEWHY5Njl4ZHFqQ0huZXhFRFc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Se Liga Barreiras",
+      "headlineJa": "バイーア州でデング熱患者は減少、しかし監視は引き続き強化 - セ・リーガ・バレイラス"
+    },
+    {
+      "articleId": "gnews_e758231f8322ef64",
+      "headline": "Prefeitura de Goiânia orienta vacinação contra sarampo para pessoas que vão viajar para a Copa do Mundo de 2026 - A Redação",
+      "headlineTranslated": "Goiânia City Hall advises measles vaccination for people traveling to the 2026 World Cup - The Editor",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T10:45:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMFhwZmFIc1VCMnVwLTBySEt3WkE0ckFWMUNRTEpCdWJlTWsyMmNQMHZXb1BrZUQtVVRVaGpTM3dnckhGT0p1cDNBQU5HVG92ZXk0MFF6YVlWMU96M000OTJVbWRJMGs2OGd6bENHbk9QQzJWUFFyOVlZVW16NlpMNlUtWTI3elVoUlVtWGU3SmZLOWV1S3djRGU5SnltVlE3eXhES0FtZ3dLa21iZlJpTElNU1JuRHZkd3A2N3pEZXVOSUlCQWFkN2E0c2xfNFAyUkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Redação",
+      "headlineJa": "ゴイアニア市役所、2026年ワールドカップへの旅行者に麻疹ワクチン接種を勧告 - 編集者"
+    },
+    {
+      "articleId": "gnews_415a6403aebcc8bd",
+      "headline": "Prefeitura de Londrina orienta viajantes a atualizarem vacina contra sarampo - Rádio Paiquerê FM 98.9",
+      "headlineTranslated": "Londrina City Hall advises travelers to update their measles vaccine - Rádio Paiquerê FM 98.9",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T10:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalFiN2YxdWlZUmFkVHpyQ3gtS0h0SmlFWnRrSGtJT2xtV1RvUVU2UlU5azJQVTFWZ0hZbUVvNnIxM1hfMVNpS0RSdnBHdXRCZ2RwUnBDalhGQUtzc3prbzFlVGNWczRKM1M5cm5mem1MaGJxRko3aFAxNlNlX1RSV3ZTX0FSVFN0MGtoQlVIejA2U2s?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Paiquerê FM 98.9",
+      "headlineJa": "ロンドリーナ市庁舎、旅行者に麻疹ワクチンを更新するよう勧告 - Rádio Paiquerê FM 98.9"
+    },
+    {
+      "articleId": "gnews_79795bb30afd7cb2",
+      "headline": "Secretaria de Saúde confirma caso de meningite em Três Lagoas - Midiamax",
+      "headlineTranslated": "Department of Health confirms case of meningitis in Três Lagoas - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T10:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVFNek5WRmNwUGVCU3dHRFJUbVN4cllzOENjeW5xOURDVDRlMEl4UmRVQzE2ajVSZkZ5WjQ1VGE0eHlSaWFQQnR4bHJwTmRyMExLZEtJNnVBcDkxelZNZ0dkWmg0OENhOVVkZUxlTnZRaHY2TzZsWTRfb0xsM3MwRGZ2akVfODlNTTdTNEdhUFpmbVRxcWVn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "保健省、トレス・ラゴアスで髄膜炎の症例を確認 - Midiamax"
+    },
     {
       "articleId": "gnews_a98e826ef8bce5bb",
       "headline": "Sarampo: quem vai para a Copa deve se vacinar devido a surtos nos países-sede - Correio Braziliense",
@@ -53,26 +340,6 @@
       "dataSource": "Google News",
       "sourceName": "Correio Braziliense",
       "headlineJa": "麻疹：開催国での流行のため、ワールドカップに参加する人は予防接種を受ける必要がある - コレイオ・ブラジルリアン"
-    },
-    {
-      "articleId": "gnews_0738b40312fb40df",
-      "headline": "Estado de SP confirma mais duas mortes por febre amarela - Notícias ao Minuto Brasil",
-      "headlineTranslated": "State of SP confirms two more deaths from yellow fever - Notícias ao Minuto Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T00:12:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWZwWFZJUlJMWVRfRlZ3akhodmhsTE90b25JaW9IV2hyV19oeGR6blR6bWp4bk10MWtTRUUxeUNkdHVtNUJfUTdkRlY0dDdLMkhYdlJZVl84b0tjNVlCUG12RVpHc1BGWUthX0w1TjVDWE0yOEV3TnY4ZTBDZXQtNnFUMHRtU0tqUGtlSlF3Q2FVcjdqUk9TMDdobFNzNFc2SWRReDVVZlVOSUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Notícias ao Minuto Brasil",
-      "headlineJa": "SP州、黄熱病によるさらに2人の死亡を確認 - Notícias ao Minuto Brasil"
     },
     {
       "articleId": "gnews_b6bb82edffb40046",
@@ -115,6 +382,26 @@
       "headlineJa": "デング熱、燃料、保健センター、請求書: 市長らが SPIW での AI の実用化を示す - Tribuna do Sertão"
     },
     {
+      "articleId": "gnews_7b7785c0212a70be",
+      "headline": "São Paulo registra mais dois óbitos por febre amarela no interior - Enfoco",
+      "headlineTranslated": "São Paulo records two more deaths from yellow fever in the interior - Focus",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-14T22:31:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1ExMlVaUS1IT2xlbmViOGVBdVZMSGZxd1lmVjM5U2pSYTBpYTY5dEt5UEVRZXhTVGR3d3RfQ1JXazRVMFJPdW5UbmpZWmhIUGp1N1VrZWFRMF9hR2VKdEc4T1VKMkR1aThhdkhpUEpTRzNDSURjMHRFbldDVmc0MHpCS2J4T0t4Z3BGVERsU0ZKa0U?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Enfoco",
+      "headlineJa": "サンパウロ、内陸部で黄熱病による新たな死者２人を記録 写真1枚 国際ニュース：AFPBB News"
+    },
+    {
       "articleId": "gnews_7d35a1c26eae6083",
       "headline": "Uberlândia tem 628% mais casos de dengue que Belo Horizonte - Tudo Em Dia",
       "headlineTranslated": "Uberlândia has 628% more dengue cases than Belo Horizonte - Tudo Em Dia",
@@ -133,26 +420,6 @@
       "dataSource": "Google News",
       "sourceName": "Tudo Em Dia",
       "headlineJa": "ウベルランディアのデング熱感染者数はベロオリゾンテより628%多い - Tudo Em Dia"
-    },
-    {
-      "articleId": "gnews_e1f22cc20fd9aa8a",
-      "headline": "São João de baixo custo: em meio à epidemia de dengue, Alagoinhas confirma festejos de 19 a 24 de junho - Acorda Cidade",
-      "headlineTranslated": "Low-cost São João: amid the dengue epidemic, Alagoinhas confirms celebrations from June 19th to 24th - Acorda Cidade",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T22:06:11+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcldPYnR3Y0FZSTdCeFllY1lZRHpOMnNWMkNvZVdMdlZXZDUxZnhieFRGNHJZa1RmRzRqRXpGTUZuXzI4Rks3SkZLRzk4N3dKZ0hiRHhneDBnSFNreUxjUTJlM0drdFNKdHVvTGF3TGZRTlBKdG1UTzZQdTEyaVpQenMxLW4wRG1mLWVwckxKM0pYUUdMRUtrWGc3VzBWTExlTDZ2M1VvQjlFS2JUcGE3TnB1dEhxQ0VwTmdzUWYwUUZvakR1SDJ2WDViR0NPZkpNc0xQcFNjR0RfdjA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Acorda Cidade",
-      "headlineJa": "低価格のサンジョアン：デング熱流行のさなか、アラゴイーニャスは6月19日から24日まで祝賀会を開催することを確認 - Acorda Cidade"
     },
     {
       "articleId": "gnews_0760a750119771ee",
@@ -189,8 +456,8 @@
       "locations": [],
       "states": [
         "Pará",
-        "Minas Gerais",
-        "Paraná"
+        "Paraná",
+        "Minas Gerais"
       ],
       "dataSource": "Google News",
       "sourceName": "Paranaíba Mais",
@@ -298,26 +565,6 @@
       "headlineJa": "フォルタレザの駅やUPAでデング熱の迅速検査が拡大 - A Notícia do Ceará"
     },
     {
-      "articleId": "gnews_685d9d005c2a58b1",
-      "headline": "Cobras, lixo e dengue: terreno abandonado vira ameaça a moradores em Campo Grande - G1",
-      "headlineTranslated": "Snakes, garbage and dengue fever: abandoned land becomes a threat to residents in Campo Grande - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T16:25:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYlVNeWY2SmU2VUltMk50TlFfdkh2aDBKUHFMZVJ2WUZOZDRlQzRsR0tSbWlhT2xiaVprRVpGZkx4SnRWdDBnMHdFaDlDNkdaN0Znbm1DeVNBbklmTUxoeDRnZWNHclQ3eExHaC1JRGkwd0hKLXNRSUg5NE9uZWNLNFlfVzN6YmVxWGVvaG4tVHVRZXVQQktob1J2WmxhUGVIZHBWeThpaFNndEc1UmFnV01LYUkxWlduZHJjVDg4bERBTm5peFZERVNpMmxoa0lITGtvZUQtajFqaHdEZDI5SXl6bmVkM1NET2fSAeoBQVVfeXFMT2JVTXlmNkplNlVJbTJOdE5RX3ZIdmgwSlBxTGVSdllGTmQ0ZUM0bEdLUm1pYU9sYmlaa0VaRmZMeEp0VnQwZzB3RWg5QzZHWjdGZ25tQ3lTQW5JZk1MaHg0Z2VjR3JUN3hMR2gtSURpMHdISi1zUUlIOTRPbmVjSzRZX1czemJlcVhlb2huLVR1UWV1UEJLaG9SdlpsYVBlSGRwVnk4aWhTZ3RHNVJhZ1dNS2FJMVpXbmRyY1Q4OGxEQU5uaXhWREVTaTJsaGtJSExrb2VELWoxamh3RGQyOUl5em5lZDNTRE9n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ヘビ、ゴミ、デング熱：放棄された土地がカンポ・グランデの住民にとって脅威となる - G1"
-    },
-    {
       "articleId": "gnews_5af25cd385651857",
       "headline": "GDF prorroga estado de emergência zoossanitária para reforçar combate à gripe aviária - R7",
       "headlineTranslated": "GDF extends state of animal health emergency to reinforce fight against avian flu - R7",
@@ -327,8 +574,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSWhHdmdsNDdqa19aTzRBSXhmc0ZmX3k4US0wN1BWdUZfeVF4SWVOSmVYVFJjRW15YnpGUkJEZ2Z2V3hldGZ0a3J5bG5nOTlwb0tPWjBhT0dQN0tHRklTYTZNdElVV0FtRDJXOXRkZkVFdmQxclpmN0ZtMWNmN2JXdWFQb3d4R181QW5WV0VoOWdpdFQ4T1ZBNFh0NlpfbGNkeGxxYXVaWV9BX0lWXy02ZWg4c2UxbVkwRU9sOVlJenQ0STlPVlplVjNHWk5HUU94cFdmbFFGdWV3RjdtemZLakZYYjd6dw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -349,9 +596,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0g1ZkVMTXBVZXFmcm9MaERWMkdMelVUOXI1bGZQZ3BuY1RqcFRqTENkQURiaFFLR1VKdnBySWxPMzl6MTh2dHVIaS03N0RPd3NtZmNjeEp0dUUtX0U0bGlYQlNYQV9WR0Etelp4NjJtbXRac3ljY19NVXROakdPdmxVOF9rMFFuUXA4c2p5SXROXzE3ZUMybThyX3prQkkxNmFEdng1VjFMaVJtamFBQWx0dW4zUmw4YjNsRDlGUTlGS24zVm9COWNLbWpEZlVl?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Zika",
         "Chikungunya",
-        "Dengue"
+        "Dengue",
+        "Zika"
       ],
       "locations": [],
       "states": [
@@ -359,7 +606,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Acorda Cidade",
-      "headlineJa": "バイーア州公共省、アラゴイニャス州でデング熱、ジカ熱、チクングニア熱と闘うための行動を推奨 - Acorda Cidade"
+      "headlineJa": "バイーア州公共省、アラゴイニャス州でデング熱、ジカ熱、チクングニア熱と闘う措置を勧告 - Acorda Cidade"
     },
     {
       "articleId": "gnews_de824613c2651932",
@@ -380,7 +627,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Midiamax",
-      "headlineJa": "7つの地域でデング熱が発生しており、カンポ・グランデ-ミディアマックスではさらに3人のチクングニア熱感染者が確認されている"
+      "headlineJa": "7つの地域でデング熱が発生し、カンポ・グランデ-ミディアマックスではさらに3人のチクングニア熱感染者が確認された"
     },
     {
       "articleId": "gnews_a34bcc18867935c6",
@@ -421,7 +668,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "portalsalvadorfm.com.br",
-      "headlineJa": "イリェウスのホテルで首相が銃を抜いた後、女性が感染拡大を封じ込めようとする - portalsalvadorfm.com.br"
+      "headlineJa": "イリェウスのホテルで首相が銃を抜いた後、女性が感染拡大を封じ込めようとする - portalsallvadorfm.com.br"
     },
     {
       "articleId": "gnews_a7ad219fe88e22ae",
@@ -514,8 +761,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQy14c1JsZjFybjhQUFEzcUV0WFQ5ekZEbE9JWk5uTWtkR3hIN3dSTzUzSFp0ZTREVjF6Wm8xZ0xyU0tuUHF4TkVKU3VoMU9fbHM1cXM0c1ZfaVJ6dDI3ZnhnYUdQTmh0cTJ4VmhVM0JGQmM4eGppV3ZZSzFpNFE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -555,8 +802,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHlUQklLX0xqQkhHMzlKWmJTWnBESTBnR2RCZlF4dFJfX1lfODhydmZmOW5rZDA5UVcwMzlJZlpSeEU3MGFURVV3dGdob1VrQlpLMXRWMjhObTRzUVFJSGl1UUNXR0QwV0F2elczM3EyYnM1Vkhldy1QMTJSSEY3RVhLQlBzM2lYUUNpZlRSUFZMVGxjUEg0WGRpYm1peGdNQmpDVEhRVk5KeHBkNTVYNTFicUtvN3ZpTjNkOXdKejFMbklpdEZRT2xRNznSAdIBQVVfeXFMTnlIS2Jfd2F0THZQOXpqYnFZXzFmWFY2cnlVZjY0Znh2ZzhDbEZFRkRwQzJUSjJSSXBhMFRhTzVORk9XNjFvd3pRVk9tTHl0cmZ3WUVkdGpfSnVBbjVYZDZvTmhMZmR4eTU5eXpEdGtnQmlyYzlIemhjTHRabHJhZE11bWJzaS0yR0RmWjl6WU1hNzB1NjgycHVjMVA4UXd0MlpmSDhxNWdkVlZxajBQV2dnNmZZdmNKdEFwa0k2eHZCR0JvRVo0a0xueXg3cGxiamlB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -565,7 +812,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Correio Braziliense",
-      "headlineJa": "DF、鳥インフルエンザ予防のため動物衛生上の緊急事態を更新 - コレイオ・ブラジリアンセ"
+      "headlineJa": "DF、鳥インフルエンザ予防のため動物衛生上の緊急事態を更新 - コレイオ・ブラジルリエンス"
     },
     {
       "articleId": "gnews_682a270b679d9d82",
@@ -577,8 +824,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaU9zalB5UG1jTFVPUmdXZjdTb2RnWVZ4NTBPU2hzT0lDcm5DMlpxdHl5OGNlcXRjOWdwX25PMG5yTHF6VnlUS3lZN3JMS3dWUDR6WXBiYzdpVjM5NXpwUmFWUTlGUUhVUUtiTDNCR0dIcV9UZ1VRS3NXZHNFSVB3UVdzbnBIS1pOU3pCZmE2UVN1Ylg4ZTVDSldTcU96Rmc0eUhlMkhwa0tKZlBKMHR4SUdIdzN6blFWX01aU2lWVHpJS0JsVV8taEZDa1JBdEpaRHNRY3hBM3cxN0dsZzE1NkVYWdIB8gFBVV95cUxOVFpCZ3NMWnhCRzM0b1ViMlZtaTVEYU9BV0ZEMjBvVWFlSzdMbWI3UVdJSlpTU01IOXVXSUs0c2lpQXRHS3RFQXRIdHJ6OFlCSkhmVXVuTHlSUVJ2TkllOFhZQ3NvSFlDeThZRE93UTJBZUR6aDlkSDNmc0ViLXY2X3lodk1oZU1jU1ZQTE1aSG12QTdMUVAtLWNEUmZWVWZTcFQ0RWpnYXd6MFpqT0hkakl5cFRNcEhmZWw5YllZb1JuRUZGR19pUXVBWVhCeU5YazNnTVo2OGhqTzRUZHgwUVU0ZzhRODVGamY3b1RUMHBwZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -598,8 +845,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmRqTm5jR0d5MTdoRFp5SGZ5WHdNYkN5cHpCMWlxc3J0bEpVbjhmbk1seWVVQzljR3ZvRi16ZTZJakZEOXRhTGROVW1fOWtJa2JsdEZSSHFLNnVjWkdjYk4wYkdacnZXdVgxTU41ZDhWUnZNV3FKYkRldVY2NnhIdVhwbXQ0VVo0WU5IU1RIRGg5b1kxMTczNldxSXkyT2VLdWI5b3RNbnYxaUJwT0s1TzJQM1ZQdFk?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -709,7 +956,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A TARDE",
-      "headlineJa": "バイーア州で憲兵がホテルの窓際で女性を脅迫 暴動発生 - 午後"
+      "headlineJa": "バイーア州で憲兵がホテルの窓で女性を脅迫 感染拡大中 - 午後"
     },
     {
       "articleId": "gnews_78b35060c1b1e555",
@@ -749,7 +996,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Correio",
-      "headlineJa": "ビデオ：バイーア州のホテル内で発生した武装警察官を女性が封じ込めようとする - Jornal Correio"
+      "headlineJa": "ビデオ: バイーア州のホテル内で発生した武装警察官を女性が封じ込めようとする - ジョルナル・コレイオ"
     },
     {
       "articleId": "gnews_db27cd371213ce98",
@@ -770,26 +1017,6 @@
       "dataSource": "Google News",
       "sourceName": "Pernambuco Notícias",
       "headlineJa": "ペルナンブコ州では2026年にデング熱の届出件数が1万6千件を超え、この病気による初の死亡者が確認される - Pernambuco Notícias"
-    },
-    {
-      "articleId": "gnews_55549401fa1a7186",
-      "headline": "Saúde reforça a importância da vacinação contra sarampo para proteção dos torcedores que vão para Copa do Mundo de 2026 - Agora ES",
-      "headlineTranslated": "Health reinforces the importance of measles vaccination to protect fans going to the 2026 World Cup - Agora ES",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T21:35:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWVE3czR1R3NEa2RxNXlydVI3M3N2NDFMZjZuTEVVNUhfMGNSdk80OE5INXJ3ZjE0blFmdkR0SlhqWFZBd3JXSThNLTJfZk1BQmZIbGtUeEFjTVF2bngwWjhzckRyQWVXbXY5SjRuSWJsa3VnNENiY1hsZ0dzcmItX3ZhVkhtSVJBTTdad0IydEdOMkhtTzBVd2VKSERRekEwbkFlRFRySzJ6MDFJTFVmd2lqR3lMUWF3NVVkSlR4ZFp6VXBLTHJMZVFTa25XVlpMTXRSbks5TElXRjJUaXgzRDJUYmIybUtxUk15RA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora ES",
-      "headlineJa": "2026年ワールドカップに行くファンを守るため、麻疹ワクチン接種の重要性が健康問題で改めて強調 - Agora ES"
     },
     {
       "articleId": "gnews_1434f3fba62e6762",
@@ -829,7 +1056,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
-      "headlineJa": "ビデオ：憲兵がバイーア州のホテルの窓にある女性と銃について争う - G1"
+      "headlineJa": "ビデオ: バイーア州で憲兵がホテルの窓にある女性と銃について争う - G1"
     },
     {
       "articleId": "gnews_9ee6f56c2360804b",
@@ -841,9 +1068,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm1oNzhPenE2dVUtay1WdUNBdlZDdGQzR3NEek9zcUVWWUI3VlhjdVhsdXdPMk9IWTVkQXF6VnlTdkR2YTlELXFJc2RqVWNTaTR0RjRpbXRfVVNYcTg5UVNHdVpLRUJWTFhJTEQwS1haVG9FbnE4QTVQTHNaek5tVHU0OTRBdXVVWU9TV0VBX3AyVXdVUm42QzV1WU96SzhMcGxQQjVn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Zika",
         "Chikungunya",
-        "Dengue"
+        "Dengue",
+        "Zika"
       ],
       "locations": [],
       "states": [
@@ -914,253 +1141,6 @@
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline",
       "headlineJa": "パライバ州は、2026年に2,300人以上のデング熱感染の可能性を記録 - ParaibaOnline"
-    },
-    {
-      "articleId": "gnews_50308811eaf7f94e",
-      "headline": "Tecnologia é aliada no combate à dengue e ajuda a ampliar eficiência das ações no país - Jornal do Brás",
-      "headlineTranslated": "Technology is an ally in the fight against dengue and helps increase the efficiency of actions in the country - Jornal do Brás",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T17:37:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3NKZmNzTkJVV093SXpXSGFYcHl1X2NSQmRfeTBGNHRxZDc1MXpOOEtNLV9OcnVheDZuS2RPS0o4aGgxVzFTUjR0b2dlX1UzSzZvWUZ3X1RSMF9FekZ2aXZOaHlTTXBvQ19MVlgyd3QzTzFSRW5NcG52NHVRV1Y5Yjc1MHF3YVdOVnR4dENGSnNZSWwtZVVMSmdYdHNkVkpfT000TlFEWFFoWjlJa29Va0dyY1V0dE9wVHc5V2R0NmNCaUFHTDdoXw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal do Brás",
-      "headlineJa": "テクノロジーはデング熱との戦いの味方であり、国内での活動の効率を高めるのに役立ちます - ジョルナル・ド・ブラス"
-    },
-    {
-      "articleId": "gnews_5f02c58e62e9fda5",
-      "headline": "Fortaleza amplia testagem rápida e reforça vigilância contra a dengue - OpiniãoCE",
-      "headlineTranslated": "Fortaleza expands rapid testing and reinforces surveillance against dengue - OpiniãoCE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T17:14:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWpJS1lLeXVaTWV1WkNwalNFRUxDa29IVE5XeHVLMjRwVWNfMUZRRUhONHZ0eWIyLWNPdjctU1MxNVdiUWJhM1V1M1FJTzJMZ3dnaENTSmpRTnh2MU1FdnRRYW1wQ1loZ1VPNlh4UkFLYTdEZzV5NlNtMlVfZGl4RUFIdllnSTgxMUpLaTB6eVpMSmJhQlI1V2oycEhSTExRMDd2Rlh5OUZOZUxiMEN5a3BuYlhsQUk?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "OpiniãoCE",
-      "headlineJa": "フォルタレザ、迅速検査を拡大しデング熱に対する監視を強化 - OpiniãoCE"
-    },
-    {
-      "articleId": "gnews_f2044c43c8323fec",
-      "headline": "Família pede ajuda para internar mulher em surto psicótico em Maceió - Tribuna Hoje",
-      "headlineTranslated": "Family asks for help to hospitalize woman suffering from a psychotic episode in Maceió - Tribuna Hoje",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T17:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEtXMXVGTk9vcElXbWlqamF2QTdETjMwQVNXemlFQlNWcTU2MGYzMGFQbC1qRkxqeGFzcl9DLVhGYUh0QkRpNEhid1RGclBNdVlYazNianhuQVo5OTlKWWtzcC1TNDBRNGowX1o0MmIwdWtwbmMtVFE0bGZKbW03ZEJNdnVYVHJvU1J1Tjg5ZVlWaFR3dlI4Q2pvSUQzcTFsUlVIUVphNndxakMzS29oX0IwUkxOUVp1SlNqNnBaSHZBZkU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Hoje",
-      "headlineJa": "マセイオで家族が精神病症状に苦しむ女性の入院に協力要請 - Tribuna Hoje"
-    },
-    {
-      "articleId": "gnews_a8109dc171b355c2",
-      "headline": "Testes rápidos para dengue são intensificados em Fortaleza até junho - iBand CE",
-      "headlineTranslated": "Rapid tests for dengue are intensified in Fortaleza until June - iBand CE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T14:19:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGpzSndyWHhwWXR3YTdtR3B1SllVUjlMNlBxRDlFUTVwNGwwLU1pRG1YazAxc3h2Wk1XMk40bC1mTkgxaUZjLWg1V1Q2RFFjMFRfSGlhdlVzc29RWlV0TXRfdVZTLTlHYV9GY3RrZF95RWFlckhiQ2JtNGNpdVJxeTI1S01QV2NJ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "iBand CE",
-      "headlineJa": "フォルタレザではデング熱の迅速検査が6月まで強化される - iBand CE"
-    },
-    {
-      "articleId": "gnews_01dd5e62402ca094",
-      "headline": "Em surto, mulher quebra 50 garrafas em adega de supermercado em MG - Metrópoles",
-      "headlineTranslated": "In outbreak, woman breaks 50 bottles in supermarket wine cellar in MG - Metrópoles",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T14:02:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1hPYzMxWndzeVJFN3FibXdlSUZpaUM5a25DdU0ySloxYTZTR2gxdXBkSzRvMDlzOEZuVVdobU5tZWdFR2dESTlzdmZhcEJTQV9MUEpHc2NWMmdVUEc0bTdKU1pTRUlXVkEwRDgwTTcyWVozUENXTng1T0JHd1lwa0ZVTXBzcEV6MUJrVUJTNFVULTlTSGtrd3BfdGJMUnFxNnE5b3JhTmk?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Metrópoles",
-      "headlineJa": "集団発生中、女性がMGのスーパーマーケットのワインセラーで50本のボトルを割る - メトロポール"
-    },
-    {
-      "articleId": "gnews_c74b0ac17fc3e6ee",
-      "headline": "Aprenda: armadilhas para capturar o mosquito da dengue - G1",
-      "headlineTranslated": "Learn: traps to capture the dengue mosquito - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T13:42:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOENNWWFybllfa09XWlBhU2MzTWFtM3BVLTVJSDZfY0J3SVlLNjk1cWFNTWxtTjk3NHpGLXp0M2IxRkZUd01ZTjd3TnAyRWEtaGpVSkMxUGZSV1dmZkYxdy0tb3FheTQ5LW5uMVVGaDJzN3o0RlJab1RpMS0zU3RvZUcxN1BpQU1udWRTUkRkNnFKNTloQkkxWUJtemhmZXhra0c0YUJZMmREeERaOTdVRkw5TWc2WkZIei1xNE81blRFLU1mQkR4amtYRXFUZk9qVnfSAeABQVVfeXFMUGVERjlVRGxEdVRvNDdfYmhVTUhRTnZBanpjMnlQX1o0ODdfbUFzQmNUNUlhZkJEejR3eVROcV9GdTRZQm8tY1ptdTNnUWJqRjJtNHVrZGpEcVVLQjZGdDBNRWNGVFBVWllxSjh6WTQwWUR3T1RIODl0RTE2Y3dSd291Qjk5NkxWZjRxc29Pbm1saHBrWUVaV2NGTTFIR1k2MWJsdnhuTk1fWkU4STI3U3R5MHF1ajBOa3FEVUU4SlBZYjJUNEY3elg5TlVyMDdlQnFCVFdQVko4QUxxbkdtQTI?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "学ぶ: デング熱蚊を捕獲するための罠 - G1"
-    },
-    {
-      "articleId": "gnews_92b2b97b96c2d964",
-      "headline": "Mossoró recebe estudo para avaliar resistência do mosquito da dengue - Rural de Mossoró",
-      "headlineTranslated": "Mossoró receives study to assess dengue mosquito resistance - Rural de Mossoró",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T12:19:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGg4UEE3OEVudGpDSWRjS051MGZlNFZZdS1sSDVfcjh2ZzlRdnh1UFp3UFpxMlB5S21SS2RnMmhIVEpMV1JJdkk2UjFkMkZ3bXBBODJIV1VnaFNIYnZVNWkwelZSRTBkVWtueUtvQk5WQVp4R2ZWWEpiTW9hSjY3djU4Q0VQVmpfdU9BbVVfZWJjU2NlazdzV19feTJuWTB2b3hDX0U1RHJrVTk2RGVGVFUyTElYcEl6X2FYejBiWlBPWHla?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Rio Grande do Norte"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rural de Mossoró",
-      "headlineJa": "モソロがデング熱の蚊への耐性を評価する研究を受領 - Rural de Mossoró"
-    },
-    {
-      "articleId": "gnews_e2a13991dfd14f33",
-      "headline": "Paraíba confirma 1ª morte por dengue e soma quase 2,5 mil casos de arboviroses - SeLigaPB",
-      "headlineTranslated": "Paraíba confirms 1st death from dengue and adds almost 2,500 cases of arboviruses - SeLigaPB",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T12:05:27+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19QcHUySWh6am1URG1tZkdYemNqTlFBbVgyeWV6NEgxZWFIOXVfQTFUTzNaTjJ5VDVJajJGZHI0NVZrOGpuV2U5d282RTUwXzJmeGd1R0hCa0JRVWJjMzA5cnQ2Q2ZKSk02RHdUT1NfT2FORS1xMzUtcG1adkFJQVo2aHoyRXM2dHlJMWpsZTlKQ0tUbERFcVlYZG4tMk5hQmctYw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SeLigaPB",
-      "headlineJa": "パライバ州でデング熱による初の死亡確認、アルボウイルス感染者約2,500人追加 - SeLigaPB"
-    },
-    {
-      "articleId": "gnews_b80181c7fd2c4cf2",
-      "headline": "Com apenas um caso em 2026, SC descarta risco de surto de hantavirose - Rádio Sintonia FM",
-      "headlineTranslated": "With just one case in 2026, SC rules out the risk of a hantavirus outbreak - Rádio Sintonia FM",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T12:05:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3FVWHdWS2wwT3NqX3l6NkF5NHJiSlZQWGUyaHdhVFd4WFpYWDc5SHRYS0tZZ2hlN1NLYkViMnNyTE91dnItTUpxNS1hejlhSDBIeGhDYzZPdHJFUGd0c3VMQUloSDhRUU5jOWd3cEx3R2U0bGxwUEFoZFc2NVlGNGkyckMtWGFVUkY2TkJvSUZpbnh0RGJMdWUzV1NIWnhLSnZPZEFySXpCU2hwMUJHRWpFOUxmZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Sintonia FM",
-      "headlineJa": "2026年の感染者はわずか1件で、SCはハンタウイルス大流行のリスクを排除 - ラジオ・シントニアFM"
-    },
-    {
-      "articleId": "gnews_b61f64c7344aa062",
-      "headline": "Paraíba confirma um óbito por dengue e soma quase 2,5 mil casos de arboviroses em 2026 - THMais",
-      "headlineTranslated": "Paraíba confirms one death from dengue and adds almost 2,500 cases of arboviruses in 2026 - THMore",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T11:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTk5ha0pZVU1qcFFHcnJYaTZ4VmdqY1JTblVhQmZUMWxNVjJlT0JUTmllMnZtU1FpbThwMW5DYlE3UDNBWDl5V0xkeVlNSTlwSVA1S1lIemUtbG90SWRrQnRWRm5maDhqdFhlLUFCeGVrM1NDZGZHM1pnbGxzRTl6MDJhdUx1V2tGZjAwNG5WZTRxa0NlUzlRM01JT0NHb3JSd2dZV3dmRkhKUWhTZ08xQjJ5SUhnaVFIOUJVd3Vnbm9LU2RXNF93?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "THMais",
-      "headlineJa": "パライバ州、デング熱による死亡者1名を確認、2026年にはアルボウイルス感染者数が約2,500人に増加 - TH"
-    },
-    {
-      "articleId": "gnews_d9d11c987bf9cb62",
-      "headline": "Paraíba confirma primeira morte por dengue e registra quase 2,5 mil casos de arboviroses - WSCOM",
-      "headlineTranslated": "Paraíba confirms first death from dengue and records almost 2,500 cases of arboviruses - WSCOM",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T11:41:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORW5BNk1ZQ2tsYkNycDFveGhiMG1OSGNQdGV4OVZsV1J2NVNFOTl1SW5ZR0o1SjV6ZHFhWXM0aDFxQjY1TkVqdUh6S1IxQktKcTJwV3RQSE9CUVpLa2YxR2V0WFV1b1ZHaklsV21zVEkyUjJNQnZxNlprdnI3TGtUTjFobFNkRFJBYWg0WnN0MGdXME5VbWc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "WSCOM",
-      "headlineJa": "パライバ州、デング熱による初の死亡を確認、アルボウイルス感染者約2,500人を記録 - WSCOM"
-    },
-    {
-      "articleId": "gnews_a2cedf6c7dade819",
-      "headline": "Paraíba registra mais de 2,4 mil casos de arboviroses e 96% deles são de dengue - ClickPB",
-      "headlineTranslated": "Paraíba records more than 2,400 cases of arboviruses and 96% of them are dengue - ClickPB",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-13T11:33:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QZ0V3TUFBai16QldhdXNqWDRISGRfOGlPUEQ0bnc4a3ZHY0ZtMjdZLVRMNjhCZk1VTmktYnNpekJGT0hhZG1TY2pPM2Y0Rk5tclFfdjRGWEdvWDhabDBockR4dDBIUzNwVENB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ClickPB",
-      "headlineJa": "パライバ州では2,400件以上のアルボウイルス感染者が記録され、そのうち96％がデング熱 - ClickPB"
     }
   ]
 }
