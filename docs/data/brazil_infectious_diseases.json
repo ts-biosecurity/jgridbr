@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-05-16T03:33:23.065488+00:00",
+  "generated_at": "2026-05-16T09:41:28.934320+00:00",
   "date_range": {
-    "start": "2026-05-14T03:33:23.065488+00:00",
-    "end": "2026-05-16T03:33:23.065488+00:00"
+    "start": "2026-05-14T09:41:28.934320+00:00",
+    "end": "2026-05-16T09:41:28.934320+00:00"
   },
-  "total_articles": 57,
+  "total_articles": 55,
   "state_summary": {
-    "Brasil (estado não identificado)": 16,
+    "Espírito Santo": 2,
+    "Brasil (estado não identificado)": 15,
     "Mato Grosso do Sul": 5,
     "Mato Grosso": 2,
-    "Pará": 21,
+    "Pará": 19,
     "Paraná": 6,
     "Pernambuco": 5,
     "Acre": 1,
-    "Rio Grande do Sul": 1,
-    "Goiás": 4,
-    "Espírito Santo": 1,
+    "Goiás": 3,
+    "Tocantins": 2,
     "São Paulo": 3,
     "Bahia": 6,
     "Minas Gerais": 2,
     "Ceará": 2,
-    "Distrito Federal": 2,
-    "Tocantins": 1
+    "Distrito Federal": 1
   },
   "disease_summary": {
+    "Influenza": 5,
     "Meningitis": 4,
     "Doença infecciosa (não especificada)": 5,
-    "Yellow Fever": 6,
-    "Chikungunya": 8,
-    "Measles": 15,
-    "Influenza": 4,
+    "Chikungunya": 7,
     "Avian Influenza": 4,
+    "Measles": 15,
     "Leptospirosis": 2,
-    "Dengue": 18,
-    "Zika": 2
+    "Dengue": 16,
+    "Yellow Fever": 5,
+    "Zika": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_717d00ecf403edf6",
+      "headline": "Influenza aviária: associação reforça alerta no Espírito Santo - Conexão Safra",
+      "headlineTranslated": "Avian influenza: association reinforces alert in Espírito Santo - Conexão Safra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T07:16:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW5MdnRSNUFSOUZqblNsQkhUYXI1RkcxNFhyOFdFQ1FlNVBOaVZSRjNhSlNBeUN6aGFrVExxZzl6bEVRd2xUTUNldGtjMnEtdGpyZDRlMkFyaTJCY0hmRmxNTTZiMG5qM1VSUDl3NWF5YTNVTlgwNEtWd1ppN1ZfUjNTZHpZZXFabmI3cWlmNkVZb00zcXgzbWdFSUtHMjA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Espírito Santo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Conexão Safra",
+      "headlineJa": "鳥インフルエンザ：エスピリトサント島で協会が警戒を強化 - Conexão Safra"
+    },
     {
       "articleId": "gnews_cb3d0f17062db3f1",
       "headline": "Médico de Votuporanga morre aos 37 anos após complicações causadas por meningite - Tanabi Noticias",
@@ -77,26 +96,6 @@
       "headlineJa": "「とても驚いた」：タイム誌の世界で最も影響力のある100人にブラジル人が選出 - CBN"
     },
     {
-      "articleId": "gnews_938aac7179e9fbf4",
-      "headline": "Febre Amarela: Estado de SP registra mais duas mortes e eleva alerta de vacinação - Colatina em Ação",
-      "headlineTranslated": "Yellow Fever: State of SP records two more deaths and raises vaccination alert - Colatina em Ação",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T22:19:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjN6bnFrdXVEcFk1SnlOUGlmbW5XTzlIVy1TdEdvUE1JV19zYkYzdFR2SnAwQnlCNUtNdHl2dVpHNndoc2ZLQkZuVGVTTFZYSlV5aXNzU3YybkIyYzBxLVVWRFU1SG5uS2R6RGxpMnIwOUxHSXZqVGNCWGxpM0V5b214VUZxRG9xWl9qN0thNjNLRHQyY1VJaWtQbzRCWnUzaTlTd2xWa2NEVUNGVnNQQ3JheHdwaWVJTmgyN1lwOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Colatina em Ação",
-      "headlineJa": "黄熱病：SP州がさらに2人の死亡を記録し、ワクチン接種の警告を発令 - Colatina em Ação"
-    },
-    {
       "articleId": "gnews_ec3f6dfc28ef2b20",
       "headline": "Mato Grosso do Sul registra 4.834 casos confirmados de chikungunya em 2026 - Folha MS",
       "headlineTranslated": "Mato Grosso do Sul records 4,834 confirmed cases of chikungunya in 2026 - Folha MS",
@@ -116,6 +115,27 @@
       "dataSource": "Google News",
       "sourceName": "Folha MS",
       "headlineJa": "マットグロッソ・ド・スル州、2026年に4,834人のチクングニア熱確定症例を記録 - Folha MS"
+    },
+    {
+      "articleId": "gnews_5c3054111e07b478",
+      "headline": "Zoológico de Sapucaia descarta gripe aviária como causa da morte de cisnes - Sul 21",
+      "headlineTranslated": "Sapucaia Zoo rules out bird flu as cause of death of swans - Sul 21",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGVic01keVhmeGQ5ajlxTmZzcTl3di1XVnRjdUJOdmRod3JVZ1dya0EtSHdDb0lscXBrZTVPaWNkUjY2bTZmTkZUbzhFZTZ6QUJwYUtXWGdfcGJpblFMVG5VckM0Q3pRbTlQLXI5RTVMZjRvclp1TWhKYTU0MktpOFVqN1lLVzdXSlktSWNnWUlKS1ZQa2RXRi1OZW05TG5HWURNUEJ2WS13V0hEV1B6R3lBcFR2UGllRWN3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Sul 21",
+      "headlineJa": "サプカイア動物園、白鳥の死因は鳥インフルエンザではないと否定 - スル21"
     },
     {
       "articleId": "gnews_80707937f9261189",
@@ -234,8 +254,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "LeiaJá",
@@ -275,8 +295,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco",
@@ -296,8 +316,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco",
@@ -337,8 +357,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Recife",
@@ -359,8 +379,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Acre"
+        "Acre",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "ContilNet",
@@ -408,29 +428,6 @@
       "headlineJa": "ワールドカップ間近、保健省は旅行者向けの麻疹ワクチン接種を強化 - マレシャルニュース"
     },
     {
-      "articleId": "gnews_d080f034a4730f54",
-      "headline": "Queda nos casos faz Porto Alegre voltar ao nível de normalidade para dengue, zika e chikungunya - Rádio Pampa",
-      "headlineTranslated": "Drop in cases makes Porto Alegre return to normal levels for dengue, zika and chikungunya - Rádio Pampa",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T16:34:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFB5VUVtY0V5Z3U4OGJBalBCMy1IbkRvQmVBMDA3bVd3YlFHVTVzLUFyUUc3MGZBSGoxMEJfVndFRkI3Z1F4dDFvUnl1dmZrQmNMM000UUZzUFM2TXlOVWFwTDYxS3hvenRHLXdSdkZLVWRwelVZMnVyaVVjQjNJN1FIdEw1Y09OX0doc2dSMXEyVlFhSWZQUUNJT1lqZ3JDcFZ6SU5PaExycU5jNWYwRHJFdXk2dUNhYWN4b2VwS3pCWlU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Zika",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Pampa",
-      "headlineJa": "感染者数減少でポルトアレグレはデング熱、ジカ熱、チクングニア熱が通常レベルに戻る - ラジオ・パンパ"
-    },
-    {
       "articleId": "gnews_f15034b1213bc445",
       "headline": "Com alta de dengue e chikungunya, Ministério Público investiga ações de combate em Sete Quedas - Dourados Informa",
       "headlineTranslated": "With a rise in dengue and chikungunya, the Public Ministry investigates combat actions in Sete Quedas - Dourados Informa",
@@ -440,8 +437,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYy00emRGZzhBNzh5Q2lxU0c5WFRIZ1ZrbzljMjNESHdPV0l0WWhELWF0ZW1qVDhPclpwa1JqN2s5bXBfUFVzbndNamFvcjI0NTlzelBGTERmY2pPTER4eDAtU1Zzd003SHJwUnRwZmhlMmNlRWttcEc1WHVJUDBPYzh5cnJZQnFSakszTUhvbG9SakRUZjB0SFEyN2doZ1p0VzlVa09MQll4ck1hLUQtTVhpUW9PRDh3Nm9ONENwSXFud3FXT091Y29JNmtOZFZpSVh5bFg2TQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -465,33 +462,32 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Opção",
       "headlineJa": "2026 年のワールドカップに行きますか?ゴイアニアはワクチン接種カードを更新するようアドバイスしている。予防接種を受けられる場所を確認 - Jornal Opção"
     },
     {
-      "articleId": "gnews_fe0d8bd1a3cc4d43",
-      "headline": "Cuidados para prevenir a proliferação da dengue devem ser mantidos mesmo na seca, alerta Saúde - CBN Goiânia",
-      "headlineTranslated": "Care to prevent the spread of dengue fever must be maintained even during drought, warns Saúde - CBN Goiânia",
+      "articleId": "gnews_2c834581d9ced6bc",
+      "headline": "Palmas reforça ações contra dengue após aumento de casos suspeitos - Jornal do Tocantins",
+      "headlineTranslated": "Palmas reinforces actions against dengue after increase in suspected cases - Jornal do Tocantins",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T15:41:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWk1TT3owX3hKLVc1c3IzWHJESTZ5NjNYVk43TklQWUlvc1VKem5ERmVpMnc0QzkwV2NXdnhQVUIzRkpSWGw4YXB0UG5XZlhObFROcENJN0tjaFFZZE43UlFfakhFUjR5WWVhbGtmbE5feEtFeF9kc3QteWZnM1ZscHRzZFdSV0JjOUFOMDRqblRPNkdvSTdsZDFNTWdrdE1yTnhKUXEtOUJyazN0bkxVbGg4T3FOaWZoSGJNbjM0VVU1cWZ3eU90UTVGREVTWVpobXNJU0pESlYyejdWUnc?oc=5",
+      "publishedTimestamp": "2026-05-15T15:46:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnlrenNIQ1U3cFBTUXFVNzAyZHRYY1JJbFA4S29kQTE3c2EzZDBsSjJIdHZBRkYwNUpLZUg4WjZJbU9oNk5PdnhTNnE5VWhmejFZUUZWQnlOV2hsZi1hY0h3OW9DeGE3QjR6cUtsTW1WNkNpSVFuaXdKWEZsdFpFS2tlMGpiMTRoNE5xMTlueWJ6U3BTV0FxTTdpNFVubzZORlJIWHllZS1BYjIza29GNm14TmlpT3RYclVqRnRR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Tocantins"
       ],
       "dataSource": "Google News",
-      "sourceName": "CBN Goiânia",
-      "headlineJa": "デング熱の蔓延を防ぐための注意は、干ばつ中でも維持する必要があるとサウデ氏が警告 - CBNゴイアニア"
+      "sourceName": "Jornal do Tocantins",
+      "headlineJa": "パルマス、デング熱疑い患者増加を受け対策を強化－ジョルナル・ド・トカンチンス"
     },
     {
       "articleId": "gnews_e336032e4ea214d8",
@@ -669,8 +665,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Notícia Toda Hora",
@@ -710,8 +706,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "A Redação",
@@ -855,7 +851,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Enfoco",
-      "headlineJa": "サンパウロ、内陸部で黄熱病による新たな死者２人を記録 写真1枚 国際ニュース：AFPBB News"
+      "headlineJa": "サンパウロ、内陸部で黄熱病による新たな死者2人を記録 写真1枚 国際ニュース：AFPBB News"
     },
     {
       "articleId": "gnews_7d35a1c26eae6083",
@@ -911,9 +907,9 @@
       ],
       "locations": [],
       "states": [
+        "Minas Gerais",
         "Pará",
-        "Paraná",
-        "Minas Gerais"
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "Paranaíba Mais",
@@ -949,8 +945,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHFZRnVzcUtKMFZ5dU5pbnlYRW5DX3pEMV9hTFZhaEFRaVR0WHREaTBMR2w1U0I4Q09oUFM0YlZFSzNQYVV4cFJSTXQ3bmtnQndGNWxxZUM4OUUyMjk3NGlhNERBaXlUTC1NYWRFUEhXV3J3bEE0dVhZOVJ2N0p6aU5IVDJIQ0tSTnFmMnBMVG8yTEN3a0haSEp3MDRnVVptV1NUT2hURl8xS08xMGVONDFCbw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Meningitis"
+        "Meningitis",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -979,26 +975,6 @@
       "dataSource": "Google News",
       "sourceName": "Bahia.Ba",
       "headlineJa": "非常事態宣言中、内陸部の都市がデング熱対策を強化 - Bahia.Ba"
-    },
-    {
-      "articleId": "gnews_3f54843f807c4721",
-      "headline": "Moradores de Ilhéus flagram disputa por arma de fogo em janela de hotel - Bahia.Ba",
-      "headlineTranslated": "Residents of Ilhéus witness dispute over firearm in hotel window - Bahia.Ba",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T16:41:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3F3RlhjemV5YkV1NUZxLTRLUUxQLWJoOWJjaHoyRzNhYWxGZGFDYlRZTklIakVSNGdhMWRXeDlaYm9UQ05zMXEtZGNsMFRfQ0E1aHZXM0F2MHBKbFBkVldIbmdNLUpyX2NWY29yV3BQcHJxQkg3aklFYmtlR2pha2xwdlZwbHFMS3FncVRrdWE3X2JGZ0FIMmJ4V0V0YmVGRmc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bahia.Ba",
-      "headlineJa": "イリェウスの住民、ホテルの窓で銃器をめぐる争いを目撃 - Bahia.Ba"
     },
     {
       "articleId": "gnews_2ae749123365d2c7",
@@ -1035,8 +1011,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Distrito Federal"
+        "Distrito Federal",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "R7",
@@ -1072,9 +1048,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0g1ZkVMTXBVZXFmcm9MaERWMkdMelVUOXI1bGZQZ3BuY1RqcFRqTENkQURiaFFLR1VKdnBySWxPMzl6MTh2dHVIaS03N0RPd3NtZmNjeEp0dUUtX0U0bGlYQlNYQV9WR0Etelp4NjJtbXRac3ljY19NVXROakdPdmxVOF9rMFFuUXA4c2p5SXROXzE3ZUMybThyX3prQkkxNmFEdng1VjFMaVJtamFBQWx0dW4zUmw4YjNsRDlGUTlGS24zVm9COWNLbWpEZlVl?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -1082,7 +1058,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Acorda Cidade",
-      "headlineJa": "バイーア州公共省、アラゴイニャス州でデング熱、ジカ熱、チクングニア熱と闘う措置を勧告 - Acorda Cidade"
+      "headlineJa": "バイーア州公共省、アラゴイニャス州でデング熱、ジカ熱、チクングニア熱と闘うための行動を推奨 - Acorda Cidade"
     },
     {
       "articleId": "gnews_de824613c2651932",
@@ -1094,8 +1070,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGR6bGJicDVuYjFfSkF0dHMwMHd0ZDM2SVF6VEdoM05ndFhCekJIcEpPdnU0NTN0TFplTzJ0cHRoMHpLQ1ZycVBBUTF3NWRtbXVqTmppUDhuOWs5QV9aNTRQV18ycThYemRBWUhyUlZ4cVVDZ2VJTzQ4cnluTjZqVjZ6SkNHME5RZ1FZN1VVT3p1WWNuVWhLNnhYMXhkeUdueGY1dzZHSlNjLTZGT1VHMHpFWE9McWMyVnl5eTF6TQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -1103,7 +1079,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Midiamax",
-      "headlineJa": "7つの地域でデング熱が発生し、カンポ・グランデ-ミディアマックスではさらに3人のチクングニア熱感染者が確認された"
+      "headlineJa": "7つの地域でデング熱が発生しており、カンポ・グランデ-ミディアマックスではさらに3人のチクングニア熱感染者が確認されている"
     },
     {
       "articleId": "gnews_a34bcc18867935c6",
@@ -1119,8 +1095,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Ceará"
+        "Ceará",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "O POVO",
@@ -1160,53 +1136,32 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Tocantins"
+        "Tocantins",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Tocantins",
       "headlineJa": "SES、2026年ワールドカップに参加するファンへの麻疹ワクチン接種を強化 - Agência Tocantins"
     },
     {
-      "articleId": "gnews_02aee9a79f3aec96",
-      "headline": "Mosquito 'antidengue': técnica com bactéria reduz dengue, mas expansão trava; entenda o método - G1",
-      "headlineTranslated": "'Anti-dengue' mosquito: technique with bacteria reduces dengue, but expansion stops; understand the method - G1",
+      "articleId": "gnews_652f6c188806b7cb",
+      "headline": "PM em surto é detido após disputa por arma com mulher em hotel de Ilhéus - Bahia Notícias",
+      "headlineTranslated": "PM in outbreak is arrested after gun dispute with woman in hotel in Ilhéus - Bahia Notícias",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T06:05:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcjMyRjZvUFBPOWJnM3BhSmRPMTdZcU9BX3JjaEF5NHIycTF6bDRuNEtkWUJUOFhsQmE4Um5VdnFFMmNXZTZXU19kaWNubUV1TXZaMy1CaWs5LUM5MmNybkFVRWoycEs5MlJtYkhSZ3plc2NudUFsdlAxQVZON2xiWHpmZ3k2Z1RqNDNYd2RVOFNTMDk0a2lQcnFDUmxyWURxSG1jV3BHRTNGWWZUYjN2RjdINEh1N1o4U1lYaExkT0NQME9SNzFiNWdVanBTTWFBV2lJaWtOLUhXRDTSAeoBQVVfeXFMT25lbUlyVHNrUVduYWNUZGlqOG5CeDBDQ2FaM3ZZYVd6UndJTHpfeldQbmJmcEotLWVPTEg3b1RVRGI3SEZPV29XZUdsVmRNdm9MZVZQellXQnJpQkZQYTVPVkZUYmRwQm9zQWVYWW5TUEVhVHB2QUxUU0NmeC1WODJ2X21OSU9FUGRraEo2Nm9uQlVNa3NJODFPRXZySnF3TkdyOUFuMURLbjVRQXRnTk1rbEtGT1F4bzZjT1dBYVY4WE1ZcVE2a3hndDE5eG9LeG1XTGNaRnlNVHpCT1BnLWJDLTJtazlDSWdn?oc=5",
+      "publishedTimestamp": "2026-05-14T10:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFFydXVSSUdSalE3b3k1SkRyeFhCN1l2d294OUJkNElDMlZoWW9NcTdrOXFwRURpTlRCS3dBZGJiVVFHcEVNUEo3RS00YkllVWFjT2h3UGNQT0hyelhfV0c4UGZETzg0Q29HTjZ3RDcwOWU1anJFT1dUTllmMXlCN3dlcTFrQXRNNWhaeUNaSW9SSkpYa2pJZElkOXV1UU5ETUtQUjJ5aHNyY0UzU210Y09XMEx5Z0h6eEJZUkxWbl93c1JkLVphWW9fejllSkVocFFoemVqdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "「抗デング熱」蚊：細菌を使った技術でデング熱は減少するが、拡大は止まる。方法を理解する - G1"
-    },
-    {
-      "articleId": "gnews_0eeee05d3f76b157",
-      "headline": "DF Declara Emergência por Gripe Aviária - noticiasdoplanalto.com.br",
-      "headlineTranslated": "DF Declares Avian Flu Emergency - noticiasdoplanalto.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T06:04:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQy14c1JsZjFybjhQUFEzcUV0WFQ5ekZEbE9JWk5uTWtkR3hIN3dSTzUzSFp0ZTREVjF6Wm8xZ0xyU0tuUHF4TkVKU3VoMU9fbHM1cXM0c1ZfaVJ6dDI3ZnhnYUdQTmh0cTJ4VmhVM0JGQmM4eGppV3ZZSzFpNFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br",
-      "headlineJa": "DF、鳥インフルエンザの緊急事態宣言 - noticiasdoplanalto.com.br"
+      "sourceName": "Bahia Notícias",
+      "headlineJa": "感染拡大中の首相、イリェウスのホテルで女性と銃口争奪後に逮捕 - Bahia Notícias"
     }
   ]
 }
