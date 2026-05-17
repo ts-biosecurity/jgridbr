@@ -1,38 +1,181 @@
 {
-  "generated_at": "2026-05-16T17:09:30.956274+00:00",
+  "generated_at": "2026-05-17T03:51:40.533635+00:00",
   "date_range": {
-    "start": "2026-05-14T17:09:30.956274+00:00",
-    "end": "2026-05-16T17:09:30.956274+00:00"
+    "start": "2026-05-15T03:51:40.533635+00:00",
+    "end": "2026-05-17T03:51:40.533635+00:00"
   },
-  "total_articles": 54,
+  "total_articles": 53,
   "state_summary": {
-    "Paraná": 7,
-    "Pará": 17,
-    "Mato Grosso do Sul": 6,
-    "Brasil (estado não identificado)": 18,
-    "Mato Grosso": 3,
+    "Brasil (estado não identificado)": 15,
+    "Pará": 20,
     "Bahia": 3,
+    "São Paulo": 2,
+    "Paraná": 6,
+    "Mato Grosso do Sul": 6,
+    "Mato Grosso": 3,
     "Espírito Santo": 2,
+    "Piauí": 1,
+    "Goiás": 4,
     "Pernambuco": 5,
     "Acre": 1,
-    "Goiás": 3,
-    "Tocantins": 1,
-    "São Paulo": 3,
-    "Minas Gerais": 2
+    "Tocantins": 1
   },
   "disease_summary": {
+    "Dengue": 10,
+    "Ebola": 2,
+    "Whooping Cough": 1,
+    "Doença infecciosa (não especificada)": 8,
+    "Yellow Fever": 2,
     "Measles": 16,
-    "Dengue": 12,
-    "Doença infecciosa (não especificada)": 5,
     "Chikungunya": 6,
     "Cholera": 1,
     "Influenza": 5,
     "Avian Influenza": 4,
-    "Meningitis": 3,
     "Leptospirosis": 2,
-    "Yellow Fever": 5
+    "Meningitis": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_2445f3ed831b2fc4",
+      "headline": "Mosquito “do bem” contra a dengue: como funciona e por que ainda não chegou a todo o Brasil - R7",
+      "headlineTranslated": "“Good” mosquito against dengue: how it works and why it has not yet reached all of Brazil - R7",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-17T03:31:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzEzUTl0Mmd1OUh5QUoyUkpQZnVtNnZkWDBZTVhRR3pXaHJiQ3hsdzFoOFdpRmZWYkpqWF9PRy02aDJFc1UwZHFIMmdmNmtUbkZJeFNIX3Y3WHBVOURRZ196YkxQRWZYVWplcUs1dmdlR0VnZEthRW1JU1NidlJMemR1ZmRKRUFMdkVwNWJLTGItZHpsQXZDNG9KaUJxTEo3c1pRU1BYUklpN2poRjlPYXRBSGV6REVxSlYtWjNzZVBzNVlkVlF3Tmt6dTN4bjYy?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "R7",
+      "headlineJa": "デング熱に対する「良い」蚊：その仕組みとブラジル全土にまだ到達していない理由 - R7"
+    },
+    {
+      "articleId": "gnews_cd94a86b3d97be06",
+      "headline": "OMS declara surto de Ebola em países africanos emergência de saúde global - CNN Brasil",
+      "headlineTranslated": "WHO declares Ebola outbreak in African countries global health emergency - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-17T00:16:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWw4MUVyM0Zwa3I3RC13Q1BoUVR4akJ2RnNZOTJrNk1BNC1KeWQ0TGVHQk5VV2w4MFFLZm5fQzVyQ0ZJdzBYeW5IZ3N0LVlUQXRxZS02QXdyYU5LUllLanVVSERMb29MN2dQNlhldEtJOGM3b3NsWm1KM2t3QjE0dl9Oa3JKd3hxeTNYVkFJY2htczEtMHB4dkFNS3Vmb0drRWh3eE1GbVNrbnVodTQ5bHVCUGdVd2Mz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "WHO、アフリカ諸国でのエボラ出血熱流行を世界保健緊急事態宣言 - CNN ブラジル"
+    },
+    {
+      "articleId": "gnews_8d5cca55699b7368",
+      "headline": "Monckeypox, Coqueluche e Dengue: como essas doenças podem ser evitadas no Brasil - Portal ABC do ABC",
+      "headlineTranslated": "Monckeypox, Whooping cough and Dengue: how these diseases can be avoided in Brazil - Portal ABC do ABC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T19:59:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2lncWNWTFRLZTBEbTBWSVptWXJBSzl5c3VvS2ZSb2F4eFFJRDQ5OUY1SjhsRDZGNjhoV0c4SnowVW4xNnM3RVk5T3JuaU80dVg3MjdKS1hPaXA1azVkN2xFSFZyS3ZDLVVUX1YxNmRvamsxcmJTU0MxY3ZGNjFMNFZMN19PM2d5SS12SlNpVXVzemhOMXgtbnRROEg4UjdsU2xOZ2FHeHVjMVU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Whooping Cough"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal ABC do ABC",
+      "headlineJa": "サル痘、百日咳、デング熱: ブラジルでこれらの病気をどのように回避できるか - ポータル ABC do ABC"
+    },
+    {
+      "articleId": "gnews_33489f8155158254",
+      "headline": "Caminhoneiro de Sinop morre após aparente surto e cena chocante na BR-163 no Pará - rdmonline.com.br",
+      "headlineTranslated": "Truck driver from Sinop dies after apparent outbreak and shocking scene on BR-163 in Pará - rdmonline.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T19:04:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3hUYldmbWhMQW1QU2hTY2ItS1VFZDgyckxiWWtfLTN6TnF6WGdHLWVzSnVtUVRJQjlrLW5rUjNrQXNzRXRZSWpJX1JrRVktSUVPdGtnYXBMUTZHQ3RBYXZBQkIzbmlvOTQ4Y0VUME12Z2FzTDN0dzd0c3I5Q2RCa3d3ZEpxeHRHTE9Zcm5zS2dOR29fa1RReVRieTZ4bTFoYmowRDc0Y3VlUVU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "rdmonline.com.br",
+      "headlineJa": "パラー州のBR-163で明らかな集団発生と衝撃的なシーンの後、シノプのトラック運転手死亡 - rdmonline.com.br"
+    },
+    {
+      "articleId": "gnews_7b2f9757511e2e8e",
+      "headline": "Saúde SP confirma nove casos de febre amarela e intensifica alerta para vacinação - Notícias de Mogi",
+      "headlineTranslated": "Saúde SP confirms nine cases of yellow fever and intensifies vaccination alert - Notícias de Mogi",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T18:44:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ3Bsb2lyTERxSm10MnRrWUlsck85NkQ4Y3dRUklrcDRwNjhqS1pSU1l5WVJBcXdoeEFmTXpmMFRMa0VTdXRSeUtqcXJacVFaTGZpLUhNa3ZiM3RZX2VNZnhPOE95WWREOTdXZzQ4ZzJJa2JUZlpZbkpDZ0ZSc0JRUmNRajlIZy0wdjVhMlFCSjVGTkZUd2UzYmwwakdZal9FRWpjeTBrZHFEci1mWlNwOTRR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias de Mogi",
+      "headlineJa": "サウデSP、9人の黄熱患者を確認、ワクチン接種への警戒を強化 - Notícias de Mogi"
+    },
+    {
+      "articleId": "gnews_17c0d1d1a1093931",
+      "headline": "Surto de Ebola deixa dezenas de mortos na República do Congo - Bahia.Ba",
+      "headlineTranslated": "Ebola outbreak leaves dozens dead in Republic of Congo - Bahia.Ba",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T17:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREVVd1J1MEhGZVVpdDdwMWgtaXp1dFhKbkpjU252TWpuWWd1SExhVzl0dzNSQ3FvUGxkOGNiT1VnaUpfeFl3Q1ZsSnphekVrWElkZWlBYWE0S2RXSkpXOEpFM1IzekRyUzEyRkhmanFrUE9NM01KemxELUVEZk1Jd0xrQ2hjM3ZCbTZnaQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia.Ba",
+      "headlineJa": "エボラ熱流行、コンゴ共和国で数十人死亡 - Bahia.Ba"
+    },
+    {
+      "articleId": "gnews_b7e7087d6e28afa7",
+      "headline": "Febre maculosa: São Paulo concentra mais da metade dos casos do país - Portal ABC do ABC",
+      "headlineTranslated": "Spotted fever: São Paulo accounts for more than half of the country's cases - Portal ABC do ABC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T15:46:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREhTamVPUHFiZExFRlR4Vlh3YXNyM2paTWVjR20zeW9zS1Y3RDVfblpTMFo3UGVaVDZYWV9vTEhpRFlha0JObmRFeVBNRkdxaldpaXp5S29FdmoxTms3bFIxYkNSQ3RDTFVvWWNjX1lmb1BHUTFqTjBrWGczNG9fbmdxQ3pfTW56bmtOSHhacW9RZWpTVXhaS3l4aFY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal ABC do ABC",
+      "headlineJa": "紅斑熱：サンパウロが国の感染者数の半分以上を占める - Portal ABC do ABC"
+    },
     {
       "articleId": "gnews_059e03a3d0627f2d",
       "headline": "Sesa reforça vacinação contra sarampo antes da Copa do Mundo - Band News FM Curitiba",
@@ -74,6 +217,26 @@
       "headlineJa": "コスタリカ、デング熱発症率減少を受け、MSのデング熱に対する最高警戒グループから脱退 - MS Every day"
     },
     {
+      "articleId": "gnews_31422d53a5dd3d13",
+      "headline": "Saúde reforça vacinação contra sarampo antes da Copa do Mundo de 2026 - Mídia Sudoeste",
+      "headlineTranslated": "Health reinforces measles vaccination before the 2026 World Cup - Mídia Sudoeste",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T12:47:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWpFeFpUa29RYU1CNHZSR0R6N0JGaERoZk9yWnBldG9Pb2JNMGV4ZTlRUWZScmJFa1VOOF9hbHpldW5GNExzX2RPVkJaVzd4Ym5Zenk2NGNIUmI2bUloVC16Q0JLU25wU2VZbTRZN3lISVEtSGE0RTdEYTRQVURubUZEeUFlTHdRbUxqN1BjZUxsMm82Z01peDR3aTVJbkZrN1VvMFNieGUtVWRF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mídia Sudoeste",
+      "headlineJa": "保健当局は2026年ワールドカップ前に麻疹ワクチン接種を強化 - Mídia Sudoeste"
+    },
+    {
       "articleId": "gnews_f5d6adce30942cf6",
       "headline": "Homem é preso por acumular lixo com materiais perigosos e furtar energia elétrica em Campo Grande - G1",
       "headlineTranslated": "Man is arrested for accumulating garbage with dangerous materials and stealing electricity in Campo Grande - G1",
@@ -94,26 +257,6 @@
       "headlineJa": "カンポ・グランデで危険物を含むゴミを集積し電気を盗んだ男が逮捕される - G1"
     },
     {
-      "articleId": "gnews_31422d53a5dd3d13",
-      "headline": "Saúde reforça vacinação contra sarampo antes da Copa do Mundo de 2026 - Mídia Sudoeste",
-      "headlineTranslated": "Health reinforces measles vaccination before the 2026 World Cup - Mídia Sudoeste",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T11:46:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWpFeFpUa29RYU1CNHZSR0R6N0JGaERoZk9yWnBldG9Pb2JNMGV4ZTlRUWZScmJFa1VOOF9hbHpldW5GNExzX2RPVkJaVzd4Ym5Zenk2NGNIUmI2bUloVC16Q0JLU25wU2VZbTRZN3lISVEtSGE0RTdEYTRQVURubUZEeUFlTHdRbUxqN1BjZUxsMm82Z01peDR3aTVJbkZrN1VvMFNieGUtVWRF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Mídia Sudoeste",
-      "headlineJa": "保健当局は2026年ワールドカップ前に麻疹ワクチン接種を強化 - Mídia Sudoeste"
-    },
-    {
       "articleId": "gnews_0c33debd4ba29cec",
       "headline": "Mato Grosso do Sul registra mais de 11 mil casos de chikungunya em 2026 - Rede Jota FM",
       "headlineTranslated": "Mato Grosso do Sul records more than 11 thousand cases of chikungunya in 2026 - Rede Jota FM",
@@ -127,8 +270,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Rede Jota FM",
@@ -173,6 +316,47 @@
       "dataSource": "Google News",
       "sourceName": "Conexão Safra",
       "headlineJa": "鳥インフルエンザ：エスピリトサント島で協会が警戒を強化 - Conexão Safra"
+    },
+    {
+      "articleId": "gnews_ee3f1a502ff5f11e",
+      "headline": "Piauí registra 469 casos de dengue em 2012; crescimento é de 84% - PORTAL RIACHAONET",
+      "headlineTranslated": "Piauí recorded 469 cases of dengue in 2012; growth is 84% ​​- RIACHAONET PORTAL",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T07:15:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXFCYzdQc2VnSUUteERQdF9ieTBIUHZ3ZndNRDNOOEo0MEhiSGE3MG1hUW5XME9RY0pud3ZyLTZMbHdzZWxNaWc2ZVVobzBxX2ttRXVzd0gyT3JuQ0JRZjJuRF9HaDk2YWtJajVXRGJwRW5aQkE3dDVTaWRlUV9BU2l1eGV3UHhsZ2xOZHVrRndFdGR3Z21ERUJtOGw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PORTAL RIACHAONET",
+      "headlineJa": "ピアウイでは、2012年に469件のデング熱感染者が記録された。成長率は84% - リアチャオネットポータル"
+    },
+    {
+      "articleId": "gnews_349a0b96e5d0b7ec",
+      "headline": "Cuidados para prevenir a proliferação da dengue devem ser mantidos mesmo na seca, alerta Saúde - CBN Goiânia",
+      "headlineTranslated": "Care to prevent the spread of dengue fever must be maintained even during drought, warns Saúde - CBN Goiânia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T05:27:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWG5NV3ZsR2FJSTJRMzEwemR5MkpFOGQ1SmhMT2NOTVZnc0hrY2FCVDEzR0N0ZWloekd3VGlNY2tOOXhDU0F5S29CY2ZpeTgxVldoU05pdXZtNER0M0RaZFVySFNjSFUzTXVlanNJT0hiRklVb3F3U04weUNVeDhaLXYyQnVZcnFfcjM1bjRHNmUzajFyU2ZfaFVwb0pLQmJiYjNZdnFiS0p3NGk4LTVST0NIUDBUampkLTQtOGFxQl9waW04WC1NcTA5YjNkWDRQNWdmcUROYVo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Goiânia",
+      "headlineJa": "デング熱の蔓延を防ぐための注意は、干ばつ中でも維持する必要があるとサウデ氏が警告 - CBNゴイアニア"
     },
     {
       "articleId": "gnews_dd5002b94daa8d18",
@@ -236,26 +420,6 @@
       "headlineJa": "殺人未遂で起訴された警察官の弁護側、モンタナ州で「集団感染」があったと主張 - G1"
     },
     {
-      "articleId": "gnews_cb3d0f17062db3f1",
-      "headline": "Médico de Votuporanga morre aos 37 anos após complicações causadas por meningite - Tanabi Noticias",
-      "headlineTranslated": "Doctor from Votuporanga dies at age 37 after complications caused by meningitis - Tanabi Noticias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T23:07:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzdzUENNQ3dhZFdBdmdQNklIcndoVXlMaVlYSlUtcWQxTDdGUUxYdUVnLTRHVExCYWZFbExwMHlmR1dIMnRnMWtiRktXemRUeHJ3WXQyTVFGXy1SRFhOeDlTVG9xZHFzWTlSLVdxMkkxeGptZDZ5TjM5WVFyX1F0ZjZVdEx2UUFLMGlUM1FBblpXeXBITy1wNXJBX2pndEg2LWE5OTc4ZHZDNUNYSkVfSFdrcmVkM080emRfcU9tcVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tanabi Noticias",
-      "headlineJa": "ボツポランガの医師、髄膜炎による合併症で37歳で死亡 - Tanabi Noticias"
-    },
-    {
       "articleId": "gnews_b5e4a70032fc0d29",
       "headline": "'Fiquei muito surpreso': brasileiro entra na lista da Time das 100 pessoas mais influentes do mundo - CBN",
       "headlineTranslated": "'I was very surprised': Brazilian makes Time's list of the 100 most influential people in the world - CBN",
@@ -289,8 +453,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Folha MS",
@@ -371,8 +535,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraná",
-        "Pará"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Curitiba",
@@ -392,8 +556,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Idest",
@@ -544,6 +708,26 @@
       "headlineJa": "疫学速報: MS はチクングニア熱の確定症例 4,834 人を記録 - agenciadenoticias.ms.gov.br"
     },
     {
+      "articleId": "gnews_cb2989209060e3e2",
+      "headline": "SESI promove Dia D de vacinação para trabalhadores da indústria em todo o Brasil - Diário da Guanabara",
+      "headlineTranslated": "SESI promotes vaccination D-Day for industry workers across Brazil - Diário da Guanabara",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-15T19:02:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcklGNzQxUk9nc08xWDU4b1RXd2R3NE4tOXJqWHVtSXVTX2xaXzdqb0FQU0ROTmNCazVKZUtXZGQyNUVGaVBBcjhIdnlYUnpEY2lOcWJVYUtuTzJNMTVFU0FJekRvYk1Qa2RIUUpUbHpiRWx6WHQzaV9LMGxJaTI0QkhHSVlpMmpWa2wydlQyNi1mVnpYVkZ6c3AtZHVOQXR1LW5iSmt5ckJZNTB5Y2lLTGJwWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "SESI、ブラジル全土の産業従事者にワクチン接種D-Dayを推進 - ディアリオ・ダ・グアナバラ"
+    },
+    {
       "articleId": "gnews_9a0e62a37409a268",
       "headline": "Recife reforça vacinação contra sarampo para viajantes da Copa do Mundo de 2026 - CBN Recife",
       "headlineTranslated": "Recife reinforces measles vaccination for 2026 World Cup travelers - CBN Recife",
@@ -600,8 +784,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraná",
-        "Pará"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "Prefeitura de Curitiba",
@@ -642,8 +826,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Opção",
@@ -683,8 +867,8 @@
       ],
       "locations": [],
       "states": [
-        "Espírito Santo",
-        "Pará"
+        "Pará",
+        "Espírito Santo"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Espírito Santo Notícias",
@@ -724,8 +908,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraná",
-        "Pará"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
       "sourceName": "CBN Londrina",
@@ -770,26 +954,6 @@
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
       "headlineJa": "サンパウロ、2026年に黄熱病による死者5人を記録 - アジェンシア・ブラジル"
-    },
-    {
-      "articleId": "gnews_ba36a1d3b768d6a7",
-      "headline": "Cidade de Dracena confirma a morte de um homem por dengue - band.com.br",
-      "headlineTranslated": "City of Dracena confirms the death of a man from dengue fever - band.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T13:29:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkFCVFUzUGVDZEY0TmptLWZOWXAzRWM2U1FrU0l6UWNhSnJlaXIwRkxKS0trSFAzSkU3WlhvM0JNZjNKTEtwTzZOUDAyMi00VHFjWjcwdm9Hb2xNZ1pJQ2tRRjJ0RE92SWNPRjFSRW4wcWJocHJUYTRlSGRFSVhjQXVvMTJfMDZobGtsX2dPZ3pkMmhfb0JoTFpWWmhVS2ZZcXZHNmdGOWJ6VlhnYWRXc0lWNUZqRnFEVzVJM2hJN0NtbTN0YVRJTkJid1ZhdGVoS2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "band.com.br",
-      "headlineJa": "ドラセナ市、デング熱による男性の死亡を確認 -band.com.br"
     },
     {
       "articleId": "gnews_4374177a23d6baae",
@@ -845,8 +1009,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Notícia Toda Hora",
@@ -886,8 +1050,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "A Redação",
@@ -952,188 +1116,6 @@
       "dataSource": "Google News",
       "sourceName": "Correio Braziliense",
       "headlineJa": "麻疹：開催国での流行のため、ワールドカップに参加する人は予防接種を受ける必要がある - コレイオ・ブラジルリアン"
-    },
-    {
-      "articleId": "gnews_0738b40312fb40df",
-      "headline": "Estado de SP confirma mais duas mortes por febre amarela - Notícias ao Minuto Brasil",
-      "headlineTranslated": "State of SP confirms two more deaths from yellow fever - Notícias ao Minuto Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-15T00:12:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWZwWFZJUlJMWVRfRlZ3akhodmhsTE90b25JaW9IV2hyV19oeGR6blR6bWp4bk10MWtTRUUxeUNkdHVtNUJfUTdkRlY0dDdLMkhYdlJZVl84b0tjNVlCUG12RVpHc1BGWUthX0w1TjVDWE0yOEV3TnY4ZTBDZXQtNnFUMHRtU0tqUGtlSlF3Q2FVcjdqUk9TMDdobFNzNFc2SWRReDVVZlVOSUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Notícias ao Minuto Brasil",
-      "headlineJa": "SP州、黄熱病によるさらに2人の死亡を確認 - Notícias ao Minuto Brasil"
-    },
-    {
-      "articleId": "gnews_b6bb82edffb40046",
-      "headline": "Dengue, combustível, posto de saúde e nota fiscal: prefeitos mostram uso prático da IA no SPIW - Terra",
-      "headlineTranslated": "Dengue, fuel, health center and invoice: mayors show practical use of AI in SPIW - Terra",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T23:09:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNT2xpTnVzRWpZTHlVUjdKOFNBRHNPbWNicUZWOHB5NzZZQ1pqWVpvSnZfTE1Gb0c2UHRUdWlBMms4ZEl3Q0FRY1doWV9fRHhTMVFMR3J0S0VfbktFcXhXSXY0YlYwWURIYXQxR1FIdnNnZ0pBemI5TGl0M1Y0WFN6ck9uQU8xcE1OY21kVkhzN1gtX2NtaHZ2MDFobE82REY1US1DOWs3bE9UeXAtUGZOdDRXUTVwUTRxVTZJRHFZd0Z2d0djeXRYa0xBRmJIMUptd0pvc2NnQkZrZDI1Z2ZybnFwTzgyQmp5c09sTWVtcElUVUlROXJFbnVjSUJscWpHdVVRSENBNDZJMUctak0yWlB3clF1dw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "デング熱、燃料、保健センター、請求書: 市長らが SPIW での AI の実用化を示す - Terra"
-    },
-    {
-      "articleId": "gnews_3fe4ece21497f5d3",
-      "headline": "Dengue, combustível, posto de saúde e nota fiscal: prefeitos mostram uso prático da IA no SPIW - Tribuna do Sertão",
-      "headlineTranslated": "Dengue, fuel, health center and invoice: mayors show practical use of AI in SPIW - Tribuna do Sertão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T23:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWkxWejBmMUhRckx3Sk5rNkRBRE5MX25OcERhSVg5dTlEM0Ffb2tYR3JyQmNBajFRZWs3MVVmNTZIeEVUM0c2VjRBeEpKWGNCd2czYXpQU3p1aFZmZ3ZiU011TzdVMjUtcnRGVWdlQkswcW5wbEVsWXZhZGItZ2F0OHZFdjkxM1ZJQXBQR2pRQkRrQTdsdDU2bGpsQjZyN3R3Nk5LTS1ucGdoZ0NqRm45anpZc00wTGRjNGktTG9fRk56cXROTzE5R2MtRDNNNVFnbk1CeHdWdXZpN3dmQ1g1dlJuQ2d0bmVZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Sertão",
-      "headlineJa": "デング熱、燃料、保健センター、請求書: 市長らが SPIW での AI の実用化を示す - Tribuna do Sertão"
-    },
-    {
-      "articleId": "gnews_7b7785c0212a70be",
-      "headline": "São Paulo registra mais dois óbitos por febre amarela no interior - Enfoco",
-      "headlineTranslated": "São Paulo records two more deaths from yellow fever in the interior - Focus",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T22:31:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1ExMlVaUS1IT2xlbmViOGVBdVZMSGZxd1lmVjM5U2pSYTBpYTY5dEt5UEVRZXhTVGR3d3RfQ1JXazRVMFJPdW5UbmpZWmhIUGp1N1VrZWFRMF9hR2VKdEc4T1VKMkR1aThhdkhpUEpTRzNDSURjMHRFbldDVmc0MHpCS2J4T0t4Z3BGVERsU0ZKa0U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Enfoco",
-      "headlineJa": "サンパウロ、内陸部で黄熱病による新たな死者2人を記録 写真1枚 国際ニュース：AFPBB News"
-    },
-    {
-      "articleId": "gnews_7d35a1c26eae6083",
-      "headline": "Uberlândia tem 628% mais casos de dengue que Belo Horizonte - Tudo Em Dia",
-      "headlineTranslated": "Uberlândia has 628% more dengue cases than Belo Horizonte - Tudo Em Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T22:10:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1hDYTc1NS1DVEx3aG8wMkhJVFpPdkpnclVSX0pWcU1vQ1Q4ZlVuSGFhZlFlMG1QS1VVUC1Zd2k4dk1UQU0xdFRrQldNUllaLW51ZHFlUllDVl9vVjZVOENLTjhQSFR0aDlnRkUtME5TREpNSExLejlIdlBJNzlEcG9OZjJZLUVyT2thSA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tudo Em Dia",
-      "headlineJa": "ウベルランディアのデング熱感染者数はベロオリゾンテより628%多い - Tudo Em Dia"
-    },
-    {
-      "articleId": "gnews_0760a750119771ee",
-      "headline": "Febre Amarela: São Paulo confirma mais duas mortes causadas pela doença - ACidade ON",
-      "headlineTranslated": "Yellow Fever: São Paulo confirms two more deaths caused by the disease - ACidade ON",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T22:00:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUZRUnYtX0V5RUJRS0MxUC1Kc19vNUlaWmRCb1FiS0NKbVk0d2U3M29JejNpUlJ4OUZ1M3lZVVFwRU9BcFhhN2pJZE93UGg2NGlja2tFcTBDSUZ5MHU4ZVdEVWpKT3QtemdTOHk2em96VkxnMHgtSXlPYlYxdFB0Y1o0UVJiRUtVS0lHYmNiQVRPazRhdm1mRk16OXFzSERqMWxGYWZjcTNIbkdldlhjekdOM1BHa0RMM3FyZTJB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ACidade ON",
-      "headlineJa": "黄熱病：サンパウロ、黄熱病によるさらに2人の死亡を確認 - ACidade ON"
-    },
-    {
-      "articleId": "gnews_ef0766b0237865af",
-      "headline": "Uberlândia registra 628% mais casos de dengue que Belo Horizonte - Paranaíba Mais",
-      "headlineTranslated": "Uberlândia records 628% more dengue cases than Belo Horizonte - Paranaíba More",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T21:55:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2N3bktRcEVlQmVPN3A5Ymluci1rUXE2Mm9IM3lxVWZyZzZmS3ZtZFBDbEJBN0xxdlRGNnNBYm1OQmJvV0JWeU9VQVhlU1k4R1UtMGM0YWtoRUVCTjJtek54bWhLaXpVaHliM0F5YThmTUZoYnFyWmxUcVZEQjFSZUtlcUlDWjkyX3dCb3FqS2NJdVlmeWhuelI3LXZsZFVM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais",
-        "Paraná",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Paranaíba Mais",
-      "headlineJa": "ウベルランディアはベロオリゾンテ（パラナイバ）よりも628%多いデング熱症例を記録している"
-    },
-    {
-      "articleId": "gnews_4683289de284a276",
-      "headline": "Estado de SP confirma mais duas mortes por febre amarela - Agência Brasil",
-      "headlineTranslated": "State of SP confirms two more deaths from yellow fever - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T21:14:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0FlZXFLb3NiYTE1LTVCMzRUVzhpQVpySW14dTNFclBmUWJLT0wzRUxVTlMwczFuQTN4QnJSc080MkhxNEkwRTVoZmtmbGhRaUota0pUUWNWWS1zVzVQcXpIM19OTldHbXpsajE5LU5yUFNSdHVYNEdqeW9mV2pjYUpvd3pzZUY3OXN2MzdTLVUtcHloY0UyWE52eEVIVjhtY3I4d3NUYzBWQ3hVTnFYNQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "SP州、黄熱病によるさらに2人の死亡を確認 - アジェンシア・ブラジル"
-    },
-    {
-      "articleId": "gnews_ba5c082e6c4aa9a7",
-      "headline": "Em estado de emergência, cidade do interior intensifica medidas contra a dengue - Bahia.Ba",
-      "headlineTranslated": "In a state of emergency, a city in the interior intensifies measures against dengue - Bahia.Ba",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-14T17:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUVKVG9oVUw1Q3h1eU1MWkQ0cFpoMXEwUEJRX0VGaUhzTUg0eFRodGZSZmpmX3kzT1FaT2VxSFhVTVY0SlZJeE4wOWNlb0tQWEVNQlduRlF3M0VSSGhqMVBpN2t4dGhwS21DR2I3LTdaMzhFYmd6LXlUWmxUdi1aWk9ZemRLUm10Y2ZyMHhzUm5YWFlaZU4yX1dNZDk4bnAwMU1wVGRHLV8wcU0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bahia.Ba",
-      "headlineJa": "非常事態宣言中、内陸部の都市がデング熱対策を強化 - Bahia.Ba"
     }
   ]
 }
