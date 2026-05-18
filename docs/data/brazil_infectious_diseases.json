@@ -1,36 +1,161 @@
 {
-  "generated_at": "2026-05-18T11:45:08.306380+00:00",
+  "generated_at": "2026-05-18T18:08:00.643960+00:00",
   "date_range": {
-    "start": "2026-05-16T11:45:08.306380+00:00",
-    "end": "2026-05-18T11:45:08.306380+00:00"
+    "start": "2026-05-16T18:08:00.643960+00:00",
+    "end": "2026-05-18T18:08:00.643960+00:00"
   },
-  "total_articles": 29,
+  "total_articles": 30,
   "state_summary": {
+    "Pará": 7,
+    "Goiás": 1,
+    "Mato Grosso do Sul": 1,
+    "Mato Grosso": 1,
     "Brasil (estado não identificado)": 11,
-    "Pará": 6,
-    "Paraná": 3,
+    "Acre": 2,
+    "Paraná": 2,
     "Piauí": 2,
     "Distrito Federal": 1,
     "Pernambuco": 1,
-    "Acre": 1,
     "Tocantins": 1,
     "Rondônia": 1,
     "Ceará": 1,
-    "Bahia": 1,
-    "Mato Grosso do Sul": 2
+    "Bahia": 1
   },
   "disease_summary": {
+    "Dengue": 8,
+    "Doença infecciosa (não especificada)": 7,
+    "Meningitis": 2,
+    "Measles": 3,
+    "Avian Influenza": 2,
+    "Influenza": 2,
     "Chikungunya": 2,
-    "Doença infecciosa (não especificada)": 8,
-    "Measles": 4,
-    "Dengue": 7,
-    "Influenza": 1,
-    "Avian Influenza": 1,
     "Ebola": 5,
-    "Meningitis": 1,
+    "Whooping Cough": 1,
     "Yellow Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_f8e8b6afb9bab06e",
+      "headline": "Ministro Padilha detalha avanço da vacinação no Brasil e combate a fake news, além de planos para a vacina da dengue - Foto: Joédson Alves/Agência Brasil - comunhao.com.br",
+      "headlineTranslated": "Minister Padilha details progress in vaccination in Brazil and combating fake news, as well as plans for the dengue vaccine - Photo: Joédson Alves/Agência Brasil - comunhao.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T16:43:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDdFbkhYUjBiSndlbEdCVThYcUR6M01kMzJwNjhMODJibWhtNmowR2JiUW05ek4wN3pHd05JNHhGajRmRmVZQmMyVnVRSHFuLWFZZjRqbGhYbXF5NkZ3QmF5bWFhcTk2TGp4aHp1bk1TcmY3VTRHa0haRGdSRTlZTF82UFZBZGs?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "comunhao.com.br",
+      "headlineJa": "パジーリャ大臣、ブラジルにおけるワクチン接種の進捗状況とフェイクニュースとの戦い、デング熱ワクチンの計画について詳しく説明 - 写真: Joédson Alves/Agência Brasil - comunhao.com.br"
+    },
+    {
+      "articleId": "gnews_1434a77ff2a123e7",
+      "headline": "Irmão de juiz desaparece após surto durante tratamento psicológico em Goiânia - Mais Goiás",
+      "headlineTranslated": "Judge's brother disappears after outbreak during psychological treatment in Goiânia - Mais Goiás",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T15:50:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFpsWUhTUnhGc2MzOWJIWDRzcXl4Mzd1eEZfd25Ebm53Um5HWGgzN1dqbVNCci1ZSmdRR0VScllBLS1kQW1mLWRfa2dGejdYbEVvMTF5RjhmV3dSZVNzZVdFNUhfSTJrY0ZIZDB6ZUpZd0ktQ3pkSXBpOWtRdDF3TnZKYmpXRlRpWWYyVlpJQ0l1MVlDQ3hkS1pMRXFCRG9CYU9mcmhObVkxeHhzOEdwLVlDUVdTdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mais Goiás",
+      "headlineJa": "判事の弟、ゴイアニアで精神治療中に集団感染後に失踪 - マイス・ゴイアス"
+    },
+    {
+      "articleId": "gnews_9c0dd83512b7d415",
+      "headline": "Mato Grosso do Sul soma 34 casos e 8 mortes por meningite em 2026 - Hojemais",
+      "headlineTranslated": "Mato Grosso do Sul has 34 cases and 8 deaths from meningitis in 2026 - Hojemais",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T13:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGRZcmhfUVhaUEZVRk43NmZJRklvbHJzZ0d3OHZkLU5kZHV1Z1JxRDdsZnJISVJsRVVPd2tIVzFoRDhvcXo2TjBrU0hpX1laa2hoa3dUT0xuOUZaQXVDd2plcl9HQjJxNkJKQUhuOXpWNDBvam9TWkkzbDdTbXNhVmJmZ1JncG1zS0NSeE94dEV1MlByTFd6bVQ4cVhyWk9NeFJQM3pEVDd1U2ZsdlpJeWdOMFo0RnlNMHhB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Hojemais",
+      "headlineJa": "マットグロッソ・ド・スル州では2026年に髄膜炎による感染者が34人、死亡者が8人－ホジェマイス"
+    },
+    {
+      "articleId": "gnews_bf52a68c8dbe544f",
+      "headline": "Campanha visa proteger brasileiros do sarampo durante a Copa do Mundo - Folha do Mate",
+      "headlineTranslated": "Campaign aims to protect Brazilians from measles during the World Cup - Folha do Mate",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T13:28:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDNyY0pYZ2FLTHBLYXNyRTRWNTFzUkZkdWRjNTFTOHJkVjlva2JOLW9LVUJOV3lsY3FXeVpPbE1vNnlFM1lzS3lkdmNYY3UzX3NIWDFxajBVaHlBMEVTV051ZHlJMkctT1ljY1NPWi1tenNENjVQd0JwSVFtUGhxT1pOVi1IWTZNWWF4ZmpBUXZFRzg1SS1N?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha do Mate",
+      "headlineJa": "ワールドカップ期間中に麻疹からブラジル人を守るキャンペーン - Folha do Mate"
+    },
+    {
+      "articleId": "gnews_14af56cb11205f1d",
+      "headline": "Vacina Brasileira Contra Dengue Começa A Ser Distribuída Pelo SUS Em 2026 - Acre in Foco",
+      "headlineTranslated": "Brazilian Dengue Vaccine Begins to be Distributed by the SUS in 2026 - Acre in Foco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T12:01:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGpHaEdDekhuTHUxRFFoaDdGY3hFWnBJNU1vY1I0amFFS0phUGhlRS1KZTlZaEVxS2l1MDk2N2FQVVk1VG5Dbnd5QUZrTl9TV3RqdXZ1U0xhNGVsVXVsNXdqRnJsMzVQcDJnRlpuT2FVUVk0bzN6M3pYQW41MjNDWlloYzAtQUExU21UVjlDdDFQVDRpakNMcGRMRDhkaUk5Z1lVeVZHRzA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acre in Foco",
+      "headlineJa": "ブラジルのデング熱ワクチン、2026年にSUSによって配布開始 - フォコのエーカー"
+    },
+    {
+      "articleId": "gnews_2ebe50d68ee80070",
+      "headline": "Expoingá reúne debate sobre gripe aviária, certificações e mercado para agroindústrias - O Presente Rural",
+      "headlineTranslated": "Expoingá brings together debate on bird flu, certifications and the market for agribusinesses - O Presente Rural",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-18T11:51:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcE9UYU5ER3Q3MFRHMG5lWVJkSFdsdnZnaDFPdm8xaTVlOWZiZ24yd0lXX0xFM0FzWFVDXzRvQ3puWi05N1NOcWlUdWtYZlZ1SjlsMTJ6RGZoRE9ELUpBRFk2NURwWlc4RVNWZFR5UlgzQjdGSWhLeGlvVjVuRzY3S0FMODVvNU5GT3J4Yl9obGxxdlA5LVpFQ0tLWG1FVlpGanpQUFM0MG5BaFdZZ25JRG43RkZzUFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Presente Rural",
+      "headlineJa": "Expoingá は鳥インフルエンザ、認証、アグリビジネス市場に関する議論をまとめます - O Presente Rural"
+    },
     {
       "articleId": "gnews_f7b6d2117d1f39d0",
       "headline": "Chikungunya avança em MS e já soma 17 mortes em 2026 - RCN 67",
@@ -125,8 +250,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Bem Paraná",
@@ -170,7 +295,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Somos Notícia",
-      "headlineJa": "母親殺害容疑の息子、テレシナ東部での感染拡大を封じ込める - Somos Notícia"
+      "headlineJa": "母親殺害容疑の息子、テレシナ東部で集団発生を封じ込める - Somos Notícia"
     },
     {
       "articleId": "gnews_4a3fb5b6488b3fba",
@@ -182,8 +307,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3V3UE9TNXRCNE9kSks1bHU5c2hBOVhZWWRNc0V1bWZMd0NNbEZudVV2bGdxR1ZDNllKRkhQU0ZqUmRGMnVReE1QSmtjX3hqT0VTeHlaSzRCRXdRWWVlTW9uTFFQZTJsSWpxdkxZS1lxbWZULVNsUmpwSjBfZExLT3pYYUlNX3NjQlZ2MWFZdGlJUnlM?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -351,7 +476,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "News Rondônia",
-      "headlineJa": "最初の意見 - ロンドニアで髄膜炎が懸念され、ベリタの研究が政治的論争を引き起こす - ロンドニアのニュース"
+      "headlineJa": "最初の意見 - 髄膜炎はロンドニアを懸念し、ベリタの研究は政治的論争を引き起こす - ロンドニアのニュース"
     },
     {
       "articleId": "gnews_85de6fab314c3f04",
@@ -367,8 +492,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraná"
+        "Paraná",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "União Metropolitana",
@@ -413,26 +538,6 @@
       "dataSource": "Google News",
       "sourceName": "Bahia.Ba",
       "headlineJa": "アフリカでの新たなエボ​​ラ出血熱流行により、WHOが国際非常事態を宣言 - Bahia.Ba"
-    },
-    {
-      "articleId": "gnews_7086bd63b0b92b65",
-      "headline": "O número de casos prováveis de dengue registrados no Brasil em janeiro deste ano mais que - Portal ABC do ABC",
-      "headlineTranslated": "The number of probable cases of dengue registered in Brazil in January this year is more than - Portal ABC do ABC",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-17T06:24:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUhDdzNUUkRubE95eENiTlZ6NUVyaXdHTld5UEtwemlBV2ppcE8tMWh4NjRPc0wtcFNjbDNwNVNSXzMxSGkyQktVM3c2Q3dRVGxXRmVYcklLaG83QUNoaUxNSUpxNW5MQ05VdzU3UXNKWTFwTGYzSndZbVlZbmNoUXJyYzB6VkFIaVo5d3ljYjVOSHM1VHYwM1pxb1J6Nk1MYThaMVNDQ2pYMUV2NUZfbExiek5rdGxNZlE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal ABC do ABC",
-      "headlineJa": "今年1月にブラジルで登録されたデング熱の可能性のある症例の数は、次の数を超えています - Portal ABC do ABC"
     },
     {
       "articleId": "gnews_0bd8ef3a3a8f8499",
@@ -495,6 +600,27 @@
       "headlineJa": "WHO、アフリカ諸国でのエボラ出血熱流行は世界的な健康上の緊急事態と発表 - CNN ブラジル"
     },
     {
+      "articleId": "gnews_8d5cca55699b7368",
+      "headline": "Monckeypox, Coqueluche e Dengue: como essas doenças podem ser evitadas no Brasil - Portal ABC do ABC",
+      "headlineTranslated": "Monckeypox, Whooping cough and Dengue: how these diseases can be avoided in Brazil - Portal ABC do ABC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-16T19:59:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2lncWNWTFRLZTBEbTBWSVptWXJBSzl5c3VvS2ZSb2F4eFFJRDQ5OUY1SjhsRDZGNjhoV0c4SnowVW4xNnM3RVk5T3JuaU80dVg3MjdKS1hPaXA1azVkN2xFSFZyS3ZDLVVUX1YxNmRvamsxcmJTU0MxY3ZGNjFMNFZMN19PM2d5SS12SlNpVXVzemhOMXgtbnRROEg4UjdsU2xOZ2FHeHVjMVU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Whooping Cough"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal ABC do ABC",
+      "headlineJa": "サル痘、百日咳、デング熱: ブラジルでこれらの病気をどのように回避できるか - ポータル ABC do ABC"
+    },
+    {
       "articleId": "gnews_7b2f9757511e2e8e",
       "headline": "Saúde SP confirma nove casos de febre amarela e intensifica alerta para vacinação - Notícias de Mogi",
       "headlineTranslated": "Saúde SP confirms nine cases of yellow fever and intensifies vaccination alert - Notícias de Mogi",
@@ -513,106 +639,6 @@
       "dataSource": "Google News",
       "sourceName": "Notícias de Mogi",
       "headlineJa": "サウデSP、9人の黄熱患者を確認、ワクチン接種への警戒を強化 - Notícias de Mogi"
-    },
-    {
-      "articleId": "gnews_65d05b047210ca4d",
-      "headline": "Entenda o surto dos \"alecrins dourados\" contra o Cine Glauber Rocha - Jornal Correio",
-      "headlineTranslated": "Understand the outbreak of \"golden rosemary\" against Cine Glauber Rocha - Jornal Correio",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T16:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlZYdFRXMXJXZWFrc0JQLVVlYUNna3BoNmt4dlEyRERyTFg1ckQzSzZIUEs4emtBb2pDaV9rSksxOTRUM0V5YUxwcmhzMFZKTUtKNHgxVmdLRm5pVlUydTBYX0VsYmR3QzlQNmNUMlFnQTRZUnNldThzNzlYM1BVeVZIRzQybUN0QXNpUHhmX2tuYmVadzZrWE9kUDZ5REgtUTNPaC1lOHJZVmFwaU93bUpKeGJ2QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Correio",
-      "headlineJa": "シネ・グラウバー・ロシャに対する「ゴールデン・ローズマリー」の発生を理解する - ジョルナル・コレイオ"
-    },
-    {
-      "articleId": "gnews_059e03a3d0627f2d",
-      "headline": "Sesa reforça vacinação contra sarampo antes da Copa do Mundo - Band News FM Curitiba",
-      "headlineTranslated": "Sesa reinforces measles vaccination before the World Cup - Band News FM Curitiba",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T14:32:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFlPT2luWEhKYkVaNlRpOEZpMExMTjlWSXdIaUlZWWJ1ODVWRlpral9OOGJfSWZsVFJRTV9Nd3JwVXVLTnlUZHNRZ2pubEZNd3JqVzAzbUMwaHpDMzg1VVFHQjVsUFR5NjdMRjZYSFRkcUJQWTFtVnIxX1AzYzVxMmhYR1JJSFJHX1JZWnVSNnN3Q2JNVFg4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Band News FM Curitiba",
-      "headlineJa": "セサ、ワールドカップ前に麻疹ワクチン接種を強化 - Band News FM Curitiba"
-    },
-    {
-      "articleId": "gnews_4650adf23cb2f682",
-      "headline": "Costa Rica deixa grupo de maior alerta para dengue em MS após queda na incidência da doença - MS Todo dia",
-      "headlineTranslated": "Costa Rica leaves the highest alert group for dengue in MS after a drop in the incidence of the disease - MS Every day",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T14:11:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkY3b2pjVjg4NnNpcklHWjM0N2xDTnVhNHdXakFLS1o1UEdlbHczNHJxWFJjeU5jaTR6LWM0VXJ2bmhzS0J1LVpaLWMtMTJCcnFlbkRsNjNkalU5SGRZcHZWVmVMOTZnVU1zRWN3RVVBWXp2VTVlcElTcS1LaERBNGN3dFFHUmNqa0hXN3luMGZxb2VsNnp1QmlHd1NhZklUVDRZWGtvU1dNYzFyZnlyZVNKbFFUSUI3Z05NR0szQUdRaldpY2R3QjVidm80cGRl?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "MS Todo dia",
-      "headlineJa": "コスタリカ、デング熱発症率減少を受け、MSのデング熱に対する最高警戒グループから脱退 - MS Every day"
-    },
-    {
-      "articleId": "gnews_31422d53a5dd3d13",
-      "headline": "Saúde reforça vacinação contra sarampo antes da Copa do Mundo de 2026 - Mídia Sudoeste",
-      "headlineTranslated": "Health reinforces measles vaccination before the 2026 World Cup - Mídia Sudoeste",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T12:47:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWpFeFpUa29RYU1CNHZSR0R6N0JGaERoZk9yWnBldG9Pb2JNMGV4ZTlRUWZScmJFa1VOOF9hbHpldW5GNExzX2RPVkJaVzd4Ym5Zenk2NGNIUmI2bUloVC16Q0JLU25wU2VZbTRZN3lISVEtSGE0RTdEYTRQVURubUZEeUFlTHdRbUxqN1BjZUxsMm82Z01peDR3aTVJbkZrN1VvMFNieGUtVWRF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Mídia Sudoeste",
-      "headlineJa": "保健当局は2026年ワールドカップ前に麻疹ワクチン接種を強化 - Mídia Sudoeste"
-    },
-    {
-      "articleId": "gnews_f5d6adce30942cf6",
-      "headline": "Homem é preso por acumular lixo com materiais perigosos e furtar energia elétrica em Campo Grande - G1",
-      "headlineTranslated": "Man is arrested for accumulating garbage with dangerous materials and stealing electricity in Campo Grande - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-16T12:22:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR1NZYnZ6a2lZb2JfeUhETDE5SnRUSURiaHUyRWV0MmVGZkN4UC1iU0pGVlpzMlIydFhWU0g2TjBLZ1dMdlNESmNQem9pY1Z3TVNyMGwwbzdhV0lRbElfejBrVFZHZEdZM3U2Ym4tTlZGZ0NvTF93LVNBR2c3eTBoZDJmNzdySmxKbldWSmk3T0hHalpwTzNaRFROZ3RMSDlfeEExMUR0MmtHMWVnZHFmUXVCU3c2di13eEJxUmY1VllVUXYyV1FCMjlWZGJkal9OZWJ6TzZpZjdaSHNaRkFrblkyRUVabHFTdWtYcEk3WWFqalBPMXUxNNIBhwJBVV95cUxQYkloOFZRTjhDTjh6d0p0QXBGWWR6YlJlcGpkeHRlckp4clhLZ0dpOHVsX2NIVi0zUmNLWUZkQ1k1aXJ3T2Zpeno3U3Y1NENiaS01NTJkNXdnLVl4WFhOdTlaMkJSYWVaVkFsWExvRGVwM3FJekdnT1dPOHVDaGt6UWRuaVJjS2Y3M0JFNmJJbzJWcVFFTktuaUxQQ1R2bDVRS19rZ1paOU1yTkJNSmVFdzQ1elF5UWJzeUtyd3NENHRQY2N1MGwxZDEzejM3c1pGdVJsdUd2Q3BjMG55c1JMQ3dUbmJpU1NhRk9uVEliOWx0cktMMlh6ajI0Qm5MVGJocnQ2WVhOUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "カンポ・グランデで危険物を含むゴミを集積し電気を盗んだ男が逮捕される - G1"
     }
   ]
 }
