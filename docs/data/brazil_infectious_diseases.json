@@ -1,41 +1,78 @@
 {
-  "generated_at": "2026-05-22T04:02:08.871440+00:00",
+  "generated_at": "2026-05-22T10:52:46.666863+00:00",
   "date_range": {
-    "start": "2026-05-20T04:02:08.871440+00:00",
-    "end": "2026-05-22T04:02:08.871440+00:00"
+    "start": "2026-05-20T10:52:46.666863+00:00",
+    "end": "2026-05-22T10:52:46.666863+00:00"
   },
-  "total_articles": 63,
+  "total_articles": 59,
   "state_summary": {
+    "Pará": 19,
+    "Amazonas": 4,
     "Piauí": 8,
     "Paraíba": 2,
-    "Pará": 19,
     "São Paulo": 2,
-    "Amazonas": 2,
     "Brasil (estado não identificado)": 22,
     "Rio Grande do Sul": 2,
     "Tocantins": 1,
-    "Alagoas": 11,
+    "Alagoas": 7,
     "Ceará": 1,
-    "Mato Grosso do Sul": 3,
+    "Mato Grosso do Sul": 2,
     "Mato Grosso": 1,
     "Maranhão": 1,
-    "Paraná": 1,
-    "Sergipe": 2
+    "Sergipe": 1
   },
   "disease_summary": {
-    "Dengue": 25,
-    "Measles": 16,
-    "Ebola": 2,
+    "Measles": 18,
+    "Dengue": 23,
+    "Ebola": 3,
     "Meningitis": 2,
-    "Doença infecciosa (não especificada)": 10,
+    "Doença infecciosa (não especificada)": 6,
+    "Influenza": 4,
     "Avian Influenza": 2,
-    "Influenza": 3,
-    "South American Hemorrhagic Fever": 2,
-    "Chikungunya": 1,
-    "Yellow Fever": 1,
-    "COVID-19": 1
+    "South American Hemorrhagic Fever": 1,
+    "Yellow Fever": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_28b3536cb073daac",
+      "headline": "Governo gaúcho alerta sobre a importância da vacinação contra o sarampo antes de viajar para assistir à Copa do Mundo - TV Pampa",
+      "headlineTranslated": "Government of Rio Grande do Sul warns about the importance of vaccination against measles before traveling to watch the World Cup - TV Pampa",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T10:16:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWR1cFNrNUduZXREU1l5Z3hHcWpfd21hTWdmNFY4N3dJVTBVWjExRTRkQWl5ZnEwT3NlYjJPLXlObEpUcmlCMFFvVmF6VEJqeVpxbUpKeVRfQ0I3QUdmdHZjZVFpVm82Q19veXY3Wm5jQ2xLcXI0Y25SeVVyYl9zN0RTdDhEVHZhejF0cnZ3d19Rd0U5Z2ViekZtLW9wWUF1bVVyYk1FQWhQQkM2UWw5LXBTenRjb1pMVFBWVm9ERVhWakJsRFZ4aF9xS1g2Y3NVNVJ5X0lPNHktendmX0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TV Pampa",
+      "headlineJa": "リオグランデ・ド・スル州政府、ワールドカップ観戦旅行前に麻疹ワクチン接種の重要性を警告 - TV Pampa"
+    },
+    {
+      "articleId": "gnews_710cac942a1275f7",
+      "headline": "Copa do Mundo: Amazonas intensifica vigilância contra sarampo,doenças exantemáticas - Portal Você Online",
+      "headlineTranslated": "World Cup: Amazonas intensifies surveillance against measles, exanthematous diseases - Portal Você Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-22T04:10:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbi0ybGhENW9PclhRVExsYS1zQ0JkYnRPeEhROXpuMWNBWU5xMDNQTmh1aXZiejJGTjM0WnNkU0xkSndXRkZjbllKQVNQWFRKXzl4aHhnendxUjhRYjd1UlJGSWpLZEdBZWlzMzRhMmdvbG94bUgyODdLd0ltZ0Nzd05uVHBZTzlsWm5EQTFLam11ZFZuVnFRRXVoUGNjSHBLcU13d21jX2U?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Você Online",
+      "headlineJa": "ワールドカップ: アマゾナス州、麻疹、発疹性疾患に対する監視を強化 - Portal Você Online"
+    },
     {
       "articleId": "gnews_e0a52e28a5f0093e",
       "headline": "Após 4ª morte por dengue no Piauí, Sesapi reforça alerta aos municípios - CidadeVerde.com",
@@ -70,8 +107,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline",
@@ -111,8 +148,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Amazonas"
+        "Amazonas",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal do Marcos Santos",
@@ -141,7 +178,7 @@
     {
       "articleId": "gnews_72f197e863812401",
       "headline": "Surto de ebola na República Democrática do Congo: qual o risco para o Brasil? - Portal Drauzio Varella",
-      "headlineTranslated": "Ebola outbreak in the Democratic Republic of Congo: what is the risk for Brazil? - Drauzio Varella Portal",
+      "headlineTranslated": "Ebola outbreak in the Democratic Republic of Congo: what is the risk for Brazil? - Portal Drauzio Varella",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-21T19:45:08+00:00",
@@ -156,7 +193,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Drauzio Varella",
-      "headlineJa": "コンゴ民主共和国でのエボラ出血熱の流行：ブラジルにとってのリスクは何ですか? - ドラウツィオ ヴァレッラ ポータル"
+      "headlineJa": "コンゴ民主共和国でのエボラ出血熱の流行：ブラジルにとってのリスクは何ですか? - ポータル ドラウツィオ ヴァレッラ"
     },
     {
       "articleId": "gnews_1597babfcad21435",
@@ -252,8 +289,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Pará"
+        "Pará",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "portalporque.com.br",
@@ -333,8 +370,8 @@
       ],
       "locations": [],
       "states": [
-        "Tocantins",
-        "Pará"
+        "Pará",
+        "Tocantins"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -359,26 +396,6 @@
       "dataSource": "Google News",
       "sourceName": "Preto no Branco | Com Sibelle Fonseca",
       "headlineJa": "アラゴアス州で同僚を殺害した警察官には精神病歴はなかった、警察署長が「アウトブレイク」仮説について語る - Preto no Branco |シベル・フォンセカと"
-    },
-    {
-      "articleId": "gnews_c61c432c5d614162",
-      "headline": "Em 2026, o Estado já notificou 5.640 casos prováveis de dengue - facebook.com",
-      "headlineTranslated": "In 2026, the State has already reported 5,640 probable cases of dengue - facebook.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-21T16:15:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXhfMXNhMWw2VXNkSXdHN3dzLUZJQzYwU1NneHZYOEg1V3JQanpjUlBKR1RlTGxhQXNzc3dCdHlSa2Njc0RlSHdQMDJiWUY0c2dIeDk2M1RRT3l2dXB0eU9JNVVieTRtRnQyaGxHMlBNWWt3ZGd0MlVKQlZIOXo3aU5zSmlLdlNoaldnTXVrMm1IMzJvZGlCUFFWRm1LOS1BRXhDQVFtaVlNRnh1UVctVWxBQXJNblF3YzRXQjdGbExmRzZEMjFN?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "facebook.com",
-      "headlineJa": "2026年、州はすでに5,640件のデング熱の可能性がある症例を報告している - facebook.com"
     },
     {
       "articleId": "gnews_d640bbb20b043999",
@@ -534,8 +551,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Campo Grande News",
@@ -555,21 +572,21 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Francês News",
       "headlineJa": "市役所、2026年ワールドカップ観戦に行くマセイオ住民への麻疹ワクチン接種を強化 - フランシス・ニュース"
     },
     {
-      "articleId": "gnews_60ee338499b0147c",
+      "articleId": "gnews_11ae177e8beb0f8a",
       "headline": "Mato Grosso do Sul amplia vacinação contra a dengue; confira quem pode se vacinar - Midiamax",
       "headlineTranslated": "Mato Grosso do Sul expands vaccination against dengue; check who can get vaccinated - Midiamax",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-21T12:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnZXOXRwNnlkNHZzQkIwdXRvdDVvM1BwMy15cVpKdHBKTHkwNVAwMFZNN3BaeTE0Q2ZEWnBkSndxVmxWY0Z6eE05QWxjRWJtRHVTTkNMR2RzLXNSQk1SQXdZRlA1ZE5aT3ZQcHl0amxvaDNJcGNGaDY2S3ZjeW5tUU9yUWtWN1c4Sk5iLWZEZ3ZjeGItSU1yRnRkV0VrTkpYV3Y5bTFJeW0xUXVlV1V1TC13?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHRiVjl1b1JDSmhJSlRKSVNzNG96Z21oc0E4ZERXZmtzYl9aY1ZwaXpDRDR6WktTTExqY0swVW02bm5Fa2Z2QnZiRjFWUGV4TGV6WWltYm5sbGdzWWpORGE4UGg3cTBraEMyLU9BaWZxekxHZExVNkNxa2I2NmxpZVZDVXIyZVF2VHhJazU1NklIejZac0t0SjdLU3ltN0NwSGkzdEEtMjg5clFiQk45VEdLQWpaejQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -617,8 +634,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Repórter Maceió",
@@ -638,8 +655,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Extra de Alagoas",
@@ -659,8 +676,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Sertão",
@@ -700,8 +717,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Agreste",
@@ -717,8 +734,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaU5EblQ2cjk1NzFpdTVjZXpWaFpuVGNIeXFVcXphWGRZTjBHOTlOR0hUTmtRZzgtZEk5bll6MTNyZDBhZm1Ha3ROdGZqZm1NcHI0dmVRc1RYZlpmRGdQek1SaWxQYkJMTnVlUDNiVGt3THYyTHMwdy1zTlZKaW12bWROOEpBWDVGV19F?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -742,32 +759,12 @@
       ],
       "locations": [],
       "states": [
-        "Maranhão",
-        "Pará"
+        "Pará",
+        "Maranhão"
       ],
       "dataSource": "Google News",
       "sourceName": "John Cutrim",
       "headlineJa": "インフルエンザワクチンはサンルイス市庁舎の保健部門で全人口に利用可能です - John Cutrim"
-    },
-    {
-      "articleId": "gnews_4b6f3ed5bf9ee96f",
-      "headline": "Relatório internacional reacende preocupação no Brasil ao ligar temperaturas extremas, avanço de doenças transmitidas por mosquitos, chuvas severas e risco crescente para idosos, crianças e trabalhadores - CPG Click Petróleo e Gás",
-      "headlineTranslated": "International report reignites concern in Brazil by linking extreme temperatures, the spread of diseases transmitted by mosquitoes, severe rains and increasing risk for the elderly, children and workers - CPG Click Petróleo e Gás",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T21:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWVpCVEpRYm9aOF9QZF9PNm85UTNzWTB6RmdtanpENWpQMy16TENkU2doblZzRXNzSy1pcGNDV2d1M2FhQkpfTk9BekREMkQ3R1dBTVlDa1A3SGZhejZOMU1DdkxVNlViNkxoLTF0RWRiOVdYT3NibTNlTTdkczFISjc3WWV3Zkt6RTM2OFdMd1JiQW1ma3NCTGx1WDFSVTBVWEd1WTlEaUhlOUdBVExRSFZqeEszbE01cUZvWFBnRFlCcy1abWtUMEw0b2VnVHl0RXFGUnlpbmhZaDhFQmQxZGM3Q3JyV0h0eGRfVlNtMU1MQVlSc0Z0RHBEeTYxT0tGSDZUd053QjNpM1VTQVcyMUR0VngwX1hJaEJ2QzZZMHJCOG0yelFrY091R0ZwNXQxaEtsc0EzWXBPZWNLbmdwRlBuMFZDVGs?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CPG Click Petróleo e Gás",
-      "headlineJa": "国際報告書、極端な気温、蚊が媒介する病気の蔓延、大雨、高齢者、子供、労働者のリスク増加を結び付け、ブラジルでの懸念を再燃 - CPG Click Petróleo e Gás"
     },
     {
       "articleId": "gnews_d941587530ba796f",
@@ -810,26 +807,6 @@
       "headlineJa": "ミナス州のデング熱感染者、2週間で20％以上増加 - エスタド・デ・ミナス"
     },
     {
-      "articleId": "gnews_7a7c849e13fbcf58",
-      "headline": "Pesquisa aponta que El Niño pode causar aumento de casos de dengue - Band News FM Curitiba",
-      "headlineTranslated": "Research shows that El Niño could cause an increase in dengue cases - Band News FM Curitiba",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T20:44:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05ETkUyMEdFSHhoREVqTlFXT0dNTU45bl9Va2hxSDBkWm5QOFNCOFBDOXVwZkFZZkthLTJudXF6ZTItNFBlQm5CUzMwNkEyNkVsUUotZE1qTzN0TXo1NGhFemFoXzJjYlBkdG9KdGtFUldmQ3JDUnphcnlFUWxuRUtrYVZaZ29kbFhORXdJY24xbURCUHAyb0l5Tjl2ZFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Band News FM Curitiba",
-      "headlineJa": "エルニーニョ現象がデング熱患者増加の原因となる可能性を研究で示す - Band News FM Curitiba"
-    },
-    {
       "articleId": "gnews_b791d575a269bda3",
       "headline": "Sabiá virus has been circulating in Brazil for 142 years and mutating, study finds - Medical Xpress",
       "headlineTranslated": "",
@@ -848,6 +825,26 @@
       "dataSource": "Google News",
       "sourceName": "Medical Xpress",
       "headlineJa": "サビアウイルスはブラジルで142年間流行し、変異していることが研究で判明 - Medical Xpress"
+    },
+    {
+      "articleId": "gnews_8631705e040d2e8e",
+      "headline": "Oiapoque, no Norte do AP, registra surto de gripe; morte de uma criança é investigada - G1",
+      "headlineTranslated": "Oiapoque, in the North of AP, records an outbreak of flu; death of a child is investigated - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T20:22:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlFEOUNMRkNvTVdYVVhWV29BbHJZdzVQR3lMZC1fX3RDNXJ5OG5DOG9BWTNuODllZHJSd3VKYXlRZ3NHLWwteGVrOV80REg4b2J2RTk1SVk4RnFXandzQ0F1X2ZRS1RNc0I2ZlUxSndkcFIzcGx4eDN2N2dNUWpRVVFfRmVpbEVHNkJJdkROZmV2MXgzWld2OG9ialVqOFN2RzlJenhyeXBwZGJKS05KSlNmUjQzb0JwSlFDeVc1TTVxVTNHNTcxYW8ycVdPUnpGNU5r0gHiAUFVX3lxTE1oV3RKT2hrZ0RLUUFIcWtJamdLYmkzT3VrQVA4RFVsTl9OZkVhLTI2dGVoQzMySmpxVENDLS1STFVudFA0NVVtQ0pxYnhWSTRZVmVTT0VzdnUtRF9ucUZKSWI4RVhoSVdPUGh3M0RfVkNCalBqMjNXY0RRNUx5R3ZnREFIMElOZURqcVZCMlR3cTZVWEd2dUlzVlcwMFhHLTd2eXd3MVUwbnp1amtaRUtZYmV2RzE3NXBqUE81VU9SSXFCb3RBaFVvbXBpeUJNbUFJT3c5a3lhbkdtcnZaQ1lOVEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "AP通信北部のオイアポケではインフルエンザの流行が記録されている。子供の死亡が調査される - G1"
     },
     {
       "articleId": "gnews_713ed5b22f3b507b",
@@ -890,45 +887,24 @@
       "headlineJa": "アラカジュでデング熱蚊の蔓延が拡大、近隣住民が警戒中 - A8 Sergipe"
     },
     {
-      "articleId": "gnews_0118557838094ef6",
-      "headline": "Dourados vai pagar R$ 150 mil para missão evangélica atuar em surto de chikungunya - Midiamax",
-      "headlineTranslated": "Dourados will pay R$150,000 to the evangelical mission to act on the chikungunya outbreak - Midiamax",
+      "articleId": "gnews_ef1233a8fa68f8fb",
+      "headline": "Vacinação contra febre amarela: dose única garante proteção para toda a vida | SEGS Portal Nacional de... - SEGS Portal Nacional",
+      "headlineTranslated": "Yellow fever vaccination: single dose guarantees lifelong protection | SEGS National Portal of... - SEGS National Portal",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T18:20:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT3hTdnBjUE5ycUF4V2pNel92MFJBa3E2eUM2eTFLU2dUTEM5a2hrRFFqOWtnUE1rOTE0QjR5NmNPN2g5UUVubHpYLVZza2k5bTRNRWp6Q21HZWFkU0lUbGwxNHBsNE1yU1Y3U05tR0dMRERYUXJPUlVaSG14SEoxdnRnNXF1alo2Mmp5Q1MwUUVOY3IzZUYxdU5vZU5OWTBXQ2ZxZ25nWjEzdXNmMW45R1lIZDhfc2p5LWlOY1lOR3c?oc=5",
+      "publishedTimestamp": "2026-05-20T17:43:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORm1kUjhSNHVaZk9CS0tJaDMtZ2NBU3RwVzRDTk9wbGg1NmxDXzNJVjh1MlhyZFhhV3kwdzVOYXAwVW4xTFZHWkMxUWZxeU1ZSHlmb0l2eW1ZQU1TdGNJTEM5RG5vOUZrNkxPYW0ydDk5M1N2NklYa3hKMmRWYnJhSDR2U2FDV292YjdCUkVETWhuQndPVTgzSTFmSE1fM3Z0bEVIVVRFM2xGNTZocVVhU3FB0gG3AUFVX3lxTE9oQXZlYUFoSV9rQjJsWHFPYkN5X2FuQkVQdmFGbjhtbWZlSW5VcVhyVFZPT3FUblZNZlBOMEctX0FvUUVPYlI0ZHhoV2JoT2FUclRRbGNwaWRwSElHc1FNS0RfRVdYU2F1MF9BeHN3YUd6TGR5OXF3Y2tIQm5uUV9TeUk2MVZpU29rNGdVbGRQTFhUanc2dDFTcmRldXZjT1FBcHVSSHpscDZuWWdfMHZDWlQ5WW9qYw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya"
+        "Yellow Fever"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Midiamax",
-      "headlineJa": "ドウラドスはチクングニア熱流行に対処する福音宣教団に15万レアルを支払う - Midiamax"
-    },
-    {
-      "articleId": "gnews_c3b7aa0cfd50b758",
-      "headline": "Study Reveals Sabiá Virus Has Circulated and Mutated in Brazil for 142 Years - Bioengineer.org",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T18:09:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVZTNnV6ODdSQlVtOUFaV2xFbU51dDl3eHQ0R0ltYm5ZemhSTVNQdzhuY1V4RWlvemU1cXNNTkhlMncxYzJCRUdvZFJkemV6OW5GMnpqMnZPV1JZczMyUW96Q2ttY1ZrbDQtZm9XMlBUMEN0SmNGYTdiR1pIcUlIOUZlR3JyN1Flbk5mUllxRFk2UFhfRzF3VFdGWjMtZ2gwN2ZJ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "South American Hemorrhagic Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bioengineer.org",
-      "headlineJa": "サビアウイルスはブラジルで142年間流行し、変異していたことが研究で明らかに - Bioengineer.org"
+      "sourceName": "SEGS Portal Nacional",
+      "headlineJa": "黄熱病ワクチン: 1 回の接種で生涯の予防が保証される | SEGS ナショナル ポータル - SEGS ナショナル ポータル"
     },
     {
       "articleId": "gnews_94ca7db8aacc074a",
@@ -944,8 +920,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal AZ",
@@ -969,7 +945,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "politicaetc.com.br",
-      "headlineJa": "保健省、ネッタイシマカの発生を避ける方法について国民に警告 - politicaetc.com.br"
+      "headlineJa": "保健省、ネッタイシマカの流行を避ける方法について国民に警告 - politicaetc.com.br"
     },
     {
       "articleId": "gnews_e6f129ba976a2f3d",
@@ -1032,6 +1008,26 @@
       "headlineJa": "セーハ州でデング熱による死者が出ている唯一の都市であるグアポレは、この地域でのデング熱感染者の大部分を占めている - GZH"
     },
     {
+      "articleId": "gnews_f7ecbf56cbb4dfd8",
+      "headline": "Homem em surto mobiliza PM e Samu após ameaças à família em Manaus - Diário da Capital",
+      "headlineTranslated": "Man in outbreak mobilizes PM and Samu after threats to family in Manaus - Diário da Capital",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T15:06:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlJpQy1CNlFiMXJnSEVuUDVZVU1BbUxNNVl0NjFscW1pUmhvRDhuM2ptWEtmSUo5cGdQMW9lTWNSUzI3OHAzMUltN3d5M3dtdmNhdVdULXEwODlmaHF6UzcyLWpoLUU2Z2pTZ2VkVnM4YWRCVndfd2R0ZjdrUllHYmlEWk5aUDNUdWMyVERVRkt5TDJaRTA0VVdKTkJoN3dld1NkNGcwNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Capital",
+      "headlineJa": "マナウスで家族を脅迫、感染拡大中の男性が首相とサムを動員 - ディアリオ・ダ・キャピタル"
+    },
+    {
       "articleId": "gnews_d87da4b8f526fdd2",
       "headline": "Pessoas que vão viajar para assistir à Copa do Mundo devem atualizar vacinas nos postos da prefeitura - Prefeitura de Manaus",
       "headlineTranslated": "People who are traveling to watch the World Cup must update their vaccinations at city hall clinics - Manaus City Hall",
@@ -1045,8 +1041,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Prefeitura de Manaus",
@@ -1122,8 +1118,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVdxVUdaWmg2YzJuUkpYYXA5ZEJPS2x2b3VKcXU0NkFaWDN4dkkwWVllTWRIN2lJQ2pDQUhBeC1qdFZxZGFLYlpvOFplSU1idWxERjl4T2JVbkRLMVc4RDNUc1dUUlBRcllHTmVFekhfNGw2clVwWURLR3F1M3ZKU3dYd1A5YWhWMmFUTHc0RFIxQlZIQmhMQm1sZ2lCRG9qMjBqRmJvbkJsdG9oVmxoekd0eWM?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1132,6 +1128,26 @@
       "dataSource": "Google News",
       "sourceName": "Olhar Digital",
       "headlineJa": "ホッキョクグマで鳥インフルエンザが初めて検出される - Olhar Digital"
+    },
+    {
+      "articleId": "gnews_27181101daf68b2a",
+      "headline": "Há risco de o surto de ebola chegar ao Brasil? - UOL Notícias",
+      "headlineTranslated": "Is there a risk of the Ebola outbreak reaching Brazil? - UOL News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-20T13:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWFudFQ2OHVRTi1vNUZ6RWs2cDgzVENScUg0Mm5CWjN4Skt1QWx6NXhlb3BrVzM0TDRtczlTZWxIbTlsMEh0bzV3eGZSMnFiVDZWYlRTSjgyWExQSmhHMVQySF90MnU1YnFzYVd4U2tTZmh0a0VzX0QtVnBaOUhMSXIwZTR2YmdGZFpVOHN5M1FOU1c4dlJ1T0NSTW9uM25JeUhzcVU0NUNZUldfZUdyT1FGcTlsS1F5eEFR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "UOL Notícias",
+      "headlineJa": "エボラ出血熱の流行がブラジルに到達するリスクはありますか? - UOL ニュース"
     },
     {
       "articleId": "gnews_c2f1b10a72c7c2cb",
@@ -1212,106 +1228,6 @@
       "dataSource": "Google News",
       "sourceName": "Terra",
       "headlineJa": "リオグランデ・ド・スル州、2026年にデング熱による2人目の死亡者を確認 - Terra"
-    },
-    {
-      "articleId": "gnews_183c15527c45ffd4",
-      "headline": "TRAGÉDIA - Policial civil sofre possível surto, atira contra colegas e mata dois agentes em Delmiro Gouveia - Repórter Maceió",
-      "headlineTranslated": "TRAGEDY - Civil police officer suffers possible outbreak, shoots colleagues and kills two officers in Delmiro Gouveia - Repórter Maceió",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T10:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV1ZoS180LWpUUGxUS2RwajEwdEdody1VTjR1SzNrOFI5NWZ5T3lzU3ZDN3VVXzFKLXN0bEZGLXZFVjMyMFdMZnczMUV3Z05acC0wVi1VUFIyQzVCVFFtUWZJRnNyeFdHN0lGT2NuZFNKZEkwR1lGazUzZ0U2cVRZMlA3UkNWUWdqQjZTXzBqVTBaZURQRDFSeEI0eGN2UDdSdWZFbjdMNTFrSEp1TllsUlVLcUJ4UGRtWDg1T0NmN3NQQkhzeDNGZzFjSmxiS3N6?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "悲劇 - デルミーロ・ゴウヴェイアで民事警察官が集団感染の可能性に苦しみ、同僚を射殺、警察官2人を殺害 - マセイオ記者"
-    },
-    {
-      "articleId": "gnews_780e132c1f5dee78",
-      "headline": "Policial suspeito de surto psicótico mata dois colegas em Delmiro Gouveia - Jornal Extra de Alagoas",
-      "headlineTranslated": "Police officer suspected of psychotic episode kills two colleagues in Delmiro Gouveia - Jornal Extra de Alagoas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T10:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVV9RbTdmZHQwdG1tSVd5U0ptSGp0cEhCXzZYTGJ6OHVhUTY1MUwxckJ1UEcxQU0yUjJKV0NUeHFkREZmYk9vWmxLaWh2dVZZd1Q5M1dzRl9wcHpXMUdLam1LbkhiRUNoYzM2aFFuY0FsUm5MWkdoN1BtcmE4dWFLVmZEYWVTdzh3bHVhUV9TODhxVjBsWS1qQS04cVIzdWdlNU5JX2k1T19PZnNmM0Y3dE5VMUFOUzFFc2E0X3Fmd3pNVnh4SnF3Q0NnblpGdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Extra de Alagoas",
-      "headlineJa": "デルミロ・ゴウヴェイアで精神異常の疑いのある警察官が同僚２人を殺害 - Jornal Extra de Alagoas"
-    },
-    {
-      "articleId": "gnews_42d8c8fbdb695c2f",
-      "headline": "Policial civil é preso suspeito de matar dois colegas dentro de viatura no Sertão de Alagoas - G1",
-      "headlineTranslated": "Civil police officer is arrested on suspicion of killing two colleagues inside a vehicle in Sertão de Alagoas - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T09:32:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUlhhU2wwaVBINEptNjlCR3hCOGNSeEszSnBIQmROLXUzQTJrS0hlekw2bWxVU1RZaTBVa3RqaXFsUlZ6N3RCeTVRY3hLcDhtYUVYMjZpNm9wb1VxVEQxV3JmcHFxVTVUZTUtSjZxdTRURllaQUNBek80UUJfaDNtR2NHWkZIMUxCRHN3QkFxLVdreXk5LW1HTlBmWjVPMkpEYldWemlITHlIcUphZ3B3dWZLVm1UMlkxeG80YjBpd1YxRFRkOHRnUkRUcVJLNVFWS01JRkFWc1NURDRqVUxsX3Rkb9IB8gFBVV95cUxPdExJVDdTMXBqemZzTFJyQ1NNNnkwbEJIbkVYVHhZVmdjemFIMzFWOXpPaVZ1bFFLZi0wLV94OTFpWkpvaUJ0akRLWXh4aTZkRzFQOGpNbzkzSmQzSEVrSlJ4SURJWklaS0QzM2lvLXZfazZ2X3Judk1WNlh3MFJfcklEV0F2NV9sc2R0eC1BRGhCYThxUkptNHhEY3poMHNYcXpDWFlnUUhPMEtCUUt2eWZNYUtXUVRlZjQtM09oSWRtQ0xUNV9ydzcyZ0tqdEdvaXhwYU1PWk43NlFkSHpFVmdtVEc0YnlzUUwtYmtsckQ5UQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "セルタン・デ・アラゴアスの車内で同僚2人を殺害した容疑で民間警察官が逮捕 - G1"
-    },
-    {
-      "articleId": "gnews_fcb6b33e432416c5",
-      "headline": "Surto de Nipah faz protocolo da Covid-19 voltar em aeroportos - Click Sergipe",
-      "headlineTranslated": "Nipah outbreak causes Covid-19 protocol to return to airports - Click Sergipe",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T08:59:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkFONW1pcWNRMUozMlhaUXI5bmdrcUloSzBnUUFmZkV6cWxQWFNzRDhBb3RXc2JrUUV3alNFSkpxMHpIMEFLdVZRSjJlSW04emRDWkhRUlVTSTQ0TmhpdldqNFY3SjRRVE44b3lZZzhTODdEMzdVTURTOExEY1VDS2k2cGVpc3ZjTjFiOV9xTHZoSkVFMEc3dTFtMVM2TjdpTENVQWRUX19OU0FZcEhQcFpQa1UzMVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "COVID-19"
-      ],
-      "locations": [],
-      "states": [
-        "Sergipe"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Click Sergipe",
-      "headlineJa": "ニパの流行により、Covid-19プロトコルが空港に戻る - クリック・セルジペ"
-    },
-    {
-      "articleId": "gnews_ffa069a25c007668",
-      "headline": "VÍDEO: Policial civil, em surto, atira e mata dois colegas em via pública, no Sertão de Alagoas - NN1.COM.BR",
-      "headlineTranslated": "VIDEO: Civil police officer, in an outbreak, shoots and kills two colleagues on a public road, in Sertão de Alagoas - NN1.COM.BR",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-20T08:49:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1lRRkc0cmRTcVRNUVhWUVQwWmhwR05weE16RVp0RFRIQU9mV0xVWFNJeC1VUDF0VE1ldGlKa1ZOZGRvUU1JdklxZGVQZ2NWekg4NFpqWjJuSDNSaDNGbkdJOUFTOHdyVnB2TVBfT3F0UzBJTXdHbEY0X05WQkNpUk95Z2FEc1B3QktUVkpJOVB6NXhCVGxHVm15WnBLNHpyN004VElUVkJycVdpZEtYbktoWDRTZWRRTDgya2lR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "NN1.COM.BR",
-      "headlineJa": "ビデオ: セルタン・デ・アラゴアスの公道で市民警察官が集団感染で同僚2人を射殺 - NN1.COM.BR"
     }
   ]
 }
