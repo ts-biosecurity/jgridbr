@@ -1,35 +1,74 @@
 {
-  "generated_at": "2026-05-24T17:13:32.115696+00:00",
+  "generated_at": "2026-05-25T04:11:05.733757+00:00",
   "date_range": {
-    "start": "2026-05-22T17:13:32.115696+00:00",
-    "end": "2026-05-24T17:13:32.115696+00:00"
+    "start": "2026-05-23T04:11:05.733757+00:00",
+    "end": "2026-05-25T04:11:05.733757+00:00"
   },
-  "total_articles": 27,
+  "total_articles": 19,
   "state_summary": {
-    "Mato Grosso do Sul": 2,
+    "Brasil (estado não identificado)": 3,
     "Mato Grosso": 3,
-    "Brasil (estado não identificado)": 4,
-    "Pará": 14,
-    "Tocantins": 4,
+    "Mato Grosso do Sul": 2,
+    "Tocantins": 2,
+    "Pará": 9,
     "Sergipe": 1,
     "Roraima": 1,
     "Alagoas": 1,
     "Bahia": 2,
     "Amazonas": 1,
     "Paraíba": 1,
-    "Ceará": 1,
-    "Minas Gerais": 2,
-    "Pernambuco": 1
+    "Ceará": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 5,
-    "Meningitis": 2,
+    "Ebola": 1,
     "Dengue": 8,
-    "Measles": 10,
-    "Avian Influenza": 2,
-    "Influenza": 2
+    "Chikungunya": 1,
+    "Doença infecciosa (não especificada)": 1,
+    "Meningitis": 1,
+    "Measles": 8
   },
   "articles": [
+    {
+      "articleId": "gnews_2f30d9cdc68f150f",
+      "headline": "Ebola cresce e cruza fronteiras, mas risco de pandemia é baixo, diz médica - CNN Brasil",
+      "headlineTranslated": "Ebola grows and crosses borders, but risk of pandemic is low, says doctor - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-24T21:58:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWVWNlpMRkJkMFdOWlkwNC1WbTdRN19BT29oUVhid1E0ZlFGR1M5T3IzU1M2X0ZOSjVHa0xsaUlXTmJ1QmRmb3Myck9EV0IwQWlmYy05RkcxdW5IdkNRRFRoQ1AwTkZtQTFJMktJMElJbFN0UU9WZ240cnlTcVllNzVHc2tLNEZON1FzbTVRVW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "エボラ出血熱は拡大して国境を越えるが、パンデミックのリスクは低いと医師が語る - CNN ブラジル"
+    },
+    {
+      "articleId": "gnews_25ff8dab4ab03ca5",
+      "headline": "Casos de dengue e chikungunya apresentam queda expressiva em Cuiabá, aponta boletim epidemiológico - MINUTO MT",
+      "headlineTranslated": "Dengue and chikungunya cases show a significant drop in Cuiabá, according to the epidemiological bulletin - MINUTO MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-24T21:32:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkxzblFFV28wRGxydWhYV3h2Y25EMThUTzNxdjE2em1VZFY2XzJRT3pWMXVmM2E4TFFFcnRQdUFwbExmUHNfWDNabUd6bmFYY1VKN2hERG9GSklLSW8yWXZZZXUycHRYWm5xeUxzVDB1LUtrV3luQVpXMVNQMTlydW1VY2pmd0VGUDU2RjZsazVuRlFMUEJxZ0ZxbHo1RnZKeG9BdjVPd1RlRk0zZjBBMTRhV1FMWnJWMDVtWHoyNjlSSWZfWnpYQm9ZWkxrS0ZQNlhv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MINUTO MT",
+      "headlineJa": "疫学速報によると、デング熱とチクングニア熱の感染者数はクイアバの大幅な減少を示している - MINUTO MT"
+    },
     {
       "articleId": "gnews_2e70fc125dbef8e6",
       "headline": "Mato Grosso do Sul amplia controle sobre arbovirose rara no Estado - capitalnews.com.br",
@@ -85,8 +124,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Tocantins"
+        "Tocantins",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -275,28 +314,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "diariodigital.com.br",
-      "headlineJa": "マトグロッソ・ド・スル州、デング熱ワクチン接種をすべての医療専門家に拡大 - diariodigital.com.br"
-    },
-    {
-      "articleId": "gnews_7a6a245c7952cd57",
-      "headline": "Quem vai viajar para Copa deve estar alerta para vacina do sarampo - Portal Agora Tocantins",
-      "headlineTranslated": "Anyone traveling to the World Cup should be aware of the measles vaccine - Portal Agora Tocantins",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T13:41:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEVFN3FYM0czZF92b2JpOEhoNzJ2WWx2aVVFX25xN0hfSzd6V1RwWmFlMUJITUozbWZwdUZkcmlJME9VblJqNUtPQTU4OHhER3NiTTFwZzFMRXl2dy1aUUN6dXVqR3puT2NzRU01Ny1aMWgzSWhJcEJCS015V0dlblNqcjhZWFRON0l2Q19fM3VGb2JkRWc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Agora Tocantins",
-      "headlineJa": "ワールドカップに旅行する人は麻疹ワクチンについて注意する必要があります - Portal Agora Tocantins"
+      "headlineJa": "マットグロッソ・ド・スル州、デング熱ワクチン接種をすべての医療従事者に拡大 - diariodigital.com.br"
     },
     {
       "articleId": "gnews_30145ca2fc6763ac",
@@ -372,8 +390,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline",
@@ -398,190 +416,6 @@
       "dataSource": "Google News",
       "sourceName": "O POVO+",
       "headlineJa": "セアラ州、2026年にデング熱による死者3名を記録 - O POVO+"
-    },
-    {
-      "articleId": "gnews_f07332fcea465fbd",
-      "headline": "Subsecretária alerta para período de risco de gripe aviária - Correio Braziliense",
-      "headlineTranslated": "Undersecretary warns of period of risk of bird flu - Correio Braziliense",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T23:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFhMOXowdkZ6RFBnVnQ0cUdPbGs2MDdNU0FCZVJGOGFoZEJac3hsUFo5UFVTTEFrYUYyRXA2RVA0QUZlVC1ZMGFWRUNTOHBwc1hDQjE3U1oxQks5MVZseHBRMnpMRHpxbWhSLUxKekpwODdCUThSNGxQcjdGVzJuVDByYkJIbG55LUY2dVZNU0pSSEdnd3dKeGZsTE93SkpsR3hKZklOMVVTREhWUVdhMWVzeTNKc2J1aXFSMkFESjVJcURmSU5RM9IBzgFBVV95cUxPWHd0bzJNajQ0aUZLUTZLcm1PU3ZnaXppcUNxM0c3T2d6eFJWamlCTkJSNGV5NVlkcm9DeC1PYjhZNUZXN0RtMW00X192YVJrZjFrOHFNa3NGVTloc0ZBbVFLVDIyaVprVEg0X0NsM1dUakNIZkRGNnMwYnh1RFhNQkRYRzcyMWFoRU1IMnRXOG0wS29MLXY0TXV5YzR6bTBDSmJHWjhIQ21HOHpuNVc0LU9GUjBsLVpYUHNwRzkwcEF0LU52bWZVY1c2RzQxQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "次官、鳥インフルエンザの危険期間について警告 - コレイオ・ブラジリアンセ"
-    },
-    {
-      "articleId": "gnews_8edf45fa2c055590",
-      "headline": "Prefeitura de Cuiabá capacita agentes para instalação e manejo de ovitrampas no combate às arboviroses - plantaonews.com.br",
-      "headlineTranslated": "Cuiabá City Hall trains agents to install and manage ovitraps to combat arboviruses - plantaonews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T23:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUjZpVzVac2pIdmVJRjNZbVcxcWVxaVdnbGFzWGkxcWx6Yk96ZVNZVkNpX0FVY2hscnZpQ3p2c0Utd01zTHVDYmdOQVlTc3Z2dEV0dVppS3gtR2c4VnNSb25aSjFFU3pEOVN1aFMtdnozV3hOZTQyQ0hlaHpkQTNzNDNKeFVwLWg5RThLT0Zid2piOTFKaFd1WjF6QVdfYV9RcmtpNGdSS0ZWUEdVWW9QRExyQklNaXhrbjhkYU5tYTJGaVlOUU1WMUpB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "plantaonews.com.br",
-      "headlineJa": "クイアバ市役所は、アルボウイルスと戦うためにオビトラップを設置および管理する職員を訓練します - plantaonews.com.br"
-    },
-    {
-      "articleId": "gnews_c7280b632ef79d4f",
-      "headline": "Gripe aviária em humanos: quando a exposição a aves ou gado exige atenção médica - Tua Saúde",
-      "headlineTranslated": "Avian influenza in humans: when exposure to birds or livestock requires medical attention - Tua Saúde",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T21:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWE0ajZZT014RUt4cXA0LVNvdklGS29sckpoTDlaQXMyOVk1RVRpQjNrcE9HbzY5cTR0c2g0a2NETkdxSWRSaUNLNlFXb3E2N19iYVJDNzhhX01FUUItNEhId2FOVTl4NGk1ZzVTeUJKLU5iM3d4UFI1NnFha2RlSzNpbWFUdnQzcG9HdHBWMU9MNzFGTUVZVUtRQ1VRZWFfeGxpWTVSYzN5YjVsZkhpYU9ZcDBGc2hfSDdteEpB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tua Saúde",
-      "headlineJa": "ヒトにおける鳥インフルエンザ：鳥や家畜への曝露に医師の診察が必要な場合 - Tua Saúde"
-    },
-    {
-      "articleId": "gnews_b13237a53f8d8881",
-      "headline": "Pai de Daniel Vorcaro tem surto na prisão em Minas Gerais - ICL Notícias",
-      "headlineTranslated": "Daniel Vorcaro's father has an outbreak in prison in Minas Gerais - ICL Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T21:30:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaMnhNREo5TEc2OEpKNG04cjU1QWFxakx2SWFLZVB2YkY3N19XazhYdWZEcVZDSktpVUVzcm5OZUlrZU5jbkphVDFSVGE5QmdkNDdKLVpBdjNQTkhOSTBuMEFTcXh0VHM5MGp0MXBSbGh1empuWkhUSw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ICL Notícias",
-      "headlineJa": "ダニエル・ヴォルカロの父親、ミナスジェライス州の刑務所で集団感染 - ICL Notícias"
-    },
-    {
-      "articleId": "gnews_40d1242dc7e17933",
-      "headline": "Pai de Daniel Vorcaro tem surto em presídio de Minas Gerais - Terra",
-      "headlineTranslated": "Daniel Vorcaro's father has outbreak in Minas Gerais prison - Earth",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T18:23:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1dSTzJVNVNxSjQzQ0V0YjdGTm90dUhpUnBGcEVlQnhFRWZPeGFjMHZfd1RzWjRsMmdFcVgyUHhfMERYbnNFbDJRdWsta0hrem52SlkxWkRiZjYyQ09GbVlFam4zby1FQW5MV3p1RGlWaW1xQy1wc29zSnI1T2xiQ0FEbzNJYk5HZXBIV3JQS1lSejRDenh5VkY4M0RPUVRseWNZU3gzSzZRcF9TUHNBWDQ0ZmpjZlFWcVo5SURJVl92WXlrbnRTODFDLUVlZkJMNFBDb09xcndjOFA1ZDhB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "ダニエル・ヴォルカロの父親、ミナスジェライス州刑務所で集団感染 - Earth"
-    },
-    {
-      "articleId": "gnews_f34e38bede66e948",
-      "headline": "Meningite: Saúde orienta sobre vacinação - Hojemais",
-      "headlineTranslated": "Meningitis: Health advises on vaccination - Hojemais",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T17:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlNXSFkwR3ZSZWduNncyNEdIV09RM2w3QUFCRTZ4Q1BtTFJmemZOVU5aTHZESlpjTXduRTJoTlNDU0Z0RDFwVGVjanFqWko3b0oyalppd1pMQ091Si1kM0xqUWg5dlVJUEU3ZG9CZEhldnhGckZMTHI0bFVEaWNVYU5XZG5Qd1hfYzZTZDFXaVdSZXJ0N1o2eg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hojemais",
-      "headlineJa": "髄膜炎：保健省はワクチン接種について勧告 - Hojemais"
-    },
-    {
-      "articleId": "gnews_3d08e34f71f2b39f",
-      "headline": "Casos de sarampo aumentam nas Américas e reforçam alerta para vacinação - expansao.co",
-      "headlineTranslated": "Measles cases increase in the Americas and reinforce warning for vaccination - expansao.co",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T17:33:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDdJYWMwYkQ4bUZLT2RzNldLWjlWZWZNQUdycXdua0tFWThpRTZOZ1c5MHRaUDEtbkwwd09lWE9pemNxVnlDd0dZS0I5bW9rZEI3cWR5LTZ4S19LMS0wdlRzbTE0RTBaOHJQc2N5SHlObDM2Q01wcFFvMm9ia2ZnRFRScHI5R21NYlB2Zlc5YmJna3FmN3lj?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "expansao.co",
-      "headlineJa": "麻疹症例が南北アメリカで増加、ワクチン接種への警告を強化 - expansao.co"
-    },
-    {
-      "articleId": "gnews_704d10377f0d5a9f",
-      "headline": "Casos de dengue disparam no Tocantins - G1",
-      "headlineTranslated": "Dengue cases soar in Tocantins - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T17:32:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHViZjR4U2dCd00xTTkxUVdPTFhzSjNXRGUtc05SZ0d2V0lPMHZVUXdyZEJ1Z1oxVHNLaS05RkZiel9ySXl0UVBDM1BkbERXUW1GVzFvM2J6a1A2NkdIUWNRc0ZCY0YtSnhMVFhNdnVHLVlVMnZfNmxsSGVodU1PNTZRS2d5bU05MGo5bXU5Z0FSeWc2ZkV4em0xTFBMMndwRVU2cTZ0Qi1QcnA5Y3ZWVTZjSk3SAcMBQVVfeXFMTXI0R2cxYWZManhzUkFxbzhTeVFhQ2hFWWJ2RDNveGNIcDM1VXhhenlTaEVxZnJnQmRvQ0ZYS2syQ3c5RWxFeUdCeENJZkdPWFBPOWZUM2RHUExDLWhGTjhvMlpPbU1CVUtuSW4zN2hIRTE0ZklkMkRFbDJUNHpzXzRob1RVYzZINjhuWkRmWTdQaVhqVGJWZDJ2aUFkMlhrWXdQYmV3dWRLa0pUR1FTcFpEY2dkN3RQb1U4d0VPZ2QyUjNR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "トカンティンス州でデング熱患者急増 - G1"
-    },
-    {
-      "articleId": "gnews_453bf13bf7d85766",
-      "headline": "Mulher em surto esfaqueia pai de santo após discordar de adiamento de atendimento no Recife - CBN Recife",
-      "headlineTranslated": "Woman in outbreak stabs pai de santo after disagreeing with postponement of care in Recife - CBN Recife",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-22T17:28:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0VjYkdfV3JfMGp5SFkxd2RaeHd1ekdaaVpCM0tMRS1mZnBIelB0TW5xM0NEb0ZRczdiVS0zR1Bfa2g3eWdzUzY3cDRyR3Z2clZmX1lQSVFvMWl3bnVoeVJiNnBjQy1XWTNuYi0wOC1NOUJ6RzItbS15MGV5RGNtRFRtSTQ1Umc3NkVYejNFRkpzdEtKalEyeG1fRFB3UHY0QnhDaFNQMUFpWUpfa1JpY2xhbUJfNHVlc0hSdHBzUmVocjUzWWRoeg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CBN Recife",
-      "headlineJa": "レシフェで感染拡大中の女性、治療延期に同意せずパイ・デ・サントを刺殺 - CBN レシフェ"
     }
   ]
 }
