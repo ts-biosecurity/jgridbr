@@ -1,31 +1,200 @@
 {
-  "generated_at": "2026-05-25T17:51:02.827130+00:00",
+  "generated_at": "2026-05-26T03:56:49.436649+00:00",
   "date_range": {
-    "start": "2026-05-23T17:51:02.827130+00:00",
-    "end": "2026-05-25T17:51:02.827130+00:00"
+    "start": "2026-05-24T03:56:49.436649+00:00",
+    "end": "2026-05-26T03:56:49.436649+00:00"
   },
-  "total_articles": 15,
+  "total_articles": 22,
   "state_summary": {
+    "Piauí": 3,
+    "Pará": 4,
+    "Sergipe": 2,
+    "Brasil (estado não identificado)": 8,
+    "Espírito Santo": 1,
     "Santa Catarina": 1,
-    "Piauí": 1,
-    "Brasil (estado não identificado)": 7,
+    "Tocantins": 1,
+    "Paraná": 1,
     "Alagoas": 1,
-    "Tocantins": 3,
+    "Rio Grande do Norte": 1,
     "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1,
-    "Pará": 1,
-    "Sergipe": 1
+    "Mato Grosso": 1
   },
   "disease_summary": {
-    "Influenza": 1,
-    "Dengue": 7,
-    "Measles": 2,
+    "Dengue": 11,
+    "Chikungunya": 3,
+    "Zika": 1,
+    "Doença infecciosa (não especificada)": 3,
+    "Influenza": 2,
+    "Measles": 3,
     "Ebola": 2,
-    "Chikungunya": 1,
-    "Doença infecciosa (não especificada)": 1,
+    "COVID-19": 1,
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_b9f8eb57af6e97c3",
+      "headline": "Professora morre com suspeita de dengue no Sul do Piauí - G1",
+      "headlineTranslated": "Teacher dies due to suspected dengue in southern Piauí - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T21:26:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFZTUkZMakgtWFYtbGtwaDhQWW9LS3FGalVoeDk0TFpRWklUMU5zcDBZRlljazFDYjJHT1F5REdnV0lEdHlGZXE2dGtvWDBRcUdFRFVDMFFRbkhkMW5qV2FnYmk0TWNRdTRKUkpUd0hFY0xYVTI1U3ZndjJhT29Sdk84UUQ1YUtEaERNcTJfRkhsdFdYUHhsd2JXakxIbW9hclU5U2w0VDV1UW5NSExfcNIBsAFBVV95cUxPeFZTUkZMakgtWFYtbGtwaDhQWW9LS3FGalVoeDk0TFpRWklUMU5zcDBZRlljazFDYjJHT1F5REdnV0lEdHlGZXE2dGtvWDBRcUdFRFVDMFFRbkhkMW5qV2FnYmk0TWNRdTRKUkpUd0hFY0xYVTI1U3ZndjJhT29Sdk84UUQ1YUtEaERNcTJfRkhsdFdYUHhsd2JXakxIbW9hclU5U2w0VDV1UW5NSExfcA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ピアウイ南部で教師がデング熱の疑いで死亡 - G1"
+    },
+    {
+      "articleId": "gnews_99325b933c128e4f",
+      "headline": "Anápolis é escolhida para receber tecnologia inédita contra dengue, Zika e chikungunya - Diário do Município Anápolis",
+      "headlineTranslated": "Anápolis is chosen to receive unprecedented technology against dengue, Zika and chikungunya - Diário do Município Anápolis",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb1A5b2FHYUdUeDZZZTFOUk1RU1lJR01kQkppZVVfdFNNYnJQMXludmczUTh0c0k2dXJ5NFc3a2hKbEs3THRGMmZzdWZTV211LXRqUVViZFVjWWtyOW5rVHVLd0wzRHp5LVNBclFKYTgzTUloREZCOGl2aEg4R0tXYkZHalROMDlSODZrbmZkRDY5XzNTLWxwb3ZZX0ZrdUNqTDFMV1A2UklLODJvRVVGM280TmxaOUdTcVJITXg0U3Izd2VNZlctNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue",
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Município Anápolis",
+      "headlineJa": "アナポリスは、デング熱、ジカ熱、チクングニア熱に対する前例のない技術を受け入れるために選ばれました - Diario do Municipio Anápolis"
+    },
+    {
+      "articleId": "gnews_aa68e0f114398a43",
+      "headline": "Sete cidades de Sergipe entram em alerta por alta infestação do mosquito da dengue - A8 Sergipe",
+      "headlineTranslated": "Seven cities in Sergipe are on alert due to high dengue mosquito infestation - A8 Sergipe",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T19:53:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTk5keHhlaXh0b29wZzNpN1lkT3hmel92TW96d1hJWnBqY1ZzTkRrQnpMME1YLXZTeXpzQmhTVzNCcG1YWURvRENDSmFPRDA4SS05RTJpWFV4bWRrcmw1OXQxZjQ2bF9zVUQzYUY5aVZSRHhiNXRpclFUaWViZEhPSklOYkhuc2ZkVHp0XzZQcjFMeDdpV2c5SDdSMFBkQlZxX2psaF9jYktTb1lwUEFEZkxZYXRLWXhM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A8 Sergipe",
+      "headlineJa": "セルジッペ州の7都市がデング熱蚊の大発生で警戒中 - A8 Sergipe"
+    },
+    {
+      "articleId": "gnews_40c7ac99073900e0",
+      "headline": "Sete municípios sergipanos estão com alta infestação do Aedes aegypti - G1",
+      "headlineTranslated": "Seven municipalities in Sergipe have a high infestation of Aedes aegypti - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T19:15:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzNVS1NXZFF0S0Z1aC1Fd1FaS3I0N1E3VEhQamtOOXFucTRGVkk2M1NOb0RfNDZsa3VvdndxdGZ4SWtYalJTdVJYdDJ6Ym5PaTBmQ2t5TzlxdmQ0Q25BVE9xcXpoRHFzZFJhaXlDMGN4ME9iTnFReXdfUEFjQ3g5TWxoUVU4UXZXVEthX2dmMW80TDJGRjRvakMtZW95c1drdGRuUzJuMWJLdWM3aTcxZ1RWTmk2eUtYWWVRMFlVMXJKMm16cVVrYzZMQkpsM2JRelQ40gHTAUFVX3lxTE5nM1VLU1dkUXRLRnVoLUV3UVpLcjQ3UTdUSFBqa045cW5xNEZWSTYzU05vRF80NmxrdW92d3F0ZnhJa1hqUlN1Ulh0Mnpibk9pMGZDa3lPOXF2ZDRDbkFUT3FxemhEcXNkUmFpeUMwY3gwT2JOcVF5d19QQWNDeDlNbGhRVThRdldUS2FfZ2YxbzRMMkZGNG9qQy1lb3lzV2t0ZG5TMm4xYkt1YzdpNzFnVFZOaTZ5S1hZZVEwWVUxckoybXpxVWtjNkxCSmwzYlF6VDg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "セルジッペ州の 7 つの自治体ではネッタイシマカが蔓延している - G1"
+    },
+    {
+      "articleId": "gnews_a9f99daf0a8f43ad",
+      "headline": "Saúde amplia coleta de RT-PCR para diagnóstico de dengue em Cachoeiro - Jornal Espírito Santo Notícias",
+      "headlineTranslated": "Health expands RT-PCR collection for dengue diagnosis in Cachoeiro - Jornal Espírito Santo Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T19:05:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjczWlhtYVEyaVdIMHNicjlvNXlyUHR0ek91TFBRWTBadEJFeWdraVl0Ny1rVVM3QkE3QVhNeG9LcXduRjA2czNjWi1uTWtXeGk5a0Npb2pCOE5hcEowZDV0MmdJRjlFMHNkc0JCaTh0alZHYXZJbVI5TUxNZ0gwUERGS0hVQ2IxalBNOWFaVnVzbmU1SVJjX3l4Q0plOHZjb3JrU21fa0RySmpUNU9SVA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Espírito Santo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Espírito Santo Notícias",
+      "headlineJa": "保健省、カショエイロでデング熱診断のためのRT-PCR収集を拡大 - Jornal Espírito Santo Notícias"
+    },
+    {
+      "articleId": "gnews_b0a6fe18d37af2a6",
+      "headline": "Chapadão do Sul avança no controle da dengue e chikungunya e melhora posição em ranking estadual - Jovem Sul News",
+      "headlineTranslated": "Chapadão do Sul advances in the control of dengue and chikungunya and improves position in state ranking - Jovem Sul News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T18:56:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVZvMXBnZ2RQRjZwZ0puZHFTNFVTY2VQcEhYYjhyTXFYN2M1aTNYeFJpZjVNN2hQNnJKMlExUmRVWEpFTlZXWkVRbHI2b0hkcExlR0didzg5QUNqWlNnaVduZVRGWEFLWkhBUnp0ckxWQ01SQUVINHVraEkzWGRnOWdwVnJUdml6MUtJTDY4eVRxaXEwNkEwOWVlbElXT2hUek1NZWw3VVNNZ2ZsTWlNUHV4NHVDdkxVd0lZUFM1NUw2SFJXRnVsbUdHenBDNGM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jovem Sul News",
+      "headlineJa": "チャパダン・ド・スル州、デング熱とチクングニア熱の制圧で前進し、州ランキングでの地位を向上 - Jovem Sul News"
+    },
+    {
+      "articleId": "gnews_9b14f170ae3e7ef0",
+      "headline": "Anápolis é escolhida para aplicar tecnologia inovadora no combate ao Aedes Aegypti | Notícias | Saúde - Prefeitura de Anápolis",
+      "headlineTranslated": "Anápolis is chosen to apply innovative technology to combat Aedes Aegypti | News | Health - Anápolis City Hall",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T18:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVk1mVi1abWtLVThFbGR0aXFwMk1vdEM3TXdtTkdYaGlJM0ZoTWJIOVpsVTNaU2VkY1NjOUlPMkR6aElOV3cwV3BiUk1HZ2FlNTBKREJYdkI3NGZCSXNJRGxoU3I0RlhWSEM3aFBocE90MTJEdURiX1BoeVNGYUVGSjQ5UEp4MGRTSDJRQzdQZkVRNTBBaGtWeHhRWlVfLXBGeGZRY2pLbmRWQmI5LWUzX1VkQnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Anápolis",
+      "headlineJa": "アナポリスは、ネッタイシマカと戦うために革新的な技術を適用するために選ばれました |ニュース |健康 - アナポリス市庁舎"
+    },
+    {
+      "articleId": "gnews_9fc711a5e1e9f79a",
+      "headline": "Dengue no Piauí: Sesapi confirma 4 mortes em 2026 e reforça ações de prevenção - G1",
+      "headlineTranslated": "Dengue in Piauí: Sesapi confirms 4 deaths in 2026 and reinforces prevention actions - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T16:38:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMzBqY0VMVjRGd3JsSnpBSnB4a2xDYlA3S1ZlSTRSMWdOZWczcmZqWVE2UmdYYUxyVjBkRFpsLTdyV3NQUGxHVlA0andxT0R1NGdENnowSzlDZzUtRGdxbm81NlBSdUpDLXZlUlgxS1Vidm5GVEc5a0UzeGd2eHd3UFZjY2hZUGJBZFZZZ1R5U0xaMVZoYk9aN0RWWTZjTF80ODVsNW1VRVQ3Rl9PNUtlUGlQSWo4Zi1YaEZGWHkxM1pIZl9hS1BGbGYtQ29FOXJZbTQzSV9ocE45RkE2bTVlSmVRS0F3LVozUEpJU3hvSFdHUdIB8gFBVV95cUxOMzBqY0VMVjRGd3JsSnpBSnB4a2xDYlA3S1ZlSTRSMWdOZWczcmZqWVE2UmdYYUxyVjBkRFpsLTdyV3NQUGxHVlA0andxT0R1NGdENnowSzlDZzUtRGdxbm81NlBSdUpDLXZlUlgxS1Vidm5GVEc5a0UzeGd2eHd3UFZjY2hZUGJBZFZZZ1R5U0xaMVZoYk9aN0RWWTZjTF80ODVsNW1VRVQ3Rl9PNUtlUGlQSWo4Zi1YaEZGWHkxM1pIZl9hS1BGbGYtQ29FOXJZbTQzSV9ocE45RkE2bTVlSmVRS0F3LVozUEpJU3hvSFdHUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ピアウイ州のデング熱：セサピ州、2026年に4人の死亡を確認、予防措置を強化 - G1"
+    },
     {
       "articleId": "gnews_f9298564d425898f",
       "headline": "Vacinação contra a gripe preocupa em Santa Catarina com baixa adesão nos grupos prioritários - Rádio Super FM 99,9",
@@ -87,13 +256,33 @@
       "headlineJa": "アナポリス、2026年にデング熱による初の死亡者を記録 - ディアリオ・ダ・マンニャ"
     },
     {
-      "articleId": "gnews_53d82ba6debeca18",
+      "articleId": "gnews_2d8cad2aaaeacebd",
+      "headline": "Anápolis registra primeira morte por dengue em 2026 - Portal Agora Tocantins",
+      "headlineTranslated": "Anápolis records first death from dengue in 2026 - Portal Agora Tocantins",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T14:23:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFJRNXJrRlF4bV9WS2tiSTZ5TjJmTEFYRUZEMVZLUlpfU0U3SUllTV9IUUlIaVNrTlFzRW9xMmNzQ3dKMFBFYmx5cmRPVUhXVlQwY0V6T1M1eTE5RXR6WlFGUndXUDYwNFBrcXgwQlNrVlBWNE5YUUJScTZGOUJCYWNB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Agora Tocantins",
+      "headlineJa": "アナポリス、2026年にデング熱による初の死亡者を記録 - Portal Agora Tocantins"
+    },
+    {
+      "articleId": "gnews_ece4ec4db16184e9",
       "headline": "Mais de 500 crianças morrem em surto de sarampo em Bangladesh; saiba os sintomas e como a doença é transmitida - O GLOBO",
       "headlineTranslated": "More than 500 children die in measles outbreak in Bangladesh; find out the symptoms and how the disease is transmitted - O GLOBO",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-25T13:54:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbDRrUzFjNUlrZ1BRckhIS243UVF1X2V3cXlFQm9tVUpnNXd4YXdYVlItd01NNmlBeXduMEh2RUh3QkF4dG8zZHUtRzFndmhZWVZqVl9qUUhVNExUaDV4NVpfQkgzY0tmaXcxUmZtcFhmalJ1OG9jaGx2VmI1ZGxFcGxZRmlqZXFWSXc4M2EwdXM2WHA1MlJrcElnRzZIR2V5b2lPSm1MbHBVdDBvTkVETld0M1RXS1NqUHpad19Hb0NuQmp6R2I1TUYySG9aenp3TWhiUHhrYlZ1RDJFemN6RnpOOW10alBUWXdQbnNKYTUycjF0cVhtX9IBhwJBVV95cUxQVVIzaWl4YU16emJBNmxxdHhxUl9XYmtmZllTVmQtWEhOM2hOT2tPdW5JNlNBejFqbXJQNFA3MnBkdUhQbGIxLUdoTnNmNEdYbXVtT3BlcXA2dktjZDdnbTNPUk1aQW9ISWxFRXRWYzk3UkV3dVVxZWNkZ1pQTkpucS1yMGlBOXd6TmEyWWFhNkJaeDRGVnktNjNlcG1sbFFkcEVxaGRDOEgtQXdQTjR2cDBlc1BhZlp5RTBmeFVMbGtqQ1FkLThYcGhPNUZmM2hpeEI1VVZObnFmWlczSHlYVGVkdHA4cDVRUWJHbVd1TTFCLUg0OUdFbmktLTgzclE1VmlKbmlPdw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVIzaWl4YU16emJBNmxxdHhxUl9XYmtmZllTVmQtWEhOM2hOT2tPdW5JNlNBejFqbXJQNFA3MnBkdUhQbGIxLUdoTnNmNEdYbXVtT3BlcXA2dktjZDdnbTNPUk1aQW9ISWxFRXRWYzk3UkV3dVVxZWNkZ1pQTkpucS1yMGlBOXd6TmEyWWFhNkJaeDRGVnktNjNlcG1sbFFkcEVxaGRDOEgtQXdQTjR2cDBlc1BhZlp5RTBmeFVMbGtqQ1FkLThYcGhPNUZmM2hpeEI1VVZObnFmWlczSHlYVGVkdHA4cDVRUWJHbVd1TTFCLUg0OUdFbmktLTgzclE1VmlKbmlPd9IBhwJBVV95cUxQVVIzaWl4YU16emJBNmxxdHhxUl9XYmtmZllTVmQtWEhOM2hOT2tPdW5JNlNBejFqbXJQNFA3MnBkdUhQbGIxLUdoTnNmNEdYbXVtT3BlcXA2dktjZDdnbTNPUk1aQW9ISWxFRXRWYzk3UkV3dVVxZWNkZ1pQTkpucS1yMGlBOXd6TmEyWWFhNkJaeDRGVnktNjNlcG1sbFFkcEVxaGRDOEgtQXdQTjR2cDBlc1BhZlp5RTBmeFVMbGtqQ1FkLThYcGhPNUZmM2hpeEI1VVZObnFmWlczSHlYVGVkdHA4cDVRUWJHbVd1TTFCLUg0OUdFbmktLTgzclE1VmlKbmlPdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -105,6 +294,27 @@
       "dataSource": "Google News",
       "sourceName": "O GLOBO",
       "headlineJa": "バングラデシュではしかの流行で500人以上の子供が死亡。症状と病気の感染経路を調べる - O GLOBO"
+    },
+    {
+      "articleId": "gnews_0120e0615130d263",
+      "headline": "Bebês de 6 a 11 meses que forem viajar para países da Copa devem receber dose zero da vacina contra o sarampo - Prefeitura de Curitiba",
+      "headlineTranslated": "Babies aged 6 to 11 months traveling to World Cup countries must receive zero doses of the measles vaccine - Curitiba City Hall",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-25T13:21:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM2ZEUUJMOFo1VVJ1MzA2dzk5VUNDY2lCa29lMl9RUVpMZExLaW9lODBzZG1uWW1zYXZ4VUY2dlpuRnRraGVyT0txRGxYWXMwZFpYZHM0dGhWUU9zZGMyUnVFeVpNWFdmbDZ2c0VMVFpjbno3aVFoUGlKRF9ZY3lXZjFJODc4LXlTcTRVYk11bm9leUZoaWgyekQxWEYtTTdEXy12OG1sVTFnM2J3MGJ3aUR1TWVMeV91OEZlaFY5RGhLZHhURnVWdzhwTGk2M25ocHBFemdWZGhYWTZVVVlSVEQ1WTN3Sms0N29rVXlLMk0yU3ZFQ29OXzdEbEtuMmQx?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Paraná",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Curitiba",
+      "headlineJa": "ワールドカップ参加国に旅行する生後6～11か月の乳児は麻疹ワクチンのゼロ回接種が義務付けられる - クリチバ市役所"
     },
     {
       "articleId": "gnews_73422efbece39f95",
@@ -147,24 +357,26 @@
       "headlineJa": "エボラ流行でコンゴでブラジル人ボランティア死亡＝アラゴアス24ホラス"
     },
     {
-      "articleId": "gnews_2d8cad2aaaeacebd",
-      "headline": "Anápolis registra primeira morte por dengue em 2026 - Portal Agora Tocantins",
-      "headlineTranslated": "Anápolis records first death from dengue in 2026 - Portal Agora Tocantins",
+      "articleId": "gnews_806f044d32333f00",
+      "headline": "Saúde Natal inicia vacinação nas escolas com doses contra gripe, Covid, HPV e dengue - NOVO Notícias",
+      "headlineTranslated": "Saúde Natal starts vaccination in schools with doses against flu, Covid, HPV and dengue - NEW News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-25T10:00:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFJRNXJrRlF4bV9WS2tiSTZ5TjJmTEFYRUZEMVZLUlpfU0U3SUllTV9IUUlIaVNrTlFzRW9xMmNzQ3dKMFBFYmx5cmRPVUhXVlQwY0V6T1M1eTE5RXR6WlFGUndXUDYwNFBrcXgwQlNrVlBWNE5YUUJScTZGOUJCYWNB?oc=5",
+      "publishedTimestamp": "2026-05-25T10:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmI5cHZOcWY0RHhyVTBkRTlmSHhOYnFQYmJwcy1xc0pTRVhUaWlPdW1oWUxEcVJEdFJNNTFRcXdpYl9lOGM3MHJ4R0MzNk9wamJHcVlnZk5WVXVmQXZiVXlxQm80TU9WYUhaNmNSdXcwYlJrNThGQlctOW1pR1pmYzVGVHUycXhtT0YxMElnQXVtS1Mza0tMM1NLUjdYT0RXZFdwUkFObVgyS3plNWc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "COVID-19",
+        "Influenza",
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Tocantins"
+        "Rio Grande do Norte"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Agora Tocantins",
-      "headlineJa": "アナポリス、2026年にデング熱による初の死亡者を記録 - Portal Agora Tocantins"
+      "sourceName": "NOVO Notícias",
+      "headlineJa": "サウデ・ナタール、学校でインフルエンザ、新型コロナウイルス、HPV、デング熱に対するワクチン接種を開始 - NEW ニュース"
     },
     {
       "articleId": "gnews_6048703c3cfc7105",
@@ -225,7 +437,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "capitalnews.com.br",
-      "headlineJa": "マトグロッソ・ド・スル州、州内での希少アルボウイルスの管理を拡大 - Capitalnews.com.br"
+      "headlineJa": "マトグロッソ・ド・スル州、州内の希少アルボウイルスの管理を拡大 - Capitalnews.com.br"
+    },
+    {
+      "articleId": "gnews_45ad10a72ac87ac7",
+      "headline": "Saúde identifica paciente com suspeita de sarampo em Aracaju - F5 News",
+      "headlineTranslated": "Health identifies patient with suspected measles in Aracaju - F5 News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-24T12:51:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzkyaWhqQWhLb0ZURVBCMmVRU0pVNF9HMTdPSHByR2ltQm9XS0lSOEtVbkU2d1pjSzRvSzJwcGhLMmJtVU9MbUNuRnNDeURyYjl6QkNWYUhRREs0NnVfNy0xSFVWVmwzVUV4ZVZDeFY1blB1SVhiYnBFaFpFOXc2dkNfOHBncG5yTjE4X21Fb1ROMllBWkZmX2h6bjg5WVF1SEtn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "F5 News",
+      "headlineJa": "アラカジュ州で麻疹の疑いのある患者を保健当局が特定 - F5ニュース"
     },
     {
       "articleId": "gnews_e02998fb4e79e685",
@@ -246,87 +478,6 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "髄膜炎に注目 - CNN ブラジル"
-    },
-    {
-      "articleId": "gnews_2d988979d37385f2",
-      "headline": "Casos de dengue disparam em Goías e no Tocantins - G1",
-      "headlineTranslated": "Dengue cases soar in Goías and Tocantins - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T23:44:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3k5S2Y1S1lhVGhoQmVoRzNSWmlvWlVlQnd0cUVpR3l0RVplb3hscjQ3ak1kU0NGVDdwS1V2WkxJeDNkamVJOWl2QTVZTHFhTFdxc0NBa3dJUVJEVzctam9hUk80dGdlWllqcFlRLXdPMGNRcVlVb2ZHUFJKUGNNUkNpQmVkZ3MtNURaQmVEa1N2OGxWYjJrcjF0NVhudmFONUFHQWpXdzdkUWNRRlJrNDRTWGNVRTIz0gG4AUFVX3lxTFBHeTlLZjVLWWFUaGhCZWhHM1JaaW9aVWVCd3RxRWlHeXRFWmVveGxyNDdqTWRTQ0ZUN3BLVXZaTEl4M2RqZUk5aXZBNVlMcWFMV3FzQ0Frd0lRUkRXNy1qb2FSTzR0Z2VaWWpwWVEtd08wY1FxWVVvZkdQUkpQY01SQ2lCZWRncy01RFpCZURrU3Y4bFZiMmtyMXQ1WG52YU41QUdBald3N2RRY1FGUms0NFNYY1VFMjM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ゴイアス州とトカンチンス州でデング熱感染者が急増 - G1"
-    },
-    {
-      "articleId": "gnews_0efef246d4167f6f",
-      "headline": "Dengue avança no Tocantins e estado já tem uma das maiores incidências do país - G1",
-      "headlineTranslated": "Dengue is advancing in Tocantins and the state already has one of the highest incidences in the country - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T23:42:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlg2Umx0LUV6a2swNGhDQ3ZNZ1NuWTk5d0RGSFdaX1g0UTNkWkdnQXlVNnRRLUtTZlFweHY3TXVlYk5DVW9vSm1NUEZhdS1HcHd5R3BPZ29XcWZvVm9fSEljQUVpTXhOTFNOeU4xX3pqcHk0Z0piSG5qUXFCeExBSVBtQVQyazZGVVI2eWNfcFpvUXZ5eVQzSFVERl90a0FsU01MYWhhY1JLUF9sVkY2Y2tIYlRfeUYwOWJkUnpDQktDcG5sc1hiWlUtOVFMMU9aUWFhT1RvRdIB5gFBVV95cUxPMnQ3T19Bay1OTXo3dUlkSTJ3WGU5RGdvSTFPRHBIaVFvOW53Z0lNeUV0aFJ4MWd2YTJ4X2cyQ0tjdkppRkc0NU5XU3hpODYwQUNtU2loOXd2QzU4X1BUZ0Uzdm9Fb2kwT3JrNjQxenhwRFI2eld0bDVpVVNVeWlpNG13VFBiMXJ6VTBwczVpZ3lDb21BMW0xU1ZmbDhYSTBDNU5JWFJpT0VZR2doMFFhdkJFRzB5eFNvOXg0Yk1OWFE5YzBMZ2hEMlZmNnlsWW01Y0tacDNCbFNSWnpFajlTc0lYTHkzQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "トカンチンス州ではデング熱が進行しており、同州はすでに国内で発生率が最も高い州の一つとなっている - G1"
-    },
-    {
-      "articleId": "gnews_2fe165bdadf4cdb5",
-      "headline": "Mutirão contra dengue é realizado em Aracaju - G1",
-      "headlineTranslated": "Joint effort against dengue is held in Aracaju - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T23:03:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN280WlNfeVdqazFkYzg2NmxoMm5feU42OGxGdlNlcC00bHhDMVJRcmUxU1RTWWQyQldxSFRZay10SXdKYmlBZ3AtaXJKWGdGUTBfbEVKQno3d2l2ZFNDMW5HVVN2YVpsaGctRTZVUFpVX1N2OWZFZHFEUWRscFlDOWJOdWlOTHEzM0dHTkE3OTFPMEJ6THg0X01iQnZ3US01ekdpRDBwZFpIN2YwX19kdjNCSGtqTnpkRlHSAcgBQVVfeXFMUDBsdkZUMkNseDRSVjRNZVhaMVFudEpPWWVlX1gtbGpBMHh3bFIxTUVsVjRfRzlfMEtVY3M2empzcTVONmkweGlkMk5mQ3AyVnBuLWNxcHdnX3RyYXdzS2N3MkJaUnZud3UyRUNidkt0SWNYOWVCdll2VXpjNkFXekFraXBUVmxseTBoMzNsVGxmRW1yTEJtV0RrOWprRlBKTlN0Sk14XzV1aWg2bkpCZ1RYdmRPSElwRDZrUlBNdUxKWkJkNVhFc1U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Sergipe"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱に対する共同取り組みがアラカジュで開催 - G1"
-    },
-    {
-      "articleId": "gnews_7f0f3a63bd0aaad2",
-      "headline": "Mortes suspeitas e confirmadas por sarampo em Bangladesh superam 500 - CNN Brasil",
-      "headlineTranslated": "Suspected and confirmed measles deaths in Bangladesh exceed 500 - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-23T18:22:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmxOZXA4aVA3NjdjaGxhQnFpMjM4ZUQ2SWlteHNFN0RudENmV3B0blpEaWVxUVpxNHlVSTRNUUhRNEdoTjdIMWx0d2pBRVkxWDNZbXFJNkY5dkw4NEFaVmV3a3Zoc3dEdkN5aFBWT3kwS1VHb2RmWkRrQVQxUF80blFCVmUwdm14bW5YRE5sZjdtSE9rOW1obXlsLUhfZEkyLWRTaFZhQkl1RllIU0NzTlNR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "バングラデシュで麻しんによる死亡疑い、確認された人が500人超 - CNNブラジル"
     }
   ]
 }
