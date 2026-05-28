@@ -1,32 +1,156 @@
 {
-  "generated_at": "2026-05-28T11:40:13.842822+00:00",
+  "generated_at": "2026-05-28T18:41:45.440178+00:00",
   "date_range": {
-    "start": "2026-05-26T11:40:13.842822+00:00",
-    "end": "2026-05-28T11:40:13.842822+00:00"
+    "start": "2026-05-26T18:41:45.440178+00:00",
+    "end": "2026-05-28T18:41:45.440178+00:00"
   },
-  "total_articles": 39,
+  "total_articles": 41,
   "state_summary": {
-    "Bahia": 4,
-    "Brasil (estado não identificado)": 13,
-    "Goiás": 2,
-    "São Paulo": 2,
+    "Brasil (estado não identificado)": 16,
+    "Bahia": 5,
+    "Distrito Federal": 1,
+    "São Paulo": 4,
+    "Goiás": 1,
+    "Alagoas": 1,
     "Pernambuco": 1,
-    "Piauí": 13,
+    "Piauí": 10,
     "Espírito Santo": 1,
-    "Pará": 4,
-    "Tocantins": 1,
-    "Alagoas": 1
+    "Pará": 3,
+    "Tocantins": 1
   },
   "disease_summary": {
-    "Dengue": 23,
-    "Yellow Fever": 6,
+    "Yellow Fever": 9,
+    "Measles": 2,
     "Chikungunya": 3,
+    "Dengue": 20,
+    "Doença infecciosa (não especificada)": 4,
+    "Leishmaniasis": 1,
     "South American Hemorrhagic Fever": 1,
     "Influenza": 5,
-    "Doença infecciosa (não especificada)": 4,
     "Avian Influenza": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_e1137ad0dbd1f6a4",
+      "headline": "Febre amarela: vacinação é reforçada no ABC após registro de caso em macaco em Santo André - Terra",
+      "headlineTranslated": "Yellow fever: vaccination is reinforced in ABC after case recorded in a monkey in Santo André - Terra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T17:53:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaGdmVFR3TkJSWXJaSjlXMi1QTndVZUZscURkVmJ6alVEZC1QaDRZZlNLcG54LWptY0wtbGtLaUtqS0hCNHliYkVsRV9namNpd0lybVFGNURxajQtWWcydWxod2ZWUXBqYWM1NEQxR0JFbmZ5bk5YMEN6RTNJZGdNcmp5VzlZR19HVHNmbEJDOGZTTkxZVU1weGctVUZrbFRBMFJnNWowd3FUQzNFckpzRUxXVnZUemNmR3dNdzJ2azZ3LXIyS0hBZG1vM3M1a3NEaW9RSkRHd3FPSmpnS21aVjVFNFp3R2Jub3FtaVFIbm9qRGFDel8wU2tFM1M1TFR3cEl0TlhmQXRuNjNmVktENmV3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "黄熱病：サントアンドレのサルで感染者が記録されたことを受け、ABC州ではワクチン接種が強化されている - Terra"
+    },
+    {
+      "articleId": "gnews_4b1a0eebb1ade83d",
+      "headline": "Camaçari reforça campanha de vacinação contra o sarampo antes da Copa do Mundo - Panorama da Bahia",
+      "headlineTranslated": "Camaçari reinforces measles vaccination campaign before the World Cup - Panorama da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T15:16:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazNJZ2o3REJhcm5OMnpxZThPTmNpZTNmSV84MUMwLVhuTm1Yc3RGUHczZHdVdUExZF9DR1RNRmtJQmhidHhVTXZZdUZKbHN0Nm9NUmI2TER2N0FNMjNVeDFCQlljMDlHUURfa3I2UGNpdFhaX1p1QlR2RlVpMTNYdUpZUGo3ZktwNUZIeHU5YjdqZ3RqT2VDSkIzYnF3VGc4bFlaY0gzQUdYY203aTN3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Panorama da Bahia",
+      "headlineJa": "カマサリ、ワールドカップ前に麻疹ワクチン接種キャンペーンを強化 - Panorama da Bahia"
+    },
+    {
+      "articleId": "gnews_8e5c40885f67300b",
+      "headline": "Salvador registra aumento nos casos de dengue e chikungunya em 2026 - Tribuna do Recôncavo",
+      "headlineTranslated": "Salvador records an increase in dengue and chikungunya cases in 2026 - Tribuna do Recôncavo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T14:23:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDlNMmJGd2xCSjRfc2Q4dDVMd25zWHR2N0pkZTBJcEpMQjhzMGJsVk9fUjlrdmNzelhnaXdzczRJN24wRlM0dmdZaUdoeWlPNW0zRndkdmhhMjU2cGNlZjZnSEpzMGhIcFZVQzRoSmU4S1BYT1ByZjRCcXNtRWQ2ZA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Recôncavo",
+      "headlineJa": "サルバドール、2026年にデング熱とチクングニア熱の感染者数増加を記録 - Tribuna do Recôncavo"
+    },
+    {
+      "articleId": "gnews_41251a3c4f66270d",
+      "headline": "Vacinação perde força no Brasil e hesitação cresce após pandemia, mostra pesquisa - CBN",
+      "headlineTranslated": "Vaccination loses momentum in Brazil and hesitancy grows after pandemic, research shows - CBN",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T13:40:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWF0ajRKRXI4ZnNNQXVjNTJraHllYkhZNjlJMm9yTTFUaVhGOVBVcExPc0dSUTRPSWVSYTJvQUxxamhpaDV1UHNTbFREVUMwX09KYUVSTmFDUjRrZTZ5cHZCc0o1czlXb2Z1ZW1xbHBJQTJDMERzWHpjelJuQ3JfVTh3bmVOZlVxTlk4UG5DSG0xNHdWR0p6SXZBWUVHbDhDc0R1OEhiS1lfT3o0WUdMYVBmRjFXQW92TU9NUjRFUFFfSDlacnVpbFF3eGE1VFhOc2lleDlvaUkxTTFnNlpsZmNpVGN4TnZjLXfSAfgBQVVfeXFMUGV5V0hHc3QxTXRRb05DOENsWGRJNjAzdlVLOUxSYjFzSUxPSTV6cXZDTDNpdkpmOHp4aVowdE04QXN4T3JsbXJwM2VPQmozVHBycXBLbFRHSHJSM210TnN4UFRIajhTbVQ2SFVXalJMMENMclRrLW9OVHRrcm9CNjZfUW1lcVQwY3BYUmFqZURWdERudG93ZkgtT2c0NGpfU3paMkQ1b1h0Mk1YQzRlRnFhUVRfYTZSdmlwNUNMTThzZlVZd3pmNE90TXFfeUpoLUJQYjBrX0xDaU1VUnExdG9TN0FPaWdVMkxkV1hUaGdqMFdXQVkzdkg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN",
+      "headlineJa": "ブラジルでワクチン接種の勢いが失われ、パンデミック後はためらいが増大、調査結果 - CBN"
+    },
+    {
+      "articleId": "gnews_d6726d4f133053b2",
+      "headline": "Turistas que vão à Copa devem ficar atentos à vacina contra o sarampo - Rádio Super FM 99,9",
+      "headlineTranslated": "Tourists going to the World Cup should pay attention to the measles vaccine - Rádio Super FM 99.9",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T12:19:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSURiQXVBUlhQbnV6ZE5UVkZqNmExcnI5WWFlUDZpWC10MzUya2phcHdSdTQ5ZWl3Ym9jbGJKMmQxNk5OSWhpVnBKZFhfWm9Kd3dBMWI2bzlqU095V0xraVA0QVB3b2NCVTNnTzFYWU1WQjBtV3hMYWtGV0dXUy15czNvVlV5ZWtRbW5oc05Kck00aFhfNGtRdHRCS2RuaXQyWUc1MWZjNXo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Super FM 99,9",
+      "headlineJa": "ワールドカップに行く観光客は麻疹ワクチンに注意 - ラジオ スーパー FM 99.9"
+    },
+    {
+      "articleId": "gnews_615a80419f34a055",
+      "headline": "DF deverá distribuir de graça repelentes contra mosquito - - Misto Brasil",
+      "headlineTranslated": "DF should distribute free mosquito repellents - - Misto Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T12:05:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3hzX1pSOTU1Q21mXzJDUnpIcHRKVHdSWVJrcHJ6N1hUXzZib3FyRlJWQWh3QXJIUzVXQ0Yyakp4YzR1dG5IRTN1LVJCY0ktbGRHUEJ2ckh2UzlMWkZial9TQkZKSXQ5ZmR6dTNxTXh3Y0p5SzUzc1pndVFRY3Q5OGV2WFNJVXJDeGl2c0VCNDg2SjUtU1VJ0gGfAUFVX3lxTFA1WmRUVTBUbUhxaHdaZ0pTcFF3U3d6Ny15SFk4RXFTNUVHU09oOWUxOTFtX2dPX0pmMWtqbDJoTFhSSHk3em5vZkRrMUdVSzF6V1lYRGhtbGZvZGxtNmk3MDNwUXBvWlM1U0JCMk9aRFpoaUJIWldRaTI5bzVfQTQ0YVRCMnNuQXNMbTFENlJVT0pEQW1EUnB0NDBnUmJVWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Misto Brasil",
+      "headlineJa": "DFは無料の蚊よけを配布すべき - - Misto Brasil"
+    },
     {
       "articleId": "gnews_327a8944f1b562ad",
       "headline": "Salvador reforça ações contra dengue após aumento de casos de arboviroses em 2026 - Se Ligue Bahia",
@@ -46,6 +170,26 @@
       "dataSource": "Google News",
       "sourceName": "Se Ligue Bahia",
       "headlineJa": "サルバドール、2026年のアルボウイルス感染者数増加を受けてデング熱対策強化 - セ・リーグ・バイーア"
+    },
+    {
+      "articleId": "gnews_b989ec21057c1e47",
+      "headline": "São Paulo intensifica vacinação contra febre amarela após vírus ser identificado no Grande ABC - Diário da Guanabara",
+      "headlineTranslated": "São Paulo intensifies vaccination against yellow fever after virus is identified in Greater ABC - Diário da Guanabara",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T11:27:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm5ONjBSMERQY3ZuSUZVWEhRMTUtX0V1b1JXSmNCRVdiNnZDZXVfN1p0WHo5Z3FCRWlGeGxXbnN0em12b082V19mQWd1OHllRWZYNHZsVU9FYmFUcFVaM2Q5Smw0LUZEZjJjQ2hWcWYzUWk5M0lLMjVyTEdCZGhpa2V4RHF6YzBqTzNjSnBicWFNcVBOUmQzRXNSbU5sRTl1RU1kT0lnN3c4S3lCUWM3QXNqWWpWdGt4VmVoLVZYeGR4V196OGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "サンパウロ、ABC大都市圏でウイルス確認後、黄熱病のワクチン接種を強化 - ディアリオ・ダ・グアナバラ"
     },
     {
       "articleId": "gnews_57efbccbbbf38291",
@@ -68,67 +212,6 @@
       "headlineJa": "SP、猿の症例を受けABCで黄熱病のワクチン接種を強化 - CNNブラジル"
     },
     {
-      "articleId": "gnews_4f0fb0c239052775",
-      "headline": "Governo de SP reforça vacina contra febre amarela na região do ABC - CartaCapital",
-      "headlineTranslated": "Government of SP reinforces yellow fever vaccine in the ABC region - CartaCapital",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T09:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkVMWEZ4aXhkVF9rai1KVVdQRTFEQVNLWEFjd1k2MXdpMlNmcDhYVVAzX3F1RFhZV1BsUnNxcG1zbFFvOWpFS1NsRFhEQUpQTF94UlZPemYwRWh5bVRWTGRuX3N5dzhjdmxrdkd4RmlTbkFld0twbTY1VUd1MGFXWmE5RWFCcFZKM0l3eU5SbUdjWHFzOGstdzFqb2RnZU9hVnVxQXBHT1M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CartaCapital",
-      "headlineJa": "SP政府、ABC地域での黄熱ワクチンを強化 - CartaCapital"
-    },
-    {
-      "articleId": "gnews_e9455a12d26db9cc",
-      "headline": "Governo de SP reforça vacinação contra febre amarela no ABC após confirmação do vírus em Santo André - Grupo Portal de Notícias",
-      "headlineTranslated": "Government of SP reinforces vaccination against yellow fever in ABC after confirmation of the virus in Santo André - Grupo Portal de Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T09:32:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcW16eVJwMGVKeDdFWEw2TGNPMTZaWndDWExJamtQczhFcmJxVm5wMV9iaE82TmlDQUpVTG5hdGlMX2JSTGxxVHRBOTBOeWhteC1LdE1Bb3VkZ2RLNFgtblhHeXJzaU9FS1VJdXZrUG1YUmJZMXBmQ1otOGptckRIRVB3dTJZSVFvVDFvcW84M2QzazhCMjBmdWZNMEhjUnBlR0lJbDFpMEpQVmpkd25xbk1VNDNhRndCdFY3Y25qaG9vbzFRX29FS3hoUC1MUU1DNEpVUw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Grupo Portal de Notícias",
-      "headlineJa": "サントアンドレでのウイルス確認を受け、SP政府、ABCで黄熱病のワクチン接種を強化 - Grupo Portal de Notícias"
-    },
-    {
-      "articleId": "gnews_8e5c40885f67300b",
-      "headline": "Salvador registra aumento nos casos de dengue e chikungunya em 2026 - Tribuna do Recôncavo",
-      "headlineTranslated": "Salvador records an increase in dengue and chikungunya cases in 2026 - Tribuna do Recôncavo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T09:04:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDlNMmJGd2xCSjRfc2Q4dDVMd25zWHR2N0pkZTBJcEpMQjhzMGJsVk9fUjlrdmNzelhnaXdzczRJN24wRlM0dmdZaUdoeWlPNW0zRndkdmhhMjU2cGNlZjZnSEpzMGhIcFZVQzRoSmU4S1BYT1ByZjRCcXNtRWQ2ZA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Recôncavo",
-      "headlineJa": "サルバドール、2026年にデング熱とチクングニア熱の感染者数増加を記録 - Tribuna do Recôncavo"
-    },
-    {
       "articleId": "gnews_3723ff1c9a5087a9",
       "headline": "Casos de dengue avançam em Goiás e superam os números do mesmo período de 2025 - CBN Goiânia",
       "headlineTranslated": "Dengue cases are advancing in Goiás and surpassing the numbers from the same period in 2025 - CBN Goiânia",
@@ -147,6 +230,27 @@
       "dataSource": "Google News",
       "sourceName": "CBN Goiânia",
       "headlineJa": "ゴイアス州でデング熱の感染者数が増加し、2025年の同時期の数を上回っている - CBNゴイアニア"
+    },
+    {
+      "articleId": "gnews_c6082ccdee483af5",
+      "headline": "SAÚDE - Governo de São Paulo Intensifica Vacinação Contra Febre Amarela Após Morte de Primata em Santo André e Registra Nove Casos Entre Humanos. - Repórter Maceió",
+      "headlineTranslated": "HEALTH - Government of São Paulo Intensifies Vaccination Against Yellow Fever After Death of Primate in Santo André and Registers Nine Cases Among Humans. - Reporter Maceió",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T05:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYUZIaDctSUlDM2JfQWtIR1ljQVduaFVRQ2RCNmVYMHVDdE1JWWhkOHh3cTdTVUJFR3ZKLUJjS0ZaZkt3eU9WTlJfU2lic0dtQWF5SlliTFhKczA1WmVjdlhlZVl2MDVqUG1xNFljcG9VQVpRcEI4Z0t0S084Sy1vakNyVnZ6MHhURHdYU3VWdVJIVjJEc3J0dHNPaENOcFFQbVNCRG5hY3ExcW5sSGpfRUlUZk90ME11Vk1vbXBsMHRIM3dqRlU4eHI5dWxOLUZxOGc1bFVWVmRXUGRiYzRfcF96X1J0Q094Y0xockpRWV8yWEhXYTd4UWEwa0VUSU0wT1g4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Maceió",
+      "headlineJa": "健康 - サンパウロ政府は、サントアンドレでの霊長類の死後、黄熱病に対するワクチン接種を強化し、ヒトで9件の症例を記録した。 - マセイオ記者"
     },
     {
       "articleId": "gnews_033f7747c6467208",
@@ -189,6 +293,26 @@
       "headlineJa": "サンパウロ政府、サルの死亡を受けABC大都市圏で黄熱病のワクチン接種を強化 - Pagina1mt"
     },
     {
+      "articleId": "gnews_b958a6516837b69d",
+      "headline": "Governo de SP reforça vacina contra febre amarela na região do ABC - Agência Brasil",
+      "headlineTranslated": "Government of SP reinforces yellow fever vaccine in the ABC region - Agência Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T01:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUlWQlFuanVLekZGN09tOV95UjNjbWZxOWZ1SUpSM3RDZlZWZlczLXJzVndZSXFMNVA4cGt1QWIyaTBzT1NtMVlUWHVrUFAtSzZxRGZvRFV2X0VNZFBXVHEzQUpEZEtMS3hDT2ljbTBFSTM1QzNXaXN5LVREU3JkXzNHd2ZTX2tra1pSeVZzMmpmdTBYMElDa3VMWDJJOWlSdVNVOVdTbG1WbmxmbWlBMkhjckpVb1VPQk9wSnFR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil",
+      "headlineJa": "SP政府、ABC地域での黄熱ワクチンを強化 - Agência Brasil"
+    },
+    {
       "articleId": "gnews_8c59398bf8540565",
       "headline": "SP amplia vacinação contra febre amarela após confirmação do vírus em Santo André - Folha de S.Paulo",
       "headlineTranslated": "SP expands vaccination against yellow fever after confirmation of the virus in Santo André - Folha de S.Paulo",
@@ -207,6 +331,27 @@
       "dataSource": "Google News",
       "sourceName": "Folha de S.Paulo",
       "headlineJa": "サントアンドレでウイルス確認後、SP、黄熱病のワクチン接種を拡大 - フォーリャ・デ・サンパウロ"
+    },
+    {
+      "articleId": "gnews_d3d8289d5bbb5a94",
+      "headline": "TRÊS LAGOAS (MS): BOLETIM DENGUE E LEISHMANIOSE – 27 de maio de 2026 - Grupo Portal de Notícias",
+      "headlineTranslated": "TRÊS LAGOAS (MS): DENGUE AND LEISHMANIOSIS BULLETIN – May 27, 2026 - Grupo Portal de Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-27T22:50:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3B3OERYYkUycVB1VWxVTkc2Ynl5VnFsZG5jZ0NXR3hsLWhWNDFtVUhqaTloY01kNXpvTWV5aFoxckJTdmhkbUU3bnlMSzRIYnJqWFAyYldEeWp0cFZXd0dmSUJrdjNpSFVzOXJrc0xmel9WblZnQV9RWTZZR2l3R0Uxc19PR2xPRU92eFdXQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Leishmaniasis",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Grupo Portal de Notícias",
+      "headlineJa": "トレス・ラゴアス (MS): デング熱とリーシュマニア症の速報 – 2026 年 5 月 27 日 - Grupo Portal de Notícias"
     },
     {
       "articleId": "gnews_0ca07ced1b268dc7",
@@ -249,13 +394,33 @@
       "headlineJa": "テレシナで15,000人以上の子供と青少年がデング熱ワクチンの2回目の接種に遅れている - G1"
     },
     {
-      "articleId": "gnews_0aa2c5096f95651d",
+      "articleId": "gnews_55268979174a812b",
+      "headline": "Governo de SP reforça vacinação contra febre amarela no ABC após confirmação do vírus em Santo André - Agência SP",
+      "headlineTranslated": "Government of SP reinforces vaccination against yellow fever in ABC after confirmation of the virus in Santo André - Agência SP",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-27T20:13:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHE5TWI1Zl9SeVp2X0ZFdHlZZTJBVE1KeGNNWUVLNnNiSE44dnRvc2VBMzRQbEVxT2tTLVFoa1ljbU9YRzVNZXRvTnJvTmg0UWxxZm5rMmVrU2hSbW14dUZieTRGYlMxTVFCSUJQMklYU0xBYzh6T2diUkRuX2VvcnZ6YzhZN1FyODJuYnNmSlk4Z3NOUzN4cWE4UjcxUEM2aElLWm9MNTlzWW9OeHEzbmphU1Q2SUxVMm50WE82VWswTE0ycEVYTXpDSUNZUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência SP",
+      "headlineJa": "サントアンドレでのウイルス確認を受け、SP政府、ABCで黄熱病のワクチン接種を強化 - アジェンシアSP"
+    },
+    {
+      "articleId": "gnews_138aba9dfc9c5bf2",
       "headline": "Redução de casos de dengue e chikungunya em Corumbá - G1",
       "headlineTranslated": "Reduction of dengue and chikungunya cases in Corumbá - G1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-27T19:47:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZllBUGlleG4wRk1ZODZDYlQyVDJsTXFGM0ZFYTI2cGJuM2E2bFhUeDZmblUxT2VaSXp4ajdMOG84N19hVEpIMlNQdkJIcy1zWUZHb3E1cHlVb01qM2tKYVRoeVpWd2xmQktyTjdLN1ROQ2N6dGVVeDdiV3ZITWh5Q1B3ZVZpdHVhWXZMUG9fMy1XaUMydmU1ckhDUGlCQklUbzBIUDJueHowVFEyYl9la28yNmFXUUtDbGZYSzEtTlFzWUt3UlZrUU1fOVhPOFBuQWhFdzBWYTV2UDBm0gHrAUFVX3lxTE9Ca3JLcC11djdmR0ZYaVFodGItQmpWMTljMkNRRUZKZVFYeWVsVmVUYV80eXdXUHRVSGdFU3RtXzZSRlRRZnNmc0kzT2I1a1NaUjNXTldSSzV6dEJFTFdDSlJlYURObTNlZnlwRURaNEJSUVliaUltWjE4QkhVaDZ4Sm1Jb0lydks4Q3FjU2REeVpMT1BaX0FXNDhYeEY3bTBJNmpZX0FQSGFhZlV2bXllY0pGYTNjQUNyVlBETkJKQ005N3Z2enlGUG5EUE1MSXItcURxel9sY3dWZjRhdk9rOFIxOE55ZDVxckU?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmtyS3AtdXY3ZkdGWGlRaHRiLUJqVjE5YzJDUUVGSmVRWHllbFZlVGFfNHl3V1B0VUhnRVN0bV82UkZUUWZzZnNJM09iNWtTWlIzV05XUks1enRCRUxXQ0pSZWFETm0zZWZ5cEVEWjRCUlFZYmlJbVoxOEJIVWg2eEptSW9JcnZLOENxY1NkRHlaTE9QWl9BVzQ4WHhGN20wSTZqWV9BUEhhYWZVdm15ZWNKRmEzY0FDclZQRE5CSkNNOTd2dnp5RlBuRFBNTElyLXFEcXpfbGN3VmY0YXZPazhSMThOeWQ1cXJF0gHrAUFVX3lxTE9Ca3JLcC11djdmR0ZYaVFodGItQmpWMTljMkNRRUZKZVFYeWVsVmVUYV80eXdXUHRVSGdFU3RtXzZSRlRRZnNmc0kzT2I1a1NaUjNXTldSSzV6dEJFTFdDSlJlYURObTNlZnlwRURaNEJSUVliaUltWjE4QkhVaDZ4Sm1Jb0lydks4Q3FjU2REeVpMT1BaX0FXNDhYeEY3bTBJNmpZX0FQSGFhZlV2bXllY0pGYTNjQUNyVlBETkJKQ005N3Z2enlGUG5EUE1MSXItcURxel9sY3dWZjRhdk9rOFIxOE55ZDVxckU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya",
@@ -535,26 +700,6 @@
       "headlineJa": "バイーア州ではデング熱は後退傾向にあるが、専門家は予防が不可欠と警告 - Tribuna da Bahia"
     },
     {
-      "articleId": "gnews_515e1fb5f33264c1",
-      "headline": "Holanda sacrifica 135 mil aves e reforça status do Brasil - SpaceMoney",
-      "headlineTranslated": "Netherlands sacrifices 135 thousand birds and reinforces Brazil's status - SpaceMoney",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T00:45:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenZkNnhMaFl6TWQ3Mnd6cEVNbk10NjRYbzNmdXplUmk0djNlZDFSb2UtYTBLS0RJQ3NUVE92VE1pSnhTSHJ1QWEtUlczd1FueEVHNGc3dElKcTBjWWRVVFVkMzdsSXdtT3lqWGdZYTQwUEMwbExtdHZGMWh0RkxxSmNYNVV2X1htaS1QSkd1VENZdmhPeERGUkxYTUswNkVH?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SpaceMoney",
-      "headlineJa": "オランダ、13万5千羽の鳥を犠牲にし、ブラジルの地位を強化 - SpaceMoney"
-    },
-    {
       "articleId": "gnews_53770466ce09df17",
       "headline": "Sacrifício de 135 mil aves na Holanda mostra vantagem sanitária do Brasil, diz analista - Canal Rural",
       "headlineTranslated": "Sacrifice of 135 thousand birds in the Netherlands shows Brazil's health advantage, says analyst - Canal Rural",
@@ -714,107 +859,6 @@
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com",
       "headlineJa": "テレジナで49歳女性がデング熱で死亡。ピアウイ州で５人目の死亡 - CidadeVerde.com"
-    },
-    {
-      "articleId": "gnews_84ab239ffbd2b283",
-      "headline": "Mulher morre por dengue em Teresina; capital registra 1° óbito pela doença em 2026 - Portal Clube News",
-      "headlineTranslated": "Woman dies from dengue in Teresina; capital records 1st death from the disease in 2026 - Portal Clube News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T17:38:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGY1d0hReUYxMGJBUlQ2Y1M5RFVCT3J5VkhFR19wMkFPX19vUkhmSTZzV0VEM0lDelJNS2N4d1M4amREcTNmV1dOUndxMWU1Q2tqblRnSFVneGNEbXk1TFJmRUFJN29yaTNmTzh3azl5X1QtMEN2cVo5cFNfdHNYU0Jhb0RCZ0xCVkZlWlRWeXFUemNHUUx1Z0c4S3h4RVhPSmxXUmN1Y1lOUDZrcVJ4TDZfSWJkTTJVTFNBWQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Clube News",
-      "headlineJa": "テレシナで女性がデング熱で死亡。首都、2026年にこの病気による初の死亡者を記録 - Portal Clubeニュース"
-    },
-    {
-      "articleId": "gnews_5591db7218e64b3f",
-      "headline": "Mulher de 49 anos morre vítima de dengue em Teresina - G1",
-      "headlineTranslated": "49-year-old woman dies from dengue fever in Teresina - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T15:48:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3FLUWhBQzZfc1hOMEVlc05tMzV6RUhDQ3hKQU9adDhORFZsRGVhd1k4NjlCVmpPQnFvbC1MQnJaWHpTb0JZWVV6TU16bWlWNzRsdnF4b05yZVRmTmRXaldhbTRTV1AzNmxyVy1FekZrMkVmUXJBbkhJYWVNTlB0akVjRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "テレシナで49歳女性がデング熱で死亡 - G1"
-    },
-    {
-      "articleId": "gnews_89fc5c0ac962a68d",
-      "headline": "Menino morre com dengue em Goiás - G1",
-      "headlineTranslated": "Boy dies from dengue in Goiás - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T14:27:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmY4Q09PRUxEdmpDQmNXOG9HRVJuZm53VTZ3UE1fbTB5Wm5sTi1KRFczTnByMHlQTWRDWUMwRk00ZmJ5azBaVHZxOUxaeVRPRG9tSWMzemhDOU5FOWxYTmJpYmQ2SXhwaUZ3S1F2TTRCVHlMYmEwQ25XdU5nb1huQWV3SDVLaW9yZU5TclZEaWxWa1pMdXFob3ZPS3ptQUHSAZ8BQVVfeXFMTlZmOENPT0VMRHZqQ0JjVzhvR0VSbmZud1U2d1BNX20weVpubE4tSkRXM05wcjB5UE1kQ1lDMEZNNGZieWswWlR2cTlMWnlUT0RvbUljM3poQzlORTlsWE5iaWJkNkl4cGlGd0tRdk00QlR5TGJhMENuV3VOZ29YbkFld0g1S2lvcmVOU3JWRGlsVmtaTHVxaG92T0t6bUFB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ゴイアス州で少年がデング熱で死亡 - G1"
-    },
-    {
-      "articleId": "gnews_1e04256dc46af162",
-      "headline": "Dengue avança no Piauí e cuidados dentro de casa entram em alerta - Assembleia Legislativa do Piauí",
-      "headlineTranslated": "Dengue is advancing in Piauí and care at home is on alert - Legislative Assembly of Piauí",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T12:14:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzh0WTJUSlRrLThIa1lZbU1UTFhxcjNoRGI5dmdWTDRNV1Z0d2tXYUFNdnFfWjVTLU45dnhfRHdBUTNLNFRLQTFnRG0zTDNuZm94OG1VYVZudkN5YU9ON2lzbjZlNktxNVFheGNuNzJxUTd2aFJ5bGhjd2tHS3k3YnVnbTRHQ2EzUURza3ZoaEZQM0FUMmhMNmN1Q1JqV0tFTUgyNV9PZC1LekdfaGN1LUE4dDE2LVZIOFpjLVNnZ1lyTm91LWRj?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Assembleia Legislativa do Piauí",
-      "headlineJa": "ピアウイ州でデング熱が進行しており、自宅でのケアに警戒が必要 - ピアウイ州議会"
-    },
-    {
-      "articleId": "gnews_00ce6e0d5458a72d",
-      "headline": "Mulher em surto é atendida pela PM e levada para unidade de saúde - Alagoas 24 Horas",
-      "headlineTranslated": "Woman in outbreak is treated by PM and taken to health unit - Alagoas 24 Horas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-26T12:11:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNIZlIwRmlLcVR6Q2dENGFkaTZkbEM2MEhrVDN1UjhfeURBZzFLMldaWVRMRDFtb09KdGtITGhtemcyQmZqeG9veGRJeFdEV2FXYTNOcHp6QXpkNlZiVWdZMW1McE85V1RsZkVjaXNWd29wcFJqSUtfakEzZzh1OXVnbG1XdUxaaVRPS1N3UHdtTWk4cW1pck1sbTN0dkJLOHdSTERJQzJyU3NRajhGN3l30gGyAUFVX3lxTE5kY0hmUjBGaUtxVHpDZ0Q0YWRpNmRsQzYwSGtUM3VSOF95REFnMUsyV1pZVExEMW1vT0p0a0hMaG16ZzJCZmp4b294ZEl4V0RXYVdhM05wenpBemQ2VmJVZ1kxbUxwTzlXVGxmRWNpc1Z3b3BwUmpJS19qQTNnOHU5dWdsbVd1TFppVE9LU3dQd21NaThxbWlyTWxtM3R2Qks4d1JMRElDMnJTc1FqOEY3eXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "集団発生中の女性、首相の治療を受け保健室に搬送 - アラゴアス24ホラス"
     }
   ]
 }
