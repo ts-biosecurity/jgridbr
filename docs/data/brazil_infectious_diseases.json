@@ -1,36 +1,73 @@
 {
-  "generated_at": "2026-05-29T04:00:44.331081+00:00",
+  "generated_at": "2026-05-29T11:30:55.664350+00:00",
   "date_range": {
-    "start": "2026-05-27T04:00:44.331081+00:00",
-    "end": "2026-05-29T04:00:44.331081+00:00"
+    "start": "2026-05-27T11:30:55.664350+00:00",
+    "end": "2026-05-29T11:30:55.664350+00:00"
   },
-  "total_articles": 36,
+  "total_articles": 33,
   "state_summary": {
-    "Brasil (estado não identificado)": 13,
-    "Pará": 5,
-    "Piauí": 7,
-    "Bahia": 5,
+    "Brasil (estado não identificado)": 15,
+    "Pará": 4,
+    "Piauí": 6,
+    "Bahia": 4,
     "Distrito Federal": 1,
     "São Paulo": 4,
-    "Goiás": 1,
     "Alagoas": 1,
-    "Pernambuco": 1,
-    "Espírito Santo": 1,
-    "Tocantins": 1
+    "Pernambuco": 1
   },
   "disease_summary": {
+    "Dengue": 13,
+    "Oropouche": 1,
     "Meningitis": 3,
     "Doença infecciosa (não especificada)": 5,
     "Yellow Fever": 9,
-    "Dengue": 14,
-    "Chikungunya": 2,
+    "Chikungunya": 3,
     "Measles": 2,
     "Leishmaniasis": 1,
-    "South American Hemorrhagic Fever": 1,
-    "Influenza": 2,
-    "Avian Influenza": 1
+    "South American Hemorrhagic Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_2c2c052c96b1a0f3",
+      "headline": "Esqueça os caça‑fantasmas. Em Semarang, na Indonésia, os grandes heróis são os caça‑mosquitos. Eles entram nas casas das pessoas e checam cada canto em busca de ovos de mosquito. Com ferramentas simples, eles combatem a dengue – uma doen - instagram.com",
+      "headlineTranslated": "Forget Ghostbusters. In Semarang, Indonesia, the big heroes are the mosquito catchers. They enter people's homes and check every corner for mosquito eggs. With simple tools, they fight dengue – a disease - instagram.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T23:30:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Wd2RvamZJM0V1RFVqakxmLUFQcUZiV01ScHc5WVFOVXAxamxOcmtwTW03MkcwYUdadUljMHA2bzNvMml4RVlrSXloMm90Z0d1REZZdVVn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "instagram.com",
+      "headlineJa": "ゴーストバスターズのことは忘れてください。インドネシアのスマランでは、大きなヒーローは蚊取りです。彼らは人々の家に入り込み、蚊の卵がないか隅々までチェックします。シンプルなツールを使って、彼らはデング熱と闘う - instagram.com"
+    },
+    {
+      "articleId": "gnews_8eb5d66d22a3cd9c",
+      "headline": "Dor de cabeça intensa com náusea pode não ser dengue: o alerta da febre do Oropouche no Brasil - Tua Saúde",
+      "headlineTranslated": "Severe headache with nausea may not be dengue: the Oropouche fever warning in Brazil - Tua Saúde",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-28T21:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFhtd0NEVWtybFRpWUJ0MHhKSHdzWW5DRTZtam9KdklGQ0NoOFJrTXdPSnI2SC1hY0ZUSElMX2RIRWU5WGd0Ylp5c0Z2aUVMQ3E4TW13VTd3dFFWeDAtYVkyTEtGYXFpM0txRlZYVGpGR0RiaklFV2RiMkM4dW16SEdHVjh4NE9JaEI2SFp6dDFsVEVPUHJyT0dzX1dob3FlamRwUWNhSXhRVHB6MFNib0hTX3F3Qkt2eGRMbWhNdU9zakFvYzFPZTZGaHR0anZk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Oropouche",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tua Saúde",
+      "headlineJa": "吐き気を伴う激しい頭痛はデング熱ではない可能性がある：ブラジルでオロポーチ熱への警告 - Tua Saúde"
+    },
     {
       "articleId": "gnews_8bd8ff0f3778ad5f",
       "headline": "Secretaria Municipal de Saúde orienta população de Diamantino sobre meningite - MINUTO MT",
@@ -145,8 +182,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com",
@@ -162,8 +199,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDlNMmJGd2xCSjRfc2Q4dDVMd25zWHR2N0pkZTBJcEpMQjhzMGJsVk9fUjlrdmNzelhnaXdzczRJN24wRlM0dmdZaUdoeWlPNW0zRndkdmhhMjU2cGNlZjZnSEpzMGhIcFZVQzRoSmU4S1BYT1ByZjRCcXNtRWQ2ZA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -211,7 +248,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CBN",
-      "headlineJa": "ブラジルでワクチン接種の勢いが失われ、パンデミック後はためらいが増大、調査結果 - CBN"
+      "headlineJa": "ブラジルでワクチン接種の勢いが失われ、パンデミック後はためらいが強まることが調査で判明 - CBN"
     },
     {
       "articleId": "gnews_d6726d4f133053b2",
@@ -312,26 +349,6 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "SP、猿の症例を受けABCで黄熱病のワクチン接種を強化 - CNNブラジル"
-    },
-    {
-      "articleId": "gnews_3723ff1c9a5087a9",
-      "headline": "Casos de dengue avançam em Goiás e superam os números do mesmo período de 2025 - CBN Goiânia",
-      "headlineTranslated": "Dengue cases are advancing in Goiás and surpassing the numbers from the same period in 2025 - CBN Goiânia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T05:11:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1BOaG9NWjhtQ19ZRVlMSTBleElwa3RpbzNfaGY2b2c3Y0Z1Q1hNcDhscm43ckdaa3cwVklualg5ZmxvUENZNUNfbjk0aEZmdzl6MlAwLW9fOHRJTjVLMTM0TGZsWG5wdWNUTzMwdS1KWEdwOHMwa01UbkZkX0dUcEhQbUZWenpTeG1jaWFiYmZKUUQ0ZkFCaHBCWEQ3UFpNcktvSjRzN0phMjZZTktiMEJDa1g5ZWlDWmFnRDhIbklKdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CBN Goiânia",
-      "headlineJa": "ゴイアス州でデング熱の感染者数が増加し、2025年の同時期の数を上回っている - CBNゴイアニア"
     },
     {
       "articleId": "gnews_c6082ccdee483af5",
@@ -444,8 +461,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3B3OERYYkUycVB1VWxVTkc2Ynl5VnFsZG5jZ0NXR3hsLWhWNDFtVUhqaTloY01kNXpvTWV5aFoxckJTdmhkbUU3bnlMSzRIYnJqWFAyYldEeWp0cFZXd0dmSUJrdjNpSFVzOXJrc0xmel9WblZnQV9RWTZZR2l3R0Uxc19PR2xPRU92eFdXQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Leishmaniasis"
+        "Leishmaniasis",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -516,25 +533,45 @@
       "headlineJa": "サントアンドレでのウイルス確認を受け、SP政府、ABCで黄熱病のワクチン接種を強化 - アジェンシアSP"
     },
     {
-      "articleId": "gnews_70cd5980ab66177a",
-      "headline": "\"Até quando?\": Moradores com dengue e casas destruídas por cupins cobram dono de terreno em Piúma; prefeitura aciona PM para guinchar carros na segunda - Jornal Espírito Santo Notícias",
-      "headlineTranslated": "\"How long?\": Residents with dengue fever and houses destroyed by termites demand land owner in Piúma; city ​​hall calls PM to tow cars on Monday - Jornal Espírito Santo Notícias",
+      "articleId": "gnews_138aba9dfc9c5bf2",
+      "headline": "Redução de casos de dengue e chikungunya em Corumbá - G1",
+      "headlineTranslated": "Reduction of dengue and chikungunya cases in Corumbá - G1",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T19:32:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWU5OSHIwU0lqcjJKajNOSnJMeGd1b0ZiNE12cjFJdkF2T1BlLVBIRHhqOTYzNEgtWFhYX1ZuVWpqX3BOc1RBbk5ISUZFc1dOa01Cc1pXSTRIc1BraHpSVFo3Y2s1RHEzVVVlT3NMMURiRy1SMjdnbGJSdHhqLWFRdHNGeFpqcnROYTVmbzliU1dYOU40UTBUbVd1RVdic0w2cWpJN0lVTHBnZE5RLWJ6aEV4cVItdjBGaFhYX2NWMm9feE9GallvdWI4RUtJUVdJTHFJaWdvZHdWcHhmMHQwMnBqb2dQb0lJMjBMNUlWLTJzOFpncmhqTjUxbEx3cmk5X1NtS0dVTDlIeEhjdDRpd3NsSlQwWlE?oc=5",
+      "publishedTimestamp": "2026-05-27T19:47:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmtyS3AtdXY3ZkdGWGlRaHRiLUJqVjE5YzJDUUVGSmVRWHllbFZlVGFfNHl3V1B0VUhnRVN0bV82UkZUUWZzZnNJM09iNWtTWlIzV05XUks1enRCRUxXQ0pSZWFETm0zZWZ5cEVEWjRCUlFZYmlJbVoxOEJIVWg2eEptSW9JcnZLOENxY1NkRHlaTE9QWl9BVzQ4WHhGN20wSTZqWV9BUEhhYWZVdm15ZWNKRmEzY0FDclZQRE5CSkNNOTd2dnp5RlBuRFBNTElyLXFEcXpfbGN3VmY0YXZPazhSMThOeWQ1cXJF0gHrAUFVX3lxTE9Ca3JLcC11djdmR0ZYaVFodGItQmpWMTljMkNRRUZKZVFYeWVsVmVUYV80eXdXUHRVSGdFU3RtXzZSRlRRZnNmc0kzT2I1a1NaUjNXTldSSzV6dEJFTFdDSlJlYURObTNlZnlwRURaNEJSUVliaUltWjE4QkhVaDZ4Sm1Jb0lydks4Q3FjU2REeVpMT1BaX0FXNDhYeEY3bTBJNmpZX0FQSGFhZlV2bXllY0pGYTNjQUNyVlBETkJKQ005N3Z2enlGUG5EUE1MSXItcURxel9sY3dWZjRhdk9rOFIxOE55ZDVxckU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "コルンバにおけるデング熱とチクングニア熱の感染者数の減少 - G1"
+    },
+    {
+      "articleId": "gnews_1838ce175ddd5fb5",
+      "headline": "Mais de 40 mil jovens ainda não completaram vacinação contra a dengue em Teresina - Portal O Dia",
+      "headlineTranslated": "More than 40 thousand young people have not yet completed vaccination against dengue in Teresina - Portal O Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-27T19:03:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkRGQUdzNEVVbGN0QTNXaW1nbERSTk1HTnN5STRvUU9wbXhRNVFqZnZGQ3NELTFwUkFUdEwwT0RsWDJpd2RfUjRsMnlJbzJaWEp3T0JGaUFrSHBJSmVKNHA5Rl9yS3l1dF81NzJFOUE0ZUg0V0otZ1B5SkpmLTVodU1MVms0RHp5Rm50MWkzQkJSd2QwMy1PYTBMaTVRWHdYYmNlS01lV3RkYldFR1VPZEJIbFl4azRreTdLeUtWTDdnb3I5SW1zMEg4ZWE4Q2s2TmFHVkc3YU1QbU1EeGc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Espírito Santo",
-        "Pará"
+        "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Espírito Santo Notícias",
-      "headlineJa": "「いつまで？」：デング熱に罹患し、シロアリに破壊された家屋の住民がピウマの土地所有者を要求。市役所は月曜日に首相に車をレッカーするよう呼び掛ける - Jornal Espírito Santo Notícias"
+      "sourceName": "Portal O Dia",
+      "headlineJa": "テレシナでは4万人以上の若者がデング熱ワクチン接種をまだ完了していない - Portal O Dia"
     },
     {
       "articleId": "gnews_01a65d6bd7b10cce",
@@ -557,26 +594,6 @@
       "headlineJa": "サビアウイルスはブラジルで142年間流行しており、変化しつつあると研究が発表 - エスタド・デ・ミナス"
     },
     {
-      "articleId": "gnews_591f2e536f29b950",
-      "headline": "Adapec reforça vigilância contra influenza aviária em aves migratórias no Cantão - Conexão Tocantins",
-      "headlineTranslated": "Adapec reinforces surveillance against avian influenza in migratory birds in Cantão - Conexão Tocantins",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T17:33:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3p6d0F6TEtRd2ZucEZDQ2lxMlJ2Z0VxQklqNGJBMUUxN2otR3E2VUJkZHRuV1ZpQlZkMlNIMTF4ODdNQ25nSlFNamZoeFFLbzJQVVM0X3hGSHFRWDVEUmFDVC1SYTNDY091VXVrZ09rLWJ6eUZ3cHdLUm5fN3M3ODJGMnZGcXdzemRVZGdMN1BsME1lb2JWcVQ5QllOMHFWRG5VM1FoMlhVbDkyNEJveEVQUG45Tm8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Tocantins"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Conexão Tocantins",
-      "headlineJa": "アダペック、カンタンの渡り鳥における鳥インフルエンザの監視を強化 - Conexão Tocantins"
-    },
-    {
       "articleId": "gnews_93939844e33ef43c",
       "headline": "Morte de professora por suspeita de dengue está em investigação no Piauí - CidadeVerde.com",
       "headlineTranslated": "Death of teacher due to suspected dengue is under investigation in Piauí - CidadeVerde.com",
@@ -597,26 +614,6 @@
       "headlineJa": "デング熱の疑いによる教師の死亡、ピアウイで捜査中 - CidadeVerde.com"
     },
     {
-      "articleId": "gnews_786f4bc2c39d5bb3",
-      "headline": "Mais de 40 mil jovens ainda não completaram vacinação contra a dengue em Teresina - Portal O Dia",
-      "headlineTranslated": "More than 40 thousand young people have not yet completed vaccination against dengue in Teresina - Portal O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T16:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGpScG1mZG8wTEd3OG9GLXVweTFBam1jM3dMVXJIWHZmXzVCZ1pfUkt2VHdXeVhieFUwYnNYVU0tR2JUZGU3V0dLSmI1NjBkWmFFZzB1ZlptbDE4Y25haVlObjdzU0F2Rk1Na0M3Qmh6RzQ4Y3RiblhrZk9Bc1gycGVMTkltSUtta3lPZThUVGlMMGtoWE80TWZnSmlUc3BIR2RERXQwZEhndkNfTXpVOHoydkIwTlhTdUpOanhSTXNzUVR4T0JkeTNjRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal O Dia",
-      "headlineJa": "テレシナでは4万人以上の若者がデング熱ワクチン接種をまだ完了していない - Portal O Dia"
-    },
-    {
       "articleId": "gnews_506bd59bb0a96414",
       "headline": "Público de 10 a 14 anos é convocado para se vacinar contra a dengue em Teresina - A10+",
       "headlineTranslated": "People aged 10 to 14 are invited to get vaccinated against dengue in Teresina - A10+",
@@ -630,12 +627,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "A10+",
-      "headlineJa": "テレシナ - A10+ では、10 歳から 14 歳までの人々がデング熱のワクチン接種を受けるよう勧められています"
+      "headlineJa": "テレシナでは 10 歳から 14 歳までの人々がデング熱のワクチン接種を受けるよう勧められています - A10+"
     },
     {
       "articleId": "gnews_bcadd5c182ba86ac",
@@ -655,7 +652,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
-      "headlineJa": "ピアウイ州のデング熱：州内の重篤な症例が公衆衛生上の注目を集めている - G1"
+      "headlineJa": "ピアウイ州のデング熱：州内の重篤な症例が公衆衛生上の注目を集める - G1"
     },
     {
       "articleId": "gnews_66427cd3ee114098",
@@ -687,8 +684,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGx2R1pNMEhMc2JFUXpOUnBweFgwZW9qazJyUzhBakthR1NxLW9YZmlCVHl4M2tWVTNmdFF5V0VPUWIwdVBFR3ZnbFRTR1loQTNDYW9BbnlUQmdkeko4V3NnWDB6R2tZRDVvb2ZoVlUxemc3RHpJVWlBaGU1SlZ1N1VQOVNfaGltX3AwS0ZlZ2lHWHpZazVEOFI1aExuT1dKZHZOYWhqeWJsQ3FoOWo1OHZnUlNRM1dZRThBQnJFSE0zSUVpWjZ6U3JXWkg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -697,67 +694,6 @@
       "dataSource": "Google News",
       "sourceName": "Bahia Já",
       "headlineJa": "サルバドールでデング熱とチクングニア熱の感染者が増加、SMSで警告 - Bahia Já"
-    },
-    {
-      "articleId": "gnews_2f7822549a750c61",
-      "headline": "Holanda sacrifica 135 mil aves e reacende alerta global da gripe aviária; Brasil ganha força no mercado internacional - CompreRural",
-      "headlineTranslated": "Netherlands euthanizes 135,000 birds and revives global bird flu alert; Brazil gains strength in the international market - CompreRural",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T11:07:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM1dSMk5SOHp3OWNPWThEZ3FEWWNFQlV1MUJZM3lOWnJPTFV1SzNTdkpTblh2Zkt2a1ZpUjUzT3cwZUlIMHRaNW5ULWpjS2dGY3ItZjVRWTRyVHZSWm9CSzROQmt2enp5WnhfUzB6NHhvYVFiWElNb0JlOHBxWVVTWTd2ZzBPb21SZGNmZlhGZUdzWTRDTm1vSTFLU2FlV25ESE5jT3pTZEJsNnNGR1Yyb3NsaGxDY3hQanF4QTNLd0szb3c5cXliVTBkWTI4YmJISEpDLWVRRUh0SXhvUXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CompreRural",
-      "headlineJa": "オランダ、135,000羽の鳥を安楽死させ、世界的な鳥インフルエンザ警報を復活させる。ブラジルが国際市場で力を得る - CompreRural"
-    },
-    {
-      "articleId": "gnews_ddcf06ebe61bbe7a",
-      "headline": "Mulher de 49 anos morre por dengue em Teresina; 5º óbito confirmado no Piauí - Portal O Dia",
-      "headlineTranslated": "49-year-old woman dies from dengue in Teresina; 5th death confirmed in Piauí - Portal O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T10:36:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDZ0SnJaY0xwRGw1SlBkdGt3R0VDb2lObnl0Uk95ZF9LZVlqTjdiSDYzbjBCTWJ4REJNRlgyWlhLMzRaNnFxVXE5Wm4wRUtWNThsaUk0NzZhaFJ1enQ4bVFSZ0Vhd05Sb3ZVd1hiV1hDQmVCTGl6cDlHMElZeTl2dlF0enlOakh5TUtLVUFZeHJTN3lMcWdLTzVMU2RrbDdCTXozZUxfajJNUERnQ1dWOVVpVVJQenI4MlRFSmhuVUZyRENYQkRDSEk0Zk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal O Dia",
-      "headlineJa": "テレシナで49歳女性がデング熱で死亡。ピアウイ州で5人目の死亡確認 - Portal O Dia"
-    },
-    {
-      "articleId": "gnews_ece3e5eed2bc8349",
-      "headline": "Dengue recua na Bahia, mas especialistas alertam: prevenção é fundamental - Tribuna da Bahia",
-      "headlineTranslated": "Dengue is receding in Bahia, but experts warn: prevention is essential - Tribuna da Bahia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T07:11:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDhHNWFEMHFtM2pocFdRZEU0dU5NMnotN0xVV2NWY0VBMTBheTJwQVpXNHI3aUtjREtXeGs4dmUxSXFDVHdtZmRMc3VUNW9CbnpVcUlWWHlLTVNqSlE3djBxRmNQQWlIOVdnaml2NHVhUnR6cnZ2M2tjLXFUYWN4c1BTWWpmYVVQaHFGVXVVaEdWeFg5bmlQamROQXRKYmRQemdwanY0aXJFS2ZxazI2cl93?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna da Bahia",
-      "headlineJa": "バイーア州ではデング熱は後退傾向にあるが、専門家は予防が不可欠と警告 - Tribuna da Bahia"
     }
   ]
 }
