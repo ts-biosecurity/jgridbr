@@ -1,35 +1,302 @@
 {
-  "generated_at": "2026-05-29T18:40:10.747560+00:00",
+  "generated_at": "2026-05-30T03:46:48.885388+00:00",
   "date_range": {
-    "start": "2026-05-27T18:40:10.747560+00:00",
-    "end": "2026-05-29T18:40:10.747560+00:00"
+    "start": "2026-05-28T03:46:48.885388+00:00",
+    "end": "2026-05-30T03:46:48.885388+00:00"
   },
-  "total_articles": 41,
+  "total_articles": 43,
   "state_summary": {
-    "Brasil (estado não identificado)": 18,
-    "Bahia": 4,
-    "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1,
-    "Ceará": 5,
-    "Pará": 5,
-    "Piauí": 5,
+    "Pará": 6,
+    "Bahia": 7,
+    "Espírito Santo": 1,
+    "Brasil (estado não identificado)": 17,
+    "Ceará": 8,
+    "Mato Grosso": 2,
+    "Mato Grosso do Sul": 2,
+    "Piauí": 3,
+    "Sergipe": 1,
     "Distrito Federal": 1,
-    "São Paulo": 3,
-    "Goiás": 1,
-    "Pernambuco": 1
+    "São Paulo": 1,
+    "Goiás": 1
   },
   "disease_summary": {
-    "Dengue": 13,
-    "Chikungunya": 3,
-    "Measles": 10,
+    "Dengue": 9,
+    "Chikungunya": 7,
+    "Zika": 1,
+    "Measles": 16,
+    "Doença infecciosa (não especificada)": 7,
+    "Influenza": 1,
     "Oropouche": 1,
     "Meningitis": 3,
-    "Doença infecciosa (não especificada)": 4,
-    "Yellow Fever": 9,
-    "Leishmaniasis": 1,
-    "South American Hemorrhagic Fever": 1
+    "Yellow Fever": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_c6f32fd0f52037f5",
+      "headline": "Boletim das Arboviroses: Vitória da Conquista segue sem casos confirmados para dengue, zika e chikungunya - :: Bahia Jornal ::",
+      "headlineTranslated": "Arbovirus Bulletin: Vitória da Conquista continues to have no confirmed cases of dengue, zika and chikungunya - :: Bahia Jornal ::",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-30T00:35:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTJFUE9ZSmlSaUVsaDJUbGI2R1h0RVpUdFBfUFFlNjgwT3ZLelc3Vm9pb1hnY0FkbjNfRFFzbGZYMWdYNGNWYURiTHJrcHRWeVFKZlRKNlRGcnotNE5NY2RqUk45TkdsZlN5YlJFNDVWZklpcjJkdEFIVW1LbnZqdFhrUUdvZFlRaVNhN3hUMmZuRkprQ3lTSmEtQXcwWmkxWDJKblI2ekZOUWhJSkZDME01NnBPSllkdEZMRjhfeHVmVjBxcjNjUmNheVdSY3puVmZfcmozVGhwN24ycnhoS001SQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya",
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Bahia",
+        "Espírito Santo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": ":: Bahia Jornal ::",
+      "headlineJa": "アルボウイルス速報: ビトリア・ダ・コンキスタではデング熱、ジカ熱、チクングニア熱の感染者は引き続き確認されていない - :: Bahia Jornal ::"
+    },
+    {
+      "articleId": "gnews_dd428fe5b57b4cca",
+      "headline": "Ministério da Saúde leva campanha de vacinação contra o sarampo ao Maracanã em véspera da Copa - CONEXÃO MT",
+      "headlineTranslated": "Ministry of Health takes measles vaccination campaign to Maracanã on the eve of the World Cup - CONEXÃO MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-30T00:04:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWJ5Wk1ITWN3blVyYlV5bXNqOUxpUFFzeWdpNmJTTlhZQ1hJdTBxQUNPM25aenJJM1Jua1Mwbjd0cmxab2hIR0NEVFV5ODV1MFdJd1h1bzFsRXJvN3FNWVdWTFRHUHNZZ21OcGtEN0pDYTVpOWhCcFNjb3JNc0lHR3Y0NVcwYkoyX0s5eFRMX1NOUnR3MmlicjVpTWxRaHhkZWowem16VHBGMVFzRU5IaVpSdUVQWkVfUzlYVGdMc2c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CONEXÃO MT",
+      "headlineJa": "保健省、ワールドカップ前夜にマラカナンで麻疹ワクチン接種キャンペーンを実施 - CONEXÃO MT"
+    },
+    {
+      "articleId": "gnews_ac722356500bd72d",
+      "headline": "Rodoviário entra em surto e sobe no teto de ônibus em Salvador - Jornal Correio",
+      "headlineTranslated": "Bus operator goes into an outbreak and climbs onto the roof of buses in Salvador - Jornal Correio",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T22:06:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1NHLW8zZ2p1WnZzZFYxZlAxOXVVazdneVhLYjFCbXRtQldHNmkxMzBKYzRkQWJYa3pCYXlDekFQbDE0TEhUMEZsR1RXeGdDblFtSjZ2WUZyRnE1dWVubGFaZk9vS3RsNDRRcENWWTZwN091YVhvd01WNGRiQTJBcVNieE1sTHVhSWNKN1RpNUtQRHZRVzFueTB1TU41WFFWS2NTVUNPOEdoZmRJdGlN?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Correio",
+      "headlineJa": "サルバドールでバス運行会社が感染爆発、バスの屋根に登る - ジョルナル・コレイオ"
+    },
+    {
+      "articleId": "gnews_ae5ae794c3826d6f",
+      "headline": "Ministério da Saúde leva campanha de vacinação contra o sarampo ao Maracanã em véspera da Copa - www.gov.br",
+      "headlineTranslated": "Ministry of Health takes measles vaccination campaign to Maracanã on the eve of the World Cup - www.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T22:03:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUVA5d2c1elpheVF5cHJibUJ3VF9oN20tRlR0LWlrbHlMTW9xbG12RG03MjVxRmJWMFAxMFh6V3RQcVhjMC1VWW1mdGczTUMxTGRiVEFxY0xQbDhHUnVzQW5LOXJCbF9fVHctcUM1bmFwb21zeEEzbnNXamVST0pteEZ4bXBtUG5LZEduaU1Ic3BkYjA5ZkpSMU5WcnB6S0IyVDVCblZQUC1uOGg5eTNxVnZYVWNKWk43WmdpcDNhR2hYbmRsNzFnUG8wcEdtNTdmcXNHYmNBWmxWUlVITm1RRjhjSHdoV3RW?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "www.gov.br",
+      "headlineJa": "保健省、ワールドカップ前夜にマラカナンで麻疹ワクチン接種キャンペーンを実施 - www.gov.br"
+    },
+    {
+      "articleId": "gnews_fa2e27c8cffc9cc0",
+      "headline": "MS registra mais de 12,8 mil casos prováveis de chikungunya e chega a 21 mortes em 2026 - JD1 Notícias",
+      "headlineTranslated": "MS records more than 12,800 probable cases of chikungunya and reaches 21 deaths in 2026 - JD1 News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T21:29:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSGxaQmRjT2FqaU5IVHVKQ01GVjdja2s4ZUc4LVZaeHZpcGc0X3V6aEJ5anYyQ2dUMjFveUxjVlR0eVBzSkRPUGhHNTZOM1BSTWlKRUc1YUFVQ2RtYm50c3paYklILVJybWhpT0tjY0FEeU92bUd2QmtzLTNiMUxOSVRsX0ZidVBCdnhRYy1SZzlFRHNDZjVuclJiU1lyd3VqRGNMNllRZUFhdkFrcktB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JD1 Notícias",
+      "headlineJa": "MSはチクングニア熱の可能性のある症例を12,800人以上記録し、2026年には21人が死亡 - JD1ニュース"
+    },
+    {
+      "articleId": "gnews_a48dc730ddd5b300",
+      "headline": "Maracanã terá vacinação contra sarampo e gripe no jogo do Brasil - Diário do Rio",
+      "headlineTranslated": "Maracanã will have vaccination against measles and flu at the Brazil game - Diário do Rio",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T21:04:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmY3RVgzR0NXUFhZLXlVVmdJaFBZeEZfbjg5LTdaQkNlQ0ZmMDJ0bzZ4Qk9XWXNJUXBqM3NLdUJjWGlsRnU2N3JFaFJzR3lVVldTTk1vUXpOcXlSZ0R4OUxlX0VtZGc2NXRobEZDRFkyZFRxQl95dDBEQ2dVcmUtVFR0Tm5MM3c3ZFc5V0NNV2p5LWs?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Rio",
+      "headlineJa": "マラカナン、ブラジル戦で麻疹とインフルエンザのワクチン接種へ - ディアリオ・ド・リオ"
+    },
+    {
+      "articleId": "gnews_7f2b82142f55a53d",
+      "headline": "Aeroporto de Fortaleza terá vacinação contra sarampo durante Copa do Mundo - A Notícia do Ceará",
+      "headlineTranslated": "Fortaleza Airport will have measles vaccination during the World Cup - A Notícia do Ceará",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T21:02:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlFTU3VnZF9PUi03ZjBWTktkM0pyVVJwN0dwLWRVSWxpc2IwNHZBR1R4ZTBxeGFfSU9aN0pma041RVpkMWdCN3JUak5Cc0pzanIxak1MTS1qdzgxNkUwVzY3UGJfTWx6R1pzTVFGSkNfVE1iT3M1TmNtUjhqbU94YjUydEtkN2NuNzlqVXdOOVB2bUpENENFN3FRMmhuWnFnMnNjcUR4QTFQdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Notícia do Ceará",
+      "headlineJa": "フォルタレザ空港はワールドカップ期間中に麻疹ワクチン接種を実施します - A Notícia do Ceará"
+    },
+    {
+      "articleId": "gnews_0b4cfde64c769bbe",
+      "headline": "Motorista sobe em teto de ônibus após suposto surto em Salvador - Se Ligue Bahia",
+      "headlineTranslated": "Driver climbs onto bus roof after alleged outbreak in Salvador - Se Ligue Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T20:32:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDVseHFmSm9SckxabkFBTnBtbHJ0RHJXQVlnZ1RLdThBd0ctOGdQcEY0d0lqdVhGOUFiN0Q0V3JQbC1FN3ZXSDA0X0l1VUx2OWpSSmIxQzJBWDZieW5aSWVQNGpCeHlYN094bXV3R1E1ZG1oVGpqeDk5NzBjd09LRXkyWFduRXEtX3BIdmZRNlhMNklrWlJ1M0NBc3BhY1ZC?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Se Ligue Bahia",
+      "headlineJa": "サルバドールで集団感染の疑い、運転手がバスの屋根に登る - セ・リーグ・バイーア"
+    },
+    {
+      "articleId": "gnews_66144e3954569803",
+      "headline": "Fortaleza terá vacinação contra sarampo no aeroporto durante a Copa do Mundo 2026 - OpiniãoCE",
+      "headlineTranslated": "Fortaleza will have measles vaccination at the airport during the 2026 World Cup - OpiniãoCE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T20:29:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR19lYkFxb2x3S2gyVUdkdXphbk14ZW5Ib0FxRUVuWGhOWEJjSldhOHhWbTRNbktPak1hdEFfUjZ0ck5GdGhDd2VvbGlha2daaWpkbDBTMURwTWVxUVktNzJWQ21kY2ZEbmlCTUt3S3htNTd4R1lqZW9UU2oyMHNGS0hUVzlaWHFCSzBGYzhGV1ljUVlvc1RVT0JSSUZaYVIzcU9iYVRVWGhYa3RuV2c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "OpiniãoCE",
+      "headlineJa": "フォルタレザは2026年ワールドカップ期間中に空港で麻疹ワクチン接種を実施 - OpiniãoCE"
+    },
+    {
+      "articleId": "gnews_63e0fb82ed32c40a",
+      "headline": "Prefeitura cancela São João de Uauá após avanço da dengue e crise financeira - Se Ligue Bahia",
+      "headlineTranslated": "City Hall cancels São João de Uauá after the spread of dengue and financial crisis - Se Ligue Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T20:22:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmw4OTVHclh2THlUM3U2YmF3bko2cjJkaHJ6dlV4WnpNQXc3SFU5LWF3N1hRdzRCZjZBaS0yWFFEVktaUnFMd2hzVG5vNWZia0FTRk9aVW5pRnJmSkRsOURibmktZGFVemVEbm95R1JibzN4R3VDRVV0TXB6M0hQS0JOSGp3VHJyNXQtYWdjd0h4ZVQ4OTVFeXkwNTJJdXFtNUhXeDlwYnc1MXZJbXMyVA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Se Ligue Bahia",
+      "headlineJa": "デング熱の蔓延と金融危機を受け、市役所がサン・ジョアン・デ・ウアウアを中止 - セ・リーグ・バイーア"
+    },
+    {
+      "articleId": "gnews_58539f1bf8f36c4e",
+      "headline": "Costa Rica registra 94 casos prováveis de chikungunya e acende alerta em MS - MS Todo dia",
+      "headlineTranslated": "Costa Rica records 94 probable cases of chikungunya and raises alert in MS - MS Every day",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T20:03:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXp1UW9OeHNFREZva0VlRlBkd19wNHJMcTNMMXRqNF94Um53SVJ4Zk80bmJtLVYwOXEySWdybWlSeUhSRHhMQ2Vydm9jdkJhQ1VFTVg5VV9kaXhqd3ZpelQ3Qi1zQ2hlNm92a2JlVFhlVHdHSDBET1ExVHdWVjJhMXBhdlFGeVAwVThkWG8wamJZSWdWQW1DU3ZhTG1sUnA5ZGZubUlBVEhYLUt4aktjajIxN09zekVxUjN3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MS Todo dia",
+      "headlineJa": "コスタリカはチクングニア熱の可能性のある症例を94人記録し、MSで警報を発令 - MS Everyday"
+    },
+    {
+      "articleId": "gnews_2654e94ac2873f2d",
+      "headline": "Palmeiras se une ao Ministério da Saúde e fortalece campanha de vacinação contra sarampo - SE Palmeiras",
+      "headlineTranslated": "Palmeiras joins the Ministry of Health and strengthens measles vaccination campaign - SE Palmeiras",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T20:01:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0FlTi1TYkRoMjZFMVlaZmdFUTMxVks1Unl5N1BadV8zTkFJanIwM3hjRHQzMWVBLUU2WVliU2NmMnBnQ2FCWXEtOVJBOU93LWlKOUlIa0hsUFBNcG5kNmZPWHB2dHkwYWJyS0F2cnJmb3VwQlg5RHA0U0VVUmdZTnAwLVFuY0FuamhOelJnZWQ5UFFhTm9mQXdSWmNkdVRaLUZkY242NXg3eVhyc3ZJeFpkWHB1SldzVHpKRXo4OV9MWUh0akE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SE Palmeiras",
+      "headlineJa": "パルメイラスが保健省に加わり、麻疹ワクチン接種キャンペーンを強化 - SE Palmeiras"
+    },
+    {
+      "articleId": "gnews_cad142e1d9104c55",
+      "headline": "Chikungunya avança em Mato Grosso do Sul - Hojemais.com.br",
+      "headlineTranslated": "Chikungunya advances in Mato Grosso do Sul - Hojemais.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T18:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEZzSWZqV0RBZDE3S0MyTHhveEFlai0yTWpsVGR4Z3RpazYxcWlhZWVPNlBlTnQtRVBVSVFiUzVJbEhObXhHaUhmeWJiRE11NlZDOGlPc1FqMkJDT1pxWXlZVWtPRGVrSUxOOVZYZVctejFLeVh0Ti1XZG9jZ3diYmc5bDJtd3NQVFdBenh6VTBHMjJ6ZmwzZHR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Hojemais.com.br",
+      "headlineJa": "チクングニア熱、マットグロッソ・ド・スル州で前進 - Hojemais.com.br"
+    },
     {
       "articleId": "gnews_734a581a27af5139",
       "headline": "Cidade baiana cancela São João 2026 após aumento de casos de dengue - Metro 1",
@@ -84,12 +351,32 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande",
       "headlineJa": "マットグロッソ・ド・スル州ではチクングニア熱感染者がすでに6,300人以上確認され、21人が死亡している - A Critica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_b4a18452b30f7db0",
+      "headline": "Boletim Epidemiológico: MS registra 6.360 casos confirmados de chikungunya - agenciadenoticias.ms.gov.br",
+      "headlineTranslated": "Epidemiological Bulletin: MS records 6,360 confirmed cases of chikungunya - agenciadenoticias.ms.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T17:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDhCSVItOXpReHhfNjdEbWJBRGFLbEFmNTlrOGh2R1BPWjBLU2pGQWY4NmMzdHlhaDhKempDMEpQZUlOb3lyeFhQUkJqeGw2dlVFcmRsUHN1VzcydUIzU1ZfbERCYkFUX1lCMTBpclNHUEVfUVQzbWx5QUJwZHM4cWdocFRnQlpnU09fNGU4RkluV2Q2eFpVdDEtZWlDeU1HUGNrdFk5eWVzQUFaUW1B?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "agenciadenoticias.ms.gov.br",
+      "headlineJa": "疫学速報：MSはチクングニア熱の確定症例6,360人を記録 - agenciadenoticias.ms.gov.br"
     },
     {
       "articleId": "gnews_a4573751326cb935",
@@ -110,6 +397,26 @@
       "dataSource": "Google News",
       "sourceName": "Ceará Agora",
       "headlineJa": "セサ、6月1日からフォルタレザ空港で麻疹の予防接種を促進 - Ceará Agora"
+    },
+    {
+      "articleId": "gnews_20334ddf51d9372f",
+      "headline": "Paciente em surto ameaça equipe do PAM com faca e mobiliza Polícia Militar em Paraíso das Águas - Jovem Sul News",
+      "headlineTranslated": "Patient in outbreak threatens PAM team with knife and mobilizes Military Police in Paraíso das Águas - Jovem Sul News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T15:44:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3FuN3VtcWJWNm9MdGZwRHZHeEhBNmNMXzNLaVpJREFKLUZ6UnNmSXowQ28zUFZuSXpPckFrdEpYU1ozNjRzVFlnMzY2dHYzYjJEU05oZl9wWHd3LWVBYkxsWVJLcFZMMDlTUjh6Sy16ZW9vSUZiT1BaTk83MmV5eTFnWjZHbW1zQ0Uzbi1WUzBiaHZyMlp1RkJEVFhxMzQ5U0FjVXdBWW9IeHJxa2pnelV0eXlTTnNES2ZJY0kySUFTcWt6Umpqc3NzQWNSUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jovem Sul News",
+      "headlineJa": "パライソ・ダス・アグアスで発生患者がPAMチームをナイフで脅し憲兵出動 - Jovem Sul News"
     },
     {
       "articleId": "gnews_f6a04608f820b27d",
@@ -173,13 +480,13 @@
       "headlineJa": "セアラ州保健局、フォルタレザ国際空港で麻疹ワクチン接種を実施 - セアラ州保健局"
     },
     {
-      "articleId": "gnews_39ca57c504cc11ad",
+      "articleId": "gnews_d72bb748d07b46c9",
       "headline": "Copa do Mundo 2026: vacina contra sarampo será ofertada no Aeroporto Internacional de Fortaleza - O POVO",
       "headlineTranslated": "2026 World Cup: measles vaccine will be offered at Fortaleza International Airport - O POVO",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-05-29T13:36:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFgzTHhHdnkySlVOZTlSMzI3dnJpanJqa3lCa21HdE91alRIM3ZhSWhmLUY2dXVtVWtyaGJQMFNTMUd6ZEx4andHdk0xcG4zRXh6eDYydFJHMFV1QVRqQUdBcFMtbWk5TjJJZlAyYWVENVZWNExVWjBqTFVWYUVXWVpyM3FnMEVvaHdBckc4Z21USVVudzRnME1kRGYzYXJhZi1lOXk5clZ1Yld1OERaSG5aSHFRMV9jeTloVw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHJhUG94azh6Yzdkay1Uanh6VURTSThkY0wtNE1ZTHVlTjZUamI5Ymc4LUp4SDFjTl9DdU1XQThXWEFlSEZNbWpWYllzbHBfWVAxQzJpVTZYcmVYT0VTdFVfYmZuTXU1ZEllWkhpRkY0X1ZkWTRia294TVRFdi1EYjVEcmFkelFkSXUyMEpqTUJjZHpXNmcwRnN1UGtmOTdKZF91V0dNQ0FvU3NTTWNxSWxEMzV3RjZQa05lb2QxSEp2dw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -191,6 +498,26 @@
       "dataSource": "Google News",
       "sourceName": "O POVO",
       "headlineJa": "2026年ワールドカップ：フォルタレザ国際空港で麻疹ワクチンが提供される - O POVO"
+    },
+    {
+      "articleId": "gnews_58253a444e68e7de",
+      "headline": "Copa do Mundo 2026: Vacinação contra o sarampo será intensificada no Aeroporto de Fortaleza - Prefeitura de Fortaleza",
+      "headlineTranslated": "2026 World Cup: Measles vaccination will be intensified at Fortaleza Airport - Fortaleza City Hall",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T13:19:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVlFa1ljRm5JbnpXS0pFLVFnY0tZVDBQakp5ekhTR1V2TUNSby15Q0Nya1p5VEl3QTVMc25jangyR3FxdjE3ZGRnMTE5cWRtb01INkVZcVBPZ1NtU1lWNWdmeVhIRkNranZ0Wlc1a01FcXd2ZG5WUk1xXzBqZUxxcGljc1pWRUxMai1neVQzWlVJTTdYT2lJWXpPU2JfaE54TFYxOWVzMTRzcUpoLW51SGFEbzJVNDRWM0NwMmhKZmRMWXJnUUp2aEIxWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Fortaleza",
+      "headlineJa": "2026 年ワールドカップ: フォルタレザ空港では麻疹ワクチン接種が強化されます - フォルタレザ市庁舎"
     },
     {
       "articleId": "gnews_02fea9fa11b4162a",
@@ -252,6 +579,26 @@
       "dataSource": "Google News",
       "sourceName": "PJF - Prefeitura de Juiz de Fora",
       "headlineJa": "麻疹予防に重点を置き、PJFは今週土曜日30日、ハルフェルド公園で予防接種を推進 - PJF - ジュイス・デ・フォーラ市役所"
+    },
+    {
+      "articleId": "gnews_79bc7d8914df45e4",
+      "headline": "Veja como será o Dia D de vacinação contra pólio e sarampo em Sergipe - F5 News",
+      "headlineTranslated": "See what D-Day for polio and measles vaccination will be like in Sergipe - F5 News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-29T11:12:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUthNXcxdG1OcnFmVW8zbkNydjd2WWVtX2Q3RDU0YVhETF9xR09OdW1tNENxSk56d1JEcXZNRGR2VGNtYWgwMWExQXJjVWVNWTUxclNoZmN3cGNtLUI2MW4tRVNuWVV1QWwxZ25tLUF3LVpUV1laS1l1dkpRMUM2Zm1NOHQ5ZG42OEpFM0IzYVpQMjZyU2NldHlRVHlzNHZMeXk5RlkzbS1wNzZVc0w1OA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "F5 News",
+      "headlineJa": "セルジッペ州でのポリオと麻疹ワクチン接種の D-Day がどのようなものになるかを見てみましょう - F5 ニュース"
     },
     {
       "articleId": "gnews_8eb5d66d22a3cd9c",
@@ -353,26 +700,6 @@
       "dataSource": "Google News",
       "sourceName": "Terra",
       "headlineJa": "黄熱病：サントアンドレのサルで感染者が記録されたことを受け、ABC州ではワクチン接種が強化されている - Terra"
-    },
-    {
-      "articleId": "gnews_95973ffb2b829bd7",
-      "headline": "Campanha reforça vacinação contra sarampo; imunização está disponível nas unidades de saúde - Destaque1",
-      "headlineTranslated": "Campaign reinforces measles vaccination; immunization is available in health units - Highlight1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T17:30:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMk9RUnU2ZjYxOWR3bEo3UGNGazRHbW80eTNFSHJfaWY5cUpaTTFlX0tOSDRqcU9lR1I4ZmNLUTJSYW82RXFLcm5ucURuc0FGWUJOSWlYdW94MmcwbzJYZmZEMUlWRWFjMEhaeU9hcXRwQ253NGlkZlgxdXpLdXhCRmJ5aUEzY3lFOVFTVmR6eU5wM1JPdDFldXRDeW11WWprdzdLM2Q3R29PVXVUcU4xYkJ0cw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Destaque1",
-      "headlineJa": "麻疹ワクチン接種を強化するキャンペーン。予防接種は保健室で受けられます - ハイライト 1"
     },
     {
       "articleId": "gnews_858c7cf9237aad21",
@@ -517,26 +844,6 @@
       "headlineJa": "DFは無料の蚊よけを配布すべき - - Misto Brasil"
     },
     {
-      "articleId": "gnews_327a8944f1b562ad",
-      "headline": "Salvador reforça ações contra dengue após aumento de casos de arboviroses em 2026 - Se Ligue Bahia",
-      "headlineTranslated": "Salvador reinforces actions against dengue after increase in arbovirus cases in 2026 - Se Ligue Bahia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T11:36:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpKYmxOc0dUWGFFWFhVbmtCbklOdTF5NTk2WGJ5LWNEN2w4clpDdVcxNU5nQzVDVlNMTVI1NGhiSnIxTWhaZE8wRzdZZXdtZDBFTE0zdUluTWxmekZkM2U2Q0RYSGVrQXVRendENW9HZGkwTjJzOWp4SVhCcUxFZ1QwZE40bXBYS1V1elJjMXdpZ1VKTWUtc3M3eXZ2Y2tFam5IU0UyUnNTVjdTRWs5NGdjSGhEUk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Se Ligue Bahia",
-      "headlineJa": "サルバドール、2026年のアルボウイルス感染者数増加を受けてデング熱対策強化 - セ・リーグ・バイーア"
-    },
-    {
       "articleId": "gnews_b989ec21057c1e47",
       "headline": "São Paulo intensifica vacinação contra febre amarela após vírus ser identificado no Grande ABC - Diário da Guanabara",
       "headlineTranslated": "São Paulo intensifies vaccination against yellow fever after virus is identified in Greater ABC - Diário da Guanabara",
@@ -595,268 +902,6 @@
       "dataSource": "Google News",
       "sourceName": "CBN Goiânia",
       "headlineJa": "ゴイアス州でデング熱の感染者数が増加し、2025年の同時期の数を上回っている - CBNゴイアニア"
-    },
-    {
-      "articleId": "gnews_033f7747c6467208",
-      "headline": "Governo de São Paulo amplia vacinação contra febre amarela no ABC paulista - Fato Paulista",
-      "headlineTranslated": "Government of São Paulo expands vaccination against yellow fever in ABC São Paulo - Fato Paulista",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T02:38:42+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXY19RUlQ3TTZmMWtZdjFGVDVEMWZWazJhV3FGeW1SN2Znc0JwX1BIYWRQUTVRYnk4NkZwajFsMnVpUHdiRkdzc0YzX1RFaFhrcVNRQkZzdzlJcnp1UEdJT1R6WjBVR1FnN0p2dklpTQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Fato Paulista",
-      "headlineJa": "サンパウロ政府、ABCサンパウロで黄熱病ワクチン接種を拡大 - ファト・パウリスタ"
-    },
-    {
-      "articleId": "gnews_4a4a2b89ca8de20c",
-      "headline": "Governo de São Paulo intensifica vacinação contra febre amarela no Grande ABC após morte de macaco - Pagina1mt",
-      "headlineTranslated": "Government of São Paulo intensifies vaccination against yellow fever in Greater ABC after monkey death - Pagina1mt",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T01:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcDhGdHZZclJmS2prX19NQUJHYmtCTEtwRlRiaktSWFlyQWVfbVMzMEFyelBoWThGeXJvWUhMaUwwV1BDa1ZsclI2WjhzT1hrVWNtZE1MNVFKTHZVMUc4dGVFWTFmNjVpVHhxbDFLLUdQUWVpNVd2d3dIWThORDhUaHZ5bzEybHNBWVF0UnIzVHpiOHc3VVRyUkVnWDlmMEFqOFBOa1J3bzRSWERhd0JaNXVmb0tLOS1XQXgzQVFBWDNicjZhQUx5X1d0aUxIZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Pagina1mt",
-      "headlineJa": "サンパウロ政府、サルの死亡を受けABC大都市圏で黄熱病のワクチン接種を強化 - Pagina1mt"
-    },
-    {
-      "articleId": "gnews_b958a6516837b69d",
-      "headline": "Governo de SP reforça vacina contra febre amarela na região do ABC - Agência Brasil",
-      "headlineTranslated": "Government of SP reinforces yellow fever vaccine in the ABC region - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T01:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUlWQlFuanVLekZGN09tOV95UjNjbWZxOWZ1SUpSM3RDZlZWZlczLXJzVndZSXFMNVA4cGt1QWIyaTBzT1NtMVlUWHVrUFAtSzZxRGZvRFV2X0VNZFBXVHEzQUpEZEtMS3hDT2ljbTBFSTM1QzNXaXN5LVREU3JkXzNHd2ZTX2tra1pSeVZzMmpmdTBYMElDa3VMWDJJOWlSdVNVOVdTbG1WbmxmbWlBMkhjckpVb1VPQk9wSnFR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "SP政府、ABC地域での黄熱ワクチンを強化 - Agência Brasil"
-    },
-    {
-      "articleId": "gnews_47734dd57187f21c",
-      "headline": "Governo de SP reforça vacinação contra febre amarela no Grande ABC - Tribuna do Sertão",
-      "headlineTranslated": "Government of SP reinforces vaccination against yellow fever in Greater ABC - Tribuna do Sertão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-28T01:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0NCWXhaUE5Ea3ZBWUtUU2h1Y3NjTWZKR2w0Q1U2TjAwQWFYZ2lQV255RlZLRjY4cVljMHRoSFFpSkp2RzlxVjFJTHp0ZlowbFI5blI0ZXE4cGt5V0gxdk5XOThEdlB2WGc4bE9DSGdwUkVPdUN2ZE0yWWFsNE1TV3RjeVBtTFQzR3c3aXJobERkWFRFdXUzTWhSN3FTV1ZyZ3VHSzFEWlVGSW9KNnl4elR1MGlBSVRKeG9jUzBrb0lONG8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Sertão",
-      "headlineJa": "SP政府、ABC圏で黄熱病のワクチン接種を強化 - Tribuna do Sertão"
-    },
-    {
-      "articleId": "gnews_8c59398bf8540565",
-      "headline": "SP amplia vacinação contra febre amarela após confirmação do vírus em Santo André - Folha de S.Paulo",
-      "headlineTranslated": "SP expands vaccination against yellow fever after confirmation of the virus in Santo André - Folha de S.Paulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T22:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHlJTUtVX1huRlBtOFl4YlFTQUdJbXIweVBndXlSOEI5dmpQX0FkVklYNy1oMnZaTGt0MG1zdGd4NTRRUWdlalNkc3VrOTV6TE83SVhzUWV1Tzc1RWdqZzBjWXc5YjYyM2djcVFNR1VkSHNITTJJZzlNbkRPR1dwNjNwcWxMRVN4WmQ0bTdsa0xOZVRhcmhBN1NYeVBnODN5WG9PZkZod3RLUl80aHI3c0R3aGFjb2RKR1l1U29OUXFsdzlFdHdjTGlaaG1xUi00akFfbGZCMFQ1UUdp?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de S.Paulo",
-      "headlineJa": "サントアンドレでウイルス確認後、SP、黄熱病のワクチン接種を拡大 - フォーリャ・デ・サンパウロ"
-    },
-    {
-      "articleId": "gnews_d3d8289d5bbb5a94",
-      "headline": "TRÊS LAGOAS (MS): BOLETIM DENGUE E LEISHMANIOSE – 27 de maio de 2026 - Grupo Portal de Notícias",
-      "headlineTranslated": "TRÊS LAGOAS (MS): DENGUE AND LEISHMANIOSIS BULLETIN – May 27, 2026 - Grupo Portal de Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T22:50:11+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3B3OERYYkUycVB1VWxVTkc2Ynl5VnFsZG5jZ0NXR3hsLWhWNDFtVUhqaTloY01kNXpvTWV5aFoxckJTdmhkbUU3bnlMSzRIYnJqWFAyYldEeWp0cFZXd0dmSUJrdjNpSFVzOXJrc0xmel9WblZnQV9RWTZZR2l3R0Uxc19PR2xPRU92eFdXQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Leishmaniasis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Grupo Portal de Notícias",
-      "headlineJa": "トレス・ラゴアス (MS): デング熱とリーシュマニア症の速報 – 2026 年 5 月 27 日 - Grupo Portal de Notícias"
-    },
-    {
-      "articleId": "gnews_cc217d34be17a451",
-      "headline": "Copa de 2026 acende alerta para vacinação contra sarampo - Educa Mais Brasil",
-      "headlineTranslated": "2026 World Cup raises alert for measles vaccination - Educa Mais Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T22:02:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS09iMlBNRHpVaVFRRGh5V3I2MlpQdlRqVkNDZlZLM3ZQd1VuOXFVTzEwT3hHRFY2elZnZFpmM2hRdkwyWjl2MkkzRC1rekR1T2VERzYyVXVZRVVHWTFqV2VMUEc1V1RIV1V2eVNRYXlaa2dIWlNaakVyNkM0N19FRldpTVZ1ZjhudDc0cFhCNTlBOFFJcTlndWo0XzJ6OVZMcW5LRnNzZHRTOTVWWlE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Educa Mais Brasil",
-      "headlineJa": "2026年ワールドカップで麻疹ワクチン接種への警戒が高まる - Educa Mais Brasil"
-    },
-    {
-      "articleId": "gnews_0ca07ced1b268dc7",
-      "headline": "Pernambuco tem aumento de 10,6% em casos notificados de dengue em 2026 - Folha PE",
-      "headlineTranslated": "Pernambuco sees a 10.6% increase in reported cases of dengue in 2026 - Folha PE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T21:57:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjBIV2dDWWtoQmRXM2wtTV9FUGJZbHRtblFuOThZandzVHMwb0cwYUJCcEZIRW5kcFEtcnZMOFpvVGpMWVdSOGNhcDIyVm5FNWVrOG1RcWNwSlZjaFAxWENZTGJpVlhkNE9xTXBSU2EzVHV3NUlVR2t0ZTlUdDVZVENCRElaV25zQ0FXZmpUWEVSVmJiZVlnRE14WGp5dXRQTHFLODhYNlRDcmpIbjZNeFF30gG2AUFVX3lxTE1VT0lSaDJsLWpwaGJ6SnptS1F4cHE2WHViNWxVSC1LTjgzUTZ5NFM4YWJHSDNDTVF2RTdVTzZ3VlphSC1NVzVMUzIyVW83ZXVxM3BhQ3MzSnA5MkozQ2ZRYWhPOExlS1R5WlpMNmJIaUJfR1JtbS1lNWd0cUotem5HWndzZzdtdEtLa2hNS094MUlyRUFQZXVUcFVER19KS3pwTUhYRjBYTkpMemJ5U0ZwTHhFMnhn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha PE",
-      "headlineJa": "ペルナンブコ州では、2026年にデング熱の報告症例数が10.6%増加すると予測 - Folha PE"
-    },
-    {
-      "articleId": "gnews_ffd39f1b234dd762",
-      "headline": "Mais de 15 mil crianças e adolescentes estão com 2ª dose de vacina contra a dengue atrasada em Teresina - G1",
-      "headlineTranslated": "More than 15,000 children and adolescents are late for their second dose of dengue vaccine in Teresina - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T20:32:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlotRVhja1FtUGtFeGxDUVFSZDBhTXk2UWx1SFBtZ0xjSUVzWFh5Ti1kaFBua1RmUEtONVh5djVtUXZWcEVNeGhnQ2xYLWFGOUlyLWlQaU4xNHNJS2ZxQUg4bkFaYmVUSGNKeElpajJxOWUzSXNjZXA3SUpWY1V0RFg2bDVyaDJ1Q3pteDBZN2lHS03SAaIBQVVfeXFMUFJEdGN3a0dCZi1GUDZwVE9iY1IxS1NkMWxNQy03V3BieW9rVnRIWjRldURGcUljajZ1cmJ0OTh6bFRfTU4zdThoNHlGT1hRX185clBidWg0cFpWb1BxUU5GTkNjXzJKRGdMb3ZzMUpqSElFSWxGeGZzWG9Rd0hwRXdLbDh6dnVRU1dOeFhhOGVZd0FSMjg2aVhtc2IzOUJ2UUJn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "テレシナで15,000人以上の子供と青少年がデング熱ワクチンの2回目の接種に遅れている - G1"
-    },
-    {
-      "articleId": "gnews_55268979174a812b",
-      "headline": "Governo de SP reforça vacinação contra febre amarela no ABC após confirmação do vírus em Santo André - Agência SP",
-      "headlineTranslated": "Government of SP reinforces vaccination against yellow fever in ABC after confirmation of the virus in Santo André - Agência SP",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T20:13:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHE5TWI1Zl9SeVp2X0ZFdHlZZTJBVE1KeGNNWUVLNnNiSE44dnRvc2VBMzRQbEVxT2tTLVFoa1ljbU9YRzVNZXRvTnJvTmg0UWxxZm5rMmVrU2hSbW14dUZieTRGYlMxTVFCSUJQMklYU0xBYzh6T2diUkRuX2VvcnZ6YzhZN1FyODJuYnNmSlk4Z3NOUzN4cWE4UjcxUEM2aElLWm9MNTlzWW9OeHEzbmphU1Q2SUxVMm50WE82VWswTE0ycEVYTXpDSUNZUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência SP",
-      "headlineJa": "サントアンドレでのウイルス確認を受け、SP政府、ABCで黄熱病のワクチン接種を強化 - アジェンシアSP"
-    },
-    {
-      "articleId": "gnews_138aba9dfc9c5bf2",
-      "headline": "Redução de casos de dengue e chikungunya em Corumbá - G1",
-      "headlineTranslated": "Reduction of dengue and chikungunya cases in Corumbá - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T19:47:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmtyS3AtdXY3ZkdGWGlRaHRiLUJqVjE5YzJDUUVGSmVRWHllbFZlVGFfNHl3V1B0VUhnRVN0bV82UkZUUWZzZnNJM09iNWtTWlIzV05XUks1enRCRUxXQ0pSZWFETm0zZWZ5cEVEWjRCUlFZYmlJbVoxOEJIVWg2eEptSW9JcnZLOENxY1NkRHlaTE9QWl9BVzQ4WHhGN20wSTZqWV9BUEhhYWZVdm15ZWNKRmEzY0FDclZQRE5CSkNNOTd2dnp5RlBuRFBNTElyLXFEcXpfbGN3VmY0YXZPazhSMThOeWQ1cXJF0gHrAUFVX3lxTE9Ca3JLcC11djdmR0ZYaVFodGItQmpWMTljMkNRRUZKZVFYeWVsVmVUYV80eXdXUHRVSGdFU3RtXzZSRlRRZnNmc0kzT2I1a1NaUjNXTldSSzV6dEJFTFdDSlJlYURObTNlZnlwRURaNEJSUVliaUltWjE4QkhVaDZ4Sm1Jb0lydks4Q3FjU2REeVpMT1BaX0FXNDhYeEY3bTBJNmpZX0FQSGFhZlV2bXllY0pGYTNjQUNyVlBETkJKQ005N3Z2enlGUG5EUE1MSXItcURxel9sY3dWZjRhdk9rOFIxOE55ZDVxckU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "コルンバにおけるデング熱とチクングニア熱の感染者数の減少 - G1"
-    },
-    {
-      "articleId": "gnews_1838ce175ddd5fb5",
-      "headline": "Mais de 40 mil jovens ainda não completaram vacinação contra a dengue em Teresina - Portal O Dia",
-      "headlineTranslated": "More than 40 thousand young people have not yet completed vaccination against dengue in Teresina - Portal O Dia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T19:03:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkRGQUdzNEVVbGN0QTNXaW1nbERSTk1HTnN5STRvUU9wbXhRNVFqZnZGQ3NELTFwUkFUdEwwT0RsWDJpd2RfUjRsMnlJbzJaWEp3T0JGaUFrSHBJSmVKNHA5Rl9yS3l1dF81NzJFOUE0ZUg0V0otZ1B5SkpmLTVodU1MVms0RHp5Rm50MWkzQkJSd2QwMy1PYTBMaTVRWHdYYmNlS01lV3RkYldFR1VPZEJIbFl4azRreTdLeUtWTDdnb3I5SW1zMEg4ZWE4Q2s2TmFHVkc3YU1QbU1EeGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal O Dia",
-      "headlineJa": "テレシナでは4万人以上の若者がデング熱ワクチン接種をまだ完了していない - Portal O Dia"
-    },
-    {
-      "articleId": "gnews_01a65d6bd7b10cce",
-      "headline": "Vírus Sabiá circula há 142 anos no Brasil e está se modificando, diz estudo - Estado de Minas",
-      "headlineTranslated": "Sabiá virus has been circulating for 142 years in Brazil and is changing, says study - Estado de Minas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-27T18:44:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa0V6VzJzQ28xYTFuYlVvRXJTVjI1TFp3NVkyOGJuOU1lTE9UWU5Md0xtWkJ6cC1WSXI0SldCTEFhWEpLZ0pqNVllUV94cVAtOUhzVnpvcTdYZm1pbWR1cGktMEhDN2U5eTAzd19VLXZmNEJKa3dMV1RORTZraVVkYjBlVUZZcEY0ajFWOG9OQ1lPWGo5WWpNazduTW5yUmh0Zk9CT19heFNBd21TYy1UczhVRDhYMHpRNF9ZVlNRWTYtdXliUWfSAcsBQVVfeXFMT3JKSVd4N1lLcnFKYWJobW5TX0ZfcWwtaGU3QkVUd1hpQjJPQWhkUUNyLTJaLTVkU1hMdnpyY05IUkY2Sm51aUEwRXJpaEJvUlJaLWNXSkxSeUhmM20yMjFSdmlVQWp4cEdvd2hidkppazJLSkZLd2llUFVHV3ItTW1ZVm85RVRsWUhheEdkQlViaUo3U3M3blVLMmVfS3lnVTRDV1RmckZrQ3AzLXJsMkwtUGxpd0hXRDEzYXBRdUd3Sl9HS3RpdmZhdjA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "South American Hemorrhagic Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Estado de Minas",
-      "headlineJa": "サビアウイルスはブラジルで142年間流行しており、変化しつつあると研究が発表 - エスタド・デ・ミナス"
     }
   ]
 }
