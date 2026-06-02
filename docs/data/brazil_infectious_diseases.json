@@ -1,28 +1,74 @@
 {
-  "generated_at": "2026-06-02T04:20:18.527244+00:00",
+  "generated_at": "2026-06-02T12:06:38.088729+00:00",
   "date_range": {
-    "start": "2026-05-31T04:20:18.527244+00:00",
-    "end": "2026-06-02T04:20:18.527244+00:00"
+    "start": "2026-05-31T12:06:38.088729+00:00",
+    "end": "2026-06-02T12:06:38.088729+00:00"
   },
-  "total_articles": 29,
+  "total_articles": 63,
   "state_summary": {
-    "Brasil (estado não identificado)": 17,
-    "Ceará": 6,
-    "Pará": 2,
+    "Brasil (estado não identificado)": 33,
+    "Ceará": 8,
+    "São Paulo": 5,
+    "Pará": 16,
     "Acre": 1,
+    "Amazonas": 1,
     "Piauí": 2,
+    "Bahia": 2,
     "Maranhão": 1,
-    "Paraíba": 1
+    "Paraíba": 1,
+    "Distrito Federal": 1
   },
   "disease_summary": {
+    "Measles": 16,
     "Dengue": 7,
+    "Ebola": 34,
+    "Meningitis": 21,
     "Yellow Fever": 1,
-    "Measles": 9,
     "Doença infecciosa (não especificada)": 4,
-    "Ebola": 8,
+    "Malaria": 4,
     "South American Hemorrhagic Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_557e09e107a59480",
+      "headline": "Copa põe Brasil de novo na mira do sarampo - O TEMPO",
+      "headlineTranslated": "World Cup puts Brazil back in the spotlight for measles - O TEMPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T10:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkFuYkF6NUJIYVlsbXRSWVUtM0o4dmlPVWtIRkxtY0RjYV9lOXFTWG95VmRKb1VHQzNZYk5VZHVtT3VXZzB0TnBrcU4tQ0NVQ1ctb2dnMUlXYzBHTjZxd3ZTNWh4YVVQNXhFSnNnUzVvMW51SHI0M2NNSE4wcHQzX09mbWRwdXBzVVpPZ2p6NlVud0lqZHZ3THcyMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O TEMPO",
+      "headlineJa": "ワールドカップでブラジルが麻疹で再び脚光を浴びる - O TEMPO"
+    },
+    {
+      "articleId": "gnews_3744f529027f9066",
+      "headline": "Aeroporto de Fortaleza tem vacinação contra sarampo com foco no turismo durante a Copa do Mundo - O POVO+",
+      "headlineTranslated": "Fortaleza Airport has measles vaccination with a focus on tourism during the World Cup - O POVO+",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T04:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONHloMWNHMmpIanVSNTN6MXhrV1dud2JqakZ2RnRqaW9EVmMwUERaR044SlFJMDBqbGJSTXRxd2RNQWJlVWdncW1LZUdVQTVPbTZUdFNmYmktR3M1aWlVWnN5elJYNV83dnVlR2NBWlhNeGxQckRvYVp5M19oa3pNdGxmczlqMHVWRC1kZW40anhSSjZ5UWpCenlkN3pIQ3pJd2dQb2VkVy1kSzZRa0VZX1VlVFM1ZWZHeFFydWlBaHBPMlhZZUxYRTFTSFRPNnRvTVVERGItWmhZb3M2eGZ3Rjh3LVpGNlU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO+",
+      "headlineJa": "フォルタレザ空港はワールドカップ期間中の観光に重点を置いて麻疹ワクチン接種を実施 - O POVO+"
+    },
     {
       "articleId": "gnews_81b83e56cf032ca8",
       "headline": "Dengue, combustível, posto de saúde e nota fiscal: prefeitos mostram uso prático da IA no SPIW - Terra",
@@ -41,7 +87,28 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Terra",
-      "headlineJa": "デング熱、燃料、保健センター、請求書: 市長らが SPIW での AI の実用化を示す - Terra"
+      "headlineJa": "デング熱、燃料、保健センター、請求書: SPIW での AI の実用化を市長が示す - Terra"
+    },
+    {
+      "articleId": "gnews_1c2765e5294bd7d3",
+      "headline": "São Paulo descarta ebola em imigrante congolês; paciente tem meningite grave - Tribuna do Sertão",
+      "headlineTranslated": "São Paulo rules out Ebola in Congolese immigrant; patient has severe meningitis - Tribuna do Sertão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T02:36:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWx5bmUzbUdTRk4yQ29wUExiV011ckpENTB2dW9HaHk2LTV0SW1QZFR6dFBIUUJ2b2FjVE45bGsyUk04SU02QTQxUzFpYUlBN1lOdGt0TG1oekJIb09CQlRxZzZtX25WcXNFMUh3OVZ5ZU1CenM3Y0xybVNVUk15YkNMOUU4VndCNDQyelVvMDR0RGtMQmRPUFVIN0lMZWVQanJfQlFqRHIwS2g0N1VQQzhHTmFIYTlDMG9HWWpxc21XRXJoYkJRS0o1NGtfZUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Sertão",
+      "headlineJa": "サンパウロはコンゴ移民におけるエボラ出血熱の可能性を排除している。患者は重度の髄膜炎を患っている - Tribuna do Sertão"
     },
     {
       "articleId": "gnews_a41054452df23ea9",
@@ -64,12 +131,33 @@
       "headlineJa": "JCNET：レンソイス・パウリスタが黄熱病による男性の死亡を記録 - sampi.net.br"
     },
     {
+      "articleId": "gnews_1e45459a352d032b",
+      "headline": "Fortaleza intensifica vacinação contra sarampo no Aeroporto e Vapt Vupt até quarta para Copa 2026 - Sobral Online",
+      "headlineTranslated": "Fortaleza intensifies measles vaccination at the Airport and Vapt Vupt until Wednesday for the 2026 World Cup - Sobral Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T23:27:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTExTLTc1Qmx2TGhQX0pUcU1WWEpYYXl5Y2VreVRtbWM2cllhRENnMy1RamZPeGlFOHhxTHBabkI4QjF1MmdiVXI5VmllYnVYU3R2X3BCZmdRcEx6Rmc2Zy16aUk4RTllN3pYMXZ4dGZVOUh5MjA5MWxjcGFzb0REQUNR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Sobral Online",
+      "headlineJa": "フォルタレザ、2026年ワールドカップに向けて水曜日まで空港とVapt Vuptでの麻疹予防接種を強化 - Sobral Online"
+    },
+    {
       "articleId": "gnews_3966eaff35d8e31e",
       "headline": "Pontos de vacinação contra sarampo são instalados no Aeroporto de Fortaleza - OpiniãoCE",
       "headlineTranslated": "Measles vaccination points are installed at Fortaleza Airport - OpiniãoCE",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T22:41:15+00:00",
+      "publishedTimestamp": "2026-06-01T22:53:23+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUpTeGowOXlqbUJmODJFYVNQTzBFY0dqYXhJZVRMQjVNS3NJeWt3cG05NzlOeERYVTVLZE5hdGhIdkpGZEJ0Wms3MVQzX0swQi1yQUo4N3Z4Y2hvcGpJVkxiWnY4UTYySFFraXNpdTVEa3FQT1l2XzJMSFJjTFkwZUdvM3dvd1lWd0Q5TUYtYkthOXVMcnQyTW82SXVFdTMxVzNqYVNWcnBZTFExWno5TGRkMWlRTkxqUE45SXBRYzJEd1Ns?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -164,6 +252,26 @@
       "headlineJa": "ブタンタンデング熱ワクチン：ワクチンを受けるべきではない人を確認 - ncnews.com.br"
     },
     {
+      "articleId": "gnews_2bc3fae9fb114098",
+      "headline": "Homem de 37 anos, que viajou para República Democrática do Congo, permanece em investigação para o vírus - PDNews",
+      "headlineTranslated": "37-year-old man, who traveled to the Democratic Republic of Congo, remains under investigation for the virus - PDNews",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T21:14:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlUxcUUwcl9mcGl1S3ZZYTFSWVdUcnd4ckZUT3p3dDhjYk1DQlgwV0ZaNUNLZ192VmcwbFBSNzVMak0yQVh6blJqalpVdGZhT1V1MDhTUllvUmRld2x1bG1iLW9lR0RfeExYSTV2Rng2WkpnYjU5ck9lekpKdTAySFBqY3BGdVdhbVBWVlZVSkNnaS1FNlBaN25QOGh1alQzbUIwbTJuZ9IBrAFBVV95cUxOV3dlcm9Zd3ZOcm9uWmNBRUxRR0JtcENZcE82bUszUFROSXhrWmNjMnpFQjNnUk16LUE4Z3hEbm92SEtSb2J1bGtlVXdOZ2tnR2xsckNPZGktVXJNNXNTYWNCb29odE50SzlNakFPSGJxdTRKbEJtWDNDN29fUEplOFE3bkFLMTJNYmg2QldoQW9hRTczaG96V1JvRm0yd2JUMTYzbkowRHJ4d2lB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PDNews",
+      "headlineJa": "コンゴ民主共和国に旅行した37歳男性、ウイルス感染で引き続き捜査中 - PDNews"
+    },
+    {
       "articleId": "gnews_686565ff9a7422ea",
       "headline": "Alerta epidemiológico: surto de doenças respiratórias lota leitos pediátricos no Acre - o rio branco",
       "headlineTranslated": "Epidemiological alert: outbreak of respiratory diseases fills pediatric beds in Acre - the white river",
@@ -244,6 +352,26 @@
       "headlineJa": "フォルタレザ空港での麻疹予防接種は水曜日まで続く。 Vapt Vupt がサービスを拡大 - セアラ州政府"
     },
     {
+      "articleId": "gnews_48a807e728879a21",
+      "headline": "Copa do Mundo reforça importância da vacinação contra sarampo; infectologista da Hapvida orienta viajantes - Amazonas1",
+      "headlineTranslated": "World Cup reinforces importance of measles vaccination; Hapvida infectologist guides travelers - Amazonas1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T19:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmdVQUowckhUMGozX3dNSlVQV0VKZG1wODVGWU83RXdQYWlyVUhrTVdxd194X1ZmLWd5dnY5RExmelBjanFJaTlPVUxSLUxrUXZ2LV9xTWczamRhRlRCMi0tajhyTi1aaUxlZjMzLUlOVWl4OXNPX1l5SGpRR3NsODM5d0RpUWFRVjkzZktBTndIbDF6SEpuSVhrNGQtLXdCcHMzanVwNS1WUVl0T3dQNjdhekxLWFJnWjNxOEF6RUVuX3Rtclg3S3pWSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Amazonas1",
+      "headlineJa": "ワールドカップは麻疹ワクチン接種の重要性を強調します。 Hapvida 感染症学者が旅行者をガイド - アマゾナス1"
+    },
+    {
       "articleId": "gnews_16b7389ccc2267de",
       "headline": "Brazilian Health Authorities Investigate Possible Ebola Infections In Two Cities - RTTNews",
       "headlineTranslated": "",
@@ -262,6 +390,27 @@
       "dataSource": "Google News",
       "sourceName": "RTTNews",
       "headlineJa": "ブラジル保健当局、2つの都市でエボラ出血熱感染の可能性を調査 - RTTNews"
+    },
+    {
+      "articleId": "gnews_4ccebd916fcc18e0",
+      "headline": "Secretaria de Saúde descarta suspeita de ebola em SP; paciente tem meningite - Times Brasil | CNBC",
+      "headlineTranslated": "Department of Health rules out suspicion of Ebola in SP; patient has meningitis - Times Brasil | CNBC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T18:13:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHptX2V2QWIweVhVbHlKdmZQMmgyWXRZNmpwY3FnT25FMWN0ZDJqbGh5dnk0Qk5uYjIxQ3RQaXNvRTZ3YS1xd1VROTdZU0ZFR1BmWU15UXh0OGVBRFNJQk44TEdBbzFIMGI4dzVORWk1YVlKWmhKQ0RlY3BVOUVXcTVCLU10UHRiYjUzd0JKN1RkMUdFRnBUZ3g2RFNoeWZsVUY3c1JKT2duNzVHd25J?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Times Brasil | CNBC",
+      "headlineJa": "保健省はSPにおけるエボラ出血熱の疑いを否定。患者は髄膜炎を患っている - Times Brasil | CNBC"
     },
     {
       "articleId": "gnews_b993e2164dbb2f35",
@@ -304,13 +453,13 @@
       "headlineJa": "アルツハイマー病に対する成分はデング熱との闘いに役立つ可能性がある - Jornal Opção"
     },
     {
-      "articleId": "gnews_3c94e0ca68b98ec0",
+      "articleId": "gnews_0a2f197b60ae6fce",
       "headline": "Vacinação contra sarampo é realizada no aeroporto - G1",
       "headlineTranslated": "Measles vaccination is carried out at the airport - G1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-01T15:39:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWg3TkZvcm9Ia2NySHdCTmd0WjhVWi1hQ3VSdHZVa3l5TThIZ01BWWpOdVVUdE1aMFdMWGdwVmloN1R6RFNSUzN3Q3RrcHVYdnJyNmRrQmFHZGpiSG94LXdZRzhlc3RyRUhhckF3U0VLbElfUzhjd0RzcGZKVnMzRTFvZERRQXdNVkdtbWNNdm5EZzFWM2kyZXUzNHBxbGxzamtpV0NVMm1aUm1HaHpjYjE1SmVjY2ZCRDVldmhJcE5HU2pkSmk0ZkEtZkXSAcwBQVVfeXFMTXVoN05Gb3JvSGtjckh3Qk5ndFo4VVotYUN1UnR2VWt5eU04SGdNQVlqTnVVVHRNWjBXTFhncFZpaDdUekRTUlMzd0N0a3B1WHZycjZka0JhR2RqYkhveC13WUc4ZXN0ckVIYXJBd1NFS2xJX1M4Y3dEc3BmSlZzM0Uxb2REUUF3TVZHbW1jTXZuRGcxVjNpMmV1MzRwcWxsc2praVdDVTJtWlJtR2h6Y2IxNUplY2NmQkQ1ZXZoSXBOR1NqZEppNGZBLWZF?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQlgzU1NXaWFRVXVGYzloQ0pFVklVUW9xQnUwX0tNZktkUVlRdkE5cEtZdzlNVEtQcjc3RXdLVVZfSWNfZmFQRFBwbG5CZVpuLWdOb3NxcFVtSjJYNzdYR2J6MEEyNTZTZHczakVQMklzTnlmbzFiRTNhRUFQTjYzVHE3djViWWlIYUxVUFptLWxxWXJPSmFkLWlUQzhNOU9FMEpWYldncFZxTWRBTVV1VktTZkszTDN6OFRHcmtR0gHMAUFVX3lxTE11aDdORm9yb0hrY3JId0JOZ3RaOFVaLWFDdVJ0dlVreXlNOEhnTUFZak51VVR0TVowV0xYZ3BWaWg3VHpEU1JTM3dDdGtwdVh2cnI2ZGtCYUdkamJIb3gtd1lHOGVzdHJFSGFyQXdTRUtsSV9TOGN3RHNwZkpWczNFMW9kRFFBd01WR21tY012bkRnMVYzaTJldTM0cHFsbHNqa2lXQ1UybVpSbUdoemNiMTVKZWNjZkJENWV2aElwTkdTamRKaTRmQS1mRQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -322,6 +471,69 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "麻疹予防接種は空港で実施されます - G1"
+    },
+    {
+      "articleId": "gnews_cf07fbf4112fc85a",
+      "headline": "Brasil reforça alerta contra o sarampo às vésperas da Copa do Mundo - portalgiro.com",
+      "headlineTranslated": "Brazil reinforces warning against measles on the eve of the World Cup - portalgiro.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T14:13:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1RJZGhGVW83VVk1YXdDRkpjQmMyR1doNVQxSklUSjh3WVJNOHdHMXRwV2kyOXBFMXRiV2RzOGswZGhnMzlTMEp6TGFMSUNVcTh1OFhzamZ6QXpTNFlOMHRrc1JkZWdrN29acHhKVEpUUHBXOHNjdXZrMHpJdW15TTRaLW55aUs3dWZGYk9XSlpkSEVqTl84RHREMTF3NWpfb183cE05Z2s2RnFMOUNualhOa2pUYzBjZ3NCTlRRSlBmR0pLUVdkY0x3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "portalgiro.com",
+      "headlineJa": "ブラジル、ワールドカップ前夜に麻疹への警戒を強化 - portalgiro.com"
+    },
+    {
+      "articleId": "gnews_d06fc4b6eeaf29b2",
+      "headline": "Homem internado com suspeita de ebola tem diagnóstico de meningite - Panorama da Bahia",
+      "headlineTranslated": "Man hospitalized with suspected Ebola is diagnosed with meningitis - Panorama da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T14:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkgwNHU3N2NxZWFJTlZNMlpRT29YWU8tQ2dLclEybHA5NVdJaHRnem5DWUtLbGlNbkI3Z0U3Q0l1MkxNNDRwenZtWTQyMjJ0Y194d21veXE0Z29ncTU3aFh4Rk9wN0FIbHMtU3Y1ODRZYjhoMnlXM2ltM1dYXzhrSlc5OHlNSTBPbGZ6dlN4ZjdzUHNQMnk2TkZRZTJwaDg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Panorama da Bahia",
+      "headlineJa": "エボラ出血熱の疑いで入院中の男性、髄膜炎と診断 - パノラマ・ダ・バイア"
+    },
+    {
+      "articleId": "gnews_baef1f7143654be8",
+      "headline": "Pacientes suspeitos de ebola no Brasil recebem diagnóstico de meningite e malária - Portal Leo Dias",
+      "headlineTranslated": "Suspected Ebola patients in Brazil receive diagnosis of meningitis and malaria - Portal Leo Dias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T13:58:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUDk2cnB2dEFEdmZtM1lSRXZBdXdna2pDbHNjTXlTZWZMcXBWcWtXSUd0ODNYRWtGdXY4YXNNVzVNN19kb1BNZVB6cGxoME12RkwwZHY4a1BnWmJqRkwxVm5pYjAwSXJLLWNCTmZONjZtOXZmNmFsdm9hc3AzalltbUZqRUNTNUVPRG5NT2s2c1NNVU9VQng3WFNqS2tFakxuLTRXLXBHVEVHVVpWaFZDUVFZQdIBuAFBVV95cUxQVGFpZXJCaVRzYU1SY3pyWGstQUpPZjdmdmMtdHZpLUpXUW9NZk1tdGhkTE9NdDlXWXc0MGd5MGU3STJzMElrbUE2aE8wZU5aanZNb2Y5cG1yYS1rcktFYUFseUlpWHVNSWlfQUUwZVR5Q1pNaEhpelZ2N2t5T3prdEVzU2NWUTk1d1hKMzdCcFFfdGhIQldwMmR6Wm54alE0VXNDVUxDYlNGY19fZHRob0dZTVNieUhW?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria",
+        "Meningitis",
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Leo Dias",
+      "headlineJa": "ブラジルのエボラ出血熱疑い患者、髄膜炎とマラリアの診断を受ける - Portal Leo Dias"
     },
     {
       "articleId": "gnews_85b9f69fbfe2cb9c",
@@ -344,9 +556,29 @@
       "headlineJa": "デング熱はテレシナ北部の住民を心配させている - G1"
     },
     {
-      "articleId": "gnews_35f8b1737c661ba2",
-      "headline": "O sarampo pode voltar a circular no Brasil? - dw.com",
-      "headlineTranslated": "Can measles circulate again in Brazil? - dw.com",
+      "articleId": "gnews_7ac8bef4488bcd4c",
+      "headline": "Brasil teme reintrodução do sarampo às vésperas da Copa do Mundo de 2026 - G1",
+      "headlineTranslated": "Brazil fears reintroduction of measles on the eve of the 2026 World Cup - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T13:26:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXpYaEludzd3Wk9TOVJEQWpBdjJIeE1hOXhkNmtsb2xpRGdKTHVoYkJERHFjdEtsSzRvOUJuRzVTZnFYd2dhN2lUUGpaU3I0MGVMWGZ2T3dHSTRRbkhoLXhfVWh3aTdkT3VDSWV2MFA2NTQtU0l4dlUzQ251dU1NT1lCQ3FXMGpFSkppU0JLWno0cWRxbjRST0V0TDNkR2haaHJ4WFU5ZnrSAbcBQVVfeXFMTno3WVU1NlowM2M4bGswQk1uVWIzRUp6WllZNzhRcnhuQWhJQ1JSYVN1UzZsTjZJckgxWXRYOHdLSzN5ZFg4Tk9nRlRTcG9aQWluVEl4d3NsenQwOFY0N1o3X2dVSmxlVVRqSjNiVW5aQUJMQUZGajlXX3pxNDl2MHM2SVZPeHZrdE5mSDJkWU9UR1dVbENDd2czZGI2RDBiVl94YXFfbUNNRUZKbXRoZnpKSnp5NXBJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "ブラジル、2026年ワールドカップ前夜に麻疹再流行を懸念 - G1"
+    },
+    {
+      "articleId": "gnews_b7330c90c5b69c6f",
+      "headline": "O sarampo pode voltar a circular no Brasil? - DW.com",
+      "headlineTranslated": "Can measles circulate again in Brazil? - DW.com",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-01T11:31:12+00:00",
@@ -360,8 +592,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "dw.com",
-      "headlineJa": "ブラジルで麻疹が再び流行する可能性はあるのでしょうか? - dw.com"
+      "sourceName": "DW.com",
+      "headlineJa": "ブラジルで麻疹が再び流行する可能性はあるのでしょうか? - DW.com"
     },
     {
       "articleId": "gnews_8542be67045e6685",
@@ -381,7 +613,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "terramtdigital.com.br",
-      "headlineJa": "妻殺害の罪で有罪判決を受けた男性がサンルイスの路上で集団感染の現場で発見される。ビデオを見る - terramtdigital.com.br"
+      "headlineJa": "サンルイスの路上で妻殺害の罪で有罪判決を受けた男性が集団感染で発見される。ビデオを見る - terramtdigital.com.br"
     },
     {
       "articleId": "gnews_15b83095c66cc36f",
@@ -393,17 +625,38 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHpodXRxand2cFJWQ1FmQTFZSDRQTHZmdUNuaW1zOVMxZmptZkNnOVBockx5TS16bnRpNjhDaS01T3hnOWdkNXRhNnBYVy15aXRZbVJIeUdndFJDWlZIUDRhdUlOVE5JR0E4TWtfVldPTlVLS1JpYzFRRjhuUkhEYUg5OXA2QndxYlRLNmVNSjVqTnV4bnNVdHU1bVBXRnVrZUl4dE9sOExqOXVvSFJFQmMxMmJVekFJY1BFTU85Mk9hVk0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "South American Hemorrhagic Fever",
-        "Measles"
+        "Measles",
+        "South American Hemorrhagic Fever"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline",
       "headlineJa": "麻疹：ジョアンペソアでは休暇と6月のお祭りの前に予防接種を強化 - ParaibaOnline"
+    },
+    {
+      "articleId": "gnews_86a3263f07f22f4b",
+      "headline": "Ebola é descartado em paciente vindo de Uganda; exame confirma malária, informa Fiocruz - O Democrata",
+      "headlineTranslated": "Ebola is ruled out in a patient arriving from Uganda; test confirms malaria, reports Fiocruz - O Democrat",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T10:40:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9WQkVnX3lPYmNadUJ2VUFiZkNZZzF5Uk5FMFh6OGRpcGlhakRSdzlKSWpyamVGcnR0NFpiRlItY0tyRjVBT2VPakdQNUV3WGVPOFhnRmhYSnBmVlBEVFVtNUZjMUdEQTZLWGJuMm5OWFhraEVEN1FyQ0hNWXlBM1pRZmhpa0pwb0F6ak02ckZkQU9rcFBNVWUwMG9rblZQM19Xc2llOExTQmlndzN4OEtGTjQySk0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria",
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Democrata",
+      "headlineJa": "ウガンダから到着した患者ではエボラ出血熱は除外された。検査でマラリアが確認されたとフィオクルス氏が報告 - 民主党"
     },
     {
       "articleId": "gnews_7a79cb36f33c983a",
@@ -426,13 +679,55 @@
       "headlineJa": "フォルタレザ空港、ワールドカップ期間中はしかの予防接種を強化 - URBニュース"
     },
     {
-      "articleId": "gnews_a89eadc29979e393",
-      "headline": "One of two patients with Ebola-like symptoms tests negative in Brazil - East Coast Radio",
-      "headlineTranslated": "One of two patients with Ebola-like symptoms tested negative in Brazil - East Coast Radio",
+      "articleId": "gnews_ede08ffe8abb7832",
+      "headline": "Paciente com suspeita de Ebola testa positivo para meningite em São Paulo - Diário da Guanabara",
+      "headlineTranslated": "Patient suspected of having Ebola tests positive for meningitis in São Paulo - Diário da Guanabara",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T07:23:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHM5a3VTaDcybFM3ZG1XN3ZOVmlOeGtOMUExeXFXMjZCR2YtZlpXMlJqYXJFdFpvUzVOM0FkcThpRlFrVTFXdF9nX2RiV0tXU05WRXFpUEdSeDNOM3F5NDhuODhuWmY5cGNoTU1lUDdWUVJjc2thSzhEeFktaHJaMG16dVdFWHpsNUxLbw?oc=5",
+      "publishedTimestamp": "2026-06-01T09:53:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalV3MVVfa2lyYmlIRWtWOUVMTHlVcDRWbHcwUVJCNXpiZTRZeWV1SjZ6ekU0WFhpSEN1d1hRd19mcVpPR3ZhQnNXY3BmUXVhTlo3RlQtaWg3aFpZNW5xTVdzR1ZTU2M2c0FvR2N3ODltZXJoaUdPSEdJMFdhWmJSSmRGTXRhcTJ2MHp0VXdBT1hfWUhlTUp6RUprdHk1Ti12WE9DU3FQaGNFZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "サンパウロでエボラ出血熱の疑いのある患者、髄膜炎検査で陽性反応 - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_8b9ac8bfe7c38d2a",
+      "headline": "Secretaria da Saúde estadual alerta sobre importância da vacinação contra o sarampo antes de viagens internacionais - radiomissioneira.com",
+      "headlineTranslated": "State Health Department warns about the importance of measles vaccination before international travel - radiomissioneira.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T08:00:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc3VyaGR1YWNBbmpMU0djZVgtUHRaS0xaQ296dmViaDEwOVN4eWFNdVlCVllocDRzSDJkekNxYU5KUGs0ODcySW5KeGRqbmhHRjJaOWFhVlJqU04zZVVOdFRxZ050MVA2eVlMc3ZGUTdtVVFvUU0tbWZOV1lqSlptMDN3Y2Z1a0dXdzY0YkNpaFdlTm1xRjl4ZElFZGtVWW5sUTNpRmVma1FucUVrblRwajdYS1JuYnJpNnVZZkctLUZhSm1hYTlEd29QYVR4cnhNam10T1AxRmR1YUp6VUFqbzlWRQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "radiomissioneira.com",
+      "headlineJa": "州保健局、海外旅行前の麻疹ワクチン接種の重要性について警告 - radiomissioneira.com"
+    },
+    {
+      "articleId": "gnews_3c599057810e737f",
+      "headline": "1 Of 2 Patients With Ebola-Like Symptoms Tests Negative In Brazil - NDTV",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T04:47:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEhqRHF0UzNMYk9UbUw2SUlkUllDYnFaOWxxdG9OWEJINFVvdUZpOEE4VHE0bUpweFRIMmwzVHN2QlRzNU9MdVY1aDhCaDZGTnhyVndpOG9QcEFkcXpYRkVqV1E5T2JEX0p0TFo5ZmpxZmdDbTVXMGFjcFZlZ0kxd1MtNmRiZHluYjluaDlneEd4Qk1pYzNrQ3pfZGI3T0YwbTVVQzFJZ1Y2ZEXSAasBQVVfeXFMT2RIakRxdFMzTGJPVG1MNklJZFJZQ2JxWjlscXRvTlhCSDRVb3VGaThBOFRxNG1KcHhUSDJsM1RzdkJUczVPTHVWNWg4Qmg2Rk54clZ3aThvUHBBZHF6WEZFaldROU9iRF9KdExaOWZqcWZnQ201VzBhY3BWZWdJMXdTLTZkYmR5bmI5bmg5Z3hHeEJNaWMza0N6X2RiN09GMG01VUMxSWdWNmRF?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Ebola"
@@ -442,8 +737,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "East Coast Radio",
-      "headlineJa": "ブラジルでエボラ出血熱のような症状を示した患者2人のうち1人は陰性と診断された - East Coast Radio"
+      "sourceName": "NDTV",
+      "headlineJa": "ブラジルでエボラ出血熱のような症状のある患者2人中1人が陰性反応 - NDTV"
     },
     {
       "articleId": "gnews_9e5841b4b670f8e3",
@@ -486,6 +781,27 @@
       "headlineJa": "ブラジルでエボラ出血熱の症状のある患者が隔離 - 香港電台"
     },
     {
+      "articleId": "gnews_d7ba2275a763df33",
+      "headline": "Paciente investigado por Ebola em SP testa positivo para meningite; caso segue em análise - Times Brasil | CNBC",
+      "headlineTranslated": "Patient investigated for Ebola in SP tests positive for meningitis; case remains under analysis - Times Brasil | CNBC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T21:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamFzMTRKTjdIWl9xWF90M3JCdkNTTWJNTzZuXzhRZ3NfcnBCN1F3UFlNdFQ1Q1J6UUtJUU4zYm81cmNGTHF5U0I1VHpJMnFHcXAtREd0Q01yVEJnR0tyOF9MZ3RVUG1CYnNEdkl1d0lxV09xR29yRmM1MkxoN0hmekxUQWNXdkVRc3VqTUVDdWJMd1ZtdVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Times Brasil | CNBC",
+      "headlineJa": "SP検査でエボラ出血熱の検査を受けた患者は髄膜炎陽性。事件はまだ分析中 - Times Brasil | CNBC"
+    },
+    {
       "articleId": "gnews_be19715e6862c3b4",
       "headline": "Fiocruz monitora viajante vindo de Uganda com sintomas compatíveis com infecção viral - Diário da Guanabara",
       "headlineTranslated": "Fiocruz monitors travelers coming from Uganda with symptoms compatible with viral infection - Diário da Guanabara",
@@ -504,6 +820,47 @@
       "dataSource": "Google News",
       "sourceName": "Diário da Guanabara",
       "headlineJa": "フィオクルス氏、ウイルス感染と一致する症状のあるウガンダからの旅行者を監視 - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_62f64da812d001a2",
+      "headline": "Paciente com suspeita de ebola em SP está com meningite - Poder360",
+      "headlineTranslated": "Patient suspected of having Ebola in SP has meningitis - Poder360",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T20:01:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjBtSlRoTU9oekQ0TTVpcnJIQ2d5RHlpbVJUUWN2a2F0cS1Ya181OHRUSWVDRWJOR24tQkZkR0VIRVNNeWE1OTFIdGRaS2p4VVFFTmJ3Q2pwQzYxaGdTd3FydHpNUm9ocmo3NTd1ZzNsMU4wRUprdXVWN3ozQkppaGYyMWdrRTFrOGFTelgyc0VtVUhXT3V5NEFQZVc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Poder360",
+      "headlineJa": "SPのエボラ出血熱が疑われる患者は髄膜炎を患っている - Poder360"
+    },
+    {
+      "articleId": "gnews_7a5064e846c223ea",
+      "headline": "Italian and Brazilian authorities investigate possible Ebola cases as outbreak grows - Australian Broadcasting Corporation",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T19:12:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFZvLW15dm1GNmc0dlA3YXc3OXM0SFFGSTNuZVdHVlRBNXE1TkNnX0R6d3ZhQ25NQlladjB6T3ZUZ2REVUNnMG14aDZkMXVVa2dlR3FuQWV2U200Nno5Ui1hcG5XLXlPZ3FuU3k5OVJISDNKZHlOZTBEZ2dKVWZ0MjRZUXA2Q2VWMWVyTTF4Q2JhckFwTWVtbWVDa0d3cnpFTndqbUtYZElOdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Australian Broadcasting Corporation",
+      "headlineJa": "イタリアとブラジル当局、感染拡大に伴いエボラ熱感染の可能性を調査 - オーストラリア放送協会"
     },
     {
       "articleId": "gnews_fd4a65b241ede357",
@@ -526,6 +883,109 @@
       "headlineJa": "ブラジル、エボラ出血熱感染の可能性がないか患者２人を監視 - AOL.com"
     },
     {
+      "articleId": "gnews_1448553763180b19",
+      "headline": "Belga com sintomas virais no Rio: malária confirmada - correiodobrasil.com.br",
+      "headlineTranslated": "Belgian with viral symptoms in Rio: malaria confirmed - maildobrasil.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T17:37:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHN5LXNvWmRqRkRoaHhsLThwWXZzdnc4TWhrdEExcXR3bXV0ajJJWGh3cklNVXdmVGF6SkwzOW9MZm5ncEl5MWRvcGVRajR2RGdfTlE5cDdlZTZjR0hIZjVZUTg1STVwNjcwZ1RiNTJkdjAxXy0tMEVUbDNJMUtsel9xTjE1OS1oWmJqUVozSnQwX2xnNURHYkhackNIb0k?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "correiodobrasil.com.br",
+      "headlineJa": "リオでウイルス症状のあるベルギー人：マラリア確認 - maildobrasil.com.br"
+    },
+    {
+      "articleId": "gnews_011b020cb5d88477",
+      "headline": "Paciente em SP com suspeita de ebola testa positivo para meningite - Atividade News",
+      "headlineTranslated": "Patient in SP suspected of having Ebola tests positive for meningitis - Atividade News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T17:24:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3hvYkYtNUp2OThULUwtMTAxZ2xiTHBwMk5UdEZhTTdJdFlqRVYtTlA3Ymt1ZXNobkNCOEJFT2Q2V2JJUTQ4R2tmNmRSTUZnZFJVSDNZNXRaUlM3OUprZWNFdy16Rlg1U1pOSXpPc3VCaWlZMjZheXFLVjBmeEJLOU5JMlVzZnlXVDlaeU9IUEZJdFBpNF9WT2xOZDM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Atividade News",
+      "headlineJa": "エボラ出血熱の疑いがあるSPの患者、髄膜炎検査で陽性反応 - Ativade News"
+    },
+    {
+      "articleId": "gnews_bb176a1fefcfa8f7",
+      "headline": "Caso suspeito de Ebola em SP tem resultado positivo para meningite - THMais",
+      "headlineTranslated": "Suspected case of Ebola in SP results positive for meningitis - THMore",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T17:05:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk1pQzNHZG5sNkk3U2xVeU1oa21pcGdsYkU1d3F4a005LWxyYU1xTUJBRWNGaURCOFFPbXhiLXpubzBfSThtN0NQWlBvbDB0SWwxTlI5VmcwZkt4TXFyMU9nWWtLYTl1cFZlRGNwMm9FVEhCdWs3SVkxSXcyMzlzMGZONHRUUnFTd242TVowQWpqT2F3Rmh1MVBmWmpvNnJrRy1iTlh1MzBuXzFnWEFMWlBwWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "THMais",
+      "headlineJa": "SPでのエボラ出血熱の疑いのある症例は髄膜炎の陽性反応を示す - THさらに表示"
+    },
+    {
+      "articleId": "gnews_d9ca2cfd68f483f8",
+      "headline": "Suspeita de ebola no Brasil segue sob investigação após novos diagnósticos - NSC Total",
+      "headlineTranslated": "Suspected Ebola in Brazil remains under investigation after new diagnoses - NSC Total",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T17:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2tWM2hXeFVWalNxWHdndVZoMTlzcURSQUVzeXpPU01aaVNZUEY3N0I2dmFSN1VmM0xUd29lSUlXUlJsSWYwX2R6ZnpvbW1mTU1vLXhlbk9QWDNjUXVfb1NXdVJhWVZ5OVR3WDhBbkFlQ0NnanJONFBOZTRyMEV1MUEzOENuUEhoNkc4S0tLaHpBSXRYM0JMd1I0bWtjaW1JSDVNTmdabFdJY2RQajVMaQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "NSC Total",
+      "headlineJa": "ブラジルでエボラ出血熱の疑い、新たな診断を受け引き続き調査中 - NSC Total"
+    },
+    {
+      "articleId": "gnews_01b1fa21d068aabf",
+      "headline": "Meningite: sintomas podem ser confundidos com Ebola? - CNN Brasil",
+      "headlineTranslated": "Meningitis: can symptoms be confused with Ebola? - CNN Brazil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T16:10:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWVRTDBTNDg5bjNyaEV1MEc1X29WOS00bmJuMFk1UHpDU2VZd1gzQllUZ0dvYmdFcGE0cl9saHRFRVpic19KR3lFNVFhVUlZZ051WndNTzU1d0F1WTVKby1sWEpBQnBxU3FrZDdwSkZobmRjd0p0ZWF4bnpuYkhYRy1mUjJhNjZZLWZEZzhTMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "髄膜炎: 症状がエボラ出血熱と混同される可能性はありますか? - CNN ブラジル"
+    },
+    {
       "articleId": "gnews_92f809bea4a3d6d7",
       "headline": "Brazil investigates two possible Ebola cases - RTE.ie",
       "headlineTranslated": "",
@@ -544,6 +1004,90 @@
       "dataSource": "Google News",
       "sourceName": "RTE.ie",
       "headlineJa": "ブラジル、エボラ出血熱の可能性のある2件の症例を調査 - RTE.ie"
+    },
+    {
+      "articleId": "gnews_152e6ef951539125",
+      "headline": "O que sabemos até agora sobre os dois casos de suspeita de Ebola no Brasil - CNN Brasil",
+      "headlineTranslated": "What we know so far about the two suspected cases of Ebola in Brazil - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T15:48:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTc5cWNrOFlfeUF1T1ByaXF2SkIweV94NDFkSjVud2dXOE10V2Y5RktsRVY5RFV5dWFWLVUwSHFmZVRoaHFoeGpITXUxNGk3OTBYb0dxOERmdmZPRDlpVWptWkxmeTI1Yl9VcjJvSjRHVlNIc0ktQnhaNGhJZFFnMTN1SFpmcWVwMVRSV3ZLempoTU9jRFVkRF9wV1V3Z0E1Z0psQnk5S1VIYWoyejg4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "ブラジルでのエボラ出血熱疑い症例2件についてこれまでに分かっていること - CNN Brasil"
+    },
+    {
+      "articleId": "gnews_9497cf11a813115c",
+      "headline": "Paciente com suspeita de ebola em SP é diagnosticado com meningite - correiodobrasil.com.br",
+      "headlineTranslated": "Patient suspected of having Ebola in SP is diagnosed with meningitis - maildobrasil.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T15:33:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTgzd2RsQXFlUm1EX0ppOUhRdmlZdk44d2pWOVA2OE1ET3E5TGppbm9JVUo4VXo2YjZDeDlNUkE0Z3BVWmlSdHNoMGtmLV96X0ppbHFPbC16ZnpNeVNqdTlkaFdaeERNTWM4a2tGMTJfQUpLY2x4blVpTXAtMVJxZi0zaWc1NnlEWjdCWktpVkdDN0dCcUdUWkFEcjY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "correiodobrasil.com.br",
+      "headlineJa": "エボラ出血熱の疑いのあるSP患者が髄膜炎と診断 - maildobrasil.com.br"
+    },
+    {
+      "articleId": "gnews_50bd28428684f3c7",
+      "headline": "Paciente suspeito de Ebola em SP testa positivo para meningite - Terra",
+      "headlineTranslated": "Suspected Ebola patient in SP tests positive for meningitis - Terra",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T15:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWkZmUXN0UVNkWllRcHhrNHM1b0w2dWJXSl9pNmVKUkpQNWExZHJSa0JNaDlJdF9uS0JHaFFPcTBMdDF3N1dZZ0pEMG4yN1BVRzlROHIzRU52RjV5MlRQa21pek1KSW5mUm92US1DeGJxQWsxSV9jRmgyR1lYdi0xVF95NFEzTXA3WVpqWmJZQUo0ODNwME1vbjVtaXB1Y0V0WFNLakFucHNUaXhOQWZhMlowYlRhVkNVQkZWaV9ieEl4VE4tWHZkbWE1Vm5IODJCY2ZjbG1xdTd3RzRXUU1CRlptTQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "SP検査でエボラ出血熱疑い患者、髄膜炎陽性 - Terra"
+    },
+    {
+      "articleId": "gnews_8121e793e655aa72",
+      "headline": "Paciente com suspeita de Ebola testa positivo para meningite em São Paulo - Brasil 247",
+      "headlineTranslated": "Patient suspected of having Ebola tests positive for meningitis in São Paulo - Brazil 247",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T15:27:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmt2U2dzNkM2OVRyOGd0TFdCWDZQTnJBSndyYnJabEg5RFFUaTRkclhPWEd0bDJoY3ctTVlKaDNNaGpUdklwNHQ0TF9oUzFvVmxhVHhvck12S2NKMTFEa1JpQVpMRi1nWGRCOWVhUzVSeng3TGJHS29rU3dMOGNpNjJFR3BiZjRJcTQxdG11YWZoMDhsbVB0cjlmS1dyTGEzVTYxRWtSejY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Brasil 247",
+      "headlineJa": "サンパウロでエボラ出血熱の疑いのある患者が髄膜炎検査で陽性反応 - ブラジル 247"
     },
     {
       "articleId": "gnews_c20ffacfddc06f82",
@@ -566,24 +1110,154 @@
       "headlineJa": "エボラ出血熱のような症状を示した患者2人のうち1人はブラジルで陰性検査を受けた - ストレーツ・タイムズ"
     },
     {
-      "articleId": "gnews_f9c040955bd64248",
-      "headline": "Quase 30% dos brasileiros dizem não se interessar por vacinas - AJN1",
-      "headlineTranslated": "Almost 30% of Brazilians say they are not interested in vaccines - AJN1",
+      "articleId": "gnews_1dea56533c7a1480",
+      "headline": "Paciente internado em SP com suspeita de ebola testa positivo para meningite meningocócica - O TEMPO",
+      "headlineTranslated": "Patient hospitalized in SP with suspected Ebola tests positive for meningococcal meningitis - O TEMPO",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-05-31T13:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcURkcE54a2p2YWhxUTFGMEJaSExDR3NOS0ZUZVZrR1h4Ql9YbDBoZ1l3ZWIxeWwySzNyM19vWGJ4VEdaZEo4cFg2YUpuRTl1WUdjVWZSY2otUkR3QnVjRGVmWFFUcHZySjZzOHhaaHFwaW1kMExaRGo5S3lLRjlUMHBLbGRZQ0JY?oc=5",
+      "publishedTimestamp": "2026-05-31T14:58:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzdUa0VwcFBwalM0Szd6OHplSlRFVkxmTUFtNDdDWDh4NFF0ZWhSekdXalk4WWNtTHQ3UmVTQUVicGdfekhnZk81Nm5DTlRPQkpBTnlZT2J5UVhRUkY1WDE1RTZmb2ZlWWxhTHZZdlJ3ZlB2WlljRzJadzlZNEFyTVNfZkRRX1BlNmtERktaSzU4c041bEZqZlQzMVVOREVYWkQ0aHZyT1ktaWdybHM3TVpMTmhiZXhYb3Qtb2htUnVjZWZFSUVqV0E5SlB0dw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O TEMPO",
+      "headlineJa": "エボラ出血熱の疑いでSPに入院した患者、髄膜炎菌性髄膜炎の陽性反応 - O TEMPO"
+    },
+    {
+      "articleId": "gnews_9926c6dc004e91f6",
+      "headline": "Saúde de SP confirma meningite em paciente internado na capital com suspeita do vírus Ebola - Todo Dia",
+      "headlineTranslated": "Health in SP confirms meningitis in a patient hospitalized in the capital with suspected Ebola virus - Todo Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T14:56:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOG1NY3M5b0hkdkVqWnhCTHpJMmQ1SzRVQ0kzN0FlZElnS2xVX3NaRS1QeG11T2tZc2dMaDBuSkJvX2dNSm84SlVyQzhCOWEtWlQ1OXA4bE9lRHZPa0hXaHNUYVN3cjVHVmZWZFFTdWNQNVhfTlo0QU5mNi05N2JTeHhHVXdfY2lXWjM2THA4dFJHVUdsNFREQ1JjcVl6emZOWlZSMlVPQWtWdXJMOFdIZ1JaY3BTaWtyS0R6MjJBOHFEUkZSMmlz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "AJN1",
-      "headlineJa": "ブラジル人の約30％はワクチンに興味がないと回答 - AJN1"
+      "sourceName": "Todo Dia",
+      "headlineJa": "SPの保健当局、エボラ出血熱の疑いで首都に入院中の患者が髄膜炎であることを確認 - Todo Dia"
+    },
+    {
+      "articleId": "gnews_aaa04e08de53dae2",
+      "headline": "Homem internado em SP testa positivo para meningite e segue sob suspeita de ebola - Jornal de Brasília",
+      "headlineTranslated": "Man hospitalized in SP tests positive for meningitis and remains under suspicion of Ebola - Jornal de Brasília",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T14:46:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaXpVdjYtNW10bVBtUDI1WFJYQ0dBXzZyOTVneGx1TjNqT2hxRDhKV1RQMzlDb3RyOXB3d3JuTkhJNWdaalh4dThxMFVoeDZNSWxoelZ2T2xvWEVHY0s4dEZ2WGR5aWRCakVHcHpuanlrVnJ0amxjRVRCczNvT1RlYTM0b2JpbmdCT0lKRGVocDJZamdqcVJ1NU0zUWJIdWRiR3E1TzVTX1l0YzRzOWZRUkJVQU9KQmhJSFJ4a2ZVRmFVOTc1Q29mZ293?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal de Brasília",
+      "headlineJa": "SPで入院中の男性は髄膜炎検査で陽性反応、エボラ出血熱の疑いは残る＝ジョルナル・デ・ブラジリア"
+    },
+    {
+      "articleId": "gnews_095a7b98fea9ea87",
+      "headline": "Paciente com suspeita de Ebola em São Paulo testa positivo para meningite; investigação continua - Exame",
+      "headlineTranslated": "Patient suspected of having Ebola in São Paulo tests positive for meningitis; investigation continues - Exam",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T13:22:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYmd6TVVzTTNtRzMzcW5ReW5WZndybVpDQ245TnZZU2UwZmdEX0JzX1Y1T0F4YkE5WVZHZXk5Vm9OY1RhNlVwU1dUTnRzeFgtZnRhOE9lNU5fcnlDQV9CNXNLLWx0YTlMVV93WWZxZE1ndkRUTU5WRURxUmROSHpDc3ZjQnYtSjdWU2p5MTN6QTdhRlZlQ3hGT1FFWmI5QzVTUTFMc1VBekZ5aW81U05nTUFnbGJVUWhWMEQyenZR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Exame",
+      "headlineJa": "サンパウロでエボラ出血熱の疑いのある患者が髄膜炎検査で陽性反応。捜査は続く - 試験"
+    },
+    {
+      "articleId": "gnews_c78d570dfb61548c",
+      "headline": "Caso suspeito de Ebola em SP testa positivo para meningite - Jovem Pan",
+      "headlineTranslated": "Suspected case of Ebola in SP tests positive for meningitis - Prime Time Zone",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T13:18:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQME5yVkRZWS1sUmVsSmhiWnVxSU8yb2kxdG1XVFZrZm5teV9QNHFfUnphanFjeGpFWTFxNjl2RVhpYk9TeERBZWRVRmRaQ01CR0MtNTYydGxVWGtueXdwa0lOcDFKVVQ4YWxDV2EtQXBzaV84ZGNsZkNDTnJ2VDBjcU9pUFBRVVpPNzY1Vy03OExISS1ZMURONHhyVFg1UFZjUWJqdEpR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jovem Pan",
+      "headlineJa": "SPのエボラ出血熱疑い患者、髄膜炎陽性 - プライムタイムゾーン"
+    },
+    {
+      "articleId": "gnews_1b4b74f8ec18f7e0",
+      "headline": "Paciente internado com suspeita de Ebola em SP testa positivo para meningite - InfoMoney",
+      "headlineTranslated": "Patient hospitalized with suspected Ebola in SP tests positive for meningitis - InfoMoney",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T13:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVZGZDE1a1ZRZTdOa2hNVW5Iei1DNUlzTE5xM1NhbjdpWWI4Y0NLRWZ0RU1hemNMa2FjWTZHNnFyOGNUbHliU0JGQnRpam1ZTDBOOEYwdmx5RGk1WVdhMkJtR3MzWmVQT0VzZTlPREUzYVRVOEJiTEFScU9CM3BqNmMtVndKa1RvUTd6NHpPMzJzQmc4OWUzd0pQYnd5WC1pQ1FRSGRwbFVYaXltd01XOHpMVdIBuAFBVV95cUxOeHo5NlB6N2R2cjA1VjMxSjJaYUQzYnBzY1NIM0hYcDh0bmJxWnhKNWFQbHBFYktBcGIydnhLOTQydG81QWlXRm40dmZITlVoZjl4eUQtdXFIRnRmNmlSeERVeU1zMThRaVYyVnRGLVBkOW9MUXVqZ29tRGg2UkxDSl9RZEhaOFYtMm5rOXRLb1B5Y3JaSndvVmdyWjFVRjhVMDFxeWpySG1HZXh3andiczAxMUM3by01?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "InfoMoney",
+      "headlineJa": "SP検査でエボラ出血熱の疑いで入院した患者が髄膜炎陽性 - InfoMoney"
+    },
+    {
+      "articleId": "gnews_8015329104afd03e",
+      "headline": "Casos suspeitos de ebola no Brasil recebem diagnóstico de meningite e malária - A TARDE",
+      "headlineTranslated": "Suspected cases of Ebola in Brazil are diagnosed with meningitis and malaria - A AFTERNOON",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T12:39:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOand4enhTdVRjNGE2VVhMVTlTUTlDQktRdFlyb0Fqb1FhRnBITGNZQ0MyUlVhUUd5WkhFQm14d3AwRkJndVdCY2M2YnpxajhRcXRMd1NBVGVuTEpQSGZDdERnZVhNcWx3TWU1TlQtdHFRYlBrdmlScC1HZXVwRk1ldnRPcTFQLXQ0M21fSXYtVG5YWVpMNi1GS0JaQ2RTVkFmc2xBZTVNOUxZMDQ5YXBCV1FvTdIBuwFBVV95cUxNNEpZWVBtRzBJdW9BcHRNV3V6UjNFYkRyNkMxaXBoSWozamV2Zy1KZGt1dWpXYjk2V0hrMF9GajhFUElzaU5nTWdubE96ZnlBT0pqcG8xWjlNN19sWTJ6VlNBQXg2SnVXNm9rZzlrUE0xVzBUNEd1MkRYRWtXYnlGVXliSGlLTlhDbUpQZHp4aTljWUFEOU91RmpNR2pzYmVtandqLURybFptSjNhQ01MNnlxZXhxa3NtNnh3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria",
+        "Meningitis",
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A TARDE",
+      "headlineJa": "ブラジルのエボラ出血熱の疑い例、髄膜炎とマラリアと診断 - 午後"
     },
     {
       "articleId": "gnews_c5f8eebe3ea88333",
@@ -603,7 +1277,50 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CBS News",
-      "headlineJa": "ブラジルのエボラ出血熱患者の可能性2人中1人は陰性、WHOはコンゴで一部回復を報告 - CBSニュース"
+      "headlineJa": "ブラジルのエボラ出血熱患者疑い2人中1人陰性、WHOがコンゴで一部回復報告 - CBSニュース"
+    },
+    {
+      "articleId": "gnews_769029d30604c518",
+      "headline": "O que se sabe sobre os casos suspeitos de ebola em SP e no Rio - G1",
+      "headlineTranslated": "What is known about suspected cases of Ebola in SP and Rio - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T12:26:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUkzdzVIVkFjckFXdndBVDcydnlWNTFscFFXbFVSLUtlVU1sQjd3T2gxQ3pac01kZndxQklmOFMwZlkxdFIyOHdtNWE0X1o2dXBDRjUyMXloUk5aZm9MSXpTOUFqeHpoVVp4YWNMSGNJTTl3OHJQc2sxYTQ2Qmtqb3pjMG5sSVFUdmJZVTNoMmpLSWVPcERjMU5JOXZfcnl4R0c3ZWJwdlNHYmVvQ04wME41ZmrSAcMBQVVfeXFMT1E5bEZZSjlUOTB4OE9qNU5ua1BldW05Zmc5Y3p1X3ViQU1VY29yMnlINUN6dGtkWE5aWS1iY0hOUjNBZ0NteXlObHY1dExxSUx0T1ZkYzc5dW56RWNwNC1xR1dRdUI4XzF4LXBVclN5U293a2I1cENkWVJlOTVDZzZqSWN2dktvb0UxcnFFaGtFMjdyeWk1WUR4bGVXN1hMRVdMWnJXd0ZLLTVfR3gzbm5YOTBJclJMZWM2dnl0NTV2OFlJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "SPとリオにおけるエボラ出血熱の疑いのある症例について分かっていること - G1"
+    },
+    {
+      "articleId": "gnews_bf06a50814a74c92",
+      "headline": "Paciente investigado por suspeita de Ebola testa positivo para meningite em São Paulo - Farol da Bahia",
+      "headlineTranslated": "Patient investigated for suspected Ebola tests positive for meningitis in São Paulo - Farol da Bahia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-05-31T12:20:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOek5Fbl9pNWdPR21FNVptTWdBVEF2WDNtLXZtQXdDYzNPd3d6QWNXUklTUkpoZ1NnQXlNbXhZa2dzYWtDZVdncWFxVXZIS1d1REJnZmJyY0czVnpaby0xNE9GQm1WNUE0Z0w2NVl4LTdnQVF3VHBqbXc5cGx0Y2NtZHpjZXdYdG0yWVgtQjdBUlo3dlBFaGxuMERHUkhNWUR2bmpKbHVsN0pZVVJ2dDQ2N2p5b0xrd29VdVF0c2JJaGtzdU0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia",
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Farol da Bahia",
+      "headlineJa": "サンパウロでエボラ出血熱の疑いで患者調査、髄膜炎陽性＝ファロル・ダ・バイーア"
     }
   ]
 }
