@@ -1,36 +1,94 @@
 {
-  "generated_at": "2026-06-03T04:39:56.903975+00:00",
+  "generated_at": "2026-06-03T12:42:51.824535+00:00",
   "date_range": {
-    "start": "2026-06-01T04:39:56.903975+00:00",
-    "end": "2026-06-03T04:39:56.903975+00:00"
+    "start": "2026-06-01T12:42:51.824535+00:00",
+    "end": "2026-06-03T12:42:51.824535+00:00"
   },
-  "total_articles": 51,
+  "total_articles": 46,
   "state_summary": {
     "Brasil (estado não identificado)": 21,
-    "São Paulo": 8,
-    "Mato Grosso do Sul": 2,
-    "Pará": 6,
-    "Paraíba": 2,
-    "Ceará": 10,
+    "Pará": 5,
+    "São Paulo": 7,
+    "Mato Grosso do Sul": 1,
+    "Paraíba": 1,
+    "Ceará": 8,
     "Acre": 1,
     "Piauí": 2,
-    "Bahia": 1,
-    "Maranhão": 1
+    "Bahia": 1
   },
   "disease_summary": {
-    "Yellow Fever": 9,
+    "Doença infecciosa (não especificada)": 4,
+    "Yellow Fever": 11,
+    "Measles": 15,
     "Avian Influenza": 1,
     "Influenza": 1,
-    "Dengue": 8,
     "Chikungunya": 4,
-    "Doença infecciosa (não especificada)": 4,
-    "Measles": 18,
-    "Meningitis": 5,
-    "Ebola": 7,
-    "Malaria": 2,
-    "South American Hemorrhagic Fever": 1
+    "Dengue": 6,
+    "Meningitis": 4,
+    "Ebola": 5,
+    "Malaria": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_4b65a678e2cb685e",
+      "headline": "Por que o Google quer soltar 32 milhões de mosquitos nos EUA - Fast Company Brasil",
+      "headlineTranslated": "Why Google wants to release 32 million mosquitoes in the US - Fast Company Brazil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T10:07:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0Yza1U1Ni1aOEJWenpZWXBqUHJlby1xeUlTV210Y0xmYks0MUFfelVjTmNWMnd6UmFvUHJaZE0zaUtUUW1TOFBlZ3hLMThEbHdRUm1NYWEyZVoxS2VzeTBveTdmSlVuMWRPTnpJYVlFOTJEY2JBYUIzU2U0UFB1dm5qekdVTGVYSFRoNXlHM0hhZm5zTVU2Q1ZRQ0NDSnVM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fast Company Brasil",
+      "headlineJa": "Googleが米国で3,200万匹の蚊を解放したい理由 - Fast Company Brasil"
+    },
+    {
+      "articleId": "gnews_1b7d20872d351ea1",
+      "headline": "Estado confirma 10 casos de febre amarela e alerta para vacinação - Jornal da Orla",
+      "headlineTranslated": "State confirms 10 cases of yellow fever and alerts for vaccination - Jornal da Orla",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T08:10:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVZBRlVUUWpMUDduWEx6X1MycE1CQXhWYVlmZnRUTU55Tng3U0EwalY5OFJQS1RjQjRnZk9sanp0clUtWllBYlBoNVV3X1FBWU1aV05vQjZRMlBXa3JBOXlUWnVHQmQ3RUxpdVNCWV9uei1qMXhtLXh2X3VXb2plUmlCelQwd3F0aWpFS3J2b2pvOVB3Ym1nMFhGTUNrTDByT2RsQTdn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da Orla",
+      "headlineJa": "州が黄熱病患者10人を確認、ワクチン接種を呼び掛ける - ジョルナル・ダ・オルラ"
+    },
+    {
+      "articleId": "gnews_151033f50014dc12",
+      "headline": "Copa do Mundo acende alerta para sarampo; infectologista orienta viajantes a se vacinarem antes de seguir para EUA, Canadá e México - Bacana News",
+      "headlineTranslated": "World Cup raises alert for measles; infectious disease specialist advises travelers to get vaccinated before heading to the USA, Canada and Mexico - Bacana News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T06:22:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS2hvUVgxemp6X1cwTmJGWTJTUGROazRZME9NUXlEbFlyaEExR3VyNUE0RFJ2TUlVd0J3SmpsR1NteEM3SERGYnAxU05fVVFCV3RNeFdObm8yNi1jYVNZYlRGUk1HSng0Sk5pNE1vcURLQW4yb2lzQmVIbGFIVkFmUEZ0ZWJHczRkRFY3cUR1UEZNRGJuTHBPODhBRkQtVm4zSzkyMHN5cFRCeW11NF95dGtIMTNMZDZzdGZGejFNQ0hyYWt3UFBlRXVpSG15NUx4ekRfRFItNDBTZ2FmOGZYZ1gyYUU2YTY1bFZWRw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bacana News",
+      "headlineJa": "ワールドカップでは麻疹への警戒が高まる。感染症の専門家、米国、カナダ、メキシコに向かう前にワクチン接種を受けるよう旅行者にアドバイス - Bacana News"
+    },
     {
       "articleId": "gnews_10bb7152450070a8",
       "headline": "SP confirma 10º caso de febre amarela e seis mortes - jornalcruzeiro.com.br",
@@ -93,6 +151,46 @@
       "headlineJa": "サンパウロ、2026年に黄熱病による5人目の死亡を確認 - フランスニュース"
     },
     {
+      "articleId": "gnews_d9de03dded4a61e3",
+      "headline": "Estado de São Paulo confirma quinta morte por febre amarela no ano - Blog do Marcos Dantas",
+      "headlineTranslated": "State of São Paulo confirms fifth death from yellow fever in the year - Marcos Dantas' Blog",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T22:33:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0JZQVpEUzRsVVMtYVhrNGNZamE5WW1CdjVaR2pZMUxtaGJBTm1RbVVzeHhsSTN3RWtGQWFrWjFLdTlNZVVRS0ZZSnRkajQ4R3ZJeTVrLVl1U2dOdHRzS3NrYjdDRUNsb3NwOHBJV21KUjU0VEY2cFI2aEZJQjIzWk9OZ0NTSHhXTmZ5alJEWXRSdGtEaFpn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Blog do Marcos Dantas",
+      "headlineJa": "サンパウロ州、今年5人目の黄熱病による死亡を確認 - マルコス・ダンタスのブログ"
+    },
+    {
+      "articleId": "gnews_cc93fa8728c784c9",
+      "headline": "SP registra seis mortes por febre amarela em 2026; nenhuma vítima era vacinada - Rádio Itatiaia",
+      "headlineTranslated": "SP records six deaths from yellow fever in 2026; none of the victims were vaccinated - Rádio Itatiaia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-02T21:30:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGt2Zzk4aGh5X3JHY2lRRnJIelZtN0dJOERqNENTNTVWUFlYMmJaVnFUS1F5dEg3VGlCa1NBRVBGNVpMMzVQRHgyQmhMTElxYjMtM0NKYXdkSEUyOWdqOUdNeE5IUy1SOG10bkFESWtXZFNFMmdGUzlvZC16eGZpQWhlNHhaOXRfLXFPWXhtUy1tb3UyX0c5cVhuaElsYzJoTDNKc1hrVjJ6NWhoekNDNDdB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia",
+      "headlineJa": "SPは2026年に黄熱病による6人の死亡を記録している。犠牲者の誰もワクチン接種を受けていなかった - Radio Itatiaia"
+    },
+    {
       "articleId": "gnews_49f35733d0199c51",
       "headline": "São Paulo registra quinta morte por febre amarela em 2026 - noticiasdoplanalto.com.br",
       "headlineTranslated": "São Paulo records fifth death from yellow fever in 2026 - noticiasdoplanalto.com.br",
@@ -111,46 +209,6 @@
       "dataSource": "Google News",
       "sourceName": "noticiasdoplanalto.com.br",
       "headlineJa": "サンパウロ、2026年に黄熱病による5人目の死亡者を記録 - noticiasdoplanalto.com.br"
-    },
-    {
-      "articleId": "gnews_fa8845d0b4a9c80a",
-      "headline": "Estado de São Paulo confirma quinta morte por febre amarela no ano - Acessa.com",
-      "headlineTranslated": "State of São Paulo confirms fifth death from yellow fever in the year - Acessa.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T20:29:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazU5U2wxaFNabkduTTg4THB1T0hKTFc0b3hnd2U4R2NzYXVLcmRxTFNiQWgtTl9mX05wSlVoamJMclM1aThvX3I3UjNPNFUyT3U5Y2JDVktXdGRtR3dqUVF4c3ZfR0xRSHFWUHhHTHVHWHM4ekIzRzhCNzAzX29Remg0SFEtN0M3OUhGckxiMUVCZzQ3aHB2dTQyRzd5TGpJRUwzM0ttT2hiR2VqQ3FFcUhHSkhZSWhvN1HSAb8BQVVfeXFMTUQ1WC1xTk5qSnFqREg0WEZzek81QjZHRExveEF6RlcxY3VlZG14OGFXNTNqWmZDeXVVQ3FZMlMwVmJZN3N6cmFLYXV1LS1FYVY2dTJSS05CMWpxVEVDRWNtWVJmdGV2bklnWTVWeHB5Y0hmQjU1Q0ozNWVScG9NRUh3dURmZXM2UFZqeUJtaHBRUENKekFHaXpBaTI2bjlYU2U4Tnp6Y25QdXJmYm52RzZNSE1wSHJia2V5MmR6QUk?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Acessa.com",
-      "headlineJa": "サンパウロ州、黄熱病による今年5人目の死亡を確認 - Acessa.com"
-    },
-    {
-      "articleId": "gnews_f1761691aa4415d3",
-      "headline": "Dengue em MS: casos caem 60% e sem mortes em 2026 - Campo Grande News",
-      "headlineTranslated": "Dengue in MS: cases fall by 60% and no deaths in 2026 - Campo Grande News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T18:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2dsVFl3akVrWVlIRDNXQXlheU9XTGlCMlZtQnJFRUR2SU5QY1oyLVJ3d05nT0RCcDY0LVRBTUZtaXNReVR4RFlLOVc4VGpFN1luOEkzNkZnWndTMF9MREZ6eTVBSzF0Y09GdlA5Qjl4QlhVME9Cd1h0VlAyTlRGX1RCTjRwNy04UWJKYzBwSkJsbXVEUWd3WUJZLUF1RzVxN0d4TTBGQ3JWVVNGM3JaaGljcTLSAbQBQVVfeXFMTjd6c29VY0tNbi1zUF9HcFFVSmlFejFweFdVWGxsYm9MOTQ5cnJRU2NwN2FOWXZmTTRkVEd1XzlIOVBUQU1hSHI1N2FYSWNYSVAyV2RGOWdSWVlVZTFHUHVkRlNoY2J4U01XbndjbXFhRHNBY2NqZnoyZzkwREFNdl82MkRvRzhMbVlnUC0xcU5jc0lZOFNUWkpGdVNfNWUtNTNaRWd6Mk9HdzRMQjRqUkE1TXNZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Campo Grande News",
-      "headlineJa": "MSのデング熱：2026年には感染者は60％減、死者ゼロ - カンポ・グランデ・ニュース"
     },
     {
       "articleId": "gnews_e99ad0744de239e5",
@@ -576,46 +634,6 @@
       "headlineJa": "フォルタレザ空港に麻疹予防接種ポイントが設置 - OpiniãoCE"
     },
     {
-      "articleId": "gnews_8a92480a5f8e90dd",
-      "headline": "Vacinação contra sarampo no Aeroporto de Fortaleza segue até quarta - Portal Ceará",
-      "headlineTranslated": "Measles vaccination at Fortaleza Airport continues until Wednesday - Portal Ceará",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T22:31:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGl3UE40RnFsdkZzTFNtc29uZXpmQXpDcGxzWGtjbFZXR19NRVczZjFlWFh0akxWV25rc0NwY2RRVU5CNHRWSXJaUE12VDV4eTBER3ptQWFDMzBUSm16TnNqM0MwdUFVMTJJdXZJWVZCcENMUDl5bGNCa3V5YlptQWZBT1VpVHhUVk8yNnRlY09FeVBVSW1IUElQdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Ceará",
-      "headlineJa": "フォルタレザ空港における麻疹ワクチン接種は水曜日まで継続 - Portal Ceará"
-    },
-    {
-      "articleId": "gnews_664f46f077406e2b",
-      "headline": "Vacina contra dengue do Butantan não é indicada para alguns grupos - Francês News",
-      "headlineTranslated": "Butantan's dengue vaccine is not recommended for some groups - French News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T22:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlFmek5iX3FvQ2wxNXJfUWZSU01ONHBYa2ZoeTE3SzJaN3daNkJtZmduS2huRmN2ZGhJTWNpQVFNeG15VDZ4SVlXZlZ4YUVlcUdXT0JHQm43N2pGSVB4bHZXalBwM1ZpTGJCUHNobms1NHJTcWZkR0MyMVgyX1p2R3lsZ2tnQ2dTb2tlRHFrTjZCMUZMeDR6dGxHcHFuTEZVRV9JSVlIdDJhM2Nxcjh2VmVhck91QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "ブタンタンのデング熱ワクチンは一部のグループには推奨されていない - フランスのニュース"
-    },
-    {
       "articleId": "gnews_863a74615d20b362",
       "headline": "Agente atribui queda nas visitas contra dengue a impacto do ponto eletrônico e nega redução deliberada do trabalho - Jornal Opção",
       "headlineTranslated": "Agent attributes drop in dengue visits to impact of electronic point and denies deliberate reduction in work - Jornal Opção",
@@ -756,6 +774,26 @@
       "headlineJa": "フォルタレザ空港での麻疹予防接種は水曜日まで続く。 Vapt Vupt がサービスを拡大 - セアラ州政府"
     },
     {
+      "articleId": "gnews_16b7389ccc2267de",
+      "headline": "Brazilian Health Authorities Investigate Possible Ebola Infections In Two Cities - RTTNews",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-01T18:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFpIZElGRFBySThIbmFjSWpXbTZvd1gxTndiZTF6M2ZqVFFTcFNWTVVrdUY1MXRHTTNqMVJsbHNrcE4waV9oM0M0Wk9WMlJBZVVHQ25iUVNzX0Y5ZEhaeW9fa0lUTzBrVy1Tc0lTTnRYNk9xZmdJZGJpenZlYy15SDQzMTN6WUE4M2RvTXREZjFSVHpqVFc0YWVmX3hiUDdfcE0xaXBoTEM0anJtSHBiRGlEWHlrZzU3SWd5cF9n?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RTTNews",
+      "headlineJa": "ブラジル保健当局、2つの都市でエボラ出血熱感染の可能性を調査 - RTTNews"
+    },
+    {
       "articleId": "gnews_b993e2164dbb2f35",
       "headline": "Teresina registrou mais de 1.800 casos de dengue em 2026 | 28 05 2026 - Portal O Dia",
       "headlineTranslated": "Teresina recorded more than 1,800 cases of dengue in 2026 | 28 05 2026 - Portal O Dia",
@@ -867,8 +905,8 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Meningitis",
-        "Malaria",
-        "Ebola"
+        "Ebola",
+        "Malaria"
       ],
       "locations": [],
       "states": [
@@ -917,151 +955,6 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "ブラジル、2026年ワールドカップ前夜に麻疹再流行を懸念 - G1"
-    },
-    {
-      "articleId": "gnews_b7330c90c5b69c6f",
-      "headline": "O sarampo pode voltar a circular no Brasil? - DW.com",
-      "headlineTranslated": "Can measles circulate again in Brazil? - DW.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T11:28:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnNzSk5naWY4MHktSXIxQ2pIQlhrQ1ROMktmMlZ0cDYwNGtKQkhPMVh6RE41dkRHc19yYzF4NmdOZFRjZnBBY19nN2ZyZ1p5bGJoUTJ0YjRldTlEeFJScHVWMm5JV3JNWnV4THZDVVNEVV9SWmhpb3RfT0VQZ3lEMXBtcnPSAYQBQVVfeXFMT2hfSk1xY0ppQmNpY2hPTktYRWs5enNPamFFLTJSYXJfOUVPbElzbTRObERaSnRJNzVyNEw1a05GQWVYOVpERkJTdE5HOEp2ek40MzQwQmxWdUloUjdnYVkwQmFKTXhaTllFX3oyZ2RNWEFXMXNuV0d5RmRBNWJtWGxHazdT?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "DW.com",
-      "headlineJa": "ブラジルで麻疹が再び流行する可能性はあるのでしょうか? - DW.com"
-    },
-    {
-      "articleId": "gnews_8542be67045e6685",
-      "headline": "Homem condenado por matar a esposa é encontrado em surto pelas ruas de São Luís; veja vídeo - terramtdigital.com.br",
-      "headlineTranslated": "Man convicted of killing his wife is found in an outbreak on the streets of São Luís; watch video - terramtdigital.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T11:12:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkdCOTVRRVBZS3pod2pYY2Y1RkFpQTFFbksyVlZpNkplYmFLcnlTeFVtTi02UzVrNDB6NWdGUFBhc2lOUkNESlZWSTJvbk1YcU5QdWdKTzRBTlhEcTFmWG0tdXdzSzR1eHRYdXdGeDVNVFFoSGVfNFR1SjVDUDBaNkpiOVpxZ1c5aHNFTXo3TU1wejdMOWZ2SGpWZWE5b29ZaVA2WjRZX2JVQUxSSHFJS3Fqd3hwb2wyMHN3TXVaY3lYZG9jcVBHOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Maranhão"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "terramtdigital.com.br",
-      "headlineJa": "サンルイスの路上で妻殺害の罪で有罪判決を受けた男性が集団感染で発見される。ビデオを見る - terramtdigital.com.br"
-    },
-    {
-      "articleId": "gnews_15b83095c66cc36f",
-      "headline": "Sarampo: reforçada vacinação em João Pessoa antes das férias e festas juninas - ParaibaOnline",
-      "headlineTranslated": "Measles: reinforced vaccination in João Pessoa before the holidays and June festivities - ParaibaOnline",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T10:40:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbHpodXRxand2cFJWQ1FmQTFZSDRQTHZmdUNuaW1zOVMxZmptZkNnOVBockx5TS16bnRpNjhDaS01T3hnOWdkNXRhNnBYVy15aXRZbVJIeUdndFJDWlZIUDRhdUlOVE5JR0E4TWtfVldPTlVLS1JpYzFRRjhuUkhEYUg5OXA2QndxYlRLNmVNSjVqTnV4bnNVdHU1bVBXRnVrZUl4dE9sOExqOXVvSFJFQmMxMmJVekFJY1BFTU85Mk9hVk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles",
-        "South American Hemorrhagic Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ParaibaOnline",
-      "headlineJa": "麻疹：ジョアンペソアでは休暇と6月のお祭りの前に予防接種を強化 - ParaibaOnline"
-    },
-    {
-      "articleId": "gnews_86a3263f07f22f4b",
-      "headline": "Ebola é descartado em paciente vindo de Uganda; exame confirma malária, informa Fiocruz - O Democrata",
-      "headlineTranslated": "Ebola is ruled out in a patient arriving from Uganda; test confirms malaria, reports Fiocruz - O Democrat",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T10:40:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9WQkVnX3lPYmNadUJ2VUFiZkNZZzF5Uk5FMFh6OGRpcGlhakRSdzlKSWpyamVGcnR0NFpiRlItY0tyRjVBT2VPakdQNUV3WGVPOFhnRmhYSnBmVlBEVFVtNUZjMUdEQTZLWGJuMm5OWFhraEVEN1FyQ0hNWXlBM1pRZmhpa0pwb0F6ak02ckZkQU9rcFBNVWUwMG9rblZQM19Xc2llOExTQmlndzN4OEtGTjQySk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria",
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Democrata",
-      "headlineJa": "ウガンダから到着した患者ではエボラ出血熱は除外された。検査でマラリアが確認されたとフィオクルス氏が報告 - 民主党"
-    },
-    {
-      "articleId": "gnews_7a79cb36f33c983a",
-      "headline": "Aeroporto de Fortaleza terá reforço na vacinação contra sarampo durante a Copa - URB News",
-      "headlineTranslated": "Fortaleza Airport will have increased measles vaccination during the World Cup - URB News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T10:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFZVNklERHBiY0VXRjl0ZlduUVdVaEdFTm1OZUU4VHhJZnBpNGdlSEgxVHd3Q1ptSWlxalVzSVNfMzUwRGdVWTdhNG9WLU5BaktER1RHbG5MS0RlNU9vZ3E0LW13NF9udHc1X0tUOWNRLXVmcEFZUFRWUDhNbjRDdERrbkYza01fLUg1bjU4MFkwTjQ0VUZqS2UxZXlhWkRCTmtnT1hVN3dWTE1RUEdOdDVTQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "URB News",
-      "headlineJa": "フォルタレザ空港、ワールドカップ期間中はしかの予防接種を強化 - URBニュース"
-    },
-    {
-      "articleId": "gnews_ede08ffe8abb7832",
-      "headline": "Paciente com suspeita de Ebola testa positivo para meningite em São Paulo - Diário da Guanabara",
-      "headlineTranslated": "Patient suspected of having Ebola tests positive for meningitis in São Paulo - Diário da Guanabara",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T09:53:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNalV3MVVfa2lyYmlIRWtWOUVMTHlVcDRWbHcwUVJCNXpiZTRZeWV1SjZ6ekU0WFhpSEN1d1hRd19mcVpPR3ZhQnNXY3BmUXVhTlo3RlQtaWg3aFpZNW5xTVdzR1ZTU2M2c0FvR2N3ODltZXJoaUdPSEdJMFdhWmJSSmRGTXRhcTJ2MHp0VXdBT1hfWUhlTUp6RUprdHk1Ti12WE9DU3FQaGNFZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis",
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário da Guanabara",
-      "headlineJa": "サンパウロでエボラ出血熱の疑いのある患者、髄膜炎検査で陽性反応 - ディアリオ・ダ・グアナバラ"
-    },
-    {
-      "articleId": "gnews_a89eadc29979e393",
-      "headline": "One of two patients with Ebola-like symptoms tests negative in Brazil - East Coast Radio",
-      "headlineTranslated": "One of two patients with Ebola-like symptoms tested negative in Brazil - East Coast Radio",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-01T07:23:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHM5a3VTaDcybFM3ZG1XN3ZOVmlOeGtOMUExeXFXMjZCR2YtZlpXMlJqYXJFdFpvUzVOM0FkcThpRlFrVTFXdF9nX2RiV0tXU05WRXFpUEdSeDNOM3F5NDhuODhuWmY5cGNoTU1lUDdWUVJjc2thSzhEeFktaHJaMG16dVdFWHpsNUxLbw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "East Coast Radio",
-      "headlineJa": "ブラジルでエボラ出血熱のような症状を示した患者2人のうち1人は陰性と診断された - East Coast Radio"
     }
   ]
 }
