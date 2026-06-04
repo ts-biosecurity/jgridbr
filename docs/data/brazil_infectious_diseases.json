@@ -1,34 +1,54 @@
 {
-  "generated_at": "2026-06-04T04:24:32.354586+00:00",
+  "generated_at": "2026-06-04T11:16:37.431840+00:00",
   "date_range": {
-    "start": "2026-06-02T04:24:32.354586+00:00",
-    "end": "2026-06-04T04:24:32.354586+00:00"
+    "start": "2026-06-02T11:16:37.431840+00:00",
+    "end": "2026-06-04T11:16:37.431840+00:00"
   },
-  "total_articles": 30,
+  "total_articles": 31,
   "state_summary": {
+    "Pará": 5,
     "Bahia": 1,
+    "São Paulo": 5,
     "Brasil (estado não identificado)": 13,
     "Alagoas": 2,
-    "Pará": 4,
     "Goiás": 1,
     "Espírito Santo": 1,
-    "São Paulo": 5,
     "Mato Grosso do Sul": 1,
     "Paraíba": 1,
     "Ceará": 2
   },
   "disease_summary": {
-    "Meningitis": 2,
+    "Meningitis": 3,
+    "Doença infecciosa (não especificada)": 4,
     "Dengue": 2,
-    "Doença infecciosa (não especificada)": 3,
     "Ebola": 2,
     "Influenza": 2,
     "Measles": 7,
-    "Yellow Fever": 9,
+    "Yellow Fever": 8,
     "Avian Influenza": 1,
     "Chikungunya": 4
   },
   "articles": [
+    {
+      "articleId": "gnews_7c862cde1ca0bb13",
+      "headline": "Vacina no SUS amplia de 3% para 77% a proteção contra doenças pneumocócicas, incluindo pneumonia e meningite, em crianças e grupos de risco no Brasil - Blog do Alberto Alves",
+      "headlineTranslated": "SUS vaccine increases protection against pneumococcal diseases, including pneumonia and meningitis, in children and risk groups in Brazil from 3% to 77% - Alberto Alves' Blog",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T07:00:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUm9iejdOa3BmbndXQTdSNDZFUzhXUlZiNlNuekdsWkVSU1pYTzhGclpTYnc3cHNzOHlmUlZ3Z3dNVVBzaWJYc3hJOWNBYjE3Vl9fRGo0aGpIMExhdVZnVU11Sk9yaXNJRTBYQ1hnTnphTXBpM1U4NjBSazdrRTBJYjFxQXEyWnZTRHFuQ1VUMzRnN0lvekl2eGx0aTV4OUVWQ25BbUxPcFo4eFF3V3lFQkJBajAyMGhxOXJMRktYRV9Ia0Z5SnR1RE5DbFE3V0pFZ3BHcDRJa20zeHZQcldZVWVJQmVRbmVfem1HaGdiY1NjWmJnNHlFcUl3Q015MVNBM1VGbUNZNWg4cTJ3VjFZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Blog do Alberto Alves",
+      "headlineJa": "SUS ワクチンにより、ブラジルの小児およびリスクグループにおける肺炎や髄膜炎を含む肺炎球菌疾患に対する防御力が 3% から 77% に増加 - アルベルト アルベスのブログ"
+    },
     {
       "articleId": "gnews_4e7310cf5d3f8098",
       "headline": "SUS começa a aplicar neste mês vacina que protege crianças contra pneumonia e meningite - Alô Alô Bahia",
@@ -48,6 +68,26 @@
       "dataSource": "Google News",
       "sourceName": "Alô Alô Bahia",
       "headlineJa": "SUSは今月、子供たちを肺炎と髄膜炎から守るワクチンの接種を開始 - アロ・アロ・バイア"
+    },
+    {
+      "articleId": "gnews_a7a71f44da3bc445",
+      "headline": "Vacinação com a Pneumo 20 pelo SUS começa em duas semanas, diz Padilha - BOM DIA GUARULHOS",
+      "headlineTranslated": "Vaccination with Pneumo 20 through SUS starts in two weeks, says Padilha - GOOD MORNING GUARULHOS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-04T00:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmdBZFRuaWlSVEpWWURmb1BTQnZyb2pEc2h2T1hnVEJULTJaY05kUmd6Ri16eEhCMDJDcWdFdUVLeS1pcjZISFl6T1NBXy1McHA4cVBWQUlOVUVWckVTbjhwSVdKeHpvQUhDT2daN1FLT3BMS3BRRzNObjN0VlZxT21qV1lpMlI1blR2VkUyQldPYVEzS1lTcFI5TzNleXdJTmpDeUNySzVHeWdCVWNsZmhKeUw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BOM DIA GUARULHOS",
+      "headlineJa": "SUSによるニューモ20のワクチン接種は2週間以内に始まるとパジーリャ氏が語る - おはようグアルーリョス"
     },
     {
       "articleId": "gnews_711647c1e0ebc7d8",
@@ -83,8 +123,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Repórter Maceió",
@@ -252,6 +292,26 @@
       "headlineJa": "ワールドカップでは麻疹への警戒が高まる。感染症の専門家、米国、カナダ、メキシコに向かう前にワクチン接種を受けるよう旅行者にアドバイス - Bacana News"
     },
     {
+      "articleId": "gnews_855e20c360bca949",
+      "headline": "Sarampo volta a preocupar com mais de 500 casos no Japão - Portal Mie",
+      "headlineTranslated": "Measles is once again a concern with more than 500 cases in Japan - Portal Mie",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-03T01:23:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdV9GV3BCTFlMY3JYQTFiRk9sUjFfSXRpMzVNRUpkSzJ2NkhzUWNEUTlaOE1vZzdfYjd1enRQYnduSm01Q0VJbVhUcjRBTWN0ajJBTjlXV1BjeWRKRTM4YVZZWWdadGJaU05ETjdEVk1Yc1I2ZVFWZkdTWFBSenhLR0dSMEhuTnZ3blFrRU9ZOWdteEdMQmpQQ3RNVzVkcVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Mie",
+      "headlineJa": "麻疹、国内で500人以上が感染、再び懸念 - ポータルみえ"
+    },
+    {
       "articleId": "gnews_10bb7152450070a8",
       "headline": "SP confirma 10º caso de febre amarela e seis mortes - jornalcruzeiro.com.br",
       "headlineTranslated": "SP confirms 10th case of yellow fever and six deaths - Jornalcruzeiro.com.br",
@@ -281,8 +341,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGtTWFg3OENPSFZGWUM5d3FURnRHTDl0UkxoQlVwcjlzcFRqSUFfQ2dGZFJPS1RFWlNuN3BUanNOUE9fNi1FdnVEaHlYU3VvcWI0MWVoTEFvNXQzc0FVaWI5R1JnQ1RIZ1ZwWnROeTNXZzF3MmJzUGYwakFlRjRZYlJKUGg1U01pb0ZxZExTdzBsaG9nWGRJWUdaRDl5YkFkNE1vVWZRUWZKMDNMdE43enYzMDRFcmV1V0tXeDNkeVAzQTJP?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -313,26 +373,6 @@
       "headlineJa": "サンパウロ、2026年に黄熱病による5人目の死亡を確認 - フランスニュース"
     },
     {
-      "articleId": "gnews_d9de03dded4a61e3",
-      "headline": "Estado de São Paulo confirma quinta morte por febre amarela no ano - Blog do Marcos Dantas",
-      "headlineTranslated": "State of São Paulo confirms fifth death from yellow fever in the year - Marcos Dantas' Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T22:33:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0JZQVpEUzRsVVMtYVhrNGNZamE5WW1CdjVaR2pZMUxtaGJBTm1RbVVzeHhsSTN3RWtGQWFrWjFLdTlNZVVRS0ZZSnRkajQ4R3ZJeTVrLVl1U2dOdHRzS3NrYjdDRUNsb3NwOHBJV21KUjU0VEY2cFI2aEZJQjIzWk9OZ0NTSHhXTmZ5alJEWXRSdGtEaFpn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Marcos Dantas",
-      "headlineJa": "サンパウロ州、今年5人目の黄熱病による死亡を確認 - マルコス・ダンタスのブログ"
-    },
-    {
       "articleId": "gnews_cc93fa8728c784c9",
       "headline": "SP registra seis mortes por febre amarela em 2026; nenhuma vítima era vacinada - Rádio Itatiaia",
       "headlineTranslated": "SP records six deaths from yellow fever in 2026; none of the victims were vaccinated - Rádio Itatiaia",
@@ -353,13 +393,13 @@
       "headlineJa": "SPは2026年に黄熱病による6人の死亡を記録している。犠牲者の誰もワクチン接種を受けていなかった - Radio Itatiaia"
     },
     {
-      "articleId": "gnews_49f35733d0199c51",
-      "headline": "São Paulo registra quinta morte por febre amarela em 2026 - noticiasdoplanalto.com.br",
-      "headlineTranslated": "São Paulo records fifth death from yellow fever in 2026 - noticiasdoplanalto.com.br",
+      "articleId": "gnews_eb9f0173a0056add",
+      "headline": "Estado de São Paulo confirma quinta morte por febre amarela no ano - Atividade News",
+      "headlineTranslated": "State of São Paulo confirms fifth death from yellow fever in the year - Atividade News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T21:01:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaV9GeXZFQjhrRnVKYy1xd0JFSHVEbXNXckkwcTRaLXJPczlIamwxMWJDaWVmc2ducDJmaTBrWDR0T3FjY2J6ckdfZmI4cjZRVnYzYnpvYV9HM3VZaW9lZEN1cEdtTG1ldFYzb0RSeEN0UTN1QThPRXRJUml2SEJOa0gtLUkyNnBqYk91alZQYUYxaXJGc3FB?oc=5",
+      "publishedTimestamp": "2026-06-02T20:07:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSTZiYXlrcXVENDBXeE1pd0pKRUl6UHozTDNsdzVOOWhNSGxtTE5HMFB1SFpLMzlMeVpTSUE2UU1pZVc3UGw2UnZkNTZZWk5wZTFsbTAzcWNMZENkMjhfcFVQNno2Mzc5X184SmNlOFJBVUM0aVFKdjJRQmJkV093eGVVYTBnVXpYT1IzMUNaczVQSEhtNnVwZE5WYW8?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Yellow Fever"
@@ -369,8 +409,8 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br",
-      "headlineJa": "サンパウロ、2026年に黄熱病による5人目の死亡者を記録 - noticiasdoplanalto.com.br"
+      "sourceName": "Atividade News",
+      "headlineJa": "サンパウロ州、今年5人目の黄熱病による死亡を確認 - Ativadade News"
     },
     {
       "articleId": "gnews_e99ad0744de239e5",
@@ -430,7 +470,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Terra",
-      "headlineJa": "サンパウロでは今年10人目の黄熱病患者が確認された。 6人が死亡 - 地球"
+      "headlineJa": "サンパウロでは今年10人目の黄熱病患者が確認された。 6人死亡 - 地球"
     },
     {
       "articleId": "gnews_777d4935cb585f01",
@@ -530,7 +570,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Correio",
-      "headlineJa": "MPPB、ジョアンペソア都市圏で不定期に運営されていた施設から50人以上の高齢者を救出 - Portal Correio"
+      "headlineJa": "MPPB、ジョアンペソア都市圏で不規則に運営されていた施設から50人以上の高齢者を救出 - Portal Correio"
     },
     {
       "articleId": "gnews_64d4d709ddde0ebc",
@@ -611,26 +651,6 @@
       "dataSource": "Google News",
       "sourceName": "OpiniãoCE",
       "headlineJa": "フォルタレザ空港での麻疹予防接種は今週水曜日まで続く(3) - OpiniãoCE"
-    },
-    {
-      "articleId": "gnews_557e09e107a59480",
-      "headline": "Copa põe Brasil de novo na mira do sarampo - O TEMPO",
-      "headlineTranslated": "World Cup puts Brazil back in the spotlight for measles - O TEMPO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-02T10:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkFuYkF6NUJIYVlsbXRSWVUtM0o4dmlPVWtIRkxtY0RjYV9lOXFTWG95VmRKb1VHQzNZYk5VZHVtT3VXZzB0TnBrcU4tQ0NVQ1ctb2dnMUlXYzBHTjZxd3ZTNWh4YVVQNXhFSnNnUzVvMW51SHI0M2NNSE4wcHQzX09mbWRwdXBzVVpPZ2p6NlVud0lqZHZ3THcyMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O TEMPO",
-      "headlineJa": "ワールドカップでブラジルが麻疹で再び脚光を浴びる - O TEMPO"
     }
   ]
 }
