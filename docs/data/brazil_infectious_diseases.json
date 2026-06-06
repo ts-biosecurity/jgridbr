@@ -1,32 +1,53 @@
 {
-  "generated_at": "2026-06-06T03:52:11.671006+00:00",
+  "generated_at": "2026-06-06T10:04:37.961291+00:00",
   "date_range": {
-    "start": "2026-06-04T03:52:11.671006+00:00",
-    "end": "2026-06-06T03:52:11.671006+00:00"
+    "start": "2026-06-04T10:04:37.961291+00:00",
+    "end": "2026-06-06T10:04:37.961291+00:00"
   },
-  "total_articles": 23,
+  "total_articles": 22,
   "state_summary": {
+    "Pará": 7,
+    "Mato Grosso": 1,
     "Brasil (estado não identificado)": 10,
-    "Pará": 5,
+    "Bahia": 1,
     "Rio Grande do Norte": 1,
-    "Amazonas": 1,
     "Mato Grosso do Sul": 2,
+    "Amazonas": 1,
     "Goiás": 1,
     "Amapá": 1,
     "Alagoas": 1,
-    "Acre": 1,
-    "Santa Catarina": 1,
-    "Piauí": 1
+    "Acre": 1
   },
   "disease_summary": {
     "Meningitis": 10,
+    "Ebola": 2,
     "Doença infecciosa (não especificada)": 4,
-    "Dengue": 6,
-    "Ebola": 1,
+    "Dengue": 4,
     "Influenza": 1,
     "Measles": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_7589af09ae958387",
+      "headline": "Unimed Cuiabá alerta para prevenção da meningite no Junho Lilás - brasilemfolhas.com.br",
+      "headlineTranslated": "Unimed Cuiabá warns about meningitis prevention in June Lilás - brasilemfolhas.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T04:30:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWoxRkpYa1ZXbGZQdEVGZlJvVEFETlpHc3FBT1B6N2FJbi1EaHMyc3JXN05jQlNMQ0NYRWhqX3J3R2xyS0VZNU9UdnUzSVBjeExSRzdWLWJlVTd0clhMLUVsV09XZEJIaXBsNWh1ekR5d29XblVqNWhXeWhhSk9BZkUyUHFFSWtuWUJsWlpSXy1RclZXQVhzMkRzblRmRHQtUlBVZzNZaF8ydw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "brasilemfolhas.com.br",
+      "headlineJa": "ウニメッド・クイアバ、6月に髄膜炎予防について警告 リラス - brasilemfolhas.com.br"
+    },
     {
       "articleId": "gnews_ba19a0d0a6084001",
       "headline": "Meningite: Brasil registra aumento de casos em 2026. - diário do estado",
@@ -48,6 +69,27 @@
       "headlineJa": "髄膜炎：ブラジルは2026年に感染者数増加を記録 - 州日記"
     },
     {
+      "articleId": "gnews_d7fa89d7e03e2b1e",
+      "headline": "OMS e África CDC lançam plano de US$ 518 milhões para conter surto de Ebola - Bahia.Ba",
+      "headlineTranslated": "WHO and Africa CDC launch US$518 million plan to contain Ebola outbreak - Bahia.Ba",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-05T20:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM3Y2VzZCeXRkZms3b3NsUDZyTGhDWVdBOFJPbHRSWC1HQ05VTU1wNTJ2UkpJZnhVamxMWU1aUWFETUpwSHhud2NoaWVPYm1hTnF5bWtEWlI3ekdFWGZTT3ZDeVFtZVNoUDRBblkwVkZhWjlXUDc0eG1hc1d1R0ppXzh1dzh3cWZiZFlaNmhvWFpSRktybVhyTHhEM1ctRVFrcUN1Ni1PR3UxRlFzX3RSZk8tRnNkaEZxcWFrU0J3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia.Ba",
+      "headlineJa": "WHOとアフリカCDC、エボラ流行阻止に5億1,800万米ドルの計画を開始 - Bahia.Ba"
+    },
+    {
       "articleId": "gnews_639b38581e9d8556",
       "headline": "SUS incorpora vacina mais avançada contra pneumonia e meningite para crianças - Portal 98 FM Natal",
       "headlineTranslated": "SUS incorporates more advanced vaccine against pneumonia and meningitis for children - Portal 98 FM Natal",
@@ -61,12 +103,33 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Rio Grande do Norte"
+        "Rio Grande do Norte",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal 98 FM Natal",
       "headlineJa": "SUS、小児向け肺炎および髄膜炎に対するより先進的なワクチンを導入 - Portal 98 FM Natal"
+    },
+    {
+      "articleId": "gnews_3969cb07fb566246",
+      "headline": "Conab distribui 2 mil cestas de alimentos para famílias indígenas de Dourados - Dourados Informa",
+      "headlineTranslated": "Conab distributes 2 thousand food baskets to indigenous families in Dourados - Dourados Informa",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-05T15:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHJBYUJueEpkMFUzNWVVYlk1VGVTTjhxb0ZCSC1aaHRqdEZfRDVIMC1NX1QtSmdKZ3YwUkF4YUg3Mkxxak5LQ2RPRGxOMDR6M3RocV9VMEN0VEhZWVVKUGNCdWFuWFhOSVB4UDU4RnVWLWc1VlFuRTZnR19YRmFrU2tPTVNPYVhqZy1oN0NRY3ktaXpMQ0RMTTkxTVJITm9ZRTdFbXktTWpjMlR2cVJZR3BFVmFaTE5DMG5SWnptZUFnNFJ4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Dourados Informa",
+      "headlineJa": "コナブ、ドウラドスの先住民族の家族に2,000個の食料バスケットを配布 - Dourados Informa"
     },
     {
       "articleId": "gnews_150db3611039ee00",
@@ -82,32 +145,12 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "amazonas atual",
-      "headlineJa": "小児向けの肺炎および髄膜炎に対するワクチン接種がSUS（現在のアマゾナス州）で受けられるようになりました。"
-    },
-    {
-      "articleId": "gnews_4a3f6d1366fb42af",
-      "headline": "Conab distribui 2 mil cestas de alimentos a famílias indígenas de Dourados - Dourados News",
-      "headlineTranslated": "Conab distributes 2 thousand food baskets to indigenous families in Dourados - Dourados News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-05T13:54:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0VBbGxWWFI4MUROZWczUHZONlNMclVsWXl5Q2dQcUQ4YmhBUXB0UzA0UXpiZTdSYmJyQTBNb25sWkUyTUR6Tjk0WVJ2a2IyNXkzZ185S00ybVhyX2s2SWduZktZWUNiTXgwQjYtUkQtWjBJTFB4NjIzZ3NLWTJwTElpRjR2U3VfVlhwajlvN0daMEVEb1RieUgyVkZuX2h1Q1ZPS0Zkb2I4YXVOYV9mSDBtMXNjUdIBugFBVV95cUxONG5Vd1hYYmR0aHJiNEFpVmI4aDE0WlNiNzI0dlhiMmhQMThoVjVUTkY5Z0J2OWdtemV0SWdGMHN6NW1FWGVLX0tpaWNVY0tyN0ZrLVFTRXZNbUp4OVJOZnZBN1pkRDEwR01BZ24zRjNhNE5tVVhPb1pGc2NZcWljRzZLZ0xUVE5YNXBwRUctNFVIM3J1VzVzbDI3OF9GYXUxWDJhMFdibTloSjFadTZScmprMDBpRFR3SGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Dourados News",
-      "headlineJa": "コナブ、ドウラドスの先住民族の家族に2,000個の食料バスケットを配布 - Dourados News"
+      "headlineJa": "小児向けの肺炎および髄膜炎の予防接種がSUS（現在のアマゾナス州）で受けられるようになりました"
     },
     {
       "articleId": "gnews_a9bf91e9aca63de0",
@@ -407,27 +450,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "GZH",
-      "headlineJa": "SUSは小児向けにニューモ20ワクチンを提供する予定。予防接種は肺炎と髄膜炎を防ぐ - GZH"
-    },
-    {
-      "articleId": "gnews_c7d812c399e74817",
-      "headline": "Escolas da rede estadual de Santa Catarina iniciam ações de combate a dengue - Jornal Contábil",
-      "headlineTranslated": "Schools in the Santa Catarina state network begin actions to combat dengue - Jornal Contábil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T13:20:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjdDTl9kVTR6d09yOGNQNm9mcVJWRUlneG40dXNxclZ3Rjc2eVk1UlRqeFJqTjNuQzBybUhtTTBUZHNpd1ZTYnllZTVRa0RtRGl0c2tlTmhIRXpmMDMwNWhCV0hIUVZXQVFOWDY4QXVwUVU0UkZZQnYyRGVWM09pTEhVUmZxOEFYclRqbDNjWmpOSTJJLXFhenVOQV9jeWladHIwR1Zxa3JjUmZMblhsT2xmZmE1RjhSc3lN0gG7AUFVX3lxTFAyN0NOX2RVNHp3T3I4Y1A2b2ZxUlZFSWd4bjR1c3FyVndGNzZ5WTVSVGp4UmpOM25DMHJtSG1NMFRkc2l3VlNieWVlNVFrRG1EaXRza2VOaEhFemYwMzA1aEJXSEhRVldBUU5YNjhBdXBRVTRSRllCdjJEZVYzT2lMSFVSZnE4QVhyVGpsM2Naak5JMkktcWF6dU5BX2N5aVp0cjBHVnFrcmNSZkxuWGxPbGZmYTVGOFJzeU0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Contábil",
-      "headlineJa": "サンタカタリーナ州ネットワーク内の学校がデング熱と戦うための行動を開始 - Jornal Contábil"
+      "headlineJa": "SUS は小児向けにニューモ 20 ワクチンを提供する予定です。予防接種は肺炎と髄膜炎を防ぐ - GZH"
     },
     {
       "articleId": "gnews_f06c09e4e0e33332",
@@ -448,46 +471,6 @@
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
       "headlineJa": "肺炎と髄膜炎に対する新しいワクチンが6月にSUSで利用可能になる - Ser Saúde - Diário do Nordeste"
-    },
-    {
-      "articleId": "gnews_7c862cde1ca0bb13",
-      "headline": "Vacina no SUS amplia de 3% para 77% a proteção contra doenças pneumocócicas, incluindo pneumonia e meningite, em crianças e grupos de risco no Brasil - Blog do Alberto Alves",
-      "headlineTranslated": "SUS vaccine increases protection against pneumococcal diseases, including pneumonia and meningitis, in children and risk groups in Brazil from 3% to 77% - Alberto Alves' Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T07:00:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUm9iejdOa3BmbndXQTdSNDZFUzhXUlZiNlNuekdsWkVSU1pYTzhGclpTYnc3cHNzOHlmUlZ3Z3dNVVBzaWJYc3hJOWNBYjE3Vl9fRGo0aGpIMExhdVZnVU11Sk9yaXNJRTBYQ1hnTnphTXBpM1U4NjBSazdrRTBJYjFxQXEyWnZTRHFuQ1VUMzRnN0lvekl2eGx0aTV4OUVWQ25BbUxPcFo4eFF3V3lFQkJBajAyMGhxOXJMRktYRV9Ia0Z5SnR1RE5DbFE3V0pFZ3BHcDRJa20zeHZQcldZVWVJQmVRbmVfem1HaGdiY1NjWmJnNHlFcUl3Q015MVNBM1VGbUNZNWg4cTJ3VjFZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Alberto Alves",
-      "headlineJa": "SUS ワクチンにより、ブラジルの小児およびリスクグループにおける肺炎や髄膜炎を含む肺炎球菌疾患に対する防御力が 3% から 77% に増加 - アルベルト アルベスのブログ"
-    },
-    {
-      "articleId": "gnews_d4b79bf05e8fdb3f",
-      "headline": "Saúde de Colônia do Piauí amplia vacinação contra bronquiolite em gestantes e dengue em adolescentes - deunomural.com.br",
-      "headlineTranslated": "Health in Colônia do Piauí expands vaccination against bronchiolitis in pregnant women and dengue fever in adolescents - deunomural.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T05:49:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVJyRzNkc1dWcXpzclFsQTVMR3VCYjdhQk1abEprRHhseV9hN2V4TFcwbWRPbEVXYTJBVkpuWlVXY0lHRFItY2dIV25SbE9sU05ScjlySXEyY19Ha3prcWlSM2dqSms0VkY5czExeWlHUUd2UlR0eHgyU2dhbmZGRlZxS0VvWnA2OFFrVjY0eHd1MXFDMHVvTVJ1UDVpLUNYWENzMnRqMjZSLUpsN3d0U2JzMG0xaUtPaVZWMU9SQ3BnMW9XMVo0cVdSNFpTRVdoSWwycWpB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "deunomural.com.br",
-      "headlineJa": "コロニア・ド・ピアウイの保健当局、妊婦の細気管支炎と青少年のデング熱に対するワクチン接種を拡大 - deunomural.com.br"
     }
   ]
 }
