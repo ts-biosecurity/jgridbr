@@ -1,30 +1,93 @@
 {
-  "generated_at": "2026-06-06T17:23:14.240678+00:00",
+  "generated_at": "2026-06-07T04:18:01.000140+00:00",
   "date_range": {
-    "start": "2026-06-04T17:23:14.240678+00:00",
-    "end": "2026-06-06T17:23:14.240678+00:00"
+    "start": "2026-06-05T04:18:01.000140+00:00",
+    "end": "2026-06-07T04:18:01.000140+00:00"
   },
-  "total_articles": 12,
+  "total_articles": 13,
   "state_summary": {
-    "Mato Grosso do Sul": 3,
+    "Brasil (estado não identificado)": 3,
+    "Mato Grosso do Sul": 4,
+    "Mato Grosso": 2,
     "Pará": 5,
-    "Mato Grosso": 1,
-    "Brasil (estado não identificado)": 4,
+    "São Paulo": 1,
     "Bahia": 1,
     "Rio Grande do Norte": 1,
     "Amazonas": 1,
-    "Paraíba": 1,
-    "Amapá": 1
+    "Goiás": 1,
+    "Paraíba": 1
   },
   "disease_summary": {
-    "Chikungunya": 1,
-    "Meningitis": 4,
-    "Ebola": 2,
-    "Doença infecciosa (não especificada)": 3,
-    "Dengue": 1,
-    "Influenza": 1
+    "Measles": 1,
+    "Chikungunya": 2,
+    "Dengue": 3,
+    "Yellow Fever": 1,
+    "Meningitis": 3,
+    "Ebola": 1,
+    "Doença infecciosa (não especificada)": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_be3fa287135d20ef",
+      "headline": "Palmeiras se une ao Ministério da Saúde em campanha de vacinação contra o sarampo às vésperas da Copa — Ministério da Saúde - Jornal Impresso Brasil",
+      "headlineTranslated": "Palmeiras joins the Ministry of Health in a measles vaccination campaign on the eve of the World Cup — Ministry of Health - Jornal Impresso Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T23:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVFEUzJDbTJuLVBRQW5NV0ZKcllEMHBVcmFUS19taDk1TWZEeFQwY2t6T1FQZ3BMMmx6eS1saEpwcmxCRFlJS0dxTXhqNER5eHMzWGRvSUZ5R3F5b05aaVd4UzhHQjZSRnI0TkRsWk5fSkFDUEwtd296bEh6YTRGN3ZHd3pNeHhybk55LUhRM2VfRkFZbmlaYTBSMVFqb3FIMENzSVRxdlZJbmpIUlNmbEF4LU9kOUdIcjFWQUcyamVERktXeEpqdVBoOHdyNVJaSTAzZ1NILXlIaTVjQ0lRVHQwRVRiZWhGdmxFdjQ4NA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Impresso Brasil",
+      "headlineJa": "パルメイラス、ワールドカップ前夜に保健省の麻疹予防接種キャンペーンに参加 — 保健省 - Jornal Impresso Brasil"
+    },
+    {
+      "articleId": "gnews_4e2dfe217ae7f255",
+      "headline": "Falta de ACS e ACE em Dourados entra na mira do Ministério Público após surto de chikungunya. - JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineTranslated": "Lack of ACS and ACE in Dourados is in the Public Ministry's sights after chikungunya outbreak. - JASB - Journal of Brazilian Health Agents.",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T22:04:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0xPd3daZ240WjkwQ29WRWpGZy1VR2tEcW85TV91MHpkRHFkQ0l3STNQb19mQXZsSWs0N0k1V1pVdHRId1lRNFpQbHY3aWJCN0FmbnlRS2tPYmI1VW4w?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineJa": "チクングニア熱の発生後、ドウラドスではACSとACEが不足していることが公共省の焦点となっている。 - JASB - ブラジルの健康エージェントのジャーナル。"
+    },
+    {
+      "articleId": "gnews_5a2e83614f87020e",
+      "headline": "Mato Grosso do Sul investiga duas mortes por suspeita de dengue - Midiamax",
+      "headlineTranslated": "Mato Grosso do Sul investigates two deaths suspected of dengue fever - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T20:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTdqYlBCcGZqS1ltR2NhM0lsdnhmd1I4TDdfbHM3a3RULU5IcnllbVNTYkRnT0VJYWNYRU0zbmZJMU9XczBXZlNlQjZWUmRCa2ZxUXFCeTF1U2tBZE9Nc0hmV2lBa1VNaGJpNk9zcjE4UTN6WmJNSXFXcXMyRGgtZEg1TExSZkhoQnVIRGE3bGQwNDlQXy00bQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "マットグロッソ・ド・スル州、デング熱の疑いで死亡した2人を調査 - Midiamax"
+    },
     {
       "articleId": "gnews_d2409874d3aa256d",
       "headline": "Jornal Midiamax. . A epidemia de chikungunya em Mato Grosso do Sul não começou por acaso na RID (Reserva Indígena de Dourados). Falta de água, lixo sem coleta e postos de saúde precários contribuíram para tornar as aldeias Jaguapiru e Bororó o epi - facebook.com",
@@ -39,13 +102,34 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
         "Pará",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "facebook.com",
-      "headlineJa": "ミディアマックス新聞。 。マットグロッソ・ド・スル州におけるチクングニア熱の流行は、RID（ドウラドス先住民保護区）で偶然に始まったわけではありません。水不足、収集されないゴミ、不安定な保健センターが、ジャグアピル村とボロロ村をエピ地域にする一因となった - facebook.com"
+      "headlineJa": "ミディアマックス新聞。 。マットグロッソ・ド・スル州のチクングニア熱の流行は、RID（ドウラドス先住民保護区）で偶然に始まったわけではありません。水不足、収集されないゴミ、不安定な保健センターが、ジャグアピル村とボロロ村をエピ島にする一因となった - facebook.com"
+    },
+    {
+      "articleId": "gnews_f0f01f9cfd4b2938",
+      "headline": "Botucatu reforça alerta para vacinação contra febre amarela após aumento de casos em São Paulo - Acontece Botucatu",
+      "headlineTranslated": "Botucatu reinforces alert for vaccination against yellow fever after increase in cases in São Paulo - Happens Botucatu",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T11:23:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORmlEX3VNa0ozdFd3T0FEOUI1NmxXRWh0N08zNHc3MEtRT1F6a3dJRHhMWkRBV2ZNYUhZbGMzT0ZiQmtBbzBxTU42b2lyMDB2NnczcVhNbGNPX3JWWDA0c2tLRHRMT1ZKcGFydW9jN2Itd3kydnpaWjRDRmFJdFhlVlVBSlBGREU5Zm9BcnhOTkJOSjJjOG1oSF9NdlVjUklFbE5mRlRiRm8yVTE3SENiUW5RR21kcU5obWFEa0E5bXU1OU9vUWNHb3lxN21uZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acontece Botucatu",
+      "headlineJa": "ボトゥカトゥ、サンパウロでの感染者増加を受け、黄熱病ワクチン接種への警戒を強化 - ボトゥカトゥが起こる"
     },
     {
       "articleId": "gnews_ba19a0d0a6084001",
@@ -81,12 +165,12 @@
       ],
       "locations": [],
       "states": [
-        "Bahia",
-        "Pará"
+        "Pará",
+        "Bahia"
       ],
       "dataSource": "Google News",
       "sourceName": "Bahia.Ba",
-      "headlineJa": "WHOとアフリカCDC、エボラ流行封じ込めに5億1,800万米ドルの計画を開始 - Bahia.Ba"
+      "headlineJa": "WHOとアフリカCDC、エボラ流行阻止に5億1,800万米ドルの計画を開始 - Bahia.Ba"
     },
     {
       "articleId": "gnews_639b38581e9d8556",
@@ -110,27 +194,6 @@
       "headlineJa": "SUS、小児向け肺炎および髄膜炎に対するより先進的なワクチンを導入 - Portal 98 FM Natal"
     },
     {
-      "articleId": "gnews_3969cb07fb566246",
-      "headline": "Conab distribui 2 mil cestas de alimentos para famílias indígenas de Dourados - Dourados Informa",
-      "headlineTranslated": "Conab distributes 2 thousand food baskets to indigenous families in Dourados - Dourados Informa",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-05T15:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHJBYUJueEpkMFUzNWVVYlk1VGVTTjhxb0ZCSC1aaHRqdEZfRDVIMC1NX1QtSmdKZ3YwUkF4YUg3Mkxxak5LQ2RPRGxOMDR6M3RocV9VMEN0VEhZWVVKUGNCdWFuWFhOSVB4UDU4RnVWLWc1VlFuRTZnR19YRmFrU2tPTVNPYVhqZy1oN0NRY3ktaXpMQ0RMTTkxTVJITm9ZRTdFbXktTWpjMlR2cVJZR3BFVmFaTE5DMG5SWnptZUFnNFJ4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Dourados Informa",
-      "headlineJa": "コナブ、ドウラドスの先住民族の家族に2,000個の食料バスケットを配布 - Dourados Informa"
-    },
-    {
       "articleId": "gnews_150db3611039ee00",
       "headline": "Vacinação contra pneumonia e meningite para crianças está disponível no SUS - amazonas atual",
       "headlineTranslated": "Vaccination against pneumonia and meningitis for children is available in the SUS - current Amazonas",
@@ -149,7 +212,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "amazonas atual",
-      "headlineJa": "小児向けの肺炎および髄膜炎に対するワクチン接種がSUS（現在のアマゾナス州）で受けられるようになりました。"
+      "headlineJa": "小児向けの肺炎および髄膜炎の予防接種がSUS（現在のアマゾナス州）で受けられるようになりました"
     },
     {
       "articleId": "gnews_a9bf91e9aca63de0",
@@ -192,6 +255,26 @@
       "headlineJa": "Time and Nature誌の年間最優秀者に選ばれたブラジルの科学者はどのようにしてデング熱と闘う方法を生み出したのか - Valor Econômico"
     },
     {
+      "articleId": "gnews_0ed656654241ccc6",
+      "headline": "Goiânia prevê investimento de R$ 11 milhões no combate à dengue - CBN Goiânia",
+      "headlineTranslated": "Goiânia plans to invest R$11 million in the fight against dengue - CBN Goiânia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-05T07:59:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTi0wQ196QUNHZFN4M0JGOGVRLTZPVjBqalBxUTYtTG8yTFBSSjc4Z1ZFX25Ha0NZVElDeDJBWFJYOWQxZml2M3JPSm5acXAzQW1ZUUVORGdQRTV5ZzNaRk9ObkVFZFRocTBhUExPM3pHM2VKQi1UaDNFM18tclU2aGs0RFAyVEcwLTJZTUFKNnBJNDU5WWhoTXNMUi0wTGV6TXQ3ajZTbm9KaS1v?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Goiânia",
+      "headlineJa": "ゴイアニア、デング熱との戦いに1,100万レアルの投資を計画 - CBN ゴイアニア"
+    },
+    {
       "articleId": "gnews_9082b1b8e34df2c2",
       "headline": "MPPB resgata mais de 50 idosos de instituição que atuava de forma irregular na Grande João Pessoa - Portal Correio",
       "headlineTranslated": "MPPB rescues more than 50 elderly people from an institution that operated irregularly in Greater João Pessoa - Portal Correio",
@@ -209,67 +292,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Correio",
-      "headlineJa": "MPPB、ジョアンペソア都市圏で不規則に運営されていた施設から50人以上の高齢者を救出 - Portal Correio"
-    },
-    {
-      "articleId": "gnews_39b0e82dad6ae44f",
-      "headline": "RD Congo espera disputar amistoso apesar de cancelamento por surto de Ebola - GazetaWeb",
-      "headlineTranslated": "DR Congo hopes to play friendly despite cancellation due to Ebola outbreak - GazetaWeb",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T20:22:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNazY0QWh1U1FjYjlDRWhsWGcxTnVkVnlSMXJ5RTNObVBNOGFMbktMbDNqdW5pZWZFWWczNmpVa0l3cnlMcU03Y0t4VFp3bnpBdkhteHhOX3RfTUtqUU1UcDI2VGFVXzdVOE12cEV2YnJmR3BnYWlqUTN5U3ZRQ0VjMHlaYmxPRHZ1NlJwT3BPQmVzdlFlTE04VkQxR1NfMGlRaTdmZ3l6OE5UOUhNRTFiUkNISzVfNmE3eU1BQWdSSGxhWHRJaGtHOWJHRGhZSnM3eFhOa2JzbnNaaGZJSTNB0gHfAUFVX3lxTE1rNjRBaHVTUWNiOUNFaGxYZzFOdWRWeVIxcnlFM05tUE04YUxuS0xsM2p1bmllZkVZZzM2alVrSXdyeUxxTTdjS3hUWnduekF2SG14eE5fdF9NS2pRTVRwMjZUYVVfN1U4TXZwRXZicmZHcGdhaWpRM3lTdlFDRWMweVpibE9EdnU2UnBPcE9CZXN2UWVMTThWRDFHU18waVFpN2ZneXo4TlQ5SE1FMWJSQ0hLNV82YTd5TUFBZ1JIbGFYdEloa0c5YkdEaFlKczd4WE5rYnNuc1poZklJM0E?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GazetaWeb",
-      "headlineJa": "コンゴ民主共和国、エボラ流行による中止にもかかわらず親善試合を希望 - GazetaWeb"
-    },
-    {
-      "articleId": "gnews_0547f75db89f9f3e",
-      "headline": "O Amapá. O Surto de Gripe. O Governo e o Decreto de Situação de Emergência - O Antagônico",
-      "headlineTranslated": "Amapá. The Flu Outbreak. The Government and the Emergency Situation Decree - The Antagonist",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T20:05:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHFRNTltb2x1MHVITUlCek5EVjFvNDFSdlc2b0JyVV9TWkF3NFNHaDJfWUF4N1BiN0dLVWRkZU9UNzYtbXByNU1IWVBfRmY5UHhOOWVsS05PRk14UzJRU2EzbmhUV09sVFhlQUE0NC1Tazl2WEVEX3RWaFBuTllfTFp6c0hNNGtQS2pMZ3FoTTF4bHphN1NyZ18wYW5VS2ZKdFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Amapá"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Antagônico",
-      "headlineJa": "アマパ。インフルエンザの流行。政府と緊急事態宣言 - 敵対者"
-    },
-    {
-      "articleId": "gnews_af85258bb2eb92f0",
-      "headline": "Pneumo 20: imunizante contra pneumonia e meningite chega ao SUS - costazul.fm",
-      "headlineTranslated": "Pneumo 20: immunization against pneumonia and meningitis arrives at SUS - costazul.fm",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-04T18:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGVDaWdTNmZQcVVBTE5SM3E0dk04bjhSNmZMaWN1M2IwZ3A4Q2llTEZGWUJFN0xyOWlnU2xLQ3V2TWgtS2NoLTR1UEdLaFJyNzlLZ1pfQnM5cnVkR3RyV3MwMm9SQ3Vnd0tiRXlhRXlzSmFORUw0UUktZ1RYMTduc0dISEhLbXhBMkdZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "costazul.fm",
-      "headlineJa": "ニューモ20：肺炎と髄膜炎に対する予防接種がSUSに到着 -costazul.fm"
+      "headlineJa": "MPPB、ジョアンペソア都市圏で不定期に運営されていた施設から50人以上の高齢者を救出 - Portal Correio"
     }
   ]
 }
