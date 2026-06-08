@@ -1,30 +1,619 @@
 {
-  "generated_at": "2026-06-08T12:28:47.828302+00:00",
+  "generated_at": "2026-06-08T18:32:36.958853+00:00",
   "date_range": {
-    "start": "2026-06-06T12:28:47.828302+00:00",
-    "end": "2026-06-08T12:28:47.828302+00:00"
+    "start": "2026-06-06T18:32:36.958853+00:00",
+    "end": "2026-06-08T18:32:36.958853+00:00"
   },
-  "total_articles": 10,
+  "total_articles": 38,
   "state_summary": {
-    "Bahia": 4,
-    "Brasil (estado não identificado)": 2,
-    "Pará": 2,
-    "Acre": 1,
+    "Ceará": 2,
+    "Brasil (estado não identificado)": 19,
+    "Pará": 5,
+    "Paraná": 1,
+    "Acre": 4,
+    "Pernambuco": 1,
+    "Distrito Federal": 1,
+    "Mato Grosso do Sul": 3,
     "Mato Grosso": 2,
-    "Mato Grosso do Sul": 2
+    "Piauí": 1,
+    "Bahia": 3
   },
   "disease_summary": {
-    "Dengue": 5,
+    "Dengue": 31,
+    "Measles": 2,
+    "Doença infecciosa (não especificada)": 1,
     "Ebola": 2,
     "Meningitis": 1,
-    "Measles": 1,
     "Chikungunya": 1
   },
   "articles": [
     {
-      "articleId": "gnews_27b5bd085acabf47",
-      "headline": "Salvador amplia combate à dengue e coloca carros de fumacê em circulação a partir desta segunda - Muita Informação",
-      "headlineTranslated": "Salvador expands the fight against dengue and puts smoke cars into circulation from this Monday - Lots of Information",
+      "articleId": "gnews_59c53afe686d44a2",
+      "headline": "Ministério da Saúde suspende vacina contra dengue do Butantan - Ceará Agora",
+      "headlineTranslated": "Ministry of Health suspends Butantan dengue vaccine - Ceará Agora",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:26:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEVTTXY0Z0JhQ2NadjE2aWQ2Q3cyYnJjUThHQ2NwcjhQaHMxM2dES0RmSHpHcmJTOWtIMkc4bTl4NjQxdy1jVXlwU2RCc2l6SWk2bjBoSG8wb1dsUXZWa090S3FIU0VmOVdRcEs1VUxEQjhrRF9OVzVfSDRaNDNBdTVZN1dqeUZ5Tkp4azFWZVh5dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Ceará Agora",
+      "headlineJa": "保健省、ブタンタンデング熱ワクチンを一時停止 - Ceará Agora"
+    },
+    {
+      "articleId": "gnews_1744af110e7f3d87",
+      "headline": "Ministério suspende vacina da dengue do Butantan; ES recebeu mais de 10 mil doses - ES HOJE",
+      "headlineTranslated": "Ministry suspends Butantan dengue vaccine; ES received more than 10 thousand doses - ES TODAY",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:25:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONk1BTXNhcllfeDhOOGdDTG5ENml1bmRJT19lSG9UQjMzUnNqdmtseHAtS1dHbFFvXzlsTWxRTGJGZzIyS2lGdnRLQjFKNExnNG56by1JTnN4ejZyVFFSQ1k3cHd6NmRlUHhxNXI0aUcyeTN3MFhjazNVSUNqb3RTc0xzX2NHdUhzT2FhVUd3VQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ES HOJE",
+      "headlineJa": "同省はブタンタンデング熱ワクチンを一時停止。 ESは1万回以上の投与を受けた - ES TODAY"
+    },
+    {
+      "articleId": "gnews_320c4d8def333f5b",
+      "headline": "Brasil suspende vacina da dengue do Butantan após reações inesperadas e mortes - Bem Paraná",
+      "headlineTranslated": "Brazil suspends Butantan dengue vaccine after unexpected reactions and deaths - Bem Paraná",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:25:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVdKTm91R3dPcThSUVVDTmpsbjFvMFRJc04xRzZJN1MyUmoyaHdYSkZraXpmR0NuODNmVUltbjR0S3AtMV9BeWduM05nXzR1YVNvbnlFQVVGVlJ2bEpOU0VVUjQtb3F2TTVueFc2SV9DUW9VRVVxUGx5UWpObHNKaWs3RmhueWdaUE9ESFBtRkJ0WVViU3R6azVwLTkxNUFVU2YweTRDRWF2MmNlMEtsLWpTWmpqRDB1bmfSAb8BQVVfeXFMTzZzTWdEbmFNbU8xQnkxWHphSWFieHlRQjNsVzItaC1sS2VSVksxdDc3cm4wb1IxR1Y2eGZqQTJmcDlDcHdfd2JVNmY4bmlzTmdZM2xUZEpQN0hNSzJKV0VTRV9LaEI4R25LOVM0M2VrVkFDcEEwZExMc01EZVhYT2lvWkVmdGtBRGFDX3FGZTl5bXprR2pVcEx4RDBvSHVKNDJmMjdvRUZtUDdWdUVFSGpzZ1luMV9pZ2tGOGxpV3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bem Paraná",
+      "headlineJa": "ブラジル、予期せぬ反応と死亡を受けてブタンタンデング熱ワクチンを一時停止 - ベム・パラナ"
+    },
+    {
+      "articleId": "gnews_4a294768fa5925fc",
+      "headline": "Ministério da Saúde decide suspender preventivamente vacina contra a dengue do Butantan - Tribuna do Norte",
+      "headlineTranslated": "Ministry of Health decides to preventively suspend Butantan's dengue vaccine - Tribuna do Norte",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:24:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0tBeDU0ZGhhZjc5MnRBRFp4X0twNGN0cDlxT1F1SmlteWcyYmJ0S01CRFR3V0toZ0RKV0lVZTZUR2gzaktEMkRxMzZtcElDYjRoOGJLZHVaVkZicGtTSUEwTFNnX0NMSFREVmlNZU5PVlRqZktSMFZuYWw4Q3VWcXBDSXpBS1UwN2xqMG5uSHZXUWVVXzBDdjNENjEwaXpJZWxvVGZLLVdidnNVYUJMZmRZc01HakhOYkMycWNqVXUtWTg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Norte",
+      "headlineJa": "保健省、ブタンタンのデング熱ワクチンの予防的一時停止を決定 - Tribuna do Norte"
+    },
+    {
+      "articleId": "gnews_18397929a1498445",
+      "headline": "Quais sintomas quem tomou a vacina da dengue do Butantan precisa monitorar - CNN Brasil",
+      "headlineTranslated": "What symptoms do those who took the Butantan dengue vaccine need to monitor - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:23:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzlXZG5ZSFpjUWNEZ2w2bXdFOG1QYmFyRVM2RnExdGxWaUdmdXk4Zl9ESlJPbkVURGZsNVVVclZ6YTF4aXpibGtNOTVTSkV2MTMwZndLVVJZT2FkUW5rTi1kQVZucjVNNk5TM2hEdnhfRzE0WUhBWEQzaXRsTXlvQlJDc05SWnBzSTJFMUc4d0EzelNxX04tREkxWHNrNXZNc3VlWF9peUF2ZHQ4NEpV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "ブタンタンデング熱ワクチンを接種した人はどのような症状を監視する必要があるか - CNN Brasil"
+    },
+    {
+      "articleId": "gnews_afe60d85ec9872a5",
+      "headline": "JJ: Ministério da Saúde suspende vacina da dengue do Butantan - sampi.net.br",
+      "headlineTranslated": "JJ: Ministry of Health suspends Butantan dengue vaccine - sampi.net.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:22:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekpOOHZyeWQ4eTdTUW9LWVBibUtwSWx5VjRoSFNTNmdyMi0tYUNRV3MwaWp4a1YwZENXQUtGWk5sR1plQzhZQ3R1R0tHNUF2ZXg4eWdDdS1BcVZmVXhHS1RMOU1oNzl0TDIyY2ZpYXZ6WEdxRkVuM1hPbXltcXVOcld0dF9QQV96T1Rwank4elA4NDFXTlliQjgwWlRwQ1VCal9FLTFYLS1XakZvMEk2eXFmLW9xN0VJUTRFRURn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "sampi.net.br",
+      "headlineJa": "JJ: 保健省、ブタンタンデング熱ワクチンの開発を一時停止 - sampi.net.br"
+    },
+    {
+      "articleId": "gnews_6184e13070434b3c",
+      "headline": "Governo suspende vacina contra a dengue do Butantan - portal lj",
+      "headlineTranslated": "Government suspends Butantan dengue vaccine - lj portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:22:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFF2WVp2Q05RN0UzZEdBU1F5ZlhrQjhuQkNkaEQwTi1ueGRsTC05a2NPZEVLTFRxUzdfVVJ6NndfUmp1Tm9SV0lncXFLNUNMRDdzUVBTZ2RVX1ZfVlZiTzN5SDJvaFVvZGQwa1BFMmZ2OWRVbmVWamFuMFFCYkl2M0d3UlM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "portal lj",
+      "headlineJa": "政府、ブタンタンデング熱ワクチンを一時停止 - ljポータル"
+    },
+    {
+      "articleId": "gnews_8136856c1e7230fe",
+      "headline": "Apenas 13% do público-alvo completou esquema vacinal contra a dengue no Acre - Acre Jornal",
+      "headlineTranslated": "Only 13% of the target audience completed the dengue vaccination schedule in Acre - Acre Jornal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:21:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZm5PSjRjTXRiVkZNWHB2V0ZJNHUyRWtRcGVqTXBmVnhVRzhDNnE4ZlpHdUg4YVlrVGNEVFFjMGNxTGpsbGlFTTBqcm1mVWdKZDlIa0V4VmtrZF9UX3ROTFI1ZXhXLV9fZkJ0TWF2N2FUSDBHNUJXb3Z5ekxkMDhsNDd4SlRTU053anV2ZjJ0cE90R3hmam5ZSFVqTGphbEc2QTdMUA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acre Jornal",
+      "headlineJa": "アクレでデング熱ワクチン接種スケジュールを完了した対象者はわずか 13% - Acre Jornal"
+    },
+    {
+      "articleId": "gnews_447e8d0faf9b408c",
+      "headline": "Vacina brasileira contra dengue tem aplicação suspensa pelo Ministério da Saúde - D24AM",
+      "headlineTranslated": "Brazilian vaccine against dengue has its application suspended by the Ministry of Health - D24AM",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:19:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2ZkdUF1b0hpc25fOVVjT2dPNHFHUEVwZDBRRllnd21EMHFpU2ZabXE5c1RUTDNDT1RuTm5oSFlsUURNc2h2aFB3SDhRajV1X3kyVC1OSW40Qm9rUmhXTXlRWGU0OEtFYUx3SDk0R2cxT1lYZ3l2M0l2QzFFQVR2ckhCQi1ILUlmM1UxNHlZVVJIckZ2M1l0MmVzb1pENVB2TUFjcU1VVzdhSDZSTlA3b2c2UHY2UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "D24AM",
+      "headlineJa": "ブラジルのデング熱ワクチン、保健省により申請停止 - D24AM"
+    },
+    {
+      "articleId": "gnews_e379df5078b7b77e",
+      "headline": "Saúde suspende vacina da dengue do Butantan após o registro de duas mortes suspeitas - DeFato.com",
+      "headlineTranslated": "Health suspends Butantan dengue vaccine after two suspicious deaths are recorded - DeFato.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:19:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVd4REphLW91NjBSdFJjWVRfZDgtUmRPRzBrLXJnOXZ5N0s4Vy1zeHp5bzJTekhyVDUySHVCQVYtMExGWDBkZWlSYmFNdHVibHJmQzVZSVpKalNTRWliVDZ3LUFrRU1ZWnBsR09rYTNwUFNIYUxGb2o1Y29wdzZvS0hfVlFlQlFORnpER2VRc2hkQ1Zla2JBb0Zqd3RjcGlEdjM4WXJYVUt5cjM4RXFWMzV1cmdrdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DeFato.com",
+      "headlineJa": "2人の不審死が記録された後、保健省はブタンタンデング熱ワクチンを一時停止 - DeFato.com"
+    },
+    {
+      "articleId": "gnews_55a1c2a447804cd1",
+      "headline": "Ministério da Saúde paralisa vacinação contra dengue com imunizante do Butantan - O POVO",
+      "headlineTranslated": "Ministry of Health halts dengue vaccination with Butantan vaccine - O PEOPLE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:19:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakI0bHVweWJVTy1DY28wVGZDcW9QY0d4WmQ4bHhZSV9VbWxZeS1RSElEdXoxazNmMmtUR0NpeUxZZTdydFR5azg4QkdGd1owYmNKYTJqdExaSGEwWlhKV1MtakZCaTJ0TEJYWHZRcjFjUmJGbjFSMDJSQ0duTXZhWHpHNzlWNC1xcWE5MWZ6Y3BVS3ZmbXItdzRqRS1hcmdqaTlZeS0yUTZldXZnRTJpYUhiZ2ZfV19xWVVV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO",
+      "headlineJa": "保健省、ブタンタンワクチンによるデング熱ワクチン接種を中止 - O PEOPLE"
+    },
+    {
+      "articleId": "gnews_b11ab7b8b23d1f49",
+      "headline": "Ministério da Saúde suspende temporariamente vacinação contra dengue após investigação de reações adversas - A Voz da Cidade",
+      "headlineTranslated": "Ministry of Health temporarily suspends dengue vaccination after investigation of adverse reactions - A Voz da Cidade",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:17:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN2c4T0tkcXBDWk5rRWxRMmJZTDlkTWtiQTNieDdGbWJQbGdKeGs3QWd0aHpaYWpWam4yUWpOR0YzNzNMZ0VhUVcxN0kwdDRqRm1fZ1Bib1N2NkFxRU10SWJ2ekxkTEdXbE9kMFV6Y2ZLUTN1REdGajZQeDFCRmlGbWJUd3dCUG0zdHNDN2J0RUxfek5fNnFLcUxzaXRjYWxSS0RoYklFVzBmejBnZlA4ZnVRbHFGOEFmSEhnUFZMRlAxYTUxWUxEMUtrS2lILVJy?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Voz da Cidade",
+      "headlineJa": "保健省、副反応調査を受けデング熱ワクチン接種を一時停止 - A Voz da Cidade"
+    },
+    {
+      "articleId": "gnews_500d261181faae9e",
+      "headline": "Ministério da Saúde anuncia suspensão de vacina da dengue do Butantan após mortes suspeitas - Exame",
+      "headlineTranslated": "Ministry of Health announces suspension of Butantan dengue vaccine after suspicious deaths - Exame",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:16:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjE0YkZnbUJHODJ6Q2ZBMW9PR0szZVUzcUxYc0gxWGFUQll4VFRZQWl1SmtER2JGdkpZLS13cm1oNngtTGJPTnhNTTRmWHJsaVhxRGVydVJ4ZkZVcElMb3lkZzMteWNWYmdQVjJ2MFlLNUZhR184empna1FEMThFZm5qaGhYS2NhWnpXMVB2TFNHQkZuekVROTNwZFpmSTF4TFFJWEtRdnFfUkplZ0RkWGEzbXg2M0FQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Exame",
+      "headlineJa": "保健省、不審死を受けてブタンタンデング熱ワクチンの一時停止を発表 - Exame"
+    },
+    {
+      "articleId": "gnews_07b00600718ea001",
+      "headline": "Ministério da Saúde suspende vacina da dengue feita pelo Butantan - Diario de Pernambuco",
+      "headlineTranslated": "Ministry of Health suspends dengue vaccine made by Butantan - Diario de Pernambuco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:13:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0JtS29XSjMteklRWkRfcHhyNkdQTzI5YlFIeFhIbHdjQUJHMjNhZ3B5OVVKTmRjaXVueEp3dUZfNUxXbTlXUE51TGFRQ1lsZW1PQkw2MVU5OHdvSkd0V3NObEpSNUVLbnJ2WlR0Q2N6Wlp6WlludnBMS255N0NxMzFrbW9FcTFuOEpLLXVsV3pwdG5mTzF4RloybDRSajJyLXRvbS1mY3IwYWFZb09zZkpfZUlEbDE3czJvZC1NOGJfUVo3RVZPS1hSTEM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diario de Pernambuco",
+      "headlineJa": "保健省、ブタンタン製デング熱ワクチンを一時停止 - Diario de Pernambuco"
+    },
+    {
+      "articleId": "gnews_7e27abface4797c0",
+      "headline": "Saúde investiga duas mortes após vacina da dengue do Butantan - Metrópoles",
+      "headlineTranslated": "Health investigates two deaths after Butantan dengue vaccine - Metrópoles",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:10:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0IxcWtkSGhXX3p2Q3BSOXlwbHNvdHFTd25aaGs2NFhaRzZodWtmaFQ4Y2JsbDJ5ekltSlUwMWx1Z1F2LUdkaVdrM1VQRGtTYWlkV2RpRE1PdW4ybDM5eVVmaFJZVEFIR2xBSWduMGdGblhsMVdBd1FrQjdwUzItQ2RfOTBZZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrópoles",
+      "headlineJa": "ブタンタンデング熱ワクチン接種後の2人の死亡を保健当局が調査 - メトロポール"
+    },
+    {
+      "articleId": "gnews_144a4d41a5f5a6c4",
+      "headline": "Ministério da Saúde suspende aplicação da vacina contra a dengue do Butantan - GPS Brasília Portal de Notícias do DF",
+      "headlineTranslated": "Ministry of Health suspends application of the Butantan dengue vaccine - GPS Brasília DF News Portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:06:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FTVJEejZoRTdZWFhEZGFVUzEwdS1DcEJwT1BCbWxPYjBTMkxETk5IN0tNN0sybmN1T3JJLTNERlJiaXI5U3dGajdsU3lsZWxoT21seVYwaDlEYTJYbGRWUm0zanJEeXZMWTVGU0pBaDQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "GPS Brasília Portal de Notícias do DF",
+      "headlineJa": "保健省、ブタンタンデング熱ワクチンの適用を一時停止 - GPS Brasília DF News Portal"
+    },
+    {
+      "articleId": "gnews_028b58a3c6cedbf4",
+      "headline": "Padilha diz que “precaução é a melhor medida” após suspender vacina do Butantan contra dengue - Brasil 247",
+      "headlineTranslated": "Padilha says “precaution is the best measure” after suspending the Butantan vaccine against dengue - Brasil 247",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:04:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVB2ZE82bm9DS0E4bkxMQkVzWG1EcFBaVEpTMlpwTmxjSjJ5SHVwLUpBMENON3hjUGpkXzFkNnBfeFY5X3FwYWZ5VWpYZXM0X1VJTWFJUEkta0lYVVZHOUZwWmVQTXpQc1RQY0lwallaQllFaTRsODdZTkEyWEZjVzRlZnZ3MzlFM0NZZDJzNFNVZVpaRGM1b0haR1FpQlpYelRZQ0xlc2FWN0dIOE02ZDN0TjRiWm01XzUwZzROdko?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Brasil 247",
+      "headlineJa": "パジーリャ首相、デング熱に対するブタンタンワクチンの一時停止後「予防が最善の策」と発言 - ブラジル247"
+    },
+    {
+      "articleId": "gnews_8d79a241b21d4238",
+      "headline": "Brasil suspende vacinação contra dengue com imunizante do Butantan - Rede 98",
+      "headlineTranslated": "Brazil suspends dengue vaccination with Butantan vaccine - Rede 98",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T18:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDBXT0UxZWxuZ2NFNHdJZVdGOHZJUzV4NFM5al91T2xYVERBbnY5SG12MEw0bU9STDB6YTdydWVJX0tLSk95ZE5CVk9sb0lCdFdtMUh5YXNqT1g2dkpMUFZmb2tRcVVmcXUwNmFYZVdzM2hWNjNtc1BBcF9oMmVQZnV5ZXAwMGJZcUV0R3J1RUR1VnNpUExxSFhwaEVhWHlyYmtmUnFxSmg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rede 98",
+      "headlineJa": "ブラジル、ブタンタンワクチンによるデング熱ワクチン接種を一時停止 - Rede 98"
+    },
+    {
+      "articleId": "gnews_5ba85eb406fabfc4",
+      "headline": "Governo suspende vacinação contra dengue após reações adversas; Ceará participou da campanha - OpiniãoCE",
+      "headlineTranslated": "Government suspends vaccination against dengue after adverse reactions; Ceará participated in the campaign - OpiniãoCE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:58:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcDFvOEVMMnhwWm9OQUVKXzJ3WF82SG9oVFRwUnE3dkQ4VWltZWs2NWNmZ2tQUTNwSkJ4SVhIeFl0ZUdQMmh1eFBKeDEtd1BSRnRjbkxkLVRqcFRwRXFnUjNhUXE3UHVTVUluekVJd2lrYUtWekFKNVlTWDZMYlJBMHV4QXY3QW9LSkxscXZzSU9ickcxbFdlaXdwQ3Q0czBPRzMzTG5ucDJLdmVjYWJsZGxFREJUWWJ0aGduOHRpaUplV3lFdVNycHo4UnpadktEUXp6TTdqYm41TUxNRW4yUGo5d05BOWMzakxCeA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "OpiniãoCE",
+      "headlineJa": "政府は副反応を受けてデング熱ワクチン接種を一時停止。セアラはキャンペーンに参加 - OpiniãoCE"
+    },
+    {
+      "articleId": "gnews_6781460da6487031",
+      "headline": "Vacina da dengue do Butantan tem 42 reações severas e 2 óbitos investigados - CNN Brasil",
+      "headlineTranslated": "Butantan dengue vaccine has 42 severe reactions and 2 deaths investigated - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG8zLUJ2T1VqZVJHTXFzNUUzVGFBNDZaVm9pd2I4bG51dVlxYmNDWE1hVnNvVXl0SldaTUhmcDROMVZKd1psLXo3UDkySEx1dF81SjJuWW5vWk9iYkV5bmgxeVFOM3VsY3RvWGx1b0FmQ3dBeXRuNDNyU2ZZcEtQRS11ZEtJdTV5eXVMTEplMU5fcTczMmpzaFppd0ktWHF6ZEU4UENvNndQbHdKdEJlWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "ブタンタンデング熱ワクチン、42件の重篤な反応と2人の死亡を調査―CNNブラジル"
+    },
+    {
+      "articleId": "gnews_8086a1f442c8ce05",
+      "headline": "Ministério da Saúde suspende vacina da dengue do Butantan - Brasil 247",
+      "headlineTranslated": "Ministry of Health suspends Butantan dengue vaccine - Brazil 247",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:54:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjNjOThYd0lOUWZpWUVrUEZBRHV6MzhWZ3RwRmtDdjdTa1c4VW54UGI1eDVTTzR6UGh1N0o0NHgxUVJnbnJDeFlQVVNza1VqczdZNExLeWJUMDN1VXMwbmtFTmZ0bHE2X24xck9SaksxLUdlRDV2NmJ1MXZYZVVmUTZwNGo3MEYwNDc3MldnVDRzcEk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Brasil 247",
+      "headlineJa": "保健省、ブタンタンデング熱ワクチンを一時停止 - ブラジル247"
+    },
+    {
+      "articleId": "gnews_665f76c1ff48aa71",
+      "headline": "Ministério da Saúde suspende vacina da dengue do Butantan após mortes - tmc.com.br",
+      "headlineTranslated": "Ministry of Health suspends Butantan dengue vaccine after deaths - tmc.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:54:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDBESWtsNTFENl9WSTBvTGZQZXk5akttQzNhOUpoQnI0Y2hXRTMxTWlsYXFmbjRoQ0JmZ0QzTVZuaEMwTlh1RHRmcUFrVDZSZ0tHaGpGclMzTjJDVU01aUwzLUd6QzdYR2sybTBxUm9nNk9WRlRKMFJCajZsN0FNbQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "tmc.com.br",
+      "headlineJa": "保健省、死亡後にブタンタンデング熱ワクチンの接種を一時停止 - tmc.com.br"
+    },
+    {
+      "articleId": "gnews_4d7104a7df9e8a96",
+      "headline": "Brasil paralisa vacina contra dengue do Butantan - UOL Notícias",
+      "headlineTranslated": "Brazil stops Butantan's dengue vaccine - UOL Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:49:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0FKbWtxaGNSaG1qeUZpc1o1S0FoQmFtYWZNVmhHUlFqWFJWZ3BmWXRQcnMwRHB1a0ZxQVV1MTdCTHZ3OEdPajVjem42cUszV1hISnJUWVpOVlhsb1hJeGN6SzhBLVNCM0VoVXIySjlfZGliTVZPX0hyM2JWeGVUSHJDb1N6RFVHQnoxT2JIN0Nralptc1h0VmtWUWlvVGlfOXZ0NEs0c1hxSVA4bHhNdFA3YXBULXVKaHc4X2pRSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "UOL Notícias",
+      "headlineJa": "ブラジル、ブタンタンのデング熱ワクチンを中止 - UOL Notícias"
+    },
+    {
+      "articleId": "gnews_927aed285b7b2f7d",
+      "headline": "Dengue: qual é a diferença da vacina do Butantan que foi suspensa e a fabricada pela farmacêutica Takeda? - O Globo",
+      "headlineTranslated": "Dengue: what is the difference between the Butantan vaccine that was suspended and the one manufactured by the pharmaceutical company Takeda? - The Globe",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T17:46:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0t4bFBiZm5VcWZsMm4yYnR5ZmpZVWJ3V0FfVGprVmtQSU1RTnNObS1ReXJBWnZiVHowZk5xTDh1anFjZ1RWUERtUlJVWVVMRXlBbUpVTWhGOHduUm5oekhFdm1NOEtEWDNpSlp1dWhYNDJ3Zmt2WDgtS1U0S2w0Zm9xd3R5Q1pRWVdZcXZxOW5xcXRPTUhIWnQyVHhMVXdjdFNYUDVacF8wbTE3SDdZUWpsek1OME5Vb2Y2RHhjRC1STExtajh5MTZTQS1wb2g2WVhpVHEwcDVDRlR1d043UmdRNFFkbGMtS01iejVOQdIB_gFBVV95cUxPZFI2WXVMQlJpNGREd0FUblpsSGJsX2NRV0QxejNFc3RXMjd6RXptRXd6bFJYRF9DaXNSX3AtMTYyRkJQTldNN3p3OHphVlpVWF8xMTZDVTNvRFhWVVlxUWVCVklpZlZCZW1wdmZDRmtTM0FQd1FzMG5GcmlUM2hrUzktR2hqRjlhdlpFNVhfRGwxbENNcU1haGxRRUhJUTJPTDdvTmtoSDJUaUFKVVg3cHJWeFp4ZXk5LVJqNXBqZlJyaGxIWDhKRTNFdWV2NEZCc2VlRndoOGVGMHZkckc5ZTA2RERZcVM1d1BQMjZLcTIyeHZkV0QzVm1Qbmk1QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Globo",
+      "headlineJa": "デング熱：一時停止されたブタンタンワクチンと製薬会社武田薬品が製造したワクチンの違いは何ですか？ - 地球儀"
+    },
+    {
+      "articleId": "gnews_b6a41f9a578b4719",
+      "headline": "Ministério da Saúde suspende uso da vacina da dengue aplicada em Mato Grosso do Sul - Midiamax",
+      "headlineTranslated": "Ministry of Health suspends use of dengue vaccine applied in Mato Grosso do Sul - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T16:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1Jadm5uNm9laUNtU2dpaDlFek10M2hPX01EbkZwSjZIV0FnNW43NVo3cDU5QTVISFBjVTJ4S2FQOWp1M2ROZmVNZlVEVzhvLVlzRjhrOWsyd01kVmR5dDlZSC1UTGRaMHBFZ1Vkekt5bVdXbkhERU9Fam4xaHlCLXZDb252NnUzZTZZVGZnSlRvcWFMUGYzbERxYw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "保健省、マットグロッソ・ド・スル州で適用されたデング熱ワクチンの使用を一時停止 - Midiamax"
+    },
+    {
+      "articleId": "gnews_85d927fedf3d0db6",
+      "headline": "Cruzeiro do Sul tem uma das menores coberturas vacinais contra dengue no Acre; mais de 90% ainda não completaram imunização - Juruá Online",
+      "headlineTranslated": "Cruzeiro do Sul has one of the lowest vaccination coverage against dengue in Acre; more than 90% have not yet completed immunization - Juruá Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T16:16:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWkwbFE3aWhPN25MR2RnQ1RiQV85VGUxejNmZzE1ZjhBWDZfb0hzdldFUWctRmR3d1lHZmxZRkNpRWFab1RYMWFoUXFTNkc0TVBJMHJqTTRMTHk2MndTeHBXNTZ3U1ZtS1puRVVqb2xpa1dwVzFDQldHWHA5T1pMOUlFaWpYMWtfUERyd1RGRHE2SjhRbjRWb3hQai1UVFh6U3hzZkFOUVZTc19IZUlRbU4zcE5xaGZZcUtWU1VvQmRJdDVaQ3dPaFVVdlU2TUgwMFIzSUZqaUVxZHk1aGpEb0pXcw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Juruá Online",
+      "headlineJa": "クルゼイロ・ド・スル州は、アッコの中でデング熱に対するワクチン接種率が最も低い州の一つです。 90%以上がまだ予防接種を完了していない - Juruá Online"
+    },
+    {
+      "articleId": "gnews_32374e7e7035a394",
+      "headline": "No Acre, 9 em cada 10 jovens ainda não completaram vacinação contra a dengue - Juruá Online",
+      "headlineTranslated": "In Acre, 9 out of 10 young people have not yet completed vaccination against dengue - Juruá Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T16:12:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWp6TVlVWmxsckI2dkhDWDVfdURSM0NmN3FHRGlNWmZXYVVLY3V4M3hiQlNJWjI0UU9zeXNVWUxVbUNYcTJzTTQ0b05BZzVzSXRyNVVTaVQ2anV3a09vWjBBMlVPQ2VhajkzSk0zQTdjelBmb2daTGN6YlRIX2Qzb2lzN19jMVJRREpFcFZhTkRpS2ZYN0FxcXI3NnppUHRYanhoclFn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Juruá Online",
+      "headlineJa": "アッコでは若者の10人中9人がデング熱のワクチン接種をまだ完了していない - Juruá Online"
+    },
+    {
+      "articleId": "gnews_72c02a984e052b71",
+      "headline": "Aumento de casos de sarampo leva Opas a pedir ação imediata nas Américas - Diário da Guanabara",
+      "headlineTranslated": "Increase in measles cases leads PAHO to call for immediate action in the Americas - Diário da Guanabara",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T14:52:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkpxWWVCVEV2VGY3cWpSLXNLazFmbDE3TGx5N1ppNjd3aVlXTFRfUW0yR1Yxb0xJZVE1VHhZajk0OFFDdlJBODM4V2NIa2xXaGRXRTdHNVZEdEFMMmU4bFVISWFIYy1qOEVfZnNzc3hJemQtcEVBazAwYXgwNjByRHJjcHNjeVI5U2hKVkw0TDBTVnlKa2plMkQxQ2VaOVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Guanabara",
+      "headlineJa": "麻疹症例の増加により、PAHOは南北アメリカ大陸での即時行動を呼びかけ - ディアリオ・ダ・グアナバラ"
+    },
+    {
+      "articleId": "gnews_0a93fd3656731c4e",
+      "headline": "SAMU de Teresina terá ambulância para atender pessoas em surto ou com ideação suicida - Portal O Dia",
+      "headlineTranslated": "SAMU in Teresina will have an ambulance to assist people in an outbreak or with suicidal ideation - Portal O Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-08T11:41:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUw1aFRRS1FDMks0QVpiT2xyVlQ0WHlKQ1lUSnFVTFd6MF9SQlFJU20tbjYyc05uQzMzX2VpQUtlRGNvSTlycmVCdTF3ZlpTQmFweEpOU1ZsRXZaQ1ItNlJINWlkTEVaT1F2SGJ0U3lOenVWSTE0ekRZTGZ3RE9wV1FfZ2tuY3ZCZjUtQzNjemNiNnV6STdVZ0ZmTHMySW9fcC03WnJzbXBNaHhvdG13X2pJT09uYUNFcHdjak5GRDhyVzJDWlNZeXNVdTV0aXRwZktabNIB2gFBVV95cUxNRWp6NkVCMnhFVElOT3dxUE9BVWdVZFBSZE1WSTk4cUFmNElKeXAyZlMwLW9rY3lJUFRnUEtMR0RrYXo0RVNxMU9IN1pDa3NUN1lRSjViemZmaEFYVFVJaElJRFB5M2JZSENMS0dtZXJ1MjBhbTZJcC1XZy1VTU54cmtJS2lkSVFWYUhrTHRDS1JBaHdLajhwbmxKbE1Ka3VOczhMYlNQM3NaWGx5Q0k2OGpQdkYzMTQzaTdjb24wWEpfU3F0WjZWUzBITDJLSWpJZ1liNy13VGhyQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal O Dia",
+      "headlineJa": "テレジナのSAMUは、流行中または自殺念慮を持つ人々を支援するために救急車を導入する予定です - Portal O Dia"
+    },
+    {
+      "articleId": "gnews_03ce8a10957ffff2",
+      "headline": "Salvador reforça combate à dengue com circulação de carros de fumacê nesta segunda - Muita Informação",
+      "headlineTranslated": "Salvador reinforces the fight against dengue with the circulation of smoke cars this Monday - Lots of Information",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-08T10:30:00+00:00",
@@ -39,7 +628,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Muita Informação",
-      "headlineJa": "サルバドールはデング熱との闘いを拡大し、今週月曜日から発煙車を流通させる - たくさんの情報"
+      "headlineJa": "サルバドール、今週月曜日にスモークカーを循環させてデング熱との戦いを強化 - たくさんの情報"
     },
     {
       "articleId": "gnews_cda509ec55bb4de5",
@@ -60,26 +649,6 @@
       "dataSource": "Google News",
       "sourceName": "Metro 1",
       "headlineJa": "サルバドールはデング熱に対する燻蒸の新たな段階を開始する。地下鉄 1 号線の近隣地域をチェックしてください"
-    },
-    {
-      "articleId": "gnews_d8525df896431052",
-      "headline": "Salvador inicia nova etapa do fumacê contra a dengue; confira os bairros - Stift Melk",
-      "headlineTranslated": "Salvador begins a new phase of fumigation against dengue; check out the neighborhoods - Stift Melk",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-08T07:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHhpbjRfUUhISTFpSV9KOUZpN2tsVG5uS2FGMkJfZTB0dU52dVlhSkJPd01hMmEwZlVxRGZRUEx1Yndvc1RLNDRFM2szYU9vTTNkYklWTXBPU3h2b1hOTjNkVGZEZ3RSUVMxdEF2WFJEOV8xUHVVVkpuRWdJSXdZUE0yajdNNXR1ZEtjcUJOQ0NkR3hTa2NjenNWQ1d2eWlEcFVXTjh5QW1rdTJIdGZ2M25VUDJ2T0JnQ3VydnJ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Stift Melk",
-      "headlineJa": "サルバドールはデング熱に対する燻蒸の新たな段階を開始する。近所をチェックしてみよう - シュティフト・メルク"
     },
     {
       "articleId": "gnews_c0da698d1494e905",
@@ -182,6 +751,26 @@
       "headlineJa": "パルメイラス、ワールドカップ前夜に保健省の麻疹予防接種キャンペーンに参加 — 保健省 - Jornal Impresso Brasil"
     },
     {
+      "articleId": "gnews_4e2dfe217ae7f255",
+      "headline": "Falta de ACS e ACE em Dourados entra na mira do Ministério Público após surto de chikungunya. - JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineTranslated": "Lack of ACS and ACE in Dourados is in the Public Ministry's sights after chikungunya outbreak. - JASB - Journal of Brazilian Health Agents.",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-06T22:04:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0xPd3daZ240WjkwQ29WRWpGZy1VR2tEcW85TV91MHpkRHFkQ0l3STNQb19mQXZsSWs0N0k1V1pVdHRId1lRNFpQbHY3aWJCN0FmbnlRS2tPYmI1VW4w?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineJa": "チクングニア熱の発生後、ドウラドスではACSとACEが不足していることが公共省の焦点となっている。 - JASB - ブラジルの健康エージェントのジャーナル。"
+    },
+    {
       "articleId": "gnews_5a2e83614f87020e",
       "headline": "Mato Grosso do Sul investiga duas mortes por suspeita de dengue - Midiamax",
       "headlineTranslated": "Mato Grosso do Sul investigates two deaths suspected of dengue fever - Midiamax",
@@ -195,34 +784,12 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Midiamax",
       "headlineJa": "マットグロッソ・ド・スル州、デング熱の疑いで死亡した2人を調査 - Midiamax"
-    },
-    {
-      "articleId": "gnews_d2409874d3aa256d",
-      "headline": "Jornal Midiamax. . A epidemia de chikungunya em Mato Grosso do Sul não começou por acaso na RID (Reserva Indígena de Dourados). Falta de água, lixo sem coleta e postos de saúde precários contribuíram para tornar as aldeias Jaguapiru e Bororó o epi - facebook.com",
-      "headlineTranslated": "Midiamax newspaper. . The chikungunya epidemic in Mato Grosso do Sul did not start by chance in the RID (Dourados Indigenous Reserve). Lack of water, uncollected garbage and precarious health centers contributed to making the Jaguapiru and Bororó villages the epi - facebook.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-06T15:21:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMEhiSXFISFpQLWN6OHVYQUdfSHhuTUxfQ0R5V0JPU21IbW1SU3RFYlhjZGJ3ZHJSdVhGc3JRYVJDVHUtV2M3S0o0RVJmSmhaQkZUTGVZV25JbVd4NUhROTZnb3M2WDhKeXpmS3JjazVtaF9DdGljNE5OV0FkbngwLXk2N0dVaTgwbm5QQ1REdEtla2NTb1FnMDE2OEhpTnZfbEprSVBOcWZYdThhRVk5d1NVc201TGFlTzdzOEg5aFhFZVBVaW4taGt5Z2s1T29VdnQxRmdOa2IwN2JxdUh4TU9YWQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "facebook.com",
-      "headlineJa": "ミディアマックス新聞。 。マットグロッソ・ド・スル州のチクングニア熱の流行は、RID（ドウラドス先住民保護区）で偶然に始まったわけではありません。水不足、収集されないゴミ、不安定な保健センターが、ジャグアピル村とボロロ村をエピ島にする一因となった - facebook.com"
     }
   ]
 }
