@@ -1,39 +1,98 @@
 {
-  "generated_at": "2026-06-13T10:29:39.261952+00:00",
+  "generated_at": "2026-06-13T17:41:08.704770+00:00",
   "date_range": {
-    "start": "2026-06-11T10:29:39.261952+00:00",
-    "end": "2026-06-13T10:29:39.261952+00:00"
+    "start": "2026-06-11T17:41:08.704770+00:00",
+    "end": "2026-06-13T17:41:08.704770+00:00"
   },
-  "total_articles": 31,
+  "total_articles": 23,
   "state_summary": {
-    "Brasil (estado não identificado)": 17,
-    "Pará": 9,
+    "Ceará": 2,
+    "Brasil (estado não identificado)": 12,
+    "Pará": 6,
     "Paraná": 1,
     "São Paulo": 1,
     "Alagoas": 1,
-    "Ceará": 1,
     "Tocantins": 1,
     "Bahia": 1,
-    "Santa Catarina": 4,
-    "Piauí": 1
+    "Santa Catarina": 1
   },
   "disease_summary": {
+    "Dengue": 13,
+    "Measles": 3,
     "Influenza": 2,
     "Avian Influenza": 1,
-    "Dengue": 20,
-    "Doença infecciosa (não especificada)": 5,
-    "Ebola": 1,
-    "Measles": 3
+    "Doença infecciosa (não especificada)": 4,
+    "Ebola": 1
   },
   "articles": [
     {
-      "articleId": "gnews_039bd79019b16a02",
-      "headline": "Fechado durante um mês por suspeita de gripe aviária, Zoológico de Sapucaia é reaberto ao público - Rádio Pampa",
-      "headlineTranslated": "Closed for a month due to suspected bird flu, Sapucaia Zoo reopens to the public - Rádio Pampa",
+      "articleId": "gnews_0d5522c456b91dd8",
+      "headline": "Ceará registra caso suspeito de reação grave à vacina contra dengue do Butantan - O POVO",
+      "headlineTranslated": "Ceará records suspected case of serious reaction to Butantan dengue vaccine - O POVO",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-13T01:35:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHdTSFYydFpHQWkwZTFIbXJDYy1sY181ajdSS2pxMmFPd01yME5XNEx3SmotZ2ZSdDN0OFJZYkxJeFRBLVRxOEVSa3pjNFQ1RVgyTi1OZVdJUF9ybGxrTEF2djhBY1IxWVlIb1RNRmVFNXp3VnRJMThTRVphbFlMWWtJVHlENEg5SFV3R2xjSmlhSm5jZDlJY2s5clk5UldjRlBPUGNJWUpYQmo5SG5fdG56dWRTOVF1OC1RZDRPeVdzdm8ycUE?oc=5",
+      "publishedTimestamp": "2026-06-13T14:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzZEak5wcDlRNlFDTFpCQ1dsQlFhZHNUWVNHLWRqT0dmNVQzMjllOXBvWTIzWnJmeWNLQlNudk1sdjFGNnZaUVhsZkRLQ0k3dVVaZkZqNWNqeko1SHlwUllwNURqQURkTTNONVlqQVlDMmQ1LWN6eFpxcDBJOVUyYWYwOFc1cVU3cklXZHEzX0F1MlBGNGJfQ2pqaDVzdXBycVNRbWNDR2FDOGV6V2F1QTNzMEl4TmZlRGxrd3ppY1JnY3dOSVgyOHYxSVBiUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO",
+      "headlineJa": "セアラ州、ブタンタンデング熱ワクチンに対する重篤な反応が疑われる症例を記録 - O POVO"
+    },
+    {
+      "articleId": "gnews_75ff142a4a3a4d1a",
+      "headline": "Alta de casos de sarampo nos países da Copa liga sinal de alerta na região - liberal.com.br",
+      "headlineTranslated": "Increase in measles cases in World Cup countries, warning sign in the region - liberal.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-13T12:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMDJuQ1hsQVNLbVM4SGxNaWlIMzNSUVpUVGo1cTRPaXNjUnF2NC05WG9rUkpDTjc1NW1mZVc3dHRDeU1BNDhZaHN6dTh0SGg1STBZQk5MN3U5dUJMeVhpM3AzbFlaUnhHYUI3RFBIZ0hrdm45UG5TNWh0RnhsUEJ5ZWYwUEpRN0J6N25sb2RSd0pLTFQ5MThoUGFrcy1yRVJDM1d5MklWdWFhNW5DSFAwUmVB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "liberal.com.br",
+      "headlineJa": "ワールドカップ出場国で麻疹症例増加、地域に警告サイン - liberty.com.br"
+    },
+    {
+      "articleId": "gnews_ac4740ed3f5c044b",
+      "headline": "Sarampo: infectologista alerta sobre vacinação em viagens para a Copa - Âncora 1",
+      "headlineTranslated": "Measles: infectious disease specialist warns about vaccination when traveling to the World Cup - Anchor 1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-13T11:06:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1AzQmZTNTZKclZPcGc4eVhUd0JteFRhc0hVdlItRXZycm1OMG9lRXZteFlCZDJIdlE1WUJXTjRMTzI5NmtRNDN2U1Zod01lMWd6Y3FjWnRUNTNrWC15Ym90T1VaNkV3XzZHZHEtRFhLUEdYRnRXQk13UTNRZmcwZzUwQ29pMFd0VG40aXBnNUhxekU0ZHRlYXdORQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Âncora 1",
+      "headlineJa": "麻疹：感染症専門家、ワールドカップ旅行時のワクチン接種について警告 - アンカー 1"
+    },
+    {
+      "articleId": "gnews_7e390f4286f6a069",
+      "headline": "Fechado durante um mês por suspeita de gripe aviária, Zoológico de Sapucaia é reaberto ao público - TV Pampa",
+      "headlineTranslated": "Closed for a month due to suspected bird flu, Sapucaia Zoo reopens to the public - TV Pampa",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-13T00:48:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVBLSklMRGVCNmQ4WEdQeXVOTnpQZTZod0hvc21OWmNHa0Z1Sk1GdncwY3hYN0dxQnFqUnF2anVqaEl0aUVvd2hSYnNkQ3pFRzhUZmlGU2tvOUg4T2RHRHZvc3VGRm1FZVBRdWNVQW8xZkdQMkp2VHVBU1ptT0JFQUtiRW1iU2xFclZyV0c0R3JSemZtQXZUMzFoRHFGTHItcEhpdjdWT2d5NjlWXzY2b1prcENib2puRkQyTzhvcEQxQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Influenza",
@@ -44,8 +103,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Pampa",
-      "headlineJa": "鳥インフルエンザの疑いで1ヶ月閉鎖、サプカイア動物園が一般公開を再開 - ラジオ・パンパ"
+      "sourceName": "TV Pampa",
+      "headlineJa": "鳥インフルエンザの疑いで1か月間休園、サプカイア動物園が一般公開を再開 - TV Pampa"
     },
     {
       "articleId": "gnews_6833760453aa0098",
@@ -66,6 +125,26 @@
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
       "headlineJa": "セサ氏は撤回して、調査されたブタンタンデング熱ワクチンに対する重篤な反応例3例のうち1例はCEからのものであると述べた - Diário do Nordeste"
+    },
+    {
+      "articleId": "gnews_0fdb67d377fd321b",
+      "headline": "Brasileiros recebem alerta sobre vacina feita no país contra a dengue para 2027 - TNH1",
+      "headlineTranslated": "Brazilians receive alert about vaccine made in the country against dengue for 2027 - TNH1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-12T23:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0ZRQ1dJd251YThSbnRGcEhZQkVmUVl2Rm81Vk53RHJ4eC11aFkxR3NOemxCYmFGalpvcnhkUmJJTWt6NUh3LW5VcHdQam9tTE13MVFKRXZYRXV3dFlFRVBET3pVRlpsdmpNS09fczJIal9sZ1BIYmVLRzBjT0JpYXJaZS1FeFo3RHpsTEo0VlpKa0dZckJ6M0dZeGRUOWUyMjJqNWRQZmIxTF9PMVZIRVNhYkxYUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TNH1",
+      "headlineJa": "ブラジル国民、2027年に向けてデング熱に対する自国製ワクチンに関する警告を受ける - TNH1"
     },
     {
       "articleId": "gnews_80fc2b5a2cfcf629",
@@ -182,8 +261,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Pará"
+        "Pará",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Pará de Notícias",
@@ -207,27 +286,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
-      "headlineJa": "EC、ブタンタン産のデング熱ワクチン4万5千回を接種、重篤な反応例を調査 - Diário do Nordeste"
-    },
-    {
-      "articleId": "gnews_bff0b3b8c7e5546a",
-      "headline": "EUA confirmam chegada do El Niño no mundo: o que o fenômeno significa para a saúde dos brasileiros - Veja Saúde",
-      "headlineTranslated": "USA confirms arrival of El Niño in the world: what the phenomenon means for the health of Brazilians - Veja Saúde",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T14:12:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2tYQ0hRZ1ZLMHBLd0hmdk9LYkktV1BBV1Y2aHlsdG5iZDRMalZQQlRwM1hYaXBvdGkxNVM3OC1UVkZReHRXNzhJVHpob1h3S2l5WFctelZKbFk3Mmp6Ul9Ta3RFSnRsQlMtVVR2amNIYUh2TmhReFlpc2EwZ3hVSndLNVNLZzEyQnlXcGdSUHRhZ3JEMF9LdHhsNm9CYl9aT0NkQ1BOamRXSjB0bFpmNTh4aGt6RW53aTMtejJ6X3IxWWdBY3UxeDF2VzdoU05RTnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Veja Saúde",
-      "headlineJa": "米国、世界にエルニーニョが到来していることを確認：この現象がブラジル人の健康に何を意味するか - Veja Saúde"
+      "headlineJa": "EC、ブタンタン産のデング熱ワクチン4万5千本を接種、重篤な反応例を調査 - Diário do Nordeste"
     },
     {
       "articleId": "gnews_340c2b5fd058b047",
@@ -248,26 +307,6 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas 24 Horas",
       "headlineJa": "感染拡大中の男、市長に殺害脅迫後に逮捕＝アラゴアス24時"
-    },
-    {
-      "articleId": "gnews_cee13d487dee2554",
-      "headline": "Butantan mantém estudo clínico da vacina contra dengue mesmo após suspensão da imunização - Muita Informação",
-      "headlineTranslated": "Butantan continues clinical study of the dengue vaccine even after suspension of immunization - Lots of Information",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T11:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZVZhVGt3dGR2LW5FZnI3bnhzdWRRbnpQLVZUcUREa3JZdWlDNWVqZ215SmREbUdpbVotS0NESElJcWo3NC01aVMxckU3SHhQczRmNnIxR3psNjVWaTFvSzNHN2U0QTgxVE5LMXVwaGFFMlNYLTFSd1h1aEV5Z0EyZnc2YXhrdVg1T25zWXJVSWYyNVFMdVZwTHB6YW9qSE4zUFhBbmt3bEtXamVFeVNhbUliVzlMdnNUMHdPNGNuRkhEYjFsakRJZDNseEZHXzFi?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Muita Informação",
-      "headlineJa": "ブタンタンは予防接種中止後もデング熱ワクチンの臨床研究を継続 - たくさんの情報"
     },
     {
       "articleId": "gnews_9c3a6a6b0a44b1c8",
@@ -443,215 +482,12 @@
       ],
       "locations": [],
       "states": [
-        "Santa Catarina",
-        "Pará"
+        "Pará",
+        "Santa Catarina"
       ],
       "dataSource": "Google News",
       "sourceName": "RBN 94,3 FM",
       "headlineJa": "SES、サンタカタリーナ州の十代の若者へのデング熱ワクチン接種を強化 - RBN 94.3 FM"
-    },
-    {
-      "articleId": "gnews_1f26a4ab68398709",
-      "headline": "Saiba quem pode tomar cada tipo de vacina contra dengue - TVBV ONLINE",
-      "headlineTranslated": "Find out who can take each type of dengue vaccine - TVBV ONLINE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T17:00:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzkzSGtRX0NSalVhRkZYeEt6R3hmcUNqNWhQZVhSYXlLNkY4UmdGSHlHRHJOSjdXUWtmX01YX1BpSklFcHU4TFJVcUVtbWsyUkE5clZBUjFYcHdPTmdsY1BKcGJjZHViWVBzLWFkYnQ3NmFmUTFmTnJmUFNPeDdlTXNBczJkSDg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TVBV ONLINE",
-      "headlineJa": "各種類のデング熱ワクチンを誰が接種できるかを調べる - TVBV ONLINE"
-    },
-    {
-      "articleId": "gnews_2c9d21ce1226bdca",
-      "headline": "Butantan mantém estudo sobre vacina da dengue em idosos nos centros do Sul - Folha MS",
-      "headlineTranslated": "Butantan continues study on dengue vaccine in elderly people in southern centers - Folha MS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T16:35:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkZUblphSnZfV0lKTEtoOEdfY25haGlBUnJlZ1drSmdNbjJaU09ZN2dNUmV3VldtZXJFZnk3UFdaUmlXTHdWRjBZYkdnQWgzekhDTFBaWV9rZG1ZQW80cVNVRkRMVkVWUkR2dEk5Q1NLZDVoaEdSZHRJQ0JVUXZHd1ZEQS1HeEZwc2g1ZkNBNTFsT0xIcjRfZlBwMzBKWXNzQS1uZEk3TlZkVllodGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha MS",
-      "headlineJa": "ブタンタンは南部の中心部の高齢者を対象としたデング熱ワクチンの研究を継続 - Folha MS"
-    },
-    {
-      "articleId": "gnews_6322b1376596e7e3",
-      "headline": "Vacina contra a dengue segue disponível para adolescentes em Santa Catarina - TVBV ONLINE",
-      "headlineTranslated": "Dengue vaccine remains available for teenagers in Santa Catarina - TVBV ONLINE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T15:49:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnU5aUFVYl8zSmtZR1BSQUFFX241VHFGaEpPaHRhcUhHNVdvVXVvNmVuSGE2SDQ0S05uV3dGUjZkTjVRVDR2WVZfVURoeEdMaUlsQ21mcEZSQjRlYjBaM2I3eUo3NUlsRHc0Nm5nYXU0bTRsUkVEM3p6ZU5XQUVwR2hOWkE1YmxNTDQ5UWI4dWZuWXJEc2xZYzdJWUlTYWhBVnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TVBV ONLINE",
-      "headlineJa": "デング熱ワクチンはサンタカタリーナ州の十代の若者に引き続き利用可能 - TVBV ONLINE"
-    },
-    {
-      "articleId": "gnews_48a425d2a1b369d1",
-      "headline": "Brasil lança campanha de vacinação contra sarampo para torcedores que vão para a Copa - G1",
-      "headlineTranslated": "Brazil launches measles vaccination campaign for fans going to the World Cup - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T15:28:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZVVYajJSbzFSVk5PM0ZtVngzVmMzcWhJeGtlcWxJSk82bnVVRHJpSTVVVHVUN2tqTlRaTVJrTEp3b1NCMDNEVEFpbFJ3LUNfbHJSNkwwN3pGRkN6ZUFFRkxaUmN2SDR4Z1hqc1gtWllfRHpXSVJZQ2loQ0tBamJjVVJDMnFYR3BFR0NvOUJRZnJHT1FUTno1aUx1dThrY21TdW54dXRPZmdnc0xlTGo0S0ttQ3dZYl9sOFJhQ2I0VkZJOTNuWkhHRW5JaWl0X3otT3JSLXJfcG5lU0t5R1Z3VWZpVXJrcEx2UGFDWi14a2oycFBwOWM4RFVsa0zSAYsCQVVfeXFMTUp3OGt4SGJONmttNTV5QlhmTjcwcC04M3p6SFk1SmVpam03eE05ckx2ZEFoMEx4Q0pxX29oUWpxX3VPR1h2VWpmWHF1TnA1cWNmSDNXUzlkVUhpbzllc2hHbFdwd3d6UmkwVTZEMWduZkNMNm5OVWRjZ1pDeTl0TENha0hoX1MtYVhFRjRoMnBCT0VRV3VoMVpNT1ZOMHN6MEU4bTZoeUdIQk5iMHozaTh6a0tPMW1mRmVicGVDblVTdlZnS0QwM3BaSjFpS3dmYmJsX2MzY3FPazFUZ3hQLUREOWwzMnFoaExYMFJIVDlzaXNENWVGLVBMX2QxcG9pRklsMVoyQm9fYzBJ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ブラジル、ワールドカップに行くファン向けに麻疹ワクチン接種キャンペーンを開始 - G1"
-    },
-    {
-      "articleId": "gnews_e0195c2e5bc19a75",
-      "headline": "Dengue e infecção respiratória: médicos alertam para quadros simultâneos no Piauí - G1",
-      "headlineTranslated": "Dengue and respiratory infection: doctors warn of simultaneous conditions in Piauí - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T14:07:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRm9aa1VvTXV6MnlCR3l1eTZZaUZPejVBeHRaM1hmWlg5alRvMjBuMV9sbUdrS2JNdFpreVFaUTBvSUlTREJoLTFEMzFIa1V3WlVKT0NGVHpTMEFmcmdVeFFKbnoxeGZpeHVsSDdCS0Njbkh4dkIwSWxVMWdJTlBidG82RGc4YW5CeVg2T1Y3Q0pHVVFzNWFfeFI3VGx5WnBPb3JJUXk1SHR6Mm5wWVVldGZFaF9fZFd4UktTdW1WelRrUGVRd0pJWnNid1Z4U29CRl9DVmloaVZ5b2VTX3RkcHFQZGtsSENsVEp0T0ZCSzJPa2dBdXfSAfYBQVVfeXFMUEZvWmtVb011ejJ5Qkd5dXk2WWlGT3o1QXh0WjNYZlpYOWpUbzIwbjFfbG1Ha0tiTXRaa3lRWlEwb0lJU0RCaC0xRDMxSGtVd1pVSk9DRlR6UzBBZnJnVXhRSm56MXhmaXh1bEg3QktDY25IeHZCMElsVTFnSU5QYnRvNkRnOGFuQnlYNk9WN0NKR1VRczVhX3hSN1RseVpwT29ySVF5NUh0ejJucFlVZXRmRWhfX2RXeFJLU3VtVnpUa1BlUXdKSVpzYndWeFNvQkZfQ1ZpaGlWeW9lU190ZHBxUGRrbEhDbFRKdE9GQksyT2tnQXV3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱と呼吸器感染症：ピアウイ州で医師らが同時多発症状を警告 - G1"
-    },
-    {
-      "articleId": "gnews_3db2a1cf9284e70e",
-      "headline": "Aplicativo Dengue SC - Assembleia Legislativa do Estado de Santa Catarina",
-      "headlineTranslated": "Dengue SC application - Legislative Assembly of the State of Santa Catarina",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T13:06:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56SjY2eFZoWEZLWGRDVjZmMk5RUXVaU3FmNlZya0R6emg4X01NbkxYWFRDZTFyLW80ZkxZT1NGdkx0UU1ONl9zYkZIYVJMZVoxcFNpUzBKRGQ1NnpmbTZOVmFtQ003WDdJZnNEbFpn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Assembleia Legislativa do Estado de Santa Catarina",
-      "headlineJa": "デング熱SC申請 - サンタカタリーナ州議会"
-    },
-    {
-      "articleId": "gnews_ab20090f2de7a911",
-      "headline": "Cerca de 15 mil profissionais da saúde no RS receberam vacina da dengue suspensa em todo o país - Terra",
-      "headlineTranslated": "Around 15 thousand health professionals in RS received the dengue vaccine suspended across the country - Terra",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T12:52:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV1hKZEhFVFBZUEZQaW5IYWZGRGFsaG11NVE5a1RCNFgtMjhfT2JpR3N4cG1rbXVBTVBfWW1lNVdTTURIQ1BCSXIySVc3OEhaUzdGZm1ZWEtzemtJS3gwaEt5MjlaNHk0RVJpLU0xNnhBYjhQakowRVM3eGRYeGJaT2dzWE52b1J3SWZ4UFlvNkM3NXFtVjZfRndzc3NCN3VCR0lhMkJYSWgtMFlaRW9zM2d3MElvOE9IaVlNcC1jcmtlMy1xaS1pZ01jbVZCSGYwWnE1b0xtYkZibllDRFhDQ2IxOWNCckh3al9EZWZaZWdrWGFHczdvTUZwNlltdVlEWThZNklR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "RSの約15,000人の医療専門家が全国で一時停止されたデング熱ワクチンの接種を受けた - Terra"
-    },
-    {
-      "articleId": "gnews_c240990cd2a3f989",
-      "headline": "Saúde / Vacinação contra a dengue para adolescentes segue disponível em Santa Catarina - Diario do Planalto",
-      "headlineTranslated": "Health / Dengue vaccination for adolescents remains available in Santa Catarina - Diario do Planalto",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T12:37:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFE3em1YT3VjQy05Z203bjdpWW15Umc2UlQ0eGYyV2t4MTBkZW9seHhsNEd5TVBtTExrY0NlQUk5Qm1PT05iQTd2eUJ1ZnpUTEVpcF9PX1RUR016ZERaSEtuajRmdFRxMkxIQmVhZWFra2dJVlZpX3dORlpzZ1UwdU5sUVVial9ORGFlalJDV1JJMzVIMWtDSzdpcllKMUVmZjVqN1JFWXowWmYtQzlyZ2ZRLTU4cW5Pd2pRMDc3UENkSmJNcTZrZlhZUWN5enc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diario do Planalto",
-      "headlineJa": "保健/青少年向けデング熱ワクチン接種はサンタカタリーナ州で引き続き可能 - Diario do Planalto"
-    },
-    {
-      "articleId": "gnews_ae197475d3f12583",
-      "headline": "Butantan mantém estudo da vacina da dengue em idosos na Região Sul mesmo após suspensão da imunização pelo Ministério da Saúde - Bacana News",
-      "headlineTranslated": "Butantan continues to study the dengue vaccine in the elderly in the South region even after suspension of immunization by the Ministry of Health - Bacana News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV0tadzJxMDE3VUdqVG5UVFJWajhtZUkxTFJKVGVnenlXYTNWaW5Hbmx5VGFIc1J4ZnhKM3VBVHlFNGZUa2M4c0R1dXdhNlRjVTdDcWFhMmVIV3RzOEg1LVMyelJ3RzFGbTdsWk92OWU3c2xBMWVYTjU1VDZuMEt1N3BpX3EzMGlaMjJiMmlYV212S3dXUU9YMHZKUC16U3JlNC1kR2VrVGZpSmZkdVgwa0pQdDhESUVLUmZnM2xxVllJRmdBaHpZQnRxVDFYN1MwOUZkcm8tZG1WWG1BaUF1VFpnN18wQ1g5?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bacana News",
-      "headlineJa": "ブタンタンは保健省による予防接種停止後も南部地域の高齢者を対象としたデング熱ワクチンの研究を続けている - Bacana News"
-    },
-    {
-      "articleId": "gnews_545e33472e350a3c",
-      "headline": "Saúde orienta população a atualizar vacinação contra o sarampo antes da Copa do Mundo - portal lj",
-      "headlineTranslated": "Health advises population to update measles vaccination before World Cup - lj portal",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-11T11:38:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1NBZDFHVkRINUVGREV1RlFkb1B1ZkwwZU44ZXBmcGFRc3A3RTYzM1o5a056Nk1kREpQbjdXdWFmd29UeTkwYjRDdF9sSkRlYndUOW4wcDdPck1QcnNpQ0daRDN0VWlneU1tVThkT3JrREJvVzU1SEpkNklyTEtrNzJqME1pRWpxU1NaQU4wOElkRkRDQ2Nqa2FDQTZkdmppRUhabmpzUkVwX3k0YTBhdzZ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portal lj",
-      "headlineJa": "保健省、ワールドカップ前に麻疹ワクチン接種を更新するよう国民に勧告 - lj portal"
     }
   ]
 }
