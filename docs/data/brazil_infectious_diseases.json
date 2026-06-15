@@ -1,25 +1,41 @@
 {
-  "generated_at": "2026-06-14T17:38:58.788177+00:00",
+  "generated_at": "2026-06-15T04:49:49.527143+00:00",
   "date_range": {
-    "start": "2026-06-12T17:38:58.788177+00:00",
-    "end": "2026-06-14T17:38:58.788177+00:00"
+    "start": "2026-06-13T04:49:49.527143+00:00",
+    "end": "2026-06-15T04:49:49.527143+00:00"
   },
-  "total_articles": 11,
+  "total_articles": 6,
   "state_summary": {
-    "Brasil (estado não identificado)": 7,
+    "Mato Grosso": 1,
+    "Brasil (estado não identificado)": 3,
     "Ceará": 1,
-    "Pará": 3,
-    "Paraná": 1,
-    "São Paulo": 1
+    "Pará": 1
   },
   "disease_summary": {
-    "Dengue": 5,
-    "Measles": 3,
-    "Avian Influenza": 1,
-    "Influenza": 2,
-    "Doença infecciosa (não especificada)": 1
+    "Dengue": 3,
+    "Measles": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_f7651e5648ce0081",
+      "headline": "Butantan mantém estudo clínico sobre vacina contra dengue no Sul do país - O Mato Grosso",
+      "headlineTranslated": "Butantan continues clinical study on dengue vaccine in the south of the country - O Mato Grosso",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-14T20:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTl9xeTdVOXBRRE1ZMFV5b2hNeXFRT3VlVU4tYjNVaXNqVUtWZ2VsWmowN3J2eXI5Y2o4SkVLajJpNHYxaWtYd0RqQnFwaTJmMENsTGZBUU9scjRUWTdNaDBxWFI2ZldtUW1kc2Z6ajVIaFdZUWJkdXFlV2hSWjBrelI3dU1xemM0MDlGY3pVS3MtUlRRdF9HOWg2NmJlQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Mato Grosso",
+      "headlineJa": "ブタンタン、国の南部でデング熱ワクチンの臨床研究を継続 - O Mato Grosso"
+    },
     {
       "articleId": "gnews_8584f2f6c5f77896",
       "headline": "Brasil aprova primeira vacina nacional contra dengue; Butantan-DV será incorporada ao PNI - Diário da Guanabara",
@@ -38,7 +54,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário da Guanabara",
-      "headlineJa": "ブラジルがデング熱に対する初の国家ワクチンを承認。ブタンタン-DVはPNIに組み込まれる予定 - ディアリオ・ダ・グアナバラ"
+      "headlineJa": "ブラジル、デング熱に対する初の国家ワクチンを承認。ブタンタン-DVはPNIに組み込まれる予定 - ディアリオ・ダ・グアナバラ"
     },
     {
       "articleId": "gnews_5d5eafae9973c3c5",
@@ -78,7 +94,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "liberal.com.br",
-      "headlineJa": "ワールドカップ参加国で麻疹症例増加、地域に警告サイン - liberal.com.br"
+      "headlineJa": "ワールドカップ出場国で麻疹症例増加、地域に警告サイン - liberty.com.br"
     },
     {
       "articleId": "gnews_ac4740ed3f5c044b",
@@ -119,129 +135,6 @@
       "dataSource": "Google News",
       "sourceName": "R7 Entretenimento",
       "headlineJa": "ワールドカップに行くんですか？保健省、旅行前の麻疹ワクチン接種について警告 - R7 Entertainment"
-    },
-    {
-      "articleId": "gnews_52480f7be8c871e9",
-      "headline": "Fechado durante um mês por suspeita de gripe aviária, Zoológico de Sapucaia é reaberto ao público - Jornal O Sul",
-      "headlineTranslated": "Closed for a month due to suspected bird flu, Sapucaia Zoo reopens to the public - Jornal O Sul",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-13T01:22:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYThURkpyckFwOUt2eDNoYXVtOTFGdFBtZk9namxkbVo4SlRFM0RNOEcwcTgtaGlnRVd3MXZNNEloR2dJNVVreGVKbElwQlJQYTlwUHVWV01qV2F5X2tTaG83cm5NYkJjU3pydmtkTUx5ODV6eDVQcHE0OEM4dXVLMGw4Nzh1elE5Q3ptRXpjUVNKVG1vYm53YWFndmVySWtYWTE5aW82ell4VzYyS3dYVlZiSE5GeDZqMjNzenFn0gHDAUFVX3lxTFBhQjBRaHhkS2dXd1FDZk5SOG9fNkp3VkI4UWtDZDZCdUo3dnFqckhhYVlod0FyN3JCLUxBLWxQQkRQdWROMXlFbWxSWllaVmQ4eDJmVno2OHl0Y09EYXJhbU95YnQteVcwR1VLZ2pETWpxTHVVckR1WmxYOXExRjg2bFNJeHA0UXIyaVhLN29zWXhZbURodFJDR3pySnR4MlRYSWY3YngwSUZzclB1TER4SDdHVXJSaGJ2NGFmQ1BGR1hQYw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal O Sul",
-      "headlineJa": "鳥インフルエンザの疑いで1ヶ月閉鎖、サプカイア動物園が一般公開を再開 - Jornal O Sul"
-    },
-    {
-      "articleId": "gnews_6833760453aa0098",
-      "headline": "Sesa volta atrás e diz que 1 dos 3 casos investigados de reação grave à vacina da dengue do Butantan é do CE - Diário do Nordeste",
-      "headlineTranslated": "Sesa backtracks and says that 1 of the 3 investigated cases of serious reaction to the Butantan dengue vaccine is from the CE - Diário do Nordeste",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T23:39:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZG1OaHMzQnlzLUdKQzV0WGJFWC1KRUVGbC1HNkw1YjFFMG9ZS2lvV0syUmZxdEQwQ1RNQ21qWVNPWS12VmRlaDgzQkRTRnQ4VGNucGk4d255Ml9HUnJwQm1vYWVtX0FwVEIyY0doNlJZY3ZobDZzTXpvMlJQeUJVcHY5bWw0Nm9pa0d3MU4xYlMtQUNRc1FZR2c3eFdYbjlmclJEcGFVSGFkS0F1U0xuOE4wNF9RTHpVLUk4QklBcUM4Z0JySmRzcmc0QWtpUE5tczdrdmt1VVlMZ2tMekp1d2pUeC0xNEl1dFYxT1l4ODJTWlNUcjIwYy1Oa20?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário do Nordeste",
-      "headlineJa": "セサ氏は撤回して、調査されたブタンタンデング熱ワクチンに対する重篤な反応例3例のうち1例はCEからのものであると述べた - Diário do Nordeste"
-    },
-    {
-      "articleId": "gnews_4121849f252ff289",
-      "headline": "Paraná conclui ciclo 2025/2026 de vigilância ativa para Influenza Aviária e Doença de Newcastle - CompreRural",
-      "headlineTranslated": "Paraná concludes 2025/2026 cycle of active surveillance for Avian Influenza and Newcastle Disease - CompreRural",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T21:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzdSTTBPSXo1RG9XUjM5RWNEN1FhM1h5QkNEWlJWN25QZklfN2doYW1xcDIxSFhwSjRlVDdYUHNiUFlnMnU5aXJlczRWRWNXeG9zMktXdDNkem1pck5YejFhc3dkR2o0amZadHlJbDhqbUUtUzZCR0R5Ulo4QlhVelY4SFdkUURSUmoyMlZJYmpGbkhBMzZ5THhpTmt1WUxKcS1hYllWQS15dDVINVh0V3FUYXZNM2tVekNZaA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CompreRural",
-      "headlineJa": "パラナ州、鳥インフルエンザとニューカッスル病に対する積極的監視の2025/2026サイクルを終了 - CompreRural"
-    },
-    {
-      "articleId": "gnews_1a66056316730576",
-      "headline": "Homem é baleado por guarda ao invadir UPA de BH armado com facas - G1",
-      "headlineTranslated": "Man is shot by guard when he invades UPA in BH armed with knives - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T20:19:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0Flb2tPUHl3dURBdkl1UTIyTDlXdlMwUFkzUTQtLTFKZk5FcVpXWW9rcGRiblMwSEdOUkJLZVhkSEY3SGVLakVKUFZpcnQybTF3UUs3SEV3N2ZfR2xaSU1NRUZPekRxQVlyUzNpdXU0RWphdW1HWENJdlVvMm44aDBDWGR3Zk1abHRaM2NDVkc0blM3a0o0SDZFZ0doSEZRcGhENXE0NGE2S0lrNFFmbXJHU1dTTkhhcnRfLW4ydlBKYTZD0gHTAUFVX3lxTE0xNHJZRkVuOHd6TVlNZE8zTE5udktnYUJ4RDJYRmNwUUZvUzdKeE50am9oR1FkZTdPZzlYNkp6eXF5aXZxdVYzZjA5eEFoNXAwTWt0VS1XM0xwVzV1SGozMzQyVmhPc2FyS1R0eU16Ym40RFVGdkc1ZTRCUE9jVWY2Ry1jOG81UzdiX0JNekdrYjdVcDFMUlV2aVRIMFh5V0RLckdraFVpVk9hbXdlYTBTZktRVWF6b29aUGFscFFsVUQ4UDBLVWFqLVZmeHZnTnBoMnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "ナイフを持ってBHのUPAに侵入した男性が警備員に射殺される - G1"
-    },
-    {
-      "articleId": "gnews_04a0acd77617df7b",
-      "headline": "Brasil amplia vigilância de vacinas após eventos adversos de imunizante contra dengue - Folha de S.Paulo",
-      "headlineTranslated": "Brazil expands vaccine surveillance after adverse events with dengue vaccine - Folha de S.Paulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T17:57:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOGFDNEJMTEktdVlVZzAyV1gwNUkxTDk0dy03YzNCT0RFRjFlT19OaHJ2SURBTnBNOHdvRVBqSnVuYlM2YUgwRVJVeGxsSkExOEZCQlFaYzMzQmxKcEpqVUh4ejlORVhPUE16Y3JQMHg0Z2lxd1oxR2RKWUw3ajFzanpqUWxfeDNEaHBnOFBrRjFxcWRmS2pYcGVRcS1EMnVpc2F5bWc1dEJ6cWN5VTZtVFZtZ2pTZlJjY1J4dHBoMDFOcDRiaEM2NEJRSjl6eG5iLTk4Rlk0RWJfd1pLb01r?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de S.Paulo",
-      "headlineJa": "ブラジル、デング熱ワクチンの有害事象を受けてワクチン監視を拡大 - Folha de S.Paulo"
-    },
-    {
-      "articleId": "gnews_615b3f9e917fd853",
-      "headline": "Paciente vence complicações da dengue no Abelardo Santos - Agência Pará de Notícias",
-      "headlineTranslated": "Patient overcomes dengue complications at Abelardo Santos - Agência Pará de Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-12T17:39:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3p2bXZoaVNlY3NnWUtBR0w3V2dNU2J2TmNJSy1KWUR1U3RPN3JEQWg1WFNGcmp0SHB3UTNoMVpQZW5lLWtpc2J1V1hNVmhac2lyZDFDLUJ4bU40NDY4aW5UZmhJRlJIMHJqUnN6OU9GbWxHRXBXcmp1cVRBSWN5VFJDQzAxMElwbGhZN3RfWTlhOUZmWUVma3lLVlllZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Pará de Notícias",
-      "headlineJa": "アベラルド・サントスで患者がデング熱合併症を克服 - Agência Pará de Notícias"
     }
   ]
 }
