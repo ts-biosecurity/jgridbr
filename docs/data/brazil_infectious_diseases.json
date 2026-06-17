@@ -1,37 +1,140 @@
 {
-  "generated_at": "2026-06-17T12:17:12.301663+00:00",
+  "generated_at": "2026-06-17T18:28:48.926737+00:00",
   "date_range": {
-    "start": "2026-06-15T12:17:12.301663+00:00",
-    "end": "2026-06-17T12:17:12.301663+00:00"
+    "start": "2026-06-15T18:28:48.926737+00:00",
+    "end": "2026-06-17T18:28:48.926737+00:00"
   },
   "total_articles": 38,
   "state_summary": {
+    "Paraíba": 1,
+    "Pará": 22,
+    "São Paulo": 2,
+    "Tocantins": 1,
+    "Acre": 1,
     "Brasil (estado não identificado)": 7,
-    "Pará": 21,
     "Mato Grosso": 1,
     "Roraima": 1,
     "Rondônia": 1,
     "Santa Catarina": 1,
     "Minas Gerais": 2,
+    "Alagoas": 3,
     "Bahia": 2,
     "Ceará": 1,
     "Amazonas": 1,
-    "Alagoas": 2,
-    "Pernambuco": 1,
-    "São Paulo": 1,
-    "Sergipe": 1,
-    "Acre": 2,
-    "Paraíba": 1
+    "Pernambuco": 1
   },
   "disease_summary": {
-    "Influenza": 3,
+    "Yellow Fever": 1,
     "Dengue": 30,
     "Doença infecciosa (não especificada)": 4,
+    "Influenza": 2,
     "COVID-19": 1,
     "Measles": 2,
     "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_fd2d1cfe80d977ce",
+      "headline": "SP reforça orientação sobre vacina contra febre amarela após novo caso no Vale do Paraíba - BOM DIA GUARULHOS",
+      "headlineTranslated": "SP reinforces guidance on yellow fever vaccine after new case in Vale do Paraíba - GOOD MORNING GUARULHOS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T18:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZzdZQ3p4SDlPZlRMd2Jra2ZBbGlnckd6bXAtUEN4OUd2VWNQNTd4TGw4VE5jVGhqdVA4dl9hdE9HS092ckYyTkRucG9LZjlTUWVFYzZuVEVEMEhMSVgtZWU4aHBDaVdqa3BTcTFGVEoyc1ZhdTN2bXJFUFFQX1V5Zlkwd21iMGNFQWtJRGRzbW01aE53cE1FWHRMeUxRWHE1blF0WTFIcmIydTB3eGJDU2VoOVNNa0tvWi1YczZic015M3FiQTNWNlRoeHJoQ3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba",
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BOM DIA GUARULHOS",
+      "headlineJa": "ヴァーレ・ド・パライバでの新規感染者発生を受け、SPが黄熱ワクチンに関する指導を強化 - おはようグアルーリョス"
+    },
+    {
+      "articleId": "gnews_3d69f225980ecd9e",
+      "headline": "Suspensão de vacina contra dengue do Butantan não registra casos graves no Pará | Pará | O Liberal - O Liberal",
+      "headlineTranslated": "Suspension of the Butantan dengue vaccine does not register serious cases in Pará | Pará | The Liberal - The Liberal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T18:02:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXNqaGhlVXFvdktsczdNVHI1Q3lySklKNEFCcEsyRjdCQzZsVE5hNElWQzQya1kwbE1jMHRZalA2ZlBLcnBZODlDbjRkdWRoOUtwWmxOV2ZONGtrVWZpeEQtcVZiQWZkeGNzM0ZoVXNZVlJvdVZPLTlrU0QwUmswU09ONzdtZzhwTFN6VWJrLUw3YTBlUkpwX3Rpd2UxUVRVWm84ME9KRTdBRXNBOEZKN1k5RmpsT3Ezemx30gHAAUFVX3lxTE9JaFQxZVN5T3NNajgzcjVUSXdmTHlIWi1wWng1V3RoSVNvbkg3WnAzVllmUVhSbDhuazdXQ29tc2JPT2JaU1NVczUzTHhuVWM2LWd0Qm1IUmY1SU5rSW9YUUFqbGJKV3B4Q0oxeEtSbXVaU082NUIxNU1oUWV5U213MU16UlpEdGxhVktrMnA0Z3JsQUM4UWxDQ0NDTWpzSnR2eEhUYVBwRkxzbXM4c09IdC1fakxIMHNLeU9ta0JwUg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Liberal",
+      "headlineJa": "ブタンタンデング熱ワクチンの一時停止でもパラー州では重篤な症例は報告されていない |パラー州 |リベラル - リベラル"
+    },
+    {
+      "articleId": "gnews_1599e216b34c8993",
+      "headline": "Com mais de 15 mil casos de dengue, Mantoan pede mais ações contra o avanço da doença - Assembleia Legislativa do Tocantins",
+      "headlineTranslated": "With more than 15 thousand cases of dengue, Mantoan calls for more action against the spread of the disease - Tocantins Legislative Assembly",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T17:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWNaTUdoYmduT2MwZTZ5THlnNFJ2QV9pNVVnRDIydVVxaklvMlhTTU9UZF9yV3VkR2FoTVRYMjdCUXVDQm5ueHBkUllFQkt4ZmNSWVZYVERMS0ZXZExWYzdobV9iMFdiVk9PNDltMkVUbVhtTTE4T3RRMFlQaU5UNmFycU0yWlVSVDR3M29mRHJxSU50V2YyT2k0c0R3QUJkTFprVjRUSkMtdWxzUVRkUGtWVmlOQzh5X0dkWUpqN3lEaXdoakFGdXlKQjhtRkNBQTlXZUtEYmt0b2ZJNEpmQnhB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Assembleia Legislativa do Tocantins",
+      "headlineJa": "デング熱の感染者が1万5千人を超える中、マントアン州は病気の蔓延に対するさらなる行動を呼びかける - トカンチンス立法議会"
+    },
+    {
+      "articleId": "gnews_627e8938faab52a5",
+      "headline": "Acre registra queda de 75% nos casos prováveis de dengue em 2026 - Agazeta.net",
+      "headlineTranslated": "Acre records a 75% drop in probable dengue cases in 2026 - Agazeta.net",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T14:44:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamlYQy12SFNLQjBkcDE2TExrdzVXbmdxMW5CTFE4b253ekEtdVRDcGU2U1FXNENBa0tXY3ZuWkNZTVdPZkI5aUw1MGRyNW9seXhjOHkySDIwazg3aE9mNUxITU8tZGtDTzBlLVhiR2ZPN3BLMzFQNHRheXRQaFd4eU9KZF9JbUNmV0VpRQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agazeta.net",
+      "headlineJa": "アクレは、2026 年にデング熱感染の可能性が 75% 減少すると記録 - Agazeta.net"
+    },
+    {
+      "articleId": "gnews_88d485e3ac64aee3",
+      "headline": "Brasil passa a ter campanha nacional permanente de vacinação contra brucelose - opresenterural.com.br",
+      "headlineTranslated": "Brazil now has a permanent national vaccination campaign against brucellosis - opresenterural.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T13:34:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3ZERmp1QmRiOUQ0UXpJTDdubElwNzRRR1RXcVhXOUNPN3p5WjJrRmdqV3l0aG10M01IQTVGSnFJTWRCY0VwNEhkNmQ2NGZZTjJFRl9BM0lxR28zbW1kcVFXTWZVbjhqbkliU205dnFtRFB2MWhCVm1yN0ZiUkRsMExXNC1MN0Zvb1o0OXNIemFnNWdNRHVhV2R1TWt0TS14TWF2N080N2NaVDZL?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "opresenterural.com.br",
+      "headlineJa": "ブラジルは現在、ブルセラ症に対する全国的な恒久的なワクチン接種キャンペーンを行っている - opresenterural.com.br"
+    },
     {
       "articleId": "gnews_ffc5ab06e0980ca9",
       "headline": "Vigilância da influenza aviária no Brasil completa duas décadas e reforça proteção sanitária da avicultura - Agrimidia",
@@ -50,7 +153,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agrimidia",
-      "headlineJa": "ブラジルでの鳥インフルエンザ監視が20年に渡り家禽の健康保護を強化 - アグリミディア"
+      "headlineJa": "ブラジルでの鳥インフルエンザ監視が20年に渡り家禽の健康保護を強化 - Agrimidia"
     },
     {
       "articleId": "gnews_56275cd5a3d0741d",
@@ -94,6 +197,26 @@
       "headlineJa": "Anvisa、ブタンタンのデング熱ワクチンを調査するための作業グループを設立 - Diario de Cuiabá"
     },
     {
+      "articleId": "gnews_26b79de8f535ad85",
+      "headline": "Anvisa cria grupo de trabalho para investigar vacina da dengue do Butantan - Estadão",
+      "headlineTranslated": "Anvisa creates working group to investigate Butantan's dengue vaccine - Estadão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T20:56:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC12NTZfWk1TcVRWNEVlN2ZVdHpqNjY0RGNTakdSV3g1ZkI3VHhLY3FxeEZubEtKbzBOdHJYTjZYZWNTcXRubzBtaFdISVpOOE1qRi1xTExPckdIWmV4UXFqR28wVUJMQ05scGtUcGMtUlBYZmJOQWtDOUNfZThVdk16NVMtZlctaVpzWHo0dmdQUm1VQ0VVUFQtVzVSRHE2LUh6S3ZrX1VfYXFYaXB5bzAxd9IBuAFBVV95cUxPajNjTnQxYk9mSmxibzllalpTeV9YV05hWlExVWU3UVZUZDdIX01nMkFIc2lQTk4yYVF2cGVBcVJ1aWpMNmVFclVRUG5uSVYwRTJoS0JxVkczU0JrWDQwYzE2ZlVISjR4MnAtelJBMndYeXY0cU1DYVZ6TG9fM2k3Q2lHLWtUeVd0M29rVDdQVWdqbU5KbGNodWdQT3FUVXRYN0c2Z2NpcUhSS180MDNXY1c5aGd1ODR4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão",
+      "headlineJa": "Anvisa、ブタンタンのデング熱ワクチンを調査するための作業グループを設立 - Estadão"
+    },
+    {
       "articleId": "gnews_ef4b0be9da358a46",
       "headline": "Grupo técnico avaliará eventos adversos e perfil de risco do imunizante - PDNews",
       "headlineTranslated": "Technical group will evaluate adverse events and risk profile of the immunizer - PDNews",
@@ -132,26 +255,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
       "headlineJa": "デング熱ワクチンの一時停止が 6 月の Google トレンドで他のハイライトを上回る - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_22293afe93252443",
-      "headline": "Anvisa cria grupo de trabalho para investigar vacina da dengue do Butantan - Midiamax",
-      "headlineTranslated": "Anvisa creates working group to investigate Butantan's dengue vaccine - Midiamax",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T20:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEN1TXppZjE2SEpheFd2TWJxSENYdkZYTnpDZHp5MGhpd2RWWGNzbDlqTk1kQXlkTVAtc1dNZU1GaUZqVFUtemlDSkNTS2xoRXY2WWRBSy1RdzR6NW4xR1F3OW1NQnlySXQ2ZEc2cFdYaEV3ZURDZGdLWllwMkluQl9ocmdGMmJhN2ZibHJsQnh0b3F0MzE5eDR6dG4xZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Midiamax",
-      "headlineJa": "Anvisa、ブタンタンのデング熱ワクチンを調査するための作業グループを設立 - Midiamax"
     },
     {
       "articleId": "gnews_71e819c22dcd755e",
@@ -248,8 +351,8 @@
       ],
       "locations": [],
       "states": [
-        "Santa Catarina",
-        "Pará"
+        "Pará",
+        "Santa Catarina"
       ],
       "dataSource": "Google News",
       "sourceName": "dive.sc.gov.br",
@@ -276,6 +379,27 @@
       "headlineJa": "ウベラバ（MG）のブラジル大学レーデ病院で実施された研究により、高齢者におけるデング熱に関する知識が拡大 - www.gov.br"
     },
     {
+      "articleId": "gnews_dcf54483dd1bdd76",
+      "headline": "Dengue: Anvisa cria grupo para avaliar segurança da vacina do Butantan - Folha de Alagoas",
+      "headlineTranslated": "Dengue: Anvisa creates group to evaluate the safety of the Butantan vaccine - Folha de Alagoas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T16:47:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2NZdlFmRkpval9VMlNpdGxGMzM1YlU1TFNZd1NCQW40MzhzcGp1MUlTTng0akRKakFrNVYzMlZZWTRGVXgwWkprZVFaZ1FMZFhDSEdOQ3VQYXQ3eGQ3X0xoaEpuOG1MZDhRZjF6eXh3clNONzBtaGU5VkJ6RXBKa3lUb2Jsc3RwNXgxNjloOXNER0xIcXRYaXhIMEpPOHkzTHJraU1yWjR5VG8tNzdfbtIBtgFBVV95cUxQZ1ZkY041cGVVNG42bGVtQ1EtdW9yaUpub2g3bUphNjJGQ2RoemhjV29OLWlSdFNSRWlIWkxCSUdhSVUwYTBmXzBjRE5MbzlxMDlyRjZsVVVLUENRRUlmSDFLdW1wd2pKbmc4RE5xeTNZZjVkQlBJZUk2LS1PcXFEZ3Z6Y0J0akZxdnpENG1ldGs3WC1teVN0amkyS3BRVWxhbUhhMjlNMkV5XzB3X2NJX3RmUkViZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha de Alagoas",
+      "headlineJa": "デング熱：Anvisa、ブタンタンワクチンの安全性を評価するグループを設立 - Folha de Alagoas"
+    },
+    {
       "articleId": "gnews_285eebda9ab47908",
       "headline": "Vacinação com horário ampliado em Salvador oferece doses contra gripe Covid-19 e sarampo nesta terça-feira - Muita Informação",
       "headlineTranslated": "Vaccination with extended hours in Salvador offers doses against Covid-19 flu and measles this Tuesday - Lots of Information",
@@ -286,8 +410,8 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "COVID-19",
-        "Measles",
-        "Influenza"
+        "Influenza",
+        "Measles"
       ],
       "locations": [],
       "states": [
@@ -351,8 +475,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas",
@@ -493,8 +617,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
@@ -534,8 +658,8 @@
       ],
       "locations": [],
       "states": [
-        "Bahia",
-        "Pará"
+        "Pará",
+        "Bahia"
       ],
       "dataSource": "Google News",
       "sourceName": "- Bahia Economica",
@@ -575,8 +699,8 @@
       ],
       "locations": [],
       "states": [
-        "Pernambuco",
-        "Pará"
+        "Pará",
+        "Pernambuco"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco",
@@ -621,26 +745,6 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas 24 Horas",
       "headlineJa": "感染拡大中の男性、家族を脅迫後テーザー銃で封じ込め－アラゴアス24ホラス"
-    },
-    {
-      "articleId": "gnews_6fb21ec269ab9ec6",
-      "headline": "Anvisa forma grupo para analisar segurança da vacina do Butantan contra dengue - Tribuna do Agreste",
-      "headlineTranslated": "Anvisa forms a group to analyze the safety of the Butantan vaccine against dengue - Tribuna do Agreste",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T12:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJYcDNUajlCZkx3bzFGMDRHLWtRdUpFbTdkdEhnaHd1Y2N5dE5nOGViRjhKekd2VWhiSzE1UERPaDVVbFB6UWVmYmtwYlNTOVAxWFVCbmdlWHJrWlFjcVBjd3kzaFpSYTN1dnVORTlZNTRBTkdhOEt3TXhSYXF4UE5DaUtfN0RUam1lcXJISlFzUk94NXlKWlF5Z1Jmb2RzTlprUWxlS29fZnZBc3FJZjRQcE44MU02R1N1MGpJd0tfcWpKZDk2OUFoUkZGUElrUGVpeg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Agreste",
-      "headlineJa": "Anvisa、デング熱に対するブタンタンワクチンの安全性を分析するグループを設立 - Tribuna do Agreste"
     },
     {
       "articleId": "gnews_4382d0b1779120d4",
@@ -701,107 +805,6 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "AIモデルはサンパウロの近隣地域全体でデング熱を事前にマッピングする - CNN Brasil"
-    },
-    {
-      "articleId": "gnews_5c0552c7412c43aa",
-      "headline": "Mazola revela surto de intoxicação, reclama da arbitragem e valoriza reação do Ituano no Sergipe - ge",
-      "headlineTranslated": "Mazola reveals an outbreak of poisoning, complains about the arbitration and values ​​Ituano's reaction in Sergipe - ge",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T16:02:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMWhxdGdHcTVnWjlDcWpQOWE1NmtBeFo1MEd3SGJaaWtqQjJWMER1dlN4RmZHZVpyTEN2WGh4NUQxeVFELVNsV2FfcEVQX0F1N0JPalpqWmtRczdsVm1YaDJMN3ZqUTVFR0FmcktiRnhhU1BTT082TUpqSHZVNWtoeDFLVTVPX2RxRGU0ai1oRWZmMlRKTkcxY2Z3UFl6RGdhejlUX0tXRjNldlhmMFVPbXMwejl5S0lUUnFvRGt1MzRWTEp2V0Y1YktiQmkxakM1WlVoUDgyRlVrMkhzZG0tZEpIc3V0Y25qdFU5QTFPY1NUSnpmVEhYREI2elpOa0hQY2ZncXB6T2TSAZcCQVVfeXFMT051OU5xM0loSW1aMjg5MzA3dGE0SDZTbVBJczFObWlZRWJoOGhWUmdlcTFBWjcwLUtmMUQ1N1Nvb2dFY2tSLW5fRFNYMkJXcG9TYm1Demx1elVsWEM2VkF5WGJuaFgyTFZoeld1R1VtRW9JeDdZcU40WDllVzAxcmw3Z3FJQ19sa2UxYzdzZlBIbmdyeWdDX1lja2ZpR1FMaG1GcElYaGFKdVNLOS1DSTZfUE13Wlc5aEZhSlJCalZCdkhHYVZWanFZQVV6blk5MFptN3hCRWduT1JQN250RjZfQmstaVNySXFRQXhxY2J4SVFCd3VGaHp0ZGozVHFSZzdUc1I4Q1NXQnU5bF9abTgxWWhGU0Yw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Sergipe"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ge",
-      "headlineJa": "マゾーラ、中毒発生を明らかに、仲裁に不満を表明、セルジッペでのイトゥアーノの反応を評価 - ge"
-    },
-    {
-      "articleId": "gnews_3d98c6ce39e9bf7d",
-      "headline": "Acre registra queda de 75% nos casos de dengue no primeiro semestre de 2026 - Acre Jornal",
-      "headlineTranslated": "Acre records a 75% drop in dengue cases in the first half of 2026 - Acre Jornal",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T13:52:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlZYWnk4MmlnMzhfT0JBU0x1QU5pN0JCemZjY05temN0eU9TNUV4SU9KZXZtM1FxTzVwRVBsMUJPZkxyV1p3dXR3ZzUyZThXR2hyR1BTZmFRTnFBWS1HeWZmLVR2YjdBYTgtUUhIUW80TG9zazNHTVBRZjFMVTYtOENJV1o5ZzJfRnhkVnlEWXhxSW9xVzlKU3J0X1h2b1lTODZr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Acre Jornal",
-      "headlineJa": "アクレでは、2026 年上半期にデング熱感染者数が 75% 減少したと記録 - Acre Jornal"
-    },
-    {
-      "articleId": "gnews_ea74427ab9bd9f2a",
-      "headline": "Suspensão de vacina contra dengue reacende debate sobre direitos dos pacientes no Brasil - portal jornal do norte",
-      "headlineTranslated": "Suspension of dengue vaccine reignites debate on patients' rights in Brazil - portal Jornal do Norte",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T13:40:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjI1TkhYdjZIVVp0U2JONTZWeFdlWTBsTlJURkJUTEhiREJkVWVOUXZESmkzUEU4Q3dwaExRVWs4UjhPYVBVRXYycVEzb2ZreFhSM0t6ZExfSlVMeV9EQm0wVlVFa0h4Q0JyYXNtMkltY2RYS0NibTJJT0paeFNLVFMtVWhpVEJMRTNUYldzdWNKbi1rMVhrelpibThXel9hREhPaHJMdzdtelJNVFh2MXMtTzN6VnB1Ym1YM3VPU3Nzdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portal jornal do norte",
-      "headlineJa": "デング熱ワクチンの一時停止でブラジルで患者の権利に関する議論が再燃 - ポータルJornal do Norte"
-    },
-    {
-      "articleId": "gnews_b97ceb94a95a0eb2",
-      "headline": "GRIPE: ASSIM COMO NO RESTO DO BRASIL, ALÉM PARAÍBA TAMBÉM VIVE SURTO DA DOENÇA - jornalagazeta.com.br",
-      "headlineTranslated": "FLU: LIKE THE REST OF BRAZIL, BEYOND PARAÍBA IS ALSO EXPERIENCING AN OUTBREAK OF THE DISEASE - Jornalagazeta.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T13:06:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXdRWTlraHFuaDVzaXZQWGVkLTUzRHY2aUVUb3pNXy1wMGlCZmVlbWU4WHU3RFdSa3A3VFZIRFdONGVsTi1PS2dkS1U2ODlYenpOU2JfbG9xclV1OFUwMTRoZWlIYUlKa0FWTmppV2tXT3NhSl9VVUJlM0tIbjN3S0dxM2htNG5fUnBkalItUGJBb2luS0I3ZDZac2M3aThMYVdweGliT3pVdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "jornalagazeta.com.br",
-      "headlineJa": "インフルエンザ：ブラジルの他の地域と同様、パライバ以外でもインフルエンザが流行している - Jornalagazeta.com.br"
-    },
-    {
-      "articleId": "gnews_09c0084081b2d3d5",
-      "headline": "Dengue já soma mais de 1,7 mil casos prováveis no Acre em 2026; estado registra uma morte pela doença - Juruá Online",
-      "headlineTranslated": "Dengue already has more than 1,700 probable cases in Acre in 2026; state records one death from the disease - Juruá Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T12:32:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWl0cUJPbGlFeHhWNGhsQi13SnRhSC13dWh1R1VleW9PVnlCOHJ1emFGc0JUX1dPaldFOVdaemdzSDNEbzBnU0xzSFVmV1czWERqLUxKSjI3cEJlV0luNE1UTWFsQkFiVFBTRGJRUGlYZkxLYmg5MU9CUTRYZGxNcjNOek13NmtFT2E0MnNxY2x6N3BuODREdFpOMWxnZTQ5aXNCSFRtcmtNc0V2TEVCYjk0V2NEai1rZUdvQ2FkSzZoSlZWX3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Juruá Online",
-      "headlineJa": "2026年の時点で、アッコではデング熱の感染が疑われる患者がすでに1,700人を超えている。州はこの病気による死者1名を記録している - Juruá Online"
     }
   ]
 }
