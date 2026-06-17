@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-17T04:28:07.741100+00:00",
+  "generated_at": "2026-06-17T12:17:12.301663+00:00",
   "date_range": {
-    "start": "2026-06-15T04:28:07.741100+00:00",
-    "end": "2026-06-17T04:28:07.741100+00:00"
+    "start": "2026-06-15T12:17:12.301663+00:00",
+    "end": "2026-06-17T12:17:12.301663+00:00"
   },
-  "total_articles": 37,
+  "total_articles": 38,
   "state_summary": {
-    "Brasil (estado não identificado)": 6,
-    "Pará": 19,
+    "Brasil (estado não identificado)": 7,
+    "Pará": 21,
+    "Mato Grosso": 1,
     "Roraima": 1,
     "Rondônia": 1,
     "Santa Catarina": 1,
@@ -15,23 +16,83 @@
     "Bahia": 2,
     "Ceará": 1,
     "Amazonas": 1,
-    "Alagoas": 3,
+    "Alagoas": 2,
     "Pernambuco": 1,
-    "Distrito Federal": 1,
     "São Paulo": 1,
     "Sergipe": 1,
     "Acre": 2,
     "Paraíba": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 4,
+    "Influenza": 3,
     "Dengue": 30,
-    "Influenza": 2,
+    "Doença infecciosa (não especificada)": 4,
     "COVID-19": 1,
     "Measles": 2,
     "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_ffc5ab06e0980ca9",
+      "headline": "Vigilância da influenza aviária no Brasil completa duas décadas e reforça proteção sanitária da avicultura - Agrimidia",
+      "headlineTranslated": "Avian influenza surveillance in Brazil completes two decades and reinforces poultry health protection - Agrimidia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T11:15:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMnNVbHd0bVZlekxiYjRqc3dxM3ljYTNaVnMtYWUzN1VuaEpJX1k2V1I2aXVmRkhleEx1VGFKRFhUQWo0Y0dIaENvczdlV3p2LUFwOXlUSGt6aTJPYzJYdXAtbFFYbEJaTS03QmtfcV9xYzc2X3h4MDFRTTJmMGJXWk5JTnBRUlEyX1NBTFprQ21RYU00TklmU01hYTNYMzlJRnJjN09pY3BIUjFsbzMzUTFQYlZqb3ktb0VtRzNoM2tDN1l3Q3BxQ2E2dGJRWnJXaHU5d3ZuVXRpWU1rTXR0WHdacHR3WVFETFg4a1FUMEJZTm1tcGtTUw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agrimidia",
+      "headlineJa": "ブラジルでの鳥インフルエンザ監視が20年に渡り家禽の健康保護を強化 - アグリミディア"
+    },
+    {
+      "articleId": "gnews_56275cd5a3d0741d",
+      "headline": "Anvisa cria grupo para investigar vacina da dengue do Butantan após relatos de mortes e eventos adversos graves - MSN",
+      "headlineTranslated": "Anvisa creates group to investigate Butantan's dengue vaccine after reports of deaths and serious adverse events - MSN",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-17T02:44:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPdXJSTjdPSlhCY1hLQzVDX0wwT1hPUU9qajNOVlloZWR1VThibTJjd2ZyeDZWZkJqMDJCcXR3elFqRVhtaHRVUDRjbE5LbUtLSE4yZkNrd3dkNjFuRVUtSVp0Sk9KR1RJN2FYVWZpcUZnTVZ1LV8yb2g5RndtdnFReUZLbUVaVENMSHA1cndZbUIxUkVpOFp4bElRWXV6TmE4TEJqbTBnbXZab05aSHpURnI1V25nTzJMZlF0UDBBZWMzR19HMzFoUUFHN0NwWV9MMjZRYkdYNmg5bHBWRXljYnE2Q0ZTSXZJTUxBWHhmcTUweE9VVzQzTDFZcTNxaVp3Mi12UEE3SGYxTHYxWnJoV2JYUEpJUko2TmJnYVF5X2tVSU5jcE5xd04tcVZNRnhWMnJtQWl0dUQ5OVBoU0ViWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MSN",
+      "headlineJa": "Anvisa、死亡と重篤な有害事象の報告を受け、ブタンタンのデング熱ワクチンを調査するグループを設立 - MSN"
+    },
+    {
+      "articleId": "gnews_4877c015b98ad1b4",
+      "headline": "Anvisa cria grupo de trabalho para investigar vacina da dengue do Butantan - Diario de Cuiabá",
+      "headlineTranslated": "Anvisa creates working group to investigate Butantan's dengue vaccine - Diario de Cuiabá",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T22:00:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREJuRnN4U1E5VnR0VWh5RXY1RmJWdG41RHN3MWpWZHBKekMzUS1zcG4zUGgxVUlaZ0QxSVdQMl9DclgzREExSVJMcjNQS3o4bTZxNy1mVFVSSmVZYjZUZ3lCX1A5SFpIbkRVN1l0bFNrUU1Pc2RVNEktMFNhS2N1d3luOFk2eVdsLVNwQ1B6eXBWT0h1Sk5ZLTByRmVVaWFrYW5aZHRxcWtCMk1HeXlxcHZGbFdXWnBDRk5UaC1VMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diario de Cuiabá",
+      "headlineJa": "Anvisa、ブタンタンのデング熱ワクチンを調査するための作業グループを設立 - Diario de Cuiabá"
+    },
     {
       "articleId": "gnews_ef4b0be9da358a46",
       "headline": "Grupo técnico avaliará eventos adversos e perfil de risco do imunizante - PDNews",
@@ -106,8 +167,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Roraima"
+        "Roraima",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima em Tempo",
@@ -195,9 +256,9 @@
       "headlineJa": "サンタカタリーナ州ではティーンエイジャー向けのデング熱ワクチン接種が引き続き可能 - dive.sc.gov.br"
     },
     {
-      "articleId": "gnews_9de8b7e0b5ac6945",
-      "headline": "Pesquisa realizada no Hospital da Rede HU Brasil em Uberaba (MG) amplia conhecimento sobre dengue na população idosa - GOV.BR",
-      "headlineTranslated": "Research carried out at the Hospital da Rede HU Brasil in Uberaba (MG) expands knowledge about dengue in the elderly population - GOV.BR",
+      "articleId": "gnews_60e40e4d74242df1",
+      "headline": "Pesquisa realizada no Hospital da Rede HU Brasil em Uberaba (MG) amplia conhecimento sobre dengue na população idosa - www.gov.br",
+      "headlineTranslated": "Research carried out at the Hospital da Rede HU Brasil in Uberaba (MG) expands knowledge about dengue in the elderly population - www.gov.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-16T16:50:04+00:00",
@@ -211,8 +272,8 @@
         "Minas Gerais"
       ],
       "dataSource": "Google News",
-      "sourceName": "GOV.BR",
-      "headlineJa": "ウベラバ（MG）のブラジル大学レーデ病院で実施された研究により、高齢者におけるデング熱に関する知識が拡大 - GOV.BR"
+      "sourceName": "www.gov.br",
+      "headlineJa": "ウベラバ（MG）のブラジル大学レーデ病院で実施された研究により、高齢者におけるデング熱に関する知識が拡大 - www.gov.br"
     },
     {
       "articleId": "gnews_285eebda9ab47908",
@@ -224,9 +285,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc2xXbjBXQ2xZSGNQMm9PV3NQemZxU3A4Q2pROGJrbHFhRFNmTWI4bUdnTHFtaHFtSDVBU0F4cHZINmpwVUIyT04ybEFoZ3dEZzFrRVBQTWIwQmI0UnlrdlMxaVQ5NllmVmppOTFnMTQyVzhUVkUwU3dJem1lYnlYTDBRdFVEUXpaS3RLQWdONzJGSC1YSVo3WVRIYjE2RjBsRU5wVVJ0WDFhZFlrZHVGM29YX1lWcTVkM2xuWHo2dHhFeXFXaDBrc2x0TVFtT2pCb2dkVnhma0NFUHRH?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
         "COVID-19",
-        "Measles"
+        "Measles",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -290,8 +351,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Amazonas"
+        "Amazonas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas",
@@ -379,6 +440,26 @@
       "headlineJa": "ミナスジェライス州、2026年にデング熱によるさらに5人の死亡とチクングニア熱による3人目の死亡を確認 - Rede 98"
     },
     {
+      "articleId": "gnews_3928d9184b7748db",
+      "headline": "Dengue: Anvisa cria grupo para avaliar segurança da vacina do Butantan - tmc.com.br",
+      "headlineTranslated": "Dengue: Anvisa creates group to evaluate the safety of the Butantan vaccine - tmc.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T14:20:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWZ0UUZRX0tlWDNEY3c4VUJnZ1RCWkh6V20tNVN2R0xHRXBFcTRZbU9GeEJqNFpEWVlJanZEQmR1X3N5ZmJ5RkY0WllLbWpNM1ZIcXhtb2pBWXlkMlAzMlNPRnF4b0Zka3lMckFfQkpJWnlhWUR0Y1JfcW1sWFBMUmlqOGZRdDNROXRkeldoSnNlUGxCWUhGRXE0ZHA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "tmc.com.br",
+      "headlineJa": "デング熱：Anvisa、ブタンタンワクチンの安全性を評価するグループを設立 - tmc.com.br"
+    },
+    {
       "articleId": "gnews_5782d4a704b7bf89",
       "headline": "A vacina da dengue e o princípio da precaução - Terra",
       "headlineTranslated": "The dengue vaccine and the precautionary principle - Terra",
@@ -412,8 +493,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
@@ -461,26 +542,6 @@
       "headlineJa": "デング熱：ANVISA、ブタンタンワクチンの安全性を評価するグループを設立 - - Bahia Economya"
     },
     {
-      "articleId": "gnews_30bb5e069e1e2a24",
-      "headline": "Dengue: Anvisa cria grupo para avaliar segurança da vacina do Butantan - CartaCapital",
-      "headlineTranslated": "Dengue: Anvisa creates a group to evaluate the safety of the Butantan vaccine - CartaCapital",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T13:26:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDFmWDBqalZFX0d4eE14cng2TzNWRFdoN18yWmw2ZlcxS2piaXgxYjhXVUVrOVdvUDBJTEFNV3dEWnIyaGNMTDRKRWRIWnQtVk02ZGh4em1TU29rR2xSTS00NEViV1pHSFZCR29zSUthLURxMFJVQXI2WFEzS0VKam8wTEVaNEoyeTJRWF9TdTJIVDR1TkhPZ1NodGtldWtMNzZNUjhaX2I1akk5?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CartaCapital",
-      "headlineJa": "デング熱：Anvisaがブタンタンワクチンの安全性を評価するグループを設立 - CartaCapital"
-    },
-    {
       "articleId": "gnews_63f571dbe01b138e",
       "headline": "Anvisa cria grupo para investigar vacina da dengue do Butantan - Terra",
       "headlineTranslated": "Anvisa creates group to investigate Butantan's dengue vaccine - Terra",
@@ -514,8 +575,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco",
@@ -562,6 +623,26 @@
       "headlineJa": "感染拡大中の男性、家族を脅迫後テーザー銃で封じ込め－アラゴアス24ホラス"
     },
     {
+      "articleId": "gnews_6fb21ec269ab9ec6",
+      "headline": "Anvisa forma grupo para analisar segurança da vacina do Butantan contra dengue - Tribuna do Agreste",
+      "headlineTranslated": "Anvisa forms a group to analyze the safety of the Butantan vaccine against dengue - Tribuna do Agreste",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-16T12:09:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJYcDNUajlCZkx3bzFGMDRHLWtRdUpFbTdkdEhnaHd1Y2N5dE5nOGViRjhKekd2VWhiSzE1UERPaDVVbFB6UWVmYmtwYlNTOVAxWFVCbmdlWHJrWlFjcVBjd3kzaFpSYTN1dnVORTlZNTRBTkdhOEt3TXhSYXF4UE5DaUtfN0RUam1lcXJISlFzUk94NXlKWlF5Z1Jmb2RzTlprUWxlS29fZnZBc3FJZjRQcE44MU02R1N1MGpJd0tfcWpKZDk2OUFoUkZGUElrUGVpeg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Agreste",
+      "headlineJa": "Anvisa、デング熱に対するブタンタンワクチンの安全性を分析するグループを設立 - Tribuna do Agreste"
+    },
+    {
       "articleId": "gnews_4382d0b1779120d4",
       "headline": "Anvisa cria grupo para investigar vacina da dengue do Butantan após mortes - CNN Brasil",
       "headlineTranslated": "Anvisa creates group to investigate Butantan dengue vaccine after deaths - CNN Brasil",
@@ -582,26 +663,6 @@
       "headlineJa": "アンビザ、死亡後にブタンタンデング熱ワクチンを調査するグループを設立 - CNNブラジル"
     },
     {
-      "articleId": "gnews_7124ff2c23045699",
-      "headline": "Anvisa cria grupo para investigar vacina da dengue do Butantan após relatos de mortes e eventos adversos graves - MSN",
-      "headlineTranslated": "Anvisa creates group to investigate Butantan's dengue vaccine after reports of deaths and serious adverse events - MSN",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-16T11:39:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcExSZzFFU0trZXRKVDB4Z0Y3ZWZEMlZZdFRuNW1PZzFacWhLUHJfT0VYRFJycWxseXNoOUdBVXpGbWNhMWxyS3dvUEI3aUJ1bHZGWVVmWE5CM05NOURUYTFsbWJHVzAwb3pqUHVybEl6UFVaeVlta2hzcG5peHN3M1VqcmtLc25wWHFRc3JhX09JZldzUHBvREVlZ3E4cjZWUGFuY2NsMVFVbDNJZEc3dEd4X0dvZk5uQlhsb0JwcVd6aGtuWXdyRVBUaFlWcGp5aWJ1ZHUxWDhzNXQ2NjlzdENua3JTZkRQX0Fqc2V3WFdtTDNsSURObkFZeVZBUnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "MSN",
-      "headlineJa": "Anvisa、死亡と重篤な有害事象の報告を受け、ブタンタンのデング熱ワクチンを調査するグループを設立 - MSN"
-    },
-    {
       "articleId": "gnews_9a67a4a6358132af",
       "headline": "Anvisa cria grupo para investigar vacina da dengue do Butantan - Metrópoles",
       "headlineTranslated": "Anvisa creates group to investigate Butantan's dengue vaccine - Metrópoles",
@@ -620,26 +681,6 @@
       "dataSource": "Google News",
       "sourceName": "Metrópoles",
       "headlineJa": "Anvisa、ブタンタンのデング熱ワクチンを調査するグループを設立 - メトロポール"
-    },
-    {
-      "articleId": "gnews_608f4d485bee5cc8",
-      "headline": "Casos de dengue caem 75% no Brasil em 2026 - soubrasilia.com",
-      "headlineTranslated": "Dengue cases fall by 75% in Brazil in 2026 - soubrasilia.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T23:09:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaTVpsb3R1SThORlVTS2puUzhQS0EyeTY1aEdfRXZPblUyS1ZRSW1ubjQzdFVXUW1ad1pIcVhYY2txcHlCWlpCcWVYd2ZDUl9fRHF5QTJQWmJ4Rm4yNlBB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "soubrasilia.com",
-      "headlineJa": "ブラジルでは2026年にデング熱感染者が75％減少 - soubrasilia.com"
     },
     {
       "articleId": "gnews_58bd7649d9f7c08a",
@@ -735,8 +776,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "jornalagazeta.com.br",
@@ -761,26 +802,6 @@
       "dataSource": "Google News",
       "sourceName": "Juruá Online",
       "headlineJa": "2026年の時点で、アッコではデング熱の感染が疑われる患者がすでに1,700人を超えている。州はこの病気による死者1名を記録している - Juruá Online"
-    },
-    {
-      "articleId": "gnews_bea04562851bfdb5",
-      "headline": "Butantan mantém pesquisa sobre vacina da dengue em idosos e avanço pode beneficiar população alagoana no futuro - Alagoas Alerta",
-      "headlineTranslated": "Butantan continues research on dengue vaccine in the elderly and progress could benefit the population of Alagoas in the future - Alagoas Alerta",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-15T09:30:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjBMb0FVR20ycE9TYWt4Y3BVM1FacnJmTVIxLW9RSkZXVXpRWkdfRHR2SzVmVk1KVXNHWmZRM2tQS0YxT1hvdUk4Uy1IcW53dEZYdE9yNGxVUmxXSHA3eHdGZzNNQXBXaTlpMkh3MW1aOUlqU21mcWcxSkRweU5uVHVXaTI5VzJtWUFiTHltNjhLODRhMExYeWo4Y19rNmt0RENaZnZoZnZlS2ZzOHRWOWtQQmRjV2sxTGpDbWxCOXVZMENZS2RWeQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Alagoas Alerta",
-      "headlineJa": "ブタンタンは高齢者向けのデング熱ワクチンの研究を継続しており、進歩は将来的にアラゴア州の人口に利益をもたらす可能性がある - アラゴアスアラルタ"
     }
   ]
 }
