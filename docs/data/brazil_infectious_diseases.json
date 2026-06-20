@@ -1,34 +1,117 @@
 {
-  "generated_at": "2026-06-19T18:05:39.716684+00:00",
+  "generated_at": "2026-06-20T04:02:52.119655+00:00",
   "date_range": {
-    "start": "2026-06-17T18:05:39.716684+00:00",
-    "end": "2026-06-19T18:05:39.716684+00:00"
+    "start": "2026-06-18T04:02:52.119655+00:00",
+    "end": "2026-06-20T04:02:52.119655+00:00"
   },
-  "total_articles": 25,
+  "total_articles": 21,
   "state_summary": {
-    "Brasil (estado não identificado)": 9,
+    "Mato Grosso do Sul": 3,
+    "Pará": 4,
+    "Brasil (estado não identificado)": 6,
+    "Mato Grosso": 2,
     "Bahia": 1,
     "Acre": 1,
     "Alagoas": 1,
-    "São Paulo": 4,
-    "Pará": 6,
+    "Piauí": 3,
+    "São Paulo": 1,
     "Goiás": 1,
-    "Piauí": 2,
-    "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1,
-    "Paraíba": 1
+    "Ceará": 1
   },
   "disease_summary": {
-    "Influenza": 2,
-    "Avian Influenza": 2,
-    "Dengue": 4,
+    "Dengue": 5,
+    "Yellow Fever": 1,
+    "Avian Influenza": 4,
+    "Influenza": 4,
+    "Doença infecciosa (não especificada)": 8,
     "Measles": 1,
-    "Doença infecciosa (não especificada)": 7,
     "Meningitis": 1,
-    "Chikungunya": 1,
-    "Yellow Fever": 9
+    "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6286703b3df73f95",
+      "headline": "MS tem nove cidades em alto risco para infestação do mosquito da dengue - A Crítica de Campo Grande",
+      "headlineTranslated": "MS has nine cities at high risk for dengue mosquito infestation - A Crítica de Campo Grande",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T21:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pSTlKNVpKVFNyWHZrQWNBdE56X0FWUHdwQ0w1ZDVidi1MQU9IZG1jNU1YUmxxd2ZiajJ6UXh5b3ZNb1FGZy01dDlRYk53bExBeU4zOFRoc1pEeFFoOEMtclpCNk11X3NLWkFEZzhmUTNaWlRXTEg3TmUyWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande",
+      "headlineJa": "ミシシッピ州にはデング熱蚊の蔓延のリスクが高い9つの都市がある - A Critica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_d5e865db12fffae8",
+      "headline": "Campanha de SP Contra Febre Amarela Ganha Destaque Nacional - brasilemfolhas.com.br",
+      "headlineTranslated": "SP Campaign Against Yellow Fever Gains National Prominence - brasilemfolhas.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T19:41:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHQ1ZmNmSWQzcGVMQzVMQ0cwbnpLZlhQbFJ1WEZWWnZ4WW9fNzhrbkxMNUNPQnZzbTRHakJqalpXak1BN3BFT1pOX3ItZ3NEakNqT0ZpMUFUWDRGVjB5cFNxc2FudkJ1b1BJdmRxeXd0azJnNloycncyTklKOVM3RFBVOUR2VlNmTlhXOVQtZnU2bkhtOG84OFljQWl5Rlg0aEQ2ag?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "brasilemfolhas.com.br",
+      "headlineJa": "黄熱病に対するSPキャンペーンが全国的に注目を集める - brasilemfolhas.com.br"
+    },
+    {
+      "articleId": "gnews_cdfeb38a5a214c4b",
+      "headline": "Austrália Detecta Primeiro Caso Suspeito de Gripe Aviária H5 no Continente - Forbes Brasil",
+      "headlineTranslated": "Australia Detects First Suspected Case of H5 Bird Flu on the Continent - Forbes Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T18:38:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanR1UkFoYWZtOHQ4YUJVUTVOU1I0Mk1jLUViSTdBZENzaUI2YjFRZzdFNUZJLUI0TGZZak8tUVdLU1hlUUVSMXFjZ19XQ2tadmlTWkxxZXY3NC1wV05tcG9WSmQ3ZUljQUoySVp0ODBuZnRTeG0yWEM2dWJDREVmeTVpVnZ1VzBnSEViTTZ2LVdKcW1LelFPZ1hfdVltTVBOX0d0NC01Q0RfMkt6dUN4Zlo1QUIzWGZr?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Forbes Brasil",
+      "headlineJa": "オーストラリア、大陸で初めてH5鳥インフルエンザの疑い例を発見 - Forbes Brasil"
+    },
+    {
+      "articleId": "gnews_01a93827b53357a6",
+      "headline": "LIRAa de maio orienta ações de prevenção às arboviroses em Mato Grosso do Sul - Portal Único ms.gov.br",
+      "headlineTranslated": "LIRAa de May guides actions to prevent arboviruses in Mato Grosso do Sul - Portal Único ms.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T16:57:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEU5aEtiTjgyYUZIRzF5ZExfUW1KX0RGcGF4T0Z2TzhweVowUFU5ZWNzdTRnbUJhaFAxTTZ4eUVRYmxHQnUya1RPWU5DR2daSGlGRkNDMGtxbWc5NjRPSXV1MFNaTE5GQmdGOC1MMk9NRjhSOU1oUFNEMzRza255TlRuMERmZjdlRUZYbVNaZ3M1T2UzZElKcFd5R1JFaXI1Nng4bG9tdlNadzFu?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Único ms.gov.br",
+      "headlineJa": "LIRAa de May、マットグロッソ・ド・スル州でアルボウイルスを防ぐための行動を指導 - Portal Único ms.gov.br"
+    },
     {
       "articleId": "gnews_6a01e4b02ba031ec",
       "headline": "Austrália, último continente sem gripe aviária H5, detecta primeiro caso suspeito - O Globo",
@@ -39,8 +122,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOHZoQWw0TlRPSG5PUEYzNlBzNjhlNDVtZVZZazZDVFR4Ymx5THhvamJXM3puajdETHNaQjRsSmU5ZHRPdDNsR0tsci1zTmVnLURxWTVuY0ljVGxab1VvVTNyNzJVdHpibllZM0hnNVJFbmd3MXNsM1pweDRXTWRTWlM4T1FuV2ZzU3JlRkZkOE5ndllaZnBOQmdwaTdNcVFrUzBmT2tlTXo5U3o0ZUg2eGZNT182bmQ5TXdrRE5OWW9PYl9rcVlZeGR0YnVodE5o0gHfAUFVX3lxTE1JSU11Zl8xaFdzQXhzU3J5Qkd6X2NQaVo2cDJ1WHd1aGtONXAyY3VEeTJndnk4QnJKdXhpTElveXJmcnNBcVFVaEFxbkdmelQtMGVHT3pPRVJXajBkb1I1X2RRUXJHVi13c3dIdkR1UG02OWdqVVJJTWc4Zm45c3QwQ2FiRElYc2ptbHFWZUtHd25lLXIwTXhTX0xldVpkRm9oWFBRMjZMU0l3SzBqTmNWUHRWb1JFRGNEaXJBbXVUN2l1SjJWeHg1VDFEU0NVbkFBd1lsVEhRQ3YtdnU1ZkU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -91,6 +174,27 @@
       "headlineJa": "2026年に麻疹ワクチン接種目標を達成できるのはアッコの2都市だけ - Juruá Online"
     },
     {
+      "articleId": "gnews_0528f1bd8f020160",
+      "headline": "Secretaria reforça orientações para prevenção e conscientização sobre a gripe aviária - Hojemais.com.br",
+      "headlineTranslated": "Secretariat reinforces guidelines for prevention and awareness about bird flu - Hojemais.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T12:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjh0dnBwN3ZEM01UMkJScWxhVm5XNlFJUWVmSWEzbWpybVV0NmEwbFFZcU9ObV9ETURyMzFDcTBUOTJBLU1pLTBGY21oRmpsbmtreU02QXFHTUV5X1FzMVRyUjFjVjRTMlpOZmU4a3pSTzlvcVBETFBybGlSVG5tNVBKdmJhNDRNV190NVhhVXlfSUlqdl9TcU9kTGc2QVk2QnZJSnBrSVRSTFIwM3JiazJZdEo4N09HbVZKLTdrNEZ0a0lqRmMtbFZTeUFqWXFtWGhRalpSN0Y?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Hojemais.com.br",
+      "headlineJa": "事務局、鳥インフルエンザの予防と啓発のためのガイドラインを強化 - Hojemais.com.br"
+    },
+    {
       "articleId": "gnews_f60b5e9f8b8d6c2e",
       "headline": "Passageiro em surto ataca motorista de ônibus na BR-101 em Alagoas - Alagoas 24 Horas",
       "headlineTranslated": "Passenger in outbreak attacks bus driver on BR-101 in Alagoas - Alagoas 24 Horas",
@@ -111,6 +215,26 @@
       "headlineJa": "アラゴアス州のBR-101で集団発生中の乗客がバス運転手を襲撃 - アラゴアス州 24ホーラス"
     },
     {
+      "articleId": "gnews_177ad4cc93921b39",
+      "headline": "Suspeito de matar os avós no Piauí é investigado por possível surto psicótico - ipiaui.com",
+      "headlineTranslated": "Suspect of killing grandparents in Piauí is investigated for possible psychotic break - ipiaui.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-19T11:50:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWRnblFVbE5rcGllT1E1elBPMEpVTUZSS3J3Tl96dVZEc0xjM1NVQWFVZUhyY1d3bUh4MzZlS2ZMTUYyWEVTMkcydV9XRTE4UlBIbnhuN21lb0JJUkpNVjRHZDk5M2FCRFNlSm81V3hNeDFUb2VtQURUTElqVG9lVFh3emhIYlFJdE10NVlXSVBjY1dXLTFzdDlJZGZPOTg2QzVSZUp0ZUhjUXJNY1IwZWFDelNOdTg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ipiaui.com",
+      "headlineJa": "ピアウイで祖父母殺害の容疑者、精神異常の疑いで捜査 - ipiaui.com"
+    },
+    {
       "articleId": "gnews_6ae2d04c08f2f95c",
       "headline": "São Paulo chega a 11 casos e seis mortes em 2026; paciente de Lagoinha não era vacinado - Política Distrital",
       "headlineTranslated": "São Paulo reaches 11 cases and six deaths in 2026; Lagoinha patient was not vaccinated - District Policy",
@@ -128,7 +252,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Política Distrital",
-      "headlineJa": "サンパウロでは2026年に感染者数が11人、死者数が6人に達する。ラゴインハ患者はワクチン接種を受けていなかった - 地区の方針"
+      "headlineJa": "サンパウロでは2026年に感染者が11人、死亡者が6人に達する。ラゴインハ患者はワクチン接種を受けていなかった - 地区の方針"
     },
     {
       "articleId": "gnews_ae38967f2cb0d89c",
@@ -160,8 +284,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEo0ZDhBX05LbE9JMFBFZHNLcXI2QkRwckhFUWpkdlVuZzZFVlNGSDhzS0FpZDdWU0hwN1QwVXJoa2N2cnE3WWN2cERvTHAxTjBQVFhFeThtTlA0MVAtc2FKNGxrdU5wZ0drOWZFR1lvZm0tT2hlbzZjS282SFVFTkhnYURJMFFXaXIxM0hYYURtdG10cmNHNXN0M0JaMmRzT0Zrdg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -285,12 +409,32 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Mato Grosso do Sul Notícias",
       "headlineJa": "ドウラドス、チクングニア熱による健康上の緊急事態を延長 - マットグロッソ・ド・スル州ニュース"
+    },
+    {
+      "articleId": "gnews_59b27028271b55e3",
+      "headline": "Prefeitura faz nebulização contra a dengue na região do Jardim Fortaleza e do Leonor - Tribuna Liberal",
+      "headlineTranslated": "City Hall uses nebulization against dengue in the Jardim Fortaleza and Leonor regions - Tribuna Liberal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-18T10:18:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjFMU29WekVGWnRPazE3UFJSVVh3TzZJYVRPNnpicUxia3FxRjBvYlozdkRUTGRPb25EN21pcGYza1JRM3p5MEZDX282MHFWNHJuajlrZWlqbFdVNXJwZVFDalRSMjZoRlQzLU1Vcjctc0xkR0c4d1p0WHBVc1hfaUJPLWROVGdXYkowTnV3SzhsY1llOGItTjBkVVNWTU9JWGoyNVY2d1BPbEhuSnR0MGZTSENGVXdHTEh3UnM3M3FUZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna Liberal",
+      "headlineJa": "市役所はジャルディム・フォルタレザとレオノール地域でデング熱に対して噴霧器を使用 - TribunaLiberal"
     },
     {
       "articleId": "gnews_48a939735bd0b07f",
@@ -311,228 +455,6 @@
       "dataSource": "Google News",
       "sourceName": "Bacana News",
       "headlineJa": "ベレン、ネッタイシマカに対する罠の使用を拡大し、デング熱症例の大幅な減少を記録 - Bacana News"
-    },
-    {
-      "articleId": "gnews_067c4435546c108a",
-      "headline": "Tailândia exige TDAC e atenção à febre amarela: guia para brasileiros - Portal Mie",
-      "headlineTranslated": "Thailand requires TDAC and attention to yellow fever: guide for Brazilians - Portal Mie",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T03:15:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2ZvSjlUSWZiNWFkZFo3UE9FQksycVJ3R1RfYWlLWFJEcDY0RHBmS0xWT2RMdVlhVmdqVV9IZ2hIVjNpNlRMM2FMcVQtVUpnM3c2ejFfdWtaUGliNUNZam9BYmpEdUFUcTVCQlVzTVFoOEZPWnpXVkh5LWxZRzc0YjJvRTF4SElUUkJwc3hoYWJwSk9mUUg3UmU0a3ZPNE56MHZlMnlRYm1MMUxRVDNR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Mie",
-      "headlineJa": "タイはTDACと黄熱病への注意を必要：ブラジル人のためのガイド - ポータル三重"
-    },
-    {
-      "articleId": "gnews_877521a0d7a5675e",
-      "headline": "SP reforça orientação sobre vacina contra febre amarela após novo caso no Vale do Paraíba - O Repórter Regional",
-      "headlineTranslated": "SP reinforces guidance on yellow fever vaccine after new case in Vale do Paraíba - O Repórter Regional",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T00:05:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHFfbWRoVDRxZzVKb3hZZDlGWjBReTN1ejJpZl9uUGV0LXZBS2RVYkRRdTdoSzlnNklVemFwWHNnOHNGUjFPQWwxM0oyVEgzcmpxQl9oWEtlN1ZlS3k3Y3BXX3N0YVcxcmRnT0ZfSkgwc2kzd1JOUFJ4Qk1lRlZ2a0RjUTVabmlUQndWSklzMHg4RXNxand5U0d6ZUNhRHh0QUwxV253RFZNQ01vTldIWWVvX3kyNVVEdkpKZC1NX0hEQnRwRWxmeXZLVHE0RFJvOXZXaUVLV3M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Repórter Regional",
-      "headlineJa": "ヴァーレ・ド・パライバ州での新規感染者発生を受け、SPが黄熱ワクチンに関する指導を強化 - O Reporter Regional"
-    },
-    {
-      "articleId": "gnews_ecf882f22f7497a6",
-      "headline": "JJ: Febre amarela: SP reforça importância da vacinação após novo caso - sampi.net.br",
-      "headlineTranslated": "JJ: Yellow fever: SP reinforces the importance of vaccination after new case - sampi.net.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T22:47:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGU5X21vcW03M29odE5mU1FRLVctR1lOLXBFWk44VW5sX0s1a2piNnBnZmEzRVVWeUlQbndsS0F6VDJzSldYX3RyZ1l2TDVkMThwa1VqNGdfRnVVRzBBZmR4VkpWTGJrSm1Sb0xaMDdJbzdpQmVCZEpqaDNpZE1nS01RNTFybEpHS1JkT0I1MFZqclpGbENjUmk2ZGpZTnMxaGZ5X0tRSUhqZmNxcFFkelhSUjZybWRFYWZiRUk0c21jc3M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "sampi.net.br",
-      "headlineJa": "JJ: 黄熱病: SP、新規感染者発生を受けてワクチン接種の重要性を強調 - sampi.net.br"
-    },
-    {
-      "articleId": "gnews_95236cc8e736f379",
-      "headline": "Belém amplia uso de armadilhas contra mosquito da dengue e registra queda de mais de 70% nos casos | Belém | O Liberal - O Liberal",
-      "headlineTranslated": "Belém expands the use of traps against dengue mosquitoes and records a drop of more than 70% in cases | Belém | The Liberal - The Liberal",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T22:21:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb3FSV280UWNnMUowZUJXN21CNXZfVTJCNnk5Wk9ucFVlWWFZNmlEQmlyX1JSY3pyLTNfTEY4MjEtTWRQdHhOREZwWG1LOFJJTVNnclN0ZFM3eFdCN1o3T2hDeVFvRldVNDU4Z0VYR0ZPY09ScWc0QnhsajJ4bC02dVJNQU4wUjdlVkZySUZXM2kxeFNPelVQa253c0VOSU9IMDdtdWdieGpJTlItU3ZRZ01pVGkzYmFhbWZwS1BkZ0xoanlyN0lOUEt3aWEzdjBEbWY1TG1ibUfSAdgBQVVfeXFMUG9xUldvNFFjZzFKMGVCVzdtQjV2X1UyQjZ5OVpPbnBVZVlhWTZpREJpcl9SUmN6ci0zX0xGODIxLU1kUHR4TkRGcFhtSzhSSU1TZ3JTdGRTN3hXQjdaN09oQ3lRb0ZXVTQ1OGdFWEdGT2NPUnFnNEJ4bGoyeGwtNnVSTUFOMFI3ZVZGcklGVzNpMXhTT3pVUGtud3NFTklPSDA3bXVnYnhqSU5SLVN2UWdNaVRpM2JhYW1mcEtQZGdMaGp5cjdJTlBLd2lhM3YwRG1mNUxtYm1H?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Liberal",
-      "headlineJa": "ベレンはデング熱蚊に対する罠の使用を拡大し、症例数が 70% 以上減少したことを記録 |ベレン |リベラル - リベラル"
-    },
-    {
-      "articleId": "gnews_a14e59b0829e2b95",
-      "headline": "Novo caso de febre amarela é registrado em Lagoinha, interior de SP - Notícias ao Minuto Brasil",
-      "headlineTranslated": "New case of yellow fever is registered in Lagoinha, in the interior of SP - Notícias ao Minuto Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T21:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU19nZXFlRlNGc0N5TGctVmdQdWFITkIxaXFfQ3FpMzFpbl90TGxELURMaFZkTlR2SFZuSEt6cDlWanNhZXhWa2UtYlpnVjBSR0FHVEdyaUppZFpWSnRSemlZWDBhQzFWYlhEdHhLZDhqd2tfQl8ySXdRNzdYTnpvQ3BDaGt2Sk9QOVFkMkNSVERRZzZtcHJCMXpDVnZrR3dQZjNldTAyQ2JuNm91SEtacldmZlZGRUxT?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Notícias ao Minuto Brasil",
-      "headlineJa": "黄熱病の新たな症例がSP内陸部のラゴイーニャで登録される - Notícias ao Minuto Brasil"
-    },
-    {
-      "articleId": "gnews_d87d470d0c946b3f",
-      "headline": "Febre amarela: novo caso em Lagoinha acende alerta para vacinação em São Paulo - Fato Paulista",
-      "headlineTranslated": "Yellow fever: new case in Lagoinha sparks warning for vaccination in São Paulo - Fato Paulista",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T19:57:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3otQWUwNm0yOFA4dnpnMFFrODNWai1DZ2VjY1ctZjBOZTlSdHNXX3JRelNaUG1BZU1LNmhUT2d2ZW5WWkZNY3p6dDVQclBHNjhUc2V6ZHFsVTFFaWY0MmxJaEJaaXRTRUNFNlMwcTZSYkFreW1XZGd1dFptSkFmRDQtc0VHNHF0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Fato Paulista",
-      "headlineJa": "黄熱病：ラゴイーニャで新たな感染者が出たため、サンパウロではワクチン接種に警告が発せられる - ファト・パウリスタ"
-    },
-    {
-      "articleId": "gnews_3d1713efabc21c2a",
-      "headline": "São Paulo confirma 11º caso de febre amarela em 2026 - Rádio Itatiaia",
-      "headlineTranslated": "São Paulo confirms 11th case of yellow fever in 2026 - Rádio Itatiaia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T19:25:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWxJelNfazhaZ3ZOY2phTHdjYkx5ZHpvZEh2NVV2VEVJT1NSYTVVU1FPVnlEek5JRVNBTjJMREt0eWNsWi1Sd3pSdVJ0WXV6VkRReVNUMVZoM0UtbV9nMEl2T3UzcHNLV0NVb2JhaU9pRlpnOHpieXRySkNfVzl4alp6SXdyUXo0dldBWmwtQXI?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "サンパウロ、2026年に11人目の黄熱病患者を確認 - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_bc1d8222b5bbc2d8",
-      "headline": "SP reforça orientação sobre vacina contra febre amarela - brasilemfolhas.com.br",
-      "headlineTranslated": "SP reinforces guidance on yellow fever vaccine - brasilemfolhas.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T19:04:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUldqbTFQNFVZaDNMeXJMLXN2Y2wySUtZNWlDX3BzOUh6MjRHcl93X1FGSmZoYkdrMWhLb2wybnoxbThKQk1vcHpycjVhWk9HWmZtNG5GVHVWT1BGaU40a1M4bGFlTHQxdGY5aUYtS1dwQ0U3dEs4TEJTd0s3cVhfakFEQmZPcnlhLVVYclFsTmJEV0YxN1lJeTFOd3hCNDQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "brasilemfolhas.com.br",
-      "headlineJa": "SP、黄熱ワクチンに関する指導を強化 - brasilemfolhas.com.br"
-    },
-    {
-      "articleId": "gnews_113cc1e46c7a0c26",
-      "headline": "Novo caso de febre amarela é registrado em Lagoinha, interior de SP - Agência Brasil",
-      "headlineTranslated": "New case of yellow fever is registered in Lagoinha, in the interior of SP - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T18:39:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjlnMWJYdEVYVk5WTHVBZmphZk41QkE0dGlUb0FPS0NIdXFBQTZRbHlNMWFVYS0yWU1VU1Q4MkNWUTlaeElvdklTS0ZKbEJoY1huM3NZaVVPVk5pRnhQLUJrRjI3aEZfcGMtdmUxV19lNVQ0VjRQT2UwdDFGdTIzLU9TQTRwSlNSWEk2VFhkUlhCVFh2Ui0tdS0tS3FONTJkTTZpRmRLRnhCZy0tbmFhUVVMT3ZCS3hpUVJCNG5n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "SP内陸部のラゴイーニャで新たな黄熱病患者が登録 - アジェンシア・ブラジル"
-    },
-    {
-      "articleId": "gnews_a7f29f2daf6e6c1b",
-      "headline": "São Paulo confirma novo caso de febre amarela em Lagoinha - Tribuna do Sertão",
-      "headlineTranslated": "São Paulo confirms new case of yellow fever in Lagoinha - Tribuna do Sertão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T18:39:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWUwUHRQby1ORWZGUi1MbmFKR3NRVktyYTkyNXNHVkxXZE9IV1pJZ1BRX3dUV1NWUXY0dUZrVDdHOFVLWGs3VjZLVHIxdnU3X1N2dndhNmlDUU5iWVo2bmhIOTMzdWFmeWo0aEpiMUlXSmNTZnVGV3NDd2R1Tkh1STNKWWNlWmpPOGl2LWNHV3lfTWVZQnBKNDdzVlBnLVh2dDhfUF9pRkV2Q3REbElnVy1qMTA4ZnM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Sertão",
-      "headlineJa": "サンパウロ、ラゴイーニャで新たな黄熱病患者を確認 写真1枚 国際ニュース：AFPBB News"
-    },
-    {
-      "articleId": "gnews_4c7bf03797f11815",
-      "headline": "Brasil passa a ter campanha nacional permanente de vacinação contra brucelose - O Presente Rural",
-      "headlineTranslated": "Brazil now has a permanent national vaccination campaign against brucellosis - O Presente Rural",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-17T18:34:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3ZERmp1QmRiOUQ0UXpJTDdubElwNzRRR1RXcVhXOUNPN3p5WjJrRmdqV3l0aG10M01IQTVGSnFJTWRCY0VwNEhkNmQ2NGZZTjJFRl9BM0lxR28zbW1kcVFXTWZVbjhqbkliU205dnFtRFB2MWhCVm1yN0ZiUkRsMExXNC1MN0Zvb1o0OXNIemFnNWdNRHVhV2R1TWt0TS14TWF2N080N2NaVDZL?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Presente Rural",
-      "headlineJa": "ブラジルは現在、ブルセラ症に対する全国的な恒久的なワクチン接種キャンペーンを行っている - O Presente Rural"
     }
   ]
 }
