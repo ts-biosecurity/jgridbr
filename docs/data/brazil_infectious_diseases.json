@@ -1,53 +1,215 @@
 {
-  "generated_at": "2026-06-20T17:42:35.247517+00:00",
+  "generated_at": "2026-06-21T04:44:13.361031+00:00",
   "date_range": {
-    "start": "2026-06-18T17:42:35.247517+00:00",
-    "end": "2026-06-20T17:42:35.247517+00:00"
+    "start": "2026-06-19T04:44:13.361031+00:00",
+    "end": "2026-06-21T04:44:13.361031+00:00"
   },
-  "total_articles": 21,
+  "total_articles": 24,
   "state_summary": {
-    "Alagoas": 2,
-    "Pará": 5,
+    "Acre": 5,
+    "Brasil (estado não identificado)": 9,
+    "Goiás": 1,
+    "Pará": 4,
     "Mato Grosso": 2,
-    "Brasil (estado não identificado)": 6,
-    "Bahia": 2,
-    "Mato Grosso do Sul": 2,
+    "Mato Grosso do Sul": 3,
+    "Bahia": 1,
     "Piauí": 1,
     "Rio Grande do Norte": 1,
-    "Acre": 1,
-    "São Paulo": 1,
-    "Goiás": 1
+    "Alagoas": 1
   },
   "disease_summary": {
+    "Measles": 5,
     "Meningitis": 2,
-    "Doença infecciosa (não especificada)": 6,
-    "Dengue": 5,
-    "Yellow Fever": 3,
-    "Influenza": 4,
-    "Avian Influenza": 4,
-    "Measles": 1
+    "Dengue": 6,
+    "Avian Influenza": 3,
+    "Influenza": 3,
+    "Chikungunya": 1,
+    "Doença infecciosa (não especificada)": 5,
+    "Yellow Fever": 3
   },
   "articles": [
     {
-      "articleId": "gnews_9372d7cb051bd7dc",
-      "headline": "SAÚDE - Ministério da Saúde Lança Vacinação de Pneumo 20 para Crianças e Idosos, Ampliando Proteção Contra Pneumonia e Meningite em Todo o Brasil - Repórter Maceió",
-      "headlineTranslated": "HEALTH - Ministry of Health Launches Pneumo 20 Vaccination for Children and the Elderly, Expanding Protection Against Pneumonia and Meningitis Throughout Brazil - Repórter Maceió",
+      "articleId": "gnews_bf22898eb9de9da5",
+      "headline": "Surto de sarampo em país vizinho leva Acre a reforçar monitoramento nas fronteiras - Juruá Online",
+      "headlineTranslated": "Measles outbreak in a neighboring country leads Acre to reinforce border monitoring - Juruá Online",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-20T17:26:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQXFFSTZJTVloaUpEN3ZpeU4xNFl5bkxGZ2F3X2Z5R3N4Z3ZieWNyU3Jfb3lwNnZrVTVzRlhHSERZMC1wMnVZbW5uQldmdlNJZmc3U0xzTUZlRE5pNWNkVWFpVkVScU02LVh0SThQaFFRSUwxYWJfdFluR1ZjLVdRbTN6T2xMcXFyYVdKenNqYnJnZ3FZOVNldEZYcmI4QXNiR2JRQzRRUzcwMmhCYUtOeFppck5wd0NHYjROMFBvcTZuZTNqd1NwN1ZlYXFNMWlFZGY2TXdpWC1OV29lSVVVVVowTWdBVm9vQkMxWHlvbWlmZlpXaFVZTUdVMW13alhhd1dZ?oc=5",
+      "publishedTimestamp": "2026-06-20T23:59:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0FCZFhpVU9Iek5JYTVPMTdBcTVGT3N3Q2VDVVl2Wk9Xd2hjaTh5VFN4ZlRhaFJEU1RZV2xQbExaTHpycWRDNVFCNWNJampjSjAxRW51RzJRaFlHczBfQW8yQWk3V0VzQmEzLUVsZmhUZHVibm85clVuMnFkNmlOSTA3bjhfeEVpaGg1bmV2bXc0MDFQeXkzdHNlQ1p4cmRhTms3U2FrWTZIT0JLODg4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Juruá Online",
+      "headlineJa": "隣国での麻疹流行により、アクレ州は国境監視を強化 - Juruá Online"
+    },
+    {
+      "articleId": "gnews_416e849516ee4889",
+      "headline": "Notícias - Brasil - Nova vacina contra pneumonia e meningite começa a ser aplicada no SUS - PORTAL FARRAPO",
+      "headlineTranslated": "News - Brazil - New vaccine against pneumonia and meningitis begins to be applied in the SUS - PORTAL FARRAPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T23:13:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk92YU42Nk5CMjZSS1ZYakdjaVN1WVE1X1Z4SEFlWTJNc00tWHZQZk9nVFE4MEVnSWVLTE9MOGVvX2I1MWRLMmVpUTFLbUpJRzQzTFM4Q1ZZUWp1QjhUVHI5cl9wOFBkM3ZjQVJ5YUFUOXJvc1FiZE5jbnBfNjdWWWl1eDdYUW80M3lzcEt6enF4YTVwZFFfeWtMaEg0QnN4MmhLTW44ZWNXZE5oM0dtbnVsMGZXbHBCVVBoOWdWMlk5djFLYTlKOQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Meningitis"
       ],
       "locations": [],
       "states": [
-        "Alagoas",
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PORTAL FARRAPO",
+      "headlineJa": "ニュース - ブラジル - 肺炎と髄膜炎に対する新しいワクチンがSUSで適用開始 - ポータルファラポ"
+    },
+    {
+      "articleId": "gnews_962ccf4557f29d12",
+      "headline": "Brasil compra 18 milhões de doses de vacina contra dengue - radiocaicara.com.br",
+      "headlineTranslated": "Brazil buys 18 million doses of dengue vaccine - radiocaicara.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T22:33:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0FOVGVhRWRKaGV3ZFFZSlhqdzNPbVA5SnBVWnh3VEhUU1hvQ3FwaWRIY3V5cl85UUFoUXZPZUVtTHZQY0VzRnRrMjNHN1N0MkhqbW5iNkxScFE1N0hBMjJFZmRNblYzZkdldEJGUW95dGJ6SWkzQUhMbXgwdWxjakxXOGRNRDlxZVdVUFlkOFhzb1k4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "radiocaicara.com.br",
+      "headlineJa": "ブラジル、デング熱ワクチン1,800万回分を購入 - radiocaicara.com.br"
+    },
+    {
+      "articleId": "gnews_a5daedac5db92360",
+      "headline": "Acre registrou mais de 40 casos suspeitos de sarampo em 2025; todos foram descartados - A Gazeta do Acre",
+      "headlineTranslated": "Acre recorded more than 40 suspected cases of measles in 2025; all were discarded - A Gazeta do Acre",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T22:30:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ053WEJZT0M5ZUgtdGtXZDlvRXFWZmJJbHdKd0JJTEpsNjJLQmhOMmVZUF8xbzB0TG53b1lvbHNmai1FYkppUTZrcnNKTjZFUWVsZklHcG1uczZmbFlSQmxTQlJ1cEtOSU5DbWd6N2I0SGFTYjUtMmhKUTNQaExpMmROTFJhVVVoSmN3cU81c3lad2VOX2JVYXlaNEpvNlRYTmxjR2Z3ME9iWk54QkVzdnAwYXFabUZMMmVjbkZWZkNMUDlycDdycEIzM3ZPMFJKeThaeXVERXQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Gazeta do Acre",
+      "headlineJa": "アクレでは、2025年に40件以上の麻疹の疑い例が記録された。すべて廃棄されました - A Gazeta do Acre"
+    },
+    {
+      "articleId": "gnews_d48af5d4d17b4d55",
+      "headline": "Com mais de 20 mil casos de sarampo nas Américas, Acre reforça vigilância contra a doença - A Gazeta do Acre",
+      "headlineTranslated": "With more than 20 thousand cases of measles in the Americas, Acre reinforces surveillance against the disease - A Gazeta do Acre",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T20:30:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXBSZ3NOZGVKYmRVdHVJMk1QQUJBNkNDQWRpWENjeXQxZ0diUGQteFdHUnpvSWYweC15XzVnZGxOWHlFRWJlNFFoMG50a2FtUjNPcnRYMVVuRWlXN1NVSGFNeW16ZEpIR0pPSGpfOEZHaHE0c2xxMjMxWWdjUTF6SGtxQ3p5SlYzeDJyaU43N2xrdi1tZHJEZVk3Vmd6RVNVZkV0SnFzNVR3dEdFZ3BydGIwT1h4d2s0ZUpzYUJiNkxVLXQ3WTZfOHBsWDVMZWZaOFZSQg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Gazeta do Acre",
+      "headlineJa": "アメリカ大陸でははしかの感染者が2万人を超え、エーカーはこの病気に対する監視を強化 - A Gazeta do Acre"
+    },
+    {
+      "articleId": "gnews_a7f4369d90c06d43",
+      "headline": "Austrália confirma primeiro caso da gripe aviária H5 em ave migratória - Portal Agro2",
+      "headlineTranslated": "Australia confirms first case of H5 bird flu in migratory bird - Portal Agro2",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T19:09:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFhSM1JDc2JTTlYtR1VwaUhpRjBuX01lUy1UN21CZlkyRTBSS2szd1RzbFdYQVBCSE5tOGY5bGNVOWEtMTM4MWZDTUhQanl4NmYxb0NFM1QzOTZXQUdqVHFIeEI5VjExWDI4SUJqVkk0Y0dBaE1Wdl9ic29nSGkyV3JIenBTQkRSWWlpb2hQRW95UzNleGRITk43eS1JZ3laQTlfeFF4WQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Agro2",
+      "headlineJa": "オーストラリア、渡り鳥におけるH5型鳥インフルエンザの初症例を確認 - Portal Agro2"
+    },
+    {
+      "articleId": "gnews_efef988199372f51",
+      "headline": "Início do inverno e chuvas alertam para alta de 189% nos casos de dengue e chikungunya em Goiânia - Diário de Goiás",
+      "headlineTranslated": "Beginning of winter and rains warn of a 189% increase in cases of dengue and chikungunya in Goiânia - Diário de Goiás",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T18:57:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTN5Tkh5Nmh4MVVRaTQyYVdYb01FeE1ZUE1sT3hSRW5QV2NKb3l5UVBDVTMtTEIwbEd3Q3h4UDZUNXJ4U2c2QWtvMG92TG5xYzFUWTk2YW5NOEN3eFE4Q3c0empDV3R5cW45N2p4bDhPOGM3Q3pjdWhmQmp5T25SZzFYamJFajhFZElpbEpxcnBicFI5REI3V3p1eU5DWE1wTENaUDYtODUyUnN4UlNMRHNsaHBzRWhoczF6VVJWTk9mMU95b0NyVXZDZnowQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "保健 - 保健省が子供と高齢者向けにニューモ20ワクチン接種を開始、ブラジル全土で肺炎と髄膜炎に対する予防を拡大 - マセイオ記者"
+      "sourceName": "Diário de Goiás",
+      "headlineJa": "冬の始まりと雨により、ゴイアニアでデング熱とチクングニア熱の感染者が189％増加すると警告 - ディアリオ・デ・ゴイアス"
+    },
+    {
+      "articleId": "gnews_36795fccc4a814df",
+      "headline": "Prefeitura vistoria mais de 536 mil imóveis e reduz casos de dengue em Cuiabá - MINUTO MT",
+      "headlineTranslated": "City Hall inspects more than 536 thousand properties and reduces dengue cases in Cuiabá - MINUTO MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T18:26:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEVvWHRRMEZRTmgxd1F1cFJGZ2RTQVduNGZvd09kNW50b25oX3VlVWJoWXd2T2dQbDRnUVJJbXpoVXZOdXUyV2FuN215cjdSMHM2Q3hvZmxnUm8yWHBpSm81RkdJQ3I0ZkNhM1RMNFBSQ3JvR2Z4NDU2RGd5WmhUNVFNdEQ0blY4WWx6M0NhS01iOWZwUW1OT1Y1Qm9feVZNMjJCcC1rUVg2U2F3STJyaWFKakNDcUpF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MINUTO MT",
+      "headlineJa": "市役所が53万6千件以上の物件を検査し、クイアバのデング熱症例を減らす - MINUTO MT"
+    },
+    {
+      "articleId": "gnews_0f724d42879f2a4a",
+      "headline": "SUS começa a vacinar crianças com nova vacina contra pneumonia e meningite - O Dia",
+      "headlineTranslated": "SUS begins vaccinating children with new vaccine against pneumonia and meningitis - O Dia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T17:50:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVQ2SEVidGNjSUs1WW9mdVNoMGVOeExKX3oycmxoSEU1ZUNmRE12MXVPQ25zX0p5OUtRajJqVnlsdnpPRjlsM1FEeVhCREp0bmhTMmVsSlg5V25qRnY5WVhIemlQMkZ0TkhuZkpRNTZCdG44LVFpR01YaTRkc1RwbWJjSlhLWmxqOUFud1pCNEswSHExSTZzaTRNSmtuLTl1bjVXSFVzSlN1V294LTlIbUticnktaVdES3RFZnhPdTRMSDTSAcgBQVVfeXFMTjlkdkNGU2U3elYwdFBQNFMzbm1qbXViVUxCRlRHdFZiekZHMmdvZjVQal9ycWdaUXhBQWVIN3hnUFdnUmpNMUQ3ZFZyLWZOYTBhcGlIaXd0T3JHYnFpdkJDRmN4cmIza1NkUk44QnJyOGdka3d3QXJRQ3h5WVc0NkJqaWFVSkFyc2F3elZFcklPYlQ3cUZZVU5ISnBRbjBEc0tKQ2owVUJ4ellFc3hTcWZGM0VCbldTcHc3T254amQ4VWZMUW9tUTk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Dia",
+      "headlineJa": "SUS、肺炎と髄膜炎に対する新しいワクチンの子供たちへの予防接種を開始 - O Dia"
     },
     {
       "articleId": "gnews_bc605ab22499fb1e",
@@ -70,24 +232,45 @@
       "headlineJa": "専門家がワクチンの安全性を擁護し、ブラジルでのワクチン接種率の低下を警告 - CBN リベイラン"
     },
     {
-      "articleId": "gnews_36795fccc4a814df",
-      "headline": "Prefeitura vistoria mais de 536 mil imóveis e reduz casos de dengue em Cuiabá - MINUTO MT",
-      "headlineTranslated": "City Hall inspects more than 536 thousand properties and reduces dengue cases in Cuiabá - MINUTO MT",
+      "articleId": "gnews_6a20a464a6846059",
+      "headline": "Surto na Bolívia e baixa cobertura vacinal acendem alerta para sarampo no Acre - Ecos da Notícia",
+      "headlineTranslated": "Outbreak in Bolivia and low vaccination coverage raise alert for measles in Acre - Ecos da Notícia",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-20T13:34:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEVvWHRRMEZRTmgxd1F1cFJGZ2RTQVduNGZvd09kNW50b25oX3VlVWJoWXd2T2dQbDRnUVJJbXpoVXZOdXUyV2FuN215cjdSMHM2Q3hvZmxnUm8yWHBpSm81RkdJQ3I0ZkNhM1RMNFBSQ3JvR2Z4NDU2RGd5WmhUNVFNdEQ0blY4WWx6M0NhS01iOWZwUW1OT1Y1Qm9feVZNMjJCcC1rUVg2U2F3STJyaWFKakNDcUpF?oc=5",
+      "publishedTimestamp": "2026-06-20T12:20:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjVHYWpVOTQzcXNwRUVZd1FyRHhZZ0lnVFd3YnItLUlzUHNuV2dVNmVCWHpCM0M4b1lBOXJvVUhiaG02MjlXeFA4X3hhZzVIdVItY1BFWDhYVVBiZXNqNS0xV21PVUdsNjlqZEFpX1I3YmpXM01wejBhZlVJOXpHTXlJUzJGUF9EV3NLNW1kWDBsdVZjUUt2UU80UXRFZHlfNkJWUk02aGhRTHd1QUI2SW9tOU9Xand4ckVB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Ecos da Notícia",
+      "headlineJa": "ボリビアでの流行とワクチン接種率の低さにより、アクレでははしかへの警戒が高まる - Ecos da Notícia"
+    },
+    {
+      "articleId": "gnews_e199cf2a8b79e6bb",
+      "headline": "Dengue: 9 cidades de MS têm alto risco de infestação - Campo Grande News",
+      "headlineTranslated": "Dengue: 9 cities in MS have a high risk of infestation - Campo Grande News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-20T11:41:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWVNCS0RKM0doeGp0a0k5SUgyeG1GbWlLQkxfZ1FuU0ZRREhaNkVFNUs3MlNBZ3pUSWlvWnBaMDZzSllpVjFkenZTbGJFYktZeU42Z1U2R29NV0ZkUWVnWGpQaGtrWU1iVC1mWG8yQzk5bC0yX09IMTFqUncxWDdIcFpranczMU40UWRHdGpITUVULW13ZEZMaTdYdm8tQVpGTkRJejNKX2d3NnkwQlFpUmNaYUgxY2gtUjNZamNxZ9IBvwFBVV95cUxPWVNCS0RKM0doeGp0a0k5SUgyeG1GbWlLQkxfZ1FuU0ZRREhaNkVFNUs3MlNBZ3pUSWlvWnBaMDZzSllpVjFkenZTbGJFYktZeU42Z1U2R29NV0ZkUWVnWGpQaGtrWU1iVC1mWG8yQzk5bC0yX09IMTFqUncxWDdIcFpranczMU40UWRHdGpITUVULW13ZEZMaTdYdm8tQVpGTkRJejNKX2d3NnkwQlFpUmNaYUgxY2gtUjNZamNxZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso"
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
-      "sourceName": "MINUTO MT",
-      "headlineJa": "市役所が53万6千件以上の物件を検査し、クイアバのデング熱症例を減らす - MINUTO MT"
+      "sourceName": "Campo Grande News",
+      "headlineJa": "デング熱：ミシシッピ州の9都市で感染リスクが高い - カンポ・グランデ・ニュース"
     },
     {
       "articleId": "gnews_7f1474fc0ed4114d",
@@ -130,9 +313,9 @@
       "headlineJa": "デング熱の蚊は犬を病気にする可能性がある - aGazeta Bahia"
     },
     {
-      "articleId": "gnews_383e888a37d1f0af",
-      "headline": "Campanha do Governo de SP contra febre amarela é destaque nacional por ampliar adesão à vacinação - Jornal Impresso Brasil",
-      "headlineTranslated": "The SP Government's campaign against yellow fever is a national highlight for increasing vaccination adherence - Jornal Impresso Brasil",
+      "articleId": "gnews_8b0a2671676d25a3",
+      "headline": "Campanha do Governo de SP contra febre amarela é destaque nacional por ampliar adesão à vacinação - jornalimpressobrasil.com.br",
+      "headlineTranslated": "The SP Government's campaign against yellow fever is a national highlight for increasing vaccination adherence - Jornalimpressobrasil.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-20T04:02:00+00:00",
@@ -146,8 +329,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Impresso Brasil",
-      "headlineJa": "SP政府の黄熱病対策キャンペーンはワクチン接種遵守率向上の全国的ハイライト - Jornal Impresso Brasil"
+      "sourceName": "jornalimpressobrasil.com.br",
+      "headlineJa": "SP政府の黄熱病対策キャンペーンは、ワクチン接種遵守率向上のための全国的なハイライトである - Jornalimpressobrasil.com.br"
     },
     {
       "articleId": "gnews_6286703b3df73f95",
@@ -163,8 +346,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande",
@@ -220,8 +403,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanR1UkFoYWZtOHQ4YUJVUTVOU1I0Mk1jLUViSTdBZENzaUI2YjFRZzdFNUZJLUI0TGZZak8tUVdLU1hlUUVSMXFjZ19XQ2tadmlTWkxxZXY3NC1wV05tcG9WSmQ3ZUljQUoySVp0ODBuZnRTeG0yWEM2dWJDREVmeTVpVnZ1VzBnSEViTTZ2LVdKcW1LelFPZ1hfdVltTVBOX0d0NC01Q0RfMkt6dUN4Zlo1QUIzWGZr?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -265,8 +448,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Único ms.gov.br",
@@ -282,8 +465,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOHZoQWw0TlRPSG5PUEYzNlBzNjhlNDVtZVZZazZDVFR4Ymx5THhvamJXM3puajdETHNaQjRsSmU5ZHRPdDNsR0tsci1zTmVnLURxWTVuY0ljVGxab1VvVTNyNzJVdHpibllZM0hnNVJFbmd3MXNsM1pweDRXTWRTWlM4T1FuV2ZzU3JlRkZkOE5ndllaZnBOQmdwaTdNcVFrUzBmT2tlTXo5U3o0ZUg2eGZNT182bmQ5TXdrRE5OWW9PYl9rcVlZeGR0YnVodE5o0gHfAUFVX3lxTE1JSU11Zl8xaFdzQXhzU3J5Qkd6X2NQaVo2cDJ1WHd1aGtONXAyY3VEeTJndnk4QnJKdXhpTElveXJmcnNBcVFVaEFxbkdmelQtMGVHT3pPRVJXajBkb1I1X2RRUXJHVi13c3dIdkR1UG02OWdqVVJJTWc4Zm45c3QwQ2FiRElYc2ptbHFWZUtHd25lLXIwTXhTX0xldVpkRm9oWFBRMjZMU0l3SzBqTmNWUHRWb1JFRGNEaXJBbXVUN2l1SjJWeHg1VDFEU0NVbkFBd1lsVEhRQ3YtdnU1ZkU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -292,26 +475,6 @@
       "dataSource": "Google News",
       "sourceName": "O Globo",
       "headlineJa": "H5鳥インフルエンザが発生していない最後の大陸であるオーストラリアが最初の感染疑い例を発見 - O Globo"
-    },
-    {
-      "articleId": "gnews_851d7c0db101fcd1",
-      "headline": "Santo Antônio de Lisboa intensifica ações de combate à dengue na localidade Sítio Salvador - Info Newss",
-      "headlineTranslated": "Santo Antônio de Lisboa intensifies actions to combat dengue in Sítio Salvador - Info Newss",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-19T13:52:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzhGRjdHeEdhYi05elJVSUFmeWktME1UMm45MVhYTFlBWWhpNGtSY3JYSWdJZFZScjBMMDVwVGFBTGFDX1MwU0dDbmZlNHFYdzltYXRYMHQzMmN2dklLcUNJSkVNWGNPWHJhTE5EbG82VVUxb0trU2FPRjJFYlhJRnZESlRJNXRmb29zU2pjR2MzUGVUc2ZSWVZCQkd0ZmZCT2thTUFUODB4NXhkLUIyUHIwNA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Info Newss",
-      "headlineJa": "サント・アントニオ・デ・リスボン、サルバドル市でデング熱と闘う活動を強化 - Info Newss"
     },
     {
       "articleId": "gnews_88a611eabd28b0a9",
@@ -334,34 +497,13 @@
       "headlineJa": "2026年に麻疹ワクチン接種目標を達成できるのはアッコの2都市だけ - Juruá Online"
     },
     {
-      "articleId": "gnews_0528f1bd8f020160",
-      "headline": "Secretaria reforça orientações para prevenção e conscientização sobre a gripe aviária - Hojemais.com.br",
-      "headlineTranslated": "Secretariat reinforces guidelines for prevention and awareness about bird flu - Hojemais.com.br",
+      "articleId": "gnews_c0290ca3ceb4cc0b",
+      "headline": "“A população abandonada é gigantesca”: Maceió aprova 'RG Animal' em meio a surto de epidemia invisível - Cadaminuto",
+      "headlineTranslated": "“The abandoned population is gigantic”: Maceió approves 'RG Animal' amid an invisible epidemic outbreak - Cadaminuto",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-19T12:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjh0dnBwN3ZEM01UMkJScWxhVm5XNlFJUWVmSWEzbWpybVV0NmEwbFFZcU9ObV9ETURyMzFDcTBUOTJBLU1pLTBGY21oRmpsbmtreU02QXFHTUV5X1FzMVRyUjFjVjRTMlpOZmU4a3pSTzlvcVBETFBybGlSVG5tNVBKdmJhNDRNV190NVhhVXlfSUlqdl9TcU9kTGc2QVk2QnZJSnBrSVRSTFIwM3JiazJZdEo4N09HbVZKLTdrNEZ0a0lqRmMtbFZTeUFqWXFtWGhRalpSN0Y?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hojemais.com.br",
-      "headlineJa": "事務局、鳥インフルエンザの予防と啓発のためのガイドラインを強化 - Hojemais.com.br"
-    },
-    {
-      "articleId": "gnews_f60b5e9f8b8d6c2e",
-      "headline": "Passageiro em surto ataca motorista de ônibus na BR-101 em Alagoas - Alagoas 24 Horas",
-      "headlineTranslated": "Passenger in outbreak attacks bus driver on BR-101 in Alagoas - Alagoas 24 Horas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-19T12:04:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWm5rQVlpVnh1cEg1bmcxRW1EUENpTlFGS2h0RzFWODVyZ1AzODVLWER1ZUtTUEFhUnY3RXNRR0R3QXN4d2ZxblhiRGM1Y2JuUkRaTU1TWGtiUDc2YS1XblVKY3hwYWlrMFQ3b1BTcERDLW9OQ2hmYUJVV3NKcmEtSUFBdjhSWWdLRVp3SjBneVJiT1dFdjNPZ2V5WTg2T2RaczhqQXpyR1ZjM2xOT1JxNExFUdIBswFBVV95cUxQWm5rQVlpVnh1cEg1bmcxRW1EUENpTlFGS2h0RzFWODVyZ1AzODVLWER1ZUtTUEFhUnY3RXNRR0R3QXN4d2ZxblhiRGM1Y2JuUkRaTU1TWGtiUDc2YS1XblVKY3hwYWlrMFQ3b1BTcERDLW9OQ2hmYUJVV3NKcmEtSUFBdjhSWWdLRVp3SjBneVJiT1dFdjNPZ2V5WTg2T2RaczhqQXpyR1ZjM2xOT1JxNExFUQ?oc=5",
+      "publishedTimestamp": "2026-06-19T09:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMzctVkpQSV9sZXhRRmc4bHpyRTdpS21kenpYUkVaQW5RRm90UG9sSnFyRVZOejk5Y1ZYalI1bUx3QnFNOHo1dUl1T19pYTJLYlBMSWJaWlVOcWZIRVRjOVFOWGMtQVhWMV9jUk1kMWJVZnRjdkNjN2JsZC1KWElfNlgzWndJSWdxbGw3bVowWVltWWlqWVZOaXVuQUlDV29GNjV2aWhBQ1hLcEU2emtDc1I3UHJrekRocXl6Tzk4amVFOW1JWU5JZmd5VlF3cHF0QkZHTUQwc2FrYkJlZ3Bj?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Doença infecciosa (não especificada)"
@@ -371,89 +513,8 @@
         "Alagoas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "アラゴアス州のBR-101で集団発生中の乗客がバス運転手を襲撃 - アラゴアス州 24ホーラス"
-    },
-    {
-      "articleId": "gnews_7aac2f37cbe95e03",
-      "headline": "São Paulo chega a 11 casos e seis mortes em 2026; paciente de Lagoinha não era vacinado - PDNews",
-      "headlineTranslated": "São Paulo reaches 11 cases and six deaths in 2026; Lagoinha patient was not vaccinated - PDNews",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-19T02:07:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0ZSUGVFZW1hYkQwMW5pRVpFcml3U1V0WUw5V3BTSjNiWlE2QVRNNkZQVm5Kb0lBR3NScmdwa1FkSUNNVV9XUEJ1WHdteHlBLUdxU3pPTnJSbE9YY29hdUd6MUNNXzhrd05kbnhVZExkNHU1RXFxc1JBSlo2b1hjRTUzZmp0bEd3Zjg2emxCVlkwaFhIMVpqaVN6THg2NUotNkswV9IBqgFBVV95cUxNcjhhZ3lUTDU2QmU1Qjc3SnItQlNaYXYwS1I5ZGVoZWVhWUpWeVFEaFNuVGk3Q0pyOXFqTEdnb05MWE9RbEp1cWZVQzZYYVdlZmlia1djLWZzQnZweXhPNFduc1NOSDIzVDNVNGRXdjRmUGpPOEt5WC05NUVDODRiUnU1UnJkN1BQQUNKNlppUDhaNWhpb2FtV21laklVaW85a0w0dnRNZFpUQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "PDNews",
-      "headlineJa": "サンパウロでは2026年に感染者数が11人、死者数が6人に達する。ラゴインハ患者はワクチン接種を受けなかった - PDNews"
-    },
-    {
-      "articleId": "gnews_ae38967f2cb0d89c",
-      "headline": "Cidade de SP terá nova vacina infantil contra pneumonia e meningite - Única News",
-      "headlineTranslated": "City of SP will have new childhood vaccine against pneumonia and meningitis - Única News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T20:46:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEtuWTRVdWh5Z0NuVzZoa1NBR0h4bWhnWVZVMFZnUng5Mkx4bm41aFNLWFphazQ2UlZ1YlQwcy12bUh4a29hOGYtZjBIQ3NrdUVlcmFzZ2FtbzlfTlB2OVdTUDlBTUxKeTBzMjdFa1ZpcmtBMTBfMDlRWE1mUVJHYmNQTkM3aW5mdXRxZmtka2Y5WGhvaUJiSnJmYlp4SkJIekRWRzllaUhQOVlHal9J?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Única News",
-      "headlineJa": "SP市、肺炎と髄膜炎に対する新しい小児用ワクチンを開発へ - Única News"
-    },
-    {
-      "articleId": "gnews_43a1df029b3b80fa",
-      "headline": "Estado do Rio promove treinamento para prevenção da gripe aviária - Jornal Impresso Brasil",
-      "headlineTranslated": "State of Rio promotes training to prevent bird flu - Jornal Impresso Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T19:24:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEo0ZDhBX05LbE9JMFBFZHNLcXI2QkRwckhFUWpkdlVuZzZFVlNGSDhzS0FpZDdWU0hwN1QwVXJoa2N2cnE3WWN2cERvTHAxTjBQVFhFeThtTlA0MVAtc2FKNGxrdU5wZ0drOWZFR1lvZm0tT2hlbzZjS282SFVFTkhnYURJMFFXaXIxM0hYYURtdG10cmNHNXN0M0JaMmRzT0Zrdg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Impresso Brasil",
-      "headlineJa": "リオ州、鳥インフルエンザ予防訓練を推進 - Jornal Impresso Brasil"
-    },
-    {
-      "articleId": "gnews_537da09b944b4453",
-      "headline": "Casos de dengue sobem 11% em Goiás neste semestre – Agência Brasil Central - goias.gov",
-      "headlineTranslated": "Dengue cases rise 11% in Goiás this semester – Agência Brasil Central - goias.gov",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-18T18:38:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQU5BTUtiOUFuU3g5Q2Y5T3A2NWVYOUlpNEgxdGpfNUJ5bVg0MllmcEJBaDBGa0ExLU9LUk5tWVlNNmdvMGVYcWhNNUZyQ0Zqbm9xR1B2SjdfMWhpSXZ1cEV3SDlicU9BMF9yZURpSm9XVHYzbnFKX1d6RGNnRnM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "goias.gov",
-      "headlineJa": "今学期、ゴイアス州でデング熱感染者が11％増加 – Agência Brasil Central – goias.gov"
+      "sourceName": "Cadaminuto",
+      "headlineJa": "「見捨てられた人口は膨大だ」：目に見えない伝染病の発生の中でマセイオ氏が「RGアニマル」を承認 - Cadaminuto"
     }
   ]
 }
