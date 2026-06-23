@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-06-23T03:54:44.058522+00:00",
+  "generated_at": "2026-06-23T11:16:59.662896+00:00",
   "date_range": {
-    "start": "2026-06-21T03:54:44.058522+00:00",
-    "end": "2026-06-23T03:54:44.058522+00:00"
+    "start": "2026-06-21T11:16:59.662896+00:00",
+    "end": "2026-06-23T11:16:59.662896+00:00"
   },
   "total_articles": 26,
   "state_summary": {
     "São Paulo": 1,
-    "Brasil (estado não identificado)": 12,
+    "Brasil (estado não identificado)": 11,
     "Pernambuco": 1,
     "Sergipe": 1,
+    "Mato Grosso do Sul": 1,
+    "Pará": 4,
     "Acre": 3,
-    "Pará": 3,
     "Ceará": 3,
     "Tocantins": 1,
     "Alagoas": 1,
@@ -19,10 +20,11 @@
   },
   "disease_summary": {
     "Yellow Fever": 1,
-    "Meningitis": 5,
+    "Meningitis": 4,
     "Ebola": 1,
     "Doença infecciosa (não especificada)": 5,
-    "Dengue": 4,
+    "Dengue": 5,
+    "Chikungunya": 1,
     "Measles": 4,
     "Avian Influenza": 6,
     "Influenza": 6
@@ -105,7 +107,8 @@
         "Sergipe"
       ],
       "dataSource": "Google News",
-      "sourceName": "Fan F1"
+      "sourceName": "Fan F1",
+      "headlineJa": "アラカジュでのBOPE交渉後、精神異常の男性が降伏 - ファンF1"
     },
     {
       "articleId": "gnews_3e59a88017f0e916",
@@ -146,6 +149,28 @@
       "dataSource": "Google News",
       "sourceName": "Siga Mais",
       "headlineJa": "アダマンティナのデング熱：マリオ・コバスとジャルディム・ブラジルが陽性率トップ |健康 |ニュース - もっとフォローする"
+    },
+    {
+      "articleId": "gnews_97508ece10a51529",
+      "headline": "Contra dengue e chikungunya, MS aposta na ciência para agir antes do surto - A Crítica de Campo Grande",
+      "headlineTranslated": "Against dengue and chikungunya, MS is betting on science to act before the outbreak - A Crítica de Campo Grande",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-22T16:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnp0ejdib2w1MGM2ejFDLWQ4d2hlQm4tVTJiQ2dLOHVVZFBtQnhHX1E1VkZYX3E5SmR4WDhaMVJNaU1ONUNFWkJxdmVCcVVVZjFOaUs3Q01QMkJiaTlpVTZPX19PdlN2b2oycWdsc1hiREtCT0N5UG9wYjBiLVRJS0RhdGRRQnByaXlHVU43Z3Q5MEJCZzVYWENsdGhNNzQxYUpB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande",
+      "headlineJa": "デング熱とチクングニア熱に対して、MS は発生前に行動できるよう科学に賭けている - A Critica de Campo Grande"
     },
     {
       "articleId": "gnews_43cd74e425508d1e",
@@ -225,7 +250,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário do Centro do Mundo",
-      "headlineJa": "弁護側は、セアラへの接近中に殺害された職員は精神異常を起こしていたと主張 - Diário do Centro do Mundo"
+      "headlineJa": "弁護側は、セアラへの接近中に死亡した職員は精神異常を起こしていたと主張 - Diário do Centro do Mundo"
     },
     {
       "articleId": "gnews_61a3cba277f24632",
@@ -326,7 +351,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CompreRural",
-      "headlineJa": "H5N1型鳥インフルエンザがオーストラリアに到着、影響は鶏と卵をはるかに超える可能性 - CompreRural"
+      "headlineJa": "H5N1鳥インフルエンザがオーストラリアに到着、影響は鶏と卵をはるかに超える可能性 - CompreRural"
     },
     {
       "articleId": "gnews_1f7a6f17584634d0",
@@ -404,12 +429,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
-      "headlineJa": "オーストラリア、鳥インフルエンザの新たな感染者を記録、世界の食糧生産への警戒を強化 - アラゴアスアラート"
+      "headlineJa": "オーストラリア、鳥インフルエンザの新たな感染者を記録、世界の食糧生産への警戒を強化 - アラゴアスアラタ"
     },
     {
       "articleId": "gnews_ac4a7540c540baa4",
@@ -492,7 +517,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A Gazeta do Acre",
-      "headlineJa": "アッコでは麻疹ワクチン接種目標を達成したのは2つの自治体だけだった。都市別のインデックスを参照 - A Gazeta do Acre"
+      "headlineJa": "麻疹ワクチン接種目標を達成したのはエーカー州の2つの自治体だけだった。都市別のインデックスを参照 - A Gazeta do Acre"
     },
     {
       "articleId": "gnews_e881b92ce67fa58a",
@@ -533,26 +558,6 @@
       "dataSource": "Google News",
       "sourceName": "Folha do Estado da Bahia",
       "headlineJa": "SUS、肺炎と髄膜炎に対する新しいワクチン、ニューモ20の小児ワクチン接種を開始 - Folha do Estado da Bahia"
-    },
-    {
-      "articleId": "gnews_65c3228ea76cc59c",
-      "headline": "SUS começa vacinação de crianças com novo imunizante contra pneumonia e meningite - portalviu.com.br",
-      "headlineTranslated": "SUS begins vaccinating children with new vaccine against pneumonia and meningitis - portalviu.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-21T09:59:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHdMZy1NNGtTQ3RQRHhUMUFPSHo5bUdhNEZyS2ViMVVrOW5jNS14OUpMdklkMTVNbjlJWkNNWmhFQzd5M0pielQ5ckIyR2hHTElPLWRnc01ZU0ZGZV9ONnpvZWRIUGFoMXYwUE9HMVZHcC16eDhNd0QwUTdqNWlWU2lnSENyMkhFbUlYVEczT3Vhc3FoQlNWLS1ad05HTDZ1eEs2UXA2MDNfb1htNFN1ZUJWWFBtY1k?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portalviu.com.br",
-      "headlineJa": "SUS、子供たちへの肺炎と髄膜炎に対する新しいワクチンの接種を開始 - portalviu.com.br"
     }
   ]
 }
