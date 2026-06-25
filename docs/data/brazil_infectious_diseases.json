@@ -1,36 +1,115 @@
 {
-  "generated_at": "2026-06-25T10:42:08.727163+00:00",
+  "generated_at": "2026-06-25T18:20:58.973774+00:00",
   "date_range": {
-    "start": "2026-06-23T10:42:08.727163+00:00",
-    "end": "2026-06-25T10:42:08.727163+00:00"
+    "start": "2026-06-23T18:20:58.973774+00:00",
+    "end": "2026-06-25T18:20:58.973774+00:00"
   },
-  "total_articles": 24,
+  "total_articles": 21,
   "state_summary": {
+    "Pará": 5,
+    "Piauí": 3,
+    "Distrito Federal": 2,
     "Brasil (estado não identificado)": 10,
-    "Piauí": 2,
-    "Pará": 7,
     "Goiás": 1,
     "São Paulo": 1,
     "Amazonas": 1,
-    "Pernambuco": 3,
     "Paraíba": 1,
-    "Distrito Federal": 1,
-    "Acre": 1,
-    "Tocantins": 1,
-    "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1
+    "Pernambuco": 2,
+    "Acre": 1
   },
   "disease_summary": {
-    "Dengue": 8,
-    "Avian Influenza": 4,
-    "Influenza": 5,
+    "Dengue": 7,
+    "Measles": 3,
+    "Doença infecciosa (não especificada)": 3,
+    "Influenza": 4,
+    "Avian Influenza": 3,
     "Yellow Fever": 1,
-    "Doença infecciosa (não especificada)": 2,
-    "Measles": 2,
-    "Meningitis": 5,
-    "COVID-19": 1
+    "Meningitis": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_94ebd5c96b32ffa6",
+      "headline": "Teresina cria comitê para prevenir surtos de dengue na capital - CidadeVerde.com",
+      "headlineTranslated": "Teresina creates committee to prevent dengue outbreaks in the capital - CidadeVerde.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T15:56:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3dmbVBvVkdEdHFuVjBRNl84RTJOaDJNeGtjcEFLY3BQd0U5SFUtVDBURFlqZlVtTWw2d2ZtdDVYU2l1MlhkNFNwWGdoTUdhak9JMElYNzQ2dUtvRTk3aHE4bGRPM19TNmUtbUt2MHhDOWhpbkRjVV9BVkZfN1VvcW1KaEVRWWpsd3AzYjV2Z2tNTmZBUXJ3X2Z6blhLbE92WlBiaw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CidadeVerde.com",
+      "headlineJa": "テレシナ、首都でのデング熱発生を防ぐための委員会を設立 - CidadeVerde.com"
+    },
+    {
+      "articleId": "gnews_b0dbb10b1f8fabd0",
+      "headline": "Alta de casos de sarampo nas Américas acende alerta para reintrodução da doença no Brasil - Agita Brasília",
+      "headlineTranslated": "Increase in measles cases in the Americas raises alarm for reintroduction of the disease in Brazil - Agita Brasília",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T11:56:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3kyUlNYU2MyWG5tdXJILTRqVkJULW1yT2N5akpvbk9vNlBUd3JiSmJVSVQ4OTdmbUJsckxPNHRfWnFESDh1TUo0VTVDSUk1MGNvZWZaMWVZLXJMUWVNaG5ScV9kNkg1QS1MdThqRlNSX3RTbkFGM3hRTXZmYzBpa2N1YTBYcGtubjFPVDc1V0VyWHMtSnRhMWJNRFBnVWh4bnRYeHp1eWFfT1F1dEx1RjlvVV9iVms?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agita Brasília",
+      "headlineJa": "アメリカ大陸での麻疹症例の増加は、ブラジルでの麻疹の再導入に警鐘を鳴らしている - Agita Brasília"
+    },
+    {
+      "articleId": "gnews_ffe6b6540c7ff3e3",
+      "headline": "Alta de casos de sarampo nas Américas acende alerta para reintrodução da doença no Brasil - Agência Brasília",
+      "headlineTranslated": "Increase in measles cases in the Americas raises alarm for reintroduction of the disease in Brazil - Agência Brasília",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T11:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmpiaU1QcC1HZFk5X0ZSdEs1Y05nVGFlelNGa21aZVgxN0dnZlphWkpLcHdnSmdhNVNJR21GTV9ZNzBHTFFQRjN0QkxHU1RjQmRXOHJCMEc0VV9nNlV0Z0g1dnhYV3dISGV1LXcxcTZQU0YwQVFQdDFjVkMwVmV4S2hNV3JLQWU3Vm1OZ2pqQWp5OU1GMUJZTmZFV3B2ejdHZGVha3B1MHNybjZaTzFMT0VRLVdtNHdzZGVSZTF0ZzlCeWJkUk1sRFdnLU9vbGprQUZzejZSX2RYNFdVREFLOVpPbnM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasília",
+      "headlineJa": "アメリカ大陸での麻疹症例の増加、ブラジルでの麻疹の再導入に警鐘 - アジェンシア・ブラジリア"
+    },
+    {
+      "articleId": "gnews_b5ce4fde481aa115",
+      "headline": "Viralizou: 11 coisas que mudaram na saúde desde a última vez que o Brasil ganhou a Copa - Estadão",
+      "headlineTranslated": "It went viral: 11 things that have changed in health since the last time Brazil won the World Cup - Estadão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T08:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUUxBM3IwbmE1REJYd21fWTduYWIwUU9nVWJndlZOa0ZoRVBabFFkNEpCQ0dVb0Z4NHNUTjFXT3l4Z1RTX2NtXzNrRVBOMU8xX3BBZlFpdkhXNXo3Z0tVZmdHZGtPSUFzeUxCck1HUzhUR2JYeWlmcEtrWWVpbEtFeUZsLXJwMEEweWVkM2lva09ab2VKSDVGRmpxSU05aWFZbjJfQTdOdW1QeXZpNFRlLUxuZjJNbHpRTERMZVZfQ2hpNjNCLWMwcFREMWpyY1BfdDFmLXdR0gHbAUFVX3lxTE9mQm9MUFB1LXdJU3RWbHptVF8tOWNqZlNCQ0Y3T08xWTFrZHFKVzhwVHRaX2NuclBvbmE3UGtBNkdtWDY4NG5uVnJtSXZ6RmlMVUFYa3VRTi1oejB6cnkwNGlUc2lqRVFDRHcydFlmRllCVEFqczdXaHJVTVE5S0huenFscGdXNGotbElOYV9WcC1EUHkwNVEzdXQtbGlsOWE2bTA0WjQ3N3Uzby11Q0EzQUJhRzhFUktmZWk1MXpUV2hGakdETlU4LUJySGFBVnI1cjdfLVlpajY0UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão",
+      "headlineJa": "話題になった：前回ブラジルがワールドカップで優勝した時から健康面で変わった11のこと - エスタダン"
+    },
     {
       "articleId": "gnews_1519b981a0cc2d26",
       "headline": "O que está por trás da suspensão da vacina da dengue pelo PT - Revista Oeste",
@@ -61,8 +140,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVNrSnVGenhFYlJBaWY2dUFfVTQ4UENhaHNWNmNISDZ5eHhBTjJCU2hIN3NHVEtNVnprb0VuakxnVDNtM1hlMnVjWVlTM0dHMXBvWWdYRTVrSS00ZGVyUzA0VXBjV2lSVWZ0b2R6MDN3WTFFOXRqemdsUW83NDlKbWtNSEhpNU03UnpjSTIyNlU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -82,8 +161,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXFGcDFZOWtqUjNfVmhwX0JmZDF1V05yU0dnWDNYYkZnZVRzS1Q4NzNqUjhIWmVrSWhEUlliZDRvVHQ1ZFNJajREbnh2MDU3bmVTenltd251SG9ua0trUWNBUGQ1b3FtTnBETjF6cVZfS1NlWUpicTJWUVhRRzRqLV9MMHBmTmFWUkJTczJqa0VlNGxiaUdJMDBOX1hUWGVvU0xkdklISHpyMXk0RzVvci04MWtScUFpclBfdnlR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -143,8 +222,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYjNJbnJ4TDA3NkNVRmtYQURRVURxS1NzUC1aUWV4TVdqREZXc3JHUWpzdUtYRmM2dThUcGxpTmREaFRjdWV6bDFpRE5hcGdGcF9tV2ZHeDh5a1lZNjQ4RnZlOG5EUzhTUTRTTDl2VWRYdDN5WHVMS3NMUXpDZVdVRUtSdENwUmZweWNsbDhST2hrdGxibGZyMG1TbDdaaXhaeHZtRmtGcjk1eUxobXROSHNFWkR6TUtqYjExVEhOQkZ3bzBtM2R4NGdEMURlV1pCaWxxeE5PSnZlRk8tMzF2cHZKRjczemdtRU5wbXpiZ1QtNW8tQmp3M0JxN0ZSd0VXSG5uX2hLVmRwdDBFUEE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -152,7 +231,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Terra",
-      "headlineJa": "H5N1型鳥インフルエンザが乳牛の乳房に集中する理由を科学者が発見 - Earth"
+      "headlineJa": "H5N1鳥インフルエンザが乳牛の乳房に集中する理由を科学者が発見 - Earth"
     },
     {
       "articleId": "gnews_c0f2bbfa6691df87",
@@ -217,27 +296,6 @@
       "headlineJa": "アマゾナス州、分子診断の専門家の訓練を受けて麻疹に対する監視を強化 - Portal do Marcos Santos"
     },
     {
-      "articleId": "gnews_823f14d1714da071",
-      "headline": "Pernambuco recebe primeiras doses da Pneumo 20 para reforçar proteção contra pneumonia e meningite - Francês News",
-      "headlineTranslated": "Pernambuco receives first doses of Pneumo 20 to reinforce protection against pneumonia and meningitis - Francês News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-24T12:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYl9WUnozdnVKQmdqSFJpc1NvQlRnLWpQTU1jV2NMemdVaDQxY3RQWTJQWE85dndpcEhyOEV5b1JhRk1BZWN4MEhYb01JSC1fdXFjSnpqOXpyRnVQaGlwOE1QTTVuZXBjRnV1eEJQOG5BbS1sTk1xTG5tZUVZX1ZkYjVZUkxvamhIYUY5dzhEVUNlajlmR0NpU0dnaUVBbjZma2p3d1RaRGd0dUJQU3Ftem1QMU12aU1ya1ZIdWJ1ZUVhdDJTYW5TWmlBS3VyR1NhU21RTXYxa1lXc0h2c2VhUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "ペルナンブコ州、肺炎と髄膜炎に対する防御を強化するためにニューモ20の初回投与を受ける - フランシス・ニュース"
-    },
-    {
       "articleId": "gnews_3e10c5439cdc55ca",
       "headline": "Paraíba recebe primeiras doses da vacina que amplia proteção contra pneumonia e meningite - Portal Correio",
       "headlineTranslated": "Paraíba receives first doses of vaccine that increases protection against pneumonia and meningitis - Portal Correio",
@@ -257,27 +315,6 @@
       "dataSource": "Google News",
       "sourceName": "Portal Correio",
       "headlineJa": "パライバ州、肺炎と髄膜炎に対する防御を強化するワクチンの初回投与を受ける - Portal Correio"
-    },
-    {
-      "articleId": "gnews_267d79e426631969",
-      "headline": "Sarampo: alta de casos nas Américas acende alerta para reintrodução da doença no Brasil - Secretaria de Saúde do Distrito Federal",
-      "headlineTranslated": "Measles: rise in cases in the Americas raises alarm for reintroduction of the disease in Brazil - Health Department of the Federal District",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-24T11:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelpLeGxVZ1h1RGQ3WnVqX2V0b1RDTWlBWkhMSWd1bXFZUnBGZ2FMbTNybUNKLUNRZFJVa19udzdvM0VpMTB5cURERjJpYkZJSTRIcndENDBtVEpHckltYnhSY0EwSEV2RjdxZGwyamNLdThqbzc1c0pncjliczhLbnlUUWhmdVdDNGppa3VaYkI3Y3NQclFmMnFsMFFVdkUtYWMzRnlFRHFuS01mZklqaDFRdnlYRjg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Secretaria de Saúde do Distrito Federal",
-      "headlineJa": "麻疹：南北アメリカ大陸での感染者数の増加により、ブラジルでの麻疹の再導入に対する警戒が高まる - 連邦管区保健局"
     },
     {
       "articleId": "gnews_193fcd6372e6e448",
@@ -337,7 +374,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
-      "headlineJa": "2026年に死亡者ゼロ、エーカーでのデング熱確定症例数は80％以上減少 - G1"
+      "headlineJa": "2026年に死者ゼロ、エーカーでのデング熱確定症例数は80％以上減少 - G1"
+    },
+    {
+      "articleId": "gnews_7c4c2d16d48b02a3",
+      "headline": "Reações graves à vacina contra dengue ainda não foram notificadas em Minas - Estado de Minas",
+      "headlineTranslated": "Serious reactions to the dengue vaccine have not yet been reported in Minas - State of Minas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-23T23:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTlpycGRQOTBST1h3bW05a3pFaXU3SHJzd2Jua2phMUVwYzhNazRMZ1pBMzRqcjd1QXA3YjRfalg5NUMzOHFsc0tfRzBnS2JFeFA5eTJZYlhaMlJzQ3hXTmNENEZXbEtxeUJxSUc4V2ZPeWd4XzdNU2JSS3I2NEZBb1FtUXp2M3BSQmJQVEJYanpKYVJfYXY2em9tTDhSeDNTWWE3a2stQlJaZld0VlNzSnFjNGhVdlVObHhseHVURVBCUdIBxwFBVV95cUxPck1TaTdJZTlUbXlXWHphbG11QVNjREFIZG02Q1VyX1ZES0l0anA3UEpjR2ZpbjdFWHp0S0NJanZ0X3A4WHVtMHVtOXpwZGl5Z1VVZFN5TkZJTHhZZnA0S0RzdG1hcUF0YlVaUWJ3U2FwRWRhcHhDUDR0cUpNZkFEcG9mNmlMbnl5YkdKZElqV1Y3dVJZX01HVEZxV0oyMUwyUzZzSWVkNEJYcUc2S1Z6N0xsTjJoVVhzeWV1YVBwbzhBSzNsZDBn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado de Minas",
+      "headlineJa": "ミナスではデング熱ワクチンに対する重篤な反応はまだ報告されていない - ミナス州"
     },
     {
       "articleId": "gnews_c38115e1b6a34fab",
@@ -362,7 +419,7 @@
     {
       "articleId": "gnews_fa3c5b71aa9952cb",
       "headline": "Surto de gripe expõe risco de política antivacina nos EUA - Brasil 247",
-      "headlineTranslated": "Flu outbreak exposes risk of anti-vaccine policy in the USA - Brazil 247",
+      "headlineTranslated": "Flu outbreak exposes risk of anti-vaccine policy in the US - Brazil 247",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-23T21:45:30+00:00",
@@ -398,129 +455,6 @@
       "dataSource": "Google News",
       "sourceName": "Cidadesnanet.com",
       "headlineJa": "憲兵が感染爆発に見舞われ、テレジナ中心部で仲間を人質に - Cidadesnanet.com"
-    },
-    {
-      "articleId": "gnews_570f061a96cdede1",
-      "headline": "Lição deixada pela Covid-19 faz Brasil se antecipar a novos surtos de contaminação de doenças - Crusoé",
-      "headlineTranslated": "Lesson left by Covid-19 makes Brazil anticipate new outbreaks of disease contamination - Crusoé",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T17:14:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1Y4T29jWlJMX3E5SEI0ZjhxUXhkYWhpeTVqVk1RX3llTDllUjA5N2g0dUhXakYtby15Z18tRmRrTC1xOEowVW5HN0ItcEFpZl9PUmpWMnZrSTc0NkdnWU1PSFJuRjdHQUQ1d2ozMWkwSlFrTFpNUS1hZFJna0dlaC1ydTdoQm03WEVNOWdxLTVKRm5UX1B1SzV0T0NlalZsbGhDemNYc3BEOVpxU2R0Tks1blJMMUJKS0IwZ3J6aWtKdi00Tnc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "COVID-19"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Crusoé",
-      "headlineJa": "新型コロナウイルス感染症が残した教訓により、ブラジルは新たな病気汚染の発生を予期している - クルーソエ"
-    },
-    {
-      "articleId": "gnews_795a160f391fdc6c",
-      "headline": "Austrália confirma contágios de gripe aviária (H5N1) pela 1ª vez na história - Portal DBO",
-      "headlineTranslated": "Australia confirms bird flu (H5N1) infections for the first time in history - Portal DBO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T15:56:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29ob2xEZ0wxd3VRS29odlk5R1htTVh6TmR2NHV5Q3VJQnppejFZQWdJMkc4aTBEUnJ5djRyektJU09tTTNEUk9ZNDJkXzBmMzBoVnJROVdnWjNXYTFwU3VXZ1VVT2IwV05TWXRpS2t4N0NncXprSy1WU3ZDSjRnOFZMQkZUUm9tbGV6VHZYbXdPLVNKZnJIWHhxTmJ1eVhUcUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal DBO",
-      "headlineJa": "オーストラリア、史上初めて鳥インフルエンザ（H5N1）感染を確認 - ポータルDBO"
-    },
-    {
-      "articleId": "gnews_2bbfa4e2362bdfdb",
-      "headline": "Fumacê passa por ruas de Paraíso do Tocantins para combater mosquito da dengue - G1",
-      "headlineTranslated": "Fumacê passes through the streets of Paraíso do Tocantins to combat dengue mosquitoes - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T14:34:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOM0J3bFJudVFNSDZwai00UUhfVG5aUEpKYWxKa0RkT0JoU3U4VmJ4RWt5MFNZVmtJb2hGWVBCYnFXUGQ5WmJwZXVIT0JJX1haQmNZaDdBck1YaUNXM2RvUENPQUFOTlZBSlJJd1QzbDBFV1dsTUlnZURzRDFnNzVFREI4UmlXaTZqbjE3c3JWbWc5aDlLd1puV0VPWm44YnNLMExRY0FEckppeTFqaWNWbnlueXhQSDJ1SWc1UDdNUXAtTmpjRkJldmNrYU1VT3B2eXdkaGxFa2dtMjNNN0dsTlFDZ1IzaHdhRHloS3FqYUt3dEk1dm5pY3haN3hwQdIB_gFBVV95cUxOM0J3bFJudVFNSDZwai00UUhfVG5aUEpKYWxKa0RkT0JoU3U4VmJ4RWt5MFNZVmtJb2hGWVBCYnFXUGQ5WmJwZXVIT0JJX1haQmNZaDdBck1YaUNXM2RvUENPQUFOTlZBSlJJd1QzbDBFV1dsTUlnZURzRDFnNzVFREI4UmlXaTZqbjE3c3JWbWc5aDlLd1puV0VPWm44YnNLMExRY0FEckppeTFqaWNWbnlueXhQSDJ1SWc1UDdNUXAtTmpjRkJldmNrYU1VT3B2eXdkaGxFa2dtMjNNN0dsTlFDZ1IzaHdhRHloS3FqYUt3dEk1dm5pY3haN3hwQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Tocantins",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱の蚊と闘うためにパライソ・ド・トカンチンスの通りを通過するフマセ - G1"
-    },
-    {
-      "articleId": "gnews_c8c4764e0ba501aa",
-      "headline": "Mato Grosso do Sul divulga novo levantamento sobre risco de dengue nos municípios - capitalnews.com.br",
-      "headlineTranslated": "Mato Grosso do Sul releases new survey on dengue risk in municipalities - capitalnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T13:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXdmSXRIemtaQmZQYnJFdF94d1FoUW9zeC1wbHRBUzdxNWprMWdHYUxaejVQaVFJSTJhTE9DVXdiemJRazc0cl9WdXBKamlYU2hiMS1YZXFHYU5JOVJiRzd6TkNyQ3V4R3phQVhFREtiTnhGNEJWa0xDbmRKc1hWeUFRUzhHWmtWdEJaNlc0RmNDNm9IR01STlNwa0FNWFBLNVNlUEYxTHU3OHBkSHdKZ3lmVzdQbnJjaVk0ZlFlak5GeFBRbnR6MWpjT3NOaWpzX1l4cUdGNENrZUwtbno2cQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br",
-      "headlineJa": "マトグロッソ・ド・スル州、自治体におけるデング熱リスクに関する新たな調査を発表 - Capitalnews.com.br"
-    },
-    {
-      "articleId": "gnews_1d26b5d793de2e77",
-      "headline": "Tranquilidade para os pais: vacina contra a dengue aplicada em Pará de Minas está fora da linha de risco - Rádio Santa Cruz FM",
-      "headlineTranslated": "Peace of mind for parents: dengue vaccine administered in Pará de Minas is outside the risk line - Rádio Santa Cruz FM",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T13:01:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcndtMzl1ZGxwb1dNcnBuM3ZONTZVcW9PWGM4Mk4wa3N2MWZMUkxjenlDaHk1UkdfaEZhWUVNNWlOV0MzRGtWNTlySTg2a1k0WnI3N0tuUWVidFFZQS1jUnFNbHQxVHVpcXBfWTg3VkdxWmxCQkJQaU9YTHNnN2Q2cF83NV9XNG5zcVdSM1FRTG1HVmhFcGEzMVZrM1pDeWVvUkhpd3A2UWRhXzNvUjhZdGk4TkVPV0V4U2Q1cy05R08zek05Mmc0Nm1Nc0xEMHJfTWhGbHg3Q2RSa2gtODV5WjBCR2VUUTFSeGlsb0ZjNVZrNWM1Z2VyX1R1eDY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Santa Cruz FM",
-      "headlineJa": "親の安心：パラデミナスで接種されたデング熱ワクチンはリスクラインを超えている - ラジオ・サンタクルスFM"
-    },
-    {
-      "articleId": "gnews_87832060ad1f7ca0",
-      "headline": "MT recebe 14,7 mil doses de vacina contra pneumonia e meningite para crianças - pnbonline.com.br",
-      "headlineTranslated": "MT receives 14,700 doses of vaccine against pneumonia and meningitis for children - pnbonline.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-23T12:28:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFdBeklsSDR5bmdSRTNoejZua0x4Rkx3RVcteExpdmJtSkh2NUZ1UkRLWS1WVTRVRkl5TWU5LVZTemk2MlUwRnlUVFN1dzFkS2ZRZGxWNGl6T0JBTGxrcWsybXFuaHVURUNCcWFCbnZqbXV6aUJIYXBaQlJucVpmVVAyWDE4ak5HVjE1NDZJUE5lRnVlbHFUN0Y2SmdaWHFPYm0xOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pnbonline.com.br",
-      "headlineJa": "MTは子供向けの肺炎と髄膜炎に対するワクチン14,700回分を受け取る - pnbonline.com.br"
     }
   ]
 }
