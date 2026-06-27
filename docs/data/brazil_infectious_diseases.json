@@ -1,32 +1,95 @@
 {
-  "generated_at": "2026-06-27T10:09:55.762951+00:00",
+  "generated_at": "2026-06-27T17:21:01.908235+00:00",
   "date_range": {
-    "start": "2026-06-25T10:09:55.762951+00:00",
-    "end": "2026-06-27T10:09:55.762951+00:00"
+    "start": "2026-06-25T17:21:01.908235+00:00",
+    "end": "2026-06-27T17:21:01.908235+00:00"
   },
-  "total_articles": 50,
+  "total_articles": 51,
   "state_summary": {
-    "Brasil (estado não identificado)": 10,
-    "São Paulo": 22,
+    "São Paulo": 23,
+    "Mato Grosso do Sul": 2,
+    "Mato Grosso": 1,
+    "Brasil (estado não identificado)": 12,
     "Roraima": 2,
-    "Piauí": 6,
+    "Piauí": 5,
     "Sergipe": 3,
     "Amazonas": 2,
-    "Pará": 18,
-    "Mato Grosso do Sul": 1,
+    "Pará": 15,
     "Paraná": 1,
-    "Santa Catarina": 1,
-    "Distrito Federal": 2
+    "Santa Catarina": 1
   },
   "disease_summary": {
+    "Measles": 32,
+    "Dengue": 11,
     "Yellow Fever": 1,
-    "Measles": 33,
-    "Dengue": 10,
     "Doença infecciosa (não especificada)": 6,
     "Zika": 3,
-    "Chikungunya": 3
+    "Chikungunya": 3,
+    "Influenza": 1,
+    "Avian Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6b39f50928a62cab",
+      "headline": "São Paulo registra três novos casos de sarampo em bebês - Folha MS",
+      "headlineTranslated": "São Paulo records three new cases of measles in babies - Folha MS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T15:05:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmNjczVMb1Q2bnpIOGVOd0hrblpIaU1VU0dhQWZvd2dqUjExaUJVejdpNHpTU0lyU05CQnRCTFFwOFl1UFZFZmNST1pNMlE2eEVnWUVKdFNfTjBKZ1F2TW52bG5NcHRjZE1LU2h0NTdVN3hGUW9xTEpybEFobm5OS1pTQnpwNjJZTXk3MkZYdmxpN3Ez?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha MS",
+      "headlineJa": "サンパウロ、新たに乳児の麻疹感染者3例を記録 - Folha MS"
+    },
+    {
+      "articleId": "gnews_f348d0aa4ba14280",
+      "headline": "Mato Grosso do Sul monitora 7,3 mil vacinados após suspensão da Butantan-DV contra dengue - A Crítica de Campo Grande",
+      "headlineTranslated": "Mato Grosso do Sul monitors 7,300 people vaccinated after suspension of Butantan-DV against dengue - A Crítica de Campo Grande",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T14:28:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGl4YmNrVDdobGo2a2dNbG5EOXJ1REw5c1BweXltd09Ganh5WFVNSWlrMGtRdm1mWlNvVHpCNVNJUFp1ZHAyWE8xTWpqNWFnbXlHTTNfaWtVZDNXTGJXVE04RXVLMTlEblpobEtiZVpDV0g3cHl6RHktVXZoOW5NMHM0RnVuZlJod1pJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul",
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande",
+      "headlineJa": "マットグロッソ・ド・スル州、デング熱に対するブタンタンDVの一時停止後、7,300人のワクチン接種を監視 - A Critica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_bfe62672c506abdc",
+      "headline": "Após 137 reações e suspensão da vacina, MS monitora mais de 7 mil imunizados contra a dengue - Midiamax",
+      "headlineTranslated": "After 137 reactions and suspension of the vaccine, MS monitors more than 7 thousand people immunized against dengue - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T10:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWQtWk5xU0FadmpzM043RkhQRGNEakx0T1MzdkVSLVNnY0hvbDJveVphVU5IbDVGWnlVM1dLaF9tVzVSRGJBVGVVSGlwaTdKTnJrZ0lIRkJmeV9YMFNndU90R0dtTE5BeC05dW10RGh3YWJvNHJicE9PaE9FLXRISmh4ejBsQUo0ckFVZFhod2ZwM1EwcG4wb3M5WXA1R1hKM29heTdRalktNGlZbUF1eGRGZGNQaVhaQkR1VFh3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "137件の反応とワクチンの中止後、MSはデング熱の予防接種を受けた7000人以上を監視 - Midiamax"
+    },
     {
       "articleId": "gnews_2675ed95f1cbd7e3",
       "headline": "Estudo mostra avanço da febre amarela em fragmento florestal em SP - Poder360",
@@ -101,8 +164,8 @@
       ],
       "locations": [],
       "states": [
-        "Roraima",
-        "São Paulo"
+        "São Paulo",
+        "Roraima"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -174,7 +237,7 @@
       "headlineTranslated": "With more than three thousand cases of dengue, Teresina creates Committee to combat arboviruses - Portal O Dia",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T20:18:38+00:00",
+      "publishedTimestamp": "2026-06-26T20:15:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbk5saVBJcWw3MUxhZE9yMDlGREtMVGRkdmZVTkwxZXh0QUtrTHhSdTBOV3ZFN1J6SzBSMXRFaTRucmVXSjdscHhuWnZLcG55YjBMTW9UVEJScnlESFBxUjV5Qm9nTjhzWnFZVzE5WUVsTkt2XzM2V25MZktEeVY3NERPdmhsYUhXdElRRUZDdlQzWVpUVDBhckVabFVyb0hfTkVPSW1mQkhDOVlrVUdPd0lUREQ4YTl0NDlQUXN0WnlwTE5GbGlhcG9fZ2QtdEpKcnfSAdcBQVVfeXFMTUU3SUUtcmFmTFJIRnVDd3JMbTFKckJpU3htTkxOTGFhSnFhVmpaY0w4SFZSSWkzSWJ5VUoxQjVxSzNpVTlGM1h6WDlqLUo3MElWVWlhb1hVQ2lpNG8yRTlpZzZIWEQxNzNQZTVkcEtoVmtodXlFeWRqd1BXOUlnSngxQmt0anNYazdHUkVaRmY4dGV5dFR6ZzNtWDNnMWZJajF2bDlOVzBzNzI5T0hwV0hmeVhOYXdCcE93bFlJY1RycnNjTEZyZGdCSFNuajhKSGZVMFZZNFE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -226,7 +289,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
-      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - アジェンシア・ブラジル"
+      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - Agêcia Brasil"
     },
     {
       "articleId": "gnews_795782f1f1992852",
@@ -279,8 +342,8 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Zika",
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -304,8 +367,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Terra",
@@ -332,9 +395,9 @@
       "headlineJa": "蚊に対する蚊: アナポリスは 8 月にウォルビトスの導入を開始します。テクノロジーを理解する - Jornal Opção"
     },
     {
-      "articleId": "gnews_6336c93fab16401f",
-      "headline": "Prefeitura lança jogo digital para estudantes com foco no combate à dengue - Dourados News",
-      "headlineTranslated": "City Hall launches digital game for students focused on combating dengue - Dourados News",
+      "articleId": "gnews_09bdc30a59a5e2f3",
+      "headline": "Prefeitura lança jogo digital para estudantes com foco no combate à dengue - douradosnews.com.br",
+      "headlineTranslated": "City Hall launches digital game for students focused on combating dengue - ursosnews.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-26T18:21:00+00:00",
@@ -345,12 +408,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Dourados News",
-      "headlineJa": "市役所がデング熱との闘いに焦点を当てた学生向けデジタルゲームを開始 - Dourados News"
+      "sourceName": "douradosnews.com.br",
+      "headlineJa": "市役所がデング熱との闘いに焦点を当てた学生向けのデジタル ゲームを開始 - ursosnews.com.br"
     },
     {
       "articleId": "gnews_5a84f11ac5ce2adf",
@@ -447,8 +510,8 @@
       "locations": [],
       "states": [
         "Paraná",
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Bem Paraná",
@@ -468,8 +531,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Acessa.com",
@@ -493,7 +556,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TNH1",
-      "headlineJa": "集団発生中の男が教会に侵入し、セルジッペ市内の神聖な像を損傷 - TNH1"
+      "headlineJa": "集団発生中の男が教会に侵入し、セルジッペ内部の神聖な像を損傷 - TNH1"
     },
     {
       "articleId": "gnews_eca7a8a8a2719acb",
@@ -509,8 +572,8 @@
       ],
       "locations": [],
       "states": [
-        "Roraima",
-        "São Paulo"
+        "São Paulo",
+        "Roraima"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -535,26 +598,6 @@
       "dataSource": "Google News",
       "sourceName": "SBT News",
       "headlineJa": "麻疹：保健省、SPでのワクチン接種ゼロを推奨 - SBTニュース"
-    },
-    {
-      "articleId": "gnews_0cd4fc50a1d1ab4d",
-      "headline": "Governo de SP confirma três novos casos de sarampo e orienta dose zero da vacina em bebês da capital e Guarulhos - BOM DIA GUARULHOS",
-      "headlineTranslated": "Government of SP confirms three new cases of measles and recommends zero doses of the vaccine for babies in the capital and Guarulhos - GOOD MORNING GUARULHOS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:59:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2RMaERJZ00yUlBsZDhpdFktbEcwRVdxbjI3TmVsM2g2OGJHXzVrZl9TQmw4WTVJaDBMSnNmdlZlaUpUSHpUZWxYS3AyNF9LTmtfRkVHMVZ3VF9BUksxU3dhaDZfX2RFRDkwdXV5WTJIWDhYUUhqRTVITGZ5cjRQbVVSU2RiTGFOVUJjVThsaTJVd2JKdFpCNDRZeExvc3RTaFBKZG5HdzhwTi1ZQXBNVFpkNjNYM3hacHJQT2FjQjRoUXJTYWNaRkh4X1NDZXhNQlhHRGlMMl8tVm5EMnVnajFjTUtyWGlJeVFWVlln?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BOM DIA GUARULHOS",
-      "headlineJa": "SP政府、麻疹の新たな感染者3名を確認、首都とグアルーリョスで乳児へのワクチン接種ゼロを推奨 - おはようグアルーリョス"
     },
     {
       "articleId": "gnews_de959e49f8b62109",
@@ -610,12 +653,32 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "São Paulo"
+        "São Paulo",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas",
       "headlineJa": "麻疹：保健当局はSPとグアルーリョスの子供たちへのワクチン接種の増加を呼びかけている - アマゾナスポータル"
+    },
+    {
+      "articleId": "gnews_fe781f0771209717",
+      "headline": "Governo de SP confirma três novos casos de sarampo e orienta dose zero da vacina em bebês da capital e Guarulhos - Agência SP",
+      "headlineTranslated": "Government of SP confirms three new cases of measles and recommends zero doses of the vaccine for babies in the capital and Guarulhos - Agência SP",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T14:42:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1ZXSmExN3NXaDI3SzlRTmFjMnZyOHlJYzRFdmZWU1VybjRSS2ZzT29FZGk1T1Vqcm90Z2UzMkxuTm1Jek5CNTBfLS1hcXNXX3dWaXVRenBvN09GZFVUUko1N1hXcTZScC1zQ0lDaDZyM0F3OURDMHdWS0N2U1R0ZDFHc3UxM3V1VS05OGtvOGhsMHgyRkdSdHp1TXFSemh1dnVJWWE1U2gxak1nQzNuRTZILVdocHlkZFRsSEFyeFl2Q1YwNnZPOFdQeDQzODg3QzVIbWFNNXJMM1VTT2c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência SP",
+      "headlineJa": "SP政府、麻疹の新たな感染者3名を確認、首都とグアルーリョスで乳児へのワクチン接種ゼロを推奨 - Agência SP"
     },
     {
       "articleId": "gnews_1371fab49eb40565",
@@ -651,8 +714,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Pagina1mt",
@@ -669,13 +732,13 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Zika",
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "A10+",
@@ -695,8 +758,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Agência SP",
@@ -720,7 +783,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
-      "headlineJa": "麻疹：SPとグアルーリョスの子供たちへのワクチン接種の増加を保健当局が呼びかけ - Agêcia Brasil"
+      "headlineJa": "麻疹：保健当局はSPとグアルーリョスの子供たちへのワクチン接種の増加を呼びかけている - Agêcia Brasil"
     },
     {
       "articleId": "gnews_c1e62397fc9dadb1",
@@ -756,8 +819,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "LEIAGORA",
@@ -777,8 +840,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "VEJA",
@@ -818,8 +881,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "GOV.BR",
@@ -906,13 +969,34 @@
       "headlineJa": "SP、乳児への麻疹ワクチン接種ゼロを推奨 - Portal ABC do ABC"
     },
     {
-      "articleId": "gnews_cc97a93195339b52",
+      "articleId": "gnews_1e64e8ee72c303c8",
+      "headline": "Pesquisadores brasileiros apresentam sensores de baixo custo capazes de identificar gripe aviária em poucos minutos: Tecnologia com participação da USP São Carlos promete reforçar a segurança sanitária e reduzir o tempo de resposta a surtos - CPG Click Petróleo e Gás",
+      "headlineTranslated": "Brazilian researchers present low-cost sensors capable of identifying bird flu in a few minutes: Technology with the participation of USP São Carlos promises to reinforce health security and reduce response time to outbreaks - CPG Click Petróleo e Gás",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-25T21:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaEtGN2VWMXNtLUpFbldsRFM3OUdKNTBkc1JDWkQxNWt3bUlUTm5Ma2U1VGxKU3NlNXIxdDZybHdFb3EzNVhsRlF4ZVZ3ay1BdWtGUjN5UjkxNTh4eVVXb18tYk43ajZxVjRhM3pjdE9xYml5NU9TMzNkQjFjdDhuQ3VyR0NMSUVtay1qaS04X0pHRDREN1JGdHljWnY4a3p3RU9UQWdRR1VLajVpTEtfdVF3d0NmVHdaNDNIN3NjSDBUTUh1czZzb2tJby1seWczWjYza09rYzBFaE53VV8wbm1xdDlyRVFacW9SbkdzNEtiVzVGZ0hqZ2Jtd1VpZGQ3S3hINlZ1TURqQk84ZXF0aEtXSjNRMmtTck5HT0FPaHdLYUhRV0ZYWXQ3dS1wYnBYbnlHOGJQaHYzblc1MUpXWjJoRHFuZUk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CPG Click Petróleo e Gás",
+      "headlineJa": "ブラジルの研究者が鳥インフルエンザを数分で識別できる低コストのセンサーを発表：USPサンカルロスの参加による技術は健康安全を強化し、発生への対応時間を短縮することを約束 - CPG Click Petróleo e Gás"
+    },
+    {
+      "articleId": "gnews_3d4d2c0680d368f9",
       "headline": "Homem em surto psicótico invade igreja e danifica imagens sacras em Monte Alegre - A8 Sergipe",
       "headlineTranslated": "Man in psychotic episode invades church and damages sacred images in Monte Alegre - A8 Sergipe",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T20:51:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVV9sdC0zRnh1eHdnZDQzR3lrUmRGVy1NaDFqaDZvbjdaU181QkxUOGdSQW5fUHpEal9jUXJXeUtPVV9wLXJEX1RmWmx2U3Ztc0NCQ3Izdml2OW44ZnU5MGFxQzUwVkJNbXg3RkZob3p0YlllNHU5RFVEdG56emdadU0ySkhyWXhiVlcwZkVYajNycU9INmFDWm1RTUZsYk5XRDVBZmFCdFJIZW9pN3RaZExqSFAtS2ZoSDlz?oc=5",
+      "publishedTimestamp": "2026-06-25T20:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUkwbDl0dFl2WnhMbHp4MjJnQ01tbWl3ZVVfb3p4ZTBfdWlaR0k1VDRDWE5tZk1pT2dKd2FBYlJxMEdqUWZ6bHlFZk1vUWZxWVJLcGVDeThMYzltbHRrd2pDWEFPd0pEd25TZTg4OVZVMjdneXhzektpd2c3Uzc4YUsxQTlxUW1Wd01faWk0eWZSMGpvamxBWVJ1amlUWFdSN1V3c1E0RzRFNWt5RXNMcnIxVUNydw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Doença infecciosa (não especificada)"
@@ -943,7 +1027,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Correio Braziliense",
-      "headlineJa": "保健省、ブラジルでの麻疹再導入の危険性を警告 - Correio Braziliense"
+      "headlineJa": "保健省、ブラジルでの麻疹再導入のリスクを警告 - Correio Brasiliense"
     },
     {
       "articleId": "gnews_eca0777290f998eb",
@@ -976,80 +1060,17 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Zika",
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal R10",
-      "headlineJa": "テレシナ氏、デング熱、ジカ熱、チクングニア熱との闘いを強化する委員会を設立 - Portal R10"
-    },
-    {
-      "articleId": "gnews_94ebd5c96b32ffa6",
-      "headline": "Teresina cria comitê para prevenir surtos de dengue na capital - CidadeVerde.com",
-      "headlineTranslated": "Teresina creates committee to prevent dengue outbreaks in the capital - CidadeVerde.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T15:56:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3dmbVBvVkdEdHFuVjBRNl84RTJOaDJNeGtjcEFLY3BQd0U5SFUtVDBURFlqZlVtTWw2d2ZtdDVYU2l1MlhkNFNwWGdoTUdhak9JMElYNzQ2dUtvRTk3aHE4bGRPM19TNmUtbUt2MHhDOWhpbkRjVV9BVkZfN1VvcW1KaEVRWWpsd3AzYjV2Z2tNTmZBUXJ3X2Z6blhLbE92WlBiaw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
+        "Chikungunya",
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Piauí"
+        "Piauí",
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "CidadeVerde.com",
-      "headlineJa": "テレシナ、首都でのデング熱発生を防ぐための委員会を設立 - CidadeVerde.com"
-    },
-    {
-      "articleId": "gnews_5ccfaddc6b409806",
-      "headline": "Alta de sarampo nas Américas acende alerta para o Brasil - Jornal de Brasília",
-      "headlineTranslated": "Increase in measles in the Americas raises alert for Brazil - Jornal de Brasília",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T12:15:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJPNFF1ZERoM2JqUGU0bUZ0czY2U3VVM29yRWM1TjlkQlZodG8yNmZ1QWlLM3U4TWtJMG95MTVkeGRBbVV1ZkZlTkZEekFCb2w1bmV0M0dmRDJHdlgydnJqUWswelBFRl9JOE0tWklQVWpQczhFQXRRSmRYSWRLMEE5aEJDLWVKTWdCZ2VjQmlEdWxHd3kxcVl4dGl6TU9IQWJwZzVvMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal de Brasília",
-      "headlineJa": "アメリカ大陸での麻疹増加、ブラジルへの警戒を高める - Jornal de Brasília"
-    },
-    {
-      "articleId": "gnews_b0dbb10b1f8fabd0",
-      "headline": "Alta de casos de sarampo nas Américas acende alerta para reintrodução da doença no Brasil - Agita Brasília",
-      "headlineTranslated": "Increase in measles cases in the Americas raises alarm for reintroduction of the disease in Brazil - Agita Brasília",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T11:56:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3kyUlNYU2MyWG5tdXJILTRqVkJULW1yT2N5akpvbk9vNlBUd3JiSmJVSVQ4OTdmbUJsckxPNHRfWnFESDh1TUo0VTVDSUk1MGNvZWZaMWVZLXJMUWVNaG5ScV9kNkg1QS1MdThqRlNSX3RTbkFGM3hRTXZmYzBpa2N1YTBYcGtubjFPVDc1V0VyWHMtSnRhMWJNRFBnVWh4bnRYeHp1eWFfT1F1dEx1RjlvVV9iVms?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agita Brasília",
-      "headlineJa": "アメリカ大陸での麻疹症例の増加は、ブラジルでの麻疹の再導入に警鐘を鳴らしている - Agita Brasília"
+      "sourceName": "Portal R10",
+      "headlineJa": "テレシナ氏、デング熱、ジカ熱、チクングニア熱との闘いを強化する委員会を設立 - Portal R10"
     }
   ]
 }
