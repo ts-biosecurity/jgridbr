@@ -1,31 +1,72 @@
 {
-  "generated_at": "2026-06-27T03:48:40.863126+00:00",
+  "generated_at": "2026-06-27T10:09:55.762951+00:00",
   "date_range": {
-    "start": "2026-06-25T03:48:40.863126+00:00",
-    "end": "2026-06-27T03:48:40.863126+00:00"
+    "start": "2026-06-25T10:09:55.762951+00:00",
+    "end": "2026-06-27T10:09:55.762951+00:00"
   },
-  "total_articles": 48,
+  "total_articles": 50,
   "state_summary": {
-    "São Paulo": 24,
+    "Brasil (estado não identificado)": 10,
+    "São Paulo": 22,
     "Roraima": 2,
-    "Brasil (estado não identificado)": 8,
-    "Piauí": 4,
-    "Pará": 18,
+    "Piauí": 6,
     "Sergipe": 3,
     "Amazonas": 2,
+    "Pará": 18,
+    "Mato Grosso do Sul": 1,
     "Paraná": 1,
-    "Alagoas": 1,
     "Santa Catarina": 1,
     "Distrito Federal": 2
   },
   "disease_summary": {
+    "Yellow Fever": 1,
     "Measles": 33,
-    "Dengue": 8,
-    "Doença infecciosa (não especificada)": 7,
+    "Dengue": 10,
+    "Doença infecciosa (não especificada)": 6,
     "Zika": 3,
     "Chikungunya": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_2675ed95f1cbd7e3",
+      "headline": "Estudo mostra avanço da febre amarela em fragmento florestal em SP - Poder360",
+      "headlineTranslated": "Study shows advance of yellow fever in forest fragment in SP - Poder360",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T09:43:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2E2YjJGeHhtNG5pQkpYcnVqMjVqTzEzOHU2bEcyMGlqMjZ2MXdRTnR1X041UVFvbzJZYnNOYkZFbnppRzdBYWc4UVdmYTBNYVZpQUZOWVl3NWlLYXRCRHBEOTdIeE9GdEtkbVpkM2h2TWFseXpnUERfNUFrWFl3V2xuRXJUZ3lYSERVMWlGc3JEQTN2S0QzVnV3M2NXSnJVN3BJTzllS1hhTzQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Poder360",
+      "headlineJa": "SPの森林断片で黄熱病の進行が研究で判明 - Poder360"
+    },
+    {
+      "articleId": "gnews_f6c07df2e8e51080",
+      "headline": "Após 3 casos confirmados de sarampo em SP, Saúde recomenda vacina a bebês - ICL Notícias",
+      "headlineTranslated": "After 3 confirmed cases of measles in SP, Health recommends vaccination for babies - ICL Notícias",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T00:30:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LUzFjM191Y1dfRXQ2MWZaVm50UjNjSzJ1U3Utakdfa28tT1Z1U2poV0tUdHFJS1dHZVV2TS1ZcjhMc0xiWk1tc19GVThPMjZVajBlUldSb0V5RTFMOHVNTG83TkotMnRkVGZ5bUt6NlNwUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ICL Notícias",
+      "headlineJa": "SP州で3人の麻疹感染者が確認されたことを受け、保健省は乳児へのワクチン接種を推奨 - ICL Notícias"
+    },
     {
       "articleId": "gnews_f7f14f8b86bffb91",
       "headline": "Sarampo: Saúde pede dose extra de vacina em crianças de SP e Guarulhos - Agência Brasil",
@@ -60,8 +101,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Roraima"
+        "Roraima",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -185,27 +226,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
-      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - Agêcia Brasil"
-    },
-    {
-      "articleId": "gnews_b1e01a0781071c7d",
-      "headline": "Prefeitura lança jogo digital para estudantes com foco no combate à dengue - Arena de Notícias",
-      "headlineTranslated": "City Hall launches digital game for students focused on combating dengue - Arena de Notícias",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T19:22:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2N0VjZZRDR5OEtsTU5XM1gyNDJ4VFcwRWREa2QzbVlKY3VCU3FyMU91MXlBNTJTMEx6blgyM1VVMm5HdjFhM0R6ZDcwdGc4RVVNbFl1T0s4YWNWSF9mVmtvNS1YSm5nblpmMW1aUzNlMkh6UEk2Tl9vSXRiUDBMdkJLb3E2Z2R0QmxPMl9MdkZfdkY2eE5fNFN5RHp6VzRHZE0wRFpCZVRUTG9XRmw5YXQxYUZoN2lqNEZuVw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Arena de Notícias",
-      "headlineJa": "市役所がデング熱との闘いに焦点を当てた学生向けのデジタル ゲームを開始 - Arena de Notícias"
+      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - アジェンシア・ブラジル"
     },
     {
       "articleId": "gnews_795782f1f1992852",
@@ -257,8 +278,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRHNLYVNoeUxWMDdqSXRBdkJDcTUzaExteW01UDFIZ3g3TzlJS3RIU1RnUERxTnExRWIxNGgwS08wX3VHVm9KY0hrb2ZZU0hKZ2tYWjJoVUUyYzZwRzZHb3dTT1p4Q2ZFeDRUeGwzOFRfenVJMUVlMVo3WWg4c05nN1lDSGZkZV9WbDJQYXoxTjdrR25EY0d6Q25XU0Z3T2dEM1lsQjVDWUNiYmNBajFmUXJKM2hKbzZEV0ktcTNYQXY4Q1RkUFhBcUlmS0ZxdVQ4bFFFY1lrXzB0VVZQdXctNVNNcWpISWIwc3FQRjFTczF3OHFQS0t4LVRubUc4Yzl5M1ZaZdIBhAJBVV95cUxQRHNLYVNoeUxWMDdqSXRBdkJDcTUzaExteW01UDFIZ3g3TzlJS3RIU1RnUERxTnExRWIxNGgwS08wX3VHVm9KY0hrb2ZZU0hKZ2tYWjJoVUUyYzZwRzZHb3dTT1p4Q2ZFeDRUeGwzOFRfenVJMUVlMVo3WWg4c05nN1lDSGZkZV9WbDJQYXoxTjdrR25EY0d6Q25XU0Z3T2dEM1lsQjVDWUNiYmNBajFmUXJKM2hKbzZEV0ktcTNYQXY4Q1RkUFhBcUlmS0ZxdVQ4bFFFY1lrXzB0VVZQdXctNVNNcWpISWIwc3FQRjFTczF3OHFQS0t4LVRubUc4Yzl5M1ZaZQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
+        "Dengue",
         "Chikungunya"
       ],
       "locations": [],
@@ -289,6 +310,47 @@
       "dataSource": "Google News",
       "sourceName": "Terra",
       "headlineJa": "サンパウロ、麻疹の新たな感染者3名を確認、乳児への接種ゼロを推奨開始 - Terra"
+    },
+    {
+      "articleId": "gnews_4417e4e408f38d64",
+      "headline": "Mosquitos contra mosquitos: Anápolis começa a implantar Wolbitos em agosto; entenda a tecnologia - Jornal Opção",
+      "headlineTranslated": "Mosquitoes against mosquitoes: Anápolis begins implementing Wolbitos in August; understand technology - Jornal Opção",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T18:39:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblVGY3VLc3k4UHEza0V2SEZsVnZmZFVWdEMwX2dtQ2FQRVhvOUhudUZkWXBlMTdHNC1rdTlINkpKNVpWS2FLUmJZbG9PcE5JX1lhZUNWWjdOLUVXdzBHQTMyUWRkYlZtV3NrUG92WnRVd3ZGSXV5UkFRNGZLaXNlLXdHNWkwbU1UY0EwVnlVWjhHaVBiaWkybmxfWmtrMGdON1FYS1NSWDAzSmRzU3VqRVM3cVN4dVEzM0pJM01ZbUJYZGdMWENKTFhpSHlfUXdobm50RGpkcVdZSF9ZbWRUZXp0OEk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Opção",
+      "headlineJa": "蚊に対する蚊: アナポリスは 8 月にウォルビトスの導入を開始します。テクノロジーを理解する - Jornal Opção"
+    },
+    {
+      "articleId": "gnews_6336c93fab16401f",
+      "headline": "Prefeitura lança jogo digital para estudantes com foco no combate à dengue - Dourados News",
+      "headlineTranslated": "City Hall launches digital game for students focused on combating dengue - Dourados News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T18:21:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1ZvUmpUbVlRRGxKZmNnU2FkNUhkZkVEQ2NKUFNrTWs2NDcwQks5LVJEZGZsWU5TbUpZNzBVRGJ1MEhrdkR4M05SbXAyQVc1X3JSZlc4Q284US11X002OXZfTDZ0M0Q1dEFNc05xamh0QWs0WTh6Y3pBcHd0VE0tVFRfcEppQXVkc2RUbkJzQ0xUSklvLTl2aWI2QU5ON1RzZG1TVi1VVmNaUWkzdW43OU9DRTNkeDdP0gG8AUFVX3lxTE43N1JJMHVnWXhsMVJ2VzkxTWt0bGVXbnlRTXY5TlBidEdkVjU0Sy1vUWg1SURTajFiSHhMV2tDNFhuLVkwNUdnZTliTG1rOXN3c3BlZXp0MFVWSkwzQ1FVMEFOQmZFS24wRkNfVjNHMVY2d1dNRTAxQUt0MjJmOHRrNVN3alRLbXNDQXJSd3ZmUV81QWk4Q2pzY29ZR1RPTDk4WUVKWHRtbDUyM0pIZFM4VkVHYmxXUVp5SDgz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Dourados News",
+      "headlineJa": "市役所がデング熱との闘いに焦点を当てた学生向けデジタルゲームを開始 - Dourados News"
     },
     {
       "articleId": "gnews_5a84f11ac5ce2adf",
@@ -371,26 +433,6 @@
       "headlineJa": "SP、生後6～11ヵ月の乳児には麻疹ワクチンの接種ゼロを勧告 - CNN Brasil"
     },
     {
-      "articleId": "gnews_2dbd8d396c03d2ab",
-      "headline": "Vacinação contra brucelose entra na reta final em São Paulo; nova etapa começa em 1º de julho - brasilnoticia.com.br",
-      "headlineTranslated": "Vaccination against brucellosis enters the final stretch in São Paulo; new stage begins on July 1st - brasilnoticia.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T16:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdl82Q25sWkFET1BaWm5xaGFvdjVjRzRDdlZmY2lFT09YWWozRl9fWlp6LVczMU13c0VRa3lPb0ExTER3aFRkVDJnRUhMSkptdVA0Vk5MeWpHRTcwcFMyYXFvdEFZUWFPNlZtVU9aOFVKeDFCVU1TTHhsYW1HYkpmeVphQlpYTmdwd251YktGTlpyRVQ3dXdNUXd1aHE5TmFuNDQzX0pFODI1WGlEYXVPdmdJVVR3NHkyVDFDamVSdFNRRHdoUEdOQjNESk5ld2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "brasilnoticia.com.br",
-      "headlineJa": "サンパウロではブルセラ症のワクチン接種が最終段階に入っている。 7月1日から新たなステージが始まる - brasilnoticia.com.br"
-    },
-    {
       "articleId": "gnews_17a5ba846a26f16c",
       "headline": "Após três casos confirmados de sarampo em crianças no vizinho São Paulo, Paraná entra em alerta - Bem Paraná",
       "headlineTranslated": "After three confirmed cases of measles in children in neighboring São Paulo, Paraná goes on alert - Bem Paraná",
@@ -404,9 +446,9 @@
       ],
       "locations": [],
       "states": [
+        "Paraná",
         "Pará",
-        "São Paulo",
-        "Paraná"
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Bem Paraná",
@@ -451,7 +493,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "TNH1",
-      "headlineJa": "集団発生中の男が教会に侵入し、セルジッペ内部の神聖な像を損傷 - TNH1"
+      "headlineJa": "集団発生中の男が教会に侵入し、セルジッペ市内の神聖な像を損傷 - TNH1"
     },
     {
       "articleId": "gnews_eca7a8a8a2719acb",
@@ -467,8 +509,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Roraima"
+        "Roraima",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -626,8 +668,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFUwa01OamZ6NS1tZFhiX2d1c0Y3M0hIZGxPWTVaRk5kcS1pcnNEdVI5emtKdFBzMUl3b0dTdkFIZnhfa1dTU2hoRVFldkdWeUc1UTdMSDRIMDB1Z0d6Q2ZWMUtjc01ranc1QklhZjFuamt0WFRESHBLZWZ6ZU44QlFlbnU5T0dGSTFzRXNOU1YtMjFJVjk1Rmh1VzBKLWx6dEliOWtQdmhnRU1DeEpDNGIzUXhDU3VkcV9tbEE3SXZEaWZtZV80NkIwZ2M0bTNtSW5JZEIzQznSAd4BQVVfeXFMUG5TcnhhRGJmOVByMVU2VXBueXlTZlk2WnpMbzRIS2VBTnhHa2lRX2xWaXk4NDdYckg4bDNsQ1hsRFoxSmM0V3F2VGw1THdNV25QWnBLZWtHZlpoQTd0ZE9JdkJfYmNuMW5GUVNDdWd3X3N6V3BJMDJDcjVTOU5EYTFrYnhOSDlMTzc4X19PR1YwSFJ2WGlXTWxBQVhxV2RRVTFQS2Q4NGh5UVUxYjN6d3hRSXJneUhVWnMzUjVVOEM1dXlINi0zWGppamw2bGlIc1k4VjFsdXhxaXlIN1Rn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
+        "Dengue",
         "Chikungunya"
       ],
       "locations": [],
@@ -661,27 +703,6 @@
       "headlineJa": "SP政府、首都とグアルーリョスの生後6～11か月の乳児には麻疹予防接種ゼロを勧告 - Agência SP"
     },
     {
-      "articleId": "gnews_344ce95226ae627a",
-      "headline": "SAÚDE - Ministério da Saúde Recomenda Dose Zero da Vacina Tríplice Viral Após Casos de Sarampo em Crianças em São Paulo e Alerta de Viagem Internacional - Repórter Maceió",
-      "headlineTranslated": "HEALTH - Ministry of Health Recommends Zero Dose of MMR Vaccine After Cases of Measles in Children in São Paulo and International Travel Alert - Repórter Maceió",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:41:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMjFJUzRrSzBQUFpzQ0ZzTjF4WkxhZXo4NnVOMzJEcUR6ZjVXVjV2Ykk3OWtFSXFkOFoyUnUzaFQwU0w4MTEyY2JXbHdyWUJKT29HcGNWUUFZeEJramxQaGhkUm9jZWNoQXBXUkpzTFJzS3dyTkIxYXdPTnFURmx0OVUwX3QyX21qVVRjejJSUGl6U3VVZUIyQjh6QllsOTRta0tVSF83YXQ0YWNnanZicFBRdHdOSE0tTTRlVkVuc0JacDQwallkallUZVpZYU1XbVBPZ0FOWWNJM1NpSmU5WjZkSENlR0wzWmVZbENvTTBVY1dLZWw0MG1nVHExTTZXRUNPWVVBV2NXeUtUSGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "保健 - サンパウロの小児麻疹症例を受けて保健省がMMRワクチンのゼロ投与を推奨、海外旅行への警戒 - マセイオ記者"
-    },
-    {
       "articleId": "gnews_59eff4b9cf0ecca6",
       "headline": "Sarampo: Saúde pede reforço de vacinação de crianças em SP e Guarulhos - Agência Brasil",
       "headlineTranslated": "Measles: Health calls for increased vaccination of children in SP and Guarulhos - Agência Brasil",
@@ -699,7 +720,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
-      "headlineJa": "麻疹：保健当局はSPとグアルーリョスの子供たちへのワクチン接種の増加を呼びかけている - Agêcia Brasil"
+      "headlineJa": "麻疹：SPとグアルーリョスの子供たちへのワクチン接種の増加を保健当局が呼びかけ - Agêcia Brasil"
     },
     {
       "articleId": "gnews_c1e62397fc9dadb1",
@@ -764,6 +785,26 @@
       "headlineJa": "麻疹：3件の症例を記録した後、サンパウロは生後6～11か月の乳児にはワクチンの接種をゼロにすることを推奨 - SEE"
     },
     {
+      "articleId": "gnews_56d45b9e486caa93",
+      "headline": "Dengue: Piauí chega a 10 mortes pela doença e 5.147 casos confirmados em 2022 - Portal Ponto X",
+      "headlineTranslated": "Dengue: Piauí reaches 10 deaths from the disease and 5,147 confirmed cases in 2022 - Portal Ponto",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T12:48:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDN2bWk4TTNkY3ZLamRrWm9NenA3WXhBZFVRQ3RNbW91M2xyNDNUeV81aDB0SHRuc0Y1T2g5VkdPR0NWdlNIYXNRWmd1bFJueDFiOWVnYkVtcm1OM0V3VVFvLXYxcjY2dXdjZGJGV2RKV0NQVTh2QUNhMUFyZnJwa2FOUDlTenExZWhvN0NOYmFkVHhHWm9ONkItVWlVU0UzaXQxVmxZT09kZnkzakdjVzhjUGg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Ponto X",
+      "headlineJa": "デング熱：ピアウイ州で2022年に死亡者10人、感染者5,147人に達 - Portal Ponto"
+    },
+    {
       "articleId": "gnews_da65677b1e8e510d",
       "headline": "Ministério da Saúde recomenda reforço da vacinação contra o sarampo para crianças em São Paulo e Guarulhos - GOV.BR",
       "headlineTranslated": "Ministry of Health recommends increased measles vaccination for children in São Paulo and Guarulhos - GOV.BR",
@@ -783,6 +824,26 @@
       "dataSource": "Google News",
       "sourceName": "GOV.BR",
       "headlineJa": "保健省、サンパウロとグアルーリョスの子供に対する麻疹ワクチン接種の増量を推奨 - GOV.BR"
+    },
+    {
+      "articleId": "gnews_191f6b2cf5649cdb",
+      "headline": "Casos de dengue seguem em alta e já atingem 201 municípios no Piauí; aumento de 734% - Portal Ponto X",
+      "headlineTranslated": "Dengue cases continue to rise and have already reached 201 municipalities in Piauí; increase of 734% - Ponto X Portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-26T09:16:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHpqRUQxbG1DSko4TVU3cW02aFpsQUd4LTZ3NnpMYWRvOEx4Y1RSVVl5ak5zRnVaU1BBMm9lek1MdXVSRTg1cUkyQU1uRVFpQnE4M19mZmxEaFQ5bmstSTNFQmVDVmJROWZWdnZnVFJPS09lM3ZNcDI5LWVCMmxZZnRPMVMwUm5WaXl3TVVSYTBkb1U4RWVGLVNHY3h2ZXFGdTZkWGxpNkJuRzB3WUxscm9HNmZZQnYwbm9FaA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Ponto X",
+      "headlineJa": "デング熱の症例は増加を続けており、すでにピアウイ州の 201 の自治体に達しています。 734%増加 - Ponto X Portal"
     },
     {
       "articleId": "gnews_151e0461a8c8af0b",
@@ -914,8 +975,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHIwbjVsM3lUQWZ3MWtHMUJsWXZuRDNVX05CYzZETkJDS0c3bnd5YTlEOHh3MGx5YUh1SHRQd09wSklEMDYzZTVZZk5wQnBqUmltYjZrOU8tM2QzZTB1TVFnRm9tV3hzNkZDdEhxS19FWHNVZmZKOGNxQTZPZlFZTmpSZ01saDlUQ2NEazlRVVpqdDgtR3ZPVXUzVnZROXdjalNWbHlvTTB0OFZyTGZVVk5MMHZxU3JhSV9nUtIBwgFBVV95cUxOVzBGMFo1UWJIR0xfRlI1VjNzQnJKeWtKTUQxTWNiVUhXSVF6NWtBMTRhX3JxUlBpejFnUFlteHV0Zk82QXYxR05jSncyaEpubFVNXzRMdzFrcWFfOEt0c0hpQjNTTGNOZjVYVkpDQTZsdnhxR1pzM2FSbTlhRzI3TnhqWjRaNnRNQTZhSG5xYXVmbTZRRU1CZ2VkLW9oRURjOENabGU2TENma1FSTy1xWXAzWWJLXzdXN0JTQXVfeVZMQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
+        "Dengue",
         "Chikungunya"
       ],
       "locations": [],
@@ -962,8 +1023,8 @@
       ],
       "locations": [],
       "states": [
-        "Distrito Federal",
-        "Pará"
+        "Pará",
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal de Brasília",
@@ -983,32 +1044,12 @@
       ],
       "locations": [],
       "states": [
-        "Distrito Federal",
-        "Pará"
+        "Pará",
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
       "sourceName": "Agita Brasília",
-      "headlineJa": "アメリカ大陸での麻疹症例の増加により、ブラジルでの麻疹の再導入に対する警戒が高まっている - Agita Brasília"
-    },
-    {
-      "articleId": "gnews_b5ce4fde481aa115",
-      "headline": "Viralizou: 11 coisas que mudaram na saúde desde a última vez que o Brasil ganhou a Copa - Estadão",
-      "headlineTranslated": "It went viral: 11 things that have changed in health since the last time Brazil won the World Cup - Estadão",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-25T08:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUUxBM3IwbmE1REJYd21fWTduYWIwUU9nVWJndlZOa0ZoRVBabFFkNEpCQ0dVb0Z4NHNUTjFXT3l4Z1RTX2NtXzNrRVBOMU8xX3BBZlFpdkhXNXo3Z0tVZmdHZGtPSUFzeUxCck1HUzhUR2JYeWlmcEtrWWVpbEtFeUZsLXJwMEEweWVkM2lva09ab2VKSDVGRmpxSU05aWFZbjJfQTdOdW1QeXZpNFRlLUxuZjJNbHpRTERMZVZfQ2hpNjNCLWMwcFREMWpyY1BfdDFmLXdR0gHbAUFVX3lxTE9mQm9MUFB1LXdJU3RWbHptVF8tOWNqZlNCQ0Y3T08xWTFrZHFKVzhwVHRaX2NuclBvbmE3UGtBNkdtWDY4NG5uVnJtSXZ6RmlMVUFYa3VRTi1oejB6cnkwNGlUc2lqRVFDRHcydFlmRllCVEFqczdXaHJVTVE5S0huenFscGdXNGotbElOYV9WcC1EUHkwNVEzdXQtbGlsOWE2bTA0WjQ3N3Uzby11Q0EzQUJhRzhFUktmZWk1MXpUV2hGakdETlU4LUJySGFBVnI1cjdfLVlpajY0UQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Estadão",
-      "headlineJa": "話題になった：ブラジルが前回ワールドカップで優勝した時から健康面で変わった11のこと - エスタダン"
+      "headlineJa": "アメリカ大陸での麻疹症例の増加は、ブラジルでの麻疹の再導入に警鐘を鳴らしている - Agita Brasília"
     }
   ]
 }
