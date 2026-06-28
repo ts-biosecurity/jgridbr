@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-28T04:11:19.623070+00:00",
+  "generated_at": "2026-06-28T10:28:49.308186+00:00",
   "date_range": {
-    "start": "2026-06-26T04:11:19.623070+00:00",
-    "end": "2026-06-28T04:11:19.623070+00:00"
+    "start": "2026-06-26T10:28:49.308186+00:00",
+    "end": "2026-06-28T10:28:49.308186+00:00"
   },
   "total_articles": 43,
   "state_summary": {
-    "Pará": 12,
-    "São Paulo": 22,
-    "Piauí": 5,
+    "Piauí": 4,
+    "São Paulo": 21,
+    "Pará": 13,
     "Mato Grosso": 2,
     "Mato Grosso do Sul": 3,
     "Brasil (estado não identificado)": 7,
@@ -16,17 +16,39 @@
     "Sergipe": 2,
     "Amazonas": 2,
     "Paraná": 1,
-    "Santa Catarina": 1
+    "Santa Catarina": 1,
+    "Distrito Federal": 1
   },
   "disease_summary": {
-    "Measles": 29,
     "Doença infecciosa (não especificada)": 4,
-    "Dengue": 9,
+    "Measles": 29,
+    "Dengue": 8,
     "Yellow Fever": 1,
+    "Malaria": 1,
     "Zika": 2,
     "Chikungunya": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_31fee33e1c897147",
+      "headline": "Corregedoria apura ação de PMs após homem em surto avançar contra policiais com facão e morrer baleado no Piauí - A10+",
+      "headlineTranslated": "Internal Affairs investigates action by police officers after man in outbreak attacks police with machete and dies shot in Piauí - A10+",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T23:09:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ0h0TEI0LWxJWDdrZ29RcW9SckhSMzVIbDJWWTI4TS1McEFLN0p6aHBRNmNnaXlZZnVYZnBad3VCRmRLYWJzM0RtZ1lTNUxQU21IcG5yckJZQm16Zmdqdktfc0R3X3hKLUpITlZIczA3Z3BpM0tnaExZOUtENWNoRlFGaHNWNDRZTnE3T0lqTU5sQjM0TFRUc25fbnZrUzJMenpLOF9Hb3ducnlqVXFXQThZZGR1SmMxc3ZkUTZQVXVMdmhIelNMbm9oYWxfUUJwNFMyaEVkQ3JmZWpOWjFLLW9UQm9KNUZ1Qjdzc0FXMUs?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A10+",
+      "headlineJa": "ピアウイで集団発生中の男がナタで警察を襲撃し射殺された後、内務省が警察官の行動を調査 - A10+"
+    },
     {
       "articleId": "gnews_0e3aaf0acc07edd6",
       "headline": "São Paulo confirma 3 novos casos de sarampo e recomenda dose zero para bebês - noticiasdoplanalto.com.br",
@@ -41,32 +63,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "noticiasdoplanalto.com.br",
       "headlineJa": "サンパウロ、新たに3人の麻疹感染者を確認、乳児への接種ゼロを推奨 - noticiasdoplanalto.com.br"
-    },
-    {
-      "articleId": "gnews_31fee33e1c897147",
-      "headline": "Corregedoria apura ação de PMs após homem em surto avançar contra policiais com facão e morrer baleado no Piauí - A10+",
-      "headlineTranslated": "Internal Affairs investigates action by police officers after man in outbreak attacks police with machete and dies shot in Piauí - A10+",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-27T15:28:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ0h0TEI0LWxJWDdrZ29RcW9SckhSMzVIbDJWWTI4TS1McEFLN0p6aHBRNmNnaXlZZnVYZnBad3VCRmRLYWJzM0RtZ1lTNUxQU21IcG5yckJZQm16Zmdqdktfc0R3X3hKLUpITlZIczA3Z3BpM0tnaExZOUtENWNoRlFGaHNWNDRZTnE3T0lqTU5sQjM0TFRUc25fbnZrUzJMenpLOF9Hb3ducnlqVXFXQThZZGR1SmMxc3ZkUTZQVXVMdmhIelNMbm9oYWxfUUJwNFMyaEVkQ3JmZWpOWjFLLW9UQm9KNUZ1Qjdzc0FXMUs?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A10+",
-      "headlineJa": "ピアウイで集団発生中の男がナタで警察を襲撃し射殺された後、内務省が警察官の行動を調査 - A10+"
     },
     {
       "articleId": "gnews_6b39f50928a62cab",
@@ -171,6 +173,26 @@
       "headlineJa": "SPの森林断片で黄熱病の進行が研究で判明 - Poder360"
     },
     {
+      "articleId": "gnews_12448bc0367590f7",
+      "headline": "Belém enfrenta surto de malária com 21 casos da doença registrados entre março e abril deste ano - CBN Amazônia",
+      "headlineTranslated": "Belém faces an outbreak of malaria with 21 cases of the disease registered between March and April this year - CBN Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T07:46:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWlac29NU01wdjhZaHJORnRVQkRTYzNSanJBeTM1T2otRm5od0R6U1dwMlRjMm56a0cyXzM5UGFlY2JTc1dxZnc2alU4SWg0WjNFUWVKcFpuLWFkM2N6OEplaUhjWnBBXy1PZnNVMllkdW1YRWJiZDc1ODBXb19BblB3V2lfbld1bWowc2JBX2pYVEM5c2F4b0Y0bTVEV3hGdTFSOTc4eGI4MkNYTkx6eG0wazdkV055T2tJYVFWUFl6YlJx?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Amazônia",
+      "headlineJa": "ベレンはマラリアの流行に直面しており、今年3月から4月の間に21人の感染者が登録されている - CBN Amazônia"
+    },
+    {
       "articleId": "gnews_f6c07df2e8e51080",
       "headline": "Após 3 casos confirmados de sarampo em SP, Saúde recomenda vacina a bebês - ICL Notícias",
       "headlineTranslated": "After 3 confirmed cases of measles in SP, Health recommends vaccination for babies - ICL Notícias",
@@ -189,26 +211,6 @@
       "dataSource": "Google News",
       "sourceName": "ICL Notícias",
       "headlineJa": "SP州で3人の麻疹感染者が確認されたことを受け、保健省は乳児へのワクチン接種を推奨 - ICL Notícias"
-    },
-    {
-      "articleId": "gnews_5a4f77376fc7130b",
-      "headline": "São Paulo tem três novos casos de sarampo confirmados em bebês - ncnews.com.br",
-      "headlineTranslated": "São Paulo has three new cases of measles confirmed in babies - ncnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-27T00:02:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5WeDdabTVGanNNVkl4TnNLZWg2dFRDWkVIVU5pd0NHd2lZTXEwYW4xa1ZWQnh3Zmh3b044MUQzV0NzZG4wTkRCZ0s3VnlSTVRmN3BCakROU1VtQU45THNYU1RQbEdRWjNIcmN2R0JIR0N4OUxDc25Nc2VEUTd5WmVxTDR1ajFsQnhaNnl5c2V2V2hFd0JWeHhaUmQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ncnews.com.br",
-      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - ncnews.com.br"
     },
     {
       "articleId": "gnews_f7f14f8b86bffb91",
@@ -244,8 +246,8 @@
       ],
       "locations": [],
       "states": [
-        "Roraima",
-        "São Paulo"
+        "São Paulo",
+        "Roraima"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -427,8 +429,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Dourados News",
@@ -528,9 +530,9 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
         "Paraná",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Bem Paraná",
@@ -550,8 +552,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Acessa.com",
@@ -591,8 +593,8 @@
       ],
       "locations": [],
       "states": [
-        "Roraima",
-        "São Paulo"
+        "São Paulo",
+        "Roraima"
       ],
       "dataSource": "Google News",
       "sourceName": "Roraima na Rede",
@@ -652,8 +654,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "São Paulo"
+        "São Paulo",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas",
@@ -713,8 +715,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Pagina1mt",
@@ -757,8 +759,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "BOM DIA SOROCABA",
@@ -818,8 +820,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "LEIAGORA",
@@ -839,8 +841,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "VEJA",
@@ -880,32 +882,32 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "GOV.BR",
       "headlineJa": "保健省、サンパウロとグアルーリョスの子供に対する麻疹ワクチン接種の増量を推奨 - GOV.BR"
     },
     {
-      "articleId": "gnews_191f6b2cf5649cdb",
-      "headline": "Casos de dengue seguem em alta e já atingem 201 municípios no Piauí; aumento de 734% - Portal Ponto X",
-      "headlineTranslated": "Dengue cases continue to rise and have already reached 201 municipalities in Piauí; increase of 734% - Ponto X Portal",
+      "articleId": "gnews_c462a120314d902b",
+      "headline": "Alta de casos de sarampo nas Américas aumenta risco de reintrodução no Brasil - Ao Vivo de Brasília",
+      "headlineTranslated": "Increase in measles cases in the Americas increases risk of reintroduction in Brazil - Live from Brasília",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T09:16:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHpqRUQxbG1DSko4TVU3cW02aFpsQUd4LTZ3NnpMYWRvOEx4Y1RSVVl5ak5zRnVaU1BBMm9lek1MdXVSRTg1cUkyQU1uRVFpQnE4M19mZmxEaFQ5bmstSTNFQmVDVmJROWZWdnZnVFJPS09lM3ZNcDI5LWVCMmxZZnRPMVMwUm5WaXl3TVVSYTBkb1U4RWVGLVNHY3h2ZXFGdTZkWGxpNkJuRzB3WUxscm9HNmZZQnYwbm9FaA?oc=5",
+      "publishedTimestamp": "2026-06-26T12:17:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlZtbzFNS2x0cHA2U0dLQXVnYjZqZEx4QzkzV3JPdTc4UXI5bi1xS1Fwb1RJekV3c2xxY0ZRMjFTTGF0aURhck5WYklaUVdla3Q3QzdlS1ZqWVdIVmgtTWxkY21TRVB2SDQ3UE15X0l6R2J0SjNQNzgzR1kyNVVwN3JneU5CUnpNRzBhUkRUcVh4UFFxY0Z1SVhUckh5R3ZCWVVrakVIazNiQ0ZyVmlMaHpnakhiLW9uYzRaQnBCbXg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Piauí"
+        "Distrito Federal"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Ponto X",
-      "headlineJa": "デング熱の症例は増加を続けており、すでにピアウイ州の 201 の自治体に達しています。 734%増加 - Ponto X Portal"
+      "sourceName": "Ao Vivo de Brasília",
+      "headlineJa": "アメリカ大陸での麻疹症例の増加により、ブラジルでの麻疹再導入のリスクが増加 - ブラジリアからのライブ"
     }
   ]
 }
