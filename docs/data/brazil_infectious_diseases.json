@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-06-28T10:28:49.308186+00:00",
+  "generated_at": "2026-06-28T17:22:53.261390+00:00",
   "date_range": {
-    "start": "2026-06-26T10:28:49.308186+00:00",
-    "end": "2026-06-28T10:28:49.308186+00:00"
+    "start": "2026-06-26T17:22:53.261390+00:00",
+    "end": "2026-06-28T17:22:53.261390+00:00"
   },
-  "total_articles": 43,
+  "total_articles": 23,
   "state_summary": {
-    "Piauí": 4,
-    "São Paulo": 21,
-    "Pará": 13,
-    "Mato Grosso": 2,
+    "Piauí": 2,
+    "Amapá": 1,
+    "São Paulo": 9,
+    "Pará": 4,
     "Mato Grosso do Sul": 3,
-    "Brasil (estado não identificado)": 7,
-    "Roraima": 2,
-    "Sergipe": 2,
-    "Amazonas": 2,
-    "Paraná": 1,
-    "Santa Catarina": 1,
-    "Distrito Federal": 1
+    "Mato Grosso": 2,
+    "Brasil (estado não identificado)": 4,
+    "Roraima": 1,
+    "Sergipe": 1,
+    "Amazonas": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 4,
-    "Measles": 29,
-    "Dengue": 8,
+    "Doença infecciosa (não especificada)": 3,
+    "Influenza": 1,
+    "Measles": 12,
+    "Dengue": 5,
     "Yellow Fever": 1,
     "Malaria": 1,
-    "Zika": 2,
-    "Chikungunya": 2
+    "Zika": 1,
+    "Chikungunya": 1
   },
   "articles": [
     {
@@ -48,6 +47,26 @@
       "dataSource": "Google News",
       "sourceName": "A10+",
       "headlineJa": "ピアウイで集団発生中の男がナタで警察を襲撃し射殺された後、内務省が警察官の行動を調査 - A10+"
+    },
+    {
+      "articleId": "gnews_dbc3da44a3d6d93d",
+      "headline": "Surto de gripe entre policiais militares no Amapá preocupa comando - CBN Amazônia",
+      "headlineTranslated": "Flu outbreak among military police officers in Amapá worries command - CBN Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-27T22:17:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblp2a2t3UDZQTlNfc3lyUEFTRF8zUjZkR2ozUVFZUmstblhhaGVmMEpMNTRZMkpOY1JtNG5iMWh5ZGI2VV9hYnpnVG5GNmtiVkVaX21fVDV5aTJJay1fQVYxOHVoNjM2a2dRM2FtSWIyN3hKRG5PTmxXVkRtQUVlXzNmQlU3blZlSGx0NXRGODNOUXktN1h5ZTdOcy1SUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Amapá"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Amazônia",
+      "headlineJa": "アマパの憲兵の間でインフルエンザ発生、司令部を懸念 - CBN Amazônia"
     },
     {
       "articleId": "gnews_0e3aaf0acc07edd6",
@@ -88,7 +107,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Folha MS",
-      "headlineJa": "サンパウロ、新たに乳児の麻疹感染者3例を記録 - Folha MS"
+      "headlineJa": "サンパウロ、乳児の麻疹感染者を新たに3人記録 - Folha MS"
     },
     {
       "articleId": "gnews_f348d0aa4ba14280",
@@ -104,8 +123,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande",
@@ -125,12 +144,12 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "RCN 67",
-      "headlineJa": "マトグロッソ・ド・スル州、ブタンタンDVワクチン接種停止後の接種者を監視 - RCN 67"
+      "headlineJa": "マトグロッソ・ド・スル州、ブタンタンDVワクチン接種者を一時停止後に監視 - RCN 67"
     },
     {
       "articleId": "gnews_bfe62672c506abdc",
@@ -331,7 +350,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil",
-      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - アジェンシア・ブラジル"
+      "headlineJa": "サンパウロ、乳児の麻疹感染者が新たに3人確認 - Agêcia Brasil"
     },
     {
       "articleId": "gnews_e7861997da0251cd",
@@ -403,8 +422,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRHNLYVNoeUxWMDdqSXRBdkJDcTUzaExteW01UDFIZ3g3TzlJS3RIU1RnUERxTnExRWIxNGgwS08wX3VHVm9KY0hrb2ZZU0hKZ2tYWjJoVUUyYzZwRzZHb3dTT1p4Q2ZFeDRUeGwzOFRfenVJMUVlMVo3WWg4c05nN1lDSGZkZV9WbDJQYXoxTjdrR25EY0d6Q25XU0Z3T2dEM1lsQjVDWUNiYmNBajFmUXJKM2hKbzZEV0ktcTNYQXY4Q1RkUFhBcUlmS0ZxdVQ4bFFFY1lrXzB0VVZQdXctNVNNcWpISWIwc3FQRjFTczF3OHFQS0t4LVRubUc4Yzl5M1ZaZdIBhAJBVV95cUxQRHNLYVNoeUxWMDdqSXRBdkJDcTUzaExteW01UDFIZ3g3TzlJS3RIU1RnUERxTnExRWIxNGgwS08wX3VHVm9KY0hrb2ZZU0hKZ2tYWjJoVUUyYzZwRzZHb3dTT1p4Q2ZFeDRUeGwzOFRfenVJMUVlMVo3WWg4c05nN1lDSGZkZV9WbDJQYXoxTjdrR25EY0d6Q25XU0Z3T2dEM1lsQjVDWUNiYmNBajFmUXJKM2hKbzZEV0ktcTNYQXY4Q1RkUFhBcUlmS0ZxdVQ4bFFFY1lrXzB0VVZQdXctNVNNcWpISWIwc3FQRjFTczF3OHFQS0t4LVRubUc4Yzl5M1ZaZQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
+        "Dengue",
         "Chikungunya"
       ],
       "locations": [],
@@ -429,8 +448,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Dourados News",
@@ -474,440 +493,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
-      "headlineJa": "麻疹の発生を受けて保健省は、SPおよびグアルーリョス（G1）の生後6～11か月の乳児に3回のウイルスワクチン接種を推奨しています。"
-    },
-    {
-      "articleId": "gnews_f3f9a9f3a2777985",
-      "headline": "Ministério da Saúde reforça vacinação contra sarampo em São Paulo e Guarulhos após novos casos - ABC Agora",
-      "headlineTranslated": "Ministry of Health reinforces measles vaccination in São Paulo and Guarulhos after new cases - ABC Agora",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T17:08:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQ1JES2c3Ty1zM0N5NVc3bXE3RHRZRjB0VUZIQzRwUW0yemxkaVY4b01OaTVhT1BfLTUxc3U5aDYtYzA5ODZjTHJQTFZVOUNzNnVUNlZRSzhYeUdHYlF0N0JKUmkzMHBReTlCOFc2T0tzTXlMZHpVVGFn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ABC Agora",
-      "headlineJa": "保健省、新規感染者発生を受けサンパウロとグアルーリョスで麻疹ワクチン接種を強化 - ABCアゴラ"
-    },
-    {
-      "articleId": "gnews_5ec6b8f4052feddb",
-      "headline": "SP orienta dose zero da vacina contra sarampo em bebês de 6 a 11 meses - CNN Brasil",
-      "headlineTranslated": "SP advises zero dose of measles vaccine for babies aged 6 to 11 months - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T16:43:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTRUVU1BMktXSDJzdWlybExHaURzemF3NEVzX09iSE5PckVZZ0Q4UFhWS0pxX2k4a1VpcGRWOWhKdGg2NkkyS2QtRkUwSnJ5bklDaGk3ZTM3LWpfemZBUWRJUTUtQ2pxYjBSMlVzTUVKR0I3Y2VDZkRvcHlNdWRZbmRkakRxODBLWTYwc0xGcWJZRTh3Y19CZktlMXViRFlqTmNvNVpsQWpCdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "SP、生後6～11ヵ月の乳児には麻疹ワクチンの接種ゼロを勧告 - CNN Brasil"
-    },
-    {
-      "articleId": "gnews_17a5ba846a26f16c",
-      "headline": "Após três casos confirmados de sarampo em crianças no vizinho São Paulo, Paraná entra em alerta - Bem Paraná",
-      "headlineTranslated": "After three confirmed cases of measles in children in neighboring São Paulo, Paraná goes on alert - Bem Paraná",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T16:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTVycndpb2p4UXZSaU9nOEF4ZWo5N1BuZW5Id0pXRFlHQWxWWlJqSkZaMndkYW03Yy1uVnA1TWZkT2lhYndSZFlVNU1VaXdxbWdKUUJ3TFQ4NGM4aHFfSkVnb3dVTDJvZUZpN3B3NHZZdlpGb3U4dS1aRWZZVnNad3Zxd1RjLTJaa2tBSGxHY3pmWGdneG5hMTN2QXRBVmRiNHh6Uzl4NFVTN0pxSGJvMW5GUUM0RVAzUDR6RDFLcjU5V0FocFZXbnpOa0FGczAxS09NS3MtVdIB3AFBVV95cUxPZ1N5aTdPV0tPTlg2ekRVS3V6YmRHblYxaGRGVVBacXQ4SEpxeU1JZXVHQmsxNnJxejdMcTlaXzhyY0F6NWQ1WC04enlGQTdBS1kwR2NVdGppYjNvXzVWTXRTd3drcWN1blNtMEoweUZtVDBVdlBJSnkwLXR1UkNIcDBnZzRLcWEySjd5amxSN0ZQSGtCRWJkRGZtMXR5NGlJUW9STkRybVUwbVlFSkt3VExhVWN5dThzYVc2bU1sYnZiMVB0YnJ4MXRIcTFOTjhZdXllUFIyOTI5SWU4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Paraná",
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bem Paraná",
-      "headlineJa": "隣国サンパウロで小児の麻疹感染者が3人確認されたことを受け、パラナ州は警戒を開始 - ベム・パラナ"
-    },
-    {
-      "articleId": "gnews_98b1a32726343a65",
-      "headline": "Ministério recomenda vacina contra sarampo para bebês em SP e Guarulhos - Acessa.com",
-      "headlineTranslated": "Ministry recommends measles vaccine for babies in SP and Guarulhos - Acessa.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T15:31:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOWNMQ1FZeTBQRWlYM01CdlRVYnItQTdtQ0RWMFA4QS1tRHFGNWFiLVNycTZHVG9BNjRvR2dLOG1GbWJoTWlJTmZTaHdKRFZuSzZIRExjTFlVZFc2OC0tbERFcFhQTVM5WlhqSEh4NGJRREVhaUhUUEZ2Sm03Y1A0UHppb295Q3BLLVNQTmJIeDRNRW1fSzVPNWpQYkNNSElncnlPMUY1WUxHdy1MNHJiWFI3QTQyS0c1bzFOQlYxU2HSAcYBQVVfeXFMT1lkS3JPQXUzRk1JX2lrakt2Ym5pLUhvRUNTZFZLTG00TXR6TWhSNF9XY3dVSnBGTFdFOUw1cnltbkpYcFd2NkJMT3FjbEptOHJfZ1lQX21OZnFOSVdoTGwxUEVXZEoyVVNsMzZKUERNa1lxdDdQVWxYNVFIS2Jaa2xLaklWdGNkNkRCamFsdkJKdzFrSENRbnlWTUJVaUdQaUUyZ0NtQWlEWTN5ZmxEMGwxNjM5dkRhbjljUnFad3BuUEM2RXNB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Acessa.com",
-      "headlineJa": "同省、SPとグアルーリョスの乳児に麻疹ワクチンを推奨 - Acessa.com"
-    },
-    {
-      "articleId": "gnews_883e5809f2113328",
-      "headline": "Homem supostamente em surto invade igreja e danifica imagens sacras no interior de Sergipe - TNH1",
-      "headlineTranslated": "Man allegedly in an outbreak invades church and damages sacred images in the interior of Sergipe - TNH1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T15:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlFxRVI5RVZjckE0U3F1REViNXV1OXA0Vl9fR1dxb0JtcEI2VTJBUEU5WF8yWmkyZFhhc2I5Wjd5ZXphdHNWcUxxNDBUZnQ0clJtYlJ2X1hxY19mbmc3NDlsaXhDdnA3Tko0VEExQkJSVXZEeVpoRFJwaVNOQmtyYk8tRnhra213TGpRSktsZDRtWmxtakFJOVFwVkNRbTAwM2VENW52Smw1TjNyaExrZGFFRjNIZ3hqY2pfVm9HZmhWQ2dDSGfSAcABQVVfeXFMUGVDWDVwT3BWbFVWOFYxR0hPMlVDUG5jdGc3YmNtdC1uRGxsb1k3LTdrWGRrMGdjRU5ob1NNUW5ua25TbHpyb1ZHUm1DMGdmR3kxbzkxNmZmTWp0UF9wSmpTdzM3ODZNVm5Ib1lKVm9JTVN2TnV4VVhkaERVZV9UbjljSWNaSDJ4VlRFTkpHVFdPZXlnNkFST3pCcE5oSXAwTjUyNDM3SkMzYnhHeXFRSF9GYWwtTjVTSTAzUGQtdm9G?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Sergipe"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TNH1",
-      "headlineJa": "集団発生中の男が教会に侵入し、セルジッペ市内の神聖な像を損傷 - TNH1"
-    },
-    {
-      "articleId": "gnews_eca7a8a8a2719acb",
-      "headline": "Sarampo: Saúde pede reforço de vacinação de crianças em SP e Guarulhos - Roraima na Rede",
-      "headlineTranslated": "Measles: Health calls for increased vaccination of children in SP and Guarulhos - Roraima on the Network",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T15:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE9pWi1uRF9oS0E2aUVMaWZSdldzdTA0VElFUlNEaTg2MUFSM0xrZE93U1A3SV9ja1BqRG1fYXhmN2gwU0pBUEs4UE96RXFQMUdzWFRkWjZvSmstZ193MTBSUTlINlIyQk10R3dXWGtlQjFuTVBxSkYtS1dKZk5uWjlBY3BZMUpia0xaZmtCc1NpcS1vLURGMXVjN3h4cUphYnowcGZxZDM4OS1Ldjhv?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Roraima"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Roraima na Rede",
-      "headlineJa": "麻疹：保健当局はSPとグアルーリョスの子供たちへのワクチン接種の増加を呼びかけている - ロライマ・オン・ザ・ネットワーク"
-    },
-    {
-      "articleId": "gnews_9ebc70f39ec2c3c8",
-      "headline": "Sarampo: ministério recomenda dose zero da vacina em SP - SBT News",
-      "headlineTranslated": "Measles: ministry recommends zero dose of vaccine in SP - SBT News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T15:12:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3hzUlplS0xoMDlSV0FVZ0s0bVlZbmdrTnFROEhBRjEtSkxUSmFvalpmSzczcUpGU3lSNGFuYUUtdU0zUDJReEpuOWdlWmVPc3dPVV9PZzh2QVlwMS14TjYweWlKaGdoeHI5NXp5RWxCeFdnd0oyTDBRdXNEQldTSHdGUVhKMU9Ub3AxbVdHcEk5dE5Pelp0c0l1Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SBT News",
-      "headlineJa": "麻疹：保健省、SPでのワクチン接種ゼロを推奨 - SBTニュース"
-    },
-    {
-      "articleId": "gnews_c465b932b6508541",
-      "headline": "Após 2 casos confirmados de sarampo em SP, Saúde recomenda vacina a bebês em dois municípios - Folha de S.Paulo",
-      "headlineTranslated": "After 2 confirmed cases of measles in SP, Health recommends vaccination for babies in two municipalities - Folha de S.Paulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY1pCQ3dUaUZzQ1N3Q0xiRjZNVHc2RVk5YUs0STdtbG1Wa1IyanZIRTZoeGF2R1hnUXlZOHlZMWdxMTdjVlJFZy1LU250OC1ZUWZ3Mm9oVEtzRS12cUppcmJoWnh0cDUwR3B6ZURieW0xY0hCVk9GWGdXMTdoekw3N3l2WklIekx6bmZuVHQzdFpjb211Y2Y0ampFNzlQSkUtWnBvWWpaLU1DMW5hckxhS3U3bGFzNWtpbEcwMVh2NklpYmVDNGN2aVRad0hFUE42WDFQZ1hoVmg2Tm5WZFBrNUU3bXpXWXlXYUhPRtIB7AFBVV95cUxQY1pCQ3dUaUZzQ1N3Q0xiRjZNVHc2RVk5YUs0STdtbG1Wa1IyanZIRTZoeGF2R1hnUXlZOHlZMWdxMTdjVlJFZy1LU250OC1ZUWZ3Mm9oVEtzRS12cUppcmJoWnh0cDUwR3B6ZURieW0xY0hCVk9GWGdXMTdoekw3N3l2WklIekx6bmZuVHQzdFpjb211Y2Y0ampFNzlQSkUtWnBvWWpaLU1DMW5hckxhS3U3bGFzNWtpbEcwMVh2NklpYmVDNGN2aVRad0hFUE42WDFQZ1hoVmg2Tm5WZFBrNUU3bXpXWXlXYUhPRg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de S.Paulo",
-      "headlineJa": "SP州で麻疹の感染者2名が確認されたことを受け、保健当局は2つの自治体で乳児へのワクチン接種を推奨 - フォーリャ・デ・サンパウロ"
-    },
-    {
-      "articleId": "gnews_a077be31ee384321",
-      "headline": "Sarampo: Saúde pede reforço de vacinação de crianças em SP e Guarulhos - portal do amazonas",
-      "headlineTranslated": "Measles: Health calls for increased vaccination of children in SP and Guarulhos - amazonas portal",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:47:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemxFaGYxN2gwRjhUV2ZFY0d2RE9PR0JnRUpzSWx3NnRKOWhxaUZzZkhXOC1oTVFLYXJHLVB4eWZUajBGTGgxSmgweXB5REpLVjJwTFp4QVp0b0JERGc2ZGo4S2tQZk9TTG9rUVlqVjF4bmxNX1hzTTFvRmlUUFpUWjFEVTVkdUVnbk1hc28tVV9Ma1pRYVR5azE3cHdJVTVi?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portal do amazonas",
-      "headlineJa": "麻疹：保健当局はSPとグアルーリョスの子供たちへのワクチン接種の増加を呼びかけている - アマゾナスポータル"
-    },
-    {
-      "articleId": "gnews_fe781f0771209717",
-      "headline": "Governo de SP confirma três novos casos de sarampo e orienta dose zero da vacina em bebês da capital e Guarulhos - Agência SP",
-      "headlineTranslated": "Government of SP confirms three new cases of measles and recommends zero doses of the vaccine for babies in the capital and Guarulhos - Agência SP",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:42:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1ZXSmExN3NXaDI3SzlRTmFjMnZyOHlJYzRFdmZWU1VybjRSS2ZzT29FZGk1T1Vqcm90Z2UzMkxuTm1Jek5CNTBfLS1hcXNXX3dWaXVRenBvN09GZFVUUko1N1hXcTZScC1zQ0lDaDZyM0F3OURDMHdWS0N2U1R0ZDFHc3UxM3V1VS05OGtvOGhsMHgyRkdSdHp1TXFSemh1dnVJWWE1U2gxak1nQzNuRTZILVdocHlkZFRsSEFyeFl2Q1YwNnZPOFdQeDQzODg3QzVIbWFNNXJMM1VTT2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência SP",
-      "headlineJa": "SP政府、麻疹の新たな感染者3名を確認、首都とグアルーリョスで乳児へのワクチン接種ゼロを推奨 - Agência SP"
-    },
-    {
-      "articleId": "gnews_1371fab49eb40565",
-      "headline": "Casos de sarampo em SP alertam para importância da vacina 'dose zero' - band.com.br",
-      "headlineTranslated": "Measles cases in SP warn of the importance of the 'zero dose' vaccine - band.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:39:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmJDSVZEOGNpTlltZEU2S191c2VzUTc5a0lCZjlHZ2x6V25OUmdNbkpia3Jkek50eG5XNEFiRkJHN3Vnc0pKM0kzV1lVUjVrQkU5X0w0dFpfMzFzTVJCVmFxajdKOXNBaklDR21QQ0VKem9SeU8yd0s0OE5WLThPdWU4MXlpcmpfWEVuVS1HaHpRam9zY3Mwa3VjOXNWcUxlcXB4ek9lUi1qdmx0alhrd2ZSSFRSMHAzNDhlS0FsbnFwQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "band.com.br",
-      "headlineJa": "SP州の麻疹患者、「ゼロ用量」ワクチンの重要性を警告 - Band.com.br"
-    },
-    {
-      "articleId": "gnews_6fd273f38a7d63c1",
-      "headline": "Ministério da Saúde recomenda reforço na vacinação contra o sarampo para crianças em São Paulo e Guarulhos - Pagina1mt",
-      "headlineTranslated": "Ministry of Health recommends increased measles vaccination for children in São Paulo and Guarulhos - Pagina1mt",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkxiWG1VTzJUOHdYWk9KWkJrMUc2a194ckRFNE5fVTM0ZksyZWsxUWZYWnpyNjhveXBpbVZDOExPV1kxVGlKNHZBbzJnX29hckpuWDcwQUxtMUJWNGFrNGxfRmNoMnJoMklraXB0RkJFZXl1U2ppWmRyOFVxMzZDMW9YOFNoODR4LUZaZTRieEdqSTB4d2xHY1h6SGhGdkhSTU9RVU1aaWpKcTB6NkV6R0NlWmdCSGhPV05jM2c0V3kxWDh0Ymh3ZGRFYWQzVnJETklQTlMtMUM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Pagina1mt",
-      "headlineJa": "保健省、サンパウロとグアルーリョスで子供への麻疹ワクチン接種の増量を推奨 - Pagina1mt"
-    },
-    {
-      "articleId": "gnews_684f35f1d8871675",
-      "headline": "Prefeitura institui comitê técnico para combater casos de dengue, chikungunya e zika em Teresina - A10+",
-      "headlineTranslated": "City Hall establishes technical committee to combat cases of dengue, chikungunya and zika in Teresina - A10+",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T14:21:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblNyeGFEYmY5UHIxVTZVcG55eVNmWTZaekxvNEhLZUFOeEdraVFfbFZpeTg0N1hySDhsM2xDWGxEWjFKYzRXcXZUbDVMd01XblBacEtla0dmWmhBN3RkT0l2Ql9iY24xbkZRU0N1Z3dfc3pXcEkwMkNyNVM5TkRhMWtieE5IOUxPNzhfX09HVjBIUnZYaVdNbEFBWHFXZFFVMVBLZDg0aHlRVTFiM3p3eFFJcmd5SFVaczNSNVU4QzV1eUg2LTNYamlqbDZsaUhzWThWMWx1eHFpeUg3VGfSAd4BQVVfeXFMUG5TcnhhRGJmOVByMVU2VXBueXlTZlk2WnpMbzRIS2VBTnhHa2lRX2xWaXk4NDdYckg4bDNsQ1hsRFoxSmM0V3F2VGw1THdNV25QWnBLZWtHZlpoQTd0ZE9JdkJfYmNuMW5GUVNDdWd3X3N6V3BJMDJDcjVTOU5EYTFrYnhOSDlMTzc4X19PR1YwSFJ2WGlXTWxBQVhxV2RRVTFQS2Q4NGh5UVUxYjN6d3hRSXJneUhVWnMzUjVVOEM1dXlINi0zWGppamw2bGlIc1k4VjFsdXhxaXlIN1Rn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Zika",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A10+",
-      "headlineJa": "市役所、テレシナでのデング熱、チクングニア熱、ジカ熱の症例と闘うための技術委員会を設立 - A10+"
-    },
-    {
-      "articleId": "gnews_04a95e6b7e72c74d",
-      "headline": "Governo de SP recomenda dose zero contra sarampo para bebês de 6 a 11 meses na capital e em Guarulhos - BOM DIA SOROCABA",
-      "headlineTranslated": "Government of SP recommends zero dose against measles for babies aged 6 to 11 months in the capital and Guarulhos - GOOD MORNING SOROCABA",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbkt6RVBPT0tJT1pUZE0xb0VNR21NaUpReXlNTnFqb1M2X3lDaGluT0toYWk4WGloYWFRdUdEQU1PYS10RkxRV215ODhDQzA3c1lxYTRNWWNNZmRBSE5vZ2txdE1CSEwySkxyendBN2p5eFplSjNLYjJjcTdrYXJEY2ZRVGF5OTRxTUdBbGtKekpkNmVhdi1MYWpZZVpOTWo2YW1UNm9SX1dXd1FaVmJSOE5XUXZqdEo5TGJLS1JyYTF4cUc1UlI5RV9aZVVXMDVPM1NyREdLRlk1clZ5dEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BOM DIA SOROCABA",
-      "headlineJa": "SP政府、首都とグアルーリョスの生後6～11か月の乳児には麻疹ゼロ投与を推奨 - おはようソロカバ"
-    },
-    {
-      "articleId": "gnews_59eff4b9cf0ecca6",
-      "headline": "Sarampo: Saúde pede reforço de vacinação de crianças em SP e Guarulhos - Agência Brasil",
-      "headlineTranslated": "Measles: Health calls for increased vaccination of children in SP and Guarulhos - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:32:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVVNc2dQRTNJNW5QcjZvOWlteDVCcDFnSE80WUUteXZCYVF0NnVPNEVCaG1zY1pRNFA0MU5oaGk5S0FIQ3VHUngwLWpYTFVWUUVJSzJKN2h6UUI4VGNfSEtjWFg2cG9jRUxhNzZhTHpuNE5Nb2FsTUY3YkpqeWVIY1NxMEJZU3ZKZ2NsTEZSQnJsOFctQmk1Y3VWNHBkb291QjM0MDBnX21pa015RG1vQnl6X0k5MzlVUGNiRGdmWUszdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "麻疹：SPとグアルーリョスの子供たちへのワクチン接種の増加を保健当局が呼びかけ - Agêcia Brasil"
-    },
-    {
-      "articleId": "gnews_c1e62397fc9dadb1",
-      "headline": "Mutirão da dengue acontece nesta sexta-feira (26), em Joinville - G1",
-      "headlineTranslated": "Dengue joint effort takes place this Friday (26), in Joinville - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:19:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYllUTmxPRFVNX1BDLW5adzlIUUlNR212TTl5cjZuaWJYd1pNNWxPR1ZCcGxNR3VfOXg1QU55NFozbGNLTHN3WFhOTTJpWG9vdFlaRXlBdHFyWXMxdXZsWWl6MklIUkZYeGRybno2SFhkZGUwX0VXeUtFY3AzT2o4OTA0eHdiaHB1aUZuYnQxQm45NDBXdUlXcEV0anJfRVp4Vk5EemF2eExGRFN0Z3htQnFvSmRZZUxFVVN4SXhwZ2trT3Y3Qzd0SGctOXdWZlpHZHhubkR0RUYzUUFnUU01U1VrZWzSAfMBQVVfeXFMTXRfNGVhN0x5OENSdVJsajZrNVJjNmJndGNfd0hjNzF2VUh0MnFUUGtybkY0LWxNaTJaSWZiSjd1ZGRZSk8wRlN4VTdSLVhSZ1FuaS05WVlyMTEtaE1DRl96M3VkRkhXdjNnQzBiR1dGQXVrVnp5c3pUMVZUZFR5MDhkazJULUxrSi1EN0xZODNfaklSdWdQYkxzYXNEZEpyUFM4V2lCVEpYc21IWVJ4NllHdUVJdlZFTVRxcU5oZFRUZmIyMzhRMkpMdWZadFhaTGlKZ2FlQUtkdS02Zl8wbmRrenM2SWVMVWFFUEd1VXZkUk44?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱の共同取り組みが今週金曜日（26日）ジョインビレで開催される - G1"
-    },
-    {
-      "articleId": "gnews_84c673439fe85ce2",
-      "headline": "Ministério da Saúde recomenda reforço da vacinação contra o sarampo para crianças em São Paulo e Guarulhos - LEIAGORA",
-      "headlineTranslated": "Ministry of Health recommends reinforcement of measles vaccination for children in São Paulo and Guarulhos - LEIAGORA",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUpWaEl2RVFTN2o4WTNTdEt1MmlEWmI4aWZka1FVV2NmUHhXX1RLcEVXcGZtSGRTYXVpYk1TS3FQNUhSMURzTGdObUMySjN5ZkFPSzJBUEY0S3Z6WF9OTEl4RVcwZ1Y5Y21PSzJLWl93RXY1TkRfb1RfXzFycGdUcnBJTWNhenhZUjd5NEdwTzB1ZUVKVTNGUGdERjBhQTB4VjZGcXhwQkktVTUxdGJDaWRXUXdoQTlLRGtsRnBjM1o3ZWVFQkdkLXJiUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "LEIAGORA",
-      "headlineJa": "保健省、サンパウロとグアルーリョスの小児麻疹ワクチン接種強化を勧告 - LEIAGORA"
-    },
-    {
-      "articleId": "gnews_ad6cb29e38a4f538",
-      "headline": "Sarampo: após registro de três casos, São Paulo recomenda dose zero de vacina para bebês de 6 a 11 meses - VEJA",
-      "headlineTranslated": "Measles: after recording three cases, São Paulo recommends zero doses of vaccine for babies aged 6 to 11 months - SEE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T13:00:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanViR2d1T2tELVJVNGxmV0ViU2tkd0xuNTRVYVBZMEpPdjQxZnNUaTdlVXhma0xIRjBIQktkeERMWmNMZVcyTlFMTjVsOEFYckc1QlJBN3FwcU80NnZ2T0s5TjIxT3lteHhXcGZETWRFWkNOUGRpRzl6MnpFdjI3T0N0X0JVSWZHdDgyM3JGN1Z0TVc2ald1X3c3dVNjUmZtU0RsWUFDaUdHc2FRTkFzMTRLb0puQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "VEJA",
-      "headlineJa": "麻疹：3件の症例を記録した後、サンパウロは生後6～11か月の乳児にはワクチンの接種をゼロにすることを推奨 - SEE"
-    },
-    {
-      "articleId": "gnews_56d45b9e486caa93",
-      "headline": "Dengue: Piauí chega a 10 mortes pela doença e 5.147 casos confirmados em 2022 - Portal Ponto X",
-      "headlineTranslated": "Dengue: Piauí reaches 10 deaths from the disease and 5,147 confirmed cases in 2022 - Portal Ponto",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T12:48:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDN2bWk4TTNkY3ZLamRrWm9NenA3WXhBZFVRQ3RNbW91M2xyNDNUeV81aDB0SHRuc0Y1T2g5VkdPR0NWdlNIYXNRWmd1bFJueDFiOWVnYkVtcm1OM0V3VVFvLXYxcjY2dXdjZGJGV2RKV0NQVTh2QUNhMUFyZnJwa2FOUDlTenExZWhvN0NOYmFkVHhHWm9ONkItVWlVU0UzaXQxVmxZT09kZnkzakdjVzhjUGg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Ponto X",
-      "headlineJa": "デング熱：ピアウイ州で2022年に死亡者10人、感染者5,147人に達 - Portal Ponto"
-    },
-    {
-      "articleId": "gnews_da65677b1e8e510d",
-      "headline": "Ministério da Saúde recomenda reforço da vacinação contra o sarampo para crianças em São Paulo e Guarulhos - GOV.BR",
-      "headlineTranslated": "Ministry of Health recommends increased measles vaccination for children in São Paulo and Guarulhos - GOV.BR",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T12:26:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd2xmekJkbm5Jd21rRmFVajBSS0d5MVpEazFuZGdGNUYxZGpKeDVHODU0Ym1oNlI1cllzcFhzc1BjejNoYnRqS2RIbGY2MVVjVUI4NWRBbldCSEd2VHpTcXB4UjRsRDFzd1FERkpxR2E0bnl2VmdWUFdvRTJNcW9VZXAtUkgzWGExTjQ3QkI2ZUZFaUFMVTdvMnh6aUFYRVVCR3I1anZRZFBLN2hMdTFhMDg1UHZ4QXVYbHVsakZaR21nZnZxcFA4a25QRlhFRV9fdUc4U1VFMHJ4dW9rRHROcnJoWHc3OVNTY2xXOFkxR01LMGhrU0ZPcmVn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GOV.BR",
-      "headlineJa": "保健省、サンパウロとグアルーリョスの子供に対する麻疹ワクチン接種の増量を推奨 - GOV.BR"
-    },
-    {
-      "articleId": "gnews_c462a120314d902b",
-      "headline": "Alta de casos de sarampo nas Américas aumenta risco de reintrodução no Brasil - Ao Vivo de Brasília",
-      "headlineTranslated": "Increase in measles cases in the Americas increases risk of reintroduction in Brazil - Live from Brasília",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-26T12:17:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlZtbzFNS2x0cHA2U0dLQXVnYjZqZEx4QzkzV3JPdTc4UXI5bi1xS1Fwb1RJekV3c2xxY0ZRMjFTTGF0aURhck5WYklaUVdla3Q3QzdlS1ZqWVdIVmgtTWxkY21TRVB2SDQ3UE15X0l6R2J0SjNQNzgzR1kyNVVwN3JneU5CUnpNRzBhUkRUcVh4UFFxY0Z1SVhUckh5R3ZCWVVrakVIazNiQ0ZyVmlMaHpnakhiLW9uYzRaQnBCbXg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Ao Vivo de Brasília",
-      "headlineJa": "アメリカ大陸での麻疹症例の増加により、ブラジルでの麻疹再導入のリスクが増加 - ブラジリアからのライブ"
+      "headlineJa": "麻疹の発生を受けて保健省は、SP およびグアルーリョス - G1 の生後 6 ～ 11 か月の乳児に 3 回のウイルスワクチン接種を推奨しています。"
     }
   ]
 }
