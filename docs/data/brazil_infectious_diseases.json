@@ -1,51 +1,92 @@
 {
-  "generated_at": "2026-07-01T01:08:05.552866+00:00",
+  "generated_at": "2026-07-01T09:14:30.556579+00:00",
   "date_range": {
-    "start": "2026-06-29T01:08:05.552866+00:00",
-    "end": "2026-07-01T01:08:05.552866+00:00"
+    "start": "2026-06-29T09:14:30.556579+00:00",
+    "end": "2026-07-01T09:14:30.556579+00:00"
   },
-  "total_articles": 35,
+  "total_articles": 39,
   "state_summary": {
-    "São Paulo": 8,
-    "Brasil (estado não identificado)": 13,
-    "Pará": 4,
-    "Alagoas": 1,
-    "Paraíba": 2,
-    "Rio Grande do Norte": 2,
+    "Brasil (estado não identificado)": 17,
     "Mato Grosso": 1,
+    "Pará": 5,
+    "São Paulo": 7,
+    "Rio Grande do Norte": 2,
+    "Paraíba": 2,
     "Santa Catarina": 3,
     "Goiás": 2,
     "Rio Grande do Sul": 1,
+    "Mato Grosso do Sul": 1,
     "Sergipe": 1,
     "Rondônia": 1,
     "Ceará": 1
   },
   "disease_summary": {
-    "Measles": 20,
-    "Dengue": 7,
-    "Doença infecciosa (não especificada)": 6,
+    "Malaria": 1,
+    "Measles": 21,
+    "Dengue": 8,
+    "Doença infecciosa (não especificada)": 7,
     "Meningitis": 2
   },
   "articles": [
     {
-      "articleId": "gnews_b99d693658b074c5",
-      "headline": "São Paulo já soma 7 casos de sarampo neste ano - Marechal News",
-      "headlineTranslated": "São Paulo already has 7 cases of measles this year - Marechal News",
+      "articleId": "gnews_6ae567453cdfca93",
+      "headline": "Brazil’s Malaria Pioneer Now Leads WHO’s Tropical Disease Program - Medscape",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T00:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOElIVjJrNW1WdVF2ckRvVW02bk95aS1nekc0a3ZPVjVxRDdqb1FyQVF0VEJHbEd2bUNBN3E0LVJRWFpTS011OGk4cTFGS1hUX2tjRXFLWXRtb1hyZEJia0FFMVBsUVJnbnlJTjZnbjQ1eFJwRnlDa0tpclFseUowaHRibjFFaDBiS005Tk03WkhIeVE?oc=5",
+      "publishedTimestamp": "2026-07-01T05:02:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDhybHd2Z1BpRkM4RFNQLVFXVmd5NjQxUkJWYTZPMlNyWkkya21BQ1F1aTdOcmQ2R0Fad1ZRSGpyaFhVcHRIeF8xb3FCZEhBYW5kbGRDcjE1RjJCSFJoTEtmQllxeDZpVERqb3NBaWdEV3I4cE1EZGV0Z29GVm1MWE9qM0w1QmFlbHBScE1LMndINVNSSS1lVGUzcFluT0daMEE4OHVFVzk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Medscape",
+      "headlineJa": "ブラジルのマラリア先駆者がWHOの熱帯病プログラムを主導 - Medscape"
+    },
+    {
+      "articleId": "gnews_2a70f79c5c32142c",
+      "headline": "RN segue abaixo da meta de vacinação contra o sarampo - Tribuna do Norte",
+      "headlineTranslated": "RN remains below the measles vaccination target - Tribuna do Norte",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-01T02:02:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdERncGQ2YkpQek82RHY2THU4X0FzMjFUUHkxOTQzekdkRnhfM1IwNjJILW04SGFlTlZkUGRCUXUzQ1MwNms5X0JUVmJ4SUZMWVBiUEdfc1FWXzhHZm1sYWIxTzgtZ2Y1YW9DXzEwcjVON1IyRURFaGhWdjBFQXpnTzNURmZhMl9jVkZmQllWYVVtR3lQajItWE9Udm1rMnBOYjN1djhZcw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "São Paulo"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Marechal News",
-      "headlineJa": "サンパウロでは今年すでに7件の麻疹患者が発生している - マレシャルニュース"
+      "sourceName": "Tribuna do Norte",
+      "headlineJa": "RNは麻疹ワクチン接種目標を依然として下回っている - Tribuna do Norte"
+    },
+    {
+      "articleId": "gnews_673426606a3b235b",
+      "headline": "Ministério da Saúde reforça vacinação contra sarampo após casos em crianças - O Mato Grosso",
+      "headlineTranslated": "Ministry of Health reinforces measles vaccination after cases in children - O Mato Grosso",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-01T00:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RlMnJLZ21RYTQzM3F2MmRUOGhOa2NFRnJudWN2ZmJMcDlHNEV4RHNDX2FKdVRyZUpBcHUyeU9fLXhHaUEzQVZBSUloS21ob09RS2x2c1dsWHAwQXlHbHpEUTFLNGI5c21KNTBVX2R5QW5Zbnhvc2ZLNkZLZGMwYy1XWHFuZ1ZXWkhvNm5taUdVYUlmNl9qN0JrcnVkT0N3VHc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Mato Grosso",
+      "headlineJa": "保健省、麻疹の小児感染を受けワクチン接種を強化 - オ・マット・グロッソ"
     },
     {
       "articleId": "gnews_aa39fd665af36b19",
@@ -68,6 +109,47 @@
       "headlineJa": "ブタンタンのデング熱ワクチンは世界初、単回接種で入院を100％予防できる - CPG Click Petróleo e Gás"
     },
     {
+      "articleId": "gnews_844dd9944beded9d",
+      "headline": "Sarampo em São Paulo: estado registra 7 casos e reforça alerta para vacinação - Fato Paulista",
+      "headlineTranslated": "Measles in São Paulo: state records 7 cases and reinforces vaccination alert - Fato Paulista",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T23:18:49+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oS1BDejNIbVhDMC1rX01vZ0w0eklKeWtHbnRZZFRDYkZkNmdpaElWbGg1MDhCcTZ5aE5URUdpZUhSMkYyN2doeVhJdVJXcmhXV24zb1pMS0R4c2c3cnpUQXB1OWVqT2xYMjN3X2hGSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fato Paulista",
+      "headlineJa": "サンパウロの麻疹：州が7人の感染者を記録、ワクチン接種の警戒を強化 - ファト・パウリスタ"
+    },
+    {
+      "articleId": "gnews_69b6a52da833b257",
+      "headline": "São Paulo já soma 7 casos de sarampo neste ano - Agência Brasil",
+      "headlineTranslated": "São Paulo already has 7 cases of measles this year - Agência Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T22:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEtxWmtacy1NWjVuMlNrbV9UTnhGNlc5aTJkeU9GRmh6dmJWYVlEQnlyWEpIZW1KczdONF9hUll2OXpjR1g3cW02WmpqTXIzMUtOSGVMRGJBMEcwa2FoQjVlRmtxU1htaUlIT1F4elBURDJRZXViaWkzM3Vnb2VqVmpxMGRIeGYxMHYxWFRCOW5OMUFXMFJyZGQzQzJ6TGdFcnBj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil",
+      "headlineJa": "サンパウロでは今年すでに7件の麻疹患者が発生している - アジェンシア・ブラジル"
+    },
+    {
       "articleId": "gnews_0dfa29aaceafebbc",
       "headline": "Sarampo: mais dois casos são confirmados em São Paulo e vacinação é intensificada - VEJA",
       "headlineTranslated": "Measles: two more cases are confirmed in São Paulo and vaccination is intensified - SEE",
@@ -88,49 +170,6 @@
       "headlineJa": "麻疹：サンパウロでさらに2人の感染者が確認され、ワクチン接種が強化されている - SEE"
     },
     {
-      "articleId": "gnews_77dd627ba403a937",
-      "headline": "SAÚDE - Ministério da Saúde alerta para aumento de casos de sarampo em São Paulo e incentiva vacinação de crianças após infecções confirmadas na zona norte. - Repórter Maceió",
-      "headlineTranslated": "HEALTH - Ministry of Health warns of an increase in measles cases in São Paulo and encourages vaccination of children after confirmed infections in the north zone. - Reporter Maceió",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T20:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWEl5MlJ1ZnhtUGpwYjk4LWdIQjlvZjJVWjZHV1NtaGdYU3BQM2xGamllTU1ET1Z1eVAwYk10cW9ITmV5VXYtNi1vWjdaVkRKUVB5ZXhmdWhKeTZ0a0E3aXVyVTQzdnJJTGw0R3U5T0VzSm1hSUROLVU1bFBwaVVQbEVzYmkwbkV1TnFKVTZQaVVQb3hHeGJCVzk2aXlXMXNmUTVXRXl5QTNZVVJSOFIzV080Z2JDSTBzYWpHRWt0TWxPNTZEZ3ZTZGdOX2Z1b0c3YTZpUHoyczBzcUpEUTlRcWNCQWhBc2xfRWpiWmtxcnE3UkhrUk9fbjAzRDI5MlBtOFZ6SFQ3dEtDc0lmM0ZBMDdB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo",
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió",
-      "headlineJa": "保健 - サンパウロ北部地域で感染が確認されたことを受け、保健省はサンパウロでの麻疹症例の増加を警告し、子供へのワクチン接種を奨励した。 - マセイオ記者"
-    },
-    {
-      "articleId": "gnews_f5ed24aee6652fdf",
-      "headline": "Secretaria de saúde alerta sobre cuidados para evitar criadouros do mosquito da dengue durante inverno em João Pessoa - Polêmica Paraíba",
-      "headlineTranslated": "Health department warns about precautions to avoid breeding sites for the dengue mosquito during winter in João Pessoa - Paraíba Controversy",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T20:34:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnpwMXYwUUplLW9FSVk3eDNXV29vVy1uMnVvSF80dWh1YlYyQXNOVGhhck5PWlhISG9SQ1ZVY21McXRHbW1RMEdtOVJMVk9aWFU4T1NhQ2NRb2xpOU1HUGx1Wlo1elZHTXZBcU9PR0piWmNsZEQ1T3JtUkxmTGxyUjAxSHFkbFpKd2pDRlBXU1JBSnhoU2JtTGxBQzR4M1BuX1Y4T0Qtd1FBamJ1VXVxSDZNUG15eWtKVkFVdmdaMFAyZWk1MG91ck1Ed29pTnpYMjBlNzhrVlRQVmpBM1FWMHpkLVY4Rktka1Atb2N0UDY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Polêmica Paraíba",
-      "headlineJa": "保健省、ジョアンペソアとパライバ州の冬季デング熱蚊の繁殖地を避けるための予防策を警告"
-    },
-    {
       "articleId": "gnews_2e77810cf111e2dd",
       "headline": "Surto de bactéria em UTI neonatal fecha centro obstétrico de hospital no RS - Rádio Itatiaia",
       "headlineTranslated": "Bacteria outbreak in neonatal ICU closes hospital obstetric center in RS - Rádio Itatiaia",
@@ -149,26 +188,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
       "headlineJa": "新生児集中治療室で細菌が発生、RSの病院産科センターを閉鎖 - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_673426606a3b235b",
-      "headline": "Ministério da Saúde reforça vacinação contra sarampo após casos em crianças - O Mato Grosso",
-      "headlineTranslated": "Ministry of Health reinforces measles vaccination after cases in children - O Mato Grosso",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T19:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RlMnJLZ21RYTQzM3F2MmRUOGhOa2NFRnJudWN2ZmJMcDlHNEV4RHNDX2FKdVRyZUpBcHUyeU9fLXhHaUEzQVZBSUloS21ob09RS2x2c1dsWHAwQXlHbHpEUTFLNGI5c21KNTBVX2R5QW5Zbnhvc2ZLNkZLZGMwYy1XWHFuZ1ZXWkhvNm5taUdVYUlmNl9qN0JrcnVkT0N3VHc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Mato Grosso",
-      "headlineJa": "保健省、麻疹の小児感染を受けワクチン接種を強化 - オ・マット・グロッソ"
     },
     {
       "articleId": "gnews_e9c7db85590b05b3",
@@ -251,6 +270,46 @@
       "headlineJa": "保健省、麻疹患者発生を受け乳児へのワクチン接種を推奨 - Rádio e TV Encontro das Águas"
     },
     {
+      "articleId": "gnews_8383d1fd7d064dfd",
+      "headline": "Meningite: queda nas mortes desacelera e ameaça meta global da OMS - F5 News",
+      "headlineTranslated": "Meningitis: drop in deaths slows down and threatens WHO global target - F5 News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T16:30:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWtDQzMxcnp0VHBzek9ETDdWSVlkLUYydXlCSWNzbmFEVDFDU19MQkdSMFU1dFVnVXd3RzlwS3BFMzFjeE9UekRjS0thd3IxY0dkYmpTNDUzOVV0THN4UFU0MTVmTGRzUzJVV0JRb0laX2gzSTNQc0JKYS1jcGJBX2t4RkRsd1U0cEtESjN6RVllOUE5RkhyZ3ZiSTJWRmFVYmxCdTBxWHhHWVkwLXhPWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "F5 News",
+      "headlineJa": "髄膜炎：死亡者数の減少が鈍化し、WHOの世界目標を脅かす - F5ニュース"
+    },
+    {
+      "articleId": "gnews_ea7c75bd7f9a1a72",
+      "headline": "Anvisa suspende uso e venda de repelente comercializado no Brasil; saiba qual marca e lote recolhido - bnewsrn.com.br",
+      "headlineTranslated": "Anvisa suspends the use and sale of repellent sold in Brazil; find out which brand and batch was collected - bnewsrn.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T16:16:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQjhvZF9YN2tyZlhsLUJyb0hrdExWV0ExdkRseC1pR1dDMTYwbE5TbFpMbmVwand6NHVLY1R2QzU4RnA5dnRZTHd2cFFuczBXYm1YUDk4UGY0VERLejZVclB6eWVBVEtMc3JQbnFHdEczZ2U5a29ENlRRSE5zUmJQbm5Ubm8wS040b0hVYnNObG55SUdVMjc2eFVYWUZfUGZyUVF5dkt5SVNoRkFLX1FMNmlhTnJhOEpCNXNxRkFVcFF0MV9DVWFBVWNFeGxLSVRRQmg3Y3FIX3N0OVNyV3JDUjBB0gHnAUFVX3lxTE5GRWhuVnp3b3FrdnVLeWZZNXZBMGZheElxWGJ6LXMzMHo1Z214VkVEbUUxX0NLeTdpdGdEVE5IMHlDVVZJeXg0dWFZdFpReXV1c3A5enEtZ0hvaDh4RWFuR3U0Z2FMcW1HQldUc2VlS3pVblpNR3dvd0hzLW9lRmt6eGJEcFNjQjJYTnVPdUVFQzFReVJtQkhELUNiQnFjV1ZsQ05WMEZxWXVqWjRZZ3I2LWhldjVUTzRXcGxVVTZ5ZEJnS2hxTHY2bkNfTlVCZ25mOXRWRkx3SXlWNHZOT3F4RDM0TVRJZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bnewsrn.com.br",
+      "headlineJa": "アンビザはブラジルで販売されている忌避剤の使用と販売を一時停止。どのブランドとバッチが収集されたかを調べる - bnewsrn.com.br"
+    },
+    {
       "articleId": "gnews_f4ce8c2c09d76d2a",
       "headline": "Ministério da Saúde reforça vacinação contra o sarampo em SP após confirmação de casos em crianças - Folha de Alphaville",
       "headlineTranslated": "Ministry of Health reinforces measles vaccination in SP after confirming cases in children - Folha de Alphaville",
@@ -271,44 +330,25 @@
       "headlineJa": "保健省、小児の感染確認を受けてSP地域での麻疹ワクチン接種を強化 - Folha de Alphaville"
     },
     {
-      "articleId": "gnews_08fde57695ef928e",
-      "headline": "Vacinação é reforçada após confirmação de casos de sarampo em SP - Clube FM Brasil",
-      "headlineTranslated": "Vaccination is reinforced after confirmation of measles cases in SP - Clube FM Brasil",
+      "articleId": "gnews_b448628439dce05c",
+      "headline": "Duas crianças de 7 anos morrem com suspeita de dengue grave no Sertão da Paraíba - Rádio Itatiaia",
+      "headlineTranslated": "Two 7-year-old children die with suspected severe dengue fever in Sertão da Paraíba - Rádio Itatiaia",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T15:01:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEY3Rk5JZ3NwazlDNUxZRmQ1aml0bmNIUWFpbXBvQUl2ZkpwT1VKcDVnNDFEUWZWS05Kd0hub2pQWUo2ZElpclhMSHctZG54dzZVUF9CR2ZXWkpKSFpVR2Z4R3BsYl9RcmFfaFhWc3dvakpDOEZ2V0VlaWdWNWMzQWJPVFhjX0ZOcjRibnJwQW1Ga2s?oc=5",
+      "publishedTimestamp": "2026-06-30T15:45:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUEdLeWtsRUVBV01TR3hrbG5fLWkxc3lsaEFFUVF2VnZSZFRIbVRfNkVxSjF5LUR5YjZhN18wbGRJTnhxRTllM2duSHJ0SEwxRk1pT21kSzZfOUZ3d0dxQzNvSEFGdVBMMXpwd2xvWlotOGtwU2x4NTFfX3djVmp6X29WaGloREVtb1hyanB1T3JFS0ZCQ2NyU1NXZE1JakRULXJUWldXX3cyM2k1QnRUem9iSE5IWWE3RERwRTdOZkZid0xBRUMw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
-      "sourceName": "Clube FM Brasil",
-      "headlineJa": "SPでの麻疹症例確認を受けてワクチン接種が強化 - Clube FM Brasil"
-    },
-    {
-      "articleId": "gnews_8383d1fd7d064dfd",
-      "headline": "Meningite: queda nas mortes desacelera e ameaça meta global da OMS - F5 News",
-      "headlineTranslated": "Meningitis: drop in deaths slows down and threatens WHO global target - F5 News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T14:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWtDQzMxcnp0VHBzek9ETDdWSVlkLUYydXlCSWNzbmFEVDFDU19MQkdSMFU1dFVnVXd3RzlwS3BFMzFjeE9UekRjS0thd3IxY0dkYmpTNDUzOVV0THN4UFU0MTVmTGRzUzJVV0JRb0laX2gzSTNQc0JKYS1jcGJBX2t4RkRsd1U0cEtESjN6RVllOUE5RkhyZ3ZiSTJWRmFVYmxCdTBxWHhHWVkwLXhPWQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "F5 News",
-      "headlineJa": "髄膜炎：死亡者数の減少が鈍化し、WHOの世界目標を脅かす - F5ニュース"
+      "sourceName": "Rádio Itatiaia",
+      "headlineJa": "セルタン・ダ・パライバで7歳の子供2人が重度のデング熱の疑いで死亡 - Rádio Itatiaia"
     },
     {
       "articleId": "gnews_dc4ebf1b1346526b",
@@ -348,7 +388,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
-      "headlineJa": "世界の髄膜炎による死亡者数は依然WHOの目標を上回っていることが研究で判明 - Radio Itatiaia"
+      "headlineJa": "世界の髄膜炎による死亡者数は依然としてWHOの目標を上回っている、研究が示す - Radio Itatiaia"
     },
     {
       "articleId": "gnews_e73eb3e05ee897ae",
@@ -369,6 +409,26 @@
       "dataSource": "Google News",
       "sourceName": "patosja.com.br",
       "headlineJa": "保健省、麻疹の小児感染を受けワクチン接種を強化 - patosja.com.br"
+    },
+    {
+      "articleId": "gnews_e4861a340bb19ca5",
+      "headline": "Após casos de sarampo, Ministério da Saúde recomenda vacinar bebês - Diário da Amazônia",
+      "headlineTranslated": "After cases of measles, Ministry of Health recommends vaccinating babies - Diário da Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-30T11:53:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVBpbGhNYlBYRUdRamRJcUQ0ejhZeVNnVHlVQjR0RUpOS2NCZDhuU05qZUJiUkxhUWZDR3RPSjhBTm5nOXBJUmU1TW1adGp6T3Q3MjYtQTA3b1NyQWd6alhneTFqRXEyMXhEeVpWMHZDT1BYTFEyc1BLeEFMYWdIcUFiVGxFaUZYb2ZZNm5mSjBHYmdCbEF2THlobG1aY1BSZ2gzLXRwazZrZEE4TlJrQVRtbGo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Amazônia",
+      "headlineJa": "麻疹の発生を受け、保健省が乳児へのワクチン接種を推奨 - Diário da Amazônia"
     },
     {
       "articleId": "gnews_a24985e4cf8dc6c3",
@@ -511,6 +571,26 @@
       "headlineJa": "保健省、麻疹の小児感染を受けてワクチン接種を強化 - Blog do Valente"
     },
     {
+      "articleId": "gnews_3b659e7ccf72ea43",
+      "headline": "Vacinação é reforçada após confirmação de casos de sarampo em SP - Correio Braziliense",
+      "headlineTranslated": "Vaccination is reinforced after confirmation of measles cases in SP - Correio Braziliense",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-29T20:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUFaSV9DeDlpblZMdFRWUVd5NHFPVi1ybzgzOVI2Q0hPc2xmZ2x6SWV0UmY1dGFuXzl5bkhqWDduMFFEZmczV1RMYlFPQzJlNWFkY09PaV9hbGQ0Q05VV01acUZrYmFQUF9JVGVYZ2FFeWpzaGFlVzZRdy1QT2Y4YWdOdm9QUDZmRTV3dmZXTXhic1BWTE1mc1RhUllkcGVfOWhvX1ROcVFUOWxwaHAxUG5adnpBZ2Rtd3F0c1I1SjdnQlozbkVzNWZR0gHPAUFVX3lxTE9qVkg1QWFLR1NNbTQzcUlGSnl5cEphUEJVYVlMZzJNVVItODlvTE83eGRTTXRDVlRYY0JPVHlrdkE4MW5Seml6WlExdXA0MEFjTHNaNG8wQm9MTzhHeHprRllqYXJHLWhFeHhyNmQ4SlVJR0toVHhqbnNmcGhmaDV0TmlQbEpPYk9kVm1vRU5HZ1R0T3dpNjZyMGdfM19JUktfVGFjSHZ5dlFseXRZczliMlZ6UGFEcHp6TEZGLWo4VlZ6QzNmNWJiV2wyT2tjZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio Braziliense",
+      "headlineJa": "SPでの麻疹症例確認を受けてワクチン接種が強化 - コレイオ・ブラジルリエンス"
+    },
+    {
       "articleId": "gnews_4ee53cd36b670f10",
       "headline": "Três crianças contraem sarampo em São Paulo, e Ministério da Saúde reforça vacinação na capital - Jornal Correio",
       "headlineTranslated": "Three children contract measles in São Paulo, and the Ministry of Health reinforces vaccination in the capital - Jornal Correio",
@@ -528,7 +608,28 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Correio",
-      "headlineJa": "サンパウロで子供3人が麻疹に罹患、保健省が首都でワクチン接種を強化 - ジョルナル・コレイオ"
+      "headlineJa": "サンパウロで子供3人が麻疹に罹患、保健省が首都での予防接種を強化 - ジョルナル・コレイオ"
+    },
+    {
+      "articleId": "gnews_4c3d89d69ca94129",
+      "headline": "Com apoio de Renato Câmara, Dourados lança jogo digital para prevenir a dengue - Dourados News",
+      "headlineTranslated": "With the support of Renato Câmara, Dourados launches a digital game to prevent dengue fever - Dourados News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-06-29T19:21:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlRIbC1aZjRTUUI2VGxYcHhEajkySE8zbGlQRUZxOE51MklxTjI0MHY4TlNib2xBeU1Wb1JWZjM2UTBDVzFzaWNaMkljVV9tUHFmcmdoWnZTdDhBU1ItaURJZjRNdEQ1cXdSNkxDUTNYLWZ3cnVSVktJcjF4QzBqR3BMVnRXMVhDOThxREtQOTVJWDdvUkxBeTNXakk1LWhPX2ZOV3ZObFFWWmlRc0F6c3VaZ0djNEdJM1BVTUdMMUZac0M0UEHSAb4BQVVfeXFMT2JhV0V1UVVid0Y5cGN2ZUhkeWlod05jQ2hGT0VhdVNGMC0yRS1HVTc4dFZON0M0OXYxaVZzTERPWGZFMHhFOHUxUU5vWGRrMTVEYl9ZQTR5dUlsVkNQZ28zVkhCN1Ryakt3d3FWSTUyZUl0UjBHeFIxNUlvWlhxSkUxbGlKR2ZUNWNnakR3Zm5RTG9fb3Q5dWQwUkJITk9IY3Z6SzFDZFpBaHlQMzZQWDRqdEdfUHlHc3pIUDNGUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Dourados News",
+      "headlineJa": "レナト・カマラ氏の支援を受けて、ドウラドスはデング熱を防ぐデジタルゲームを開始 - ドウラドス ニュース"
     },
     {
       "articleId": "gnews_60ad3aa89e687fb6",
@@ -571,9 +672,9 @@
       "headlineJa": "サンタカタリーナ州で認可された新しい法律には、学校給食への蜂蜜の使用、デング熱撲滅運動、安全な学位取得の奨励などが含まれる - サンタカタリーナ州パウタ"
     },
     {
-      "articleId": "gnews_d3f54766ef88b0a3",
-      "headline": "Ministério da Saúde reforça vacinação contra o sarampo após confirmação de casos em crianças - AU ONLINE",
-      "headlineTranslated": "Ministry of Health reinforces measles vaccination after confirming cases in children - AU ONLINE",
+      "articleId": "gnews_dc438f5077cfab3a",
+      "headline": "Ministério da Saúde reforça vacinação contra o sarampo após confirmação de casos em crianças - AU Online",
+      "headlineTranslated": "Ministry of Health reinforces measles vaccination after confirming cases in children - AU Online",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-06-29T17:43:03+00:00",
@@ -587,8 +688,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "AU ONLINE",
-      "headlineJa": "保健省、小児の麻疹感染者確認を受けワクチン接種を強化 - AU ONLINE"
+      "sourceName": "AU Online",
+      "headlineJa": "保健省、小児の感染者確認を受けて麻疹ワクチン接種を強化 - AU Online"
     },
     {
       "articleId": "gnews_3ed9f3deda9d8ad0",
@@ -631,26 +732,6 @@
       "headlineJa": "同省、乳児へのワクチン接種を強化－トゥード・ロンドニア"
     },
     {
-      "articleId": "gnews_f810edbb439f58bb",
-      "headline": "Ministério da Saúde alerta sobre vacinação contra sarampo em São Paulo - Metrô News Jornal",
-      "headlineTranslated": "Ministry of Health warns about measles vaccination in São Paulo - Metrô News Jornal",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-29T17:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNm1xa2pCMXNxSzlCZ0ppRlRENVd2R0JSZnlibUU5ZlVTanVJR0Q4cmpUbWlXUF93eGZBOURtLWhCSmxSYmhTV3V1QWxqcFJocVRKUnZaYTdwb0dnQnpKYkZ2eGhyeWp4OXBQSWJ6TVpaVFRhRWxldEp6THlXeGNvNXlJQWl4N2hXU19COWtuMkgxcXgweXR0eXJ0V1k?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Metrô News Jornal",
-      "headlineJa": "保健省、サンパウロの麻疹ワクチン接種について警告 - Metro News Jornal"
-    },
-    {
       "articleId": "gnews_d4789a7a44aaabea",
       "headline": "Ministério da Saúde reforça vacinação contra o sarampo após três casos em crianças em São Paulo - ParaibaOnline",
       "headlineTranslated": "Ministry of Health reinforces measles vaccination after three cases in children in São Paulo - ParaibaOnline",
@@ -664,9 +745,9 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
         "Pará",
-        "Paraíba"
+        "Paraíba",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline",
