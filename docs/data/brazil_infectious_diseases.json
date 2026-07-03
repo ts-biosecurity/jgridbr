@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-03T00:50:54.444428+00:00",
+  "generated_at": "2026-07-03T09:08:06.856878+00:00",
   "date_range": {
-    "start": "2026-07-01T00:50:54.444428+00:00",
-    "end": "2026-07-03T00:50:54.444428+00:00"
+    "start": "2026-07-01T09:08:06.856878+00:00",
+    "end": "2026-07-03T09:08:06.856878+00:00"
   },
   "total_articles": 28,
   "state_summary": {
     "Brasil (estado não identificado)": 14,
+    "São Paulo": 3,
     "Rio Grande do Sul": 3,
-    "São Paulo": 2,
     "Santa Catarina": 1,
     "Pará": 3,
     "Pernambuco": 1,
@@ -18,13 +18,35 @@
     "Piauí": 1
   },
   "disease_summary": {
+    "Influenza": 1,
+    "Avian Influenza": 1,
     "Doença infecciosa (não especificada)": 6,
     "Measles": 13,
     "Dengue": 7,
-    "Meningitis": 1,
-    "Malaria": 1
+    "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_bd07f245b3be21cf",
+      "headline": "‘Língua eletrônica’ detecta anticorpos da gripe aviária em seis minutos - Agência FAPESP",
+      "headlineTranslated": "‘Electronic tongue’ detects bird flu antibodies in six minutes - Agência FAPESP",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-03T03:04:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmV0LXR4Z015ckFwUk9hSkZhY3FPM1R0WFZ5bDBwZWRRNndtc3A2QUtnSEZvZFN5TWxZRkxZZnZHV0g2alVfajJhZFJXUnpqZjdnMWxualhRRUZyQllFdmpid0ctNnhYbFdZYlJUMmZKc2tzcjduUFRNOS1Sb0RISzRIc25qOVViNnBRMm1IU2VSamJPa3ZwaXJ0UndtMS0ydGdz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência FAPESP",
+      "headlineJa": "「電子舌」が鳥インフルエンザの抗体を6分で検出 - Agência FAPESP"
+    },
     {
       "articleId": "gnews_4e771499b7b0d1bc",
       "headline": "Diarista suspeita por morte de casal de idosos em BH relatou surto psicótico, afirma delegado - Folha de S.Paulo",
@@ -59,12 +81,73 @@
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
-        "São Paulo"
+        "São Paulo",
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Sul 21",
       "headlineJa": "サンパウロでの麻疹症例、ポルトアレグレ保健ネットワークに警告 - South 21"
+    },
+    {
+      "articleId": "gnews_513045b133216369",
+      "headline": "Saúde, mel na merenda escolar e prevenção contra a dengue – Política em Foco - Assembleia Legislativa do Estado de Santa Catarina",
+      "headlineTranslated": "Health, honey in school meals and dengue prevention – Politics in Focus - Legislative Assembly of the State of Santa Catarina",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T19:54:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEh2bHJSS2VlTURHWVEwcGFkV2tRRWJ4ZHd3YWV0TFZlZnN1aUFUNjJBaUw0T3FSRm1PNGV3Q3VqeFJvVUFUOEVjYWtqUWstakJBVzE3WVZ0Rk0zOHpnZkhMMXdleFlDYTdEYUxQMFpvYW5IS0F0VzFqcVNzWlgwNEF2WWwwVFVuSGxGdWlRdVZpTTlwVXlzZWJSTlhacUNTc3NxS2owdkJneUNDaDNieUdSZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Assembleia Legislativa do Estado de Santa Catarina",
+      "headlineJa": "健康、学校給食における蜂蜜、デング熱予防 – 焦点の政治 – サンタカタリーナ州議会"
+    },
+    {
+      "articleId": "gnews_a2bcb23950dcd209",
+      "headline": "Suspeita de matar a facadas casal de idosos em BH diz que ouviu \"vozes\" - CNN Brasil",
+      "headlineTranslated": "Suspect of stabbing elderly couple to death in BH says she heard \"voices\" - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T19:43:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEN1UVlQdkF5b3RPemJwQ1AzNm51YXdXamdLMlUxbW1femE5bEM5UHFZekJPSW1RYlM4YURUN0pkWF9DMmM1SkRBaERraGgxbW1wR3Q5M3BDUlY4amgxTTBfcXA1M2FjNTRObTZUaVI3Q0RrUE9VUVpzb3hEUWNOZE1lbjQyX1VONXNEdFh4b0hYcWhZa1BNbDdWSGF0Sk5YYmQ0V1ZhQm9hbm9XVFR1YUlXVnpSaHRJV2Y4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "BHで老夫婦刺殺の容疑者、「声」を聞いたと語る - CNNブラジル"
+    },
+    {
+      "articleId": "gnews_5c8efb8bb2c3ae4f",
+      "headline": "Casos de sarampo em São Paulo geram alerta à rede de saúde da Capital - Prefeitura de Porto Alegre",
+      "headlineTranslated": "Measles cases in São Paulo generate alert to the capital's health network - Porto Alegre City Hall",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T19:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnZMQzY3cWlaeF9rZU4zQWU3RHBZN3o5emFnSDYwOWZoNUh6Yi1LNzBsTzBFNjZXUDZzX2daUXlEc0xMZUNQNmdGRWtZczNReUdCRUMxWllNZFdBcUpkN05nd01aVHhaeVNNQXFiejBmOEdsWWVwUEl6VHZTbmRhVlBOb1dFMDY2anBCRVA2M0gycjl4dURrOVE4SHRGcEVNcndmaHU2YjEtQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Porto Alegre",
+      "headlineJa": "サンパウロでの麻疹患者、首都の医療ネットワークに警告 - ポルトアレグレ市庁舎"
     },
     {
       "articleId": "gnews_0ed9de0863c3f315",
@@ -125,26 +208,6 @@
       "dataSource": "Google News",
       "sourceName": "Terra",
       "headlineJa": "SUS、カシアス・ド・スルで肺炎と髄膜炎に対する新しいワクチンを発売 - Terra"
-    },
-    {
-      "articleId": "gnews_513045b133216369",
-      "headline": "Saúde, mel na merenda escolar e prevenção contra a dengue – Política em Foco - Assembleia Legislativa do Estado de Santa Catarina",
-      "headlineTranslated": "Health, honey in school meals and dengue prevention – Politics in Focus - Legislative Assembly of the State of Santa Catarina",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T15:33:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEh2bHJSS2VlTURHWVEwcGFkV2tRRWJ4ZHd3YWV0TFZlZnN1aUFUNjJBaUw0T3FSRm1PNGV3Q3VqeFJvVUFUOEVjYWtqUWstakJBVzE3WVZ0Rk0zOHpnZkhMMXdleFlDYTdEYUxQMFpvYW5IS0F0VzFqcVNzWlgwNEF2WWwwVFVuSGxGdWlRdVZpTTlwVXlzZWJSTlhacUNTc3NxS2owdkJneUNDaDNieUdSZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Assembleia Legislativa do Estado de Santa Catarina",
-      "headlineJa": "健康、学校給食における蜂蜜、デング熱予防 – 焦点の政治 – サンタカタリーナ州議会"
     },
     {
       "articleId": "gnews_d24c4c9eb8f59303",
@@ -526,66 +589,6 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "SPはさらに2件の麻疹症例を確認。同州では2026年にすでに7件の感染記録がある - G1"
-    },
-    {
-      "articleId": "gnews_6ae567453cdfca93",
-      "headline": "Brazil’s Malaria Pioneer Now Leads WHO’s Tropical Disease Program - Medscape",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T05:02:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDhybHd2Z1BpRkM4RFNQLVFXVmd5NjQxUkJWYTZPMlNyWkkya21BQ1F1aTdOcmQ2R0Fad1ZRSGpyaFhVcHRIeF8xb3FCZEhBYW5kbGRDcjE1RjJCSFJoTEtmQllxeDZpVERqb3NBaWdEV3I4cE1EZGV0Z29GVm1MWE9qM0w1QmFlbHBScE1LMndINVNSSS1lVGUzcFluT0daMEE4OHVFVzk?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Medscape",
-      "headlineJa": "ブラジルのマラリア先駆者がWHOの熱帯病プログラムを主導 - Medscape"
-    },
-    {
-      "articleId": "gnews_4f467acd07cc0c7f",
-      "headline": "Surto de bactéria: Centro Obstétrico do Hospital de Clínicas de Porto Alegre permanece fechado - Rádio Pampa",
-      "headlineTranslated": "Bacteria outbreak: Obstetric Center at Hospital de Clínicas de Porto Alegre remains closed - Rádio Pampa",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T02:31:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXBwdkhlNzR3ZGQxdDFIRmtOVUtTTE5LaWFYckdGWnNPYXNIOEs4b3ItOGFHLU44SVFSNHVyQ01pdUdEY0xWYWJRMGpFaXBWenRyZ3RXMGUxLVdkVDdNVUo0TEtMRk1FUU11T0VlYVFlaXQ3RFM2dG1IcmxGcVVvSlgtTG1HcXJYYWxvcXFYQlA1NXZQQTBpX0l6bFF4N3ZEOTVUekxGSjBtcFVTaHY4VWhfMEhoUGRhQzFxTXBObHJuUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Pampa",
-      "headlineJa": "細菌の発生：ポルト・アレグレ病院の産科センターは閉鎖のまま - ラジオ・パンパ"
-    },
-    {
-      "articleId": "gnews_2a70f79c5c32142c",
-      "headline": "RN segue abaixo da meta de vacinação contra o sarampo - Tribuna do Norte",
-      "headlineTranslated": "RN remains below the measles vaccination target - Tribuna do Norte",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T02:02:27+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdERncGQ2YkpQek82RHY2THU4X0FzMjFUUHkxOTQzekdkRnhfM1IwNjJILW04SGFlTlZkUGRCUXUzQ1MwNms5X0JUVmJ4SUZMWVBiUEdfc1FWXzhHZm1sYWIxTzgtZ2Y1YW9DXzEwcjVON1IyRURFaGhWdjBFQXpnTzNURmZhMl9jVkZmQllWYVVtR3lQajItWE9Udm1rMnBOYjN1djhZcw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Norte",
-      "headlineJa": "RNは麻疹ワクチン接種目標を依然として下回っている - Tribuna do Norte"
     }
   ]
 }
