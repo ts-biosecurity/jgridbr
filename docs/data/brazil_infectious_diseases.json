@@ -1,40 +1,99 @@
 {
-  "generated_at": "2026-07-02T16:43:32.136939+00:00",
+  "generated_at": "2026-07-03T00:50:54.444428+00:00",
   "date_range": {
-    "start": "2026-06-30T16:43:32.136939+00:00",
-    "end": "2026-07-02T16:43:32.136939+00:00"
+    "start": "2026-07-01T00:50:54.444428+00:00",
+    "end": "2026-07-03T00:50:54.444428+00:00"
   },
-  "total_articles": 30,
+  "total_articles": 28,
   "state_summary": {
-    "Brasil (estado não identificado)": 10,
-    "Rio Grande do Sul": 2,
+    "Brasil (estado não identificado)": 14,
+    "Rio Grande do Sul": 3,
+    "São Paulo": 2,
     "Santa Catarina": 1,
-    "Pará": 4,
+    "Pará": 3,
     "Pernambuco": 1,
-    "São Paulo": 4,
     "Espírito Santo": 2,
     "Mato Grosso do Sul": 2,
-    "Goiás": 2,
-    "Piauí": 1,
-    "Mato Grosso": 1,
-    "Rio Grande do Norte": 1
+    "Goiás": 1,
+    "Piauí": 1
   },
   "disease_summary": {
+    "Doença infecciosa (não especificada)": 6,
+    "Measles": 13,
     "Dengue": 7,
     "Meningitis": 1,
-    "Measles": 17,
-    "Doença infecciosa (não especificada)": 4,
     "Malaria": 1
   },
   "articles": [
     {
-      "articleId": "gnews_38e98c28a5c27cc6",
-      "headline": "Vacina contra dengue apresenta aumento em reações alérgicas graves com a Qdenga - noticiasdoplanalto.com.br",
-      "headlineTranslated": "Dengue vaccine shows increase in severe allergic reactions with Qdenga - noticiasdoplanalto.com.br",
+      "articleId": "gnews_4e771499b7b0d1bc",
+      "headline": "Diarista suspeita por morte de casal de idosos em BH relatou surto psicótico, afirma delegado - Folha de S.Paulo",
+      "headlineTranslated": "Diary worker suspected of death of elderly couple in BH reported psychotic break, says delegate - Folha de S.Paulo",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T16:02:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWtfZHVXMHBlemNhMzd5bFExNzVDcWQyTFFwbnlwNy12U1B6dWg2aEk5bFRteDhaRUd2YjhsTGR3RVhZeDh0bktMMExYeHNxSGhDU0RUbmdjeU5WUjRkTUpzYXVobGJ0cFQ0N2pFQTdCMlgzcFdRMFRCZ2NKdGFKekstVUNsdEN0bXRfR2ZrODBvZkdTX0FfWV80dVlNTVNFelpIWThsVTZsdWk2RlFNSjA3dzQ?oc=5",
+      "publishedTimestamp": "2026-07-02T22:03:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWF3cFZTUDFTMVBaWnRPUWVJdDZaY0NOM1NnYlJwY18zbmMtTFhFUUVIcldJY0loQTJMeGVpRDQ3TlFCRUdDOVdZOEVzWS1TTURzekE4NUlOYlI4T0Q3WVNqOWR6M0xXTEdvanRvRGpGZEFTMy0xUS1JRXRJdDM3bm1keWlPTGZaelVPcWJxbWlncDBFU3dZMm1hX1lSN2QyWkpOZlJDOFE1U2RRbGZSNlR4V3RmSzNHaFFrUTZmUVhaLWJESDIxUFpDeG1UQnd4QXpJMTNzVFp5SU9rQnhF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha de S.Paulo",
+      "headlineJa": "BHで老夫婦死亡の疑いがある日記従業員が精神異常を報告、代議員が語る - フォーリャ・デ・サンパウロ"
+    },
+    {
+      "articleId": "gnews_ef6ee5613c573ead",
+      "headline": "Casos de sarampo em São Paulo alertam rede de saúde de Porto Alegre - Sul 21",
+      "headlineTranslated": "Measles cases in São Paulo alert the Porto Alegre health network - South 21",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T21:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlgzUWNvWUMwWDlEZERfOWRVZ05Gbzc1Q3I3bnN4d0RZanVIZDlSQ3YzRGZGaXVrV2lqNjBpYzhDSFlka2hRT3FaemFoLW1vd1R6aUxuaDhkdVR1ZGVlNFd3M00yM2loQ0JYQmZneENCOVVSWmhYV2Juc292dnU1ZmZTZFZGU01HRks0cm9KU2NFT0ZrVHpVM2xqeWpyUnU2WnVNaktYUzNDcGh6VUZ6a3RB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Sul",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Sul 21",
+      "headlineJa": "サンパウロでの麻疹症例、ポルトアレグレ保健ネットワークに警告 - South 21"
+    },
+    {
+      "articleId": "gnews_0ed9de0863c3f315",
+      "headline": "Diarista suspeita de matar casal em BH nega ter planejado o crime e alega ter tido ‘surto psicótico’ - Estadão",
+      "headlineTranslated": "Diary worker suspected of killing a couple in BH denies having planned the crime and claims to have had a ‘psychotic break’ - Estadão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T17:58:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1NqMDkyc1NxWXRrd05ibnJFSTJFZ0IzZW9CenZwZHdURlVOc1RBekxNY1pfUDVjUWdKLU9ZeGlzV0lOUjN0Wk9UbDNvaG56dlRQekQyRk4teUUwTDBxTmJPV2lmNVQzNmlfbXlJQTBEeFVIMGh0bE5LNE5xaUcxc2tscWpfRjZTajNQWV95V1p4VkVjQ21JREl0dG5pMnJIUEZDYmFpV0dQQXdQOENGejd0Ml_SAboBQVVfeXFMT0ZwMzJmdFBoc0pOX2lSR0FGRU8zbFBSQTRjY2tobzZ3ZGxuV1Z1RVQ0SDdMdHFQS200OU5ndTc5YnVEOE5uNWxEYXVxMW5FRHluNG5HRzBNRFlKNEpCNGc3cWlEMzRGVFJFZ3ctclBsOGViVXVXNk52VXVvRWpaZmF6b2xGYlVsOVdjVEhFV2h5bmc5Wk9iSVQzUktkS1BtRmk0MDJJTmp6ZncwNDBCWkZXeDRVdU5lTVhn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão",
+      "headlineJa": "BHで夫婦を殺害した疑いのある日記従業員、犯行計画を否定し「精神異常」だったと主張 - Estadão"
+    },
+    {
+      "articleId": "gnews_43ed830c09852f5f",
+      "headline": "Quatro pessoas já morreram vítimas de dengue em 2026 - Tribuna Online",
+      "headlineTranslated": "Four people have already died from dengue in 2026 - Tribuna Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T17:41:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlFZSjI3M2FlcGhvUndITnV0cGF1YXJVVUoyaW84emRzdFZLVkwyQzlPYXJiaHZxNHpqUEZ3dmhHUHlLeDJlQWJHMzZaeURtRFplNVJkSy1tdmhQWldxWkUwck5HUi1NWk9FRmlFd3hWWWpadzlkX2xhSW45SkNjSDRWVEgyMDZUUERtNkRsbS12ZXZCSGhqMF9EOExPNWRlOEHSAaIBQVVfeXFMTTJRWUoyNzNhZXBob1J3SE51dHBhdWFyVVVKMmlvOHpkc3RWS1ZMMkM5T2FyYmh2cTR6alBGd3ZoR1B5S3gyZUFiRzM2WnlEbURaZTVSZEstbXZoUFpXcVpFMHJOR1ItTVpPRUZpRXd4VllqWnc5ZF9sYUluOUpDY0g0VlRIMjA2VFBEbTZEbG0tdmV2QkhoajBfRDhMTzVkZThB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -44,8 +103,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br",
-      "headlineJa": "デング熱ワクチンは、Qdenga による重篤なアレルギー反応の増加を示しています - noticiasdoplanalto.com.br"
+      "sourceName": "Tribuna Online",
+      "headlineJa": "2026年にはすでに4人がデング熱で死亡 - Tribuna Online"
     },
     {
       "articleId": "gnews_69b9969dd7d7d097",
@@ -73,7 +132,7 @@
       "headlineTranslated": "Health, honey in school meals and dengue prevention – Politics in Focus - Legislative Assembly of the State of Santa Catarina",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T15:32:32+00:00",
+      "publishedTimestamp": "2026-07-02T15:33:45+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEh2bHJSS2VlTURHWVEwcGFkV2tRRWJ4ZHd3YWV0TFZlZnN1aUFUNjJBaUw0T3FSRm1PNGV3Q3VqeFJvVUFUOEVjYWtqUWstakJBVzE3WVZ0Rk0zOHpnZkhMMXdleFlDYTdEYUxQMFpvYW5IS0F0VzFqcVNzWlgwNEF2WWwwVFVuSGxGdWlRdVZpTTlwVXlzZWJSTlhacUNTc3NxS2owdkJneUNDaDNieUdSZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -106,6 +165,46 @@
       "dataSource": "Google News",
       "sourceName": "Estado de Minas",
       "headlineJa": "北米での麻疹の蔓延はワールドカップに参加するブラジル人への警告 - エスタド・デ・ミナス"
+    },
+    {
+      "articleId": "gnews_87a360c48bb0562d",
+      "headline": "Vacina contra dengue: estudo encontra taxa maior de reações alérgicas graves com a Qdenga e sugere aplicá-la apenas em unidades de saúde - O GLOBO",
+      "headlineTranslated": "Dengue vaccine: study finds higher rate of serious allergic reactions with Qdenga and suggests applying it only in healthcare units - O GLOBO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T14:50:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd0JsWTNHYnZDVTVOTjdYVlluZlNsb3VRcHY2Z0k5QU9KSDNOcThTRGhiVEs0SWhIY0hzZ0NHMzBXdUU5V2ZXVllsUV9Md00tRUprS2RNSi1rQTIxc1NXc3pWbTVZYmw1NUpRMlZxeTlJOWlVbGpSNFBCR2FOeVI5ZTNETmJ0V0NnQk5yRVpYMjByMEp1VUdaUXlfRUYwZ2M4T1lld0pWbzF5VXl4eFY0aUFXLUJyTzBMOW9LSXVOaUlQMTRTYU40TEY3LU9TcXRHelFtenVYS0JWemVfSjNBS0NpQmQ3RWxmbkh1MFJrUkZjWExJQXgyZFpsdnI2Qzg5R2pyeW51c2ZLTXNLSUlXN0h6MXFCWWhXczA40gGqAkFVX3lxTE5yVi1sLUhISUNXYlpQTElGS1Fkak9qWTM0ZUR1RzBVZ0pGQXdCdW5Sd09HYWVIYjl3bGl0NkFZaHJKN2ZHRzV5R25md0xHTnBFWnZZanB5NjNtTjNXWmc0LVFEd0VEQ0JKUXlVbTE0WFpQMjBoRVEyWExfRk1ObHFrRmxKNkpWRjUxTnRJMHdCN2Q5ZktYdnBIQUZzOWhMZEtDWlpZdmVhd3FfaTl2Mkw0c1Y1MXB4Z1ZwQ2JIelpYcjhxaXBhbGlJR3RVNFRPUmpxWXlxWnhwOUx3MEJmVHZNZFphOTFVNThBV3hSVmFCSHlkSG11RzRfYzRxeTBuaWtzd2ZmWmhQd3V6WC1vZE5pUEpxTjBUbEhIQ245WU1JZjRpRXBiMEpEZ0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O GLOBO",
+      "headlineJa": "デング熱ワクチン：研究でQdengaの重篤なアレルギー反応の発生率が高いことが判明し、医療施設でのみ適用することを提案 - O GLOBO"
+    },
+    {
+      "articleId": "gnews_f686e5b4fa9e7091",
+      "headline": "Projeto de imunização de Varginha está entre os três melhores do Brasil em congresso internacional - Gazeta De Varginha",
+      "headlineTranslated": "Varginha's immunization project is among the three best in Brazil at an international congress - Gazeta De Varginha",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T13:12:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRHpoS0NMTFktYXp5NzBTX1JuWW5kN1g1WVZJY19RYzYzemJpMEg2VlBkQW84WHk5QUVNY2JKUlIwbDBzcWlzZXEwaFFtbDNReUFiTmFtRXRzMWVMZ0kweGxGcUduTEdQYmZvYnJLY0hfaU52TG1fOGJNYkNXTDhxQUpjSFVXZUdnYVFGNW9jZUJMSUV1LUU3V1FDZHF0MFFPX0I1OWd4OHlUVGd0VHZMQWROOTkxbVNNNXpHbGtUU3UtLXM0UXp4U2Vwc2VwcDlUbUNnY3p2REFVVC16MHpSamZKc0k1d1Y1Rm85dGdpTTU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Gazeta De Varginha",
+      "headlineJa": "バルジーニャの予防接種プロジェクトは、国際会議でブラジルのベスト 3 に入る - Gazeta De Varginha"
     },
     {
       "articleId": "gnews_328340a14e6d92b8",
@@ -205,7 +304,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "R7",
-      "headlineJa": "「撲滅は根絶とは違う」、ブラジルの麻疹について感染症専門家が強調 - R7"
+      "headlineJa": "「撲滅は撲滅とは違う」、ブラジルの麻疹について感染症専門家が強調 - R7"
     },
     {
       "articleId": "gnews_03f16e18862b038b",
@@ -245,7 +344,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Folha Vitória",
-      "headlineJa": "セラで29歳の歯科医が死亡。デング熱が原因の可能性として調査中 - Folha Vitória"
+      "headlineJa": "セラで29歳の歯科医が死亡。デング熱が原因の可能性として調査されている - Folha Vitória"
     },
     {
       "articleId": "gnews_58f925254d085c8f",
@@ -265,7 +364,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ES Hoje",
-      "headlineJa": "エスピリトサント州でのデング熱によるセラの歯科医の死亡は2026年に5人目になる可能性がある - ES Hoje"
+      "headlineJa": "エスピリトサント島でのデング熱によるセラの歯科医の死亡は2026年に5人目になる可能性がある - ES Hoje"
     },
     {
       "articleId": "gnews_4802ff33691a153d",
@@ -345,7 +444,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
-      "headlineJa": "SP、麻疹の新たな感染者3名を確認、州の記録は2026年に7件に達 - Radio Itatiaia"
+      "headlineJa": "SP、麻疹の新たな感染者3名を確認、州の記録は2026年に7件に達 - Radio Itatiiaia"
     },
     {
       "articleId": "gnews_23984087571c808f",
@@ -486,147 +585,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Norte",
-      "headlineJa": "RNは麻疹ワクチン接種目標を下回ったまま - Tribuna do Norte"
-    },
-    {
-      "articleId": "gnews_673426606a3b235b",
-      "headline": "Ministério da Saúde reforça vacinação contra sarampo após casos em crianças - O Mato Grosso",
-      "headlineTranslated": "Ministry of Health reinforces measles vaccination after cases in children - O Mato Grosso",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T00:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RlMnJLZ21RYTQzM3F2MmRUOGhOa2NFRnJudWN2ZmJMcDlHNEV4RHNDX2FKdVRyZUpBcHUyeU9fLXhHaUEzQVZBSUloS21ob09RS2x2c1dsWHAwQXlHbHpEUTFLNGI5c21KNTBVX2R5QW5Zbnhvc2ZLNkZLZGMwYy1XWHFuZ1ZXWkhvNm5taUdVYUlmNl9qN0JrcnVkT0N3VHc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Mato Grosso",
-      "headlineJa": "保健省、麻疹の小児感染を受けワクチン接種を強化 - オ・マット・グロッソ"
-    },
-    {
-      "articleId": "gnews_b99d693658b074c5",
-      "headline": "São Paulo já soma 7 casos de sarampo neste ano - Marechal News",
-      "headlineTranslated": "São Paulo already has 7 cases of measles this year - Marechal News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T00:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOElIVjJrNW1WdVF2ckRvVW02bk95aS1nekc0a3ZPVjVxRDdqb1FyQVF0VEJHbEd2bUNBN3E0LVJRWFpTS011OGk4cTFGS1hUX2tjRXFLWXRtb1hyZEJia0FFMVBsUVJnbnlJTjZnbjQ1eFJwRnlDa0tpclFseUowaHRibjFFaDBiS005Tk03WkhIeVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Marechal News",
-      "headlineJa": "サンパウロでは今年すでに7件の麻疹患者が発生している - マレシャルニュース"
-    },
-    {
-      "articleId": "gnews_fb50ccd93cf50e89",
-      "headline": "São Paulo já soma 7 casos de sarampo neste ano - Guarulhos em Destaque",
-      "headlineTranslated": "São Paulo already has 7 cases of measles this year - Guarulhos in Highlight",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T23:20:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3NTTUxxRzVhWkRSLVZwSEFPdWNDSllULTA0blFYSENLZnkwM1RUcW4waS1QZ2U2ZFhUc2owTGQxV0lRWWhCUWdJeUE4c3RJdjRVWGlmaTNMVHFjdFBXMFozeFEzRWNvNTVTVldzV1NPRnZUNjVMLU5ZajUzeTJJMWJuaFhoTVRwWnpUZGwzSkdaLU16YV83LQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Guarulhos em Destaque",
-      "headlineJa": "サンパウロでは今年すでに7件の麻疹患者が出ている－グアルーリョスがハイライト"
-    },
-    {
-      "articleId": "gnews_9352fcf41c2c33b7",
-      "headline": "Goiás registra alta de 8,9% nos casos de dengue no primeiro semestre de 2026 - Diário da Manhã",
-      "headlineTranslated": "Goiás records an 8.9% increase in dengue cases in the first half of 2026 - Diário da Manhã",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T22:33:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFd1MXFuRFFTdjRKQ29DMGN2eFpPd2NKRmVSSE5LWml1c1ZBbnZRRjk2VnNzdDNJNzV3WXF5b244Z25BM2VmMy00ZlZoTGdSVk1oc3Brb28xbGpOYVlZdW1kdmxLOEY2ak9uYUpBTnVvZS04eGFjaE41RzhrVldLNk5zQ3FyZS1kNzZJU2lhZWRKNl8tWjNyb2xIcjBxVklqcFRoRHVKTERRUUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário da Manhã",
-      "headlineJa": "ゴイアス州、2026年上半期のデング熱症例数は8.9%増加を記録 - ディアリオ・ダ・マンニャ"
-    },
-    {
-      "articleId": "gnews_0dfa29aaceafebbc",
-      "headline": "Sarampo: mais dois casos são confirmados em São Paulo e vacinação é intensificada - VEJA",
-      "headlineTranslated": "Measles: two more cases are confirmed in São Paulo and vaccination is intensified - SEE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T22:10:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2VXSTRDeVFwclBKcTlLRExfUUNRSy12QmE0YWxiZnZ4MDBHRDV2M2kwYlRnWm1CTkUzak9tTXdGNDcybW5KSWdWSUYtcERvcmpfRHVWWkVQRnFCYkl3RzdKTDNJN0NUeVQ0cWhnakZtb2JWaXROOU16SEd1ejJSMV9PUnYxRmozOXFzYWotaWx6SW1QaUlGeVhDcUtrTkw2STlmUk5TNVlHRExzdDJDTHctOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "VEJA",
-      "headlineJa": "麻疹：サンパウロでさらに2人の感染者が確認され、ワクチン接種が強化されている - SEE"
-    },
-    {
-      "articleId": "gnews_2e77810cf111e2dd",
-      "headline": "Surto de bactéria em UTI neonatal fecha centro obstétrico de hospital no RS - Rádio Itatiaia",
-      "headlineTranslated": "Bacteria outbreak in neonatal ICU closes hospital obstetric center in RS - Rádio Itatiaia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T19:44:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT282dDVkbjBYVUhGUTlYRG1BRkdIV2ZXalJfVXlaTkFrZ0xQODlHRnNLODBTbGlzSkhpYWtkdkVzWnZLbXZvS3pUUTZUOFlCUUp4Ykd3b1dJWWlzZGQ4YmdTX3hfRERNeS15a0ZUOFY4OFhnN2g0QllUTUlxS1ZHWnQ0bkFLQ3Rocl9NbWFQSUEwblczMEozVG84MGRaeXFlaTkzcjBKOW93MHR6N1dQdE5mUlRnUkI3MVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Norte"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "新生児集中治療室で細菌が発生、RSの病院産科センターを閉鎖 - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_45db2e75959967fc",
-      "headline": "Após casos de sarampo, Ministério da Saúde recomenda vacinar bebês - Paralelo 29",
-      "headlineTranslated": "After cases of measles, Ministry of Health recommends vaccinating babies - Paralelo 29",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-06-30T17:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGI2ejF5RHFSMVUxN21wWGtmSFdWelZiQk5XQWp1QUFUNkhZMzZzNk1iTzVEWTVfX1hNb3Z2bXFPSHRqT0ZwYlZjdTBFX3JPTnBnelBJY1hobDluQ3NzZnFTaHVRMUZLR1BkQ0Z4dnNGUnZZai1STGdQM2dXS3BBN29WeGRzdXJ1THBfMjJoMGVqSFhxS3B5U0RSd3lBMFJlRTA3MFNR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Paralelo 29",
-      "headlineJa": "麻疹の発生を受け、保健省が乳児へのワクチン接種を推奨 - Paralelo 29"
+      "headlineJa": "RNは麻疹ワクチン接種目標を依然として下回っている - Tribuna do Norte"
     }
   ]
 }
