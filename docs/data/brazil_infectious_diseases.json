@@ -1,27 +1,48 @@
 {
-  "generated_at": "2026-07-03T16:38:21.092305+00:00",
+  "generated_at": "2026-07-04T00:49:12.299630+00:00",
   "date_range": {
-    "start": "2026-07-01T16:38:21.092305+00:00",
-    "end": "2026-07-03T16:38:21.092305+00:00"
+    "start": "2026-07-02T00:49:12.299630+00:00",
+    "end": "2026-07-04T00:49:12.299630+00:00"
   },
-  "total_articles": 21,
+  "total_articles": 18,
   "state_summary": {
-    "Espírito Santo": 3,
-    "Rio Grande do Sul": 5,
-    "Brasil (estado não identificado)": 10,
     "São Paulo": 3,
+    "Rio Grande do Sul": 5,
+    "Espírito Santo": 1,
+    "Brasil (estado não identificado)": 9,
     "Santa Catarina": 1,
     "Pernambuco": 1
   },
   "disease_summary": {
-    "Dengue": 7,
-    "Doença infecciosa (não especificada)": 7,
-    "Avian Influenza": 1,
+    "Measles": 3,
+    "Dengue": 5,
+    "Doença infecciosa (não especificada)": 8,
     "Influenza": 1,
-    "Measles": 5,
+    "Avian Influenza": 1,
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_e8132893095dbfac",
+      "headline": "Casos de sarampo em São Paulo geram alerta em Porto Alegre - Agora RS",
+      "headlineTranslated": "Measles cases in São Paulo generate alert in Porto Alegre - Agora RS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-03T18:32:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jUGRXeXRwZjJYbHZsZFdRczc5c01Ga3oxdl9LNy1Bak1rWC1lQ2VISUdicWJuRDFHSUJnay1jRG8tM1pkNG11cW1lMHllenowUzBpUmpJeER0Sk5IQmFuQW9MUXBaS25qY1pPbnBaR19lcGxmZ2o2dlc0cw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agora RS",
+      "headlineJa": "サンパウロの麻疹患者がポルトアレグレで警報を発令 - Agora RS"
+    },
     {
       "articleId": "gnews_ec51f82b910061a3",
       "headline": "Espírito Santo confirma quatro mortes por dengue; uma delas ocorreu em Baixo Guandu - folha do es",
@@ -92,8 +113,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmV0LXR4Z015ckFwUk9hSkZhY3FPM1R0WFZ5bDBwZWRRNndtc3A2QUtnSEZvZFN5TWxZRkxZZnZHV0g2alVfajJhZFJXUnpqZjdnMWxualhRRUZyQllFdmpid0ctNnhYbFdZYlJUMmZKc2tzcjduUFRNOS1Sb0RISzRIc25qOVViNnBRMm1IU2VSamJPa3ZwaXJ0UndtMS0ydGdz?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -185,27 +206,6 @@
       "headlineJa": "BHで老夫婦刺殺の容疑者、「声」を聞いたと語る - CNNブラジル"
     },
     {
-      "articleId": "gnews_5c8efb8bb2c3ae4f",
-      "headline": "Casos de sarampo em São Paulo geram alerta à rede de saúde da Capital - Prefeitura de Porto Alegre",
-      "headlineTranslated": "Measles cases in São Paulo generate alert to the capital's health network - Porto Alegre City Hall",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T19:06:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnZMQzY3cWlaeF9rZU4zQWU3RHBZN3o5emFnSDYwOWZoNUh6Yi1LNzBsTzBFNjZXUDZzX2daUXlEc0xMZUNQNmdGRWtZczNReUdCRUMxWllNZFdBcUpkN05nd01aVHhaeVNNQXFiejBmOEdsWWVwUEl6VHZTbmRhVlBOb1dFMDY2anBCRVA2M0gycjl4dURrOVE4SHRGcEVNcndmaHU2YjEtQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Prefeitura de Porto Alegre",
-      "headlineJa": "サンパウロでの麻疹患者、首都の医療ネットワークに警告 - ポルトアレグレ市庁舎"
-    },
-    {
       "articleId": "gnews_0ed9de0863c3f315",
       "headline": "Diarista suspeita de matar casal em BH nega ter planejado o crime e alega ter tido ‘surto psicótico’ - Estadão",
       "headlineTranslated": "Diary worker suspected of killing a couple in BH denies having planned the crime and claims to have had a ‘psychotic break’ - Estadão",
@@ -286,6 +286,26 @@
       "headlineJa": "デング熱ワクチン：研究でQdengaの重篤なアレルギー反応の発生率が高いことが判明し、医療施設でのみ適用することを提案 - O GLOBO"
     },
     {
+      "articleId": "gnews_c6545a7df893fc3f",
+      "headline": "Projeto de imunização de Varginha está entre os três melhores do Brasil em congresso internacional - Jornal Gazeta de Varginha",
+      "headlineTranslated": "Varginha's immunization project is among the three best in Brazil at an international congress - Jornal Gazeta de Varginha",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T13:12:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRHpoS0NMTFktYXp5NzBTX1JuWW5kN1g1WVZJY19RYzYzemJpMEg2VlBkQW84WHk5QUVNY2JKUlIwbDBzcWlzZXEwaFFtbDNReUFiTmFtRXRzMWVMZ0kweGxGcUduTEdQYmZvYnJLY0hfaU52TG1fOGJNYkNXTDhxQUpjSFVXZUdnYVFGNW9jZUJMSUV1LUU3V1FDZHF0MFFPX0I1OWd4OHlUVGd0VHZMQWROOTkxbVNNNXpHbGtUU3UtLXM0UXp4U2Vwc2VwcDlUbUNnY3p2REFVVC16MHpSamZKc0k1d1Y1Rm85dGdpTTU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Gazeta de Varginha",
+      "headlineJa": "バルジーニャの予防接種プロジェクトは、国際会議でブラジルのベスト 3 に入る - Jornal Gazeta de Varginha"
+    },
+    {
       "articleId": "gnews_328340a14e6d92b8",
       "headline": "Em surto, homem invade hospital e diz que é Cavaleiro do Zodíaco - Metrópoles",
       "headlineTranslated": "In outbreak, man invades hospital and says he is Knight of the Zodiac - Metropolis",
@@ -364,86 +384,6 @@
       "dataSource": "Google News",
       "sourceName": "Brasil 61",
       "headlineJa": "サンパウロ、小児の感染者確認後、5,000回以上の麻疹ワクチンを接種 - ブラジル61"
-    },
-    {
-      "articleId": "gnews_c505dc82a2bb4296",
-      "headline": "‘Eliminação é diferente de erradicação’, reforça infectologista sobre sarampo no Brasil - R7",
-      "headlineTranslated": "‘Elimination is different from eradication’, reinforces infectious disease specialist about measles in Brazil - R7",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T21:50:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVJSMHlOLTJIZ0lFNGt3eWNSQWphR21oemU5d2lGY3hUOGJ4U3dNY1VMS3dLVWRmV01NYXlUdGl3M3FYdjNySzU3clhXQ1FvdnRKa0dzTzQyYTRGWHFlR3N3LW5iMWp5T3M3SkZudG5jVFd4cmQ1eThtTHlqdElsd2hNNlZCb0RMS3FNUGxXVmd6V1FQR2lGeHgwcFFBWDF3N0k2TUZsNmwxY0x2c21aMVVYdHA5MWdOemJUUm9QX1M4QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "R7",
-      "headlineJa": "「撲滅は撲滅とは違う」、ブラジルの麻疹について感染症専門家が強調 - R7"
-    },
-    {
-      "articleId": "gnews_03f16e18862b038b",
-      "headline": "Registros de casos alertam gestores sobre vacinação contra o sarampo - AMM | Associação Mineira de Municípios",
-      "headlineTranslated": "Case records alert managers about measles vaccination - AMM | Minas Gerais Association of Municipalities",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T20:44:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3JzSWltZktIekhRc3VQMEM5RG83clUxNi1SQmVaY3hqRkZ0Ui1SZnFHWEhuWEVlUUowOTdCTWc2eHVMam5BSXlIWWhBUlhXX0JzSnRDUm9aQlp3bkk3bVpqVktJS3BEY0JzVE8xTEZCT0JoT0lfX2JnMFg3RENWUFdmakpKR2dXT3pQV21JZndIVkpBZGRRbndxYVdHcDNxTEItRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "AMM | Associação Mineira de Municípios",
-      "headlineJa": "症例記録は麻疹ワクチン接種について管理者に警告 - AMM |ミナスジェライス州地方自治体協会"
-    },
-    {
-      "articleId": "gnews_ef2f3a52c33f7c82",
-      "headline": "Dentista de 29 anos morre na Serra; dengue é investigada como possível causa - Folha Vitória",
-      "headlineTranslated": "29-year-old dentist dies in Serra; dengue is investigated as a possible cause - Folha Vitória",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T19:22:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnNhU1o5ZXkwdHg0dUxYZklEUEdBS3dheVlPMFpnNjg0VllTdlE4dmtBVDIyYzBYMUtmTmQ3Wl9KN3ZDYV9TMFhVMDV2N1k5U082NmU3aEZ0bzNqTFZGWEs3MFl2bkhIU1o3ek5xMUpWTk5pOWdhWnRzNWFHMlFxbFNzWUZzclFrd19ra01vbjhGYi1fUzhUb1k2S0NKRWxXeWVMT1FVTXNNdGNhbjRSOGJhc1I?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha Vitória",
-      "headlineJa": "セラで29歳の歯科医が死亡。デング熱が原因の可能性として調査されている - Folha Vitória"
-    },
-    {
-      "articleId": "gnews_58f925254d085c8f",
-      "headline": "Morte de dentista na Serra pode ser a quinta por dengue no Espírito Santo em 2026 - ES Hoje",
-      "headlineTranslated": "Dentist's death in Serra could be the fifth due to dengue in Espírito Santo in 2026 - ES Hoje",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-01T18:08:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjdjdFVtS3JNV1g4VTV6aUVsTkhRcW9oRGNJekRGZXp2MlVSWU1HM2lURzBHYm9XUldCX003SUQ0TUJONEpIdFBYNkRLM2VqOUpfUjFEb3hUMEhnMlZMME84ZVFpX2U1Wm1PekdXeW1kMGN1RG85aUFjSy1aNFVTci10NU03RFBMMkpkVUVFamZBakZ1aGIxYUN0LVhsQVRrRTNPRHJzWm50NTBybnJtZkxoN2xaWHVFVFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ES Hoje",
-      "headlineJa": "エスピリトサント島でのデング熱によるセラの歯科医の死亡は2026年に5人目になる可能性がある - ES Hoje"
     }
   ]
 }
