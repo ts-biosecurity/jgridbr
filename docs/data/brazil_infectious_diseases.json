@@ -1,27 +1,69 @@
 {
-  "generated_at": "2026-07-04T00:49:12.299630+00:00",
+  "generated_at": "2026-07-04T08:57:47.349192+00:00",
   "date_range": {
-    "start": "2026-07-02T00:49:12.299630+00:00",
-    "end": "2026-07-04T00:49:12.299630+00:00"
+    "start": "2026-07-02T08:57:47.349192+00:00",
+    "end": "2026-07-04T08:57:47.349192+00:00"
   },
-  "total_articles": 18,
+  "total_articles": 20,
   "state_summary": {
-    "São Paulo": 3,
+    "Brasil (estado não identificado)": 10,
+    "São Paulo": 2,
     "Rio Grande do Sul": 5,
+    "Pará": 2,
     "Espírito Santo": 1,
-    "Brasil (estado não identificado)": 9,
     "Santa Catarina": 1,
     "Pernambuco": 1
   },
   "disease_summary": {
-    "Measles": 3,
-    "Dengue": 5,
+    "Measles": 4,
+    "Dengue": 6,
+    "Chikungunya": 1,
     "Doença infecciosa (não especificada)": 8,
-    "Influenza": 1,
     "Avian Influenza": 1,
+    "Influenza": 1,
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_edb37f52085de587",
+      "headline": "Casos de sarampo reforçam a importância da vacinação em todas as fases da vida - Jornal Impresso Brasil",
+      "headlineTranslated": "Measles cases reinforce the importance of vaccination at all stages of life - Jornal Impresso Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-04T00:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmZyLXRNUmdDeExTcXlXY0o4NWVrYTRnX0hPWVRDdl9FY2UzOVBOcEF5UzVQc0pIWE5WWlRCdnQzQ3hCc3M5bG1BT1BUWVZhOEZyVlo2N2NNT0ctSW1ac3hBV2ZlOTNkMHhaQ3dXQmtHWEVEcEh5RlZTRjRvdDgtaGRvUXBXdmdKVjVhQUVDQ1FVQktybklZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Impresso Brasil",
+      "headlineJa": "麻疹の症例は、人生のあらゆる段階におけるワクチン接種の重要性を改めて示しています - Jornal Impresso Brasil"
+    },
+    {
+      "articleId": "gnews_0e513fbed086712c",
+      "headline": "Criança morre na Serra e caso é investigado por suspeita de dengue - folha do es",
+      "headlineTranslated": "Child dies in Serra and case is investigated on suspicion of dengue - Folha do ES",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-03T20:33:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1UXJRaEk0UmpBUE95T3dndnRJcC12YjFia3k5M015WVFLWjJSWmlnbjdSSldmUVJVMmpmV2xycjkwRGkweTg0d2ZQenJWcXZJUnJ4UU00akgydXNrMjZ0LUR6ZTczOFYtcUE5NFlKVTBXMmRjWGt3eFhRbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "folha do es",
+      "headlineJa": "セラで子供が死亡、デング熱の疑いで捜査中 - Folha do ES"
+    },
     {
       "articleId": "gnews_e8132893095dbfac",
       "headline": "Casos de sarampo em São Paulo geram alerta em Porto Alegre - Agora RS",
@@ -42,6 +84,27 @@
       "dataSource": "Google News",
       "sourceName": "Agora RS",
       "headlineJa": "サンパウロの麻疹患者がポルトアレグレで警報を発令 - Agora RS"
+    },
+    {
+      "articleId": "gnews_50c89383dab3fad1",
+      "headline": "Estudo desenvolve modelos para aprimorar a previsão de epidemias de dengue e chikungunya no Brasil - Fundação Getulio Vargas",
+      "headlineTranslated": "Study develops models to improve prediction of dengue and chikungunya epidemics in Brazil - Fundação Getulio Vargas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-03T12:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1hxY2JEbExsTlpqVHpXeTc5azdWX2d3WTlQVnZXZzVic0xma2gxaDRka1ZQeFVJMXE5VzBKWjVxMnZyWXhfalUydzdPQlAxSEtRbHJiczF2OTg2MlNDX292cHpKQUF2Q182UndNbTlQdnd1NlRGdGxVWm9aTDRPNlg4bW9Bc3dWdWowZmxxbllZeFR2MnRvZ2dDckZiUWF3QnFSbVFDWExLTHRJcmJyMERqWnBES01B?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fundação Getulio Vargas",
+      "headlineJa": "ブラジルにおけるデング熱とチクングニア熱の流行予測を改善するためのモデルを研究が開発 - Fundação Getulio Vargas"
     },
     {
       "articleId": "gnews_ec51f82b910061a3",
@@ -113,8 +176,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmV0LXR4Z015ckFwUk9hSkZhY3FPM1R0WFZ5bDBwZWRRNndtc3A2QUtnSEZvZFN5TWxZRkxZZnZHV0g2alVfajJhZFJXUnpqZjdnMWxualhRRUZyQllFdmpid0ctNnhYbFdZYlJUMmZKc2tzcjduUFRNOS1Sb0RISzRIc25qOVViNnBRMm1IU2VSamJPa3ZwaXJ0UndtMS0ydGdz?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -226,26 +289,6 @@
       "headlineJa": "BHで夫婦を殺害した疑いのある日記従業員は犯行計画を否定し、「精神異常」だったと主張 - Estadão"
     },
     {
-      "articleId": "gnews_43ed830c09852f5f",
-      "headline": "Quatro pessoas já morreram vítimas de dengue em 2026 - Tribuna Online",
-      "headlineTranslated": "Four people have already died from dengue in 2026 - Tribuna Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T17:41:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlFZSjI3M2FlcGhvUndITnV0cGF1YXJVVUoyaW84emRzdFZLVkwyQzlPYXJiaHZxNHpqUEZ3dmhHUHlLeDJlQWJHMzZaeURtRFplNVJkSy1tdmhQWldxWkUwck5HUi1NWk9FRmlFd3hWWWpadzlkX2xhSW45SkNjSDRWVEgyMDZUUERtNkRsbS12ZXZCSGhqMF9EOExPNWRlOEHSAaIBQVVfeXFMTTJRWUoyNzNhZXBob1J3SE51dHBhdWFyVVVKMmlvOHpkc3RWS1ZMMkM5T2FyYmh2cTR6alBGd3ZoR1B5S3gyZUFiRzM2WnlEbURaZTVSZEstbXZoUFpXcVpFMHJOR1ItTVpPRUZpRXd4VllqWnc5ZF9sYUluOUpDY0g0VlRIMjA2VFBEbTZEbG0tdmV2QkhoajBfRDhMTzVkZThB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Online",
-      "headlineJa": "2026年にはすでに4人がデング熱で死亡 - Tribuna Online"
-    },
-    {
       "articleId": "gnews_69b9969dd7d7d097",
       "headline": "SUS libera nova vacina contra pneumonia e meningite em Caxias do Sul - Terra",
       "headlineTranslated": "SUS releases new vaccine against pneumonia and meningitis in Caxias do Sul - Terra",
@@ -264,6 +307,26 @@
       "dataSource": "Google News",
       "sourceName": "Terra",
       "headlineJa": "SUS、カシアス・ド・スルで肺炎と髄膜炎に対する新しいワクチンを発売 - Terra"
+    },
+    {
+      "articleId": "gnews_d24c4c9eb8f59303",
+      "headline": "Avanço do sarampo na América do Norte é alerta para brasileiros no Mundial - Estado de Minas",
+      "headlineTranslated": "Advancement of measles in North America is a warning for Brazilians at the World Cup - Estado de Minas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-02T15:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNk92aDFjRDNCRTgwSVRudDZQb25aanlqbVZON1ZTemhQMTRzY1RLSE1pUEVPTDJwdE9YZVNaLUJYRXZIZEQ4RWVZalU0bjFJbGtzSDlqbzlTdHZkWmJ0ZnNQX2FvOGRIcEdpcU53ZlZSMFRXbWxhTE82dWNOTTZiSUxoMDIwQ0lzYVpBV0V1LWRlYjJHLU5ZUHUtREJFYzI4bkZCaHFrdnprdmhkRS1mRUFKRHFhZjZmSGZuWUZUOWJiWUxvWGfSAcsBQVVfeXFMT2ZrWXlTWDBWbVhXTmw4c2hPMUNlVVBQb1BuMVh0THB6dGtWU2o4NlVSZ1MtT3gtQVdrNWVRNkQtc0dCRmNTb0pwbk9kWWgyZnZNZ0luTEd4QmlGYkpjMHlla2tUTDljcWFndDhrSUg2a08yTW4xRl94ZUNFSnBlbTFnZk5la3J3LXhseDBTeHM3cEN6T2JiRThGQXZnc2lGN3Z0d0ZpdThrbWszM2hXT3ltUDZZMHpYQ1RvTW9CUzNicllfMkRPOFF6Yk0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado de Minas",
+      "headlineJa": "北米での麻疹の蔓延はワールドカップに参加するブラジル人への警告 - エスタド・デ・ミナス"
     },
     {
       "articleId": "gnews_87a360c48bb0562d",
@@ -364,26 +427,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Cultura do Nordeste",
       "headlineJa": "ペルナンブコ州で5000人以上のデング熱感染者が確認 - Radio Cultura do Nordeste"
-    },
-    {
-      "articleId": "gnews_9bd8ec95b311dec4",
-      "headline": "São Paulo aplica mais de 5 mil doses de vacina contra o sarampo após confirmação de casos em crianças - Brasil 61",
-      "headlineTranslated": "São Paulo applies more than 5 thousand doses of measles vaccine after confirming cases in children - Brazil 61",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-02T07:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUl6SmZkVmxVN1p1SkZ2NThCZml5ZW9GZUpYcHNQVkNYYTN5MEMtU2NSUjd0cV9KU3l1ZW13ZHRibnVMZjJtemFmQmtBQ0RUdHFOWnN3MDk1WGhfOGF4U1pmT1pfd29OOWJWSEp1a0x6VHRHR294S09sVVIzOGVBN0hJMVJJc2lLMFcwMUFfQS05ZGcxMlo0ZFd6YXc5akRsS3hBOFhWdDhsTFRlZzNFb0NBTF9rNUJvdG9wZUJJb2dhd0Q1QW44bnNqY3BsTGhHTmfSAdcBQVVfeXFMT0UzT0tDNWhPNTh3NnlBZFFpbUx4RzFQUnBJZm5uajFMc3g1LV9hQVVzOXY0N0ltVmRUYnkwWFk1SzdIc3RydGRwMWJ0ejF4RmU2OUh5WGVEVExibUFfY3pQNVA5TDBOT2hGTGNaeXRFTHMwbUI2WnFaUTI3NEpLeVRvVnR6Sm0tcHZMTmI1Zjl5MmpJaWNHTW54V21lVnFZOU1kb1BjNjB5STB4TlJPbjJoZ0hHOGtWRXNTV0dHUE85UnZrMVpSbVFCZkZ3eTVFZ0pEclBQRTA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Brasil 61",
-      "headlineJa": "サンパウロ、小児の感染者確認後、5,000回以上の麻疹ワクチンを接種 - ブラジル61"
     }
   ]
 }
