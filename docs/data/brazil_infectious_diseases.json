@@ -1,27 +1,65 @@
 {
-  "generated_at": "2026-07-05T09:05:59.847195+00:00",
+  "generated_at": "2026-07-05T16:29:49.116893+00:00",
   "date_range": {
-    "start": "2026-07-03T09:05:59.847195+00:00",
-    "end": "2026-07-05T09:05:59.847195+00:00"
+    "start": "2026-07-03T16:29:49.116893+00:00",
+    "end": "2026-07-05T16:29:49.116893+00:00"
   },
-  "total_articles": 11,
+  "total_articles": 9,
   "state_summary": {
-    "Brasil (estado não identificado)": 6,
-    "Rio Grande do Sul": 3,
-    "São Paulo": 1,
-    "Pará": 1,
-    "Espírito Santo": 1
+    "Brasil (estado não identificado)": 7,
+    "Amazonas": 1,
+    "Rio Grande do Sul": 1,
+    "São Paulo": 1
   },
   "disease_summary": {
-    "Avian Influenza": 2,
-    "Influenza": 2,
+    "Avian Influenza": 3,
+    "Influenza": 3,
+    "Dengue": 2,
     "Measles": 3,
-    "South American Hemorrhagic Fever": 1,
-    "Dengue": 3,
-    "Chikungunya": 1,
-    "Doença infecciosa (não especificada)": 2
+    "South American Hemorrhagic Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_693a5ef5f3a128a4",
+      "headline": "Cientistas descobrem por que gripe aviária H5N1 se espalhou em vacas - Exame",
+      "headlineTranslated": "Scientists discover why H5N1 bird flu spread in cows - Exame",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-05T09:50:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFE5b1VxdHh6STBjdjNhdmJucHRVRzNQMk5BSnk0ZVhHNG96ZjA4Q3lURC1QS0NYVXcwV0N2RmJQbXc3YXQ3WWtDV3dxZi1KWU84bzFReTVUcl90aTdrOVF2bWZhTU1uUlE4eVpWZG9rWjdFQjdSRVdLR3JXV1RKMFdWQ3R2cVVfenNaR0xrcENGR1VJLWxyN3oxZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Exame",
+      "headlineJa": "H5N1型鳥インフルエンザが牛に蔓延した理由を科学者が発見 - 試験"
+    },
+    {
+      "articleId": "gnews_9d479ffc621e1787",
+      "headline": "Apenas 23% dos adolescentes no Amazonas receberam a segunda dose da vacina contra a dengue - CBN Amazônia",
+      "headlineTranslated": "Only 23% of teenagers in Amazonas received the second dose of the dengue vaccine - CBN Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-04T18:30:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzgyWmt1cEpJV2Q0U2lFbUNYZGFoT3d1LVIyLXZIcW5NbllCdms2NE1vdGVPUWRHc3N1dFN3TUNHX25IMHpyT2NHLS02R2t2LXoyZU1mOE1mU3FqcUdGZDhWRnMyeTNiNFIxbkthQUZ0Z21LbjZxa2dDSXNLNnNPT2ZmNm1iODI0QXBVLUsxbmJHaWpDekZ6LUtSTS1lYWNfc0cyVi1sbFhEc2Z2bmZRNThLc2FXeU8zeDJRTA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Amazônia",
+      "headlineJa": "アマゾナス州の10代の若者の23％のみが2回目のデング熱ワクチン接種を受けた - CBN Amazônia"
+    },
     {
       "articleId": "gnews_3a1a47bf1873d44b",
       "headline": "Língua eletrônica detecta gripe aviária em seis minutos com 99% de precisão - boca.com.br",
@@ -41,7 +79,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "boca.com.br",
-      "headlineJa": "電子舌は鳥インフルエンザを 99% の精度で 6 分で検出 -mouth.com.br"
+      "headlineJa": "電子舌は鳥インフルエンザを 6 分で 99% の精度で検出 -mouth.com.br"
     },
     {
       "articleId": "gnews_3076eaf644cbf540",
@@ -82,7 +120,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tua Saúde",
-      "headlineJa": "ワールドカップ前の麻疹：なぜ旅行者の増加によりブラジルでワクチン接種が再燃したのか - Tua Saúde"
+      "headlineJa": "ワールドカップ前の麻疹：なぜ旅行者の増加がブラジルでワクチン接種を再燃させたのか - Tua Saúde"
     },
     {
       "articleId": "gnews_bc3f70afab38bce8",
@@ -164,87 +202,6 @@
       "dataSource": "Google News",
       "sourceName": "Agora RS",
       "headlineJa": "サンパウロの麻疹患者がポルトアレグレで警報を発令 - Agora RS"
-    },
-    {
-      "articleId": "gnews_50c89383dab3fad1",
-      "headline": "Estudo desenvolve modelos para aprimorar a previsão de epidemias de dengue e chikungunya no Brasil - Fundação Getulio Vargas",
-      "headlineTranslated": "Study develops models to improve prediction of dengue and chikungunya epidemics in Brazil - Fundação Getulio Vargas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1hxY2JEbExsTlpqVHpXeTc5azdWX2d3WTlQVnZXZzVic0xma2gxaDRka1ZQeFVJMXE5VzBKWjVxMnZyWXhfalUydzdPQlAxSEtRbHJiczF2OTg2MlNDX292cHpKQUF2Q182UndNbTlQdnd1NlRGdGxVWm9aTDRPNlg4bW9Bc3dWdWowZmxxbllZeFR2MnRvZ2dDckZiUWF3QnFSbVFDWExLTHRJcmJyMERqWnBES01B?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Fundação Getulio Vargas",
-      "headlineJa": "ブラジルにおけるデング熱とチクングニア熱の流行予測を改善するためのモデルを研究が開発 - Fundação Getulio Vargas"
-    },
-    {
-      "articleId": "gnews_ec51f82b910061a3",
-      "headline": "Espírito Santo confirma quatro mortes por dengue; uma delas ocorreu em Baixo Guandu - folha do es",
-      "headlineTranslated": "Espírito Santo confirms four deaths from dengue; one of them occurred in Baixo Guandu - Folha do ES",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T11:51:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmdGbU9qRGEyQlh5c1ZDeGhZaHRISDFsSXFnMTJvWkxfVDh3V2RUU0xvV2ZJbTdzc0dweWFjZ1BHQldTaHh1dThtcHVYdkRGeERwNFQweW9XNENlRUt5NFYyUjNlY2JjNzBkM1NRc0lTZTIwUlA4aWhhVmRBN0NRSlM0N0tSVFBEVlhEbQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "folha do es",
-      "headlineJa": "エスピリトサント州はデング熱による4人の死亡を確認。そのうちの1つはバイショ・グアンドゥで発生しました - Folha do ES"
-    },
-    {
-      "articleId": "gnews_c11f2eb6d887dd39",
-      "headline": "Após surto de bactéria, Hospital de Clínicas de Porto Alegre reabre Centro Obstétrico - G1",
-      "headlineTranslated": "After bacterial outbreak, Hospital de Clínicas de Porto Alegre reopens Obstetric Center - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T11:25:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdE9zVHpFNGVZTjNfcGFHS3JtUVV2TURzMkNBZExCNUhMVWw0LUxubEpKUEdCcW1XRmc4ZUhrZUZYTzluVWU0UGg3NUpGQ2hiNlpWLTZiSVVwZlR2blNMZ0tPV3c0RzRWU3owcXM0Uk5iWkc3SEpoaHE1enNJZHBIdE1EOWgtZFpwOEszaml1WVdaVEtIUHpHVmJMSzR3VFRranFKV3ZpQ25DMndFeGNDdXNIbmdMRk1mbXJUb1FqTFNkV19zNVZXLTdjMWNaRmFCdmpScm9VTUZNOC1ZQ2tBZNIB7wFBVV95cUxNdXBkZG1VbVExenBxbkEyN29TcnV4VzF0a3pWVEJlb1dUZjRxcjVldW1FQ25aTDdOTGxQSjZ0dndfUVpYcFZPcmxtRHliR19LcXhyRzVsMjNvZUpVZmhTMk9NZkh1QnVJaWhZbVBCX0M1M0c3d0lwUE9kbXlKQ292UXZUQXAyMUtIRzV3eXFyY1g1TEtob2t6OEFzenNwVk5NMHloZTJnbWpTb2hHUFUxZUc1ejlmZUltSVNGQ2hiQjk5Z0Jmb1ZxNjl0aVpSXzRIVDdPdk10T3ZtTTVUQ2VaU0FwYzFha2kxTHhzbnFoNA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "細菌の発生後、ポルトアレグレ病院が産科センター - G1 を再開"
-    },
-    {
-      "articleId": "gnews_6eaf822b32f6b45e",
-      "headline": "Após surto de bactéria, Hospital de Clínicas de Porto Alegre reabre Centro Obstétrico - G1",
-      "headlineTranslated": "After bacterial outbreak, Hospital de Clínicas de Porto Alegre reopens Obstetric Center - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T11:10:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHA1Y2NBQVdaUnhTRlFFUUM2NEVOV1dVTXZqb1dydFFKcGR0VmgzZ2EtSjZxMmhLbGcxdXAtRldYRVJhZVZIeG5Fa3BSWDZ1Uk1sand0ZDk0dWE1N2djOG5WLU8wS1lScHpFUkdmQTVlc29uRXpKcFZlT25QdmVNWUlrTDBfVG5xTjItcl9tOEY3Q3RYYUxnSUhsSUVMeDgxWTlvbVFYZFFyOEdGekRhalZXNFlpRTFGaEFSd09hcGpLdkhKWkJvemhIZ0xnRUwxcWtTb1h1ZWVFc0NIZUdCbjBCOEFjd9IB9AFBVV95cUxOc3FqM3JuZkxEcGFLR25SUE4wVTdCbE1laVZOSldkbi1TbkdhRUdWaUprWjlucDRHQkVaYUJNUGVLNWFhU01rQWFaTEZmU2o5b2RuODVlWXhqM3dfYVpEcW9XVkNnaFBwRHpQVkRweVVtVzF2OUl5WHBwTFA4UnZQMVVPa2JwN2FES1N5LURzc1ZoZ282RlNiRHNKdVktdEdFM1Bzd3pXb2RUTjU2RWRhcDc4NUk3OTZvOWVpWjVFbTdfaXVhZnJpeHVnQ2ZhYkFhanhOYkFWeGwwWWN3V3FFamYtTkxHS05XdV8zNEh3cHdDRnFp?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "細菌の発生後、ポルトアレグレ病院が産科センター - G1 を再開"
     }
   ]
 }
