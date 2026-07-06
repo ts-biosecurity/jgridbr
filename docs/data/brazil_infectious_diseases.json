@@ -1,24 +1,43 @@
 {
-  "generated_at": "2026-07-05T16:29:49.116893+00:00",
+  "generated_at": "2026-07-06T00:53:33.168514+00:00",
   "date_range": {
-    "start": "2026-07-03T16:29:49.116893+00:00",
-    "end": "2026-07-05T16:29:49.116893+00:00"
+    "start": "2026-07-04T00:53:33.168514+00:00",
+    "end": "2026-07-06T00:53:33.168514+00:00"
   },
-  "total_articles": 9,
+  "total_articles": 8,
   "state_summary": {
     "Brasil (estado não identificado)": 7,
-    "Amazonas": 1,
-    "Rio Grande do Sul": 1,
-    "São Paulo": 1
+    "Amazonas": 1
   },
   "disease_summary": {
-    "Avian Influenza": 3,
-    "Influenza": 3,
+    "Influenza": 4,
+    "Avian Influenza": 4,
     "Dengue": 2,
-    "Measles": 3,
+    "Measles": 1,
     "South American Hemorrhagic Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_f206dd603e88590b",
+      "headline": "‘Língua eletrônica’ detecta anticorpos da gripe aviária em seis minutos - Globo",
+      "headlineTranslated": "‘Electronic tongue’ detects bird flu antibodies in six minutes - Globo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-05T19:00:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzc5NlhLX2ZFdDdzcU1NcnE4MlJmNWwwcWF0VHBEenFGb05qMXRNNmVpaU5BcVlSaEk0Mjh0RzEzM2JfNGNjLVZiT25yWGFQRXVEWW85QlBSUVp3eDQ1ZVJLMWdrV0phZjZocUNLOXJpa0lIOUE0RGVTOHc1dlFhUjQ5YzlCWjJObTJZaGF1ZVpmZ1ZoRE1VdFJpcGduZ0t1ZkNfYVltcFhsY0U3STFxUk1WZE1rN2hxTjFJd3dCbmFBdTBrd2dnVlB4bkFNN2tl0gHfAUFVX3lxTE1PNFkyU3dkb1ptSEJGTjNxTDFic3FxQXFOWDNiSUU0OHIxb0taekhoc1VTMEpLRzBWdnFKbVFTYWFldDh6bDJFaUdTaXJCZ3dZN0xBaDVMQlBTVllkcjRxWVlaQ0Vuc01aMDk1Y0NmQ1VNVXJPdU9vbmRwemdadUo5Y1VVc2x2amhDZktJUnluakRLRmlNZWg5dlZwNXc3bUlQZzZzN3UwdG9nejRVSXBBMnJpN3ZGejNzSEJvdjA0eE1nS0tXRDJBX3R3QlhJUWlEQmxTbExoZHNqZUxWTXc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Globo",
+      "headlineJa": "「電子舌」が鳥インフルエンザの抗体を6分で検出 - Globo"
+    },
     {
       "articleId": "gnews_693a5ef5f3a128a4",
       "headline": "Cientistas descobrem por que gripe aviária H5N1 se espalhou em vacas - Exame",
@@ -29,8 +48,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFE5b1VxdHh6STBjdjNhdmJucHRVRzNQMk5BSnk0ZVhHNG96ZjA4Q3lURC1QS0NYVXcwV0N2RmJQbXc3YXQ3WWtDV3dxZi1KWU84bzFReTVUcl90aTdrOVF2bWZhTU1uUlE4eVpWZG9rWjdFQjdSRVdLR3JXV1RKMFdWQ3R2cVVfenNaR0xrcENGR1VJLWxyN3oxZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -39,6 +58,26 @@
       "dataSource": "Google News",
       "sourceName": "Exame",
       "headlineJa": "H5N1型鳥インフルエンザが牛に蔓延した理由を科学者が発見 - 試験"
+    },
+    {
+      "articleId": "gnews_e5086f072ece71af",
+      "headline": "Ministério da Saúde divulga lista de cidades que irão receber doses da vacina contra dengue após redistribuição - CBN Amazônia",
+      "headlineTranslated": "Ministry of Health publishes list of cities that will receive doses of dengue vaccine after redistribution - CBN Amazônia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-04T23:31:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1hrbk05QS1CV0pWcnphcUI5dGQ2c2JpczBDZkN1Q2c4WENWY1FuTHMzUjBaSGxZV05lQWI4S2dWOFJTYUZfSTJpQ05lQnRQR25PaDZIWGF4MGgyNkRsc19xZnc4M3dPU1FPa3l6dFV2NDVNQi1QVFV3eThsckdwSmUyd3UwOGNfMXdKTmJ6OGpRTHJiOEdFdldBRFRGc3loczM1ZmFPQUxScHEzbkM1VXV5WXNhWDg0UHFBR0NZU0FGcmJidElodzJ0QzV1anRsaWNzSmZFUUtUZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Amazônia",
+      "headlineJa": "保健省、再配布後にデング熱ワクチンの投与を受ける都市のリストを公表 - CBN Amazônia"
     },
     {
       "articleId": "gnews_9d479ffc621e1787",
@@ -70,8 +109,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2EyQjBFZGZELWRLY0FVcUVhUjVmLWlPNnNUUUgydm93UlhVRmhIVnVYSFA0b2RaQkd5a0xubHNvOFM1MDZJclJleUhiY2o4a09GOFRjNmVpWmVJTlpCbWxBcWxIOXdHYVVPSnl1ZFhsVE1rd3JGVTBabmcwYWV5dGhZWUM0T3BadlJ3MFQ1ZXlwTlJYeVN2cWs3cFlkUkhuOXc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -91,8 +130,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2pUdzdmMXFLOTlqa19YbjNuM0dGdzlzckNVX2VNYVdtVnRKVzRMMG5HU1JGb3FVeXU2ckc2czk3VGRQQ3o2RFFCTTRtajA0WFB0b3pkNWl3QzlRRWd1MVJsaEhmZDdkbEI3RU1PZzZONUZrVk9KdXdYZW80alJrZnk1bXlJMzhCYXFjM3dTdllGR19SempyendiX2RBY0tXRnI3ZEd5bFhRUy1lbWNJNE5NNTQ3UUtVemF4V25yUURlci1INVFBZmhCWDVLVVFrTE9Rdjdn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -141,67 +180,6 @@
       "dataSource": "Google News",
       "sourceName": "TVS+ SBT",
       "headlineJa": "ブラジルで20年ぶりに出血熱による死亡確認 - TVS+ SBT"
-    },
-    {
-      "articleId": "gnews_edb37f52085de587",
-      "headline": "Casos de sarampo reforçam a importância da vacinação em todas as fases da vida - Jornal Impresso Brasil",
-      "headlineTranslated": "Measles cases reinforce the importance of vaccination at all stages of life - Jornal Impresso Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-04T00:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmZyLXRNUmdDeExTcXlXY0o4NWVrYTRnX0hPWVRDdl9FY2UzOVBOcEF5UzVQc0pIWE5WWlRCdnQzQ3hCc3M5bG1BT1BUWVZhOEZyVlo2N2NNT0ctSW1ac3hBV2ZlOTNkMHhaQ3dXQmtHWEVEcEh5RlZTRjRvdDgtaGRvUXBXdmdKVjVhQUVDQ1FVQktybklZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Impresso Brasil",
-      "headlineJa": "麻疹の症例は、人生のあらゆる段階におけるワクチン接種の重要性を改めて示しています - Jornal Impresso Brasil"
-    },
-    {
-      "articleId": "gnews_0e513fbed086712c",
-      "headline": "Criança morre na Serra e caso é investigado por suspeita de dengue - folha do es",
-      "headlineTranslated": "Child dies in Serra and case is investigated on suspicion of dengue - Folha do ES",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T20:33:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1UXJRaEk0UmpBUE95T3dndnRJcC12YjFia3k5M015WVFLWjJSWmlnbjdSSldmUVJVMmpmV2xycjkwRGkweTg0d2ZQenJWcXZJUnJ4UU00akgydXNrMjZ0LUR6ZTczOFYtcUE5NFlKVTBXMmRjWGt3eFhRbw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "folha do es",
-      "headlineJa": "セラで子供が死亡、デング熱の疑いで捜査中 - Folha do ES"
-    },
-    {
-      "articleId": "gnews_e8132893095dbfac",
-      "headline": "Casos de sarampo em São Paulo geram alerta em Porto Alegre - Agora RS",
-      "headlineTranslated": "Measles cases in São Paulo generate alert in Porto Alegre - Agora RS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-03T18:32:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jUGRXeXRwZjJYbHZsZFdRczc5c01Ga3oxdl9LNy1Bak1rWC1lQ2VISUdicWJuRDFHSUJnay1jRG8tM1pkNG11cW1lMHllenowUzBpUmpJeER0Sk5IQmFuQW9MUXBaS25qY1pPbnBaR19lcGxmZ2o2dlc0cw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora RS",
-      "headlineJa": "サンパウロの麻疹患者がポルトアレグレで警報を発令 - Agora RS"
     }
   ]
 }
