@@ -1,29 +1,50 @@
 {
-  "generated_at": "2026-07-11T00:42:57.514091+00:00",
+  "generated_at": "2026-07-11T08:38:13.268432+00:00",
   "date_range": {
-    "start": "2026-07-09T00:42:57.514091+00:00",
-    "end": "2026-07-11T00:42:57.514091+00:00"
+    "start": "2026-07-09T08:38:13.268432+00:00",
+    "end": "2026-07-11T08:38:13.268432+00:00"
   },
-  "total_articles": 34,
+  "total_articles": 36,
   "state_summary": {
-    "Brasil (estado não identificado)": 16,
-    "Ceará": 1,
-    "Paraíba": 7,
-    "Pará": 9,
+    "Ceará": 2,
+    "Brasil (estado não identificado)": 15,
+    "Acre": 5,
+    "Pará": 8,
+    "Paraíba": 6,
     "Rondônia": 1,
     "Amapá": 1,
     "Maranhão": 1,
-    "Acre": 3,
     "Santa Catarina": 1,
+    "Mato Grosso do Sul": 1,
     "Alagoas": 1
   },
   "disease_summary": {
+    "Dengue": 20,
     "Doença infecciosa (não especificada)": 8,
-    "Dengue": 17,
-    "Influenza": 9,
-    "Avian Influenza": 8
+    "Avian Influenza": 7,
+    "Influenza": 8
   },
   "articles": [
+    {
+      "articleId": "gnews_39ec43e0a4eb54a0",
+      "headline": "Ceará tem aumento de 797 casos de dengue em uma semana - O POVO+",
+      "headlineTranslated": "Ceará has an increase of 797 dengue cases in one week - O POVO+",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-11T01:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2Z4STRmNnNPWk00NDBUQWRjaldWVXJ6RlM3T0JiUjZMRWNnbk1XdDNQN1lsaGdMQXpSUlB4M0tENkhYMWJGSk0wV1hpODZtU3FadkI5VzltRDJHT19FY3I3M1V3TF8tdDhvRXBKcGlOaVFsUjFFeFBRNjFFUFVlbXdZcHdfMXIwVjFyRUpXZUlYN2ZhSExEakswWlREbjJZc0pPQ0ZHckNyQ2tLaXM2Rw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO+",
+      "headlineJa": "セアラ州ではデング熱感染者が1週間で797人増加 - O POVO+"
+    },
     {
       "articleId": "gnews_7182451afd73c9f7",
       "headline": "Fenômeno de El Niño aumenta risco de doenças no Brasil; veja quais - viva.com.br",
@@ -82,7 +103,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Agreste",
-      "headlineJa": "エルニーニョによりブラジルで病気のリスクが増加 - Tribuna do Agreste"
+      "headlineJa": "エルニーニョはブラジルで病気のリスク増加をもたらす - Tribuna do Agreste"
     },
     {
       "articleId": "gnews_02f37b7a34609b43",
@@ -110,7 +131,7 @@
       "headlineTranslated": "Ceará has an increase of 797 dengue cases in one week - O POVO",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-10T21:29:35+00:00",
+      "publishedTimestamp": "2026-07-10T21:29:00+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV181Z1VoOUlsRUhJdlpIRUFmcHBaRUVCYWFwcDJteE1HSDFBZ3JBUWNxS2xJSGZsUkVhUXBiSXcyejdzaUp6YjVEeG4tbUNzQjQ1UU5WSXNWcGtEQ2tqLXRwUXdIUHdQc01KOWdHYXg3VG4zeHREazhINDQ1QV9vWWdPMWZuQ3V5NC03RWpDdlFrZ20yQkZUT3hwVlc0MGFHTDRCcGVPcmlCX1JwT05v?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -125,12 +146,32 @@
       "headlineJa": "セアラ州ではデング熱感染者が1週間で797人増加 - O POVO"
     },
     {
+      "articleId": "gnews_06ed37dc78739b67",
+      "headline": "Acre registra duas mortes por dengue sob investigação e quase mil casos confirmados em 2026 - acreaovivo.com",
+      "headlineTranslated": "Acre records two dengue deaths under investigation and almost a thousand confirmed cases in 2026 - acreaovivo.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-10T21:20:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekh3SjdKUGRpUS1uTjJCNE5BSGk2TXRaLUxiTTgteUpZOE1MMTBPZ3lSelNacHdKYlVJVEFjNUF1MDR6Z2oxNmhCX3RuV1h2N3NabEVuck5mUGs0cU9SOHBDbHJEb2wwTUpsVUhMZTRKd2hfTUpiZFNFMU5UNFEzUnRwQzExZkk5aEVaRjF6S0d1Q1hBWFVQSDVoLWpjNVh5RGd2bDB6NldjVGhFbUZlTkdzdHJmWTdSTzVsR2pUN0hTVjR0Ukk1LVdCc3B4dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "acreaovivo.com",
+      "headlineJa": "アクレは、2026年に調査中の2人のデング熱死亡とほぼ1000人の確定症例を記録している - acreaovivo.com"
+    },
+    {
       "articleId": "gnews_e37cc3c8fbf707ff",
       "headline": "Paraíba registra mais de 4,4 mil casos de arboviroses e seis mortes por dengue em 2026 - politicaetc.com.br",
       "headlineTranslated": "Paraíba records more than 4,400 cases of arboviruses and six deaths from dengue in 2026 - politicaetc.com.br",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-10T20:03:45+00:00",
+      "publishedTimestamp": "2026-07-10T21:13:03+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0t0a0ZRTUc0aU42S0xNVzNLS1VQMHBPdERjUFJjOTExWmZBU3hySHBwWmZmd3VTSDVzQlZHanFXTGFVamxjUEVqOENlbDFIOXFaZlVvbmtiRVR2Mk83bTc0dzhnVjVEQXgtTGQ1bW1wR2lydnByanhhNkcwc1lKZ3FfSnlLT2ZQWTdlbXc3WGVtYUhmLTBUX1YxaFNGbWk3a3gydnU3RU0xXzlUQVd2NWlMdVdScXBDRW1hdTRjdFBMM2s?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -138,8 +179,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "politicaetc.com.br",
@@ -175,8 +216,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVFUM3hwdWluc0dUZXpnZHFFRS1jbFBBMkE5dEFHZzVMamlIanVPV3VHLW9lTWQwQVN2dm5CMzV6RVJGTkpleUxFVjY3bkZXb1NuMzZXclJHTXZhdG5vMk5BeGZncGF1LW1aeEI0M3c4bFJBengzWDBxcl9XbWk2RE5LV3NNVWVSRnlzN3BEMlh3WGFvWFIwZWhoUU9xajV6TFJMVnFIRTU5NUc4Unc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -256,8 +297,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1pQbWhJZHN1NGFDVHVMWDNvdkJKODVUZnRhZ0N1U09Zc3R6LVpFby10TWc5ZmI5b1ZzbmZEXzIxQVNQdEJINkVacFZTd1MwUVNiX3dLRmVaV1ZTd2lVQmJDR3huN2dKTUdsUGllY1hfZ2QyaWEtSGhhT2tTM1J1RkN5NjNzZnJXZnlwWEk4bUowMmlyUmMtSTdyMTRfRXZZZHNiNnFVZDRSZUtUN3c?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -301,12 +342,32 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal do Litoral PB",
       "headlineJa": "パライバ州では今年2,200人以上のデング熱感染者が記録されている - Portal do Litoral PB"
+    },
+    {
+      "articleId": "gnews_7826b629c5193f0a",
+      "headline": "Acre investiga duas mortes por dengue em Rio Branco e Sena Madureira - Ecos da Notícia",
+      "headlineTranslated": "Acre investigates two deaths from dengue in Rio Branco and Sena Madureira - Ecos da Notícia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-10T16:47:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjFnR0lWNE9qZVlOcVNLN2RzS25DdEhuR0lVRkVPNUEzSjg3cVZqMlltbWNIU2Vfc0ozd0x1TlltZEhIc3h2Qm5RSnBKUXBEc2VNM3FjV1JOazhnaldzaHRWWElNajlpM19sZVNIeENwV0ZvN2dhcDVSWVFJTDBjWWpmaTM0Zk1PdHhzNllsQUNwRWFRM05MbmVQS2ZMX3hMN0NDQURuUUR3OGNXQ0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Ecos da Notícia",
+      "headlineJa": "アッコ、リオブランコとセナ・マドゥレイラでデング熱による2人の死亡を調査 - Ecos da Notícia"
     },
     {
       "articleId": "gnews_9eeaa33d654d4bd1",
@@ -322,8 +383,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Paraíba Mix",
@@ -343,33 +404,12 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "WSCOM",
       "headlineJa": "パライバ州、デング熱による6人の死亡を確認、2026年上半期に通報が増加すると警告 - WSCOM"
-    },
-    {
-      "articleId": "gnews_9ee61e1c6353bc5f",
-      "headline": "Paraíba registra 4,2 mil casos e 6 mortes por dengue em 2026 - F5 Online",
-      "headlineTranslated": "Paraíba records 4,200 cases and 6 deaths from dengue in 2026 - F5 Online",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-10T14:56:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkRsVFJCaDdHT2VBVkFVM2c1a01HNE5QSjFlZ3ZPQXJtb1l0cEhHdEhoZG5zblhDY0daaVFhTmpfQjh6cWtoT1RjTEd5dzZUXy1zVldEdEJaaXpodU0xTzdHZmZRdHprTllOU1pKc19Gd1FBTk55bTBsX19pODlyOWFlUzNrN0hnY3Uxbg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "F5 Online",
-      "headlineJa": "パライバ州、2026年にデング熱感染者4,200人、死亡者6人を記録 写真1枚 国際ニュース：AFPBB News"
     },
     {
       "articleId": "gnews_81d2dc93859dfc92",
@@ -385,8 +425,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -410,7 +450,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Santa Catarina em Pauta",
-      "headlineJa": "イタジャイ州、2026年上半期にデング熱感染の可能性を90％以上削減 - サンタカタリーナ州が議題に"
+      "headlineJa": "イタジャイ氏、2026年上半期にデング熱感染の可能性を90％以上削減―サンタカタリーナ州が議題に"
     },
     {
       "articleId": "gnews_0ef736ebcfa16c42",
@@ -426,8 +466,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Repórter PB",
@@ -443,8 +483,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmVjY3VVRmpGSmNBM3RDVHNqUTZhTGtTMU9ldFg0bW4zUkV1aGd6eTdpQVdGcGhXcEhJQmtDZDREak5YSFJSUDFGWWNZbGNNaEExT04tRFA5YjJQR0RwTFZpczBWc0NFVVFMVElaLTlCeWE4Z2oyS3NZNXhtaWdobjh5QzY5NEpsek8zb1k2ek43NllkbEE3OGtRNVVfMUhtUnN0bUNxME94TzVibzdEQTJwbmU2aEJuT0JKNG9vNHM0MEw2V2hIRVVpZlQtTUh6V2hXT1d6ekpTcC14eFZhaHZkSQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -464,8 +504,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFFQUC1haG8tclpIMG5HRGZQZDJIa2FmWlJQeEZ4ekUtN3FIWVpya0tYTzJyekM4b1l0bVBDeE9zNk80S3daRUU2WjBLTlFRZkJtQjMxSjBtS18zLXo5XzVOSmdZYVNFZkNoUDI1clpwSlZCM2NvSG9TQUY1aWlQOXprUFFVVk52cmRqaWk3MURqZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -485,8 +525,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3pobm1jUEdLcUx0emZ2SFE4cEgzUnh6bVVZTVBLWkdSMU55b2hzcGlvRDlSeHNZUW1ubzZfVlU5SWl1X0F4RlFWemNQZ25odkdJZXFFXzVZYkE4ZHA0RHNpZjI2UXd2a0pjb0liYldTWlZSOTc1ZnpjcENJY2Y4TldRdHR5bnRW?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -526,8 +566,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkVfSlFLMkhQeTRmRngwdnlIVHoydTJJZXBtcmtHc3FUVVBFLWxGbWpEc201SENxOWg0VnhXWXBNZnYtelMzak8wNkJOV0V1UTNwSlJ5Q1BmS2tFVEF6d1hlYUlyYnl1cGNOZllTcFIzazBMN3NKeDRSU0pQVF9qMHFKR1JFZzhlRlVDWUYteW9NSFNYOXdoeHBRVGRiY2pOOE4wVW5EMUxCNUdqbGlfeVFpa0lXbEJ1Nm91UEhLZlFDSk45Rks0YWZxbWpTRVdQclJ4eA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -547,8 +587,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONlJpRWxFLUttQXFwQ2FNdVBlNnJDTHN1aVlZRXd2V0JWaWZkZ1pQaUNQRE9OLUMyTlNRWHcwYUVkdXBGTUdyX0xITjZOYU9RcVBJYTlLWVA3QlRTVVNrTDdzZGIzZ1UxRV9lcHpYLW9LbzFvMWFFRWFva1NGcTBCRXItQUJtMVJTTGhhUHJiSDY1eU9LcFE1eWFYWVVqX1NqU2htMDZkeVF1YTVKQnU2NU1YZmU1Ums?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -579,13 +619,13 @@
       "headlineJa": "アクレではデング熱の感染者数が約80％減少、セサクレ速報が発表 - Ecos da Notícia"
     },
     {
-      "articleId": "gnews_4aa3867dcd726ecd",
-      "headline": "Com menos de mil casos confirmados, Acre registra queda de mais de 80% na dengue em 2026 - A Gazeta do Acre",
-      "headlineTranslated": "With less than a thousand confirmed cases, Acre records a drop of more than 80% in dengue in 2026 - A Gazeta do Acre",
+      "articleId": "gnews_eec76152e75cb548",
+      "headline": "Com menos de mil casos confirmados, Acre registra queda de mais de 80% na dengue em 2026 - O Juruá Em Tempo - Juruá Em Tempo",
+      "headlineTranslated": "With less than a thousand confirmed cases, Acre records a drop of more than 80% in dengue in 2026 - O Juruá Em Tempo - Juruá Em Tempo",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-09T20:15:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXlybVpDMVVhX3RwX3JlcDhaM1Z0ZWFfMWdyY2pNekNsZXZxNGNjOHFqTEVsUkU1eDBlSC1CWHJBdFFsdDZvQnliQUUzc2YxcG1GcWxZT0FPV2tYRWItaEx5MDRUUk12aVVGLVFheWVpeUVseFV4Y1A4WERtVk1YU2lQNkRSQk9uQV93cktESWttWkprVmVpSW55M0ZEU2U4Y25lNDhtZ0gwWENIWThyY2R6UHZsQi1rU0M3cEEwZ1dzZHZzTnBULVVaTm9nMnVG?oc=5",
+      "publishedTimestamp": "2026-07-09T20:03:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGF4SGhMcGtOdmFZQkMxZWM5SFFoMWstZlNPUUhmeVI2ZzRDT0Q5dEFBektwekF3YWRMNXZaU0V5Q2g5RnRMODVyYVF6Y0F5Nm8yS2RNM09faUk5MVBMUTFYOV9wMDdNM21sZDZxLVl5TkQtVWZmWEZUcmVXZEtxOFBaRC1GejhtSEpURHpZdHktazhtSVlxNVh1OUhoOUw4dk1LcHFpUFhjZDVSV2N6Vjlld3F5SFZxSTQyY2dxVXpBbmtjM0HSAcsBQVVfeXFMTVhSRmNVdHQzcTdhOFV5N3hBUFRvaVF4djUwXzlRSlF2WFlmVzcxOFFhRFllLWZ6YUtUSjdGRnJfWHV0TXJFM09YSy1xTlBHY1g1YzYxNjZFWXNiQUFCSks4OExHYzZFYV9BbUlHVDhxNVNSb3Qxa2Q0dGp2UlRqc1lSQm8tbmJPY1ZQSEVzOGlSaTkzZTB3TF9welJQQ3JpOWpwcnFSMnBFNnRiVjFxVmF6dklkSnQyYVV1UlJZOVJKZzR2ZFd0cEN6M1k?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -595,8 +635,8 @@
         "Acre"
       ],
       "dataSource": "Google News",
-      "sourceName": "A Gazeta do Acre",
-      "headlineJa": "感染者数が1000人未満のアッコでは、2026年にはデング熱が80％以上減少することが記録される - A Gazeta do Acre"
+      "sourceName": "Juruá Em Tempo",
+      "headlineJa": "感染者数が1,000人未満のアッコでは、2026年にはデング熱が80％以上減少したと記録 - オ・ジュルア・エム・テンポ - ジュルア・エム・テンポ"
     },
     {
       "articleId": "gnews_71b5f6d2d6705b76",
@@ -617,6 +657,26 @@
       "dataSource": "Google News",
       "sourceName": "ES Hoje",
       "headlineJa": "ES、デング出血熱の疑いで死亡した6人を調査 - ES Hoje"
+    },
+    {
+      "articleId": "gnews_0062615a669750cb",
+      "headline": "Fumacê reforça combate ao mosquito da dengue em cinco bairros de Campo Grande - Midiamax",
+      "headlineTranslated": "Fumacê reinforces the fight against dengue mosquitoes in five neighborhoods in Campo Grande - Midiamax",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-09T16:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3N2bGxOTTM0VWdpa1pYSWk2NlYwUlRKcHpsQnhRSEduU25ibUVna09rREVXbjBCR0xrS2FoUjUwZENxM1dQRjdRNW04dVg2MUFjcDJ5bzIzdmswcGlnMkJ0Mm4tQlJNZ1FhUXpFYTN3aGVpVTg3cmc4NF94ZEpwR1JUdm9KVzU1aHVzVDhkNXhTVzRGTmdNZVpfN25ZYzNDV2FFZDV2SDE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "フマセ、カンポ・グランデの 5 つの地区でデング熱蚊との闘いを強化 - ミディアマックス"
     },
     {
       "articleId": "gnews_f75a874d3403b971",
@@ -697,27 +757,6 @@
       "dataSource": "Google News",
       "sourceName": "Alagoas 24 Horas",
       "headlineJa": "感染拡大中に容疑者が妻を襲い家を破壊－アラゴアス24ホラス"
-    },
-    {
-      "articleId": "gnews_ce687a03df6b481b",
-      "headline": "Língua eletrônica detecta gripe aviária em seis minutos - Diário da Saúde",
-      "headlineTranslated": "Electronic tongue detects bird flu in six minutes - Diário da Saúde",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-09T03:01:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVW5Jam5BaDJFcEVjUUQzbVpsWnJpdXloQXNEOVJ1MFFUdUZqR2o4Q1h4UW9vcENxMXNaT1Y3cjdTYVNxRjhVWFBpUDNPX3k2SXlvRFBHT1htUzRlWmNYNkJFR2lmMjBVZFYtbk9XSmgyTklxUFdkMlpObHFrUjhZOTk5X0xtY0x5bjdqUGxseW5FWDBp?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário da Saúde",
-      "headlineJa": "電子舌が鳥インフルエンザを6分で検出 - Diário da Saúde"
     }
   ]
 }
