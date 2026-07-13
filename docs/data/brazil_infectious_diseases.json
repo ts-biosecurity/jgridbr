@@ -1,27 +1,67 @@
 {
-  "generated_at": "2026-07-13T00:46:15.930387+00:00",
+  "generated_at": "2026-07-13T09:10:12.778631+00:00",
   "date_range": {
-    "start": "2026-07-11T00:46:15.930387+00:00",
-    "end": "2026-07-13T00:46:15.930387+00:00"
+    "start": "2026-07-11T09:10:12.778631+00:00",
+    "end": "2026-07-13T09:10:12.778631+00:00"
   },
-  "total_articles": 12,
+  "total_articles": 11,
   "state_summary": {
     "Brasil (estado não identificado)": 3,
+    "Amapá": 1,
     "Pará": 3,
     "Piauí": 4,
     "Paraíba": 1,
-    "Acre": 1,
-    "São Paulo": 1,
-    "Ceará": 1
+    "Acre": 1
   },
   "disease_summary": {
-    "Yellow Fever": 2,
-    "Dengue": 9,
-    "Chikungunya": 1,
-    "Influenza": 1,
-    "Avian Influenza": 1
+    "Avian Influenza": 1,
+    "Influenza": 2,
+    "Yellow Fever": 1,
+    "Dengue": 8,
+    "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_9ae83e522b864e20",
+      "headline": "Filipinas e Austrália registram focos de gripe aviária - brasilagro.com.br",
+      "headlineTranslated": "Philippines and Australia report outbreaks of bird flu - brasilagro.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-13T09:01:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHdYenE0T25mVEd1czFwMzVsMWFuYWJwcmowUUdSb1pQb3ZnTno2X19xd1BGZjFsbTNDX3hmTVppTzJIU2NsSVlFci1YVHRrR0ZkTi1KcjAwOTlrbHB3QnY3SEJOQ1VXY3hnQzM4Q0puRk56a3VURFhlZ0dOMXowYlZFbEpzM25MV2UzR0FMWTV5QmMzWk9peExIVGVPTE0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "brasilagro.com.br",
+      "headlineJa": "フィリピンとオーストラリアが鳥インフルエンザの発生を報告 - brasilagro.com.br"
+    },
+    {
+      "articleId": "gnews_296c8850703cd2f7",
+      "headline": "O Amapá. O Surto de Gripe. Os Hospitais em Alerta - O Antagônico",
+      "headlineTranslated": "Amapá. The Flu Outbreak. Hospitals on Alert - The Antagonist",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-13T00:05:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWVaMlVPQzgzY2gydV8wZ2JOQlNEaDNPd2dVX1hxTVNTdkZuc3B4bVFZejRROV9BN2RNT2R1emY2Z2I0QmptQjlqMmhDU1VSaFJQWGZvTHRhSXdVdS1LZkt6LTBTTTdZZDdaNWZjNl9TTFZfRnk0MEg5eGJEaU1WSw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Amapá"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Antagônico",
+      "headlineJa": "アマパ。インフルエンザの流行。警戒中の病院 - 敵対者"
+    },
     {
       "articleId": "gnews_82d8fd44cdd11bb7",
       "headline": "Macaco encontrado morto tinha febre amarela; prefeitura reforça prevenção - Estado de Minas",
@@ -72,8 +112,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3hES2pIdHRvcFl6NzBydTFzMlowRjJEeTFoNGJNYnVUZngwdXdQUDMyVnBfaDRsY2x6NVhjM0V1M0tscU1FR0dVSTRhUTV4RUdrRE95NERkeS1yV0hjUl93a3BoTjdxZVdneHJPS2g3Snp2RXFiSXlUbkRkbW5Bd2F1OW15dDBIbk03VWM5V3l3RzUzQ05xOGlFd3FnNGRnUWM1cFptcC0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -157,8 +197,8 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "G1",
@@ -204,67 +244,6 @@
       "dataSource": "Google News",
       "sourceName": "CBN Amazônia",
       "headlineJa": "アッコ州、デング熱感染者数4,000人を記録、公的非常事態を宣言 - CBN Amazônia"
-    },
-    {
-      "articleId": "gnews_5332a85655bd5008",
-      "headline": "Dispositivo detecta anticorpos da gripe aviária em 6 minutos - Poder360",
-      "headlineTranslated": "Device detects bird flu antibodies in 6 minutes - Poder360",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-11T09:19:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNldrV2ZURVhzMFFiYm9tRllaV3N4dG1FNWRFSEpta1ljYXhVU0FuQ2VmOE1yV0VwZEV5SGJwT2Z1RmFUdkFVQnlEM3dFNmk3elA5cVhTa3pMVUZKZjViRjE2VzMyM3Fna19aUGVlenZZVFMxLXdYc21RNEtfZC15bFh6THJndnVWQ3BhdDhhZ1Y4ZGNBVDNndFJNVWQ5dlRiZXZF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Poder360",
-      "headlineJa": "デバイスは鳥インフルエンザ抗体を 6 分で検出 - Poder360"
-    },
-    {
-      "articleId": "gnews_5e85a3d3b77dc024",
-      "headline": "Cidade deserta: febre amarela fez com que muitas famílias deixassem Campinas - Hora Campinas",
-      "headlineTranslated": "Deserted city: yellow fever caused many families to leave Campinas - Hora Campinas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-11T06:00:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXpSU1hSY05fRWVMWndVVVpmQ2loQllydUt3VlN4Snpfa1BMeHQzLWpXekljV2tKaEVFSW1wTk1kRUJpbExvQVY2cDNnTDlZMjJEV0QwZ2J5LXFDbF9odE1PUWx1YlV0TENDVDRtclJlcXJiMEFFUUpNNkIxWm0zSjlJTkVHM0dnZWZZTkRzbE43Qk51djkxUVg0OFJZUWdCMW41Rm92Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Yellow Fever"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hora Campinas",
-      "headlineJa": "さびれた都市：黄熱病のせいで多くの家族がカンピナスを離れた - ホラ・カンピナス"
-    },
-    {
-      "articleId": "gnews_39ec43e0a4eb54a0",
-      "headline": "Ceará tem aumento de 797 casos de dengue em uma semana - O POVO+",
-      "headlineTranslated": "Ceará has an increase of 797 dengue cases in one week - O POVO+",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-11T01:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2Z4STRmNnNPWk00NDBUQWRjaldWVXJ6RlM3T0JiUjZMRWNnbk1XdDNQN1lsaGdMQXpSUlB4M0tENkhYMWJGSk0wV1hpODZtU3FadkI5VzltRDJHT19FY3I3M1V3TF8tdDhvRXBKcGlOaVFsUjFFeFBRNjFFUFVlbXdZcHdfMXIwVjFyRUpXZUlYN2ZhSExEakswWlREbjJZc0pPQ0ZHckNyQ2tLaXM2Rw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O POVO+",
-      "headlineJa": "セアラ州ではデング熱感染者が1週間で797人増加 - O POVO+"
     }
   ]
 }
