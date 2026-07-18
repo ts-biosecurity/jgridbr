@@ -1,35 +1,73 @@
 {
-  "generated_at": "2026-07-18T08:38:05.028594+00:00",
+  "generated_at": "2026-07-18T16:25:32.284296+00:00",
   "date_range": {
-    "start": "2026-07-16T08:38:05.028594+00:00",
-    "end": "2026-07-18T08:38:05.028594+00:00"
+    "start": "2026-07-16T16:25:32.284296+00:00",
+    "end": "2026-07-18T16:25:32.284296+00:00"
   },
-  "total_articles": 32,
+  "total_articles": 31,
   "state_summary": {
+    "Goiás": 1,
+    "Brasil (estado não identificado)": 12,
     "Ceará": 1,
     "Distrito Federal": 1,
-    "Brasil (estado não identificado)": 11,
-    "São Paulo": 9,
+    "São Paulo": 8,
     "Paraíba": 1,
     "Espírito Santo": 4,
     "Amazonas": 1,
     "Bahia": 1,
-    "Pará": 1,
-    "Alagoas": 1,
-    "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1
+    "Pará": 1
   },
   "disease_summary": {
     "Dengue": 9,
-    "Measles": 2,
-    "Influenza": 15,
-    "Avian Influenza": 15,
+    "Doença infecciosa (não especificada)": 4,
+    "Measles": 3,
+    "Avian Influenza": 12,
+    "Influenza": 13,
     "Rabies": 1,
     "Yellow Fever": 1,
-    "Doença infecciosa (não especificada)": 3,
-    "Chikungunya": 2
+    "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_10231d26829a588e",
+      "headline": "Combate à dengue: Prefeitura de Goiânia avança na meta de 2,5 milhões de casas vistoriadas em 2026 - bombabomba.com.br",
+      "headlineTranslated": "Fight against dengue: Goiânia City Hall advances towards the target of 2.5 million homes inspected in 2026 - bombabomba.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-18T15:42:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2haQUFqYVdiSGlNQnpZN0xFTF9EQlR0NlYybU8wb3lQX21PODhocFlrbC04eHl2SzdtNVYxN3E5SHlzWVlISEJYQkJBVW1teWtITHpVdHVuLXJBTUxjajhHdU1sTVJPSXRtbGktQ3VWT01VX0VieUtfZTZaZDlqS2g3by0xWHVnRWRYVFNlRkxaUWE5R0pPdmdTWVF4ME9jTFVLd0tGbUlxMXZRRm13QkZ3NlRpT0sxTFg1ekJXZ2s?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bombabomba.com.br",
+      "headlineJa": "デング熱との戦い：ゴイアニア市役所は、2026 年に 250 万戸の住宅を検査するという目標に向けて前進 - Bombabomba.com.br"
+    },
+    {
+      "articleId": "gnews_239c24ae9b11e275",
+      "headline": "Brasil amplia vacinação contra a poliomielite com retorno da dose de reforço aos 4 anos - JBNEWS",
+      "headlineTranslated": "Brazil expands vaccination against polio with return of booster dose at 4 years old - JBNEWS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-18T12:03:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjk4dmtyNTdCbnhXUVU0dDFBNjhKSE9PSllLclJDYmdTZEZnUHZUODdKOVZ4M2tSLTdNVFFTRGdobWVFdmV2MHZ6SnZIUW4tR1lLWGVFUjFZX0ROajBhNGJKU2h4SGpnSWV3cEVFQWpzZGxfZ0FyaVdHN3VjbGk0ZGs1SjdQNl9TZHZlSVdYMVUxVXdTeVBoVTc3TVJRVlZZVlF3dlBFSVNoTE1wcnRZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JBNEWS",
+      "headlineJa": "ブラジル、ポリオワクチン接種拡大、4歳で追加接種再開 - JBNEWS"
+    },
     {
       "articleId": "gnews_9e1f6cf06f5432d0",
       "headline": "Ceará tem aumento de 1.224 casos de dengue em uma semana - O POVO+",
@@ -100,8 +138,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3djeElyYWYwV0lPYkJ4VDI5ZE5IcU9ZS3BhZDJuYnI0YlhJaVRmODhRbENMd1dUdDFEV2JyYldNbllPdHpzMFlLVDJCdlI4ZXk0TWFGdWlVZnpfZ1FMUFhlQjNCY3BHdm4tNl96bU1UbHBkX3RXRmNOUnN0ZlU1aENHVW4?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -121,8 +159,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3NZWk11Ym9oWmt5bVZFVUN3R0JDZ0RGNjlHTWpsYUgtYmUwMXBHLWRUZXpDUHpnenFvYWo2RUJjSWRXRW9IWnpLbTJWRDBlWklWWTdDYkM3ZFdkTy1xcnoyOURxbWotOEczWEtTblBpZ2M1a0FnYTQtQnNiLUZTdmI5aDdxMnk0dVpzWU0wSVpEMUFJOEtzYVFCN2Zlc0NlTzZpUjdqSWZMbDBubVEzUzREbU5fdzND?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -150,7 +188,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "THMais",
-      "headlineJa": "ジョアン・ペソア大統領、デング熱の感染者数が2,200人を超え、禁忌薬について警告 - THMore"
+      "headlineJa": "ジョアン・ペソア、デング熱感染者数が2,200人を超え、禁忌薬について警告 - THさらに"
     },
     {
       "articleId": "gnews_88e3df7d775ecaec",
@@ -223,8 +261,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1BkRzR1Y195THNxcnF0UmdBMDl6OFlqMWNISHM5QzRtZTYyNTY3dzJzWWlSUVdMZnJycDBNbktJTXYxSURDdnNtbmtWV0l3emRIR1BBbW9Lb2F5dVY2MHFJTGlKU19RS1RNRHgxc1A4US1ybDd3RUVVQUlBU2Z3VDdn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -232,7 +270,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "avinews.com",
-      "headlineJa": "2026年にサンパウロで鳥インフルエンザ初の野鳥感染が確認 - avinews.com"
+      "headlineJa": "2026年にサンパウロで野鳥の鳥インフルエンザ初症例が確認 - avinews.com"
     },
     {
       "articleId": "gnews_bbe038ed4de86b84",
@@ -244,8 +282,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXRwRHdwS0FRNmlXQ2twbHpkaUZ3b0lsYUdwNW0yLWI3cm1Zbm9EUGh5b2FDU1ZPZUNlWGpwX3BSc3RzU2RsSkgyc3d3R1pKTEV0NmtwOVRkb05fSjlKODFPUWxBQnBVNWNjY0RxeHJLZkJHdDhaQ19GMUxYN2d4TWJELS03bzZ0T1NDckV1Smo4NUlCZS1LUDVtNjBqZ2dRMUZPTElOZVVlTVQwbC1tcU1GQ1NMWkpUbDh6OWlFcy0yOVZ3UC1uUjdtODZvd9IB3AFBVV95cUxNTnZNVlBDTFlTX0t3VUJJdVBrNHE1ejhXYURKRFR5U3o0YXozSHpfWXZTelhqZDcwNXI3bUlVZ1cwX05BV09HM0ljYnlhQ0RYS0kzMDd2TUlFc091U3lFTVdpV1p0OUR1cmFrY2MyQmpvWGRqZ0ViZmN4NTNjWTBkOXRxZy1JLVpyVjh1NHRROGMzbUV3MWpfem1pSk5lUE9ycy14OFRFNVZoN1Y3LUdxTlFBbWpXYjZ2V2lnWG5aUXJGUC1sWHpUNEhUOGgzdldwTjRRMFRVNm5ucHAz?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -253,7 +291,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Globo Rural",
-      "headlineJa": "サンパウロ、2026年に野鳥における鳥インフルエンザ初の感染者を記録 - Globo Rural"
+      "headlineJa": "サンパウロ、2026年に野鳥による鳥インフルエンザ初の感染者を記録 - Globo Rural"
     },
     {
       "articleId": "gnews_b623c003bc37ae26",
@@ -305,8 +343,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnFRRmdkYVVycXRKcjFRQWpFN2hfNC1oQ0hPYWZmSDhud2ROTXJ5X0ZfUzRGQjRsVmd3T2lnMTJxY3cxY2tFa3hhbzlXaDIzUmVFNUhUOHBUWjE3SlNEVDF1anJZdWZ3ZWJsZDcySk01Z3ZxUGlFR3RaMHFkdjMwVVVvUU5MTFE4bVJWSlRCUHRoMy1oUzdrdmswenZJaFlCWlhZQ3JPQkNodUZQWS1FMGFMVktuVVpVVnhFLWo4bDdPNzVwM0hhZ29YY9IB2gFBVV95cUxNNnN2R19lX2NGeHZDUjdCZDlIUUx1NHpGMm5ram9QQ3YxQXUwQUg5cUpEaXVkRS1yRDV1N0FiUGhrSjA3UkxkWlZab1lCYWZCWlVKc0xOYXA3ZDFIYW5xWDdrcWZ0dlZVYzVCa29UYlM5UFJwb1NRU1E0VW9BY1JTeE1xRUVId2dqVTRiWFNYSFRyNHJsZklxZG85SkM3THdoREpwUUhsVllmejIyZG5Nb2NKeGNPVVRFQnBhd05CMkh0ako2UE1FZG1mdjlpUEtUYUFUXzM0VGM3Zw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -326,8 +364,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2wzSTZRSGRjYWJLTUdzNWJFNzFMaFhRZUlRc29oelpNTTYzc0M5bnp6QXFxUG0xSUt1bmExYlVEcC1aWXZZdmdYbWI3RkR2d0xUNlhRVncwR09aVjBJX3RwdVdjdmNGS3hURUdVcl9pYl9WNHVmNnRMTzdfUXVPNWpELTdoLU0tcUd5THpiOUR4cVhtekRWYjJueFU0bUxXRWFjZ2c4ODNDT2EzTm90dllHajYtaXlkbWJ0LVhReWdLZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -367,8 +405,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0NBUHhKQUhMOHdJLUdQSGl2TFhldUtGdEM1YmpHT2pUT1J2dEZLSTZzc3oxeEFkTi1NYUg5OUFFa1Q1TVRJVUN2ZXRRT0tEcThSS0t5c3NXSEFrMFY5Sm9ORnd0aDVmLXFHQTZmQldCS0l6cG9YU2RKQ0R5VUlpTFJmd2h4RlJGVWJJUGttTXBiYzZJYjdCc2RFUjN3bm1RbDE1WkJtVEd2R3F4S21ETmtTeHpNbnE5S241N1VB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -376,7 +414,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
-      "headlineJa": "サンパウロ、2026年に野鳥で初の鳥インフルエンザ感染者を確認 - ラジオ・イタチアイア"
+      "headlineJa": "サンパウロ、2026年に野鳥における鳥インフルエンザ初の感染者を確認 - ラジオ・イタチアイア"
+    },
+    {
+      "articleId": "gnews_35ad201b7d5e4f5f",
+      "headline": "Dengue cai 75% e o próximo verão vira o teste real: ovitrampas, insetos estéreis e Wolbachia explicados sem jargão - Tua Saúde",
+      "headlineTranslated": "Dengue falls by 75% and next summer becomes the real test: ovitraps, sterile insects and Wolbachia explained without jargon - Tua Saúde",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-16T22:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGJOa1FKSU9TdWktc3BDZENpcUxNQjlOaDExSTk2Mm0xQU1Mc1N6UUV0ZTd0OTQ0LW1zMjhDWm9kQjJMcXZqN051Ymx2Tkl4RWdsaEtmOHdJR2xtYmdTZXZOa0xzaWhNZ0pqM1FuMlh1akJ2dnBFdXg2bEMzTmVRT2RhOVdMRVYtamZwWDJENnBxVjZIWlBKMlhETF8zQi1LaE5wcWtzc1RTZWxia0g1V0M5bDcxMXRnd1hYSVRtNGtRV3pfREIyOE1MQ1h3UV8tdDB2X1lSMTk4VVVPV2JqcV9oUEVBTmJB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tua Saúde",
+      "headlineJa": "デング熱は75%減少、来夏が本当の試練となる：オビトラップ、不妊昆虫、ボルバキアを専門用語なしで解説 - Tua Saúde"
     },
     {
       "articleId": "gnews_52dd19aa7eed92b1",
@@ -388,8 +446,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2pTeUZEZDY3Yl9lTlNzMmdMT0dkbEVKU1NoVzh6YmtyS01PTVBieks0WFdKdURCNHJ2aHZuSWRhUkJfZnNzSU16X1prTzFDMndEUnFyRXNaUUhsWnhWaHN3bGVnc2U2cnQ2dnNqZU1sNl94N1VxaW5zdUc5dndGb3UxNkpNZG80TmV0LUc0c0wzUGN1cHNnNVdMRkRmRDJ4VmZBRXFQbUhHWFA0TXZCbWdR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -409,8 +467,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS050REo2aGtWWVlwX1VxR2dLVmd1Ymw5RHMxNFdrUkdzUEE0UVl6MDRhcFZ1U0JqcVJndTMwaFpfd0diTXJvbFp1STl2anduR3EtdEUwZ3dOTDVxdUZmQTNDM2NCLTdhUE40V05hZ1pOd2hhMDFzLTFJSUY3d1E4ZkhYYXBhMDhSTUxUeTlCM25uUQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -421,25 +479,24 @@
       "headlineJa": "サンパウロ、野鳥の鳥インフルエンザ感染を確認 - O Presente Rural"
     },
     {
-      "articleId": "gnews_230829af224cefb6",
-      "headline": "São Paulo confirma primeiro caso de gripe aviária em ave silvestre em 2026 - Francês News",
-      "headlineTranslated": "São Paulo confirms first case of avian flu in wild birds in 2026 - French News",
+      "articleId": "gnews_176e8d0e0acf7781",
+      "headline": "Guarulhos reforça prevenção e convoca população a atualizar a vacina contra o sarampo - Guarulhos em Destaque",
+      "headlineTranslated": "Guarulhos reinforces prevention and calls on the population to update the measles vaccine - Guarulhos in Highlight",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T20:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3RpVjdHcnRiNmR2SkpGUjRQV1BLSjdNck9zZUFCWHBZQ1BnTE1aOGtqUlBmVmtjY1d3ejNWY1YtV2c5WDhSYXE2UndISlZta1FiY3g2WTAzQ0NOekhMVTlSbnpoaUFNb2FIRjUwbmx2UHBLNU5hSDE1X2NLWl9OQ1ItSHJRLW5SeTJhX1FrSVZWSnJfQkV4VVpqNFJZeW5BNUhRcDFCeHR3c0xoMmR2V0RMc1VHTjh2eEQ3VnFoTms?oc=5",
+      "publishedTimestamp": "2026-07-16T20:46:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmZ4OFZjb3plWm1fRHZBMmN3RFM5ZGR4ZFZLSlBnWno3RkV6ckMtTWdvMlhtTW14SDh6WGV0c0YwNDh3V1pLMjZORE1tOTdsYjI0bzZ2SmhiSVpBSUtYYmo4T2JDNzh4dU1RNHdXODJmQXlWZ2NodXJlOFl2aHBXd29Qdms5aUR0XzNEcDcwTHJDbGZneVBlaHI4YUZYNHJxQS1GUDdPdXMxWmdQZVVaMzNQY25rYVhRUUZoVmNLeFgtNFJuUkdISTF6bHA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Measles"
       ],
       "locations": [],
       "states": [
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "サンパウロ、2026年に野鳥で初の鳥インフルエンザ感染者を確認 - フランスニュース"
+      "sourceName": "Guarulhos em Destaque",
+      "headlineJa": "グアルーリョス氏、予防を強化し、麻疹ワクチンを更新するよう国民に呼び掛ける - グアルーリョス氏のハイライト"
     },
     {
       "articleId": "gnews_1e8b1740f403bb4e",
@@ -451,8 +508,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMl9jNFV1amRzUDhhRHJEMzBfNENMRzRKSmxNTDNma1lzNXNXNHZ6TW1MRGZhUmtKeUlGeUxEck4wdEZNcU5uQ0h5MnpnUTJGbjBZSU05ZFAtbDlBa2QwcUVCRHlRd3R0RUM2YlQzMmVJNTF2eDluZ0J0eW9OVVB6dThOOEhvbjVNZEE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -460,7 +517,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jovem Pan",
-      "headlineJa": "SP、2026年に初の鳥インフルエンザ感染者を確認 - プライムタイムゾーン"
+      "headlineJa": "SP、2026年初の鳥インフルエンザ感染者を確認 - プライムタイムゾーン"
     },
     {
       "articleId": "gnews_4c001cfb3330f853",
@@ -480,7 +537,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Grande Bahia",
-      "headlineJa": "フェイラ・デ・サンタナからのSMSで、30人以上の隊員からなる機動部隊がケイマディーニャでネッタイシマカとの戦いを激化 - ジョルナル・グランデ・バイア"
+      "headlineJa": "フェイラ・デ・サンタナからのSMSで、30名以上の隊員からなる機動部隊がケイマディーニャでネッタイシマカとの戦いを激化 - ジョルナル・グランデ・バイア"
     },
     {
       "articleId": "gnews_c6df21bbb2e890cc",
@@ -532,8 +589,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTVfRFdEOTZTNDM0a0lPcFk4T2VkYnRBclltYTc3SmxETFdjRERsNlVnWENZYXVtY0R0V1laQ25NWU1VTFEzRVl1T1YxWDIyenFuYVlQdWxVVktTY0NUdWFxSEpTV0xnM0JfMEhmMnppRnNpOEtmczlLMGx1SGg0QS1DQURLN094WjJLUEJqNXQwSkxheThaNDVaOVNXN0I0TndGNDlrNnFRTFJB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -561,20 +618,40 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Guia da Farmácia",
-      "headlineJa": "ユーロファーマ、チクングニア熱ワクチンをブラジルに導入 - 薬局ガイド"
+      "headlineJa": "ユーロファーマがチクングニア熱ワクチンをブラジルに導入 - 薬局ガイド"
     },
     {
-      "articleId": "gnews_78f36fe049766910",
+      "articleId": "gnews_e5a60706d8f5f3df",
+      "headline": "Noruega tem surto de gripe após eliminar o Brasil e antes de enfrentar a Inglaterra na Copa do Mundo - Estadão",
+      "headlineTranslated": "Norway has flu outbreak after eliminating Brazil and before facing England in the World Cup - Estadão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-16T17:24:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ3lQMFk1TWdqYUo5YmJwWmp4SXdDUFZNZW40Z1hiYzRDLUNvX3BfVkM3cFZwWlFtMTVEZ1ZVaFNPcnVod1o2WmhhNVRHTU9UOTc5bFJITFNfWTZHLVl1ZW9jM1hwY2ZuWERoS1MzWXVjbFAwMWxqZjdvRnpvWXJGTUVUdnRUUmV3ckZybHFINlVwd0h2d1NJUl9PWXZZR2NxbGNldXpCZzVETVp6VmwzVnY5TzZ3NXdpRFM3WVU1SENZcUFpYURJRjBmU3QzdmJBR0JUVEZQQy1IN1B0SlpXV0lZdU9IRjBEUzRtQUJwOGtvQm9RaVZTSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão",
+      "headlineJa": "ノルウェー、ブラジル敗退後、ワールドカップでイングランドと対戦する前にインフルエンザ大流行 - エスタドン"
+    },
+    {
+      "articleId": "gnews_f26a4022c5c740b9",
       "headline": "SP registra primeiro caso de gripe aviária de 2026 em ave silvestre - CNN Brasil",
       "headlineTranslated": "SP records first case of bird flu in 2026 in wild birds - CNN Brasil",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-16T16:29:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2FSa1V5TVA0c0Q1U1NIcEVZS2s1ZGxJSjQteXV4b1U4Q2YzVTcyeVBWZ3RTOXRfZmIxS2xWT2Uzc0pnVGNZcDVuVV9qZFJrQWlpcWI2SFZURlB1ZFN1UG9IaFdfUmdxLUQ0ckVMWXZ1UWxFNk53aHFxeXA4TUk5bzFVWllfS3haNDZJOV9xaE1TX2hYYUk0UFNQb1BCNHRwbjBHdk5IWk5Yb3ZodHRid08zVktzdFMt?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0o5Z0VITE5pRlhhYUpHN09XWUJhSm9uTVZreWN0QUhaLTJOVXlGT19pMjhKcHh4SEszMWZLWmJjNURJRnYtTlk1QXVlNE9SNjdaUU5EbHNZYVk0Ti16dVJINHJqOGtldlVaWmdDV09XSFJWdHF1RERUZ2FId3pHRGZGNGhMWF91WG4zR3MySGk3SWxrdHlCdGpUbjdFRHZUdlRzbQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -583,109 +660,6 @@
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
       "headlineJa": "SP、2026年に野鳥で初の鳥インフルエンザ感染者を記録 - CNNブラジル"
-    },
-    {
-      "articleId": "gnews_2addfa295d68a069",
-      "headline": "Região de Ribeirão Preto tem 1º caso de gripe aviária em ave silvestre de SP em 2026 - ACidade ON",
-      "headlineTranslated": "Ribeirão Preto region has 1st case of avian influenza in wild birds in SP in 2026 - ACidade ON",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T15:32:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1lvRWgtaEdRUEU5M2c0T003NXQ2RkpjeC1UQ29NZ2JfTnJVUVZWdENUUG1hekpDRHg0TU8yNk5rWkhhNmVjQ3laTXZWZ3NEcnBweE92ZUx4TUhHNmxZQWhNSjNsZGNfRXlPZ3hoS19ITWthSnczNlVXUU1qVGc3QUhhc21BZ3dxVUd4YTA0cGFFR1FNYmhPSzZQclNEeEJQLWRvakZpc29vR3Fyc1hIZEtxRWdaYmRTVkNqWWVncjZzUWhKcGJFZWlOVGVfYWFC0gHWAUFVX3lxTE5XVHVQZkQ2eWJ3Mld2T2tiVUNYYmhvUEQ2cUdBMEExTlk0VWl4QlE3RzM4c3Q1blJkeFMxNHVnOWV0X1Z3Z3BYLUVkTUlKbFNwd1gtZmRjdU9jSkJreVF5YjJDZ1RJLV9kUmllNElPUjI4ZkI0V3l3SUpFeUpQTml3dWtJTi1NZ3ZmcklzaDM5UnJ3NTY4bFRQZkdBX3k0OXc5anBGZ3NMNnY4N1otZFdiZ1p2VE44M0h0d1F5eVpKU2ZqbXhqZTdBNkFraTZURzM5bmtBdHc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ACidade ON",
-      "headlineJa": "リベイラン・プレト地域では、2026年にSPで野鳥の鳥インフルエンザが初発生 - ACidade ON"
-    },
-    {
-      "articleId": "gnews_b8a9466154909119",
-      "headline": "Saúde de Maceió reforça combate à dengue com uso de novo equipamento - Prefeitura de Maceió",
-      "headlineTranslated": "Maceió Health reinforces the fight against dengue with the use of new equipment - Maceió City Hall",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T13:59:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelUtUmt6OXdaVHFISGhrNjU5QUxMb21rRERDajV0TE1FVzhuUGlNczN6Y2lPS3FGSFRIUUd4cDVkc2RHWlMzclExYkYxdUFPMnFiVWtnYUYzekkzdzFGQ0hkNGZnU3U5b3N3dDFpYlA5ZGx6SE1aS2Y0Mk9mMk1FVy1MWkRBVDB2TDdtYnBjbGRSVnRPZGZrb3Z1VnAyc3hydjczaHBUX0E3Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Prefeitura de Maceió",
-      "headlineJa": "マセイオ・ヘルスは、新しい機器を使用してデング熱との闘いを強化します - マセイオ市庁舎"
-    },
-    {
-      "articleId": "gnews_76ffe3d106a700da",
-      "headline": "Chikungunya supera 9 mil casos e preocupa autoridades em Mato Grosso do Sul - capitalnews.com.br",
-      "headlineTranslated": "Chikungunya exceeds 9 thousand cases and worries authorities in Mato Grosso do Sul - capitalnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T13:59:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVkphMWhuZHRIWWNoblpnclduNVdINmYwdnB2ajFucklkdWhieEwyekw0eS1GakFicm1FUVJ0M3JaSTdRRmNaRXVCN2pka3M2RVZEd0tSemRtLTFUQ3ZfQ3VQRUEwTVNVN1ZKVXU2eUUyclJodFlJLWxFSTNQNHBBTDFSM0QzU3FGQWVHVmdRYjEyTGxVX3hiNFJBZmRQY0JwcnIycWJ3bjJrRlpfUUlKRk9mcnJ1M2xIYmxnbFpxd0RtU2h0TmlBMFV5RVlvOV9wS1c1S3JPNGM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br",
-      "headlineJa": "チクングニア熱感染者数が9,000人を超え、マトグロッソ・ド・スル州当局を懸念 - Capitalnews.com.br"
-    },
-    {
-      "articleId": "gnews_bde1844eead5e705",
-      "headline": "SP confirma primeiro caso de gripe aviária em ave silvestre em 2026 em Guaíra - G1",
-      "headlineTranslated": "SP confirms first case of avian flu in wild birds in 2026 in Guaíra - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T13:43:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVhHN2dDdUNDcUI4UTdfNG5UZU9TdU9WeTJhRWo1MDJIOV9TeWg3ZW14bUVicjIwYXpuRjloY2otWUpBQmFuekxxYXFxaE5ESXliYWhhYlIzYmc1ZlhzRGJaUEs1elVmSktBdXZvTFN6TW1GTTcyam9xVU5Zb3ZoTTFQWmlYNkE0dnFZT2JtQkpDQXFQb1hHd2RTdVBLdkFEYU5DS0ZVN2IxZlhtTUtSUHBoNTNvR0Rqb3VIMGJDc2JxeGptWDlJZGVtRdIB2gFBVV95cUxNaG9KckdKMU5xSllTZDltVFMtYWRqV2JsUmdnVF94ZWNMZ1JIdW41Y2NpTFJJYlp6Q1had1pSOHlON1lxLUVIUTJLeUJuWDh4QzRNV0tPdWFmLWRNMlMyS0traGV6SjQtajBKa1pvaHd4ZEtrdG9HVVpONnZoWjhTSm92VWtsVzh6N2xMelBqX0dlSVR3V3FlTExTaW12QjMtQ0R5MTItbGRZQUVmM1FNUW9rZ2pRNUFyNUFTN2J6Zm12dG5SQ041b0Y4YjJEUG9fbTlGclFFSWJ5Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "SP、グアイラで2026年に野鳥における鳥インフルエンザ初の感染者を確認 - G1"
-    },
-    {
-      "articleId": "gnews_0ee1a71e71268daf",
-      "headline": "Araçatuba compartilha experiência exitosa no combate à dengue em congresso nacional de saúde - BOM DIA GUARULHOS",
-      "headlineTranslated": "Araçatuba shares successful experience in combating dengue at national health congress - GOOD MORNING GUARULHOS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-16T12:41:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV25MUndrWU5VYjd1OEE0dWg3Zy1hU2xyOVJidkdBcXR3ei15MzRJc1BxWi1ORXpTOG56QVlmaWE1QnNoY3pLNEJHck16VHRLVlVfYnBPVmNmZ2J6bHRNZWFBamFwMmNFMXJXZEtKTEE3Z0JOV1luUmlPQkdfV1NWcHZqRlRzdUhzMFFWQWF1cjZSbXQ2eGtfbF9BeUZ4QUR2THN0WjFxZ0c0X2ZYbFN4OWhndXZHY09XVlFYcGpPZDczWWFadno3UEF2V1JXbTAtRHpn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BOM DIA GUARULHOS",
-      "headlineJa": "アラサトゥバ氏、全国保健会議でデング熱との闘いで成功した経験を共有 - おはようグアルーリョス"
     }
   ]
 }
