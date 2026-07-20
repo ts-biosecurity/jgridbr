@@ -1,26 +1,172 @@
 {
-  "generated_at": "2026-07-20T09:07:47.205448+00:00",
+  "generated_at": "2026-07-20T16:36:00.617224+00:00",
   "date_range": {
-    "start": "2026-07-18T09:07:47.205448+00:00",
-    "end": "2026-07-20T09:07:47.205448+00:00"
+    "start": "2026-07-18T16:36:00.617224+00:00",
+    "end": "2026-07-20T16:36:00.617224+00:00"
   },
-  "total_articles": 19,
+  "total_articles": 26,
   "state_summary": {
-    "Brasil (estado não identificado)": 8,
+    "Brasil (estado não identificado)": 13,
+    "São Paulo": 1,
+    "Acre": 3,
     "Pará": 5,
-    "Acre": 2,
     "Mato Grosso do Sul": 1,
     "Rio Grande do Sul": 3,
     "Goiás": 2
   },
   "disease_summary": {
-    "Avian Influenza": 10,
-    "Influenza": 10,
-    "Doença infecciosa (não especificada)": 4,
-    "Dengue": 4,
-    "Measles": 1
+    "Avian Influenza": 14,
+    "Influenza": 15,
+    "Measles": 3,
+    "Dengue": 5,
+    "Doença infecciosa (não especificada)": 4
   },
   "articles": [
+    {
+      "articleId": "gnews_8cdee344392c9f55",
+      "headline": "Gripe aviária é confirmada em aves de subsistência no RS e não altera status sanitário do Brasil - avinews.com",
+      "headlineTranslated": "Avian flu is confirmed in subsistence birds in RS and does not change Brazil's health status - avinews.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T15:02:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUZENmxPZE50NjAzNi1NMUNzVzhobXNGbmkzUTJBV3MxRTdBc3Z0eExGdG1SSU9kUU5lT1RGNUtmNWNUTWlXZ1d1VWEwUWJyVWx1bWhydHpJZXpYYWhjUWxjWTI1dUhiOEstMzhRRFY5SVBPLXBCU09PMWUwNVk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "avinews.com",
+      "headlineJa": "鳥インフルエンザがRSの生存鳥で確認、ブラジルの健康状態は変わらない - avinews.com"
+    },
+    {
+      "articleId": "gnews_b67f41fe7c337ffe",
+      "headline": "Ministério da Saúde recomenda 'dose zero' contra sarampo em São Bernardo do Campo após casos suspeitos; entenda - O GLOBO",
+      "headlineTranslated": "Ministry of Health recommends 'zero dose' against measles in São Bernardo do Campo after suspected cases; understand - THE GLOBE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T13:50:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMklCZDllX0JwenhCYVUzZ3VQR3V2VjJHUmljSzZxN1hLVGVMc0pQM3A1Um9ZaHpsRTVqc0dBcmRCbkhLN2N3SF9HX1lYeUVIRmdYLW1aMVZ0ZWNIa0tlaUtjTUJZRExLblFaazM0OTVNNTJQNXJtY0JMbVhXMjROSUR3S0N4SFU0QjRwMUdBenVYVTJUOHpNWFFWTTRaWDJRd1RidUoxQVF2OFZLTkxMdnRMVlJrUVctdzAwSGtIVVFSWEJtRHdVOWhKcW1rdW5sbExwaVFmOWVsLWpudGhqam4wMlFzbVJhT2pBSHZmaHllUTBJWFFRdWVZYk5GNm1WSThiejh30gGGAkFVX3lxTFAySUJkOWVfQnB6eEJhVTNndVBHdXZWMkdSaWNLNnE3WEtUZUxzSlAzcDVSb1loemxFNWpzR0FyZEJuSEs3Y3dIX0dfWVh5RUhGZ1gtbVoxVnRlY0hrS2VpS2NNQllETEtuUVprMzQ5NU01MlA1cm1jQkxtWFcyNE5JRHdLQ3hIVTRCNHAxR0F6dVhVMlQ4ek1YUVZNNFpYMlF3VGJ1SjFBUXY4VktOTEx2dExWUmtRVy13MDBIa0hVUVJYQm1Ed1U5aEpxbWt1bmxsTHBpUWY5ZWwtam50aGpqbjAyUXNtUmFPakFIdmZoeWVRMElYUVF1ZVliTkY2bVZJOGJ6OHc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O GLOBO",
+      "headlineJa": "保健省は、サンベルナルド・ド・カンポでの麻疹の疑い例を受けて、麻疹に対して「ゼロ投与」を推奨。理解します - ザ・グローブ"
+    },
+    {
+      "articleId": "gnews_a485119d0b8ce18d",
+      "headline": "Vacinação contra sarampo e gripe chega às estações de trem de SP - Click Guarulhos",
+      "headlineTranslated": "Vaccination against measles and flu arrives at train stations in SP - Click Guarulhos",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T12:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlA3OWJ1YXVpdXZTRmxjekJDb0hKeUxrS1hZMVgtOE9iQThka25kbmFwb1NteUpKWTZpcnd1ZHNCMmtzLTA1cUp0bGFFNktnaGhFYVpKNFhmWlExQzVZM2hFVnA1V3AtQVFwQjlEd2dMUTNVc0tvZWtvazFELVc4UlNQVXh3R1dWUUJDOXV1b0x2RVJOMHM1MjNHTjBoQnRHb1k5alExTjlGZVFQQ0ww0gG0AUFVX3lxTFB1OXRaaEZnU2NPUmpDQnh6V3ktZmZtM2V5VVF6ZFoyekZYeXR6T3VyVzd1YnZyeTlsTllPc2VqQ3V5VjB5eHZVVTFTWUJjc25IRmFNaFpVVS1GaGFMT3FrTWhTT2ZQdE1QS1IzYmxxaXRzSzJiYmpYazludkdhWTlZX3RienRTaUhyZFBpLWdhY2dZXy1HMTg1enhuaXZHZU5udkpmWHZ4ZGppMGplUE1XdWtjag?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Click Guarulhos",
+      "headlineJa": "麻疹とインフルエンザの予防接種がSPの駅に到着 - グアルーリョスをクリック"
+    },
+    {
+      "articleId": "gnews_59ff459792ff3362",
+      "headline": "RS confirma caso de gripe aviária em criação de subsistência - Agrimidia",
+      "headlineTranslated": "RS confirms case of bird flu in subsistence farming - Agrimidia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T11:44:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanlENUl6bjNtSjlzQ0ZEUk9jRWhMZmluWElkQ3ZsMmJVaFZLOFM0U0MzWXgweDRmMTRBX1FKbk01TGZnQjlVSGxXal9KbVYya214VzdKRlpwMGZEMkRHY2w1Xzl2dDVpU2VwQUtxUVMzY0dpaFpOaF9STXVmckJ2NDNrLTBod2xpcjJMRWE1WGtYX1BRbmRvSWExQXIzYlYyVUxvQUhQWkVDQkpUbnFXZzdzR0ZLeHdFcjUw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agrimidia",
+      "headlineJa": "RS、自給自足農業での鳥インフルエンザ感染を確認 - アグリミディア"
+    },
+    {
+      "articleId": "gnews_241a9854b26d790a",
+      "headline": "RS confirma primeiro caso de gripe aviária em aves de subsistência - jornalboavista.com.br",
+      "headlineTranslated": "RS confirms first case of avian flu in subsistence birds - Jornalboavista.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T09:47:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXZpbVF4bkVqY0FDZVRkMnZONDBEQlFPb1h1NlBCOXYyaS1TNHA5WDZHUnFIYjVMZ0wxb2pEN2hXYjVsWk9LZU1qMzBVOU16X2hHX0M5UFZyQVJfMDF4cE44TlBobWJIYTdfQWhyeTd6WVI3NWYwclY4andsaWpZOC1DNE9EUXNYQjR3QVdxNk5QM09odlRGWGU2a0pjZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jornalboavista.com.br",
+      "headlineJa": "RS、生存鳥における鳥インフルエンザの初症例を確認 - Jornalboavista.com.br"
+    },
+    {
+      "articleId": "gnews_c4e804b0366616af",
+      "headline": "Governo gaúcho confirma foco de gripe aviária em criação de subsistência no Norte do Estado - Rádio Tapejara FM",
+      "headlineTranslated": "Government of Rio Grande do Sul confirms outbreak of bird flu in subsistence creation in the North of the State - Rádio Tapejara FM",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T09:43:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNEw3R0ZISnZtaVQ0ZVRwVFdBOHBLS2I2RFdJZ1ZGR2pmbzRZcEVxeVVIUWlubldIbHh6WjE1MWtHMlpjbXZIaGtIWjRKWDEwaEQ3ZTlfWFd1ZXNCUjRjcXFxWlRkRnplRWxXSWhRblFPNjVyUDcwNjMzRzNudTJpdUxzdkQzakpZR2tnbFJzZTdYOEQ2QnJ5OEtmMzRwUHJWZk1xRTFvbDVYOHREdy12RHNRaUxySGZja3piaDdfV3JITzdjZ290Y0ZVNWp4Ulg1clVZbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Tapejara FM",
+      "headlineJa": "リオグランデ・ド・スル州政府、州北部の生業創出で鳥インフルエンザの発生を確認 - Rádio Tapejara FM"
+    },
+    {
+      "articleId": "gnews_a18dad03db5d7e14",
+      "headline": "Rio Branco concentra 61% dos casos confirmados de dengue no Acre em 2026 - ContilNet",
+      "headlineTranslated": "Rio Branco concentrates 61% of confirmed dengue cases in Acre in 2026 - ContilNet",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-20T08:34:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGlyWG9rdkR0NHhIbzR3OGc5amVQX2lRUHYzMndxN3hBeWZmVGhrenNfLXFBazdtVndYNENUa0lWMXVoMWFiRVJDRTVzbkNHajVqTlhhTGhuQ2pMdUhqcU9BX1JOZTA4YlUtVVpnTmdzTnppLW5sbEx5dnRQbWJfVHAwc0VjNlNvYmZ5dXVTRjdOX0VnUW9WZ0phanoxQ0tkVWd6UlhEZGE5SFdvTm9xbHNRWEF1UdIBuwFBVV95cUxOU3lHRDlaSXFKT1NJa2tFbEtMRmt4MHZybGJwVHpKT2k4V3QzOTRiM04xaG5uWjRZcmYwazd5amFhSEM3V0R6WmczNmNxcXh1cDU0VDl6aUM4VDJzN2tZendLWGlLNXU0dGVQMnJDb0owa0NCdHhUa0RlU2pQNTFpRzAzcENoQlhpWGlIVGVQdDIxUFIxRC0wYzlwaUFZcFEyTGFXRW81WjJ2VDBnS3hNS18ybXVRVWJjYWx3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ContilNet",
+      "headlineJa": "リオブランコ、2026年にデング熱確定患者の61％がアクレに集中 - ContilNet"
+    },
     {
       "articleId": "gnews_db6ac4709ed5d5e9",
       "headline": "Caso de gripe aviária no Noroeste gaúcho não afeta status sanitário do RS, garante o governo do Estado - Rádio Pampa",
@@ -84,13 +230,13 @@
       "headlineJa": "RS、コケイロス・ド・スル州で生計を立てている鳥の鳥インフルエンザを確認 - abcmais.com"
     },
     {
-      "articleId": "gnews_57008d312622c48f",
+      "articleId": "gnews_aeb87ca3c8129467",
       "headline": "Rio Branco concentra mais de 60% dos casos de dengue registrados no Acre em 2026 - A Gazeta do Acre",
       "headlineTranslated": "Rio Branco concentrates more than 60% of dengue cases registered in Acre in 2026 - A Gazeta do Acre",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-19T21:00:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQmVzUjJwUVR6dWdMOUU5b3JyS3dyOXpYeFBvQTJ0cmNkUFhFa0gxQzllS3RibGx1c08xNEp2NFFvLVRUNlZkX0VCRHR4dWZ4Xzl1MDhpcnZIb1VOTFlBNUlDOEs5OU1taTJfUmRqU2h4LXdsZHM1RkRpVDg2S01NRzJ4MzljSUF3RF9uLVJoazRwd08wcnJHTWRyZjFWMlVfb0tUM3Q0OTI0UTByeFZrbXJaN2twRlcxdk8wM1c0cm9lTFNQa3BOTU0tbktnRUo1RlE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTNNYmF4QlNLdmZzdmZ3UkdaUkM4b3RZRHpWaHNjTEt6aHhIYjJHR21FQTJTcHdIdVQxZmROVHY2UmJpcXk5Zi0zOUlsVWpZcHgxYU9GTmFUVDdBOEtyTjUzaWZ6YkMtLURQYzFrSTVJazZuelpEM0tkR0RnZVItN2k0SVIyVHNtTUJZLWlsS0MwZVZtcUZ3N3lKdTZZcU1RMVUzdWt4NnUwUzdJMUhDb2VHRXZlLW9RZ2NvZTFUWk5UUUJMYlIzQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -101,7 +247,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A Gazeta do Acre",
-      "headlineJa": "リオブランコ、2026年に登録されたデング熱症例の60％以上がアクレに集中 - A Gazeta do Acre"
+      "headlineJa": "リオ・ブランコ、2026年に登録されたデング熱症例の60％以上がアッコに集中 - A Gazeta do Acre"
     },
     {
       "articleId": "gnews_472f78cac375c0b9",
@@ -247,7 +393,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Radio Uirapuru",
-      "headlineJa": "パッソ・フンド近郊の都市が鳥インフルエンザの発生を記録 - ラジオ・ウイラプル"
+      "headlineJa": "パッソ・フンド近郊の都市が鳥インフルエンザの発生を記録 - Radio Uirapuru"
     },
     {
       "articleId": "gnews_ecd8c24f02a02d31",
@@ -270,13 +416,13 @@
       "headlineJa": "ブラジル免疫測定法市場規模、シェア、トレンド、成長分析レポート、2030年 - MarketsandMarkets"
     },
     {
-      "articleId": "gnews_47cc35b546e5a9d3",
+      "articleId": "gnews_39c1cef48ef63c8c",
       "headline": "Vacinação contra dengue segue baixa no Acre; segunda dose atinge apenas 13% do público-alvo - A Gazeta do Acre",
       "headlineTranslated": "Vaccination against dengue remains low in Acre; second dose reaches only 13% of the target audience - A Gazeta do Acre",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-18T22:00:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQlAtZlkxd3czS2tsZXYwWUs0NXpjNWQ3d1Y2ckxWVmFyeWl2NXlNLW5VaGsxZWtqcGZZdGhoRGdlWEE4WE42VXphbmV0OHJTVnFDa2JMOThMS05iYjgtMEY1aUVIb3BHM2NCbFZrTFJWNmtOeUNnN0xmVHJ1Q2V0Qm5hZXhLeFQxZ3lMWGVKNlpSU3RjNXBMQ2kya2pFVzRMb3d4RGdlTEtVSk55Y1o3cUtxZFlIazBWNS01dm9UQzRjQ2lBazV2N01Jb0pheWRGN3oxY0hjaFk1eGQyS2c?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZldUR3I5Z0FoVk9lX2FPWURJWEN5U0o3MDQ0bXVacGUzYnhKNEo0aW5TY1A3eDVHYWU4RzRZYkhqQUZJRU9lbGpTNUhrRGRTZERDYWdxNmlGVExvQkNlVWdDZ1NCV2FaSXp4U1hLYVJLVnZDenBxZ0JIVUsyNDhhUFpqSU1UY1BVcnlpblhiRGdER0wtSXlxdnUwbkZUYjdURUh2d1JxdFh4bDlxN3RHTTlwdTV0dGM4bll0UWVOWTJiRFFDTl9ldllKWFVzUTFZbU56bU53?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -323,8 +469,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Notícia Toda Hora",
