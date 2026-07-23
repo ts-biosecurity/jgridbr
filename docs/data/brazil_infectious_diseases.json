@@ -1,33 +1,93 @@
 {
-  "generated_at": "2026-07-23T00:45:29.078912+00:00",
+  "generated_at": "2026-07-23T08:57:13.214185+00:00",
   "date_range": {
-    "start": "2026-07-21T00:45:29.078912+00:00",
-    "end": "2026-07-23T00:45:29.078912+00:00"
+    "start": "2026-07-21T08:57:13.214185+00:00",
+    "end": "2026-07-23T08:57:13.214185+00:00"
   },
-  "total_articles": 46,
+  "total_articles": 43,
   "state_summary": {
+    "Brasil (estado não identificado)": 17,
+    "Alagoas": 6,
     "Pará": 10,
     "São Paulo": 8,
-    "Ceará": 3,
-    "Brasil (estado não identificado)": 19,
-    "Alagoas": 5,
+    "Ceará": 2,
     "Distrito Federal": 2,
     "Pernambuco": 1,
     "Rio Grande do Sul": 1,
-    "Mato Grosso do Sul": 1,
-    "Bahia": 1
+    "Mato Grosso do Sul": 1
   },
   "disease_summary": {
-    "Measles": 17,
-    "Doença infecciosa (não especificada)": 13,
     "Dengue": 13,
+    "Yellow Fever": 1,
+    "Measles": 15,
+    "Doença infecciosa (não especificada)": 11,
     "Chikungunya": 2,
     "Zika": 1,
-    "Influenza": 4,
+    "Influenza": 3,
     "Meningitis": 1,
     "Avian Influenza": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_7b7e2e9dfa168920",
+      "headline": "Médicos ecoam ministério e veem risco aumentado de dengue com El Niño - Correio Braziliense",
+      "headlineTranslated": "Doctors echo the ministry and see an increased risk of dengue with El Niño - Correio Braziliense",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWttWXpfWllySVc2bjdfZTU5QmdGRkQyYnZjS3dNRm1MYm85SG0xSGdyVTkyYUhDN3RqMjU3dkViQklUR3Jvb2FpNEZQQzNYUXZPdnJ2c3BaQzhkTVJTeUlWZmtqbHZmQW8wR001YVVIeHp2SUh2bDlxRlQ1NTV6Q0VTSTVkZ2MxMFVWbkU4YU1kOFY4RllaTFZHR1BWNnBsNWFaTWRzS3ZFMzFqd3JXMEVMTVVUdXJBLWFNQVVGTm53SGdNeVFzeGxrUDB1NVd20gHWAUFVX3lxTE5aODdob01CQ3lXRWdXeE1ESUNodTNNc2ZnSmxfRmpmT3VRRUoxeEUzWGxTTXQ3b0FqTnpOS0JhaWkzUGdaYkFyMGZtQ01JSmNJU1RJWnhxemFJRXU1Nm16d3ZPaUJneEVuNFY3UzdJbWxrMEluWUJpODFBRjZ3SlAyZlZsQms3NXh0elZ0Q1Z5OG8xMjB3S0tzdnBERU9wRGJ3N1RDUmxjX1FrQndhMk02bmZ0QXpqU0sxYlE0eHVGanFSVk1qUmQ3WDVDSTJEUmU5WWhpeUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio Braziliense",
+      "headlineJa": "医師らも保健省の意見に同調、エルニーニョでデング熱のリスクが高まると見ている - コレイオ・ブラジリアンセ"
+    },
+    {
+      "articleId": "gnews_0371ed72406dcd42",
+      "headline": "Ministério Público abre investigação sobre risco de surto de dengue em Satuba - Gazeta de Alagoas",
+      "headlineTranslated": "Public Ministry opens investigation into risk of dengue outbreak in Satuba - Gazeta de Alagoas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T07:00:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWVUaG8xOEpxcFF6N2VGOTRSX0NVa3hLc3dmcnRmSkV0a1l1bE1pclY4VHpBSUM1c1FBNDdSMFVITm5hbWtpTFQ2RzE3clNvckQyc2FsRGc0NHZsSHdQV0duSkFyaTh0MnNtSTFEVEx2WDhiZjZwMVhoWFl0SjRkM0l4OGxKM1Zicm9Mc1JsMHNoeXdia3ptTF9qV2oxRFpOMjZ0WUQtXzBUV1hXZTBFYXJNdXVBSmlVclo3TGxyQUFMUU5yamfSAc4BQVVfeXFMUDZiaGg1YWtOTHVoWGM2NWdoSVdYbkNqX2J5X0loN2JrY1NPc0JuOV9EWHktdWJYcFhvZnBXS3d4SEJsRHJhX1pVQk10c0hKYXlwMWhmSDY4Tlp2YnpKbTR3SkJJU1U3ZkpsZmJidDljbzJDVno5RHhORHNZOVZNcnZBUy1Ea2hvM3JIT0VIbjMtcFVha01iRW4yOVExQXVqM1l2QmhBLWJwRnBkQWhiRzFIcHNFLS1XT1V6d0lPYW1hc2JaYlg5QnhsdTJ5a3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Gazeta de Alagoas",
+      "headlineJa": "保健省、サトゥーバでのデング熱発生リスクに関する調査を開始 - Gazeta de Alagoas"
+    },
+    {
+      "articleId": "gnews_deae6d7298d732a1",
+      "headline": "Projeto para avanço na produção de vacina da febre amarela - fiotec.fiocruz.br",
+      "headlineTranslated": "Project to advance the production of yellow fever vaccine - fiotec.fiocruz.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-22T23:18:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkpSMUhEdU9xUGM5ZGc0MWpMQmdHRTBLdWw4bTBTRDhjOXRDTllPc3NDMDdvZjctOXBBdE1pckd0RGVDa1I0N1RTTFlyZF9TNVoxWEd2ZGtyaFlPU2J4SU5La2FPdjNweXZ6OGt5b2JRU0N2b1BLYXBJM2t1M0Zmci1sUzVIY3B3R0k4UV9ldGt1cktBZEpxX3d0aDZTUVNkU0Q2RlgwT1BKLWJ6MV9OVFRXbFRlM09KWVUtNU0weHhuR016Z1B0T21GWkM1b3FucDctejBrdjc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "fiotec.fiocruz.br",
+      "headlineJa": "黄熱病ワクチンの生産を進めるプロジェクト - fiotec.fiocruz.br"
+    },
     {
       "articleId": "gnews_2b1e874eabad7cd6",
       "headline": "São Paulo alerta para sarampo após 13 casos confirmados e pede reforço na vacinação - Araraquara News",
@@ -42,8 +102,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Araraquara News",
@@ -70,26 +130,6 @@
       "headlineJa": "エルニーニョ：保健省、アルボウイルス感染者の増加について警告 - Radio Itatiaia"
     },
     {
-      "articleId": "gnews_9320df549dda60af",
-      "headline": "Flyttr obtém autorização para uso de mosquitos geneticamente modificados - boca.com.br",
-      "headlineTranslated": "Flyttr obtains authorization to use genetically modified mosquitoes - mouth.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-22T20:15:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1VueXRLa2prc1BKQk1McE5VbjA0WWgzNnR1bGEzQXFhMU9GdUg0SXlxa3pQQ2tSVjNhRHZIM0dLSkM2WEo3QVBUakxacF9WaEFjUl9ydHd4eVFMal85T1B0NWdWeVV6WHFPbjQ5R2lyOEsteXpBVDhOZzNlaU1tNWxTaHhFdnFLVTI0TVdrLWZiMm5M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "boca.com.br",
-      "headlineJa": "Flyttr、遺伝子組み換え蚊の使用許可を取得 -mouth.com.br"
-    },
-    {
       "articleId": "gnews_764c69cd0ae9855f",
       "headline": "Ministério da Saúde alerta para risco de aumento da dengue com avanço do El Niño; Ibiapaba e Região Norte do Ceará já registram alta incidência - Ceará Agora",
       "headlineTranslated": "Ministry of Health warns of the risk of an increase in dengue fever with the advance of El Niño; Ibiapaba and the Northern Region of Ceará already register a high incidence - Ceará Agora",
@@ -103,8 +143,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Ceará"
+        "Ceará",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Ceará Agora",
@@ -140,8 +180,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVVBMQ2Jhb0ZqRUFhY282alYxNGhPeXNfYmp2LVIxLVFoSkttOEhxZWdDOHZvUHJpYWRXeVlUYzYxY2lrb2pLQnU1NG5BQ3ptdkdaVEtGb01HRW5NMTlGUXVXcG1sNG1ic3Vfak1qZnJLNVZXcFp2VnlmY3hEN2hRS054dmpNSmNxTmF5dUt6Wjc2VTlyMjZ0RHlTUlRFNjhCQ2tPMm1IUWR5aGNMbGU2N0lzWkZWMXJWS1BwaDRHVmtRZWl4R3RnVzhBM2hITmNLZVdGbmFOUTJ6SWdO0gHiAUFVX3lxTE1LWlJlTi1iNUtEWDJtX084SG1rRkhCVEFOQW1xS0JTbFB4Szl2MUxDYUh2ZXI0THFTaVVpVmdKMFlJbWEyeUxkbVQ2Tmd1MGRKWEJ1YmZRUExpcUExVTl1WWxZU2l6NkVrdW43NnpRU2x6ZVN5blMwX0hVTGxQQl9taWw4NUt4Tnlzd2dUS2ZpQV9XUDZROE0td18yU3RZcHFuYUh6cGY4R05rWmJHU1prbklMZ09PdHJITDMzN2dSdm5kWnN6eG5maVFKN1BfWFZkMTVlZEtZNFNRa0ppVENabEE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -301,9 +341,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQlFsUnBpcE9QRDhLTTdHQks4TGw1WWhDVm0yMFV2WFN3cU5PUm1qMFlEVEVNRWRiSVgtZW5TWEtjcXhMUGNaMGFkLTdTRFI3Y0pqMTkxUlFYM25RYnNCOG4zcnF5bTJyQjIzNlhoaERSMmFNLWpTVUV4NzJOeHAtSmZiYXBXM21NSzZMblVjcjV0cXF3ODR6VlB4enlxazBnOF9WaGcyT3p3NEhlUzRrRGhlQndaaW1hSGQ1bGlINDYzeVJXTW5QUjlkVWZOZHRTYzdqbWlsVXkyOVJNSG5GX9IB5gFBVV95cUxQUWd0V1hEYjV0TU11S3RyQ0dQR0xxVV9MdVpNT0lYUWVSYnVxTnJYUzJ1Rm9TUGM5dGduV2dLTDJTeVRwaW9RM1lSNmRGNUp5QWNIcndHbzBOVjhWRjM1TWkyTC0yWS1YWWpXM0ZoRFl1cGhOV3FKRjA4dWdTakY5YkFVUkloQ0hqR3lNeG4xVnhwRTRLY3RHU0EyVlc1QU9leWYyNkZJQ0doTHprTzNZUVZ3UWlEVVl3eVB1V0tpenFXN1FKYnhZM01Cb3NmWVAxSWVrTHNUYklCWVJNNnVwVWFnUENPdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -435,13 +475,13 @@
       "headlineJa": "DF州保健局、2026年に髄膜炎による児童2人の死亡を確認 - G1"
     },
     {
-      "articleId": "gnews_2d5e5031dcc5b803",
+      "articleId": "gnews_5506898bc24849e8",
       "headline": "Wolbachia: Anvisa autoriza nova empresa a produzir mosquitos que combatem a dengue; entenda - O GLOBO",
       "headlineTranslated": "Wolbachia: Anvisa authorizes new company to produce mosquitoes that fight dengue; understand - THE GLOBE",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-22T07:30:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWV5am1SRFNiaml6d2tnUTN2SUN1VlRSV1l5b1pGSUY0dHdFNVBBZjhnMHVKVnFsVC0yanpmQWQ2N210bHRya09vOHRTekhaVm1VWGxRZXRHblBZWHFRLXduZHg5dHhRTmhwOWh2SXpHTlExUVZ1Um9PMzJTc21jX04xZE4yZ2hwMHNkcVpWanc3R3Y0Z21OMWhFNHFwRGM3aHZZLWJxNUNDQzhkRGxmbDJyd24td2hvR3FucEFNNlRKemFHckZNNUR6cFd0bGl6aVJVbGhxU0lhQTBnUUE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWV5am1SRFNiaml6d2tnUTN2SUN1VlRSV1l5b1pGSUY0dHdFNVBBZjhnMHVKVnFsVC0yanpmQWQ2N210bHRya09vOHRTekhaVm1VWGxRZXRHblBZWHFRLXduZHg5dHhRTmhwOWh2SXpHTlExUVZ1Um9PMzJTc21jX04xZE4yZ2hwMHNkcVpWanc3R3Y0Z21OMWhFNHFwRGM3aHZZLWJxNUNDQzhkRGxmbDJyd24td2hvR3FucEFNNlRKemFHckZNNUR6cFd0bGl6aVJVbGhxU0lhQTBnUUHSAewBQVVfeXFMUG45dXBVdDQ4ZUR0WXlib05vX244WnBSRnREeDRCZFhYSG11TWJMc3hqOHE4VDR2MjlHQVI0b0tmaFREZ1V4S29sSzh3QzlJNFNxZTJHUjNPZ0pNN0RndFVvQmZwVlplN2lwOVI2enhidzJSUVNwV2xtamdRTU9iRjBRb3BOOHlEU2hDTDRTVTFveVhRUjRCWHo5cmZRcmJSVnVVSmFOZkJJUENicnFOSTZHMkFkSVFqZzVtbjhyM1VCT0xvMjhtbGJSTzBPUGk0am5YV0xSX3J2bkxUSERwWlhzR1BXVWEtT0J4dnQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -473,6 +513,27 @@
       "dataSource": "Google News",
       "sourceName": "PDNews",
       "headlineJa": "登録された症例は基準内にあり、継続的に監視されます。ワクチンは最良の予防法である - PDNews"
+    },
+    {
+      "articleId": "gnews_1b4cf456b8387edb",
+      "headline": "Com 13 casos de sarampo, São Paulo alerta para reforço na vacinação - Notícias ao Minuto Brasil",
+      "headlineTranslated": "With 13 cases of measles, São Paulo warns of increased vaccination - Notícias ao Minuto Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-21T21:36:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU9aZDFkM2k4SDhXR3lINkZTX1J2ZTFjcnp0d0JKRnNleE50S1RDREFpUkU1TDJGRW1ZYlk4WnNRbEZNX1RuaHpreFVXWkpTZmlyd2w5cHhLZjd0TGs4YzJsRHdUbFFtYXdJTVJHeTVFSjBYS2h1WkZLWkd0alc4TnI5Tkh5NV9BdlgyeU9jTzZjQVBYUGNUVUQtUElqbmxOZ2VlT0ZMWFF2d0diYUFOTWZCTWZmWkFh?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias ao Minuto Brasil",
+      "headlineJa": "麻疹患者13人、サンパウロ市、ワクチン接種拡大を警告 - Notícias ao Minuto Brasil"
     },
     {
       "articleId": "gnews_b3473dffb4644bca",
@@ -575,26 +636,6 @@
       "headlineJa": "サンパウロ、麻疹の感染者13人を記録、乳児と成人へのワクチン接種を強化 - Metro News Jornal"
     },
     {
-      "articleId": "gnews_6a18f55f86e94240",
-      "headline": "SP reforça vacinação após 13 casos de sarampo - noticiasdoplanalto.com.br",
-      "headlineTranslated": "SP reinforces vaccination after 13 cases of measles - noticiasdoplanalto.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T19:01:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXBLVzQ3WHNTVjVuZHlJWGF1X2ctMFYyR1VIY2ZoN2FKYnpMaEpOUG9vOE1vdF9Oa1lrREZydG9zRWFXQmgwd3NTdURXSVVOUFBLRGFZWGdka2xxZnZzSlNlSjZLd3NjcE0yWUtPSHBuUXRzblNWNnJTZlh0NEFMR3AzY3d4dlE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br",
-      "headlineJa": "SPは麻疹13例を受けてワクチン接種を強化 - noticiasdoplanalto.com.br"
-    },
-    {
       "articleId": "gnews_f5da74c56ad95ae2",
       "headline": "Vacinação infantil avança, mas sarampo segue como preocupação nas Américas, alerta Unicef - Guia da Farmácia",
       "headlineTranslated": "Child vaccination progresses, but measles remains a concern in the Americas, warns Unicef ​​- Guia da Farmácia",
@@ -615,27 +656,6 @@
       "headlineJa": "子どものワクチン接種は進んでいるが、南北アメリカ大陸では麻疹の懸念が依然として残っているとユニセフが警告 - ギア・ダ・ファルマシア"
     },
     {
-      "articleId": "gnews_7ae9858e6dbd8c04",
-      "headline": "Com 13 casos de sarampo, São Paulo alerta para reforço na vacinação - BOM DIA SOROCABA",
-      "headlineTranslated": "With 13 cases of measles, São Paulo warns of increased vaccination - GOOD MORNING SOROCABA",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T18:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFVSYnhtTTRaR1RGajc0X0lhMXZXX1VnX1h0TlFkTENEMnJnS2s4ZWdCeTB0OTF5YmROQ3ktNGp5RUk3Q2hSU19VSkEtQWVDU3VuRkxoRWM0QXM4Y3JMRVpYSFpXeDR1Z2FMQk00VVlGNTVkM25SQ2xWTVcybVZ0WF9mZ2R3bjY3QXpUMU1pU00zcDdWZUM1MXplYnlOS0xWN3FIT2ppeFlUMlVHU0pj?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BOM DIA SOROCABA",
-      "headlineJa": "麻疹患者13人、サンパウロ市、ワクチン接種拡大を警告 - おはようソロカバ"
-    },
-    {
       "articleId": "gnews_d3b4f15850203359",
       "headline": "Rio Grande do Sul confirma gripe aviária em aves de criação doméstica - CompreRural",
       "headlineTranslated": "Rio Grande do Sul confirms avian influenza in domestic poultry - CompreRural",
@@ -645,8 +665,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblp1d1N4YVpuUXFycVctS3NqdlhlUVoyLWdQWmVxNU54czVlRVRkZXVNb3M2dHQtbXRTZXN4YThhc1hhWVZKZjBDenNXaldFTkgxQVVjTWs0VVotX1p3eGg3UTI4a2ZtUlp0em9JVzlsYWctbEpCNngtLXc3U2pYbWxYbmhxcVZXV0hlRVBLUWRsSmFlaC1ZLW81WTVJWlU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -738,26 +758,6 @@
       "headlineJa": "SP、2026年に麻疹患者13人を追加、ワクチン接種の警戒を拡大 - Estadão"
     },
     {
-      "articleId": "gnews_456d45fd7fcf48ff",
-      "headline": "Saúde destaca importância da Imunização contra a dengue - Francês News",
-      "headlineTranslated": "Health highlights the importance of immunization against dengue - French News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T17:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG0yd3hRelVCd2lueVduY1NxR0U5dHpEbW9aUXphYzFnY29qNFJGMlFIRmxsS1FOTEtwT0dnQ0Y3cnRHZERKRVU2UkJaS2RRWWFNaHpVNW8ydDlRaXdONzIwTnVVVkxUaV9vUnVLRDVQV0trTkdoNF9aY2xPUUhKNWQ5a2ZKREZXRTVFYWZVR3ptcGRTbUhOOUxWdkU2N181RGxON1ZlUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "健康はデング熱に対する予防接種の重要性を強調する - フランスのニュース"
-    },
-    {
       "articleId": "gnews_0397ead2c843fd10",
       "headline": "Sarampo – prevenção e controle - Jornal Impresso Brasil",
       "headlineTranslated": "Measles – prevention and control - Jornal Impresso Brasil",
@@ -811,8 +811,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "O Alagoano",
@@ -859,26 +859,6 @@
       "headlineJa": "マセイオ - マセイオ、デング熱に対するワクチン接種を強化：予防接種を受けている若者はわずか 15% - 記者マセイオ"
     },
     {
-      "articleId": "gnews_780170b168378ff1",
-      "headline": "Índia autoriza primeira vacina contra dengue do país - Times Brasil | CNBC",
-      "headlineTranslated": "India authorizes the country's first dengue vaccine - Times Brasil | CNBC",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T14:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0xPQkRramFUWkhScTJ4dkpicWl3dENaYlhiSldiazJvQVE4Yl9BcUQydVhSaDRzX2xXVnNlZUp4Y3h6SHhwSV9EdzdOU0ItR1o3Sks1VFEyREhkUTNGZm9Oa3oxN1VFdzJDRkFEbVlPTUNhOGQ1YWxQd1pxWjktbUduUEtoRFZPbDVGOTdaMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Times Brasil | CNBC",
-      "headlineJa": "インド、国内初のデング熱ワクチンを認可 - Times Brasil | CNBC"
-    },
-    {
       "articleId": "gnews_1bfadb94d052392c",
       "headline": "Saúde destaca importância da Imunização contra a dengue - Prefeitura de Maceió",
       "headlineTranslated": "Health highlights the importance of Immunization against dengue - Maceió City Hall",
@@ -899,26 +879,6 @@
       "headlineJa": "健康はデング熱に対する予防接種の重要性を強調しています - マセイオ市役所"
     },
     {
-      "articleId": "gnews_b67452552c0950a9",
-      "headline": "Paciente quebra estrutura de UPA durante surto em Camaçari - Se Ligue Bahia",
-      "headlineTranslated": "Patient breaks UPA structure during outbreak in Camaçari - Se Ligue Bahia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T09:38:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjZTeWZKRk1oYzktemVtMTFET04yU2g0MDk3eXUyaWxYcWJqc1lWbUtZUEpTRzRNWXh6M1hLSWNIOVluZC15cGZ0ZF9QQWthUGpsRmVqdldEYVBaVlFvLUxxMmhxOGlrNmNYRnlOaGxUeEFselhIS05Zd2Q5d1hKa1RNQnBOMEZ2Rmk3THhTYmgtczUxaW8zRXpRZ0N2QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Se Ligue Bahia",
-      "headlineJa": "カマサリでのアウトブレイク中に患者がUPAの体制を破る - セ・リーグ・バイーア"
-    },
-    {
       "articleId": "gnews_4f4a4cf5cbee3ef2",
       "headline": "O novo foco de gripe aviária no Brasil não provocou o impacto de 2025; entenda - Economic News Brasil",
       "headlineTranslated": "The new outbreak of bird flu in Brazil did not cause the impact of 2025; understand - Economic News Brasil",
@@ -928,8 +888,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGpxODJRekEzOVpram1fLXlobGI3a3NoeVA3VEt2T0MtU3JNbFUyQjBhbmVEWDNTV1IwbnFDa0cwbG1ON3Bzd0dGSTlNX1VoWjIxekh3Y3VUcDlYZWM0WTJFQ29PV1ZqTXhLaHczOVJoTHM1bFNxT0N5b3pUbUFRR2djVEJmYWRj?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -938,27 +898,6 @@
       "dataSource": "Google News",
       "sourceName": "Economic News Brasil",
       "headlineJa": "ブラジルでの鳥インフルエンザの新たな発生は、2025 年のような影響を引き起こしませんでした。理解する - ブラジル経済ニュース"
-    },
-    {
-      "articleId": "gnews_57bbe4f4d7a73e61",
-      "headline": "Aeroporto de Fortaleza recebe ação de vacinação contra sarampo e influenza - O POVO+",
-      "headlineTranslated": "Fortaleza Airport receives vaccination campaign against measles and influenza - O POVO+",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-21T04:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnpBcjFvWXZTbE9LRjFSSENNTkRma2E3dWxNeTZZZlBaNnk3QUJwVndFZzlxVU9lZExRT1M0cUNlX2VVUkY0Z3hDdGdHd0tGWGVOVS01NDJrSE5tQXJnLWRYRi0wX3Vrc3VMLXh4Q3pQa2Q5MkxLQ2JIR3N6bDNYZGFiMEs3Yjl0cC1lR21pSzA5TTVROUJ1WWxfeURuY3JWckktVl9nTHc0NU9Uellma19yQzl2eXowVUg2Y0QxY1REYWRYWC1TVU55NA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O POVO+",
-      "headlineJa": "フォルタレザ空港、麻疹とインフルエンザの予防接種キャンペーンを実施 - O POVO+"
     }
   ]
 }
