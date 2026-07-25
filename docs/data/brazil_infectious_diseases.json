@@ -1,40 +1,78 @@
 {
-  "generated_at": "2026-07-25T00:45:50.757037+00:00",
+  "generated_at": "2026-07-25T08:46:22.018053+00:00",
   "date_range": {
-    "start": "2026-07-23T00:45:50.757037+00:00",
-    "end": "2026-07-25T00:45:50.757037+00:00"
+    "start": "2026-07-23T08:46:22.018053+00:00",
+    "end": "2026-07-25T08:46:22.018053+00:00"
   },
-  "total_articles": 77,
+  "total_articles": 76,
   "state_summary": {
-    "Brasil (estado não identificado)": 40,
-    "Pará": 19,
+    "Bahia": 3,
+    "Pará": 21,
+    "Brasil (estado não identificado)": 37,
     "Mato Grosso do Sul": 2,
     "Mato Grosso": 1,
+    "Acre": 7,
     "Sergipe": 2,
-    "Acre": 6,
-    "Alagoas": 3,
+    "Alagoas": 2,
     "Rio Grande do Sul": 1,
-    "Bahia": 2,
-    "São Paulo": 1,
+    "São Paulo": 2,
     "Rio Grande do Norte": 1,
-    "Rondônia": 1,
     "Amazonas": 1,
     "Pernambuco": 1,
     "Tocantins": 1,
     "Piauí": 1
   },
   "disease_summary": {
+    "Doença infecciosa (não especificada)": 8,
+    "Dengue": 53,
     "Measles": 12,
-    "Dengue": 54,
-    "Chikungunya": 37,
+    "Chikungunya": 35,
     "Zika": 1,
-    "Doença infecciosa (não especificada)": 6,
     "HIV/AIDS": 1,
-    "Avian Influenza": 1,
     "Influenza": 1,
-    "COVID-19": 1
+    "Avian Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_4dab87a074cf3f92",
+      "headline": "Saúde alerta estados e municípios sobre possível aumento de arboviroses no país devido ao El Niño - Bahia Na Política",
+      "headlineTranslated": "Health alerts states and municipalities about possible increase in arboviruses in the country due to El Niño - Bahia In Politics",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-25T08:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnViTHJpRzlqNjE0UVphaUdLaDFjeXV1NFp1LW5nU01pOG5rNzRaVDI4Wm54cWdfS0NXRjU2UXFxVzBJUnhWeDRKTXBnMzhJRTVpOUtLbTQ3ZVF1Z05sYi1TQjJSN2hTc0FBbGw1bXVxcUxtWTJ5NE12RFZMRFVYczd6NFpIeHpLXzI2M2hRY1I4LVNscDREZ0pnWnVQMUZKNHlKR0oyVVNtMUZxT0tkYVphZU53YzJiVTFFT2kwYWtMZnZLeXEzbg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia Na Política",
+      "headlineJa": "保健当局、エルニーニョによる国内アルボウイルス増加の可能性について州や自治体に警告 - バイーア州政治"
+    },
+    {
+      "articleId": "gnews_c9c35f6f0c7aed69",
+      "headline": "MPAL instaura procedimentos para fiscalizar vacinação contra a dengue em três municípios - Francês News",
+      "headlineTranslated": "MPAL establishes procedures to monitor dengue vaccination in three municipalities - French News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-25T02:17:33+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmpLZXdfbVA5aHp0U3F0NGdMMkVqa3JCdHoyMEdqb0ROUUpkOTY1ZndoV3dqYXV2bWk1UjVockhmdVRITF9vd0k3NHBDckdnSUpxZTV3cmhlS0hSR0stV1g2bC1GeFczbE5CLUV1Ulg4eS05QkdiYjl0b01SZEoteHFxeFNleGgzaHh2VXJRc0tfcDNGY1dZWXF0NUIxQ1FaVmFubFJiZUFRbl83RzhZb01kaTFXbTZxZEhwbml5NDJTTlY5UWtCam5mYWRvTm8ycHdF?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News",
+      "headlineJa": "MPAL、3つの自治体でデング熱ワクチン接種を監視する手順を確立 - フランスニュース"
+    },
     {
       "articleId": "gnews_79691bd98be96d10",
       "headline": "Em surto, EUA tem o maior número de casos de sarampo em 35 anos - Única News",
@@ -54,26 +92,6 @@
       "dataSource": "Google News",
       "sourceName": "Única News",
       "headlineJa": "米国の麻疹感染者数は過去35年間で最多 - Única News"
-    },
-    {
-      "articleId": "gnews_c9c35f6f0c7aed69",
-      "headline": "MPAL instaura procedimentos para fiscalizar vacinação contra a dengue em três municípios - Francês News",
-      "headlineTranslated": "MPAL establishes procedures to monitor dengue vaccination in three municipalities - French News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-24T20:17:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmpLZXdfbVA5aHp0U3F0NGdMMkVqa3JCdHoyMEdqb0ROUUpkOTY1ZndoV3dqYXV2bWk1UjVockhmdVRITF9vd0k3NHBDckdnSUpxZTV3cmhlS0hSR0stV1g2bC1GeFczbE5CLUV1Ulg4eS05QkdiYjl0b01SZEoteHFxeFNleGgzaHh2VXJRc0tfcDNGY1dZWXF0NUIxQ1FaVmFubFJiZUFRbl83RzhZb01kaTFXbTZxZEhwbml5NDJTTlY5UWtCam5mYWRvTm8ycHdF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "MPAL、3つの自治体でデング熱ワクチン接種を監視する手順を確立 - フランスニュース"
     },
     {
       "articleId": "gnews_29ed70495841adef",
@@ -162,7 +180,7 @@
     {
       "articleId": "gnews_17ec1e4cd70645f5",
       "headline": "EUA registra recorde de casos de sarampo em 35 anos - CartaCapital",
-      "headlineTranslated": "US records record number of measles cases in 35 years - CartaCapital",
+      "headlineTranslated": "USA records record number of measles cases in 35 years - CartaCapital",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-24T18:21:00+00:00",
@@ -178,6 +196,27 @@
       "dataSource": "Google News",
       "sourceName": "CartaCapital",
       "headlineJa": "米国、麻疹症例数が過去35年間で最多を記録 - CartaCapital"
+    },
+    {
+      "articleId": "gnews_10be189b00a7d443",
+      "headline": "Acre entra no radar do Ministério da Saúde com alerta para possível avanço da dengue e outras arboviroses - NOTíCIAS DA HORA",
+      "headlineTranslated": "Acre enters the Ministry of Health's radar with warning of possible spread of dengue fever and other arboviruses - NEWS OF THE HOUR",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-24T18:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd1pJRVlCYXcwU0tUQlhkZEpwZHZhN0xpd1hoLWRkSV8yOG8zZkp5RkZkUlpVQnQzSTZvWE1vemRnSURtTHRDRkZDaWl3UHB6dlRGdkhDVkVkOU05anNrdXpRd2FOOHNMTzVpdVJyUjBTWWNHcy1BMmZ4V3N2aG5ZRmtSbEZpazFZNDc0cEkyQUFJR1BIbmpTX1pZU05kbVhIV25NcG5uZlMwckRlN0V1UGhLd0tRdDhPeXFQUXVaaUFyMjh4QldJeGRrUldfSHJFMU1jLXJnTTQ3RU4wWTljTjR1U2ZTaGJ2UjhkcXBjN3I0Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "NOTíCIAS DA HORA",
+      "headlineJa": "デング熱やその他のアルボウイルスの蔓延の可能性を警告し、エーカーが保健省の監視対象に - 今日のニュース"
     },
     {
       "articleId": "gnews_2b1fdf2cf852fb25",
@@ -238,26 +277,6 @@
       "dataSource": "Google News",
       "sourceName": "pejornal.com.br",
       "headlineJa": "麻疹に対する意識が再び高まり、バルエリは病気の蔓延を防ぐためにワクチン接種を強化 - pejornal.com.br"
-    },
-    {
-      "articleId": "gnews_da5d1e83792f7035",
-      "headline": "MS registra 12,8 mil casos prováveis de chikungunya em 2026 e 28 mortes confirmadas - Idest",
-      "headlineTranslated": "MS records 12,800 probable cases of chikungunya in 2026 and 28 confirmed deaths - Idest",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-24T16:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUW1WSnRoWHVjbUhaV05LRzFrcmVBN3hhMjdOQVJmMkpKaW9YeGxxcnBaaTdkcXQ1SXFPSFFxM1EtOFlSdjlaTkZ5UVNvb3ZXTzVQZ1Y5Um9xYkdJWEJYcFZ0SmdZUnE5QThLQ3hPLWVXdVRHWjR3RWFZb19LWXdkb0ZtS2Y1U2lDR3IxVTFYMnRlWmMyMXB0US15V0c4TnhMTnN1QnRIbzB6Z0NuUFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Idest",
-      "headlineJa": "MSは2026年に12,800人のチクングニア熱感染者と確認された死亡者を28人記録 - Idest"
     },
     {
       "articleId": "gnews_8e7909d4c57394b0",
@@ -339,7 +358,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Gazeta De Varginha",
-      "headlineJa": "麻疹はワクチン接種を受けていない乳児や成人の感染を受け、当局を再び懸念させている - Gazeta De Varginha"
+      "headlineJa": "麻疹はワクチン接種を受けていない乳児や成人の感染を受け、再び当局を心配させている - Gazeta De Varginha"
     },
     {
       "articleId": "gnews_b29fb3a007b0cfcc",
@@ -384,6 +403,26 @@
       "headlineJa": "エルニーニョによりブラジルでデング熱感染者が増加、2027年に向けて警戒が高まる可能性 - A Critica de Campo Grande"
     },
     {
+      "articleId": "gnews_67c8a341cb2e96c7",
+      "headline": "Portal de Noticias - bra1.com.br",
+      "headlineTranslated": "News Portal - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-24T14:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWl5OURlY0FxUXA5T3VjanRYRzBXbWlpWVh5UHREeXgwOVhSVlJLR0lMVUNGYzRxUDNYQVdublBtYlRsbk9EWDVzM1BKMmFZVUMxaFNRQjlCZXdLSU13YWNZWG5jbzA0ZVh3TERzZVBKNWs4TXRDeGRxWksyMVctYmhaXzlIVmktc2hCV1NPUEZTcEN6VVJZWi0zUWpjUVNvVWRJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "ニュースポータル - bra1.com.br"
+    },
+    {
       "articleId": "gnews_ebf6decf935eb73e",
       "headline": "Prefeitura de Juiz de Fora reforça vacinação contra o sarampo após aumento de casos nas Américas - RCWTV",
       "headlineTranslated": "Juiz de Fora City Hall reinforces vaccination against measles after increase in cases in the Americas - RCWTV",
@@ -422,6 +461,26 @@
       "dataSource": "Google News",
       "sourceName": "Acre Jornal",
       "headlineJa": "アクレ、保健ネットワークを活性化し、麻疹再導入のリスクに対する監視を強化 - Acre Jornal"
+    },
+    {
+      "articleId": "gnews_ddad68dcce607908",
+      "headline": "Mais de 20 mil casos e 25 mortes nas Américas colocam Acre em alerta contra o sarampo - O Juruá Em Tempo - Juruá Em Tempo",
+      "headlineTranslated": "More than 20 thousand cases and 25 deaths in the Americas put Acre on alert against measles - O Juruá Em Tempo - Juruá Em Tempo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-24T13:08:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjdHSVVhNWdWalhacXpxUlhQS3hyc2dBVXhONjhWSmxSZWRhZkdveXpYdmQzNGFRU2MzSEJnYkVDZ0JMR2s2MzMwaU1xekNzRDJKZU1kb2REM1IycUEydDNfbDk4Qm9hZ0d2Z3ZQLXZFWXFMUXp4RlF3dE83d0c1WVFmNDRrRXdmQ0laS1UxaVM2ZXFnb29YS3hZSHhPSU4tS1FyMnNLbTN1U0FxaEFtSmUxeEM1elZSbEVRaWs5M2V1UGhfNmU4aDdR0gHKAUFVX3lxTFBuN0dJVWE1Z1ZqWFpxenFSWFBLeHJzZ0FVeE42OFZKbFJlZGFmR295elh2ZDM0YVFTYzNIQmdiRUNnQkxHazYzMzBpTXF6Q3NEMkplTWRvZEQzUjJxQTJ0M19sOThCb2FnR3ZndlAtdkVZcUxRenhGUXd0Tzd3RzVZUWY0NGtFd2ZDSVpLVTFpUzZlcWdvb1hLeFlIeE9JTi1LUXIyc0ttM3VTQXFoQW1KZTF4QzV6VlJsRVFpazkzZXVQaF82ZThoN1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Juruá Em Tempo",
+      "headlineJa": "アメリカ大陸で2万人以上の感染者と25人が死亡、エーカーは麻疹に対する警戒を強めている - O Juruá Em Tempo - Juruá Em Tempo"
     },
     {
       "articleId": "gnews_cdd728c8f16ed115",
@@ -546,26 +605,6 @@
       "headlineJa": "ペルーでの麻疹の蔓延により、アクレは緊急健康対策の導入を余儀なくされる - ContilNet"
     },
     {
-      "articleId": "gnews_82420b167f8cf4f4",
-      "headline": "Mais de 20 mil casos e 25 mortes nas Américas colocam Acre em alerta contra o sarampo - ac24horas",
-      "headlineTranslated": "More than 20 thousand cases and 25 deaths in the Americas put Acre on alert against measles - ac24horas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-24T11:18:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHBwNFg3TEl0MFFZVllBZ2JYYzVXblNRd2RkR3E2aERfa2lWUzlBRXNkRk1xM2VIM2hEN1pVd1lJLW1YR2xHZ2dqZnhqTWpWd25XV1lPMXFMYzk3NURNU1Axc0NnbHV1aVI4ZWkydHd0cTd0TTdjVUk0MzRMMTg2TVN2azB3dDZyN3drVVZVSzdzenYtejNtZXZaelNPaUdGQlZFQlZOcjFCdUFlS09DSWV4OF9JbkdvVm5j0gHAAUFVX3lxTE5HS012ZW5mdzlXTTBIZlB3RDFaOHRvWmNnbF9PZGpEaGlQZDQwZXF3bXVyTVo0Y05Nb0RoREs0aWdIQ2R5VEUxNjh2XzJsSlQ0MWhhX0x0T2JnajRuMC11UXBRSEZNR29YZXNySldkVlhza3pXQjNhaHhlVU9teGpxZVE3QmxOdnZRVFhaRG5qOUl2YWI0RWF1czRPZ0tUMHMxaVpqS0JVVVl1VkpUaE11UW5lTGtxZjV6cW5tZVpPeg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ac24horas",
-      "headlineJa": "アメリカ大陸で2万人以上の感染者と25人が死亡、エーカーは麻疹に対する警戒を強めている - ac24horas"
-    },
-    {
       "articleId": "gnews_58848d93aac15ee4",
       "headline": "MP acompanha vacinação contra a dengue em três municípios de Alagoas - Jornal Extra de Alagoas",
       "headlineTranslated": "MP monitors vaccination against dengue in three municipalities in Alagoas - Jornal Extra de Alagoas",
@@ -640,8 +679,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
@@ -688,6 +727,26 @@
       "dataSource": "Google News",
       "sourceName": "correiodamanha.com.br",
       "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加する可能性 - maildamanha.com.br"
+    },
+    {
+      "articleId": "gnews_55e5eb65871878f2",
+      "headline": "Pneus abandonados que virariam foco de dengue, incêndio e poluição são triturados e usados como combustível alternativo em fornos de cimento, e só no Brasil o coprocessamento destinou 321,9 mil toneladas em 2024 para substituir parte do carvão e do - CPG Click Petróleo e Gás",
+      "headlineTranslated": "Abandoned tires that would become a source of dengue, fire and pollution are crushed and used as an alternative fuel in cement kilns, and in Brazil alone co-processing allocated 321.9 thousand tons in 2024 to replace part of the coal and - CPG Click Petróleo e Gás",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-24T00:29:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbFFkSGtGVDMyc1oycTNNc3hVNmg0R243U2lnWU03ak82cmJWRXFxRmU1TFQtTm5hRDVIalZ3Uk1tNXc3YUE5di04ejBFaElfc3UwdFJBMEtWMlV2NXFtS3hxdzB6MDl3cEtiZWU1NHlzRi1GUDZfd1daRHpiNTBPdDRTei1rOU9Fb0EyN0gzWFh4MGEzdTlzaUJPZ2J4TV9WSTgwdkVReEFuSWZhUjZEQnV5YWhKRVBQSzJNLWpOazFRcGRUX21nbmJNb1lIU2dIamNWUUtIcTFtT0dBMUNoM1czWFNTVzZudThyMDFpQTF3UEZ5dUpBdWRXTXNIVUVnNldBanhMenZhd2s?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CPG Click Petróleo e Gás",
+      "headlineJa": "デング熱、火災、環境汚染の原因となる廃棄タイヤは破砕され、セメント窯で代替燃料として使用されており、ブラジルだけでも、石炭とガスの一部を代替するために、2024年に321.9千トンの共処理が割り当てられている - CPG Click Petróleo e Gás"
     },
     {
       "articleId": "gnews_5dec17d2e7260edb",
@@ -774,27 +833,6 @@
       "headlineJa": "エルニーニョ現象により、ブラジルでのデング熱とチクングニア熱の感染者数が増加する可能性がある - フランスのニュース"
     },
     {
-      "articleId": "gnews_7b3c55e328a7e85e",
-      "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - A Gazeta do Acre",
-      "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - A Gazeta do Acre",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T21:30:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLTc1S3pKVHR6RTJrYmRyT3FRMTdfTGliOEdDYkRZZkxrOXBScktsN2tYWGgzTUtobGdES2wwMVBKcjFsZWJwMjE2dF9EYXhJWlQydnR5TWtPVlZZb1lLSnFGMnBvNTZwN1BuWmJJZ0FxclA3MWkyOGlfcjlWSFh1Wmc2cWJ2Q2UybnZkNjRXdGJtemdmVnVHcV9HLU85Y1ZoYWJWblVjRUd3UVFwMUI3b1Y0RncyOEtOMFRhV3JVWEd2bjFyVkI1MFBock1ZZTA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Gazeta do Acre",
-      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加の可能性 - A Gazeta do Acre"
-    },
-    {
       "articleId": "gnews_bacc810a079dce2f",
       "headline": "Fenômeno El Niño pode elevar casos de dengue e chikungunya no Brasil - blogdosilvalima.com.br",
       "headlineTranslated": "El Niño phenomenon could increase cases of dengue and chikungunya in Brazil - blogdosilvalima.com.br",
@@ -836,6 +874,27 @@
       "headlineJa": "ブラジルの麻疹を撲滅するにはワクチン接種が不可欠です。 PJF、線量供給を強化 - PJF - ジュイス・デ・フォーラ市役所"
     },
     {
+      "articleId": "gnews_5aa9b11f4c4e7211",
+      "headline": "Saúde Alerta Que El Niño Pode Elevar Casos De Dengue E Chikungunya - Acre in Foco",
+      "headlineTranslated": "Health Warns That El Niño Could Increase Dengue and Chikungunya Cases - Acre in Foco",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T20:58:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXpmRnRXYUJoaTR6T2huZHQxaFVubDdRY0NYNkJEY2RaNTR6cUp4cVBTcHlXQ09kaU15U3hhajRrajNRQVVHZTZ5eUluc243NjdmUmtySHFobU9rTUlYS1BPVDFBbTg3czZkejA2UW9yQjNZS1phMXJ3V1pfaGlqS0ZjblpwZ2s4YUU3aFZuczVEVGZaZVgxamd6cTh1RUk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acre in Foco",
+      "headlineJa": "エルニーニョによりデング熱とチクングニア熱の感染者が増加する可能性があると保健当局が警告 - フォコのエーカー"
+    },
+    {
       "articleId": "gnews_6fb0f83bf5ab2849",
       "headline": "Limpurb intensifica limpeza em Paripe com ação contra a dengue - A TARDE",
       "headlineTranslated": "Limpurb intensifies cleaning in Paripe with action against dengue - THE AFTERNOON",
@@ -854,48 +913,6 @@
       "dataSource": "Google News",
       "sourceName": "A TARDE",
       "headlineJa": "リンプルブ、デング熱対策でパリペの清掃を強化 - THE AFTERNOON"
-    },
-    {
-      "articleId": "gnews_2df394ff029189d8",
-      "headline": "El Niño pode aumentar casos de dengue e chikungunya no Brasil, alerta Ministério da Saúde - Folha BV",
-      "headlineTranslated": "El Niño could increase cases of dengue and chikungunya in Brazil, warns Ministry of Health - Folha BV",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T20:41:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUFxYm40dVRUSUdZbVhDalRwTlpnWms5a0hqMVp3czE3NzJHbDlFUVRTZFVLLUlZOXBycjZMWmwxZnBnUEJrQ3BSajBVcmg5bVJIWHpHQVRGYnNweFE2X0FlbXM1LWR4eXFmb0txMk96LTdXT28xS0NTSklrVENkbGR4M2MyaDNldjdPMGVMMy1oZkdxLUw3cWxHcFVjNUZTUkZZcXE0eUhSdjNSdm9rNnZybmVKb2ZfX0xMNzVYTmtTNlR1?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha BV",
-      "headlineJa": "エルニーニョによりブラジルでデング熱とチクングニア熱の感染者が増加する可能性があると保健省が警告 - Folha BV"
-    },
-    {
-      "articleId": "gnews_9ca4a2be466bcd4f",
-      "headline": "Saúde alerta para aumento da transmissão de dengue e chikungunya com El Niño - vtvnews.com.br",
-      "headlineTranslated": "Health warns of increased transmission of dengue and chikungunya with El Niño - vtvnews.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T20:31:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY3A0S3BiMU5YXzR2WWhGcWUyblc1RnFBenltcFBsMVpnSXJWUk03X0p0NGVvRjRiNlF1eG5YMlphb1pyTjc3cHdBMWl2cVdqZTBGNHNKYTJaM2p0TXcyeTRLbmQzRV9qYjNMaGFYTWVuMXZST2oyQ0R0TWtsZlVxbQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "vtvnews.com.br",
-      "headlineJa": "エルニーニョ現象によるデング熱とチクングニア熱の感染増加について保健当局が警告 - vtvnews.com.br"
     },
     {
       "articleId": "gnews_6e81d7a8132fb355",
@@ -919,27 +936,6 @@
       "headlineJa": "保健省、エルニーニョの影響の可能性でデング熱増加のリスクを警告 - Portal 98 FM Natal"
     },
     {
-      "articleId": "gnews_95bf4daa532f58e5",
-      "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - redeutv.com.br",
-      "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - redeutv.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T20:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFB3eUhiSC1xMVJ0V2xkVzBtSEdNanVqTVVMTGpoSjd5LVFuUWhCM3dCZjk3N2NGVlI5U09UcXRfdFBwR3hXenMzTGlYTEZYdThweHpSaTB5cHJPUzFKbWEwYWhLMG13b2hwU1BDbEduWDJRT3VFd1RQeWNrcWQyM1hhcWJ6UHdrQmYyNA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "redeutv.com.br",
-      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加する可能性 - redeutv.com.br"
-    },
-    {
       "articleId": "gnews_7c9b8236ccb24436",
       "headline": "El Niño acende alerta para possível aumento de dengue e chikungunya no Brasil - Rádio Manchete Rio",
       "headlineTranslated": "El Niño raises alert for possible increase in dengue and chikungunya in Brazil - Rádio Manchete Rio",
@@ -959,26 +955,6 @@
       "dataSource": "Google News",
       "sourceName": "Rádio Manchete Rio",
       "headlineJa": "エルニーニョ現象により、ブラジルでデング熱とチクングニア熱が増加する可能性があると警告 - ラジオ・マンチェテ・リオ"
-    },
-    {
-      "articleId": "gnews_8da5129470736624",
-      "headline": "El Nino pode impulsionar casos de dengue em 2027 - News Rondônia",
-      "headlineTranslated": "El Nino could boost dengue cases in 2027 - News Rondônia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T20:06:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWNObFJCdzlObXdsX1lkaWFPZ0MwVGZNbDVGN3FXc3RuLVZLQVMxOEx5Q2ZmVW4zT3Vmdk1weWVuVTJsdVVtMzdtZUJ0eTZTOElEenVpRzlmRGZoRmpMUmk1bHZWbGtXZGZzejBoM3dxYUI2NHpoU0dUSGVUdWNoZUgyc0dUcDNrNk9nVjhkOGFJUy1qUzI3SUZTQWZVM184ejNTWg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rondônia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "News Rondônia",
-      "headlineJa": "エルニーニョ現象により2027年にデング熱感染者が増加の可能性 - ロンドニアのニュース"
     },
     {
       "articleId": "gnews_19f60a9758cffc35",
@@ -1023,6 +999,27 @@
       "headlineJa": "エルニーニョ現象によりデング熱とチクングニア熱の進行に対する警戒が高まる - Portal Agro2"
     },
     {
+      "articleId": "gnews_4403ee35e88c3d7f",
+      "headline": "Ministério da Saúde alerta para dengue e chikungunya com chegada do El Niño - Leouve",
+      "headlineTranslated": "Ministry of Health warns of dengue and chikungunya with the arrival of El Niño - Leouve",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T19:31:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmRyUWltdTZoNjJvVklzX2N1cmhYVkpLNDFVNUFndmN0YVVjYWZPU19HVkZ0RGdjd2s2YU0yOGlSOUZtcVROaTFRWEpoVUNxMmFmYUpWUWpZcGpCRUtyNVJxUHVIVlZNWVBZaVBpMFRYWlU4U19id3drak9qb3daWVBNYlEtOXhuRy05SWJlOENWUmpaUjBsY1ZlSWEwOG9LZDNUdkl6SQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Leouve",
+      "headlineJa": "保健省、エルニーニョ到来でデング熱とチクングニア熱に警告 - ルウーベ"
+    },
+    {
       "articleId": "gnews_bb552bca11067f05",
       "headline": "El Niño pode elevar casos de dengue no Brasil em 2027, alerta Ministério da Saúde - Rádio Metrópole",
       "headlineTranslated": "El Niño could increase dengue cases in Brazil in 2027, warns Ministry of Health - Rádio Metrópole",
@@ -1040,7 +1037,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Metrópole",
-      "headlineJa": "エルニーニョにより2027年にブラジルでデング熱症例が増加する可能性があると保健省が警告 - ラジオ・メトロポール"
+      "headlineJa": "エルニーニョ現象により2027年にブラジルでデング熱症例が増加する可能性があると保健省が警告 - ラジオ・メトロポール"
     },
     {
       "articleId": "gnews_f250433a88009c68",
@@ -1061,6 +1058,27 @@
       "dataSource": "Google News",
       "sourceName": "BHAZ",
       "headlineJa": "伯爵は11月からデング熱に対してボルバキアを持った蚊を放出したことを確認 - BHAZ"
+    },
+    {
+      "articleId": "gnews_cdfa0d8458490b2d",
+      "headline": "El Niño pode favorecer aumento da dengue e da chikungunya no Brasil, alerta Ministério da Saúde - ClicRDC",
+      "headlineTranslated": "El Niño could favor an increase in dengue and chikungunya in Brazil, warns Ministry of Health - ClicRDC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T19:11:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZlZFaHB1RGFSRkF5RkY5b1ROVTVTRDZpa2hYTnI5MXFLaVJ3ZjhOczlXcDQ4eFJjbEFNNk5iM29mZE8wSTF4YVhjMGNxcGJDRUdUdVdnYUMtRU5IZWlkVEM3UVUzUHhWQUVfU0lUSEZvWkZpLXA2cXJiWHVpdGlSblVLVjExWlRjQWE0V3pJQVJiQWp5RU1Bdnl3ZmRwWUVaWjVteWd2U0VLRVJueVpycm5HS0E1RHE3SzRXa2NGM3prQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ClicRDC",
+      "headlineJa": "エルニーニョはブラジルでデング熱とチクングニア熱の増加を促進する可能性があると保健省が警告 - ClicRDC"
     },
     {
       "articleId": "gnews_a3c208251f2fd9f2",
@@ -1100,7 +1118,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "sctododia",
-      "headlineJa": "エルニーニョはデング熱のリスクを高める可能性があります。ブラジルの感染者は170万人になる可能性 - sctododia"
+      "headlineJa": "エルニーニョはデング熱のリスクを高める可能性があります。ブラジルの感染者は170万人の可能性 - sctododia"
     },
     {
       "articleId": "gnews_6b07cb45bbca5daf",
@@ -1268,7 +1286,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas",
-      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加の可能性 - アマゾナスポータル"
+      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加の可能性 - アマゾンポータル"
     },
     {
       "articleId": "gnews_b587af882c2430c1",
@@ -1391,6 +1409,26 @@
       "dataSource": "Google News",
       "sourceName": "Aracaju Magazine",
       "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の症例が増加する可能性 - アラカジュマガジン"
+    },
+    {
+      "articleId": "gnews_1931f6fb539ce710",
+      "headline": "Sampi Campinas: Campinas produzirá mosquitos contra dengue após aval da Anvisa - sampi.net.br",
+      "headlineTranslated": "Sampi Campinas: Campinas will produce mosquitoes against dengue after approval from Anvisa - sampi.net.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-23T17:11:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2pNTk1TUm5oUlpIYm1fZ2FKX3NNWV9TOG1Ya1pTc3gwNlJLMkM4dlJqbHNuXzFLZXZJUUtjaXg0UVVlLWxUNjNYUEVLbDJ2eGlDOU1NLW5DYW5LbjAzcjRwQmFBN05fVTJnT29TYVJYWGFFeDB1XzF1WXpiMlQxMFFfTFppYXVoRld4SHVrVVdxVHlDZ3RRQ0pHUHh3LXc5NnptOHRUZ1lTOXU3SVpjUm5kRV84QWRoQnplZThSS3Q1aEY2?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "sampi.net.br",
+      "headlineJa": "サンピ・カンピナス：カンピナスはAnvisaの承認後、デング熱に対する蚊を生産する予定 - sampi.net.br"
     },
     {
       "articleId": "gnews_fd23313fe378cfdd",
@@ -1527,8 +1565,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MM09pamFxamFBbmwzRm5kcW9LemRZUEkzOUZyZXc3UWdNQWxkNGF4TmFJWk9JSEhXcmxGMlhqaVhxMzhKb1JlZTNxSXBsRmE2b2hJb3dzejlZcmt6M1hxRnRSZjJ2WVVpNEVLS1pPODF4enpRaFNN?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -1556,67 +1594,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Itatiaia",
-      "headlineJa": "麻疹の感染者が13人に達し、SPは乳児と成人へのワクチン接種を強化するよう警告しアドバイス - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_7b7e2e9dfa168920",
-      "headline": "Médicos ecoam ministério e veem risco aumentado de dengue com El Niño - Correio Braziliense",
-      "headlineTranslated": "Doctors echo the ministry and see an increased risk of dengue with El Niño - Correio Braziliense",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T08:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWttWXpfWllySVc2bjdfZTU5QmdGRkQyYnZjS3dNRm1MYm85SG0xSGdyVTkyYUhDN3RqMjU3dkViQklUR3Jvb2FpNEZQQzNYUXZPdnJ2c3BaQzhkTVJTeUlWZmtqbHZmQW8wR001YVVIeHp2SUh2bDlxRlQ1NTV6Q0VTSTVkZ2MxMFVWbkU4YU1kOFY4RllaTFZHR1BWNnBsNWFaTWRzS3ZFMzFqd3JXMEVMTVVUdXJBLWFNQVVGTm53SGdNeVFzeGxrUDB1NVd20gHWAUFVX3lxTE5aODdob01CQ3lXRWdXeE1ESUNodTNNc2ZnSmxfRmpmT3VRRUoxeEUzWGxTTXQ3b0FqTnpOS0JhaWkzUGdaYkFyMGZtQ01JSmNJU1RJWnhxemFJRXU1Nm16d3ZPaUJneEVuNFY3UzdJbWxrMEluWUJpODFBRjZ3SlAyZlZsQms3NXh0elZ0Q1Z5OG8xMjB3S0tzdnBERU9wRGJ3N1RDUmxjX1FrQndhMk02bmZ0QXpqU0sxYlE0eHVGanFSVk1qUmQ3WDVDSTJEUmU5WWhpeUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "医師らも保健省の意見に同調、エルニーニョでデング熱のリスクが高まると見ている - コレイオ・ブラジリアンセ"
-    },
-    {
-      "articleId": "gnews_0371ed72406dcd42",
-      "headline": "Ministério Público abre investigação sobre risco de surto de dengue em Satuba - Gazeta de Alagoas",
-      "headlineTranslated": "Public Ministry opens investigation into risk of dengue outbreak in Satuba - Gazeta de Alagoas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T07:00:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWVUaG8xOEpxcFF6N2VGOTRSX0NVa3hLc3dmcnRmSkV0a1l1bE1pclY4VHpBSUM1c1FBNDdSMFVITm5hbWtpTFQ2RzE3clNvckQyc2FsRGc0NHZsSHdQV0duSkFyaTh0MnNtSTFEVEx2WDhiZjZwMVhoWFl0SjRkM0l4OGxKM1Zicm9Mc1JsMHNoeXdia3ptTF9qV2oxRFpOMjZ0WUQtXzBUV1hXZTBFYXJNdXVBSmlVclo3TGxyQUFMUU5yamfSAc4BQVVfeXFMUDZiaGg1YWtOTHVoWGM2NWdoSVdYbkNqX2J5X0loN2JrY1NPc0JuOV9EWHktdWJYcFhvZnBXS3d4SEJsRHJhX1pVQk10c0hKYXlwMWhmSDY4Tlp2YnpKbTR3SkJJU1U3ZkpsZmJidDljbzJDVno5RHhORHNZOVZNcnZBUy1Ea2hvM3JIT0VIbjMtcFVha01iRW4yOVExQXVqM1l2QmhBLWJwRnBkQWhiRzFIcHNFLS1XT1V6d0lPYW1hc2JaYlg5QnhsdTJ5a3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gazeta de Alagoas",
-      "headlineJa": "保健省、サトゥーバでのデング熱発生リスクに関する調査を開始 - Gazeta de Alagoas"
-    },
-    {
-      "articleId": "gnews_eb286df1b9eee655",
-      "headline": "COVID-19 in real world: Survival and medical costs of hospitalized patients in Brazil´s first wave - www.elsevier.com",
-      "headlineTranslated": "COVID-19 in real world: Survival and medical costs of hospitalized patients in Brazil's first wave - www.elsevier.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-23T01:28:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXFiYmh1Q2h5NUJLRGdpSlVNY1dCR1VUNWU2dnFZQTVkal9jQlJnV3o4Yk54ZE1KNm95MkRSLUVLWXhFWlJQNzVVb1BXUjdkTndsbzNUMjNQNHdKcUFQdnZfSnFLcGN3RVVlcHBDLU4tV1pJb0MwZ1hwTjBRUkJweE1KYjJHa1JhVi1FTnN4dFIzRU96NjBFbEVQSGxKQVdmNVd1S29WV09LNmJCRFZyNUU2emdnMFg3dllhYmYxdU15ZVY0eEhWQko3UEZKSkE2VEZHbmln?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "COVID-19"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "www.elsevier.com",
-      "headlineJa": "現実世界の新型コロナウイルス感染症: ブラジルの第一波における入院患者の生存と医療費 - www.elsevier.com"
+      "headlineJa": "麻疹の感染者が13人に達し、SPは乳児と成人へのワクチン接種を強化するよう警告とアドバイス - Radio Itatiaia"
     }
   ]
 }
