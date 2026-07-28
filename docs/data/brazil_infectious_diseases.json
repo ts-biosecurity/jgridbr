@@ -1,26 +1,66 @@
 {
-  "generated_at": "2026-07-28T00:42:52.699915+00:00",
+  "generated_at": "2026-07-28T08:59:44.136215+00:00",
   "date_range": {
-    "start": "2026-07-26T00:42:52.699915+00:00",
-    "end": "2026-07-28T00:42:52.699915+00:00"
+    "start": "2026-07-26T08:59:44.136215+00:00",
+    "end": "2026-07-28T08:59:44.136215+00:00"
   },
   "total_articles": 17,
   "state_summary": {
-    "Brasil (estado não identificado)": 8,
     "São Paulo": 2,
+    "Goiás": 1,
+    "Brasil (estado não identificado)": 8,
     "Pará": 3,
-    "Acre": 3,
-    "Mato Grosso do Sul": 1,
-    "Mato Grosso": 1
+    "Acre": 3
   },
   "disease_summary": {
-    "Chikungunya": 6,
-    "Dengue": 8,
     "Measles": 4,
-    "Avian Influenza": 1,
-    "Influenza": 1
+    "Doença infecciosa (não especificada)": 1,
+    "Chikungunya": 5,
+    "Dengue": 8,
+    "Influenza": 1,
+    "Avian Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_417d09d472005c68",
+      "headline": "Sarampo se espalha pela cidade de São Paulo - Valor Econômico",
+      "headlineTranslated": "Measles spreads across the city of São Paulo - Valor Econômico",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T08:00:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2ptT25uVU1BeTR6NzFVeG9Xak1iMXdnbVU5Z2ZCelkxY0h6Vnljc0Rvc2hjZnotMjNaR29VRG9iN3ptTWRaU1lLWU4yOTRsbXd4X0ZXeVpsVHlQSHVWdjg4ZDZOWUlxU0ZzWHRFR2Z2NXdKbWp3R0RQeGJVWkZKTnZhb0t3VkFUYUYzOTh3Vm4yX3VaWlFSb2ZLa29TVngt0gGvAUFVX3lxTE5KbDBGMU4yOTFoaDItR3Y3SlN2MnBaMzd4Q2ZwZ1h4S1VMRlFnbkpZN0dkZmx3azVCcVNrOXVQSnhoX2RrSkpjVkVEYXd5V2dqOHI2V2xGRUNLUkxNdVl0QThhOHVvS1FEQzR0bW9EMFFwRmZFdkI1N1RjdDV1NUhxaWdlNXpiLXZTSDI0M1NwNXBwLVZad1ZsVFZJQnJ6MHRGUDZwampweldmbmJfRUU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Valor Econômico",
+      "headlineJa": "麻疹がサンパウロ市内に蔓延 - Valor Econômico"
+    },
+    {
+      "articleId": "gnews_b7c56647923795a6",
+      "headline": "Goiânia amplia coleta de pneus e incentiva descarte ambiental correto nesta quarta-feira (29/07) - Diário da Manhã",
+      "headlineTranslated": "Goiânia expands tire collection and encourages correct environmental disposal this Wednesday (29/07) - Diário da Manhã",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T00:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWEya2tkalBhNFBNb0Rmd0VpX3RIQkFzNkZ6RjVSUDRjTUNsWGY4M0RDdVZQOUFiYTl4V1V0TGdIYUhYRFRoLTVxMzdUeDZFc2lwUTdzdlZfMk5ERzd0Ym1mRFFsLXJyalB0bEVtRUE4MndwdnVZRDRIMlVDUVl1amhfUjRlSVA1enJxckdfS1JDWGJ3T2d4SEYwQ1hhc0NqVTBFakNqYXZNWjB4aUlaeWIyRkp3aXdzS3l5YU0yTzZjWi15YVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Manhã",
+      "headlineJa": "ゴイアニアは今週水曜日（2007/29）、タイヤ回収を拡大し、正しい環境廃棄を奨励 - ディアリオ・ダ・マンニャ"
+    },
     {
       "articleId": "gnews_ee346a8df88d9c43",
       "headline": "SAÚDE El Niño pode aumentar casos de chikungunya e dengue no Brasil - NOVO Notícias",
@@ -92,8 +132,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDAyTGhlenJ5dVRlZ0QxUnBrZk1SdXZLU1BvNWJ4TTh6NDhUTkN5d1llNDFLQUxNN3FveEllUnVZRm1UQms0MmxCY3Q3SGVRaDRwOFBmS3RuRHNEWFp4WFZFZU1NaHlCUEhudzJWWkVLVFhvdG5aQ1lScHdXa2VvbW1zNEFUSmtlVUtfY2d0UUtya1N1ZFlQS1ZjVWxJNTFGRW5sYU9QaFA2SVU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -102,26 +142,6 @@
       "dataSource": "Google News",
       "sourceName": "O Presente Rural",
       "headlineJa": "農業省、ブラジルで鳥インフルエンザの疑い2羽を監視 - O Presente Rural"
-    },
-    {
-      "articleId": "gnews_d285422b00f2e6b2",
-      "headline": "Sarampo avança em São Paulo e já soma 11 casos em quatro distritos em 2026 - O TEMPO",
-      "headlineTranslated": "Measles advances in São Paulo and already has 11 cases in four districts in 2026 - O TEMPO",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T18:19:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGdiOTc4OE5JSlJTbmpKb2NfeHNYWk1CdEZSR1FEd0l3WW1DTS1FZzRyOUVxOUtndktPVmU3aXM5VTNMbU5wbFExN3Z4a2hPUnRWNlEtNjJ1cnNNdUhlNUhaUUJwMkJTd0g3VjVzUlBESFVRV2l4S1dSeU5KLUpOMk9EWFA0cGV5TWhRa3Axd0R5TDZUanlJTUdZZWprUUJXa3R5a0d1N1FzNGstSTFfSVNpRHFXdWxR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O TEMPO",
-      "headlineJa": "サンパウロで麻疹が拡大、2026年にはすでに4地区で11件発生 - O TEMPO"
     },
     {
       "articleId": "gnews_58dc9fb1b22997c7",
@@ -343,27 +363,6 @@
       "dataSource": "Google News",
       "sourceName": "G1",
       "headlineJa": "デング熱警報 - G1"
-    },
-    {
-      "articleId": "gnews_dc538fbd65910ffb",
-      "headline": "Mato Grosso do Sul confirma 9,6 mil casos de chikungunya e 28 mortes em 2026 - Diário Corumbaense",
-      "headlineTranslated": "Mato Grosso do Sul confirms 9,600 cases of chikungunya and 28 deaths in 2026 - Diário Corumbaense",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-26T04:00:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IU3B2SUNNRDVrd0ZVWExWdVZRbHFSS3VIWVIxUTVZRkFsYWVPeHVTLXlwbzhvZHRJSW5yRHk1WUttbG9QVl9ZdDRKTzN1VkFxMlZPSlAxLVowV25KdmJsZQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário Corumbaense",
-      "headlineJa": "マットグロッソ・ド・スル州、2026年に9,600人のチクングニア熱感染者と28人の死亡を確認 - ディアリオ・コルンバエンセ"
     }
   ]
 }
