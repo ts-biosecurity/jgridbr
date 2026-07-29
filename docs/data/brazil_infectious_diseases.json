@@ -1,32 +1,477 @@
 {
-  "generated_at": "2026-07-28T16:38:38.437114+00:00",
+  "generated_at": "2026-07-29T00:42:56.194479+00:00",
   "date_range": {
-    "start": "2026-07-26T16:38:38.437114+00:00",
-    "end": "2026-07-28T16:38:38.437114+00:00"
+    "start": "2026-07-27T00:42:56.194479+00:00",
+    "end": "2026-07-29T00:42:56.194479+00:00"
   },
-  "total_articles": 22,
+  "total_articles": 44,
   "state_summary": {
-    "Brasil (estado não identificado)": 8,
-    "Sergipe": 1,
-    "Alagoas": 1,
-    "Ceará": 1,
-    "Goiás": 3,
-    "Piauí": 1,
-    "São Paulo": 2,
-    "Pará": 2,
+    "Goiás": 6,
+    "São Paulo": 9,
+    "Pará": 5,
+    "Alagoas": 3,
+    "Brasil (estado não identificado)": 13,
+    "Amazonas": 1,
+    "Piauí": 2,
+    "Sergipe": 2,
+    "Ceará": 2,
     "Acre": 3
   },
   "disease_summary": {
-    "Measles": 4,
-    "Dengue": 12,
-    "Doença infecciosa (não especificada)": 2,
-    "Chikungunya": 5,
+    "Dengue": 19,
+    "Measles": 15,
+    "Doença infecciosa (não especificada)": 6,
+    "Chikungunya": 4,
+    "Meningitis": 1,
     "Zika": 1,
     "Yellow Fever": 1,
     "Avian Influenza": 1,
     "Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_62662d7c3dcd9f6b",
+      "headline": "Goiás registra alta de 15% nos casos de dengue e 75 mortes em 2026 - Diário da Manhã",
+      "headlineTranslated": "Goiás records a 15% increase in dengue cases and 75 deaths in 2026 - Diário da Manhã",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T23:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVhlNmNfNHp2U2pXZXE3QzlvZ3FTZ2U0eVhBRnFhc1RHN0h6bEs1a3E0TTB0NkRsVzBkUExWdHNQSmlzOWYzMVlESTROZUg2QnlVYWJmVDczMmRpaEU4RXRpamNkR0RJLVVaejExQ2cwUkh5Q1NpR254NERERVRSWVVMQ2w3dkI0N3NBWlFEbHhReGZZVWlJMFNFSEdxV0k?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário da Manhã",
+      "headlineJa": "ゴイアス州では2026年にデング熱感染者が15％増加し、75人が死亡したと記録 - ディアリオ・ダ・マンニャ"
+    },
+    {
+      "articleId": "gnews_d08aaff652b1aa4a",
+      "headline": "São Paulo confirma novo caso de sarampo e chega a 14 registros da doença em 2026 - Rádio Itatiaia",
+      "headlineTranslated": "São Paulo confirms new case of measles and reaches 14 records of the disease in 2026 - Rádio Itatiaia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T22:27:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVMzUWJhTUxtYUliUU5kREIwXzQwal92TkdfSnIxMXNRVGM2S2Fnc0thM0w2MDNMNUIzLVJmMVVEZy1lN09nUGp6NS1weGs5OUQzSkE0bFEwTlFmbHFKYU5wYkltVjZ1cURDWGF2RG1WamRHQkVCeF9BcjFySkM2M1pSRnhmTVoyMEYydHdnVi1EaTV5MXlxQjBtQ0NvbllrU2hWM0tlSnRQQTVHRFpxVUFqSmMzajU3RXI4NEhsMXhvcE9CVnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia",
+      "headlineJa": "サンパウロ、麻疹の新たな感染者を確認、2026年には麻疹の記録が14件に達 - Radio Itatiaia"
+    },
+    {
+      "articleId": "gnews_6a5b41759b930cde",
+      "headline": "Bebê é diagnosticado com sarampo em São Paulo; estado chega ao 14º caso - O TEMPO",
+      "headlineTranslated": "Baby is diagnosed with measles in São Paulo; state reaches 14th case - O TEMPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T21:19:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVZzZWo4Wi15THJtN09GYzZhVDFoVS1XcGFGV1JBWDBFOVAyMkV6eGZ4ZFBCNl9Sc3Q0ZUFYYWh3dmwyVC1hdUU5UkpyajBSa2U1QlhTWUVFMVNCWElvS1FrZDZkcE9Ic2JRS0hBVHM4NUxJTGJFS2VsOW1OMlp4bHBwRVhiRVVLNm1KemZaRTFndFZWRFVSMnY0R01WTFhqMVN1V2txY3dwVHZPcjF0Q21n0gG3AUFVX3lxTE9YWGNCUFkwMUE3V1k0U0czalNIU3JMd1lrbktvbG5EU01Pa2tZVzZFbEEwbmhtT2dSc1pULXpSSXluanhLYW5BdTRQcWR6TDB5YmllTnI4dEZ2UGlWbVhDektZZGs3SlA0THExZ0pIajVuY1pOV2FlZmUtdXdNYzRJRkZUQm8yUjZzMnpBQkI5eUdveUZNYjRGMmFvcFJaUDIyOE5MV0pHRG0tNjB3ZDJQTmhVSmVuRQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O TEMPO",
+      "headlineJa": "サンパウロで赤ちゃんが麻疹と診断される。状態が 14 番目のケースに到達 - O TEMPO"
+    },
+    {
+      "articleId": "gnews_66ff8b24b5f9d820",
+      "headline": "Brazilian spotted fever cases and deaths in São Paulo State, Brazil - Outbreak News Today",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T21:14:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81X3V3Y0xXZ2wyQ28ySnlFbnNyTFRHOTNDeUNTeFF2VGdqVjBiMHA5WVk4aU0wYmRPZVd4S1pQQUctdXhCTWpXY0h4WXBROFZxOWFIMkJESkkyeUpWTWxmWXdBcmgwUGNhaWUxWHlrV0ZacVNScTBTMEVLR3gzaEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Outbreak News Today",
+      "headlineJa": "ブラジル、サンパウロ州でブラジル紅斑熱の感染者と死亡者 - 今日のアウトブレイクニュース"
+    },
+    {
+      "articleId": "gnews_d6306d0eb400edff",
+      "headline": "Prefeitura de Maceió realiza mutirão intersetorial e recolhe pneus para eliminar focos da dengue - al102.com.br",
+      "headlineTranslated": "Maceió City Hall carries out an intersectoral effort and collects tires to eliminate dengue outbreaks - al102.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T21:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWjRYUEtsMmRBRlFaVF84N01IZDdMaWJPa1VMUkFZRFMwUkZSS1JzYjZQX1c5aFlBdU14WWdCTUQ5clhQUjZBQ2dNZ3FINXVBZEhNb3dxNU1GQ21kSU1ubnQ4MHZtOVpySi1QMGhkWl90dmZNUm5WWk9yNnFIS0xoR21nQVJqck9yeW4zeDdBZng0Z3JxRlhqSEhmVGZXZ19RelhuSGRhOFZDYndWWUhHYV9KLTQyWDV4dUxfMHE5LVdYZHMzQ2twLTB4TXB3ZTNfQmc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "al102.com.br",
+      "headlineJa": "マセイオ市庁舎、デング熱の流行を根絶するために部門横断的な取り組みとタイヤの回収を実施 - al102.com.br"
+    },
+    {
+      "articleId": "gnews_ffab21f6d6554d28",
+      "headline": "Método Wolbachia: Arapiraca adota estratégia internacional para combate ao mosquito da dengue - al1.com.br",
+      "headlineTranslated": "Wolbachia Method: Arapiraca adopts international strategy to combat dengue mosquitoes - al1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T20:35:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaW5zdTA4dGpEa2lvcUtKSl9ydGExdVNDczZVallxOE91SFNlQl9VUWhJd0tDZmRCUmgxaTVMdjlFcHhMLTlPM2JPNXVnVUNITmJGR0FmVWZBcUxuRDdsTW1qNkZ1dFhUQlJKSXZrMTRuZnJBUDMxZl9nNVBMcV90b0ZObmFfeXg4by1jTTJzSkNiZ3pnT2EtRk5yN3I1QXY5OHJ2ZUJFRnl5TVFGeXozbFJZOXNqLTg0ekNuSFdaeWpWa0JfamFVeEx0Wk9jUUV4MlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "al1.com.br",
+      "headlineJa": "ウォルバキア法：アラピラカはデング熱蚊と戦う国際戦略を採用 - al1.com.br"
+    },
+    {
+      "articleId": "gnews_130f4ba0012456b8",
+      "headline": "Prefeitura realiza ações de combate à dengue em 50 bairros de Guarulhos - Guarulhos em Destaque",
+      "headlineTranslated": "City Hall carries out actions to combat dengue in 50 neighborhoods of Guarulhos - Guarulhos in Highlight",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:57:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2RBUUVMZUJ5V3hWRmotMF9NNGJzMkRYbDRCYVlFbmRkOGIyRFpnMC1VVGE0Yk1meDRBWVVsZzludWt1WkRnMl84emRWcFFGeU85R2p4VjF0X05hYmEtWjM3RUZIc0RnOTdNdDIwVUpKTlpFTGFUbks4b2dkd1BwaDVxUHNnVFBBQl9EdkY3X2JrbjhUc0ZwUzctT0h1OXh2Mm1mOTdkaHNjZ3RYOTdkYWZFdk00dGpLRVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Guarulhos em Destaque",
+      "headlineJa": "市役所がグアルーリョスの50地区でデング熱と闘う活動を実施 - グアルーリョスのハイライト"
+    },
+    {
+      "articleId": "gnews_466589d70fedea1e",
+      "headline": "Além de tempestades e alagamentos, El Niño deve trazer vírus perigoso ao Brasil - Diário do Comércio",
+      "headlineTranslated": "In addition to storms and flooding, El Niño is expected to bring a dangerous virus to Brazil - Diário do Comércio",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:57:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREZVOXFGLWdhUF9PYlRUazFpREpmTE5zUUhyb0Jta2RUWGNPTnFDMW42QnB6TzRCeGkxMDNIeEFEa2xkbGtjdVh6RXp1S3JWVTFDT245akFSY2pyVFZuemJ1TWFMRXdZaGlhWUlsZ2RucTNOQjQ5bF9LSU5MeExrbnF0TGJuTWktUkpEZVRUS1FmdlpTOHZQVDJ0MnVMTXBPeWZMbHFWNG9PZXZNdXJ0LWtLQS01QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Comércio",
+      "headlineJa": "嵐や洪水に加えて、エルニーニョはブラジルに危険なウイルスをもたらすと予想されている - Diário do Comércio"
+    },
+    {
+      "articleId": "gnews_d4d556b072481dd6",
+      "headline": "Ministério da Saúde recomenda ampliar vacinação contra o sarampo em SP - portal do amazonas",
+      "headlineTranslated": "Ministry of Health recommends expanding measles vaccination in SP - Amazonas portal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:56:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1A3YUpnM3gxMjNZUFBNY3hQbGY1N1l2Z2NYZU5uWlJTNnVJdXQ2b2VGQ3FBUFRlWTJzb2c3STRjUzk4d3pmdWVuU0wybDdkQjk0eEE4SG5KYzhMX3Bodlkta29MQU1WR3JTSmpPNmRWZnlON3drUW9LV01rRDFXRUFQWW91Z3VHTWxFN3ByYVcwOVl2STJ4UFlEOGZVSi1HOHc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "portal do amazonas",
+      "headlineJa": "保健省、SP州で麻疹ワクチン接種の拡大を推奨 - アマゾナス州ポータル"
+    },
+    {
+      "articleId": "gnews_f3e39aa87e7b66b9",
+      "headline": "Brasil vê avanço na exportação de carne de frango em 2026 apesar de UE e da guerra - InfoMoney",
+      "headlineTranslated": "Brazil sees progress in chicken meat exports in 2026 despite EU and war - InfoMoney",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:42:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTVBaFR1SlpEZHhfUWVaa2VqMHNQQlo1UnZBMk9KUjZoSDB1bzdob3d0T2dhUXAtVzJWQ00xZmFyVjk3SG1lVTdUUVFVc1A4X2tQNDVIU0RVWWZ6WURUNFdvb0tKZ1pjQnRNT2dJSGQ1X1lCWGFMSnNDV2ExTHlIRmlYV0o2STdScEgxbkJPMXZRcnBSUG1OYXllMTlPUl9GSmw2ZXIta1FKVXR3bjR2ZkVRQ0xRdTFURXFFUWRB0gHDAUFVX3lxTFBTbUJrdDVham83MUF4VHlvTW9lNWFWeXhwcHk3S2IwLXN4SWlsYW1MUS1lTy1fS1lDX1IwY2JMQ0tGTlZJM1l3cUJUS2xSWW4tLXAzcVBsWlgtTkxhQkhWZ2VJckE1WFF1eEVHcXFkM1FnamVoZ2ItUjJOSi1xUUdFUVJLZE1KUjlqZkk2a3BrNU5iZTk3anc2LXdEN3lTTTgyREVLVHJidjVpblVrdVVaYThvazdMWXNIdmFRODlDZ3N6SQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "InfoMoney",
+      "headlineJa": "ブラジル、EUと戦争にもかかわらず、2026年には鶏肉輸出が進展すると予想 - InfoMoney"
+    },
+    {
+      "articleId": "gnews_f7fa8bac5e43fc08",
+      "headline": "El Niño pode favorecer avanço da dengue e mobiliza ações preventivas - Jornal Noroeste",
+      "headlineTranslated": "El Niño may favor the spread of dengue and mobilize preventive actions - Jornal Noroeste",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:09:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmVDbDNjeHZ0cGhkNm54bXhMejVudXJENWxFc1FMcFp6VjdnczExLTdmLUNwOFNmNWdudlFDTGZpS1BDOUtldzUtMG9YbDZidzhRTWgzWmU1YnB1SDhqRkVleXR3aFpPZlJnNXM1dDBYRTU0ODdaM1hOLUxCOS1RY0VqQTBnc2lQcmN5MEd0QXJFakQ0d0lNYXhEeE4wQjlKdVp0RlJ5ellTQ1NFS3Q2Z193?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Noroeste",
+      "headlineJa": "エルニーニョはデング熱の蔓延を促進し、予防措置を動員する可能性がある - ジョルナル・ノロエステ"
+    },
+    {
+      "articleId": "gnews_90ee612011e0fe5d",
+      "headline": "Teresina promove mutirões de limpeza aos sábados para combate ao Aedes aegypti - URB News",
+      "headlineTranslated": "Teresina promotes cleaning efforts on Saturdays to combat Aedes aegypti - URB News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T19:06:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDZXSEdzVFVPNkk0LXU5bElBQlB2b3lNbXdBazlYWDNsN3BtcER6ZnhaRWpMSHQzT09sa0k0NXgzZkVMdFhra1RYTzFaY2xsRE9aSXh5VTN6cGhVV3F1Vmg3djZ4ZGh6d1B3VEF0Z2J0V0FmNzZreUJBVTV3VllINWExT1h0cC0zeW1tRWNmZERtd1Z6YWYxd1BxYnBLTHlmQUZUbDZTT0JMNnBwWjlWUTVYMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "URB News",
+      "headlineJa": "テレシナ、ネッタイシマカ対策のため土曜日の清掃活動を推進 - URBニュース"
+    },
+    {
+      "articleId": "gnews_5f224e4e2b19f613",
+      "headline": "Ministério da Saúde orienta ampliar a vacinação contra o sarampo no estado de SP - Pagina1mt",
+      "headlineTranslated": "Ministry of Health recommends expanding measles vaccination in the state of SP - Pagina1mt",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2RVb01UbzFOVnl1ZU1wQXc4N0JvYkVNdFBtczlTZzdKNzFEMldybFdNRHlHMEV0bkhfajVJWDJ3YWZ6ZjFYZVM3VEpXcnVMakhBSXVuV1ZmSUwtUFlVQ0FkVWdwbVk2UEF5cVh2OVlYSmktTllqcVFtUjJ5R0YydVVZR0FUdF9QdF90dlR2YkxURGItZ05JTFNwc3NGY2VMbEQ3LTdFeDVoSTBWRmI1VDFKYWJaUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Pagina1mt",
+      "headlineJa": "保健省、SP州での麻疹ワクチン接種拡大を勧告 - Pagina1mt"
+    },
+    {
+      "articleId": "gnews_ba67a17a67b3a778",
+      "headline": "Ministério da Saúde recomenda ampliar vacinação contra o sarampo em SP - BOM DIA GUARULHOS",
+      "headlineTranslated": "Ministry of Health recommends expanding measles vaccination in SP - GOOD MORNING GUARULHOS",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlVJR0x4aWlVVng2UC1VT19HRXF6ZVRrS2F5WE9RWktIOWJhRUYxZ0xVSVhVNzZIODZhLXJLS0NSSGF4YUF5RXNhSV9XNlJmZEl3OVBXM3U3MXVKSjlnYTM1cGRLcnJialE3SUtReXNZOUZFenU1SjJ1UXNRUlVfQkxOVUZjTUpDLVJLV1E0TEdSVVZtNVAtWmxIT2kyb25EaTBzWFRVZXptM1ZPVGJKMnlicGVyZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BOM DIA GUARULHOS",
+      "headlineJa": "保健省、SP州で麻疹ワクチン接種の拡大を推奨 - おはようグアルーリョス"
+    },
+    {
+      "articleId": "gnews_ad542fb5052d97eb",
+      "headline": "Ministério da Saúde recomenda ampliar vacinação contra o sarampo em SP - Aracaju Magazine",
+      "headlineTranslated": "Ministry of Health recommends expanding measles vaccination in SP - Aracaju Magazine",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:19:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDlOVHpSdHg1Nmh5OFd1YVZWSHBtWWhJMTZUTVZlYkViaDJuMFNDdmo5eV9ZYTNiXzJSQ1ByT3Q1UFBxeVdSU1B1U1ZRdVZxd3JNSWNCVzJTTTEtb25oRDZyNFBDYjk0ZlF2eXlMVDBYakhwS2V3Xy1MUjRidUpGWW01VjlkNTB0SzJPSHRITVc3bTR0SFNCelFMd19PcGhNWDdvQw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aracaju Magazine",
+      "headlineJa": "保健省、SPで麻疹ワクチン接種の拡大を推奨 - アラカジュマガジン"
+    },
+    {
+      "articleId": "gnews_f4cf5d83455eb9e9",
+      "headline": "Após surto, Ministério da Saúde recomenda ampliar vacinação contra sarampo em SP - Rádio Itatiaia",
+      "headlineTranslated": "After outbreak, Ministry of Health recommends expanding measles vaccination in SP - Rádio Itatiaia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:15:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzRfWXU5MVA4REUtZUlrc0FVN0tsWkNrRVVrLTZza0tPQWRzSzV0amo4N0lacG55VnBmcWFGS1UxLVBsUzZYRlZaRXAyUkJabU5pSWhIQlVhYWdWQi1MeEtPTk80LVFLaHl0anBLTmpieHhUUWdMVmpubzRCakk5UEFvOERXOUZWYjVTZXFyZ2RyX1puaDcyQ1NaYzdmaUZsdnRkLWVhYWZiOG9uOWlZdnBEcjU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia",
+      "headlineJa": "発生後、保健省はSPで麻疹ワクチン接種の拡大を勧告 - Radio Itatiiaia"
+    },
+    {
+      "articleId": "gnews_541d650bc74ce67f",
+      "headline": "Ministério da Saúde recomenda vacinação contra sarampo em São Paulo e região - Metrô News Jornal",
+      "headlineTranslated": "Ministry of Health recommends measles vaccination in São Paulo and region - Metrô News Jornal",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:14:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3QzTVhyclRrNnpPM1lVMVlMSkFCTkF5QlMtaVZGdElZTnJTb0lxN3NKakxvZEM4aGFub1U3NFpTRUowUDU5Mk5BQVZsUGIwbWxqd1UtZzh1bndJZmUxdkVpT3RnNFl4eE1CY0tUeW9IbmtheGJ6T082WHZ2bFlQRnZBWWtkRmFWbnlybUxWSXl1UXhoUGhxclBEYzU0V2paMzdHMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrô News Jornal",
+      "headlineJa": "保健省、サンパウロとその地域に麻疹ワクチン接種を推奨 - Metro News Jornal"
+    },
+    {
+      "articleId": "gnews_eb6f41ad9adf8631",
+      "headline": "Governo pede que mais pessoas tomem vacina contra sarampo em SP - bra1.com.br",
+      "headlineTranslated": "Government asks more people to take the measles vaccine in SP - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVZmQ1gtcDQzZ1pwVlRHLTRRTFlvcEh0MzRqSDd2b3drYldlZkJKTUphaXpTd1VKUVJpa2FMcUdDOUZLbk9UbEJwOHBxOWsySzdKX2NDODBiWVhqVVBtS3lmS0RGSzQ3RmY3SUV3b0hLV19WeEoxTkg2VGVIRW5VOHhaT1haeGs0NWxUNU92Y25vdkh4TGtwQS1lU2thcXF2b1pBaThB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "政府、SPでより多くの人に麻疹ワクチン接種を要請 - bra1.com.br"
+    },
+    {
+      "articleId": "gnews_7e19dab6f77ecd66",
+      "headline": "Ministério da Saúde orienta ampliação da vacinação contra o sarampo - Repórter Ceará",
+      "headlineTranslated": "Ministry of Health advises expansion of measles vaccination - Repórter Ceará",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T18:03:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0doSVlNckViTjdVdGJMWHJzb2ZMaWtyNmU0cm1WcFFRb3hxeEhrdVo2OTBGbldWN2ZqWTFaUWh5ZGx0azJ6aTRySDZsLTJLT01HUE1TRHFVdTlzRFRnd002VkEwSjR0UTEtREdESnJIbDkyVWdOOWwyMTVlQVU2a2RNMXpDdW1WbDc1TnJmMUZDUG9hcThpbFhHa3VaWGhicjc4dXF2cTBfc1NFSFZUa3FZVWXSAbQBQVVfeXFMTW9HaElZTXJFYk43VXRiTFhyc29mTGlrcjZlNHJtVnBRUW94cXhIa3VaNjkwRm5XVjdmalkxWlFoeWRsdGsyemk0ckg2bC0yS09NR1BNU0RxVXU5c0RUZ3dNNlZBMEo0dFExLURHREpySGw5MlVnTjlsMjE1ZUFVNmtkTTF6Q3VtVmw3NU5yZjFGQ1BvYXE4aWxYR2t1WlhoYnI3OHVxdnEwX3NTRUhWVGtxWVVl?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Ceará",
+      "headlineJa": "保健省、麻疹ワクチン接種の拡大を勧告 - セアラ記者"
+    },
+    {
+      "articleId": "gnews_d12765f1c08b9546",
+      "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - Âncora 1",
+      "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - Anchor 1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T17:26:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTRxVWpxbU93ejBtalhSa1ZvX3l2dWdhdlVlUWdxQlhFZ21KYWZxTFU2VDVTRDRmOFAxWVZ1MEppODlfR3JFODRTX21ISHIwbE1VY1MtZlR2LUFGX09JQTZhM0F1N3hOckx0aVVmdEZnUmZFaFZHWjh4N282MUJKaFRsVEd4ZTN4V0EwdjZaazBNRGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Âncora 1",
+      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の症例が増加する可能性 - アンカー 1"
+    },
+    {
+      "articleId": "gnews_550d50f3f812a639",
+      "headline": "Saúde em dia - Governo brasileiro amplia proteção contra bactéria responsável por pneumonia e meningite - RFI",
+      "headlineTranslated": "Health up to date - Brazilian government expands protection against bacteria responsible for pneumonia and meningitis - RFI",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T16:54:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU3dwQjVFSDNxcmJKMUpzYlJVSHNXUmkxUGFJXzNNeTBMcmt1ZkY2WnB0cGFFZFc1VTdGcmhabmZvcklwVzBxYjZiLU4zc2Z2dFVPWFhyV3NqWFZ2dTdWTl9QT29mQnJtRjVxcXhQbWV2NmJOQko1Qk13M0luQkNWMXg1eUREVHU5YmwxakNLRm13eG01NmVZSW4xaDRvVTNOQm1xUUx2cDNQcWJ3S2YwcXJOTDhzWW90YTROd3JJSUV6WjVYYmNhazY0bmY1eDJwYTVnMFgtR1pteURFdzBCZFRDU0x1LWZOMThR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RFI",
+      "headlineJa": "最新の健康情報 - ブラジル政府、肺炎と髄膜炎の原因となる細菌に対する保護を拡大 - RFI"
+    },
+    {
+      "articleId": "gnews_8d190c00f7bc8d68",
+      "headline": "El Niño acende alerta para dengue no RN - Agora RN",
+      "headlineTranslated": "El Niño raises alert for dengue in RN - Agora RN",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T16:38:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51aDVONVh4X3dWelFsQW52QTRmQm5NdWVvTUU2azV2dmgtS1NwSklrUWdZTkRvNWllRF9FQ2xWUWhxRXJQVDIwZ1p4WjVEZnJiR1AtUFJJT2JYcmZzdU1zZ0hwQVFOSEN4UHY3VmFhb2ttdDV4VTRLSQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agora RN",
+      "headlineJa": "エルニーニョ、RNでデング熱への警戒を呼びかけ - Agora RN"
+    },
     {
       "articleId": "gnews_c51d3cff68d1db78",
       "headline": "SP: orientação de vacina do sarampo é ampliada em 3 cidades - SBT News",
@@ -48,12 +493,52 @@
       "headlineJa": "SP：麻疹ワクチン接種指導が3都市で拡大 - SBTニュース"
     },
     {
+      "articleId": "gnews_e0d3ee901cdc4085",
+      "headline": "Mutirão recolhe pneus descartados irregularmente e reforça combate à dengue em Maceió - Alagoas Alerta",
+      "headlineTranslated": "Joint effort collects irregularly discarded tires and reinforces fight against dengue in Maceió - Alagoas Alert",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T16:23:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUdxTVh1OEd3TXdIUUJ0WkM3RVNGZXcyYlZNUnFRaUo5Q3RCbWZmemFzZ3JhcXQ1SGZWb2cxOUpGbU5pR0o3ZGs4b1ZpeWpMTFdjYzBtSWVJMktBNUpObmhZY190alMzOVF0a25kYzN4U1BKT0Y5ZHVuOEluVXktY0Nsc21mZEJLVkhuSEtyZGhRcjBuU0phS0VsWXRZRGwzbFN5bWxzMHlKV0JyQS00Mzk4b3IwRmVjUEh4RVprcENybUlK?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Alagoas Alerta",
+      "headlineJa": "共同の取り組みで不規則に廃棄されたタイヤを回収し、マセイオでのデング熱との闘いを強化 - アラゴアス警報"
+    },
+    {
+      "articleId": "gnews_7a6834d638f5ba17",
+      "headline": "Goiás registra alta de 14% nos casos de dengue e já soma mais de 93 mil infecções em 2026 - Diário do Município Anápolis",
+      "headlineTranslated": "Goiás records a 14% increase in dengue cases and already has more than 93 thousand infections in 2026 - Diário do Município Anápolis",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSE8wLWF6Zm95SXJkYnczNHhhQmFPQ1JyTHllWnBubVNyVERUS285dXV1YmFqMl9Bel9UWE44MFV2X1NqYUhwMC1nNlg1eTNQQkpfZF92ZlpEYVIyNGxYR1dTYWxMRVJEVHNoR2xmVXhTb0xWRV9pUWpsaUhnODh6ckxmYlpkbm1aeTBScnFsNGNXcFpDMGtmc0lLbXA1UEdQM1FNWjFXOGhqMTQxeXFjeUdoazlITEpFWVloVGxFSi03SlRXbUZOTFFOUko?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Município Anápolis",
+      "headlineJa": "ゴイアス州ではデング熱感染者数が14%増加し、2026年にはすでに9万3千人以上の感染者が発生している - ディアリオ・ド・ムニシピオ・アナポリス"
+    },
+    {
       "articleId": "gnews_107004a901895b80",
       "headline": "Mosquito da dengue segue ameaçando Sergipe e quatro cidades entram na zona de maior risco - Hora News",
       "headlineTranslated": "Dengue mosquito continues to threaten Sergipe and four cities enter the highest risk zone - Hora News",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T15:13:43+00:00",
+      "publishedTimestamp": "2026-07-28T15:55:22+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlhtM3NpMlBIemZ1T1pleGE4bFRQR2YyZ1VNM2hjazZObTlqNEJ1bkdsNWduRlJZY1MxTWgxdXRxbDhMU0lOWmxVbHNHdHJ3VmxWTW00MWNhOEd0NEhhRGVuOFM3aWNQQllxTGVoZC1SSHRYVnIzTTVUUUdNdHUyLWFWWW1fNklzRlhuYWE0SXo4Y1JQV21obGRLTEtvSHBRMkVfaktSM2E0R09FY0F3QQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -97,9 +582,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFpsTDVGWFZfZldaZm9nVkcyalV0SDFHQl9MaHc4T19vREQ5LUE1ZE95QVZBM1VmcmtqNUtDMV9rTy1jOVNpdC1fQ0hxd2tDSzNHQUlHOUh1c3dONERBSWwxYWtDbkx5RjVfR1R0V2FiT0oweXYtZ0FEYktCQXNDempIdTRDTG1TN21kQUZlSEVGcU1WMzY1cXVHcmhYRTg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Zika",
         "Chikungunya",
-        "Dengue",
-        "Zika"
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -107,7 +592,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "No Cariri Tem",
-      "headlineJa": "セアラ州、デング熱、チクングニア熱、ジカ熱の感染可能性の高い症例の増加を記録 - No Cariri Tem"
+      "headlineJa": "セアラ州、デング熱、チクングニア熱、ジカ熱の可能性のある症例の増加を記録 - No Cariri Tem"
+    },
+    {
+      "articleId": "gnews_2a33e1b85bb10564",
+      "headline": "Goiás registra aumento de 14% nos casos de dengue em 2026 - POSITIVA FM",
+      "headlineTranslated": "Goiás records a 14% increase in dengue cases in 2026 - POSITIVE FM",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T13:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVluYVdvZDVfVWZ5RUpobTF1X3JVNmFEai05MEZkWmxFZTg3bjh6dnJkblhHZW9laHJFMEN0NEt3dzQyMFNEbmV5b19qaXZvN2dtZ3Nhc0dmOEhlMHgwY05NZGExMkRjX0hmWDdFMGZnUUd4SFIwQTJuSzFMS1Z5OUFHYldFWHRZZGV6VklJUEg0LUx3dC05bDdRR0Fadw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "POSITIVA FM",
+      "headlineJa": "ゴイアス州、2026年のデング熱感染者数は14%増加を記録 - POSITIVE FM"
     },
     {
       "articleId": "gnews_7f6999451cc19827",
@@ -130,13 +635,13 @@
       "headlineJa": "75人が死亡し、ゴイアス州はデング熱の増加と血清型3の優勢を記録している - Jornal Opção"
     },
     {
-      "articleId": "gnews_45642fb0e3f50737",
+      "articleId": "gnews_9ba4236a40f14058",
       "headline": "Mutirão de limpeza contra a dengue será realizado neste sábado (1º/08) no Pirajá, zona Norte de Teresina - Portal O Dia",
       "headlineTranslated": "Cleaning campaign against dengue will be held this Saturday (1/08) in Pirajá, North of Teresina - Portal O Dia",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-28T13:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMV9iZFFfc2cyVVhqLU9vOTFzZHlFaTlNWHcxR21KcEpUajhMaWFZdjBuMFNJQlJMb3pkUmxvSkNMbDZtbTFQTFdLWi1uMWlPYXRIbjExSGtyUThXREtEb1JqM1NqUDd6cUNtaF9jM19vNk9kbm4yUnd5ZmVVcGl0QWNkUFhtbmYzTlk4XzR4Y3pheS1lYVBuOVNybFVvWVBXb2g2azI3SjBneWxNZzk5Z3o5RHQxM2JZSUU0bXU4a01MbHdrNGVVTER0c0dfZTBWbmhiaTVUQnNHYTJVMEd4Um94TFBZdGsw0gHuAUFVX3lxTE9FYnRRRE9CUXJXdC1wTHhVWF95N1kydjRLOGxzTU43aVItS2tLTkgzbWtkVl94MDRrVm4tV2dYdzdNU1dKRnFVVzIzVmxMa3F4am91YV94aDJFbHpFT2E0THhXem4wcHRHZC1BMHlMUEc1SW9SY3pIa1liaW94a3lfMUNmTjROSzA1a0ZpanFvenJnNjJ1ZFUxSEJRZFM0VWhXeEhCb0k5S0dHdndXTWtQbWI0ajl5NHUxWTRZRDdXYmpkVjYzZWhQeGVhVXNDemkyWG9CVDRNdUlsaWkxNTIwOFI0RmM5Z2pGYk1OMHc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObzZsTFRFVDdCdEx3Wkd2aFl1VmgwR1hXM2t1RjQ2Q185aWlNVGR0blFzajF1c24zVUl2bGMzNGc2WEdlVDRkdnpoUEM0NDVxeTV5M0lVLTVKdFVsYTdlT0V1aHBZc29VNW5PMktVcnB4cU9wQWZ1Ullnc3BiWUpfQmRCcVdzMFREbHR0ZnNNNWIyR203cFotSWhjd3RUYnl4Z014SHhXMVlVaTY3UXNTTHJSRk5WNzNaUFFzdkVQVVA0MkJUOWp4MUI5U3BUUDdDeTZwTjBuaGZlTVhCRWxSMmRrX0jSAe4BQVVfeXFMT0VidFFET0JRcld0LXBMeFVYX3k3WTJ2NEs4bHNNTjdpUi1La0tOSDNta2RWX3gwNGtWbi1XZ1h3N01TV0pGcVVXMjNWbExrcXhqb3VhX3hoMkVsekVPYTRMeFd6bjBwdEdkLUEweUxQRzVJb1JjekhrWWJpb3hreV8xQ2ZONE5LMDVrRmlqcW96cmc2MnVkVTFIQlFkUzRVaFd4SEJvSTlLR0d2d1dNa1BtYjRqOXk0dTFZNFlEN1diamRWNjNlaFB4ZWFVc0N6aTJYb0JUNE11SWxpaTE1MjA4UjRGYzlnakZiTU4wdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -148,6 +653,26 @@
       "dataSource": "Google News",
       "sourceName": "Portal O Dia",
       "headlineJa": "デング熱に対する清掃キャンペーンが今週土曜日（1/08）テレジナ北のピラジャで開催される - Portal O Dia"
+    },
+    {
+      "articleId": "gnews_df315d37e207caa2",
+      "headline": "Ministério da Saúde amplia recomendação de vacinação contra o sarampo em três municípios de São Paulo - www.gov.br",
+      "headlineTranslated": "Ministry of Health expands measles vaccination recommendation in three municipalities in São Paulo - www.gov.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-28T12:41:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPODhDcHd3UExtU1BKTmhQbmxXbTZTckF1WVl6ZkN4WGlxSFJESkcxTVBKVDRFUG9nUXZKRldNSDR1NHRXNkhXSHJ4OHE3T191WnRyQTIxZDZVV0loeE9CS0FvWXkzSlpZT3dWdFNaSUlmVzVXS2d2OEpKOTJ1QXh0ZEdDSEdaYUpvSkgtc0hOV0c1QWgxaTlhenROMWZlM0ZIZXBkYW83STBQcnlQT3FNNVh1WF9zT3JMNG5pdDg5alMtV1BOSUxvUTN0dFBDMlgtSTFrMHdMRlpDbWVTcWtrZDBDejBodEhNbEp2aU05VktuMXNDWDRj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "www.gov.br",
+      "headlineJa": "保健省、サンパウロの3つの自治体で麻疹ワクチン接種の推奨を拡大 - www.gov.br"
     },
     {
       "articleId": "gnews_b0599d9237e2617b",
@@ -230,27 +755,6 @@
       "headlineJa": "ゴイアニアは今週水曜日（2007/29）、タイヤ回収を拡大し、正しい環境廃棄を奨励 - ディアリオ・ダ・マンニャ"
     },
     {
-      "articleId": "gnews_ee346a8df88d9c43",
-      "headline": "SAÚDE El Niño pode aumentar casos de chikungunya e dengue no Brasil - NOVO Notícias",
-      "headlineTranslated": "HEALTH El Niño could increase cases of chikungunya and dengue in Brazil - NEW News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T00:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnp4MW9ZLUhTSU81aXVlM0h5c0t1NDdDZW5WUEs0bnZfLUthOEZkVzA4ZG96aXI3YkgxUVU4Y19YMjJmbUVNbmFjTGFpY21idmRBUVc2SUJxaEppZkpGdjgtd2VIU1JHQUFLRGU5SmVpRG8wQWdhWFQ4S3VaQUFncUtXcFRWSFBhT0s1Vmp1VGNzMFlM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "NOVO Notícias",
-      "headlineJa": "健康 エルニーニョによりブラジルでチクングニア熱とデング熱の症例が増加する可能性 - 新しいニュース"
-    },
-    {
       "articleId": "gnews_7e1f5ab4a5f54a38",
       "headline": "Sarampo: quatro distritos de São Paulo registraram casos da doença - Rádio Itatiaia",
       "headlineTranslated": "Measles: four districts of São Paulo registered cases of the disease - Rádio Itatiaia",
@@ -288,7 +792,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Região News",
-      "headlineJa": "チクングニア熱感染者が増加、MSで死亡者28人に - 地域ニュース"
+      "headlineJa": "チクングニア熱感染者増加、MS州で死者28人に - 地域ニュース"
     },
     {
       "articleId": "gnews_e4084ac1e1de4e76",
@@ -310,26 +814,6 @@
       "dataSource": "Google News",
       "sourceName": "O Presente Rural",
       "headlineJa": "農業省、ブラジルで鳥インフルエンザの疑い2羽を監視 - O Presente Rural"
-    },
-    {
-      "articleId": "gnews_58dc9fb1b22997c7",
-      "headline": "ALERTA PARA DENGUE - G1",
-      "headlineTranslated": "ALERT FOR DENGUE - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T16:29:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORko3U0NGM05JUUJQRVpsT3A5dEZ4dUdsbWVPZW8xSnlmYWNuaW9NVThvVGdCOGtrMm93aGNOeUZxOHFnVFhZV2pjWTJ0OG90bDVMRGgySnh3ckJpZkhLcjJHRHgwRXZfY0NIUXN4bzdXZFFzM1FVMmw0dC1uaDIyRUhmNGplRnllOTNEUl9wa0htVVVRQXlEWFhtS0Ric2MwSGfSAbABQVVfeXFMUGt5bUxlYXZ4SndHTVNNMHNueXFTZlIzanV5b2NEQzF0QnFMcy04Z0wzb0Fta3NoaEIxSWRjRUdvQ29jQzhHUEh0aWdHaWxnRDB3dzkwalNhQUZfdjV6NEJaWkdVMml2SHl4eW5FQ3FDczEzcTdGSEdGV1A0ZHJnMzNoazA2Q0NjSjBIcWhPakNQNEk4TDVjbEs5UGg5aUxGR1VwRWxfcllrdGpvd2JuRXY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱に関する警告 - G1"
     },
     {
       "articleId": "gnews_51229f32dcbe1af7",
@@ -369,16 +853,16 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Juruá Online",
-      "headlineJa": "アッコでは2026年に1,800人以上がデング熱に感染する可能性があり、引き続きこの病気による死亡者は出ていない - Juruá Online"
+      "headlineJa": "アッコでは2026年に1,800人以上がデング熱に罹患する可能性があり、引き続きこの病気による死亡者は出ていない - Juruá Online"
     },
     {
-      "articleId": "gnews_2a87685918221ce2",
+      "articleId": "gnews_9631e2625782b3a4",
       "headline": "Combate à dengue: Acre registra mais de 1,8 mil casos prováveis e mantém índice de zero óbitos - Ecos da Notícia",
       "headlineTranslated": "Fight against dengue: Acre records more than 1,800 probable cases and maintains a rate of zero deaths - Ecos da Notícia",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-27T11:52:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGh6S0hMcmpENk0tR3p0TDlfVGF1TnZDSTd4QmRlc2pHLW0tdHcwakZxZURGOEpsTDQ1U0VlLVRhTVhyNHBQSC1sREFrTDNQRmlKaGJtbXl3X3dPRm5FdmpMTFBTZFdKQjFTNFdobFFLTzJ1Q0RmOGtVU0ExYzRQY3BzU3FSM3JUcU5XT2lDTVVfd2RBeG00NXlHX2hMLWRyS1NHQnBGWmc1Y1F4Znl4eTd3WUZjV0ZMWE51VHhpOW11aWk4X0JPSm9GWWNnQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd01tR080XzByRTVrZGI5RG9ZN1hsYnVteDd6Y0UzQkVLMmtneHlyZVpMcFgzQ01OaFNqMnF3Q0tWdkhQRElvOUFEelFsNlQ2YWVsUkM4Q19hSFVaZ1Z6Z1BqcWdUbk1KSE9HVy1rVmluV0lfeXBBQWRub0NPUFlCZURSVU56dFhpZXZXaFJzRlZ4dm1fRF9sZG9wOWROOEd3eGhWWHpBRFRVX0VoWW13aFZXRF9Ca1VUY3FkcS1PdUNYbDVaeHc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -431,46 +915,6 @@
       "dataSource": "Google News",
       "sourceName": "Sapicuá",
       "headlineJa": "保健省、エルニーニョの進行でデング熱とチクングニア熱が増加するリスクを警告 - サピクア"
-    },
-    {
-      "articleId": "gnews_4aad2d4940be5b21",
-      "headline": "El Niño pode favorecer aumento da dengue, alerta Ministério da Saúde - Diário do Iguaçu",
-      "headlineTranslated": "El Niño may favor an increase in dengue fever, warns Ministry of Health - Diário do Iguaçu",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-26T23:56:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0NrQ2NpWUNHWlZCd3ZTTExJYWtOZHFkbjZaVExYX05fYWtRTE5ibW85YktUZjJsZ05YOVVxd0hfN2VLNlVEUnhQZlB0ekNlX2xwSThWQWRzOWxQSE41WWhVLU1TM2pFbTNlWjBzRDJIUHNEb2U1dnM5YlFHOS1mLXRkTFlNcmJDaFp5dHdHWkxlbDZSQjlUNDRzaTZGMHdzYVVGcGpLcFJIR2NJSFpzd3ZwMEJRcG1fWnp3YzVZS0lGLV9sbzR3alFCVQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário do Iguaçu",
-      "headlineJa": "エルニーニョ現象がデング熱増加を助長する可能性、保健省警告 - ディアリオ・ド・イグアス"
-    },
-    {
-      "articleId": "gnews_8a8e6ad7c46e1ef4",
-      "headline": "Chikungunya já matou 28 pessoas em MS; quase 10 mil casos foram confirmados - Primeira Página",
-      "headlineTranslated": "Chikungunya has already killed 28 people in MS; almost 10 thousand cases have been confirmed - Front Page",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-26T21:24:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTVGbTVxSlUtLTRydklMT3RveHpXVXh5XzBDQ1dEMXNLSmpNd0xqVl93bk9iWmV1QWRCRGI0QVNYTEt2bTA1MFREbUNmNWdzM2tyRnV4UlJxM0J6YVQ2Sk9oWEdVVUlBR2t1OWJCeHoyS0EwNU12SmdWcS1kcDEwWEl0TGJfaFEtaG1sUXhZd2lXTzVzZW1pd3Z2cHMyS0k1UHhpZmZveFRnRDRzcEJlXw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Primeira Página",
-      "headlineJa": "チクングニア熱はMSですでに28人を殺害している。ほぼ1万人の感染者が確認されている - フロントページ"
     }
   ]
 }
