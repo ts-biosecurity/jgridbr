@@ -1,35 +1,182 @@
 {
-  "generated_at": "2026-07-29T16:36:29.076637+00:00",
+  "generated_at": "2026-07-30T00:41:29.610566+00:00",
   "date_range": {
-    "start": "2026-07-27T16:36:29.076637+00:00",
-    "end": "2026-07-29T16:36:29.076637+00:00"
+    "start": "2026-07-28T00:41:29.610566+00:00",
+    "end": "2026-07-30T00:41:29.610566+00:00"
   },
-  "total_articles": 50,
+  "total_articles": 52,
   "state_summary": {
-    "Brasil (estado não identificado)": 18,
+    "Brasil (estado não identificado)": 19,
+    "Goiás": 6,
+    "Pará": 5,
+    "Paraná": 1,
+    "Minas Gerais": 1,
+    "São Paulo": 10,
     "Distrito Federal": 1,
     "Piauí": 3,
-    "São Paulo": 10,
     "Alagoas": 4,
-    "Pará": 4,
-    "Paraná": 1,
-    "Goiás": 6,
     "Amazonas": 1,
     "Sergipe": 2,
     "Ceará": 2
   },
   "disease_summary": {
-    "Influenza": 2,
     "Avian Influenza": 2,
-    "Dengue": 19,
-    "Measles": 18,
-    "Doença infecciosa (não especificada)": 8,
-    "Chikungunya": 4,
+    "Influenza": 2,
+    "Dengue": 23,
+    "Chikungunya": 6,
+    "Zika": 2,
+    "Measles": 17,
+    "Doença infecciosa (não especificada)": 7,
     "Meningitis": 1,
-    "Zika": 1,
     "Yellow Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_ee45ef7ed436bd50",
+      "headline": "Austrália confirma circulação de gripe aviária H5N1 em aves silvestres - CNN Brasil",
+      "headlineTranslated": "Australia confirms circulation of H5N1 bird flu in wild birds - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T20:42:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajVBZy1xVWx5UG52RXBfUjE4U2hyT1RRb0JIOUM4cWVlbTJWYmw0UEhfODNMcHJ3WldGSHpwVGtMMHVsYnRyeUxMT1pDOVJCemQyNXQyX0lLcWd0dTczVGVUOVYxclBESGdRdG9LblNUUE5FSTlNTVF6Rld2N3ZpNkc3R0dHZl8yZ0cyN0lnLXNWLWVXQkFFTV90M2h1MTVEa0tpRDVtWmQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "オーストラリア、野鳥でのH5N1型鳥インフルエンザの流行を確認 - CNN Brasil"
+    },
+    {
+      "articleId": "gnews_73cc2848a34fc97f",
+      "headline": "Anápolis registra queda de 27% nos casos de dengue e contrasta com cenário de Goiás - Rádio São Francisco 97.7 FM - Anápolis",
+      "headlineTranslated": "Anápolis records a 27% drop in dengue cases and contrasts with the scenario in Goiás - Rádio São Francisco 97.7 FM - Anápolis",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T20:32:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkxTaGQ4QjVRaXJ5R1ZuRkxqazhwSk5XaHAyMExtZEF4b1RTaGNNcmtiUTJvOGZyMDZPcC1EcXc4YTdQaVFidEpMdUNrRFJzZVlsSTREenRubU0xejRSeVlNMXVzaENkTHJfMlZzQUp4SlhKaThtZzNYNlF5RkpfTUxyR25FRC16cmtSRzQ5RDFiY3I4Mzd1bVF0MGllSF9mQ1cySDMxZFM2UTB1OG5iMjJB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio São Francisco 97.7 FM - Anápolis",
+      "headlineJa": "アナポリスはデング熱症例数27%減少を記録し、ゴイアス州のシナリオと対照的 - ラジオ・サンフランシスコ97.7FM - アナポリス"
+    },
+    {
+      "articleId": "gnews_45fad754b08bbffd",
+      "headline": "MS soma mais de 14 mil casos confirmados de dengue e chikungunya - acritica.net",
+      "headlineTranslated": "MS has more than 14 thousand confirmed cases of dengue and chikungunya - acritica.net",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T20:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEpQQ3NhdnBDZGtWSVdhaE93ZElfdERzMHhVdGZ3dHZlZ3EzbXNhdndDNXV2cXJqajRMZ3hlVUYwWFBUR2sxSHo2WGFlbHVUVVhNOUFqQkFZcE02WE5NTnBhYVJZRU5pVFhGeGJPbXh0Smd2RFZWZFUwZWdVQllLUE16T2w?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "acritica.net",
+      "headlineJa": "MSではデング熱とチクングニア熱の感染者が1万4千人以上確認されている - acritica.net"
+    },
+    {
+      "articleId": "gnews_1a13e7605be347bd",
+      "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - Guia da Farmácia",
+      "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - Guia da Farmácia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T19:00:28+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzdkVmZFTmdjcHpGSUljdEVtUGxMMV9nOEFXWUxoSzJGZ0dQeTdwYVoyZlVkTjVPa1ZSU3ZpNU9fUnlqQldSbG1iQmFwcnNZekJNR0NLdm9Ya2J2QlB4TC15RGdkZW9aUnBlbnEwQnhDRldaNDVBN2pfN1RaaUxRUVlScEFzQ0pzcHk5eWJWZ0JxLTFjelFj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Guia da Farmácia",
+      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加の可能性 - ギア・ダ・ファルマシア"
+    },
+    {
+      "articleId": "gnews_8ad0d3a73fc3a08c",
+      "headline": "Prefeito visita biofábrica que produz mosquitos com bactéria para combater dengue em Curitiba - Prefeitura de Curitiba",
+      "headlineTranslated": "Mayor visits biofactory that produces mosquitoes with bacteria to combat dengue in Curitiba - Curitiba City Hall",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T17:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGlBWERvWURjNEVJOENjbDZ0ZkJoTUFkbGZ3OGxFVlZwbVVwc1NHRGJjM3lDNTI2MVBQeEdEQ0NPR2k2SWIxSkNseU5qQU1HY0FGZ1p2NUduLXFuZVRkV2p0bmRpRFpGZ2RCRUliVnhzaEFnRmUwVWtncThCY3hWcEg1NGRNeTBLUENQQ05IZy02ZEpNMjR4WUljQ29tdnJtMUxrSHJIV3Bxdkkwam9GeE9OUXh1ZXN1NGRfNm1pMHp3LUVuRm41Ty1wZC05TFRVbGotLUxR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Curitiba",
+      "headlineJa": "市長、クリチバのデング熱対策のため細菌を持った蚊を生産する生物工場を訪問 - クリチバ市役所"
+    },
+    {
+      "articleId": "gnews_a8b9aa4935417116",
+      "headline": "Minas Gerais registra 55.916 casos de Dengue, Chikungunya e Zika - AMM | Associação Mineira de Municípios",
+      "headlineTranslated": "Minas Gerais records 55,916 cases of Dengue, Chikungunya and Zika - AMM | Minas Gerais Association of Municipalities",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T17:22:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbC1tNkNoLWF5N1NVMGFjUFdGNFJMMmttMlA1bUlpR25VX3FfUEZFZUw1VzhyYW05VWgxRklRb1c3SUNMajVyV3ZNY1NLaDlGaUdfcGtiMGhpRk1PZWl6dFRrLVRrY0JWeW9mU0lRR1F4X1F4NTRRbUV2RGozMnpiZGRYcEo5bTFSNzVHa1A0UkpHUVpaa0J1QmJYYmM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Minas Gerais"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "AMM | Associação Mineira de Municípios",
+      "headlineJa": "ミナスジェライス州、デング熱、チクングニア熱、ジカ熱の感染者55,916人を記録 - AMM |ミナスジェライス州地方自治体協会"
+    },
+    {
+      "articleId": "gnews_9e8a3284e6aee95f",
+      "headline": "SÃO PAULO CONFIRMA NOVO CASO DE SARAMPO E REFORÇA VACINAÇÃO EM MUNICÍPIOS PRIORITÁRIOS - TV São Bernardo",
+      "headlineTranslated": "SÃO PAULO CONFIRMS NEW CASE OF MEASLES AND REINFORCES VACCINATION IN PRIORITY MUNICIPALITIES - TV São Bernardo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T16:30:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUZJT0g5RDJJNXU4d0F3emFvWlJMNTJtZ3AxZmJiTUYydXYxR0pDM3pkaUFKU2h6MWNoNjhnTFVrNmo0bTNpUVdyZmUyRUM2bk5ZX3NYd3NoQktwLUtYTXJpbFJibnhBbFdvZ3dmQ2RVd1o2NFNmUzE3WVRmVTZYalNBWDhVQTdKR1kycnczWE16MHJEYm5IVjY5UWotS01TSWlwbnlxTFpBbEFVT2V4UHRiUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TV São Bernardo",
+      "headlineJa": "サンパウロ、麻疹の新たな感染者を確認し、優先自治体でのワクチン接種を強化 - TV São Bernardo"
+    },
     {
       "articleId": "gnews_bfcbf4d86e15e13d",
       "headline": "Austrália confirma propagação da gripe aviária H5N1 na população de aves nativas - InfoMoney",
@@ -40,8 +187,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazFEemhPU1ZMRHhCcjVsWmk3N216Zk0wM25fWF9kLTNKRmMwR2NvUGpOZ1pNMl9mQ2xvQ242a3M0ZFdueklhQ3EwOGdEeEFFUVBOY0kyZEd2aFltZVdma3RMSExidXYyNnJCR1ZCcUNHMUxzb0RrMWtlZ2NBdHJoME5uVVdhNl9Rb3VmWFRVYW1rU2p4Q3YtM0ROZjYyaWkyNlJPUXM1RnRaRnBxS3Y1Rmw2aWlyQUXSAbwBQVVfeXFMUEE1ZWZJTU1lb1NsV2x6NTliMThhSWozSTZ5aHJORHJhTnl4QVFtREx4YVlmN0JHMVN2VENyYUt0MjcwUU5SblV6UGJsMTZSRmpOTS1FamRuSFp1OXlCdUVTdVVUenAwNXV0TVFpVy1GaXNYcDc4VDBiQ0Jkek5LV1dqSEYtQ1d3UEpHR0d3X2hUaWg5VWVNUVlSQWZmSlR0WEEtMlBLcldFNDB6QmY4QlhNMHBKcmtRUHVSTHU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -50,6 +197,46 @@
       "dataSource": "Google News",
       "sourceName": "InfoMoney",
       "headlineJa": "オーストラリア、在来鳥類におけるH5N1型鳥インフルエンザの蔓延を確認 - InfoMoney"
+    },
+    {
+      "articleId": "gnews_4278d22a84f4bdc2",
+      "headline": "Febre Chikungunya - saiba o que é! - spdm.org.br",
+      "headlineTranslated": "Chikungunya fever - find out what it is! - spdm.org.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T14:59:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BZWlwenlubVdHeEdyS1lZVkJzSVc5YUVZSHB1WVYxUjZZcTlnUjV5aWVyR2J4NnlZVGp3S3BVSnRNWC1oOVk2Rk9MS09fUTQyMjl0c0wwM09wRDVHUzdqWm1R?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "spdm.org.br",
+      "headlineJa": "チクングニア熱 - それが何であるかを調べてください! - spdm.org.br"
+    },
+    {
+      "articleId": "gnews_62174e191d196748",
+      "headline": "El Niño pode aumentar casos de dengue; saiba como se proteger - aquinoticias.com",
+      "headlineTranslated": "El Niño can increase dengue cases; find out how to protect yourself - aquinoticias.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-07-29T13:51:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUndwX3JZcXI3QVM2QkluWXBqYXpObHYzZ2tTVkstOE5LREFBbjhrSWFhNWZ1RHllOGphVWN1bUxEVEdzNVM1N0tHZGFMVzlncWxyYUh4eFYwWGRfR2lNUmNrVExEdmtPblFnVVo2M19aZC1aVk91V2lZdEJURTY2TWZsbU5veW8tdkIweWJjRnBlX3RSdEdRV0hJOWhSNkE0clo4YmoxdFJ4YThROHJtR3ZqdFk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "aquinoticias.com",
+      "headlineJa": "エルニーニョはデング熱の症例を増加させる可能性があります。自分自身を守る方法を見つける - aquinoticias.com"
     },
     {
       "articleId": "gnews_d0e237661a61df13",
@@ -112,9 +299,9 @@
       "headlineJa": "エルニーニョがブラジルのデング熱シナリオを変える - Earth"
     },
     {
-      "articleId": "gnews_d786a76f47b90f12",
-      "headline": "Teresina inicia mutirões contra a dengue neste sábado - piauihoje.com",
-      "headlineTranslated": "Teresina starts joint efforts against dengue this Saturday - piauihoje.com",
+      "articleId": "gnews_8ff0ffc2a10f5f8d",
+      "headline": "Teresina inicia mutirões contra a dengue neste sábado - Portal Piauí Hoje",
+      "headlineTranslated": "Teresina starts joint efforts against dengue this Saturday - Portal Piauí Hoje",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-29T09:57:42+00:00",
@@ -128,8 +315,8 @@
         "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "piauihoje.com",
-      "headlineJa": "テレジナ氏、今週土曜日からデング熱に対する共同取り組みを開始 - piauihoje.com"
+      "sourceName": "Portal Piauí Hoje",
+      "headlineJa": "テレジナ氏、今週土曜日からデング熱に対する共同取り組みを開始 - Portal Piauí Hoje"
     },
     {
       "articleId": "gnews_8b58729bc5a2dc34",
@@ -210,46 +397,6 @@
       "dataSource": "Google News",
       "sourceName": "Estadão",
       "headlineJa": "保健省、SP州の3都市で麻疹ワクチン接種の推奨を拡大 - エスタダン"
-    },
-    {
-      "articleId": "gnews_6f13b0498c769c00",
-      "headline": "Curitiba inicia soltura de wolbitos contra dengue - Blog do Esmael",
-      "headlineTranslated": "Curitiba begins releasing wolbites against dengue - Esmael's Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T23:49:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zZUlBWVpvTExmQjhtb3dhcnFyY3YzOXFwY18wYkNvTUx2NFdLV3NfNHV2RDhFU2tvaHRhc2lCcUU5VFUxMmtMWV9rZlU2d2pYdTVQODc0alZjdlRScE5CMWtFc1oxUU1qSmNLaHhMWVBvR0hhdjhKemZacw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Esmael",
-      "headlineJa": "クリチバ、デング熱対策用ウォルバイトの放出を開始 - Esmael's Blog"
-    },
-    {
-      "articleId": "gnews_8a222b4576c934a1",
-      "headline": "Estado de SP confirma 14º caso de sarampo neste ano; paciente é bebê não vacinado - G1",
-      "headlineTranslated": "State of SP confirms 14th case of measles this year; patient is an unvaccinated baby - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T23:09:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjJxTEF5STRyaTdhMnpuMnJxbWNVeV9qREhsOEFNS2s2SVJXWGphTlZJQWRnVG1SQ1V3aHE3TVhfV0FNV1BOd1lOYVNJMW5WNEIySmg3Q2l5TmtUWGJWTThJeDYtTTBWOF9wckhnN2d2MTZaNUhtRkI5WnVKQ2ZHeXZ0aFBHMWFyaDJPWlE0elVCc0l2Y2xMdmdJeWtVdmhRWHNET1lLdEF4dUpqbEFlQ3dXcFFoSk1jdTJldzZabTAzNDFYNkpZWS1TSmFrdEwyVnlzb2pn0gHkAUFVX3lxTFA1R0pRbHVNM25VNjcyQmJNclhhWFZOMnEtX1lxZlVaM0Y1M0g3M293NmpGSXd2WlZra2ZvLUNrQ0o1cEJYVjBoRmYtNUdrQWkxdndvRVRpbVFyMUtqeFVPb2xwRjFvNEhBTUFBOTBabmhUQVB4UHhPQWxUOW4yd1FIN19sVmZ1aHdwSFM1MHFfMzQxUWN0bVpKeDNmM0NzdDRJN21RNm9MQkdBb09YeEpMdnc2NU50S0ZYSElnSDVrUXd1cnZfNnRyS3h5VmhfOENHMl9LTklkREkwYVpzLUpLMEFCNg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "SP州は今年14人目の麻疹患者を確認。患者はワクチン接種を受けていない乳児 - G1"
     },
     {
       "articleId": "gnews_dccbf86bcd9c1ffb",
@@ -365,8 +512,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "al102.com.br",
@@ -433,9 +580,9 @@
       "headlineJa": "ブラジル、EUと戦争にもかかわらず、2026年には鶏肉輸出が進展すると予想 - InfoMoney"
     },
     {
-      "articleId": "gnews_90ee612011e0fe5d",
-      "headline": "Teresina promove mutirões de limpeza aos sábados para combate ao Aedes aegypti - URB News",
-      "headlineTranslated": "Teresina promotes cleaning efforts on Saturdays to combat Aedes aegypti - URB News",
+      "articleId": "gnews_f6af272561e01a21",
+      "headline": "Teresina promove mutirões de limpeza aos sábados para combate ao Aedes aegypti - urbnews.com.br",
+      "headlineTranslated": "Teresina promotes cleaning efforts on Saturdays to combat Aedes aegypti - urbnews.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-28T19:06:00+00:00",
@@ -446,12 +593,12 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
-        "Pará"
+        "Pará",
+        "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "URB News",
-      "headlineJa": "テレシナ、ネッタイシマカ対策のため土曜日の清掃活動を推進 - URBニュース"
+      "sourceName": "urbnews.com.br",
+      "headlineJa": "テレシナ、ネッタイシマカ対策のため土曜日の清掃活動を推進 - urbnews.com.br"
     },
     {
       "articleId": "gnews_5f224e4e2b19f613",
@@ -551,7 +698,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Metrô News Jornal",
-      "headlineJa": "保健省、サンパウロとその地域に麻疹ワクチン接種を推奨 - Metro News Jornal"
+      "headlineJa": "保健省、サンパウロとその地域で麻疹ワクチン接種を推奨 - Metro News Jornal"
     },
     {
       "articleId": "gnews_eb6f41ad9adf8631",
@@ -594,27 +741,6 @@
       "headlineJa": "保健省、麻疹ワクチン接種の拡大を勧告 - セアラ記者"
     },
     {
-      "articleId": "gnews_8a4b0cb088bd46a9",
-      "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - Correio da Cidade",
-      "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - Correio da Cidade",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T17:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2UxNWF2bE43X3dtaU5hRVR1TlVIN01LOEJoN0l2T2lwWUd6cHBtN2FHam9EZmZpMmx1UUdPMmx0N25ELURISHhyYWFlVGNrdWw3WklPSUFWQUVWb3lNSWhiS3NMd2liWkhEeUtGM1VtZTdFTUQxY2JUQ3N1MzJwOENWTW5qT3FySkZ5Y05QUHExcEhuM09DTUxvdkE4SXRaSjdqbDJlZ2djak9sQ1dpdnR1TU1VTU9Y?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio da Cidade",
-      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加する可能性 - コレイオ・ダ・シダーデ"
-    },
-    {
       "articleId": "gnews_d12765f1c08b9546",
       "headline": "El Niño pode aumentar casos de chikungunya e dengue no Brasil - Âncora 1",
       "headlineTranslated": "El Niño could increase cases of chikungunya and dengue in Brazil - Anchor 1",
@@ -624,8 +750,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTRxVWpxbU93ejBtalhSa1ZvX3l2dWdhdlVlUWdxQlhFZ21KYWZxTFU2VDVTRDRmOFAxWVZ1MEppODlfR3JFODRTX21ISHIwbE1VY1MtZlR2LUFGX09JQTZhM0F1N3hOckx0aVVmdEZnUmZFaFZHWjh4N282MUJKaFRsVEd4ZTN4V0EwdjZaazBNRGc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -633,12 +759,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Âncora 1",
-      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の症例が増加する可能性 - アンカー 1"
+      "headlineJa": "エルニーニョによりブラジルでチクングニア熱とデング熱の感染者が増加する可能性 - アンカー 1"
     },
     {
-      "articleId": "gnews_5d446cb45f0894a8",
-      "headline": "Saúde em dia - Governo brasileiro amplia proteção contra bactéria responsável por pneumonia e meningite - rfi.fr",
-      "headlineTranslated": "Health up to date - Brazilian government expands protection against bacteria responsible for pneumonia and meningitis - rfi.fr",
+      "articleId": "gnews_550d50f3f812a639",
+      "headline": "Saúde em dia - Governo brasileiro amplia proteção contra bactéria responsável por pneumonia e meningite - RFI",
+      "headlineTranslated": "Health up to date - Brazilian government expands protection against bacteria responsible for pneumonia and meningitis - RFI",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-07-28T16:54:31+00:00",
@@ -652,8 +778,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "rfi.fr",
-      "headlineJa": "最新の健康情報 - ブラジル政府、肺炎と髄膜炎の原因となる細菌に対する保護を拡大 - rfi.fr"
+      "sourceName": "RFI",
+      "headlineJa": "最新の健康情報 - ブラジル政府、肺炎と髄膜炎の原因となる細菌に対する保護を拡大 - RFI"
     },
     {
       "articleId": "gnews_3c753ecafbc84743",
@@ -733,7 +859,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas Alerta",
-      "headlineJa": "共同の取り組みで不規則に廃棄されたタイヤを回収し、マセイオでのデング熱との闘いを強化 - アラゴアス警報"
+      "headlineJa": "共同の取り組みで不規則に廃棄されたタイヤを回収し、マセイオのデング熱との戦いを強化 - アラゴアス警報"
     },
     {
       "articleId": "gnews_7a6834d638f5ba17",
@@ -793,7 +919,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Sertão",
-      "headlineJa": "マセイオ市庁舎が共同で空き地、タイヤ修理工場、スクラップ置き場からタイヤを回収 - Tribuna do Sertão"
+      "headlineJa": "マセイオ市議会が共同で空き地、タイヤ修理工場、スクラップ置き場からタイヤを回収 - Tribuna do Sertão"
     },
     {
       "articleId": "gnews_d67ba34623694980",
@@ -805,9 +931,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFpsTDVGWFZfZldaZm9nVkcyalV0SDFHQl9MaHc4T19vREQ5LUE1ZE95QVZBM1VmcmtqNUtDMV9rTy1jOVNpdC1fQ0hxd2tDSzNHQUlHOUh1c3dONERBSWwxYWtDbkx5RjVfR1R0V2FiT0oweXYtZ0FEYktCQXNDempIdTRDTG1TN21kQUZlSEVGcU1WMzY1cXVHcmhYRTg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
+        "Zika",
         "Chikungunya",
-        "Zika"
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -815,7 +941,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "No Cariri Tem",
-      "headlineJa": "セアラ州、デング熱、チクングニア熱、ジカ熱の可能性のある症例の増加を記録 - No Cariri Tem"
+      "headlineJa": "セアラ州、デング熱、チクングニア熱、ジカ熱の感染可能性の高い症例の増加を記録 - No Cariri Tem"
     },
     {
       "articleId": "gnews_2a33e1b85bb10564",
@@ -956,87 +1082,6 @@
       "dataSource": "Google News",
       "sourceName": "Jornal Impresso Brasil",
       "headlineJa": "ブラジルでの黄熱病の流行 - Jornal Impresso Brasil"
-    },
-    {
-      "articleId": "gnews_b7c56647923795a6",
-      "headline": "Goiânia amplia coleta de pneus e incentiva descarte ambiental correto nesta quarta-feira (29/07) - Diário da Manhã",
-      "headlineTranslated": "Goiânia expands tire collection and encourages correct environmental disposal this Wednesday (29/07) - Diário da Manhã",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-28T00:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWEya2tkalBhNFBNb0Rmd0VpX3RIQkFzNkZ6RjVSUDRjTUNsWGY4M0RDdVZQOUFiYTl4V1V0TGdIYUhYRFRoLTVxMzdUeDZFc2lwUTdzdlZfMk5ERzd0Ym1mRFFsLXJyalB0bEVtRUE4MndwdnVZRDRIMlVDUVl1amhfUjRlSVA1enJxckdfS1JDWGJ3T2d4SEYwQ1hhc0NqVTBFakNqYXZNWjB4aUlaeWIyRkp3aXdzS3l5YU0yTzZjWi15YVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário da Manhã",
-      "headlineJa": "ゴイアニアは今週水曜日（2007/29）、タイヤ回収を拡大し、正しい環境廃棄を奨励 - ディアリオ・ダ・マンニャ"
-    },
-    {
-      "articleId": "gnews_7e1f5ab4a5f54a38",
-      "headline": "Sarampo: quatro distritos de São Paulo registraram casos da doença - Rádio Itatiaia",
-      "headlineTranslated": "Measles: four districts of São Paulo registered cases of the disease - Rádio Itatiaia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T22:24:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjdScVF0ZU5UTWkxWWx4UmVabGtjLXFheW5MaG5RS2d5dWNYUm5JdFVDOE0zMmJrWDZSODV0QWYzS2d4Z2dBWlRpdWpxR0t1OHQyR1BSRVp0VE9fY0J6Qjd2RGR2RzhFWlFGVkpVb0RhRmtfTXliNTdWSjBwTFQydlZiLXI2Zm1wSWhjOVNwU2NjOXNDcTZJMzQweS1jY2xwelE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "麻疹：サンパウロの4つの地区がこの病気の症例を登録 - Radio Itatiaia"
-    },
-    {
-      "articleId": "gnews_598f002b41ef786f",
-      "headline": "Casos de chikungunya avançam e mortes chegam a 28 em MS - Região News",
-      "headlineTranslated": "Chikungunya cases increase and deaths reach 28 in MS - Região News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T19:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVV4N2hYRHpOS0NTVTJlcFlSNHRMM19FRXVubTk2UGtCeG83dHl4Mm1BYVNnc2FmWXNtVmp6WDZGVkUtTzNMek11T1ZRRi1zNk5ua1FZMFphYVRSY0VMenFWM2VLVTFzRm42aEttcUp3N3hIRHQzbFdnNVpfVzBrUzRVWWp0Vll1dUpHdlFfVXVKWVMzd2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Região News",
-      "headlineJa": "チクングニア熱感染者増加、MS州で死者28人に - 地域ニュース"
-    },
-    {
-      "articleId": "gnews_b7af3dd376264b9c",
-      "headline": "Ministério da Agricultura monitora duas suspeitas de gripe aviária no Brasil - opresenterural.com.br",
-      "headlineTranslated": "Ministry of Agriculture monitors two suspected bird flu in Brazil - opresenterural.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-07-27T18:29:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDAyTGhlenJ5dVRlZ0QxUnBrZk1SdXZLU1BvNWJ4TTh6NDhUTkN5d1llNDFLQUxNN3FveEllUnVZRm1UQms0MmxCY3Q3SGVRaDRwOFBmS3RuRHNEWFp4WFZFZU1NaHlCUEhudzJWWkVLVFhvdG5aQ1lScHdXa2VvbW1zNEFUSmtlVUtfY2d0UUtya1N1ZFlQS1ZjVWxJNTFGRW5sYU9QaFA2SVU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "opresenterural.com.br",
-      "headlineJa": "農業省、ブラジルで鳥インフルエンザ疑いの2羽を監視 - opresenterural.com.br"
     }
   ]
 }
