@@ -1,34 +1,72 @@
 {
-  "generated_at": "2026-08-07T02:49:57.779770+00:00",
+  "generated_at": "2026-08-07T08:59:26.503048+00:00",
   "date_range": {
-    "start": "2026-08-05T02:49:57.779770+00:00",
-    "end": "2026-08-07T02:49:57.779770+00:00"
+    "start": "2026-08-05T08:59:26.503048+00:00",
+    "end": "2026-08-07T08:59:26.503048+00:00"
   },
-  "total_articles": 46,
+  "total_articles": 44,
   "state_summary": {
-    "Pará": 8,
-    "São Paulo": 5,
     "Brasil (estado não identificado)": 22,
+    "São Paulo": 5,
+    "Pará": 6,
     "Piauí": 1,
+    "Amazonas": 2,
     "Pernambuco": 5,
     "Alagoas": 1,
     "Goiás": 3,
     "Rondônia": 1,
     "Sergipe": 1,
-    "Amazonas": 1,
-    "Ceará": 1,
-    "Paraíba": 1,
-    "Bahia": 1
+    "Ceará": 1
   },
   "disease_summary": {
-    "Measles": 34,
-    "Dengue": 5,
-    "Influenza": 2,
     "Ebola": 1,
-    "Doença infecciosa (não especificada)": 4,
+    "Dengue": 8,
+    "Measles": 32,
+    "Influenza": 2,
+    "Doença infecciosa (não especificada)": 1,
     "Avian Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_c0da698d1494e905",
+      "headline": "Assustador surto de Ebola no Congo pode virar pandemia mundial? Entenda - CNN Brasil",
+      "headlineTranslated": "Could a frightening Ebola outbreak in Congo become a global pandemic? Understand - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-07T03:39:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTM4TG5rc1NZMmxqeTRTNG1wY0J2T1NHZ3hhVjZQWHBVQk5iOUg2WXF2OGRYcURLLXpteTVSOXlGUExfSk0wenZ5WVpJelE4UlIzWDh4TnJXYUpjMTcxR01DX3NGY1lqb2hGR0g1QXRFT3J3aFpKcHNGb1NTdHNrcm5GZ0o2WUpUbDhJTlJOSzZ6aHFHbkpKbjE4dl9FaHZoQXN0MEtUcThxQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Ebola"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "コンゴでの恐ろしいエボラ出血熱の流行は、世界的なパンデミックになる可能性があるでしょうか?理解する - CNN ブラジル"
+    },
+    {
+      "articleId": "gnews_4b4d126fd75f63f8",
+      "headline": "Governo suspende vacina contra dengue do Butantan por reações adversas - CNN Brasil",
+      "headlineTranslated": "Government suspends Butantan dengue vaccine due to adverse reactions - CNN Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-07T03:34:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzB6UE0tNGxHcUo0WW45el9OX3pKZXJoeS01QWRlaXR3ek0yOGNzQnR0UWFPTWU2cDNJUTBrOVR6YXdTRkNKTTFZdUhtZzI5NGxiS0xCeWNiX0c1eGFYNFAzVmVCWGZSenY2TGhLVks4UnZHRl9GbjRZbnJ2MVRxNXdaa1hGREEwQnZ6X0JxVmJSRmFLVEs0TFVKaHVhM3hFYl9YbXBMN3c2U1NG?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil",
+      "headlineJa": "政府、副反応のためブタンタンデング熱ワクチンを一時停止 - CNN ブラジル"
+    },
     {
       "articleId": "gnews_c0a136ac104b890f",
       "headline": "SAÚDE | A Associação Nacional de Medicina do Trabalho (ANAMT) alertou para a importância da vacinação contra o sarampo entre trabalhadores após o registro de 16 casos da doença em São Paulo. A entidade recomenda que empresas facilitem o acess - facebook.com",
@@ -43,8 +81,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "facebook.com",
@@ -111,9 +149,29 @@
       "headlineJa": "麻疹：サンパウロでは誰がワクチンを受けるべきか、どこで予防接種を受けるべきか - Correio Brasiliense"
     },
     {
-      "articleId": "gnews_a66d2dbb0d2b81bf",
-      "headline": "Surto em SP: como funciona a vacinação contra o sarampo? - exame.com",
-      "headlineTranslated": "Outbreak in SP: how does measles vaccination work? - exam.com",
+      "articleId": "gnews_7f8237932f3d9f37",
+      "headline": "Vacina contra a dengue do Butantan é suspensa após casos graves - bncamazonas.com.br",
+      "headlineTranslated": "Butantan dengue vaccine suspended after serious cases - bncamazonas.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-06T20:49:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2NkZGlsX3kzYXFvY0pVa21RZk5QV3g2Q1A2clBveHJlcEtOUzJ2SVljX3dNRnUxLXpXejZBa195RWJNRUljbFZxbXlzVFBDR0J0N0VtblRmaGkzWHhLMmdHdnVMZG9OUTJhTklNZUtGZHkwWkVsTGE0U0NSQzN2YnpFZlJ6SUlLRFVwYVBmRWJIY2IyX3dMRWZTR2tUdktUTHczSg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bncamazonas.com.br",
+      "headlineJa": "ブタンタンデング熱ワクチン、重症者発生で一時停止 - bncamazonas.com.br"
+    },
+    {
+      "articleId": "gnews_3106575016300772",
+      "headline": "Surto em SP: como funciona a vacinação contra o sarampo? - Exame",
+      "headlineTranslated": "Outbreak in SP: how does measles vaccination work? - Exam",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-06T20:20:06+00:00",
@@ -127,13 +185,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "exame.com",
-      "headlineJa": "SP での発生: 麻疹ワクチン接種はどのように機能しますか? - 試験.com"
+      "sourceName": "Exame",
+      "headlineJa": "SP での発生: 麻疹ワクチン接種はどのように機能しますか? - テスト"
     },
     {
-      "articleId": "gnews_2177c54e90d6633d",
-      "headline": "Casos de dengue aumentam 38,5% em Pernambuco - carlosbritto.com",
-      "headlineTranslated": "Dengue cases increase 38.5% in Pernambuco - carlosbritto.com",
+      "articleId": "gnews_d48f78669ee6423c",
+      "headline": "Casos de dengue aumentam 38,5% em Pernambuco - Blog do Carlos Britto",
+      "headlineTranslated": "Dengue cases increase 38.5% in Pernambuco - Carlos Britto's Blog",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-06T19:01:08+00:00",
@@ -147,8 +205,8 @@
         "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "carlosbritto.com",
-      "headlineJa": "ペルナンブコ州でデング熱感染者が38.5%増加 - carlosbritto.com"
+      "sourceName": "Blog do Carlos Britto",
+      "headlineJa": "ペルナンブコ州でデング熱症例が38.5%増加 - Carlos Brittoのブログ"
     },
     {
       "articleId": "gnews_cf4748b6b2f79656",
@@ -191,6 +249,26 @@
       "headlineJa": "保健省、SPで麻疹ワクチン接種を拡大 -mouth.com.br"
     },
     {
+      "articleId": "gnews_202a25793e0c8fed",
+      "headline": "Sarampo: buscas pela doença no Google saltam 910% no Brasil; veja respostas para as dúvidas - Folha PE",
+      "headlineTranslated": "Measles: searches for the disease on Google jump 910% in Brazil; see answers to questions - Folha PE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-06T16:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmFuZ2xOcExqOEt6c3IwQUxBLUQzRkFGWjVwVnVpLXdkRzJfSHdGZEpqVkcyWk9ELWJabmxvN0U1UGs1QVhJMmFzcEdDcmNGX21MakpTR0NucmM2VTNjZlBJbHh4LVdnX1BpLU1SNHFxczhLWl9GdjdGYWo4TDZ5THFPcS1GaFgwb21jaUhLakpKQVVOV2JEbGotdm03ZHBfQUdMNkVHYTQ5UFpHQUHSAa4BQVVfeXFMTWZhbmdsTnBMajhLenNyMEFMQS1EM0ZBRlo1cFZ1aS13ZEcyX0h3RmRKalZHMlpPRC1iWm5sbzdFNVBrNUFYSTJhc3BHQ3JjRl9tTGpKU0dDbnJjNlUzY2ZQSWx4eC1XZ19QaS1NUjRxcXM4S1pfRnY3RmFqOEw2eUxxT3EtRmhYMG9tY2lIS2pKSkFVTldiRGxqLXZtN2RwX0FHTDZFR2E0OVBaR0FB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha PE",
+      "headlineJa": "麻疹：Google での麻疹の検索数がブラジルで 910% 増加。質問への回答を見る - Folha PE"
+    },
+    {
       "articleId": "gnews_55d31cafade07e99",
       "headline": "Surto de sarampo em SP levou à recomendação de revacinação e \"dose zero\" - CNN Brasil",
       "headlineTranslated": "Measles outbreak in SP led to the recommendation of revaccination and \"zero dose\" - CNN Brasil",
@@ -229,6 +307,26 @@
       "dataSource": "Google News",
       "sourceName": "Jovem Pan",
       "headlineJa": "ノルウェー、ワールドカップ対イングランド戦前にインフルエンザ大流行"
+    },
+    {
+      "articleId": "gnews_3fa666add4ce3fa9",
+      "headline": "Milhões de mosquitos criados em laboratório chegam ao Brasil para combater o avanço da dengue - Correio Braziliense",
+      "headlineTranslated": "Millions of laboratory-created mosquitoes arrive in Brazil to combat the spread of dengue - Correio Braziliense",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-06T16:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdUFtWEVCS1JMam85dXp0NzB2dUdiVzhqTkFIWmRfN1VJdE5GLWhrWnJpeVNnaTNiTEc3SmxjQ25PaS1ETmZsMjNkVDZOOWt1cVhOQmJkdlZ1VXlTSUdnLXJtRHdJem8zdlZaN0tmZkd5MGRsdW40TUJRcUh3WUJweHVCT0xSWk1raTUzdmVMZjV3WUZfU3dXdGlKdk9fVk04V01meEVjME0xYlVlc2tyOGRFUzhNVmVuZmhTNEk5Sk16R1hrRWdubzF0NWM1LTNhUzVsRHJiTQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio Braziliense",
+      "headlineJa": "デング熱の蔓延と戦うため、研究室で作られた数百万匹の蚊がブラジルに到着 - Correio Brasiliense"
     },
     {
       "articleId": "gnews_9efcb85657a7ecdd",
@@ -271,26 +369,6 @@
       "headlineJa": "サンパウロにおける麻疹再予防接種に関する説明 -mouth.com.br"
     },
     {
-      "articleId": "gnews_bc48bf73d21c060d",
-      "headline": "Sarampo: buscas pela doença no Google saltam 910% no Brasil; veja as respostas para as 10 principais dúvidas - oglobo.globo.com",
-      "headlineTranslated": "Measles: searches for the disease on Google jump 910% in Brazil; see the answers to the top 10 questions - oglobo.globo.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T15:06:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM1ppdGhHV3FUdmQ4dnRuYVhieHdPaDFPbmpMTURRVGd5SFliYVl1aU1jSlNXTmtmcGpVUTZUTER1Ymk4TmF6ZVNNd1Yxc2oyOVdQTkJMRzhEV3RudWo4RnFLTE9RM19HWGxvNzNQa1ltZm5hLW5xSTJjc3NJZWc5WGIyUHlvOHNvRUhhSTdJOFVjY19UNzJLMmRWU291SVRPT29YZE05anB6Q0pfRV9LYWdPSEk1TFFwNGVUcEJVaFFDQ2ZObERwd2hxbkNwbWp0bE0wWkJwMVVXQl9qRWZPcFFtSWJ5eVVmMl8tNGUtaVd5bGZ1RnpwQS1wQUVVajdlQkVENlhMa2lnaEXSAYsCQVVfeXFMTTNaaXRoR1dxVHZkOHZ0bmFYYnh3T2gxT25qTE1EUVRneUhZYmFZdWlNY0pTV05rZnBqVVE2VExEdWJpOE5hemVTTXdWMXNqMjlXUE5CTEc4RFd0bnVqOEZxS0xPUTNfR1hsbzczUGtZbWZuYS1ucUkyY3NzSWVnOVhiMlB5bzhzb0VIYUk3SThVY2NfVDcySzJkVlNvdUlUT09vWGRNOWpwekNKX0VfS2FnT0hJNUxRcDRlVHBCVWhRQ0NmTmxEcHdocW5DcG1qdGxNMFpCcDFVV0JfakVmT3BRbUlieXlVZjJfLTRlLWlXeWxmdUZ6cEEtcEFFVWo3ZUJFRDZYTGtpZ2hF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "oglobo.globo.com",
-      "headlineJa": "麻疹：Google での麻疹の検索数がブラジルで 910% 増加。上位 10 の質問に対する回答をご覧ください - oglobo.globo.com"
-    },
-    {
       "articleId": "gnews_fe1a5faf47d5945d",
       "headline": "De olho na fila: Especialistas analisam ameaça de sarampo no Brasil - boca.com.br",
       "headlineTranslated": "Keeping an eye on the queue: Experts analyze measles threat in Brazil - mouth.com.br",
@@ -311,8 +389,8 @@
       "headlineJa": "行列に目を光らせる：専門家がブラジルの麻疹の脅威を分析 -mouth.com.br"
     },
     {
-      "articleId": "gnews_1e5fe0d0edfbcb4c",
-      "headline": "Casos de sarampo acendem alerta no Brasil - Hojemais.com.br",
+      "articleId": "gnews_7097c7bbd6d29583",
+      "headline": "Casos de sarampo acendem alerta no Brasil - hojemais.com.br",
       "headlineTranslated": "Measles cases spark alert in Brazil - Hojemais.com.br",
       "summary": "",
       "summaryOriginal": "",
@@ -327,28 +405,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Hojemais.com.br",
+      "sourceName": "hojemais.com.br",
       "headlineJa": "麻疹症例がブラジルで警戒を呼び起こす - Hojemais.com.br"
-    },
-    {
-      "articleId": "gnews_c0da698d1494e905",
-      "headline": "Assustador surto de Ebola no Congo pode virar pandemia mundial? Entenda - CNN Brasil",
-      "headlineTranslated": "Could a frightening Ebola outbreak in Congo become a global pandemic? Understand - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T13:46:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTM4TG5rc1NZMmxqeTRTNG1wY0J2T1NHZ3hhVjZQWHBVQk5iOUg2WXF2OGRYcURLLXpteTVSOXlGUExfSk0wenZ5WVpJelE4UlIzWDh4TnJXYUpjMTcxR01DX3NGY1lqb2hGR0g1QXRFT3J3aFpKcHNGb1NTdHNrcm5GZ0o2WUpUbDhJTlJOSzZ6aHFHbkpKbjE4dl9FaHZoQXN0MEtUcThxQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "コンゴでの恐ろしいエボラ出血熱の流行は、世界的なパンデミックになる可能性があるでしょうか?理解する - CNN ブラジル"
     },
     {
       "articleId": "gnews_c3e96e7a25e4d445",
@@ -391,9 +449,9 @@
       "headlineJa": "企業は麻疹ワクチン接種を奨励するよう勧告 - Boca do Povo News"
     },
     {
-      "articleId": "gnews_708c726653c5e245",
-      "headline": "Empresas são orientadas a facilitar vacinação de trabalhadores contra o sarampo - RRMAIS",
-      "headlineTranslated": "Companies are advised to facilitate vaccination of workers against measles - RRMAIS",
+      "articleId": "gnews_72228518e9b9e644",
+      "headline": "Empresas são orientadas a facilitar vacinação de trabalhadores contra o sarampo - rrmais.com.br",
+      "headlineTranslated": "Companies are advised to facilitate vaccination of workers against measles - rrmais.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-06T12:04:00+00:00",
@@ -407,8 +465,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "RRMAIS",
-      "headlineJa": "企業は従業員への麻疹ワクチン接種を促進するよう勧告 - RRMAIS"
+      "sourceName": "rrmais.com.br",
+      "headlineJa": "企業は従業員への麻疹ワクチン接種を促進するよう勧告 - rrmais.com.br"
     },
     {
       "articleId": "gnews_0be725cb560fbc4e",
@@ -451,9 +509,9 @@
       "headlineJa": "ペルナンブコ州ではデング熱の報告症例数が38.5%増加を記録 - エデネヴァルド・アウベス"
     },
     {
-      "articleId": "gnews_c9b5404e4b1e5e3c",
-      "headline": "Sarampo volta a preocupar e empresas são orientadas a facilitar vacinação; veja situação em Alagoas - Alagoas Alerta",
-      "headlineTranslated": "Measles is once again a concern and companies are advised to facilitate vaccination; see the situation in Alagoas - Alagoas Alerta",
+      "articleId": "gnews_614bda4920287803",
+      "headline": "Sarampo volta a preocupar e empresas são orientadas a facilitar vacinação; veja situação em Alagoas - alagoasalerta.com.br",
+      "headlineTranslated": "Measles is once again a concern and companies are advised to facilitate vaccination; see the situation in Alagoas - alagoasalerta.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-06T09:47:35+00:00",
@@ -467,8 +525,8 @@
         "Alagoas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Alagoas Alerta",
-      "headlineJa": "麻疹が再び懸念されており、企業はワクチン接種を促進するよう推奨されています。アラゴアスの状況を見る - Alagoas Alerta"
+      "sourceName": "alagoasalerta.com.br",
+      "headlineJa": "麻疹が再び懸念されており、企業はワクチン接種を促進するよう推奨されています。アラゴアス州の状況を見る - alagoasalerta.com.br"
     },
     {
       "articleId": "gnews_2b8d4e578af40e56",
@@ -491,9 +549,9 @@
       "headlineJa": "企業は従業員の麻疹ワクチン接種を促進する必要がある - ゴイアス 246"
     },
     {
-      "articleId": "gnews_3f48d142382c570e",
-      "headline": "Sarampo: especialistas avaliam risco de alastramento no país em meio a surto e baixa cobertura vacinal em SP; tire suas dúvidas - oglobo.globo.com",
-      "headlineTranslated": "Measles: experts assess the risk of spread in the country amid an outbreak and low vaccination coverage in SP; ask your questions - oglobo.globo.com",
+      "articleId": "gnews_640f8ed23fe52246",
+      "headline": "Sarampo: especialistas avaliam risco de alastramento no país em meio a surto e baixa cobertura vacinal em SP; tire suas dúvidas - O GLOBO",
+      "headlineTranslated": "Measles: experts assess the risk of spread in the country amid an outbreak and low vaccination coverage in SP; ask your questions - O GLOBO",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-06T06:00:59+00:00",
@@ -507,8 +565,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "oglobo.globo.com",
-      "headlineJa": "麻疹：SP地域での流行とワクチン接種率の低さの中で、専門家が国内での蔓延のリスクを評価。質問してください - oglobo.globo.com"
+      "sourceName": "O GLOBO",
+      "headlineJa": "麻疹：SP地域での流行とワクチン接種率の低さの中で、専門家が国内での蔓延のリスクを評価。質問してください - O GLOBO"
     },
     {
       "articleId": "gnews_780fbd7575b96e32",
@@ -745,17 +803,17 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Biored Brasil",
       "headlineJa": "保健省、SP、サンベルナルド、グアルーリョスの6か月から59歳までの人に麻疹ワクチン接種を推奨 - Biored Brasil"
     },
     {
-      "articleId": "gnews_85864300ebe89ef8",
-      "headline": "Pernambuco tem aumento nos casos de dengue e alcança 38,7 mil notificações em 2026 - cbnrecife.com",
-      "headlineTranslated": "Pernambuco has an increase in dengue cases and reaches 38.7 thousand notifications in 2026 - cbnrecife.com",
+      "articleId": "gnews_6f5a0da35bb551bb",
+      "headline": "Pernambuco tem aumento nos casos de dengue e alcança 38,7 mil notificações em 2026 - CBN Recife",
+      "headlineTranslated": "Pernambuco has an increase in dengue cases and reaches 38.7 thousand notifications in 2026 - CBN Recife",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-05T19:13:09+00:00",
@@ -769,8 +827,8 @@
         "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "cbnrecife.com",
-      "headlineJa": "ペルナンブコ州ではデング熱症例が増加し、2026 年には通知数が 38.7 千件に達する - cbnrecife.com"
+      "sourceName": "CBN Recife",
+      "headlineJa": "ペルナンブコ州ではデング熱症例が増加し、2026年には通報件数が3万8700件に達する - CBNレシフェ"
     },
     {
       "articleId": "gnews_99e2e3184b1867a1",
@@ -786,8 +844,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "tmc.com.br",
@@ -834,9 +892,9 @@
       "headlineJa": "州保健省によると、ゴイアス州では10万人以上のデング熱感染者が記録されている - CBN Goiânia"
     },
     {
-      "articleId": "gnews_53df7d2567ea3a0c",
-      "headline": "Exames descartam gripe aviária em propriedade rural de Nova Xavantina - olharalerta.com.br",
-      "headlineTranslated": "Tests rule out bird flu on rural property in Nova Xavantina",
+      "articleId": "gnews_768fb1d2b6d317e0",
+      "headline": "Exames descartam gripe aviária em propriedade rural de Nova Xavantina - Olhar Alerta",
+      "headlineTranslated": "Tests rule out bird flu on rural property in Nova Xavantina - Olhar Alerta",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-05T10:33:00+00:00",
@@ -851,109 +909,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "olharalerta.com.br",
-      "headlineJa": "ノヴァ・ザヴァンティナの田園地帯での鳥インフルエンザが検査で否定される"
-    },
-    {
-      "articleId": "gnews_657aeca6ee4877f9",
-      "headline": "Hantavírus no Brasil: quais os riscos e como prevenir a doença? - CNN Brasil",
-      "headlineTranslated": "Hantavirus in Brazil: what are the risks and how to prevent the disease? - CNN Brazil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUJjY2JWcVhHbDI3RWhqSkR2LTlZQm1weTlBYjY0QXl4WDFxT3JJdElJcU0tUWNkNEZMNDc1U1dFWmRLUzdxTkp4d2V1MEtFM1l1V0NMWW9IeFdkQUs5R1BRUzU2akY1ZWRxTk9NeFRMdnl2SXBWSzVrbkVJdmo0dmVQRVgzRXdBUExwbmo5TUxVRUV6UG02NXhzUVdJZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "ブラジルのハンタウイルス: リスクと病気の予防方法は何ですか? - CNN ブラジル"
-    },
-    {
-      "articleId": "gnews_7de3c7ba645bfe04",
-      "headline": "Influenciador VT Kebradeira é detido após suposto surto e briga com vizinhos, em João Pessoa - Portal Correio",
-      "headlineTranslated": "Influencer VT Kebradeira is arrested after an alleged outbreak and fight with neighbors, in João Pessoa - Portal Correio",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUhuWmZDTTBYSkZDTWVndDVfekNTeHJoMWloU2ZDOTlUYXVBNTRwZDlyYjd3dEN5aUZpMzE4N0VJczBPTGFOd05tRjNuU0FreUFfZjZjbUkwUDdaX0RnZUZmeDNVNGh4OGFkQ0pEUEFneDU5WDZocDdCeGxNVUYteUQzb3dUeHp5QzlxVXhqZHFyV3dOYUFCQXduZEZYc1RVUnRxUnJkbGQ3NkwwNm1rS0tiYnZpcU4tcVBDMXdCRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Correio",
-      "headlineJa": "ジョアンペソアでインフルエンサーのVTケブラデイラ氏が集団感染と近隣住民との喧嘩の疑いで逮捕 - Portal Correio"
-    },
-    {
-      "articleId": "gnews_1d198b4fe67b89b5",
-      "headline": "Fiocruz acende alerta: Salvador tem o pior cenário do Nordeste para arboviroses - trbn.com.br",
-      "headlineTranslated": "Fiocruz raises alert: Salvador has the worst scenario in the Northeast for arboviruses - trbn.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T06:42:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTU9SNEVjdE9HaXhWenJEMWRCV3h3SUpBODhlWVoyT0Y1YnE0WkJOZTF5RmdoaVc3OHloX3h4Q2czQkIxVV81Rm5YMlBMU1NwOG5wWmlwMTVha2JhRDBzZkhydnc0dml2WGhEcVZIbFpHaS1pbERZUXRzQkp5ZVlSVzVrS09TM3lObFJ3QTVZOXp2ZXVFbjZHSVd4TFM5MWtFZGZQT045UVppRVRZUVJJTmFmVlo3bkxJM2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "trbn.com.br",
-      "headlineJa": "フィオクルス氏が警告：サルバドールはアルボウイルスに関して北東部で最悪のシナリオを抱えている - trbn.com.br"
-    },
-    {
-      "articleId": "gnews_2b1d753605a2cc8d",
-      "headline": "CE aponta alta taxa de vacinação para prevenir surto de sarampo - O POVO",
-      "headlineTranslated": "EC points to high vaccination rate to prevent measles outbreak - O PEOPLE",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T04:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFNveUpReDlRU3p2SVc0djNqaVNCMGoyZExiM1dUUExBMVY3a0REc0IyVFFYeTBfSUMzS01BNWNRSnREZEdWa2FMcGJINVdzYWtiTElFaUF6SFhWTjNiMnhPOVRYMzFqLTFZT1lmdGFoblRqSEhwczNpYWFfbklaQlJ5c1k2ZmV5WDZTVDlXaWZyMnRVRVF3b2JSQjRNRlBYMXEzTXM1ekE5RVpTYVBsX3dfaFhLc245N0piWEQtMnJfcXZR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O POVO",
-      "headlineJa": "ECは麻疹の流行を防ぐために高いワクチン接種率を指摘 - O PEOPLE"
-    },
-    {
-      "articleId": "gnews_cda416c81302ca05",
-      "headline": "Saiba onde há menos filas para tomar vacina contra o sarampo na cidade de SP - G1",
-      "headlineTranslated": "Find out where there are fewer queues to get the measles vaccine in the city of SP - G1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-05T04:00:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbld2RjRydmJPNms0QmZNNmJxNzBHS0tMQXZlLVJLZlZlcXZXUzlJc3JQb1JZZlBCdnhYckdmcDZmTE5Na3p1NC11b3dZZ2o2RGpnZjVMLWN2ai1VdmJCV3czbmdleHFhZHNMVTNWMlNEZkR4Z2ZSaTBhX1lzTkNTOHZUdXNqUVNBVk4taUhSVzdBekRncEM3b29HQVdpdG9od3VQWnpSeDFNSW13N2gtZFdQSG5wT0V5SmR6TlZaX1AxNjBqY3YwUWQyUHQ2X3NN0gHfAUFVX3lxTE91elVBckJ6bzBzRkxsYlQ4U0t6YktEbDBCLU1yY2FoSzFDbzlydVpNOHhieDg2YkFWd1lwWjlVSkNEdzRYYzloMmJQX2ctZGx4bEx3MExPazhsanY4U3dybC11Z19HRjJvN09Cc0YxMGJrcEtRZV93MDhQSjB3WkEwX3NyMGJ5SEZuMF9MX1V6RmN6bTNWU1o1ZTNmZzNmMkJzZG5BVFQ0cFpxX2cxR1BxZDFhRTlpaDA4WWdfZ1doUlFFekhzbDc2STlfbndRUUd5QVl4Vmg0cURhX1laNWM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "SP - G1 市内で麻疹ワクチン接種の行列が少ない場所を調べてください。"
+      "sourceName": "Olhar Alerta",
+      "headlineJa": "ノヴァ・ザヴァンティナの田園地帯での鳥インフルエンザは検査で否定 - Olhar Alerta"
     }
   ]
 }
