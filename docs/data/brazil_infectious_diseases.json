@@ -1,34 +1,520 @@
 {
-  "generated_at": "2026-08-08T16:46:16.462371+00:00",
+  "generated_at": "2026-08-09T01:59:16.594520+00:00",
   "date_range": {
-    "start": "2026-08-06T16:46:16.462371+00:00",
-    "end": "2026-08-08T16:46:16.462371+00:00"
+    "start": "2026-08-07T01:59:16.594520+00:00",
+    "end": "2026-08-09T01:59:16.594520+00:00"
   },
-  "total_articles": 57,
+  "total_articles": 69,
   "state_summary": {
-    "Brasil (estado não identificado)": 20,
-    "São Paulo": 15,
-    "Alagoas": 1,
+    "Brasil (estado não identificado)": 26,
+    "São Paulo": 16,
+    "Pará": 21,
     "Piauí": 2,
+    "Sergipe": 2,
+    "Alagoas": 1,
     "Ceará": 2,
-    "Pará": 14,
-    "Paraíba": 1,
     "Bahia": 2,
     "Distrito Federal": 2,
-    "Goiás": 1,
-    "Amazonas": 2,
-    "Pernambuco": 2
+    "Goiás": 1
   },
   "disease_summary": {
-    "Influenza": 4,
-    "Avian Influenza": 4,
-    "Measles": 43,
+    "Influenza": 12,
+    "Avian Influenza": 12,
+    "Measles": 49,
+    "Dengue": 7,
+    "Doença infecciosa (não especificada)": 1,
     "Meningitis": 1,
-    "Dengue": 10,
     "Zika": 1,
     "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_53222a18e6312df3",
+      "headline": "SP confirma segundo caso de gripe aviária do ano em ave encontrada no Ibirapuera - Terra",
+      "headlineTranslated": "SP confirms second case of bird flu of the year in bird found in Ibirapuera - Earth",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T01:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVFR0R2h3QWhIdTVTMFc4THZQS1hBSXctOW9sRnM5a3N1SlN0WFZQNWVWOHhWbVlsd0YyX0ZBd0RkWW0yQlpGcWxxb1JKTndXeXZ0VnluLU1QOWVlTEVKNU1jbHdwdjVtUDJ5bnlMYm5kNDhrckM3SWVPbXQtZ0VDdjJWRFhWd2hIU1lHejZSbko0YWRISzJmRWM3VDBHa21wVDZrbXJCbVd2cnB4bzk2SjJrSkdRUUtob1JNbFRsTTQxN3FmSUN6QklUVFMwekRydnE5VlRYTWhlUzZxVUNfSU83M0RKQ1JvVUhnTEN4WmxtTDJDQVJ5UWVBNm80VmNncmNtYnFn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "SP、イビラプエラで見つかった鳥で今年2例目の鳥インフルエンザ感染を確認 - Earth"
+    },
+    {
+      "articleId": "gnews_acc74cd7e938dbd5",
+      "headline": "57 postos com filas e 109 mil doses: SP corre contra o sarampo. - JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineTranslated": "57 stations with queues and 109 thousand doses: SP races against measles. - JASB - Journal of Brazilian Health Agents.",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T01:19:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMTZsTG82QlZJWlhxbmkwRTFETmJYWUk4dmpLWWdGTmFvOUxMdjlaaW9SUDM3Vm1GNmloeFJlYVlTR2Y2bjI0YWFnMFQ1dUxTWU9Ka0lMaG5JYlFjMjQzV05Sdng?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineJa": "57駅で行列、10万9千回接種：麻疹とのSPレース。 - JASB - ブラジルの健康エージェントのジャーナル。"
+    },
+    {
+      "articleId": "gnews_a556390065d95aa0",
+      "headline": "São Paulo confirma caso de gripe aviária em marreco do Parque Ibirapuera - O TEMPO",
+      "headlineTranslated": "São Paulo confirms case of bird flu in duck from Ibirapuera Park - O TEMPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T00:57:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmVlZUlrVlIwdG9DbDM1V0lGak5tUG5Rd2VMUjQ0ZFp3Q0wwR0VPSHhiYXp1TUY0UFNJbDYtcmt0Q1B6c29aSzN2VEtVZlQwMi1nZkk2aE90Rk5ZZ3NaZWgwcDY4ZmthanJtVWYwS3VTWjJIRVI4OTFmNDZ2MmtySmh4Ri04VTVOX05LcHh5UTEzVy1yRGE4bmRPbTdMNEtqU3hOYzJwM0VrQ25EZGIwZFdNNzbSAboBQVVfeXFMTkVtREV3RURaenVnb1kxbkV3OWViSllVUXVZWEJRb0liRUZOb3NFWTJlXzFKRjBlaFU3bm9OMFNmaThPSnkxdmdKYXZyVVJjTE1rTHJKRWI5bXpDTmVUeC1ETnk1aUNVVmRIWTFyZHBNTGVrVTFfVGlvT1FPLUJzaGRDNElEY3ktbV8yUGl0WW1oYndYeDVVX1RwX0xoNkEyWnRJU3JLYm93OGUzUi1hUk1hdXloRTR0b1VR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O TEMPO",
+      "headlineJa": "サンパウロ、イビラプエラ公園のアヒルに鳥インフルエンザの感染者を確認 - O TEMPO"
+    },
+    {
+      "articleId": "gnews_86691b6a167ed243",
+      "headline": "Corrida pela vacina contra o sarampo lota postos de saúde na capital paulista - Bons Fluidos",
+      "headlineTranslated": "Race for measles vaccine fills health centers in the capital of São Paulo - Bons Fluidos",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T00:43:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmtiNkRLdXlFZEZyakwxWEg5YzNkOFYyTElTcXVscFJiWUE2OTFQRlRRWDN2VDgwVUJ4ajdIZWcwSFlwaHlxRURvOWtjOFVkSGRXU2l6ODctYjBYS1BHaF81ZnMya0J2d0R2UEw2V1pkV2JjWXpxRjdfNmdFSV9rb0NEY1pHQWVYQTVUR1FfcWFXcUdTMk5xWUxPbUpHbDhzVEIxcEVZdm5TUXkyU2RleTkyWVhmNG5kdVZDNA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bons Fluidos",
+      "headlineJa": "麻疹ワクチンの争奪戦で首都サンパウロの保健センターが満員 - ボンス・フルイドス"
+    },
+    {
+      "articleId": "gnews_19c7f44ceda9e165",
+      "headline": "São Paulo registra segundo caso de gripe aviária em ave silvestre - Tribuna Online",
+      "headlineTranslated": "São Paulo records second case of avian flu in wild birds - Tribuna Online",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T00:31:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFpZMjRvU1RkOEl0c2FlOFNKQTFfZnJZa1VnTk4yS1YtUHpYbVF3eWl1cndfWnZwRmFoVUN3dU15QjJMUnNYclI2VUVhWUZuekctWlo5a0p1UGdSX0VnM3BoeWlBZjFSb0k4bVBnSjF6cXlKZEhFTW5nbXRmbTlqX2lsRWktT1c5SFJpel9oLXJFYnA3dXp2dTJEVnBKemdaMlg2STZqMjU3OXd10gG0AUFVX3lxTE1XcFp4RGpKQzZFQWVCd2NNczFIWVFZVzBCRVlwbS1hZjRMODMxc016TndRbWM4UHc3dDd4OU5NQjBTaFRDYVQtZjZ0M3pCeXlTLVVuMVhMZzlNSnV0b2dGdEhYa0wzQjh0RlI0OU5RQmdQa2twZXFKZFVmdGNPcVg4Zng0b0FYbWhBamJzZEVGazdqU3A0cW5MU1BkWE9KeW5kN3ZpaTlkVXV4bC0zSnNZMHFsaA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna Online",
+      "headlineJa": "サンパウロ、野鳥における鳥インフルエンザの2例目を記録 - Tribuna Online"
+    },
+    {
+      "articleId": "gnews_dc2474e613255f3a",
+      "headline": "Paulistanos enfrentam filas para vacina contra sarampo - jornalcruzeiro.com.br",
+      "headlineTranslated": "Paulistanos face queues for measles vaccine - Jornalcruzeiro.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-09T00:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRjR6bFpCNXlfZTgtc194RjVsT3VaUUZPSWllczJOd1UyVWsyTWxjRXczd21Td3l0eDJ2YnVyVFF4RmM2MEZQOXNpeGdVdTcxaWFBT1g0WTBIV3JIWDVyczVpT3N0WVJrQm9pa2tMLUp3QUtLRmFHSGV1TnlnUTN0MkRBWkJGUDV2eVZmQWpfU3Q2blMxMEFNcXEwOFU0cVFRTFMtcUNza0ZzbVdzYS1pbWExN1FSQTcxNnJnb3pR0gHDAUFVX3lxTE5obGtDQ2g3ZmRLaU1hc3hweWNaYU1SREwxNTd5UFg5a0d6enpTSjRiX0pGenppYm9kaGJ5dVJmdHhsbHVLRHA3RGFNNmFaZXpycUFxNW9LazBBdEZaTnBhSE15VklmQk91T0tSam5qVVo4dDZuOVYwMHBfRUhBM2ktekQ0aWhMLUxKa2c1ZEVjelJSc2lYa1NWVVFKVmhVN0I5Qnltd2UxM21LVGY2dTVPRS1Nc2Y3M0lVQk5HbEN0U2V4OA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jornalcruzeiro.com.br",
+      "headlineJa": "パウリスタノス、麻疹ワクチン接種の行列に直面 - Jornalcruzeiro.com.br"
+    },
+    {
+      "articleId": "gnews_217db71086f413f5",
+      "headline": "Estado de SP registra segundo caso de gripe aviária em ave silvestre - Folha de S.Paulo",
+      "headlineTranslated": "State of SP records second case of avian flu in wild birds - Folha de S.Paulo",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T23:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck5wLWMxTzJXYm1rYjlZQ01BZW9fbWk4eE1ieG42bHd5cG8tbnlxQ3RrOEI5UTlFbE43NnhGVzI0UklXQi1GWHJlRFhRaTNTY3M2Y2NYWnhqY05xVXpYMjI5cFlsWkhYbWtVbXBhTWRzOE9pN0M1dW81UnhYeDJzRTNBX1R1b0x4SjNBbk96NDJLTUh6ZDVfYVBrb2tZOWp5NC1wd1pld0xybk1UZEtINFJwQWJWNXNoVHV6QVlB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha de S.Paulo"
+    },
+    {
+      "articleId": "gnews_1ec3fb2c596afd88",
+      "headline": "Mutirão contra a dengue: moradores do Pirajá devem colocar entulhos nas calçadas até sexta (31) - redepiaui.com",
+      "headlineTranslated": "Campaign against dengue: residents of Pirajá must place rubble on the sidewalks by Friday (31) - redepiaui.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T22:35:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmFPUU4tRzVXc0ZzLUJWSDliSkVkZFRnRzFJNHpHYW1HaTBHeVN6T3pMV05lQW03Q1htUmVrTVBPY0JDUjhBY1EyN1RQWUxVLVdpSTVyNzRFSGI3b3g2VjRudW56REVRSzIxazVGc0pHa00wc3JJYl9NdXFlTW1nSDdENFFQVjlWdnZKQ2NCdXZxS2RTMGRnT001ek1zUHZNTE81Wi1POS1OUG9pRERtRzFzenhTai1fcGJsZU9fakk5d9IBxwFBVV95cUxPNTE1a3pGNnBXQnlZRUFSYW9ESms0UXJPamhEZ0xJMENZSUhOLUFKdnVhdE1nd3hYeEVnQ3ZlYVZaOEgzdTZESlhEMjhJNzgxRmNqYUFlVFJoRWJDN0xuVlI4Vi1HdVR5d1N5Uk1TM3FfRFdyUXZVQ0Q0dDREWDRlNVJoWktzeEd0NHBLcG45OVlWd0wwejFPOElaUGRNTUxQOXQtN096TGpaV3N1LU5YU3pTVUs4dkszaDBOdlRCNWNBMUc2SEZz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "redepiaui.com",
+      "headlineJa": "デング熱撲滅キャンペーン：ピラジャ住民は金曜日（31日）までに歩道に瓦礫を置かなければならない - redepiaui.com"
+    },
+    {
+      "articleId": "gnews_4691b3a47ba74e3e",
+      "headline": "FMS inicia Campanha de Multivacinação 2026 em Teresina - redepiaui.com",
+      "headlineTranslated": "FMS starts 2026 Multivaccination Campaign in Teresina - redepiaui.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T22:31:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVcxUjZKTVhPUFRBVkxlQmZuN1IzMXpocWdBRnJpZ2kxek1PUFhmRktVWW9SNWl6VVhxamdOWjc3eUZ2MEhFb2tVeEZIeU9wLXRscDQ1WXM0ZHY0dHJoRDBFRXoyZzYxSEhaZ2FDME1GaUU5cWJQbXVjSFpVMUhLdnBsOWlVTXVVbGVIcVJWZ9IBlAFBVV95cUxNZURkOWk2c0QtZFdDY2dXbVplNzR4ellCR1UtWTVJbXpFUC1ZejVwSHR5b1ZGSWVEcTFLT1Btai0wRHRZX3Brc0JEVXhwX1Y4cjF2M1dwbWNXUGRvV09CM2FXUWQ0Yko2S3p1cGoyLVF5ME1ud3N4SmJxVkl3Sy1CVUdmdEUyQ3BNbEdYeUZ0SWdMQXNo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "redepiaui.com",
+      "headlineJa": "FMS、テレシナで2026年の複数回ワクチン接種キャンペーンを開始 - redepiaui.com"
+    },
+    {
+      "articleId": "gnews_8784b78703e70d31",
+      "headline": "Paulistanos enfrentam filas para vacinação contra sarampo no primeiro sábado da campanha - O GLOBO",
+      "headlineTranslated": "Paulistanos face queues for measles vaccination on the first Saturday of the campaign - O GLOBO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T21:49:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRU5zS3I3WjlNUUFaVFRkRXg5ODM1RFlWT0N5UFZkM2pZZU03dllCVG9XaW9aWWhuUmV0a2o2YVRhLUFrenlwOWtsN0I0cDZTd1BkR1A2UmU0R3hnZTB1aEF4M1JQUVE2dWZuVC1YNEtEeUhwNms3MWViYjluSlktOHVWUU9DdTd6TFVIcXdQOTdHaEFuN2RHdjF0N3FfU3hkUmZDLW9vUU5KdElsT1Y4Mi16UnNtY3RxU3FlRjhIWjhxR2NHczNweFpRc2lNSWUybGxweVlwS0xMNnVPalhadTVuSGhtZ2dYXzhV0gH6AUFVX3lxTE5sekpyYlNYYnFEMjlKRHFSb2dFVU1ybTN3ajl5R3ctWTVmZ1d3NFNjY013cjZMTjJBSDY2VzIxU0NjU2pGVnRDbmpNb2s1dVY3bjFxQndxLTdfSkFIcmZ5V0p4VGVFVm15NWRYTEszRGFQZzB5UnUzOC1yYXNFcFNmVTRxbHZiTndxWUd5RFBfY2RYbTZhNjl4M1hGV2twUVJNQ2ladlFqTTZYTmJXX2E0U0c3UklpVjRjbGJmNFNLcmsyT3dwdWhoZ2kwdGJHR19fdVhQUTZHdENPSkpvZDJMNUNxRE1LSWk3bF9hVUVmRldyMVRKMkNTeXc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O GLOBO",
+      "headlineJa": "パウリスタの住民、麻疹ワクチン接種キャンペーンの最初の土曜日に行列に直面 - O GLOBO"
+    },
+    {
+      "articleId": "gnews_6f0fdcda6a907e23",
+      "headline": "Paulistanos enfrentam filas para tomar vacina contra sarampo - brasildefato.com.br",
+      "headlineTranslated": "São Paulo residents face queues to get the measles vaccine - brasildefato.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T20:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXpoUVZnWUctWWNCR0NfYnJQbTZDZ0tyZ2JMYXVrUVJKQ1NhT3pleGtEYVFIX0xfeG9vLTRmMHhTTldJMnR3ZERwVG1pU2R0amRZdWRjbnY3WUE2Q3dVcnR4RlpvblcwSy1iZXRUQ1lOaHJMa2pBZWxWRW1FNFVpWVZOWkpacksyRkItM1lNT21vNmw4RWtaZ2xVWGNKdzk0RkZKMXh2NA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "brasildefato.com.br",
+      "headlineJa": "サンパウロ住民、麻疹ワクチン接種の行列に直面 - brasildefato.com.br"
+    },
+    {
+      "articleId": "gnews_2c080ee8e8050741",
+      "headline": "Gripe aviária é confirmada em marreco no Parque Ibirapuera - Portal iG",
+      "headlineTranslated": "Bird flu is confirmed in ducks in Ibirapuera Park - Portal iG",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T20:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJmazlxS2E1emI3M3VkSllkTkw0R09Ec1kxb2NBUXFkVjlVTWFqanhhUHpTank4WVljZ2FrT1J6WUJSZkhQbDFjbFZqZEk3aG56VGpSUm1xUlZhUEpILWkza09HTnJCM2d3cXoybTdxVVFqQjVJOHVGRUw5YkVINkJ4MTBidU5Kdk5MVzZPQ2hQWjBQY1oyclgteF8xOGg1Q1N5eXJPZ0VpWVU1UGF1cTdxejVQT1nSAbwBQVVfeXFMTlhCUXBfOHo3UGhFZFhXUGlXclhTVGRpSVhySnk0THlUZXlJWnJjNmhVcTZ2LS1ZRWVwS2d6dW1DeDJDaXhaVzlfZndVYUdabXozdnU4YURmWlZsd1MyOXJCV3NYaEFNcTFIUUdpQjdZVXNmZ0VDTG1XM3VseFRWQ28wNnpEcmhoZUtOcjdQR0ZQaVZva3hpUVY0N3pLNjlqb3I4UERfb3dDeTY5bVZDTklvUm5BRlVfVzhRRlU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal iG",
+      "headlineJa": "イビラプエラ公園のアヒルで鳥インフルエンザが確認 - Portal iG"
+    },
+    {
+      "articleId": "gnews_908f24186fd9487d",
+      "headline": "São Paulo confirma gripe aviária em ave silvestre no Parque Ibirapuera - avinews.com",
+      "headlineTranslated": "São Paulo confirms avian influenza in wild bird in Ibirapuera Park - avinews.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T20:28:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWVBURFhZbFV5bURjV1lhbm81eGlDRkt3c3d6MDIxYXVEaXgyOWhCY0N0MUtIS1NYcVpXVTJhYXlyTU9TelIwZThZWHAtMkdOWDZra1NJN2RNR25TNXBNcmVrY3FRREVkcjYxQ3pqdDVLNFo1OVlqaVFLRXdyVVNGRjUzNklqWFJWSmc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "avinews.com",
+      "headlineJa": "サンパウロ、イビラプエラ公園の野鳥で鳥インフルエンザを確認 - avinews.com"
+    },
+    {
+      "articleId": "gnews_baccd2f782ed181f",
+      "headline": "SP confirma caso de gripe aviária em marreco no Parque Ibirapuera - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T19:44:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEdxZUFqdGVVWFcyay1VNFB5aWRnMUJGdmdTQWFtVDBTQWxkR3R3aEVjbW14bURIRHBEblh1X2NRMTRUQ2tyTDlZa3FMNlk4UlJrYWtkSF9NMHQtbm5PclA3bXJjRVYwTHQwaERHOGRHUlZOV1pSYTlyTERVUV9VMWtVT2psQ09xT2FDc2lNaXNUQW1QSTB6Q0ZHc215ZUJNVHRwQ3N6OThkUTZtWHFQT01hWFBIckVvVEZiRHpNeVotZ9IB0AFBVV95cUxQSVR0NFJEdVJ6U2FyenAtSWk4dkRGY29LN25LeW9jZjk2VXhqVzJrQl9zT3hET3lqMlFNU3JRRnpGN3Q3eDM4ZDc1dlJ4aVRiWnpONktpWDd5X3FzX3oySDZEVGdOWm5mSGFzUHlfNEZlc2xQV0ZlR01oUG5obTFvUi1KV3RnZkJ4c0xnanV6WlJIeng4Y1Y3T0NudC12emtGWU9hTmoxSnI3aXF0VzZ6M0g4SVdBV3d0VVlwZHRvbU9Cd2dkNGpwVEtoWnFBbGpz?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "SP、イビラプエラ公園のマガモの鳥インフルエンザ感染を確認 - G1"
+    },
+    {
+      "articleId": "gnews_7f125e3189c605ce",
+      "headline": "Paulistanos enfrentam filas para tomar vacina contra sarampo - Aracaju Magazine",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T18:38:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEFMMGdaeG1KdERxdWpYQ0JWcXFTVk5kYjVtN29aSWo1c2RfamtTOF9kbV83dllmTERNRkRManF6QVp3ZHpCN1llUEpBMF92U2lEZWhwSGYteS1oeTcwSUlsby1RdlBlamk0Q1RPcEJDXy1zdGlKYU5vVWE4czdJU3VEbHE4c21udkJPd25wY1liNU40ZFlR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aracaju Magazine",
+      "headlineJa": "サンパウロ住民、麻疹ワクチン接種に行列に直面 - アラカジュマガジン"
+    },
+    {
+      "articleId": "gnews_a8f16319c27ba1de",
+      "headline": "Paulistanos encaram filas em postos para tomar vacina contra sarampo - Araraquara News",
+      "headlineTranslated": "People from São Paulo face queues at clinics to get the measles vaccine - Araraquara News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T18:38:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRUVYb00zbmh4N3hfdDVYR0l6YV92UkNYdzdlS29LbUozcFdSUTdPbkQxM0ZWR19NemcwS01PSGktaUx3RHJ6b2xlTWhJNXY2OGNueC11d05YWlZUVXBRR1N6aDFnZUlnNWFmM1BYYzZFRVFXOE1wQmJOTC1lMXBsRm9HazhsMmZETHVYdWJOUVN0TkJ4NnNFM2N1azhCSDZMREFaNkl6ZS1IT3VUQkh3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Araraquara News",
+      "headlineJa": "サンパウロの人々、麻疹ワクチン接種のために診療所で行列に直面 - アララクアラニュース"
+    },
+    {
+      "articleId": "gnews_a6c33a2a0caeeedd",
+      "headline": "Moradores de SP enfrentam longas filas para tomar a vacina contra sarampo - Pagina1mt",
+      "headlineTranslated": "Residents of SP face long lines to get the measles vaccine - Pagina1mt",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T18:31:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWndYLTRtWW1NUmw4M2JlaGJWU0xjT3JQay1SekdsREtfaWl1ZEZrRFNpSjdiUVZyZFEzZU41aXdNNlc1NXRhVF8yXzlOQVprM0RRRkV0bGJIeVBMYmdIZXhWOHpfOHNMbFVtVHczeExBVlA4WDVvaC1IN2hKR3dMelAtOUtGSjFTOGRlQUNrS3lkUl9vX2Nuci0xTTlnNXJFQ0k2RnhNcElxMU15?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Pagina1mt",
+      "headlineJa": "SPの住民、麻疹ワクチン接種に長蛇の列に直面 - Pagina1mt"
+    },
+    {
+      "articleId": "gnews_ad9b5448db551a58",
+      "headline": "Moradores de São Paulo enfrentam filas para receber vacina contra sarampo - RCWTV",
+      "headlineTranslated": "São Paulo residents face queues to receive measles vaccine - RCWTV",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T18:29:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnRxZDdlYjN4TUJBb3NhaEdNaGRRSmQxWF9HaXZET25xeUtJcVhqVFhoS2NfUy1Ga1pQaVM2WF9mZHE2X2VUYnpya3R1bXNkR0RhUVpEVGpHRWhaQmRoTDhpa1BMQktyUGZxZkdVVmNBZDV5aWxUZS1mM1d4cExMQkdBVXNPazh1RUxJd21iQWdnX29PbnZuU2txekpJajdCVHpTdmhoOTA5UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RCWTV",
+      "headlineJa": "サンパウロ住民、麻疹ワクチン接種に行列に直面 - RCWTV"
+    },
+    {
+      "articleId": "gnews_acd355a309ee1efa",
+      "headline": "Paulistanos enfrentam filas para tomar vacina contra sarampo - panoramagocomunicacao.com.br",
+      "headlineTranslated": "São Paulo residents face queues to get the measles vaccine - panoramagocomunicacao.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T18:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3g0a0REa1lGdXNabDItLUUtWUZmbFJMbG90VkJUZjRCZW9qSDFxQ2hYSTd1dTJKSTA4OTY4MU84OEttYmNraHF3WTdzZklRSWtwdkxWMUFqNURBR0c2dENCOUtVMVU2c3lNMjROVUVaNlJyQ3RNc1NEM1hWcGVVR0VBTFZGZWZ3UEdacnZqbkp2TnRfLUQzd0RtNU5wYk0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "panoramagocomunicacao.com.br",
+      "headlineJa": "サンパウロ住民、麻疹ワクチン接種の行列に直面 - panoramagocomunicacao.com.br"
+    },
+    {
+      "articleId": "gnews_713f602254ad05d7",
+      "headline": "Avanço do sarampo acende alerta no Brasil e autoridades destacam importância da vacinação - Muita Informação",
+      "headlineTranslated": "Advance of measles raises alarm in Brazil and authorities highlight importance of vaccination - Lots of Information",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T17:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMUh3aS1lekhhdEJrWFJuN2ZRMml4dVdJLXlPWk9RN0F1bXpldkVGeDFsSTdseGNreWk3TG4tVjZWeFNMazVCUy1CTm9ZcGhNZGtvRVZ2QlRiNmJodFdRMGZOaUF0WF9QRTl3R2pscFRMY1VkX1g3elpndkpRdVNyWUVvampBQmVzRUlXWmNQUUJJWTFSdDkzeWN1RmhsWTVqa1R3VDNoa3R6MzU4blpxTnZvM3NhQWxiNHNSbms2VldfbUc2Q3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Muita Informação"
+    },
+    {
+      "articleId": "gnews_9b98b856e7578cbf",
+      "headline": "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana - Midiamax",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T17:24:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlBMUWpibVdOcmNBU0JZYmd2Y245MlFSUm8wcVg2NVR2RkpBZS1OOG85bTNaN0VtNEpqY1R1dmVPdjAxQ05kNEE1MEJvVmFKVldXZEdvVlJjMVZvbkRXb3NPODFtYzBZSzJDUE9qeDRoejRnNWpmYzdvVzdXUXU0QU5oMV9kT2JuUUlDT3lZS2lpaFJzVGNWRThB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "麻疹キャンペーン、1週間でSPで28万人にワクチン接種 - Midiamax"
+    },
+    {
+      "articleId": "gnews_052fb340fb3dafee",
+      "headline": "Sarampo: entenda os riscos, sintomas e formas de prevenção - bra1.com.br",
+      "headlineTranslated": "Measles: understand the risks, symptoms and ways to prevent it - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T17:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORW5kY1VQb3E4T1lXV1I0VEtRQnFuMHlNbnEwNFhQV1F6NVM5T3Z0bDY3ZXk0R21fRjNTanBKYUFmUUlIZElxdVZJSFdpd3hzakQ1ZTVOcEk1RUFjQzNZQ29SeEd3TW9OQ2hyaVM2Z003WHRsUzFjNTFiSUJwYXdLYk5yU3ZYSzRpdmNwRXZKZ3AzS3E0amN3VFVkY1E5aFk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "麻疹：リスク、症状、予防方法を理解する - bra1.com.br"
+    },
+    {
+      "articleId": "gnews_1aa9e951ca24a63e",
+      "headline": "Quão perigoso é o sarampo? Sintomas para ficar de olho e como se proteger - Notícias ao Minuto Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T16:00:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkhnTjZReWZMOFJmaGRwRVZ4QkdaZUd0YU01OEw4MlRBejJCSTd4Z1lyVE9TMzlWeFdRd1hvMVJUOWZKZUIwdVdmZzhzUnM0WHd0Ty1lbVFTRFA2Z3FkQ2k4MGlQRV9aY25icW9tRVhEQXB2WWJySnY1eHRSaXFuSFBQVXpHUmFUS3dpTXQtQ2M5VXZnbnVENVp6SEpOaUVWVXhTdjJUSUF2aXNFSjJ1YlY0X09faG5mVVg5TWpuSzdKZGJW?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias ao Minuto Brasil",
+      "headlineJa": "麻疹はどれほど危険ですか？注意すべき症状と身を守る方法 - Notícias ao Minuto Brasil"
+    },
+    {
+      "articleId": "gnews_26cb06274ea9291e",
+      "headline": "Vacinação contra sarampo imunizou 280 mil pessoas em SP em uma semana - noticiasdoplanalto.com.br",
+      "headlineTranslated": "Measles vaccination immunized 280,000 people in SP in one week - noticiasdoplanalto.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T15:00:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0ZQd20yRHJvdEdDbFcyekFEa0xIVW1QYmI1RjBSb2U0Wk80X1hmb3BoZ0ZNOGF3OElONE9aNk1xRE1kT2llU0M5QVRwaFBLX3laX1VpS2tvUHBBRDVhTTlOOHdDZ1ppTW1UM016VDFtdnRmSWo0QmNhNl9uUEVnczhoUzNQT1RCYzRPc1JyV256WVJqN2laZHVBZVdmY1otc2lvR1NpVQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "noticiasdoplanalto.com.br",
+      "headlineJa": "麻疹ワクチン接種により、1週間でSP地域の28万人が予防接種を受けた - noticiasdoplanalto.com.br"
+    },
     {
       "articleId": "gnews_7788e59bb1fd6230",
       "headline": "Caso de gripe aviária é confirmado em marreco no Parque Ibirapuera - blogdosilvalima.com.br",
@@ -49,6 +535,26 @@
       "dataSource": "Google News",
       "sourceName": "blogdosilvalima.com.br",
       "headlineJa": "イビラプエラ公園でコガモで鳥インフルエンザの感染が確認 - blogdosilvalima.com.br"
+    },
+    {
+      "articleId": "gnews_03564c8c8f58887a",
+      "headline": "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana - Aracaju Magazine",
+      "headlineTranslated": "Measles campaign vaccinated 280,000 people in SP in one week - Aracaju Magazine",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-08T14:38:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkF4VmVmR19wQnY2N2ZUdDVFOW9IdWRzaWFZR2RwN3pnNFAzM045bXdoNDktcEktUFQyelN1RzA5LU5tT2kxX0hhQWlSVTBOblJYZEdveU1XLW1selVDMTJaS1EtdFYzc3c3UG4wM0xta0NzVkpOVXZXUjRKMVJlanJUNHBMdU1sMWNtOHV3SXJVcjc3NUlKNnpXdXM1X3BC?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aracaju Magazine",
+      "headlineJa": "麻疹キャンペーン、1週間でSPで28万人にワクチン接種 - アラカジュマガジン"
     },
     {
       "articleId": "gnews_7d588010a65655ff",
@@ -73,7 +579,7 @@
     {
       "articleId": "gnews_063fa5937068d1f4",
       "headline": "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana - O Cafezinho",
-      "headlineTranslated": "Campaign against measles vaccinated 280 thousand people in SP in one week - O Cafezinho",
+      "headlineTranslated": "Measles campaign vaccinated 280,000 people in SP in one week - O Cafezinho",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-08T14:08:00+00:00",
@@ -88,7 +594,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "O Cafezinho",
-      "headlineJa": "はしかに対するキャンペーン、SPで1週間で28万人にワクチン接種 - O Cafezinho"
+      "headlineJa": "麻疹キャンペーン、1週間でSPで28万人にワクチン接種 - O Cafezinho"
     },
     {
       "articleId": "gnews_24d5c622e5fc6e53",
@@ -112,9 +618,9 @@
       "headlineJa": "SP、イビラプエラ公園のマガモの鳥インフルエンザ感染を確認 - メトロポール"
     },
     {
-      "articleId": "gnews_c3faef08355265bc",
-      "headline": "Brasil reforça vacinação contra o sarampo após novos casos em São Paulo - sapo.pt",
-      "headlineTranslated": "Brazil reinforces measles vaccination after new cases in São Paulo - sapo.pt",
+      "articleId": "gnews_b6b5e1ee60637996",
+      "headline": "Brasil reforça vacinação contra o sarampo após novos casos em São Paulo - SAPO",
+      "headlineTranslated": "Brazil reinforces vaccination against measles after new cases in São Paulo - SAPO",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-08T10:55:09+00:00",
@@ -128,8 +634,8 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "sapo.pt",
-      "headlineJa": "サンパウロで新たな感染者が出たことを受け、ブラジルは麻疹ワクチン接種を強化 - sapo.pt"
+      "sourceName": "SAPO",
+      "headlineJa": "サンパウロで新たな感染者が出たことを受け、ブラジルは麻疹ワクチン接種を強化 - SAPO"
     },
     {
       "articleId": "gnews_e4990b5e16fb8da2",
@@ -141,8 +647,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3J4UTc1N09NeVNzd1BBcUpYYl9mdXpGSnhyUFpYX0xfaC1NWkV3c0c2eWVXdDBObUY4cGwwM0M1MWVrZ0JGZWtkdlhmYktGMjVtRjNTNkFLMm11Y2gzamtxVUxLMnBWeTAxQ0p6bTg2WnFXQVZqX3B3dEZHUjBTOHZvREY4RVFPekZmVmlKeTcxWlMtbExaSnFnNEJRZFAzTW1oQTBNb3pnZ25DNVFjeHZsVDVBamxkU29iMlB4MnlSdVEydnVUTDNZeG5ydVdWRVE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Meningitis",
-        "Measles"
+        "Measles",
+        "Meningitis"
       ],
       "locations": [],
       "states": [
@@ -153,25 +659,25 @@
       "headlineJa": "アラゴアス州における複数ワクチン接種により、麻疹、肺炎、髄膜炎に対する子供と青少年の保護が強化される - アラゴアスアラタ"
     },
     {
-      "articleId": "gnews_8c8d8321985fd174",
-      "headline": "São Paulo confirma 23 casos de sarampo; maioria sem vacina - Portal Piauí Hoje",
-      "headlineTranslated": "São Paulo confirms 23 cases of measles; majority without vaccination - Portal Piauí Hoje",
+      "articleId": "gnews_de3a87a3ed9bb6f3",
+      "headline": "Estado de São Paulo confirma caso de gripe aviária em marreco no Parque Ibirapuera, na Zona Sul da capital - parquedoibirapuera.org",
+      "headlineTranslated": "State of São Paulo confirms case of bird flu in mallards in Ibirapuera Park, in the South Zone of the capital - parquedoibirapuera.org",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-08T03:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHh6NWxhUGVqSnMtZVJlUGlobnlEdWVfUDZ1cXV3TnlGM0RZZVVlUlU0UFJBTWl5enQ0cFBPZmNUT1FydnA1R05odFV2QlRubmdDRm4yNWNFRzhuTkdZRV9VSEpVLVNENzEyU3I0VnJQT21kQmIzLVFYOHU4Q0N2VEJlOEtjUnV2bmxEQTZHMWRYVlFLZHRYZ0xjb25lbmNhWGl3cDctYktVQdIBrwFBVV95cUxPOXV0aDNScFRRUzRDU24tMWxhNVJiVGp6VWxyTXhtem9TOTFmRERibHNmZGFWdFJBTF9OUUNPS3EtUVl4dGMxdUJDWWZDT25vMS1TbXpPNlpFemRaalZTdTFLSEp5UjJuVnViRnBrUV9MZWVIQjh3YVlpSko4S0lTQ19fX1BEdVQxNW04OHhXb3VCTGJFczhGZEFPWHd1SXMydDljU2NXRUVMVHUycnRJ?oc=5",
+      "publishedTimestamp": "2026-08-08T07:30:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVFMclFpWlJTNXd4TWYzcHFPYVVKSGl4WWVCVFdJS2RjSU9tR29INDlZRkE0R2FWcTFWRkNsdFVXRGhvUjlIUDQ1RkNUajAtdHRLLUtRYmprTUtWdXQyWjgtVFFSZXo3S1c3SW9LSllMaDFfZnFZTFJWZ3RXa09saGRzWXU0ODVVY01aS191d2J5TzZZeGwxOEhLc3d6U0VNejFkQ181akR0a0t2X21hNXNVOGVZWGU3RWVkRTJoU2pLOXItSkVOdU04RVJoUFVCVXMtb2wzWlE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
-        "Piauí",
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Piauí Hoje",
-      "headlineJa": "サンパウロでは麻疹23例を確認。大多数がワクチン接種を受けていない - Portal Piauí Hoje"
+      "sourceName": "parquedoibirapuera.org",
+      "headlineJa": "サンパウロ州、首都南部のイビラプエラ公園のマガモで鳥インフルエンザの発生を確認 - parquedoibirapuera.org"
     },
     {
       "articleId": "gnews_82ed742d4a2b53dc",
@@ -192,26 +698,6 @@
       "dataSource": "Google News",
       "sourceName": "jornalcruzeiro.com.br",
       "headlineJa": "SP、新たに7人の麻疹感染者を確認 - Jornalcruzeiro.com.br"
-    },
-    {
-      "articleId": "gnews_33730dc35e3b87b7",
-      "headline": "Casos de sarampo em SP acendem alerta nacional, 70% dos infectados não estavam vacinados. - JASB - Jornal dos Agentes de Saúde do Brasil.",
-      "headlineTranslated": "Cases of measles in SP spark national alert, 70% of those infected were not vaccinated. - JASB - Journal of Brazilian Health Agents.",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T23:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16SzUtWWJhZ1Z3ejQ0Y2xIODVSVzVabVZUby1QSTljZjdlTTRjcHVUanlObkRrdGc2M3d2X1RJYzFGd01rNmVUYVdDR2RhMmhqTVBkNE5kOS1jSUthY3h1bGstSQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "JASB - Jornal dos Agentes de Saúde do Brasil.",
-      "headlineJa": "SP州での麻疹の症例は全国的な警戒を呼び起こし、感染者の70％はワクチン接種を受けていなかった。 - JASB - ブラジルの健康エージェントのジャーナル。"
     },
     {
       "articleId": "gnews_2dba641640398635",
@@ -276,27 +762,6 @@
       "headlineJa": "フォルタレザでデング熱の危険にさらされている地域の数が61%減少 - O Estado CE"
     },
     {
-      "articleId": "gnews_6310305a2e1ad779",
-      "headline": "Paraíba já registra 5,8 mil casos de arboviroses e 11 mortes por dengue em 2026 - pb agora",
-      "headlineTranslated": "Paraíba already records 5,800 cases of arboviruses and 11 deaths from dengue in 2026 - pb now",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T21:41:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDVzM1gwRzh6RWdGV2MxU2hzaGNrREtFbEVkclNyRUdkb3NadjU5bWhwV0RwR1Q3aTlTOTdsQXk2eXFsdTJ6NW5WMkl6MFZVY25zbTJyUFRlcGl2MHVuMTVOU1J6N2dBc3FoSEhWRUJBb0FORnQ2UVQ5V1RGd3ZOaUZYRVRlNElvekFiRnc1NGNUZm5sbjFqRnNXeHJsQ0RYcmNRbDI5UnNGbDkxMm1YdnV4SV9kWHd5aUltWg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "pb agora",
-      "headlineJa": "パライバ州ではすでに2026年に5,800人のアルボウイルス感染者とデング熱による11人の死亡者を記録している - pb now"
-    },
-    {
       "articleId": "gnews_a0ab5d4592fd3ee6",
       "headline": "Dengue, zika e chikungunya saiba como prevenir, identificar os sintomas e quando procurar atendimento - Bahia Notícias",
       "headlineTranslated": "Dengue, zika and chikungunya find out how to prevent, identify symptoms and when to seek care - Bahia Notícias",
@@ -306,9 +771,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVm00Y2lPNW84NkNkYUZCTjl0Wnp2aHprMlF4VFBpM2FvNW85NHc3bG9GcXVCZllVNTRLbVYwNWkyYWRITXdOYXprTW1nSGRYdEF2SjZTZEhiV25rcWRGcHZFajVqUmlLdGFjenV0VG5DQ25TeXRGWnM5dGR2SE9OSl9ObVlQWmwxS21ob0dkUnlQRE9YcWlQX1BQQXY0TzUwZGxNOUgyNEdWeEhyNWZuUlNIVHNSVWFtTFVwYkNnQXF3MHZNTXBjcTM1aU4yMWdNcW9McEg1N1NMZ21SbmRrUDJTM21xTU0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -317,26 +782,6 @@
       "dataSource": "Google News",
       "sourceName": "Bahia Notícias",
       "headlineJa": "デング熱、ジカ熱、チクングニア熱の予防方法、症状の特定方法、いつ治療を受けるべきかを発見 - Bahia Notícias"
-    },
-    {
-      "articleId": "gnews_3afc01ffb094c6fe",
-      "headline": "Sarampo chega a 23 casos confirmados em São Paulo; veja quem deve se vacinar - Diário de São Paulo",
-      "headlineTranslated": "Measles reaches 23 confirmed cases in São Paulo; see who should get vaccinated - Diário de São Paulo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T21:08:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXRzQlBVbGFkTWhDZ082RTZCZHQ5RmRFRy0wZ2tFRGM4TG9HclF4SEtrTW84SE16MGE3TEZ1YlRGVVg0amJUc1ZhS01xTWRLdjdGM25sOXJHYWdwNDlkdXNtbm41dHl4TmlzTlgwR3QyNjB3OUx1YVFQUndia0pLajVCREpKbzRFcEtEYVA5Q2FOenNfOF9aQTBZX3RCYWJoVHZsN1puVWZrbkhXMlFYelVOeU54QUotcmFN0gHAAUFVX3lxTE5rVTZFc1VKU0tXYnp6UmVGYzBTbnFLMVhMbHliQ1hOU21DbGx1OEFtRm1VcmtvTHo1Uy1tOHZzN2VmNnZmX2I2NHBKMFZYbWZqMV82OHB5MEg2YnRESm5YRS1sdXptY3BkcUNpMlEtTzNtX0pnSlU2WURyUlVTRWVLTzc1cF9TN0k1WnpRYjkzaENoQ2pRbjQxZjlwYi0zWFVGRG52MnZaZm4xRlFVa3BoZUtNUjZYeGJLb3R5M242Ng?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário de São Paulo",
-      "headlineJa": "サンパウロでははしかの感染者が23人に達した。誰がワクチン接種を受けるべきかを確認する - Diario de São Paulo"
     },
     {
       "articleId": "gnews_41858f1ee73c8f72",
@@ -357,26 +802,6 @@
       "dataSource": "Google News",
       "sourceName": "nossagente.info",
       "headlineJa": "保健省、麻疹、肺炎、その他の病気に対する子供と青少年へのワクチン接種を強化 - minhagente.info"
-    },
-    {
-      "articleId": "gnews_d12b5807fca18392",
-      "headline": "Prefeitura de Guarulhos ultrapassa 22 mil doses aplicadas contra o sarampo e intensifica ações de vacinação no município - Guarulhos em Destaque",
-      "headlineTranslated": "Guarulhos City Hall exceeds 22 thousand doses applied against measles and intensifies vaccination actions in the municipality - Guarulhos in Highlight",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T20:38:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNandyUnh2MXdSMUpETzZBTmZmNTlTUlluNDFGNUxwdlBWYzJCbllSeGkwRHVfdV9RbXAyUm1NaU5ham1PMWlaLWRtMzVOUWpBRjRhTjFYYkVXb002ZEtGbHhteld2X180aU5JSTg5bk9QQ0J3TFVvQ1Rad20wWVAyeWZ0ZmRYbkljSUNfeFl1eU9FUGZ0cy1CUi1KQzEzU3M1clRzNDJ6ZWRkSzNhVXVKRjRKV0lpVHF0aTVMeXdVN0pjR2phOWRHTjRUbl9jdUdrV0NPWDFyQUQ3ZFRFbVh5dGtjWHA4S3RlbnRTcC1RUjNzU1U3b3p2MXI0cw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Guarulhos em Destaque",
-      "headlineJa": "グアルーリョス市庁舎、麻疹に対して適用された投与量が2万2千回を超え、自治体でのワクチン接種活動を強化 - グアルーリョス・イン・ハイライト"
     },
     {
       "articleId": "gnews_89beb6b49e9ba4bc",
@@ -460,9 +885,9 @@
       "headlineJa": "サンパウロ、麻疹ワクチン接種を拡大、住民や訪問者への警戒を強化 - Agência Brasil China"
     },
     {
-      "articleId": "gnews_5c4211019faf84a4",
-      "headline": "Como a tecnologia está transformando o combate à dengue - terra.com.br",
-      "headlineTranslated": "How technology is transforming the fight against dengue - terra.com.br",
+      "articleId": "gnews_1f48757ddf450153",
+      "headline": "Como a tecnologia está transformando o combate à dengue - Terra",
+      "headlineTranslated": "How technology is transforming the fight against dengue - Terra",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T18:12:00+00:00",
@@ -476,8 +901,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "terra.com.br",
-      "headlineJa": "テクノロジーがデング熱との戦いをどのように変えるか - terra.com.br"
+      "sourceName": "Terra"
     },
     {
       "articleId": "gnews_5b9ee599aaaa1b0e",
@@ -520,9 +944,9 @@
       "headlineJa": "パジーリャ氏は麻疹の蔓延について警告「反ワクチン運動により、多くの人が自分の子供にワクチンを接種しないことになる」 - tmc.com.br"
     },
     {
-      "articleId": "gnews_868aa5e373376156",
-      "headline": "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram - ibandce.com.br",
-      "headlineTranslated": "State of São Paulo confirms 23 cases of measles; 16 were not vaccinated - ibandce.com.br",
+      "articleId": "gnews_10c7415ff160c5f1",
+      "headline": "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram - iBand CE",
+      "headlineTranslated": "State of São Paulo confirms 23 cases of measles; 16 were not vaccinated - iBand CE",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T17:30:00+00:00",
@@ -536,8 +960,8 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "ibandce.com.br",
-      "headlineJa": "サンパウロ州は麻疹23例を確認。 16人はワクチン接種を受けていなかった - ibandce.com.br"
+      "sourceName": "iBand CE",
+      "headlineJa": "サンパウロ州は麻疹23例を確認。 16人はワクチン接種を受けていなかった - iBand CE"
     },
     {
       "articleId": "gnews_859b0eac617b4cfb",
@@ -597,7 +1021,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Afya | Home",
-      "headlineJa": "麻疹：ブラジルで感染者が増加していることを考慮して、医師は何を知っておくべきですか? - アフィア |家"
+      "headlineJa": "麻疹：ブラジルで感染者が増加していることを考慮して、医師は何を知っておくべきですか？ - アフィア |家"
     },
     {
       "articleId": "gnews_aece5e4a0f925409",
@@ -682,7 +1106,7 @@
     {
       "articleId": "gnews_29b01d4ea6b9207e",
       "headline": "Sarampo volta a rondar o Brasil enquanto a desinformação tenta apagar a memória de uma tragédia - A Província do Pará",
-      "headlineTranslated": "Measles returns to Brazil as misinformation tries to erase the memory of a tragedy - A Província do Pará",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T16:00:00+00:00",
@@ -700,9 +1124,9 @@
       "headlineJa": "誤った情報が悲劇の記憶を消そうとする中、麻疹がブラジルに戻る - パラー州"
     },
     {
-      "articleId": "gnews_89339d2080607a4f",
-      "headline": "O sarampo pode voltar a circular no Brasil? - iG Último Segundo",
-      "headlineTranslated": "Can measles circulate again in Brazil? - iG Last Second",
+      "articleId": "gnews_7a5b4586986e7773",
+      "headline": "O sarampo pode voltar a circular no Brasil? - Portal iG",
+      "headlineTranslated": "Can measles circulate again in Brazil? - iG Portal",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T15:43:00+00:00",
@@ -716,8 +1140,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "iG Último Segundo",
-      "headlineJa": "ブラジルで麻疹が再び流行する可能性はあるのでしょうか? - iG ラストセカンド"
+      "sourceName": "Portal iG",
+      "headlineJa": "ブラジルで麻疹が再び流行する可能性はあるのでしょうか? - iGポータル"
     },
     {
       "articleId": "gnews_3f15fe74fd142570",
@@ -800,24 +1224,24 @@
       "headlineJa": "保健省、麻疹、肺炎、その他の病気に対する子供と青少年へのワクチン接種を強化 - www.gov.br"
     },
     {
-      "articleId": "gnews_d9298fceaa2e2d63",
-      "headline": "De Agosto Lilás (redações), sarampo e Ideb - Um Jornal Regional",
-      "headlineTranslated": "De Agosto Lilás (editions), measles and Ideb - Um Jornal Regional",
+      "articleId": "gnews_a543c43c040a8e85",
+      "headline": "Estado de São Paulo confirma 23 casos de sarampo; 16 não se vacinaram - Tribuna do Sertão",
+      "headlineTranslated": "State of São Paulo confirms 23 cases of measles; 16 did not get vaccinated - Tribuna do Sertão",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T14:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN29ZcU8zN1JLMTZjTTctQmtvbW5ERzNTbktWbjkzYXY4Z1ROS21oTnFieUhsa2oxS3ZpMXRFSTI4cXVQTEFWc1A2aklFWGhOUDZKVFNHV0tSYldPVEVSZXYxRDFSWTNhcW84QXdVSDluUG1RVm93N1U1TVNpX1AtTUh4RXUyNkdHX3JFMTROOE5fTGhZbWVMNw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUlIRkZuUVlTSldvVENJb0twOHl5SFdLTzZVbGtoNzhXOTQzU1JjTFg0bGlyalpzYk1MQTJlbHhmdDN3LS1TRy1OWVc5WGprV0xmckF0c25GWlhUUEg3SVc0TlhJbUFlalJEVFVUV05INlFyaG9VT0ZpblB0U0ZDOVRKSTBJVFkybnZBVFNvdmR4V01RTWN2Z3FJNm5Sd19UbWhuWXRISXNOa0tiMkxwRnV1R2dydVpFTXRrRk1aOFRVWXJOT1E?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Um Jornal Regional",
-      "headlineJa": "デ・アゴスト・リラス（版）、麻疹、イデブ - ウム・ジョルナル地域"
+      "sourceName": "Tribuna do Sertão",
+      "headlineJa": "サンパウロ州は麻疹23例を確認。 16人はワクチン接種を受けなかった - Tribuna do Sertão"
     },
     {
       "articleId": "gnews_52cd64f30655f131",
@@ -833,8 +1257,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "O Dia",
@@ -854,8 +1278,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "São Paulo"
+        "São Paulo",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "CNN Brasil",
@@ -882,9 +1306,9 @@
       "headlineJa": "SP、麻疹23例確認、3都市でワクチン接種拡大 - UOL Notícias"
     },
     {
-      "articleId": "gnews_d28f6d6348c3c8f4",
-      "headline": "Sarampo no Brasil: buscas disparam e vacinação é ampliada - gazetadopovo.com.br",
-      "headlineTranslated": "Measles in Brazil: searches soar and vaccination is expanded - gazetadopovo.com.br",
+      "articleId": "gnews_cfe3fe262984bc9d",
+      "headline": "Sarampo no Brasil: buscas disparam e vacinação é ampliada - Gazeta do Povo",
+      "headlineTranslated": "Measles in Brazil: searches soar and vaccination is expanded - Gazeta do Povo",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-07T13:06:00+00:00",
@@ -898,8 +1322,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "gazetadopovo.com.br",
-      "headlineJa": "ブラジルの麻疹：検索数が急増、ワクチン接種も拡大 - gastadopovo.com.br"
+      "sourceName": "Gazeta do Povo",
+      "headlineJa": "ブラジルではしか：検索数が急増、ワクチン接種も拡大 - Gazeta do Povo"
     },
     {
       "articleId": "gnews_e5001b7083c4860e",
@@ -995,193 +1419,12 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Mais Goiás",
       "headlineJa": "麻疹の症状は何ですか?この病気に関するトップ 10 の質問に対する回答をご覧ください - Mais Goiás"
-    },
-    {
-      "articleId": "gnews_c0a136ac104b890f",
-      "headline": "SAÚDE | A Associação Nacional de Medicina do Trabalho (ANAMT) alertou para a importância da vacinação contra o sarampo entre trabalhadores após o registro de 16 casos da doença em São Paulo. A entidade recomenda que empresas facilitem o acess - facebook.com",
-      "headlineTranslated": "HEALTH | The National Association of Occupational Medicine (ANAMT) warned of the importance of vaccination against measles among workers after recording 16 cases of the disease in São Paulo. The entity recommends that companies facilitate access - facebook.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T02:08:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON2FhcjYydXVVbUZOYnlMU1U3bTUyQjlCNUNsY281dmFuXzA5akFfcDVJNjZvVDVxUFpxTDFEMl9JWV9qUnBpNDNPSlVLYlVSUnNVU0k1WXdjYThXaHh3NS01dExMUkMtNmZHbFoyQjJNazJfTUdZRjR0cmpzVkxWMm9TbVBtN195ZXB6NzRiTklTLVQwS3pVVHQtR3F3TzltYTJEMEhQbjVBbUtvYjBxWndLbjk1aXN0Qi1IbEFzZlgzRU5md0FxREthTnVGbnFlNVp2bDFxT2tMWjRFRGN3RFdPQkpRakNXcUdNeEpvRm0xQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "facebook.com",
-      "headlineJa": "健康 |全国産業医学協会（ANAMT）は、サンパウロで麻疹の感染者が16人発生したことを受け、労働者に対する麻疹ワクチン接種の重要性を警告した。この組織は、企業がアクセスを促進することを推奨しています - facebook.com"
-    },
-    {
-      "articleId": "gnews_b41510e736e82673",
-      "headline": "‘É inadmissível ter mortes por uma doença evitável’: especialista comenta volta do sarampo - Brasil de Fato",
-      "headlineTranslated": "‘It is unacceptable to have deaths from a preventable disease’: expert comments on the return of measles - Brasil de Fato",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-07T00:36:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcklDeW96RUlYQll0TzR6ZHZlMUlNNFBMS1l5M0JmdTQyVXZtYWVsUk5wVEM3WC04RHk1ejRsOGRBbGk1S2RYZnlTYlhQTmJJeXc0c3VuaU5NamRpcGtDTXFweXRhY2xwS1BKUWNJMzQxYkxDcU1mSjk3YmF6RElYRDZmS0RROHRCd1cwWFF4VUxQaDVzRktzaV9IbXUwOGFFWnVqMUFIQjdFU2dNX2NlOS1LVTdhZnkxdXo4dVY5WlRaU196dlJrb2FIS0lETHM1NFpONEY4WnJnU1UtTF9jcmxEcUVTRG11V2JkTWlrZTBmSTZaazhvbw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Brasil de Fato",
-      "headlineJa": "「予防可能な病気で死亡することは容認できない」：麻疹の再発に関する専門家のコメント - Brasil de Fato"
-    },
-    {
-      "articleId": "gnews_9d4fdd6116242ff1",
-      "headline": "Dengue: vacina do Butantan é suspensa no Amazonas - bncamazonas.com.br",
-      "headlineTranslated": "Dengue: Butantan vaccine is suspended in Amazonas - bncamazonas.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T23:52:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnJhcXQ3YXBSb1lCeVBlc2l6V05pUC1RYzVxOHNiS3B0bnhHSWVCbG1SdEhHVGdRem85NUp4NzByOXBzaGozbF9NMGVJdHE5b295UWtHYzdjTjVpMlhFSTl1eWlyZGFUTE9xbXBpUlItM0UxVlhZWlNhVmR3LU5YN0cwZ1F2OXpMTU1tWjlyM1U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "bncamazonas.com.br",
-      "headlineJa": "デング熱：アマゾナス州でブタンタンワクチンの接種が一時停止 - bncamazonas.com.br"
-    },
-    {
-      "articleId": "gnews_1908ae99ff6402f7",
-      "headline": "Piauí atinge 6 anos sem sarampo, mas baixa vacinação mantém alerta no estado - CidadeVerde.com",
-      "headlineTranslated": "Piauí reaches 6 years without measles, but low vaccination keeps the state alert - CidadeVerde.com",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T22:35:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTE3TTIxM0pBZVBSa3RfV1JKQ0R4Y2VtLVdUTzhFRjJ2dl9MOTNMdVplOTVKd2pmcTNTa2xnRl9ZSjJQTnF0VW90TE41ZldER2haRVE1SkpQcTh2V1NpWFl3Z1R4RlZHaFhTR1hIWFlNUWlXT3NjZ012NUVjSDl0Mkc2UEZ1bUFrNjZrR0hjLUFabm01b0NZZ1FZUjBSM1lCRll0Y3FOVzQxMnNzUDhsZzRn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CidadeVerde.com",
-      "headlineJa": "ピアウイ州は麻疹にかからず6年を迎えるが、ワクチン接種が少ないため州は警戒を続ける - CidadeVerde.com"
-    },
-    {
-      "articleId": "gnews_a0505b9c06e1c948",
-      "headline": "Sarampo: quem deve tomar a vacina e onde se imunizar em São Paulo - Correio Braziliense",
-      "headlineTranslated": "Measles: who should get the vaccine and where to get immunized in São Paulo - Correio Braziliense",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T20:52:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbU5yWDdiLUtWa3VUSzYya3o1TE1lMV9VYmFZckJJUTd2djFKTHU1S0NCOFdibDk1cURQZkxYajh1d3dtNlJqZ2JLc083Yi1XT3EwQnhLMWRlYXZOZXY0ajVfV0FSQlJuNW9sV2liS1NNNGI0RnRtZ1l3Ym1iQ0ZUZGxGejE0WEFRSTZQMlVRc29UaE44ZjB1bzhYSzhTc1JMWDV6YV9NRXVwZzFtbDVndFZmOHg1cGRoUEFn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "麻疹：サンパウロでは誰がワクチンを受けるべきか、どこで予防接種を受けるべきか - Correio Brasiliense"
-    },
-    {
-      "articleId": "gnews_7f8237932f3d9f37",
-      "headline": "Vacina contra a dengue do Butantan é suspensa após casos graves - bncamazonas.com.br",
-      "headlineTranslated": "Butantan dengue vaccine suspended after serious cases - bncamazonas.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T20:49:42+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2NkZGlsX3kzYXFvY0pVa21RZk5QV3g2Q1A2clBveHJlcEtOUzJ2SVljX3dNRnUxLXpXejZBa195RWJNRUljbFZxbXlzVFBDR0J0N0VtblRmaGkzWHhLMmdHdnVMZG9OUTJhTklNZUtGZHkwWkVsTGE0U0NSQzN2YnpFZlJ6SUlLRFVwYVBmRWJIY2IyX3dMRWZTR2tUdktUTHczSg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "bncamazonas.com.br",
-      "headlineJa": "ブタンタンデング熱ワクチン、重症者発生で一時停止 - bncamazonas.com.br"
-    },
-    {
-      "articleId": "gnews_3106575016300772",
-      "headline": "Surto em SP: como funciona a vacinação contra o sarampo? - Exame",
-      "headlineTranslated": "Outbreak in SP: how does measles vaccination work? - Exam",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T20:20:06+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQU1CT0tVeVRIQURMVzAzeG5neXVkYWQ0Q3JrSEZtUjJGaUdBZEwwOTh3Vm55Szd0Nlg0TjkzbW1BUnZMcHdkX25rSXFqQ3NKeEtRUHNYekVvUjVzZVo3cF9BSGtPSm00eTNJSTJESm1YdC1BX29jSFgxc09leW5yV0VvWWh6TTA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Exame",
-      "headlineJa": "SP での発生: 麻疹ワクチン接種はどのように機能しますか? - テスト"
-    },
-    {
-      "articleId": "gnews_d48f78669ee6423c",
-      "headline": "Casos de dengue aumentam 38,5% em Pernambuco - Blog do Carlos Britto",
-      "headlineTranslated": "Dengue cases increase 38.5% in Pernambuco - Carlos Britto's Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T19:01:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SUzJjRTBPS2Rna1V1WnhfSXlURUx2RWszNkx6ZV92S196OUpUZ2Y1VGtyVXNjTFk2clEzXzVVUzFPT3pxX3hua3NhdVlXaWcwb0NpUW4tM1Z0bGkxOFVrNVQ2UnN6X043SVhYSnZRbS0tZzVieXhMc2l0U20?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Carlos Britto",
-      "headlineJa": "ペルナンブコ州でデング熱症例が38.5%増加 - Carlos Brittoのブログ"
-    },
-    {
-      "articleId": "gnews_cf4748b6b2f79656",
-      "headline": "ANAMT orienta empresas a facilitar vacinação dos trabalhadores contra o sarampo - Diario de Pernambuco",
-      "headlineTranslated": "ANAMT advises companies to facilitate vaccination of workers against measles - Diario de Pernambuco",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-06T17:46:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGd1TmdNU0ZkWFpwMC1GWXY0ZXZrYngwTXRSQlJ3bXBTZU5lTEFVVU9uZW9qemxIUEJ0MTNtV2Zlb2FXNzYxR3hYemxRWWt0RkxiRjIzRE9zZHpQQTJsU3lBNS04S1ZzenN0TGxkbWtxV0xDV0k5VlptZUpYTWU5bkpCRVNZdEpjUk8xOFFSVk44UGE2eWJveko5a3RiZl9IU0lWS3N5Wld4amgyRm04NVFyclBnMk9vbjZsRmVJQXdXU1ZnVDFMWkJTNTFWZUpHS0pxQ3FRMFA5dThQWWhydFI5blo?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diario de Pernambuco",
-      "headlineJa": "ANAMT、労働者への麻疹ワクチン接種を促進するよう企業に勧告 - Diario de Pernambuco"
     }
   ]
 }
