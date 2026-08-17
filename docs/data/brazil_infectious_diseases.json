@@ -1,38 +1,100 @@
 {
-  "generated_at": "2026-08-17T01:27:05.797919+00:00",
+  "generated_at": "2026-08-17T08:42:57.780956+00:00",
   "date_range": {
-    "start": "2026-08-15T01:27:05.797919+00:00",
-    "end": "2026-08-17T01:27:05.797919+00:00"
+    "start": "2026-08-15T08:42:57.780956+00:00",
+    "end": "2026-08-17T08:42:57.780956+00:00"
   },
-  "total_articles": 26,
+  "total_articles": 29,
   "state_summary": {
+    "Brasil (estado não identificado)": 11,
+    "Pará": 5,
+    "São Paulo": 5,
+    "Goiás": 1,
     "Piauí": 1,
     "Bahia": 1,
     "Pernambuco": 2,
     "Paraná": 1,
-    "Pará": 4,
-    "São Paulo": 4,
     "Mato Grosso": 1,
     "Mato Grosso do Sul": 2,
-    "Brasil (estado não identificado)": 10,
     "Distrito Federal": 1,
     "Alagoas": 2,
     "Rio Grande do Norte": 1,
     "Roraima": 1
   },
   "disease_summary": {
+    "Measles": 13,
     "Doença infecciosa (não especificada)": 6,
     "Dengue": 4,
-    "Measles": 10,
     "Chikungunya": 5,
     "Avian Influenza": 1,
     "Influenza": 1
   },
   "articles": [
     {
+      "articleId": "gnews_f38b4968c8a3f929",
+      "headline": "Sarampo volta a preocupar - O POVO+",
+      "headlineTranslated": "Measles is a concern again - O PEOPLE+",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-17T04:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlQ3S1FfclJHVUlIQVhQaHhhelF3Ukp1cUpqRVl0VDE4am54Mm1sRHJteUlVRlBHVmV2U2c2SEd5OEM5Tk9uUy1hbzZBSWd3WWJwaEJfSzFCbnBPM2VtbGxiMjB6dGU3SFRJZmxNcUM1SjNoOXdKZWNkLXZLZTVyWlIxUU1ITk90aW1NQ0pGejI3QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO+",
+      "headlineJa": "麻疹が再び懸念される - O PEOPLE+"
+    },
+    {
+      "articleId": "gnews_20ab3044a276a7cc",
+      "headline": "Brasil chega a 24 casos de sarampo e Saúde reforça alerta para vacinação - Estadão MT",
+      "headlineTranslated": "Brazil reaches 24 cases of measles and Health reinforces alert for vaccination - Estadão MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-17T03:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGo3bzROOTJibE5rX3JVc3kyZmxydEZzb2hiNTFVOFRjdFhpQTFkbGgzQ1FOUEpCRHJXM3hBUDRpdU5HU1VpbUx2RlhxYVR0eDNDSUFSc1U3NUZJN0VqdFR1UzVlUkhMbjJtWGF4bHZSZlpjMU1KY25SaHpjamVsVVpwWmp1dVk0bWFySHFCWjQ3NU5UOFdoeTl2UjRJb2ZVekZySmRicVNqZ0l1OURvQlZnT2R3RFc2amc5dkgxNThOVlhDVThtdFdEcko?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão MT",
+      "headlineJa": "ブラジルではしかの感染者が24人に達し、保健当局がワクチン接種への警戒を強化 - Estadão MT"
+    },
+    {
+      "articleId": "gnews_ecc63bfc77b5cf37",
+      "headline": "Casos de sarampo em São Paulo elevam alerta sobre a doença em Goiás - O Popular",
+      "headlineTranslated": "Measles cases in São Paulo raise awareness about the disease in Goiás - O Popular",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-17T01:48:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHc5YzFHT20tZXpHQlQ0b3FNZ3YzMXQ4QkllM2Z6Nno2QnpmYmZpVEtqRXRyWWVvWkdNWWdEVXBXOXpMR1FkVGlsVG92ZG94djAyakxUWm9jQS1IZDhTSGk0TzdJQkZtTjZPVWQzNm03R0tPSXZjSWV2N1hVanZaeDZsNElfdnpMQUcwQkVSTS05YTQ2SFlQdUY0UW8yT1pUUU1iNVR0VXV0MlJRUWc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Popular",
+      "headlineJa": "サンパウロでの麻疹患者、ゴイアス州のこの病気についての意識を高める - O Popular"
+    },
+    {
       "articleId": "gnews_86db0ec82526e789",
       "headline": "Homem entra em surto e é imobilizado por populares na zona Sul de Teresina - Conecta Piauí",
-      "headlineTranslated": "",
+      "headlineTranslated": "Man goes into an outbreak and is immobilized by people in the south of Teresina - Conecta Piauí",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-17T00:14:08+00:00",
@@ -50,9 +112,9 @@
       "headlineJa": "テレジナ南部で男性が感染爆発、人々が動けなくなる - コネクタ・ピアウイ"
     },
     {
-      "articleId": "gnews_febca762b454dd4a",
-      "headline": "Prefeitura reforça combate à dengue e concentra ações em cinco bairros de Salvador; veja quais - Se Ligue Bahia",
-      "headlineTranslated": "City Hall reinforces the fight against dengue and concentrates actions in five neighborhoods in Salvador; see which ones - Se Ligue Bahia",
+      "articleId": "gnews_14afdf97d5163889",
+      "headline": "Prefeitura reforça combate à dengue e concentra ações em cinco bairros de Salvador; veja quais - seliguebahia.com.br",
+      "headlineTranslated": "City Hall reinforces the fight against dengue and concentrates actions in five neighborhoods in Salvador; see which ones - seliguebahia.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-16T19:03:36+00:00",
@@ -66,12 +128,13 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "Se Ligue Bahia"
+      "sourceName": "seliguebahia.com.br",
+      "headlineJa": "市役所はデング熱との闘いを強化し、サルバドールの5つの地区で活動を集中させている。どれかを見てください - seliguebahia.com.br"
     },
     {
       "articleId": "gnews_f21d110227af4ad3",
       "headline": "Dengue (PSDB) 4569: Candidato a Deputado Federal em Pernambuco | Eleições 2026 - Tribuna do Paraná",
-      "headlineTranslated": "",
+      "headlineTranslated": "Dengue (PSDB) 4569: Candidate for Federal Deputy in Pernambuco | Elections 2026 - Tribuna do Paraná",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-16T19:00:00+00:00",
@@ -109,12 +172,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "correiodamanha.com.br",
-      "headlineJa": "反ワクチン攻撃が世界中で麻疹を蔓延させている。カンピナスは「D-Day」に賭け、都市の保護に積極的に努める - maildamanha.com.br"
+      "headlineJa": "反ワクチン攻撃が世界中で麻疹を蔓延させている。カンピナスは「D-Day」に賭け、都市を守るために積極的に努める - maildamanha.com.br"
     },
     {
       "articleId": "gnews_fbfab2ed3985646d",
       "headline": "Mato Grosso do Sul registra quase 10 mil casos confirmados de chikungunya em 2026 - Hojemais.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "Mato Grosso do Sul records almost 10 thousand confirmed cases of chikungunya in 2026 - Hojemais.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-16T18:24:00+00:00",
@@ -149,12 +212,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal AquiVale"
+      "sourceName": "Portal AquiVale",
+      "headlineJa": "麻疹：なぜSPで60歳以上の人がワクチン接種を受けられなかったのか - Portal AquiVale"
     },
     {
       "articleId": "gnews_a5375ce71a95e0a2",
       "headline": "Sarampo atinge maior número de casos nas Américas em 22 anos e Brasil amplia atenção à vacinação - Brasília in Foco",
-      "headlineTranslated": "",
+      "headlineTranslated": "Measles reaches the highest number of cases in the Americas in 22 years and Brazil expands attention to vaccination - Brasília in Foco",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-16T14:57:40+00:00",
@@ -253,9 +317,9 @@
       "headlineJa": "麻疹は症状と予防接種に注意する必要があります。兆候を知る - Poder360"
     },
     {
-      "articleId": "gnews_10acfda3098cf578",
-      "headline": "Entenda nova ordem de Trump que reformula vacinação infantil - cnnbrasil.com.br",
-      "headlineTranslated": "Understand Trump's new order that reformulates childhood vaccination - cnnbrasil.com.br",
+      "articleId": "gnews_4f8fed54745989df",
+      "headline": "Entenda nova ordem de Trump que reformula vacinação infantil - CNN Brasil",
+      "headlineTranslated": "Understand Trump's new order that reformulates childhood vaccination - CNN Brasil",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-16T07:18:00+00:00",
@@ -269,8 +333,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "cnnbrasil.com.br",
-      "headlineJa": "小児ワクチン接種を再規定するトランプ大統領の新命令を理解する - cnnbrasil.com.br"
+      "sourceName": "CNN Brasil",
+      "headlineJa": "小児ワクチン接種を再規定するトランプ大統領の新命令を理解する - CNN ブラジル"
     },
     {
       "articleId": "gnews_c1cb384d6c3b53cc",
@@ -289,7 +353,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "ojacare.com.br"
+      "sourceName": "ojacare.com.br",
+      "headlineJa": "世界中での反ワクチン運動の高まりを受け、MSは麻疹に対する警戒を強化 - ojacare.com.br"
     },
     {
       "articleId": "gnews_92cafc2cc15ea66b",
@@ -325,11 +390,12 @@
       ],
       "locations": [],
       "states": [
-        "Pernambuco",
-        "Alagoas"
+        "Alagoas",
+        "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Extra de Alagoas"
+      "sourceName": "Jornal Extra de Alagoas",
+      "headlineJa": "2026 年の選挙: デング熱患者、連邦副議員 (ペルナンブコ州) 候補者とは - Jornal Extra de Alagoas"
     },
     {
       "articleId": "gnews_bc33ed9d4f0a03e9",
@@ -374,7 +440,7 @@
     {
       "articleId": "gnews_03e4aff77ef3f879",
       "headline": "Mais de 50 locais de atendimento oferecerão doses para diversas faixas etárias - PDNews",
-      "headlineTranslated": "",
+      "headlineTranslated": "More than 50 service locations will offer doses for different age groups - PDNews",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-15T19:02:40+00:00",
@@ -408,7 +474,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "JD1 Notícias"
+      "sourceName": "JD1 Notícias",
+      "headlineJa": "チクングニア熱はすでに30人を殺害し、MSでは1万人近くの感染者が確認されている - JD1ニュース"
     },
     {
       "articleId": "gnews_ba3e80c6f0702f76",
@@ -467,16 +534,17 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Capital do Pantanal"
+      "sourceName": "Capital do Pantanal",
+      "headlineJa": "MS、チクングニア熱感染者約1万人と死亡者30人を記録 - パンタナールの首都"
     },
     {
-      "articleId": "gnews_4a752d6e5d673d8e",
+      "articleId": "gnews_4c72f59fd39e4d94",
       "headline": "Pará recebe 4,8 milhões de doses para Campanha de Multivacinação 2026, com novidade da Pneumo 20 e reforço… - Belém.com.br",
       "headlineTranslated": "Pará receives 4.8 million doses for the 2026 Multivaccination Campaign, with new features from Pneumo 20 and reinforcement… - Belém.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-15T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkRQTzQtOGt5ellaUGh5LUNEMXEzWEdJWUdiRl81MDZtUFdxa0tmaVZRb1dIeVhlbzdyS21JS3hfanNmRHRqcWVSWDdQWUx0YktwZTI0cUluTVg0eE5aQUFXOE5LZW5UdGczeXQtUHM5ZWZ5RF94NHlaV0l1Y3c2b0ROWG1OQ2dSTVhCX1FSYkxDdTA0RkhndFZ2QWd6ZDdndGZUN1JCakFDRGpUN1JoejhYZHQ4VmFrLWRCX2VMN3FsWkE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTNpSUdmSDhFRmdTSDdrRENkNzkyaUNLVFFLQ0Rvd2JxNWZUdm1vamMwbmNFdmhzYURkSUlDMmVUek1DYkRPcXJxT3ZuWHNVU3E2TU5YQ1FBNVM2TXVFclBKcmVsS3BVQ0JvUWk3M2FvZVJHZ3pRVEFiWWRqNXBUdVFOdUViLU5Bd0oxUnF3SGpZVjZQal8tMlRQRlJXMVNqRHc5Nm5QSVA2TkMtSTNkXzIwVVVIYy1SQlFqbl9B?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Doença infecciosa (não especificada)"
@@ -512,7 +580,7 @@
     {
       "articleId": "gnews_f0dfa31aebda6795",
       "headline": "Roraima recebe mais de 555 mil doses de vacinas em 2026 - Folha BV",
-      "headlineTranslated": "",
+      "headlineTranslated": "Roraima receives more than 555 thousand doses of vaccines in 2026 - Folha BV",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-15T10:00:00+00:00",
