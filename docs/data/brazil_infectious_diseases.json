@@ -1,36 +1,175 @@
 {
-  "generated_at": "2026-08-19T08:37:19.554823+00:00",
+  "generated_at": "2026-08-19T16:40:15.595759+00:00",
   "date_range": {
-    "start": "2026-08-17T08:37:19.554823+00:00",
-    "end": "2026-08-19T08:37:19.554823+00:00"
+    "start": "2026-08-17T16:40:15.595759+00:00",
+    "end": "2026-08-19T16:40:15.595759+00:00"
   },
-  "total_articles": 37,
+  "total_articles": 33,
   "state_summary": {
-    "Goiás": 2,
-    "Brasil (estado não identificado)": 17,
     "Pará": 6,
-    "Mato Grosso do Sul": 1,
+    "Santa Catarina": 1,
+    "São Paulo": 5,
+    "Goiás": 3,
+    "Mato Grosso do Sul": 2,
+    "Brasil (estado não identificado)": 14,
     "Rio Grande do Sul": 1,
-    "São Paulo": 3,
     "Acre": 1,
+    "Ceará": 1,
     "Rio de Janeiro": 1,
-    "Ceará": 3,
     "Minas Gerais": 1,
-    "Mato Grosso": 1,
-    "Alagoas": 2,
-    "Piauí": 1
+    "Mato Grosso": 1
   },
   "disease_summary": {
-    "Dengue": 8,
-    "Doença infecciosa (não especificada)": 4,
-    "Measles": 21,
-    "Malaria": 3,
-    "Avian Influenza": 1,
+    "Measles": 20,
+    "Doença infecciosa (não especificada)": 5,
+    "Dengue": 4,
+    "Malaria": 2,
     "Influenza": 1,
-    "Meningitis": 1,
-    "Chikungunya": 2
+    "Avian Influenza": 1,
+    "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6b0aca17872f8304",
+      "headline": "Sarampo: Saúde alerta para importância da atualização da caderneta de vacinação - Expresso 360 |",
+      "headlineTranslated": "Measles: Health warns of the importance of updating vaccination records - Expresso 360 |",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T14:21:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVJldmM5eTNySmpKbVRKUU5RNzdkX2EzNnMzRUVHUHJPMDhmbm5sYjdFSlpaS0l5M2NOXzBDOU81YTBkaDVxVnc1bTVxUkN4OGV6cW9KS3RrUDRWNmY2VGZSVFJuYVVWZG5IUTRIQWtEZlFtdGJvOGZ4TWJRTS1udlB5VjZyN0cyNV9FMmVTYVNXX3pJSnhueUg2c3dzU0dvVFV1bl9QTjlHUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Expresso 360 |",
+      "headlineJa": "麻疹：保健省はワクチン接種記録の更新の重要性を警告 - Expresso 360 |"
+    },
+    {
+      "articleId": "gnews_8d8c7ee05838ecaf",
+      "headline": "Joinville terá Dia D de vacinação com foco no sarampo - chuville.com",
+      "headlineTranslated": "Joinville will have D-Day vaccination with a focus on measles - chuville.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T13:12:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTIzSlRkbDJXS05iVVVRX3h5SG9sTl9TdGhtM0FhS2JIT2VaS2xDcFY1ZlFiNWRMTUIwZXdSOGNjWWdlUUhWMnRzU1J4emR2OWVLU2tydVNfY0x0bVJwdmE3Z1JTd0ZQMTk1aldFdnBZdHV6ejU1c2tMWDBpZmdDSTlGNndLZ1Bza0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "chuville.com",
+      "headlineJa": "ジョインビレは麻疹に重点を置いた D-Day ワクチン接種を実施 - chuville.com"
+    },
+    {
+      "articleId": "gnews_635d2eaf025608d1",
+      "headline": "São Paulo promove 'Dia D' de vacinação contra o sarampo - band.com.br",
+      "headlineTranslated": "São Paulo promotes 'D-Day' for measles vaccination - band.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T12:55:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlVmZU5kVEJEVnRPOHNUdm5selpCRTg2eEFIY1UxeE5xbDd5RFdTZGRZcHRaVy1fZ3JaLTRlTFhQYkNRVXFLM3IyVVFtMy1jX0hMMjdvR3N4VTBPbEg0T1IzZ3RvREd6RjFmMWRWb09lSGRZZWx0V2VXS05FNE5OREd6d3Iwb2JYOWVxWm5lak9YTzVlN280cWxJZS1NLThXdURXWFA1cFR5THZjdkkzUWFDbUd3Q21vYWc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "band.com.br",
+      "headlineJa": "サンパウロ、麻疹ワクチン接種の「Dデー」を推進 - Band.com.br"
+    },
+    {
+      "articleId": "gnews_aeb95c11f84a3a87",
+      "headline": "Sarampo: Goiânia reforça alerta e orienta população a atualizar a vacina | Goiás365 - Informação o ano todo. - Goiás365",
+      "headlineTranslated": "Measles: Goiânia reinforces alert and advises population to update the vaccine | Goiás365 - Information all year round. - Goiás365",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T12:36:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUptaU1FOXhLYWViWFVzU25wRmg0YlpZTWZWVU5wN2l5T0w4TWZHSXBQOF9RUUxYTTFhWFpZYVNTa3ROWkdnd0JoZWhtM2RpSmlfU2pZS3NGVnJmTVpBek9DYWNRZWNCcmNSdUpKcE1jTDFIUnJsOTNITHhnMGhQc3Vzc0g4U1Q1UnV3cVdmRGVOU1o4VXI5eUQwOWl1clRyZGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Goiás365",
+      "headlineJa": "麻疹：ゴイアニア州は警戒を強化し、国民にワクチンを更新するよう勧告 | Goiás365 - 一年中情報を提供します。 - ゴイアス365"
+    },
+    {
+      "articleId": "gnews_9d298d8a74d4f588",
+      "headline": "Goiânia não registra casos de sarampo e reforça importância da vacinação após casos em São Paulo - radiobandeirantesgoiania.com.br",
+      "headlineTranslated": "Goiânia does not register measles cases and reinforces the importance of vaccination after cases in São Paulo - radiobandeirantesgoiania.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T12:34:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlFLLW9HZTZSOXd0NThLRWg5T2Ywb0FmR3NybmYyLWpLWVZyejJhZnVxOWJWTnNpaExPbEZtRGZDX09lUDBsUEdIZkl1Q2tVZDBBSlFVeWJpVG1lWG5nRGRxTVVLM3FuT2xlT2tDRlRrZ0ZxQXhwellOQThtcElCNmhWdWJpVmtCNVdYelRERENGODJVSG1ENUFCcE42bVlpR0g0cFNOTmpLbDV5X0xoVDNSSmRZT2lyVDFZaUJhaHhxdnpzLWZxRV9R?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "radiobandeirantesgoiania.com.br",
+      "headlineJa": "ゴイアニア州は麻疹症例を登録しておらず、サンパウロでの症例後はワクチン接種の重要性を強調 - radiobandeirantesgoiania.com.br"
+    },
+    {
+      "articleId": "gnews_117155ce56fc9071",
+      "headline": "Dia D de Multivacinação: vacine crianças neste sábado - Campo Grande News",
+      "headlineTranslated": "Multivaccination D-Day: vaccinate children this Saturday - Campo Grande News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T12:13:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1RZNVNINFkzcEFLVWw5dmJObDdxSUFIeHB2ZHNaanRTcDB2UTdKVGRNQlBOd2U2QmxZY3k2OVJmR0gwbFVKV3pxUFhYYnhhMnB6TmlvekJuaGVmbWpZdFUwNWxSOHBkVzFReGlOLUhZVWswbDZtZnhOQnl4cGs5STVhTDlfRE9tbkVSZDM0X3ZEaWVmd3A2S2lqZDlnV0Q5YndudktqNWd3WFnSAasBQVVfeXFMT3lIYVBITm1lMWFYTE1xaGlkQk5KNm1Rd1gzYUVfQUU1Yjd2QWp5N3BBTUVobW9oNFczaF9FakVxN2cwTnVocTFpV252R0UwN2hJOGYxNWwxcWZzWHpuYXRqNjhrVnoxaVhoNDNxdVNWZ2pkdzVOTUpIeFdzT0NDQzZXTExvLU5XTXBVTjJBTkU4bzl2cngwSlhLZm9Bd1lsSXlIZXBkZ2pOUlBj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campo Grande News",
+      "headlineJa": "複数ワクチン接種のDデー：今週土曜日に子どもたちにワクチン接種を - Campo Grande News"
+    },
+    {
+      "articleId": "gnews_2a956363555d8d26",
+      "headline": "Dia D de vacinação acontece neste sábado em todo o Brasil: veja quais imunizantes serão oferecidos - Muzambinho.com",
+      "headlineTranslated": "Vaccination D-Day takes place this Saturday across Brazil: see which vaccines will be offered - Muzambinho.com",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-19T12:03:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemFNZFFkQ0RLYkkxMmV6UXNiU25fam1fOEt6b0ZmeFBkR1c4X2I4QjVfT2JEQ2xIcWdDbXRqVl9HSEFkLTQyaDBkc0tSeXdiY1FsLTVZNGY0ZVRzcWQyOE9IQ2xiUjdpMHBMNjhMOU5nSUJtZmNyWXFydGtGdkc5anZla2lkMGJCWG1UbnZVQWdTOUFiTmR3R29mcHEweU1ZNHZ6cXloT19LTTB5bFNzRGhwNWxqMklYam9lcEtGdmlWVmJOc0tDcnJJSi1NQmgx?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Muzambinho.com",
+      "headlineJa": "今週の土曜日にブラジル全土で予防接種 D デイが開催されます: どのワクチンが提供されるかを確認してください - Muzambinho.com"
+    },
     {
       "articleId": "gnews_89e8b61817659190",
       "headline": "Cinco alunas de Goiás trocam produtos tóxicos por extratos vegetais contra o mosquito da dengue e conquistam o segundo lugar em premiação nacional - CPG Click Petróleo e Gás",
@@ -85,8 +224,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Midiamax",
@@ -113,9 +252,9 @@
       "headlineJa": "ブラジルは麻疹の感染者を再び記録。ワクチン接種は主な防御手段である - Sindmepa"
     },
     {
-      "articleId": "gnews_0b13a3b400e27b6d",
-      "headline": "Instituto Butantan segue recrutando voluntários para estudo de vacina contra dengue para idosos em Porto Alegre - correiodopovo.com.br",
-      "headlineTranslated": "Butantan Institute continues to recruit volunteers for a dengue vaccine study for the elderly in Porto Alegre - maildopovo.com.br",
+      "articleId": "gnews_f309d705023abd0e",
+      "headline": "Instituto Butantan segue recrutando voluntários para estudo de vacina contra dengue para idosos em Porto Alegre - Correio do Povo",
+      "headlineTranslated": "Butantan Institute continues recruiting volunteers for a dengue vaccine study for the elderly in Porto Alegre - Correio do Povo",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-18T19:45:59+00:00",
@@ -130,8 +269,8 @@
         "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
-      "sourceName": "correiodopovo.com.br",
-      "headlineJa": "ブタンタン研究所はポルトアレグレで高齢者向けのデング熱ワクチン研究のボランティアを引き続き募集 - maildopovo.com.br"
+      "sourceName": "Correio do Povo",
+      "headlineJa": "ブタンタン研究所、ポルトアレグレで高齢者向けデング熱ワクチン研究のボランティア募集を継続 - コレイオ・ド・ポヴォ"
     },
     {
       "articleId": "gnews_70587e9fc32888ea",
@@ -234,46 +373,6 @@
       "headlineJa": "CPTMは、麻疹、おたふく風邪、風疹に対する全国的なワクチン接種キャンペーンを四季を通じて実施します - TV São Bernardo"
     },
     {
-      "articleId": "gnews_c77aa720daaafb8a",
-      "headline": "São Paulo intensifica vacinação contra o sarampo e aplica 1 milhão de doses - Araraquara News",
-      "headlineTranslated": "São Paulo intensifies vaccination against measles and applies 1 million doses - Araraquara News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-18T14:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkthbDlMcFhEVnZMVzhIV3BLbE81c0JDX1lNeTcxWEpQWWxFNnczUi1Bd1ZxeFlMVTJkMi03NmJGT2VnRXBMSmt0aVI2QmxNTGpvdDhfZFNhd19yaWRiaHpQSzAxOUVJcWJDMFZZcDk1V1V1NERkc3RoRGlSeVFaM05QR3JITTM4WVA2TTRwWVMxX21ubXlJZE5fOVlyeHU5YllRRGxOR0dEd1I0SVVUYlFPVGRxVENh?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Araraquara News",
-      "headlineJa": "サンパウロ、麻疹ワクチン接種を強化、100万回分の接種を実施 - アララクアラニュース"
-    },
-    {
-      "articleId": "gnews_ef713537389fea9b",
-      "headline": "Casos de sarampo acendem alerta e reforçam importância da vacinação em Jaraguá do Sul - portal.rbnfm.com.br",
-      "headlineTranslated": "Measles cases raise alert and reinforce the importance of vaccination in Jaraguá do Sul - portal.rbnfm.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-18T14:12:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTm9pZjR5akZwZTFxbEp5VF92OFd1TkdWemltaFZvb193UHM0ZmdKMUl1VWxsRkprQ21BRWhCODNGVGxlSWU1ODVJY3J4Vl9iMnVLcGxwa00zSzd0NWdJQ0VpNGdZRGdLUkxqUEVJQ2w4a0x0cTd0RFEwNzhrRXA0bW55SzlaVUx5bXBUMDA4WHhZYXJFczRpaEoxbnlneGZqWXF5QS15NDJuMWdLNjRWakU3MVo?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portal.rbnfm.com.br",
-      "headlineJa": "ジャラグア・ド・スル州ではしかの感染者が警戒を強め、ワクチン接種の重要性を強化 - portal.rbnfm.com.br"
-    },
-    {
       "articleId": "gnews_3b8b45b764be99a8",
       "headline": "Sarampo volta ao radar da Saúde Pública - Diario da Jaragua",
       "headlineTranslated": "Measles returns to Public Health's radar - Diario da Jaragua",
@@ -367,8 +466,8 @@
       ],
       "locations": [],
       "states": [
-        "Rio de Janeiro",
-        "Ceará"
+        "Ceará",
+        "Rio de Janeiro"
       ],
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
@@ -384,8 +483,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW5nUHdSeUEweHlKQ3NMS3g2QnRGbi1aQWNheE80QnhqNFk2Q1BZcGRhQVVpY1NhOWN5UjZ2UlRXS2NCYWFwLUpYZzVKZ0tHQ1lkRVlNQnA4QnVueHB5TjVwUE1ESzdsSjhpN2VpQkx6aGt6cTNzczFtbWhQa1g5SHVrclJieEo1Y1EwSElrd3ByMklzYzM2dDNNUQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -436,9 +535,9 @@
       "headlineJa": "麻疹の症状のすべて - Forbes Brasil"
     },
     {
-      "articleId": "gnews_f68d0640dc9793da",
-      "headline": "Trump assina decreto para alterar imunização contra sarampo e reduzir número de vacinas para crianças - opovo.com.br",
-      "headlineTranslated": "Trump signs decree to change measles immunization and reduce number of vaccines for children - opovo.com.br",
+      "articleId": "gnews_378b6d9b2f49bedc",
+      "headline": "Trump assina decreto para alterar imunização contra sarampo e reduzir número de vacinas para crianças - O POVO",
+      "headlineTranslated": "Trump signs decree to change measles immunization and reduce number of vaccines for children - O PEOPLE",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-18T01:39:04+00:00",
@@ -452,8 +551,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "opovo.com.br",
-      "headlineJa": "トランプ大統領、麻疹予防接種変更と子供向けワクチン接種数削減の大統領令に署名 - opovo.com.br"
+      "sourceName": "O POVO",
+      "headlineJa": "トランプ大統領、麻疹予防接種を変更し、子供向けワクチンの数を減らす大統領令に署名 - O PEOPLE"
     },
     {
       "articleId": "gnews_84a15aa0751c728a",
@@ -516,9 +615,9 @@
       "headlineJa": "ミナス・テニス・クラブがベロオリゾンテの広場で男子チームを発表 - オリンピック勃発"
     },
     {
-      "articleId": "gnews_107d10db71ae0a81",
-      "headline": "Os sinais de meningite que exigem atendimento rápido; Cuiabá já teve 4 mortes - Primeira Página",
-      "headlineTranslated": "Signs of meningitis that require quick care; Cuiabá has already had 4 deaths - Front Page",
+      "articleId": "gnews_4458f49077d7aa89",
+      "headline": "Os sinais de meningite que exigem atendimento rápido; Cuiabá já teve 4 mortes - primeirapagina.com.br",
+      "headlineTranslated": "Signs of meningitis that require quick care; Cuiabá has already had 4 deaths - Primeirapagina.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-17T19:59:34+00:00",
@@ -532,8 +631,28 @@
         "Mato Grosso"
       ],
       "dataSource": "Google News",
-      "sourceName": "Primeira Página",
-      "headlineJa": "迅速なケアが必要な髄膜炎の兆候。クイアバはすでに4人の死者を出している - フロントページ"
+      "sourceName": "primeirapagina.com.br",
+      "headlineJa": "迅速なケアが必要な髄膜炎の兆候。クイアバではすでに4人が死亡している - Primeirapagina.com.br"
+    },
+    {
+      "articleId": "gnews_ed30123aa18b28e6",
+      "headline": "Ministério recomenda vacina contra sarampo a quem visita São Paulo, São Bernardo e Guarulhos - Notícias ao Minuto Brasil",
+      "headlineTranslated": "Ministry recommends measles vaccine for anyone visiting São Paulo, São Bernardo and Guarulhos - Notícias ao Minuto Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-17T19:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWsyd29xOTZ0OVRua2p4OERuX2dpQ3NaeWdmWUQ0WUg4YXRzRHlMQnRxdV9pSXI3WW95QWItSkxIOWNwRGVTQ29QenFXVnN5c0MzQXNfMTRzNS1FbXN0RkZmS3ZxRm9Fal9SX3BrNjVjck8xSEtoRU5DVEtEVU8tX19lU3FWUnVrM3ozaTJpakUyck5VTmEzWWoyX1ByN2I0RVNwMEVtZkF4d3ZudmZmcWw5bHl0NlpyLTdkMHRWbWRpUnNPZTdTMVZYTWo5RE5XMmpDdTlmcGdsZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Notícias ao Minuto Brasil",
+      "headlineJa": "同省、サンパウロ、サンベルナルド、グアルーリョスを訪れる人に麻疹ワクチン接種を推奨 - Notícias ao Minuto Brasil"
     },
     {
       "articleId": "gnews_80e763a0844fe5c5",
@@ -556,9 +675,9 @@
       "headlineJa": "麻疹：世代がワクチンの価値を忘れ始めると何が起こるか - Veja Saúde"
     },
     {
-      "articleId": "gnews_d32d04989d56327f",
-      "headline": "Sarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença - opovo.com.br",
-      "headlineTranslated": "Measles raises alarms again in Brazil: who needs to be vaccinated? See questions and answers about the disease - opovo.com.br",
+      "articleId": "gnews_6cd9a8059130b0a2",
+      "headline": "Sarampo volta a acender alerta no Brasil: quem precisa se vacinar? Veja perguntas e respostas sobre a doença - O POVO",
+      "headlineTranslated": "Measles raises alarms again in Brazil: who needs to be vaccinated? See questions and answers about the disease - O PEOPLE",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-17T17:04:00+00:00",
@@ -572,211 +691,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "opovo.com.br",
-      "headlineJa": "ブラジルではしかが再び警戒を呼び掛ける：誰が予防接種を受ける必要があるのか​​？この病気に関する質問と回答をご覧ください - opovo.com.br"
-    },
-    {
-      "articleId": "gnews_dbc030686aae3e0c",
-      "headline": "Malária atinge menor taxa em 47 anos, mas sarampo preocupa governo - Correio Braziliense",
-      "headlineTranslated": "Malaria reaches lowest rate in 47 years, but measles worries government - Correio Braziliense",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T15:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2JxdWRkemp4MDFUSnUwN3k5U3hxLVZjVHdOOVFYM09qRGw2YjFlMk9GQ0laa083dHRpMGhVTWpMZzNfT0V6c3ZyS3VDZEZlalpUNjBJTGhmbjl0UzYtbFdxRS00ZHFlOGF4dk80QzNJMWhIVXo4RkRvZV9NNTk0NUppYi1jWlJZclg1blA2S2hmRlJWTHR0VW11T1ZBYUU4Q3E0eEJqN0dYWS1DbF9pTEpBbGs2YV85SUp0ek9qVW9EYVpIeTVZOTNOSdIB0AFBVV95cUxOM2pEeG5oTDZZbnFGUk1oakYzdGl5U2ZoUElDeWtuQlVTRDljR1lRWEhIMldKSlN0cW91TUFzckRnOU5ibU92eU1iYUlpN3luWUttbkhDd2h0Z29KSjEwUXNWc3ZNYkxZc3ZvVDhHdF9wWVloTl9xQW1sU1hSNnd5emRMT0tuWG8wTms3Q2tmc1JKTXJldXMzbzVWOWZrX0NIWVZpZWN2U01hQWQ5a2NqSHZWRDNZVnZPMXNnSGFZOGRnTm81QmM5VHRUUVR5Sml2?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria",
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "マラリア発生率は47年ぶり低水準だが、麻疹は政府を懸念 - コレイオ・ブラジルリエンス"
-    },
-    {
-      "articleId": "gnews_a2b6e6980add1b2b",
-      "headline": "Ceará soma quase 900 mil casos e 680 mortes por dengue em quatro décadas - O Cafezinho",
-      "headlineTranslated": "Ceará has almost 900,000 cases and 680 deaths from dengue in four decades - O Cafezinho",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T15:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXdSLUdjVTNCTUsxWWpzajZWSVhuNDlLbVpySy1OSTdGU282MlJnckJqM01UQ3J1YkFPTXRlMEhkeF9SVktrWFhodURKTURodXczVG9wUVFDcW1XZXdGV0EyZHdXbm9pSDBzSVVuOGFDV0llcmNSbEhEV2VTRGN0bUJNYTFRQmZFcmlkckdNSlhSbkp3b2h5cVRBUkpoQVd6M3IzR1M2bWxkVkJ6WUVKTnRETDdpZ9IBtgFBVV95cUxNSXdSLUdjVTNCTUsxWWpzajZWSVhuNDlLbVpySy1OSTdGU282MlJnckJqM01UQ3J1YkFPTXRlMEhkeF9SVktrWFhodURKTURodXczVG9wUVFDcW1XZXdGV0EyZHdXbm9pSDBzSVVuOGFDV0llcmNSbEhEV2VTRGN0bUJNYTFRQmZFcmlkckdNSlhSbkp3b2h5cVRBUkpoQVd6M3IzR1M2bWxkVkJ6WUVKTnRETDdpZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Cafezinho",
-      "headlineJa": "セアラ州では40年間でデング熱による感染者が約90万人、死亡者が680人に達している - O Cafezinho"
-    },
-    {
-      "articleId": "gnews_7a890931cf126640",
-      "headline": "Metrô de SP terá nova rodada de vacinação contra sarampo, caxumba e rubéola - CNN Brasil",
-      "headlineTranslated": "SP subway will have new round of vaccination against measles, mumps and rubella - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T14:59:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2tyRUh1c1JIdERHOUQ1T19ibm5kM2JsQjcyOGtZYS1HanFJT1ZaR1p5OXlnZUZURWh5WWFrcmNjNmlxZ2ZBMl9NWFJROFVhUGNJLTRwUTE3TWxxM2FNQUsxTXV0RFBHRWhBd25rY0dnbjhzcDlxTW8yTExRZEVpamxucE5zRHlpNFdaMjR5NHVLb2o5ZjJpV2pOaEVOS3ZncFdpMnAzQ3h1OHk2Z3lZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "SP地下鉄は麻疹、おたふく風邪、風疹に対する新たなワクチン接種を実施 - CNNブラジル"
-    },
-    {
-      "articleId": "gnews_1955188bb9ce697a",
-      "headline": "Sarampo voltou? Veja tudo o que a equipe da farmácia precisa saber - guiadafarmacia.com.br",
-      "headlineTranslated": "Is the measles back? See everything the pharmacy team needs to know - guiadafarmacia.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T14:00:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2JYOVVjaVhkT0dCUUpYd1Jna3JyVlQzbXE5ZldMdEhnbW03bGVfbk94RnM5clI3MjJHck9WUElDRXlFblJVYmxKLUpXamhhamZWNFo5aUhVSUVNQ0hQR0FOU0FtWEliSG4tdmlHb0lGUXVWdG5jZ1ZJX0N6TDJ5VkQwNWp6a1pfR2VyT3BMZVBQRTdUdko4b1J2cDQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "guiadafarmacia.com.br",
-      "headlineJa": "麻疹が再発したのか？薬局チームが知っておくべきことをすべてご覧ください - guiadafarmacia.com.br"
-    },
-    {
-      "articleId": "gnews_8ff5ba8cc4d12d41",
-      "headline": "Alagoas registra alta de mais de 25% nos casos de dengue e chikungunya, aponta Sesau - Francês News",
-      "headlineTranslated": "Alagoas records an increase of more than 25% in cases of dengue and chikungunya, points out Sesau - Francês News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T13:58:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUG80NWlJUHh1MS1GQzZTa1lLckJQVUR2eGc1ajYwYXJIa3hPOGw5dWJJUnRMbExlZnBrNDhRZk5CVFpnZ1JPaXJJTHdDMmRobFpwU01jZzEzTDBpUm4wT3VSTzlyMjd4U3hlTUlzRVFWOFVqcEhSNDI4bWNheXAzYjMwYTFDQnR1QVByRjNoOElycEx5S3FZOXN0M1FUZGEybUd6Y1VhQ3NtM2FhVGQwZjhOYkJzVng4aEF1eWNNOTcwVzhnbVJ6allWUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Francês News",
-      "headlineJa": "アラゴアス州ではデング熱とチクングニア熱の感染者数が25％以上増加しているとセサウ氏が指摘 - フランシス・ニュース"
-    },
-    {
-      "articleId": "gnews_c34566415364a53a",
-      "headline": "Goiás intensifica vacinação contra o sarampo após registros da doença em SP - Poder Goiás",
-      "headlineTranslated": "Goiás intensifies vaccination against measles after records of the disease in SP - Poder Goiás",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T13:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUItT2NfajZ2cWNQRVpZdEZNV240blM3U1AySDhJRVM0aEZOOFhxZWY0amU5YXBvMzVBYzFfamphNDZ1dzBEbm9wTmI4VUNfdzR4N1ZkUE0yNXY3bVZGNjZ3Z091VVZpYXBuYm0wc2JXaF9FbEhtRWt6d3JydFp1UkppckhMV0prbmpTRGQtQkM4NGk2N21sOHZIancwOEVMT2lfU09renhXeU9PZlQ2elo0OERUalNlcjRj?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Poder Goiás",
-      "headlineJa": "ゴイアス州、SPでの麻疹感染記録を受けてワクチン接種を強化 - Poder Goiás"
-    },
-    {
-      "articleId": "gnews_ec6d025a6f8db544",
-      "headline": "Casos prováveis de dengue e chikungunya aumentam mais de 25% em Alagoas - GazetaWeb",
-      "headlineTranslated": "Probable cases of dengue and chikungunya increase by more than 25% in Alagoas - GazetaWeb",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T12:19:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMWZiZXpCU2h6ejdIUTkySGNYazVjR2tLUktoMFp3Ni05SmxWQnZTU3FEQzZ6cGE4YzRjTU05Z2hDNHd3WGM1c1NWVXExdGtzZWc0SndDNHBTSGYwNC1haUZ0REhLaTlrYUpNdHkwbW1yTFlsVUl0UktDZXFYcUVCZ3A3UWxua3FQNTBnQmVOLVliRWN1eGN6Q3ZuQjdKWW5OSHJUcm9ubVhvckRpbjA2eEhfNVBYRmlyUXdQOUtESdIBxwFBVV95cUxPWDhFaFZGUXFLQVdKLVhtU2pBNklBQ3k5Ul9OdFkxQTdrMFRQQklMUzVFWTF6aHNieWVYbFlNaXBVRlVIYmFHTHNfTlIzdjB5MnVxQnl0TVVYdEk5M1NhQUM0ZW42Um8wRVJRa0FiVl9wOEtJWjVTSDJmRE54d0xod3NRWEtMaGs0Z0JPZ2dBeXExVGpfcnFrX3djaHV2bjNQc1hUanlNV0hZMU03UnJUZmFuem85VFJXbDB3cGh1eDlCUHNhUEVF?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GazetaWeb",
-      "headlineJa": "アラゴアス州でデング熱とチクングニア熱の感染確率が25％以上増加 - GazetaWeb"
-    },
-    {
-      "articleId": "gnews_c29b94b931d44189",
-      "headline": "Homem em surto quebra objetos e é imobilizado por populares na zona Sul de Teresina - Portal R10",
-      "headlineTranslated": "Man in an outbreak breaks objects and is immobilized by people in the south of Teresina - Portal R10",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T11:06:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWp5NkVUYTB2dEw0VVYyWGlxQXp5ZjB5ajJFeUd1SXkzclc0TTVndzNaS2tQa1pJdkVLX3JiQXhCYlUtd1FYNHk3eHRfd09JM0RjVWZueWNXQkhIa3JMYWVmZHEtc2N5TFFFeG1naXhYUTRRWmRwU1F5ekFCdjVhWU9oSVRVZXhDa2hqc01DZ3JHamhXRTEtZllSN1hiRmI2Y2RpTjdnZExGLXBfVUNMNHpoemMxXzkwY01oUDREbXNiczMwbDRVeV9IZFp5SFNUNHdV0gHTAUFVX3lxTE55ank2RVRhMHZ0TDRVVjJYaXFBenlmMHlqMkV5R3VJeTNyVzRNNWd3M1pLa1BrWkl2RUtfcmJBeEJiVS13UVg0eTd4dF93T0kzRGNVZm55Y1dCSEhrckxhZWZkcS1zY3lMUUV4bWdpeFhRNFFaZHBTUXl6QUJ2NWFZT2hJVFVleENraGpzTUNnckdqaFdFMS1mWVI3WGJGYjZjZGlON2dkTEYtcF9VQ0w0emh6YzFfOTBjTWhQNERtc2JzMzBsNFV5X0hkWnlIU1Q0d1U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal R10",
-      "headlineJa": "テレシナ南部で大流行中の男性が物を壊し、人々に動けなくなる - ポータル R10"
-    },
-    {
-      "articleId": "gnews_759e528f6850a86e",
-      "headline": "Sarampo no Brasil: conheça os sintomas e orientações para vacinação contra a doença - A Tribuna",
-      "headlineTranslated": "Measles in Brazil: find out the symptoms and guidelines for vaccination against the disease - A Tribuna",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T09:55:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWhlazhwSWVmcmp3a0NaZVdBWDNzMUdnckZTcnhVbmE0SG9PRXFueGhHZVpqTE1DelpEUXF6MjdKNl82VmNPTDI2cFN1a1kyYzJDbnh4OWhPd0JTQ3lTWHdYdTFfSjlHX2pYcElnRVowbG1KZGt1ZkRkUmxaUVhqckkyTjRqM2dRR1ltTFZxcmJST0NzWlhIYVJ4V055UEk2VmZ3LTZFLUZVb1ZXQWlaMGd1U2lDWE1TUkpKbjl6STVaRDhIYkNEWXRUQlNHNzlhQjFsUU13TTZKdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Tribuna",
-      "headlineJa": "ブラジルの麻疹：症状とこの病気に対するワクチン接種のガイドラインを調べる - A Tribuna"
-    },
-    {
-      "articleId": "gnews_331cea6878f2b9a6",
-      "headline": "Dengue chega aos 40 anos no Ceará com quase 900 mil casos e 680 mortes - Diário do Nordeste",
-      "headlineTranslated": "Dengue reaches 40 years in Ceará with almost 900 thousand cases and 680 deaths - Diário do Nordeste",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-17T09:00:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSExMZDI3dGlfQ2piLXBSMlJfbzZRZ0x6cFIwUUtIdWNjTTBHdERCNkRrMk1odXl2UEphRWlSSWFia1F1d2UyREI0WXJzX2VoNTF0RHlQQXZBNjdKME5zSGVtZ1phalpmUzYtT2RQU3hwcklmd2lOUTluU3U1ay14dzhMMFhlY0RqSHdmX0JaZHZKMVhlRUxNblRNaWUwc1pfQ1pjWl9hSGtVaFcxbUtOcmtVbnRkUzlqNXFnZzhKdWIwWWQzT0VmLWJB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário do Nordeste",
-      "headlineJa": "セアラ州でデング熱感染が40年に達し、感染者数約90万人、死者数680人 - Diário do Nordeste"
+      "sourceName": "O POVO",
+      "headlineJa": "ブラジルではしかが再び警戒を呼び掛ける：誰が予防接種を受ける必要があるのか​​？この病気に関する質問と回答をご覧ください - O PEOPLE"
     }
   ]
 }
