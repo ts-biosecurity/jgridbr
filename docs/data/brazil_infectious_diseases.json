@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-23T01:37:54.679613+00:00",
+  "generated_at": "2026-08-23T08:29:52.343189+00:00",
   "date_range": {
-    "start": "2026-08-21T01:37:54.679613+00:00",
-    "end": "2026-08-23T01:37:54.679613+00:00"
+    "start": "2026-08-21T08:29:52.343189+00:00",
+    "end": "2026-08-23T08:29:52.343189+00:00"
   },
-  "total_articles": 55,
+  "total_articles": 57,
   "state_summary": {
-    "Brasil (estado não identificado)": 26,
-    "Sergipe": 1,
+    "Brasil (estado não identificado)": 28,
+    "Sergipe": 2,
     "Pará": 10,
     "Rondônia": 1,
     "Piauí": 2,
     "Pernambuco": 3,
     "Bahia": 1,
-    "São Paulo": 2,
+    "São Paulo": 1,
     "Goiás": 1,
     "Ceará": 4,
     "Paraíba": 1,
@@ -21,21 +21,44 @@
     "Santa Catarina": 1,
     "Amazonas": 1,
     "Rio Grande do Norte": 1,
-    "Mato Grosso": 1,
-    "Mato Grosso do Sul": 1
+    "Mato Grosso do Sul": 1,
+    "Mato Grosso": 1
   },
   "disease_summary": {
-    "Measles": 18,
-    "Dengue": 9,
-    "Doença infecciosa (não especificada)": 24,
+    "Oropouche": 2,
+    "Dengue": 10,
+    "Zika": 3,
+    "Chikungunya": 4,
+    "Measles": 20,
+    "Doença infecciosa (não especificada)": 23,
     "Influenza": 1,
     "Leishmaniasis": 2,
-    "Whooping Cough": 3,
-    "Zika": 2,
-    "Oropouche": 1,
-    "Chikungunya": 3
+    "Whooping Cough": 3
   },
   "articles": [
+    {
+      "articleId": "gnews_4cf24126eca25e6c",
+      "headline": "Dengue, zika, chikungunya e Oropouche: sintomas podem ser parecidos, mas riscos são diferentes - Jornal Panorama Minas",
+      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: symptoms may be similar, but risks are different - Jornal Panorama Minas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-22T20:04:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3NPQ0otQzA1TVI3eTdLal9scXZoWHpibUlVaVl2ZWE4RWwzS0lGUFVfemhFUDQ5VlNSYlVCZ01haFczbUVUbnhHX1FWeXdNeW9kcjR2TExJdFBkamstWjRpbnc1emlhMDZGT1dzbTkyX25xTzk1LTRCbF93Um55Nm4zUVRTY3ZBWGFYZjFkcGhneUZuVFYzNVYwWHJSb2xFVnpxQm9QSTZpSnM0bi0zVGJzcy1tU1VtYkI4UU1uQUliV2pW?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Oropouche",
+        "Dengue",
+        "Zika",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Panorama Minas",
+      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：症状は似ているかもしれないが、リスクは異なる - ジャーナル・パノラマ・ミナス"
+    },
     {
       "articleId": "gnews_62c34e82a880baf5",
       "headline": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo - TC Online",
@@ -73,7 +96,28 @@
         "Sergipe"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1"
+      "sourceName": "G1",
+      "headlineJa": "アラカジュ州でのデング熱蚊対策に新たな戦略が役立つ - G1"
+    },
+    {
+      "articleId": "gnews_80c6d4f7204ba883",
+      "headline": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo - Aracaju Magazine",
+      "headlineTranslated": "D-Day updates childhood vaccinations and reinforces alert against measles - Aracaju Magazine",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-22T18:39:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUlRUy10Si1vbVZUblIzODZoNDZ4WW9nTVlMYXlETzJCZHdrU0NHamVoUkE4WkRJaDh5WkVfNHY3aktRUllDMXFDZmRDS0M5eGd6a2ctd3ZtbUtwclo0Z0sxXzdQUGdyamtYWWhlYkV3eHk3cWZ0MnBrdWxLWkpOZVRJQml0MFVaZ05YdUhxMFBCNExWVjJuUHN3QUszZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aracaju Magazine",
+      "headlineJa": "D-Dayは小児予防接種を更新し、麻疹に対する警戒を強化 - アラカジュマガジン"
     },
     {
       "articleId": "gnews_9564b67d4811ac6a",
@@ -92,12 +136,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "bra1.com.br"
+      "sourceName": "bra1.com.br",
+      "headlineJa": "D-Day が小児予防接種と麻疹に対する警告を更新 - bra1.com.br"
     },
     {
       "articleId": "gnews_fb48631958e15578",
       "headline": "Dia D atualiza vacinação infantil e alerta contra sarampo - noticiasdoplanalto.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "D-Day updates childhood vaccinations and alerts against measles - noticiasdoplanalto.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T18:00:29+00:00",
@@ -132,12 +177,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Folha MS",
-      "headlineJa": "子供の予防接種はD-Dayに更新され、麻疹のリスクについて警告 - Folha MS"
+      "headlineJa": "子供の予防接種が D-Day に更新され、麻疹のリスクについて警告 - Folha MS"
     },
     {
       "articleId": "gnews_623ee3e87d9ea76a",
       "headline": "Dia D da campanha de multivacinação mobiliza o Brasil contra surtos - Pagina1mt",
-      "headlineTranslated": "",
+      "headlineTranslated": "D-Day of the multivaccination campaign mobilizes Brazil against outbreaks - Pagina1mt",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T17:31:00+00:00",
@@ -177,7 +222,7 @@
     {
       "articleId": "gnews_5765d90dca94c298",
       "headline": "Dia D de multivacinação mobiliza o país e reforça proteção contra sarampo - Fato Paulista",
-      "headlineTranslated": "",
+      "headlineTranslated": "Multivaccination D-Day mobilizes the country and reinforces protection against measles - Fato Paulista",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T17:23:00+00:00",
@@ -237,7 +282,7 @@
     {
       "articleId": "gnews_f74c18ad6b5f0fef",
       "headline": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo - panoramagocomunicacao.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "D-Day updates childhood vaccinations and reinforces alert against measles - panoramagocomunicacao.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T16:57:00+00:00",
@@ -255,9 +300,29 @@
       "headlineJa": "D-Day が小児予防接種を更新し、麻疹に対する警戒を強化 - panoramagocomunicacao.com.br"
     },
     {
+      "articleId": "gnews_c1c07d0c91030ddf",
+      "headline": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo - Tribuna do Sertão",
+      "headlineTranslated": "D-Day updates childhood vaccinations and reinforces alert against measles - Tribuna do Sertão",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-22T16:43:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEFnRy1wYVROMVVwa1lacmhBVXRWUGdjUGlSVmRvcWtnWXlqcHJSR0Z4QlUzQzFWejV0OVUtSkFCSU1hTll0R1BiaURnNFRIaGJWeVVpTHE5ZTBYSHZPaFZfYXVpODl3TzVHdFlEUHhTNVF6Y1NpXzFEYVZnZ2l0dVpyd2h6QXlIdVZTQnQ1Yk1EMmFadXhFNG9QZ3JoYVBGNGVuVm1QakphUWtJSlVtQUlLNmN5eWl2S3Bzb2dPd2pZdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Sertão",
+      "headlineJa": "D-Dayが小児予防接種を更新し、麻疹に対する警戒を強化 - Tribuna do Sertão"
+    },
+    {
       "articleId": "gnews_8b35b016c111bd21",
       "headline": "Dia D de vacinação reforça combate ao sarampo no Brasil - Portal Piauí Hoje",
-      "headlineTranslated": "",
+      "headlineTranslated": "Vaccination D-Day reinforces the fight against measles in Brazil - Portal Piauí Hoje",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T16:43:00+00:00",
@@ -291,7 +356,8 @@
         "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "Diario de Pernambuco"
+      "sourceName": "Diario de Pernambuco",
+      "headlineJa": "ワクチン接種: 1日平均5,700回の接種で、ペルナンブコ州の申請件数は110,000件を超える - Diario de Pernambuco"
     },
     {
       "articleId": "gnews_fc63416330d58b7e",
@@ -311,7 +377,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Bahia Notícias",
-      "headlineJa": "今週土曜日に全国で予防接種Dデーが行われる - Bahia Notícias"
+      "headlineJa": "今週の土曜日に全国で予防接種Dデーが行われる - Bahia Notícias"
     },
     {
       "articleId": "gnews_1ef765eddfd94f33",
@@ -363,8 +429,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMjFCd253SmpRUlRGVm01d0Y4ZkRtaTdVdkF6Z0YtZUp1blQ1TXdxUmJTaU1uZlV0WXFCLTFRNE5XVUFuZERnSHRnOWloc1RjZVRfSmlGZ3ZqMFZSNmlMZmEyanJJRlVkSmlsREtERFYtX1dGZDBENTZXQkxiQlQ3RWVmT3BfcWo4NVFMa3I4dXhPTVRNSUVzeC1pNDJWMG1oeFNtUDh2VERvenM5M0E5a3Z4TUJmX1VtY05OZGtDV1ZfYm5pVTlWZklySW1qSGNTbjU5N2cwYXFUX0gtdDZueGxNY0ptb2s5N1JMLXpPY0xPTzA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Measles"
+        "Measles",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -377,7 +443,7 @@
     {
       "articleId": "gnews_2f884d44f4007afa",
       "headline": "El Niño acende alerta para dengue e outras arboviroses na Amazônia - AGÊNCIA CENARIUM",
-      "headlineTranslated": "",
+      "headlineTranslated": "El Niño raises alert for dengue and other arboviruses in the Amazon - AGÊNCIA CENARIUM",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T14:06:00+00:00",
@@ -415,6 +481,26 @@
       "headlineJa": "麻疹撲滅デー：保健省長官がフェイクニュース反対を訴え、サルバドールの家族に呼びかけ… - Bnews"
     },
     {
+      "articleId": "gnews_89e38414656c19be",
+      "headline": "SP tem Dia D da vacinação com reforço contra sarampo após 23 casos da doença em 2026 - G1",
+      "headlineTranslated": "SP has D-Day of vaccination with booster against measles after 23 cases of the disease in 2026 - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-22T11:36:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2xiaVBFaWZudkNLNG9aQW45UEw2OThfeFlZWXVGaUhQOFI2dmRyNFZhMXlWUzVmWWVFUUI3OUJfdWV4Y2JNbk9wTTJjMjM5M3JEMVAzamVGLTVnYmdNRVVjTk9xUkNCNVhLQ0s4Y0ZDWkk3MkQ1WDZfVEd5bWo2MnJ0R0ZmNm9RSzBzYlFueHItT2FaUDRWZW4tdG90MVh5WE83cEVtb2lDeUpvUlJGT2hQM1ZENzVmWmFJazNra0hlZmpHRkRwQkNvSF83dGRjS2xZNTlLbFlmYVXSAeoBQVVfeXFMTWpMNXJBOVplSmJYRUdkNmoyTEdfbUFrYl9LenBqMVpUT0NXNy1iQ1RCX2J2b3FJb1JiaFpqdDYxeVY3djhteE5MS1dkRGVObUlRYUNWUnJQWEN6bWdnb19HNnFPNUJpVWJQbWJaN3VLdTFKd1lKTXBkZmZpejZJaF9FcHNXQzRwd0N0SVFTdmttSXl2WHNfVmVRRE1vWFp1V0ZiVDVXd1g3QjJ4dlQya2NFTXZTZ1ZlcG9kVVhqMVVRV1Y0TUNEZHZ6SUp2MkMtZVBIXzNtb3F4TWpMVjZEcW5uN0R0cTgtOFlB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "2026年に麻疹感染者23人発生後、SPは麻疹に対する追加免疫ワクチン接種のDデーを迎える - G1"
+    },
+    {
       "articleId": "gnews_8e057fb4531a9686",
       "headline": "Dia D da Multivacinação oferece proteção contra 20 doenças em Goiás neste sábado - Jornal Opção",
       "headlineTranslated": "Multivaccination D-Day offers protection against 20 diseases in Goiás this Saturday - Jornal Opção",
@@ -432,32 +518,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Opção",
-      "headlineJa": "今週土曜日、ゴイアス州で複数のワクチン接種 D デイが 20 の病気に対する予防を提供 - Jornal Opção"
-    },
-    {
-      "articleId": "gnews_f63131cfa20d3f56",
-      "headline": "Dia D da Multivacinação acontece neste sábado em todo o Brasil; veja quais vacinas estão disponíveis - Blog do Valente",
-      "headlineTranslated": "Multivaccination D-Day takes place this Saturday throughout Brazil; see which vaccines are available - Valente's Blog",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-22T11:30:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX2hFNWdTZFJMc0NQUjZkamNwZ0dnZktpUUh3dmhVdjJmT0NibHFuRXY1YnUzY1Q0RnhsTzBMR2Nwc3Q5UmlLTjYyN1Q4Wjc2OFdlNzBFc2VUQVZKUXVhWWlEMUFyS2R0QkhhSU1ZUWtRb2Z4VWxfQ3Zsd1ZMclcyUzNPU3pocmdadzVPazNfdHFzRmZNRkNIZngzcGYwVUU3eDhhQWpTVkZVa281bk03Q0tPMW83QndDbVl4VXM3czJZSWQydk5CbWxEMEloSlktM08wX3RPXzAzLXhQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Valente",
-      "headlineJa": "今週土曜日、ブラジル全土で複数回ワクチン接種の D-Day が開催されます。どのワクチンが利用可能かを確認する - Valente のブログ"
+      "headlineJa": "今週土曜日、ゴイアス州で複数のワクチン接種の D-Day が 20 の病気に対する予防を提供 - Jornal Opção"
     },
     {
       "articleId": "gnews_83dce92add5ec7ca",
       "headline": "Dia D da Campanha de Multivacinação acontece neste sábado em todo o Brasil - Metrô News Jornal",
-      "headlineTranslated": "",
+      "headlineTranslated": "D-Day of the Multivaccination Campaign takes place this Saturday across Brazil - Metrô News Jornal",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T11:01:00+00:00",
@@ -472,7 +538,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Metrô News Jornal",
-      "headlineJa": "複数ワクチン接種キャンペーンのDデーが今週土曜日、ブラジル全土で開催される - Metro News Jornal"
+      "headlineJa": "複数ワクチン接種キャンペーンのDデーが今週土曜日にブラジル全土で開催される - Metro News Jornal"
     },
     {
       "articleId": "gnews_e419f1bcae5cc75f",
@@ -512,12 +578,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rede Jota FM",
-      "headlineJa": "MS、エルニーニョ期間中の病気の増加に備えて医療ネットワークを準備 - Rede Jota FM"
+      "headlineJa": "MS、エルニーニョ期間中の病気増加に備えて医療ネットワークを準備 - Rede Jota FM"
     },
     {
-      "articleId": "gnews_5973a3c5b38ec9e8",
-      "headline": "Como sucesso de vacinas reduz percepção do risco de doenças - dw.com",
-      "headlineTranslated": "How vaccine success reduces perceived disease risk - dw.com",
+      "articleId": "gnews_38d0d273d29d70b7",
+      "headline": "Como sucesso de vacinas reduz percepção do risco de doenças - DW",
+      "headlineTranslated": "How vaccine success reduces perception of disease risk - DW",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T09:42:38+00:00",
@@ -531,8 +597,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "dw.com",
-      "headlineJa": "ワクチンの成功により、認識されている病気のリスクがどのように軽減されるか - dw.com"
+      "sourceName": "DW",
+      "headlineJa": "ワクチンの成功により病気のリスクに対する認識がどのように軽減されるか - DW"
     },
     {
       "articleId": "gnews_806e4471ee46f2ba",
@@ -572,12 +638,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1"
+      "sourceName": "G1",
+      "headlineJa": "BH は今週土曜日に複数ワクチン接種キャンペーンを実施します。誰がワクチン接種を受けられるか、および追加ポイントを確認 - G1"
     },
     {
       "articleId": "gnews_8056522b76daaae0",
       "headline": "Dia D da multivacinação ocorre hoje em todo o Brasil - CNN Brasil",
-      "headlineTranslated": "",
+      "headlineTranslated": "Multivaccination D-Day takes place across Brazil today - CNN Brasil",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T06:33:14+00:00",
@@ -617,7 +684,7 @@
     {
       "articleId": "gnews_cd47e430c2891f96",
       "headline": "BOLETIM DENGUE E LEISHMANIOSE – 19 de agosto de 2026 - Grupo Portal de Notícias",
-      "headlineTranslated": "",
+      "headlineTranslated": "DENGUE AND LEISHMANIOSIS BULLETIN – August 19, 2026 - Grupo Portal de Notícias",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-22T00:41:53+00:00",
@@ -678,7 +745,7 @@
     {
       "articleId": "gnews_25ba462e73e73c21",
       "headline": "Saúde de Arapiraca investiga possível surto de Coqueluche após casos confirmados - Alagoas 24 Horas",
-      "headlineTranslated": "Saúde de Arapiraca investigates possible outbreak of Pertussis after confirmed cases - Alagoas 24 Horas",
+      "headlineTranslated": "Arapiraca Health investigates possible Pertussis outbreak after confirmed cases - Alagoas 24 Horas",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T18:33:00+00:00",
@@ -693,12 +760,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "サウデ・デ・アラピラカ、感染者確認後に百日咳発生の可能性を調査―アラゴアス24ホラス"
+      "headlineJa": "アラピラカ保健局、感染者確認後に百日咳流行の可能性を調査 - アラゴアス24ホラス"
     },
     {
       "articleId": "gnews_d22d67f7a88518bb",
       "headline": "Surto de bactéria em hospital de Macaíba está controlado, diz Sesap - Blog Jair Sampaio",
-      "headlineTranslated": "",
+      "headlineTranslated": "Bacteria outbreak in Macaíba hospital is under control, says Sesap - Blog Jair Sampaio",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T18:30:00+00:00",
@@ -749,8 +816,8 @@
       ],
       "locations": [],
       "states": [
-        "Ceará",
-        "Pará"
+        "Pará",
+        "Ceará"
       ],
       "dataSource": "Google News",
       "sourceName": "Prefeitura de Fortaleza",
@@ -759,16 +826,16 @@
     {
       "articleId": "gnews_da0174e2580cfdf4",
       "headline": "Dengue, zika, chikungunya e Oropouche: infectologista da HU Brasil explica diferenças e alerta para riscos da automedicação - www.gov.br",
-      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: infectologist from HU Brazil explains differences and warns about the risks of self-medication - www.gov.br",
+      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: infectologist at HU Brazil explains differences and warns about the risks of self-medication - www.gov.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T17:30:49+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdXNqOVpjaDNWRjBOQjRCRkNQU3VTaGFCSVhyemgxVEZTcFVaU3FHYkczRkdfa2Vhd0tQeFA3MzRJQk1NTHVGUWlRTDV5MHlYa05yRWtuMzFxVGthMWYtUVN2RWNWRF9zd2hOVm1BQUUxOWVleHIwNFlKS1JjeEZseEhValZCa3RFb3IwZTc1UWl4eWtEc016RHphMDdXekNhSVV2VlEybnRNVVlsa3cwNnFjcU1rTXJNbmFKcVZwUHpJQ2dmQlJkMGtDZ1piUkgtLVp6Tk9oanNPU3gyRzdUSXFHTXBmUkE1aHlvUlVoSGgxREw4Y3BvOFczTkVoNFlVTzhfS2V3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Oropouche",
         "Dengue",
         "Zika",
-        "Oropouche",
         "Chikungunya"
       ],
       "locations": [],
@@ -777,7 +844,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "www.gov.br",
-      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：ブラジル大学の感染症学者が違いを説明し、セルフメディケーションのリスクについて警告 - www.gov.br"
+      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：ブラジル大学の感染症学者が違いを説明し、自己投薬のリスクについて警告 - www.gov.br"
     },
     {
       "articleId": "gnews_4ea0216bbdd78eae",
@@ -823,7 +890,7 @@
     {
       "articleId": "gnews_e4a7af991571a41a",
       "headline": "Brasil promove Dia D para atualizar vacinas - correiodobrasil.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "Brazil promotes D-Day to update vaccines - maildobrasil.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T16:37:43+00:00",
@@ -863,7 +930,7 @@
     {
       "articleId": "gnews_88b9772bd2b73bd7",
       "headline": "País terá Dia D de Multivacinação neste sábado - Diario de Pernambuco",
-      "headlineTranslated": "The country will have D-Day for Multivaccination this Saturday - Diario de Pernambuco",
+      "headlineTranslated": "Country will have Multivaccination D-Day this Saturday - Diario de Pernambuco",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T15:11:00+00:00",
@@ -917,7 +984,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1"
+      "sourceName": "G1",
+      "headlineJa": "アラピラカで百日咳が発生：保健省が患者3名を確認、33例を調査 - G1"
     },
     {
       "articleId": "gnews_69a7ada067c764b6",
@@ -957,12 +1025,12 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Extra Alagoas",
-      "headlineJa": "百日咳の発生、3人の感染者が確認された後、アラピラカで調査 - Jornal Extra Alagoas"
+      "headlineJa": "百日咳の発生は3人の感染者が確認された後、アラピラカで調査される - Jornal Extra Alagoas"
     },
     {
       "articleId": "gnews_6691a64710b5f5f8",
       "headline": "Dia D de vacinação em BH terá pontos extras neste sábado (22); confira locais e horários - G1",
-      "headlineTranslated": "",
+      "headlineTranslated": "Day D of vaccination in BH will have extra points this Saturday (22); check locations and times - G1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T14:16:38+00:00",
@@ -976,7 +1044,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1"
+      "sourceName": "G1",
+      "headlineJa": "BH でのワクチン接種の D 日目は、今週土曜日 (22 日) に追加ポイントが付与されます。場所と時間を確認する - G1"
     },
     {
       "articleId": "gnews_4b856918cc00bf7b",
@@ -994,8 +1063,8 @@
       ],
       "locations": [],
       "states": [
-        "Santa Catarina",
-        "Pará"
+        "Pará",
+        "Santa Catarina"
       ],
       "dataSource": "Google News",
       "sourceName": "Santa Catarina em Pauta",
@@ -1044,7 +1113,7 @@
     {
       "articleId": "gnews_772c813cce6b82d2",
       "headline": "Mais de 110 unidades oferecem vacinas no 'Dia D' da Multivacinação em Manaus; confira - G1",
-      "headlineTranslated": "",
+      "headlineTranslated": "More than 110 units offer vaccines on Multivaccination 'D-Day' in Manaus; check it out - G1",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-21T11:58:54+00:00",
@@ -1095,11 +1164,12 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
-      "sourceName": "capitalnews.com.br"
+      "sourceName": "capitalnews.com.br",
+      "headlineJa": "チクングニア熱感染者が1万人を超え、マトグロッソ・ド・スル州で30人が死亡 - Capitalnews.com.br"
     },
     {
       "articleId": "gnews_c45713e37fffdc76",
@@ -1119,27 +1189,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário do Nordeste",
-      "headlineJa": "デング熱に対するワクチンの開発はなぜこれほど難しいのでしょうか?また、EC でのワクチンの生産はどのように行われているのでしょうか? - 東北日記"
-    },
-    {
-      "articleId": "gnews_e8dc407bc2c14fd2",
-      "headline": "São Paulo vacina mais de 1 milhão de pessoas contra o sarampo - Rádio Itatiaia",
-      "headlineTranslated": "São Paulo vaccinates more than 1 million people against measles - Rádio Itatiaia",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-21T04:06:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXFtVW9tT1RLalpRemFhTmlyRFZFaTdJem1FelY5eWkwZ2pSMkdSVnpEUXpVY0ZPQzVPOWlLdnI5NFNtZkhreXY5emplT1RHc2M1QkR3alBQZ0VyOFRZNjBDUElPd041RzNkeWJYOGtTNzY5X1lRZ2lnR01sT3VNRFVUVmVycmR1d2hhbHBUZXhVU2I1VXJYaFJQczdFc2hQX3ZZSk95TnF3eFRf?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "サンパウロ、100万人以上に麻疹ワクチン接種 - Radio Itatiaia"
+      "headlineJa": "デング熱に対するワクチンの作成がなぜこれほど難しいのですか?また、EC でのワクチンの製造はどのように行われているのでしょうか? - 東北日記"
     }
   ]
 }
