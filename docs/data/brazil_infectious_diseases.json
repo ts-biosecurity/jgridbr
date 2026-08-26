@@ -1,39 +1,78 @@
 {
-  "generated_at": "2026-08-26T01:30:18.764911+00:00",
+  "generated_at": "2026-08-26T08:42:33.504383+00:00",
   "date_range": {
-    "start": "2026-08-24T01:30:18.764911+00:00",
-    "end": "2026-08-26T01:30:18.764911+00:00"
+    "start": "2026-08-24T08:42:33.504383+00:00",
+    "end": "2026-08-26T08:42:33.504383+00:00"
   },
-  "total_articles": 49,
+  "total_articles": 53,
   "state_summary": {
-    "Pará": 14,
-    "Brasil (estado não identificado)": 19,
-    "Goiás": 7,
-    "Alagoas": 3,
+    "Brasil (estado não identificado)": 23,
+    "Pará": 15,
+    "Goiás": 8,
+    "Alagoas": 1,
     "Amazonas": 1,
     "São Paulo": 1,
     "Ceará": 4,
     "Acre": 1,
+    "Piauí": 2,
     "Bahia": 1,
     "Roraima": 2,
-    "Piauí": 1,
     "Tocantins": 1
   },
   "disease_summary": {
+    "Zika": 5,
+    "Doença infecciosa (não especificada)": 13,
     "Dengue": 17,
-    "Doença infecciosa (não especificada)": 12,
+    "Leishmaniasis": 1,
     "Measles": 15,
     "Avian Influenza": 5,
     "Influenza": 5,
-    "Chikungunya": 4,
-    "Zika": 4,
+    "Chikungunya": 5,
     "Oropouche": 3
   },
   "articles": [
     {
+      "articleId": "gnews_d200e5ef34f09cac",
+      "headline": "Ten years after Brazil’s Zika epidemic, its children are still paying the price - The Telegraph",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-26T05:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmpQYmZ3VGttM0ZjM0t5SlRzQzVPYTQ0M2tGMUJnd1V2anNLbHM4a3hqVkRlUkNlQUlHV0tvTExwQmZld0ZpR3ZsdDJfOTJDN192TzBXU25OR3pWcC1mT21xSHVUdk5vS0Vvc1B0TUdnU09GMmRpZEhBZGxoQnFJRmlaNjZ1dm9QNnhONGJkSFdENHA2c0dUUklOcWh1UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "The Telegraph"
+    },
+    {
+      "articleId": "gnews_61f17d872aae3688",
+      "headline": "Febre do Nilo Ocidental é rara no Brasil, apesar da disseminação global - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-26T03:35:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDdNNDlCeTdDS0dKek8tX04xZ1ppZmdLbmJsOUJ6N1I1NnZBMDlKQThRVTdvY215NFVFNXBZbUM5OEdadEhZU0Itd1dQeE5WWnF3UlhzVS1QMUZ3TWEzWUYydGxLRGVXb3NtTDgwN2tSTlZJR3c4YnBPRUFENGNzRUl4Z3dEY21UOVcxUEVRZ1dHalh6LTNBNXlfV01WMUJNNm1GZjNzN3UyQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
       "articleId": "gnews_a637cca42203e3ff",
       "headline": "Bill Gates compartilha reportagem sobre combate à Dengue em Belém - DOL",
-      "headlineTranslated": "Bill Gates shares report on combating Dengue in Belém - DOL",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-26T00:20:12+00:00",
@@ -47,8 +86,7 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "DOL",
-      "headlineJa": "ビル・ゲイツ、ベレンのデング熱対策報告書を共有 - DOL"
+      "sourceName": "DOL"
     },
     {
       "articleId": "gnews_bf0f225fac5987b1",
@@ -67,13 +105,31 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "西ナイル熱：ブラジルで感染者が確認された病気に関する8つの質問と回答 - Terra"
+      "sourceName": "Terra"
+    },
+    {
+      "articleId": "gnews_c7354d2c6844004c",
+      "headline": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil - BBC",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-25T22:07:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LSGI2TUtoX0RKSERJTG5lanhZYlo2UVMzNUxEaVBXSkh5cHNWcHZKTDh6QnBzTk52eTRKOGotR0dJRjMwTDdKZGx3d0IyVTk1MjNtamVQZGhRUkQ5ek1YZnJB0gFnQVVfeXFMT2lxRi1JeVdVaFhXa21YbGdhUzUzSGx4Um5oZUpDTFgzQ1hiWUUwWTlSQWJxdGY3bTBkMjBfeENVVDU0NTBLU05adVRLMlBBNVBrUlBFZXk3LThhTWdTOXVOUmtGbFVHYw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BBC"
     },
     {
       "articleId": "gnews_cb2bfb62c43deff3",
       "headline": "Febre do Nilo Ocidental no Brasil: casos em SP e SC confirmados em 2026 - Gazeta do Povo",
-      "headlineTranslated": "West Nile fever in Brazil: cases in SP and SC confirmed in 2026 - Gazeta do Povo",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T21:18:00+00:00",
@@ -87,13 +143,31 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Gazeta do Povo",
-      "headlineJa": "ブラジルの西ナイル熱：2026年にSPとSCの感染者が確認 - Gazeta do Povo"
+      "sourceName": "Gazeta do Povo"
+    },
+    {
+      "articleId": "gnews_1b57be21e5ad7547",
+      "headline": "MPF investiga 'grave deterioração' na saúde em comunidade Yanomami com leishmaniose - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-25T21:14:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV08teWxoOU03LVdWLUFXQmVCSHU1ZFJlRk1FanNTdUNpcmFyekZFQkNaWHJybDRjVGhJZ3lRWGEzZzROZWhTakwxNFBya0c3NEZLeTZTQ19PeFJDYlhUT0lmMXYtRTFDOE9FYXNPeDAxZHJ6Rm1FRjVVV3NnbTkyZF9sYldFTTFTRHRodmVnWFhyT1pJazV4VkdiZGxoUFNyeG1oa3k0d1A5TnNObW5nTkNfTzNTNHZRbkdOcTV6eFptb1RKbUs0NkNFVGNadkxURFVsR9IB4wFBVV95cUxNU2VCcWFJZWRWY2ZpLThad0Z1Z3ZVcDlSSF92Y1RPRV9ENDBETWFfZGYzSVhwcEozaWRXbFRsbE9wbmVXWm1USlFQT3FJV0pGZ3plbDlDaTVEUy1wdGNYeGstY2pVNG9BeEVmUVB5OER5MnFjUmVfMlg2ZHBKdDFnTkJrdWxnaW9pWGJRV1duNnVKaFoyUXVIbmVQcE9Ma0hMSDdiMHQ2ZFF6WUZZQy11SmhZbE1JTXdSTmtHRnkyRDhnSnNLbUxSY1p2MHhXUGtDMURxSGZnMXh3dEFlWkg0Zzl3dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Leishmaniasis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
     },
     {
       "articleId": "gnews_7747178ce369bc70",
       "headline": "Goiás reforça vacinação contra sarampo diante de risco de reintrodução da doença - Jornal Opção",
-      "headlineTranslated": "Goiás reinforces vaccination against measles in view of the risk of reintroduction of the disease - Jornal Opção",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T21:13:00+00:00",
@@ -110,9 +184,9 @@
       "sourceName": "Jornal Opção"
     },
     {
-      "articleId": "gnews_e4ae7506b3806d14",
-      "headline": "EUA registra duas primeiras mortes por sarampo este ano - viva.com.br",
-      "headlineTranslated": "US records first two measles deaths this year - viva.com.br",
+      "articleId": "gnews_362409e0430d04c1",
+      "headline": "EUA registram duas primeiras mortes por sarampo este ano - viva.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T20:25:00+00:00",
@@ -126,17 +200,16 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "viva.com.br",
-      "headlineJa": "米国、今年初の麻疹死亡者2名を記録 - viva.com.br"
+      "sourceName": "viva.com.br"
     },
     {
-      "articleId": "gnews_e4d560045e228485",
+      "articleId": "gnews_f394507b8a235c78",
       "headline": "TRE autoriza campanha institucional de combate à dengue durante período eleitoral - Alagoas 24 Horas",
-      "headlineTranslated": "TRE authorizes institutional campaign to combat dengue during election period - Alagoas 24 Horas",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T20:14:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWnBVSk9RSHhhOGZiQkE5Vm5zVjlSM1lFM2g3T1lSc081ZE9aWUF4MzJCcExkRktfRExZMVN3WUZ1V0Y1T2tqb0tPSkhBX3YwMG9ZekhKSTFfTzNhRFc1cUVka3hDSG83dXN2M0YyR1A2SWV5V2tFam5RLTgzbkRHTDdjWFE3dE1MYmRrWUJWamJqZjZINko2bDA5dFlmUW5najYwVEJrSjNTNlJ4MjJMNVFTMWZvX0NWVTZsVFlFTV9DOEo5dEJB0gHHAUFVX3lxTE5acFVKT1FIeGE4ZmJCQTlWbnNWOVIzWUUzaDdPWVJzTzVkT1pZQXgzMkJwTGRGS19ETFkxU3dZRnVXRjVPa2pvS09KSEFfdjAwb1l6SEpJMV9PM2FEVzVxRWRreENIbzd1c3YzRjJHUDZJZXlXa0VqblEtODNuREdMN2NYUTd0TUxiZGtZQlZqYmpmNkg2SjZsMDl0WWZRbmdqNjBUQmtKM1M2UngyMkw1UVMxZm9fQ1ZVNmxUWUVNX0M4Sjl0QkE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDVMakJpOFVGTElQNzV2Z2pORFh3U3FIRnZMMFRwSmI4bGhLUEhmQk5sQzhjMXB1Rnk3LVRFTThhYmNjc3dCcTd6aEJpSFBJSTFteUlPcVVZb2YxTUxFUzNaRU92MmRCZ0ZRR3d1Q2tFUlRITzNUc0hHalAxSkVlNExvaHFxbmxIMW9jamdqNVNORmtsRmM3WlBmWkQxQXNQS2ZvQ0R6NTdkNEprVlU5SHBZalRsMk8wQ0dJQ2JIeWVCZ9IBxwFBVV95cUxOWnBVSk9RSHhhOGZiQkE5Vm5zVjlSM1lFM2g3T1lSc081ZE9aWUF4MzJCcExkRktfRExZMVN3WUZ1V0Y1T2tqb0tPSkhBX3YwMG9ZekhKSTFfTzNhRFc1cUVka3hDSG83dXN2M0YyR1A2SWV5V2tFam5RLTgzbkRHTDdjWFE3dE1MYmRrWUJWamJqZjZINko2bDA5dFlmUW5najYwVEJrSjNTNlJ4MjJMNVFTMWZvX0NWVTZsVFlFTV9DOEo5dEJB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -146,13 +219,12 @@
         "Alagoas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "TRE、選挙期間中のデング熱対策のための組織的キャンペーンを承認 - アラゴアス24ホラス"
+      "sourceName": "Alagoas 24 Horas"
     },
     {
       "articleId": "gnews_07a46e77ad155dff",
       "headline": "Saiba o que é a Febre do Nilo Ocidental, com 4 casos no Brasil - amazonas atual",
-      "headlineTranslated": "Find out what West Nile Fever is, with 4 cases in Brazil - current Amazonas",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T19:16:49+00:00",
@@ -166,33 +238,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "amazonas atual",
-      "headlineJa": "西ナイル熱とは何なのかを調べてください。ブラジル - 現在のアマゾナス州で4件の感染者が出ています"
-    },
-    {
-      "articleId": "gnews_337fdfad424b3878",
-      "headline": "TRE/AL autoriza campanha contra dengue no período eleitoral - BNews Alagoas",
-      "headlineTranslated": "TRE/AL authorizes campaign against dengue during the election period - BNews Alagoas",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-25T18:47:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkFCTkxWcndLejM2RENWRFo3UnZSaXo4VUt3T2UyNW1pVTNvcWUyNFNibU1tSmthTUtmdmRIOTBUekQ4MHZzdEFVaHBNWV9xSXZWLWw5MzBsbmJTSF9lLWVQM3dDaEdUcXJmazBLVS1YTmV3d2w0cTBaamVnT29XVTNoZ2Z4dnlSMDlCeGkteWxQWG1DeU9LU3U4bndWUDJuRnc2QTNCU21qcGdRb0MxWWRrVzZ4WXfSAbcBQVVfeXFMTkZBQk5MVnJ3S3ozNkRDVkRaN1J2Uml6OFVLd09lMjVtaVUzb3FlMjRTYm1NbUprYU1LZnZkSDkwVHpEODB2c3RBVWhwTVlfcUl2Vi1sOTMwbG5iU0hfZS1lUDN3Q2hHVHFyZmswS1UtWE5ld3dsNHEwWmplZ09vV1UzaGdmeHZ5UjA5QnhpLXlsUFhtQ3lPS1N1OG53VlAybkZ3NkEzQlNtanBnUW9DMVlka1c2eFl3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BNews Alagoas",
-      "headlineJa": "TRE/AL、選挙期間中のデング熱対策キャンペーンを承認 - BNews Alagoas"
+      "sourceName": "amazonas atual"
     },
     {
       "articleId": "gnews_47cba94ec619c2f2",
       "headline": "Por que milhões de pessoas vão contrair sarampo em 2026 - bra1.com.br",
-      "headlineTranslated": "Why millions of people will contract measles in 2026 - bra1.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T17:23:00+00:00",
@@ -206,13 +257,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "bra1.com.br",
-      "headlineJa": "2026 年に数百万人が麻疹に罹患する理由 - bra1.com.br"
+      "sourceName": "bra1.com.br"
     },
     {
       "articleId": "gnews_438b0bf99acee6ef",
       "headline": "Sarampo mata duas pessoas não vacinadas nos Estados Unidos - DOL",
-      "headlineTranslated": "Measles kills two unvaccinated people in the United States - DOL",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T17:20:30+00:00",
@@ -226,13 +276,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "DOL",
-      "headlineJa": "米国で麻疹によりワクチン接種を受けていない2人が死亡 - DOL"
+      "sourceName": "DOL"
     },
     {
       "articleId": "gnews_2a5ed677f0caf7be",
       "headline": "Febre do Nilo Ocidental: sintomas, transmissão e casos no Brasil - Gazeta do Povo",
-      "headlineTranslated": "West Nile fever: symptoms, transmission and cases in Brazil - Gazeta do Povo",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T17:18:00+00:00",
@@ -246,13 +295,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Gazeta do Povo",
-      "headlineJa": "西ナイル熱：症状、感染、ブラジルの症例 - Gazeta do Povo"
+      "sourceName": "Gazeta do Povo"
     },
     {
       "articleId": "gnews_c8f427e13655d9f1",
       "headline": "Armadilhas para o mosquito da dengue são distribuídas em Goiânia - G1",
-      "headlineTranslated": "Dengue mosquito traps are distributed in Goiânia - G1",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T16:47:43+00:00",
@@ -267,13 +315,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱蚊取り器がゴイアニアに配布 - G1"
+      "sourceName": "G1"
     },
     {
       "articleId": "gnews_e5f1f360381a1b30",
       "headline": "São Paulo confirma primeiros casos de Febre do Nilo Ocidental da história; veja como o vírus se espalha e por que seu diagnóstico é difícil no Brasil - Correio Braziliense",
-      "headlineTranslated": "São Paulo confirms first cases of West Nile Fever in history; see how the virus spreads and why its diagnosis is difficult in Brazil - Correio Braziliense",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T16:31:50+00:00",
@@ -287,13 +334,12 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "サンパウロ、史上初の西ナイル熱の感染者を確認。ブラジルでウイルスがどのように広がるのか、そしてなぜ診断が難しいのかを知る - Correio Brasiliense"
+      "sourceName": "Correio Braziliense"
     },
     {
       "articleId": "gnews_dc903c4408ff383e",
       "headline": "EUA registram duas mortes por sarampo na Pensilvânia e acendem alerta para surto da doença - Brasil 247",
-      "headlineTranslated": "USA records two deaths from measles in Pennsylvania and raises alert for disease outbreak - Brazil 247",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T16:24:00+00:00",
@@ -307,13 +353,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Brasil 247",
-      "headlineJa": "米国、ペンシルベニア州で麻疹による2人の死亡を記録、病気の流行に警戒を強める - ブラジル247"
+      "sourceName": "Brasil 247"
     },
     {
       "articleId": "gnews_fd584b3eb11d63fa",
       "headline": "Aracati está entre os municípios do Ceará com transmissão ativa de dengue - Sinal News",
-      "headlineTranslated": "Aracati is among the municipalities in Ceará with active dengue transmission - Sinal News",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T15:58:18+00:00",
@@ -327,13 +372,12 @@
         "Ceará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Sinal News",
-      "headlineJa": "アラカティはデング熱の伝播が活発なセアラ州の自治体の一つである - シナルニュース"
+      "sourceName": "Sinal News"
     },
     {
       "articleId": "gnews_d4d81bcc3080d271",
       "headline": "HDT reforça importância da vacinação para manter Goiás protegido contra o sarampo - Tribuna do Planalto",
-      "headlineTranslated": "HDT reinforces the importance of vaccination to keep Goiás protected against measles - Tribuna do Planalto",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T15:15:00+00:00",
@@ -348,13 +392,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Tribuna do Planalto",
-      "headlineJa": "HDT、ゴイアス州を麻疹から守るためのワクチン接種の重要性を強調 - Tribuna do Planalto"
+      "sourceName": "Tribuna do Planalto"
     },
     {
       "articleId": "gnews_fa8d232cf3a1593f",
       "headline": "Por que milhões de pessoas em todo mundo vão contrair sarampo em 2026 - Extra online",
-      "headlineTranslated": "Why millions of people around the world will contract measles in 2026 - Extra online",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T15:03:12+00:00",
@@ -368,13 +411,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Extra online",
-      "headlineJa": "2026 年に世界中で何百万人もの人が麻疹に罹患する理由 - 番外編オンライン"
+      "sourceName": "Extra online"
     },
     {
       "articleId": "gnews_de7dcfadfdf1e210",
       "headline": "EUA registram primeiras mortes por sarampo em 2026 - A Gazeta do Acre",
-      "headlineTranslated": "USA records first measles deaths in 2026 - A Gazeta do Acre",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T14:45:51+00:00",
@@ -388,13 +430,12 @@
         "Acre"
       ],
       "dataSource": "Google News",
-      "sourceName": "A Gazeta do Acre",
-      "headlineJa": "米国、2026年に初の麻疹死亡者を記録 - A Gazeta do Acre"
+      "sourceName": "A Gazeta do Acre"
     },
     {
       "articleId": "gnews_2ca0bf44f3a2ad38",
       "headline": "Armadilhas para mosquito transmissor da dengue serão instaladas em Goiânia - G1",
-      "headlineTranslated": "Traps for mosquitoes that transmit dengue fever will be installed in Goiânia - G1",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T14:39:51+00:00",
@@ -409,13 +450,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "デング熱を媒介する蚊の捕獲器がゴイアニア - G1 に設置される"
+      "sourceName": "G1"
     },
     {
       "articleId": "gnews_8d9aa18c432a0505",
       "headline": "Febre do Nilo Ocidental no Brasil: entenda a doença e o risco para o país - Veja Saúde",
-      "headlineTranslated": "West Nile fever in Brazil: understand the disease and the risk for the country - Veja Saúde",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T14:27:50+00:00",
@@ -429,13 +469,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Veja Saúde",
-      "headlineJa": "ブラジルの西ナイル熱：病気と国へのリスクを理解する - Veja Saúde"
+      "sourceName": "Veja Saúde"
     },
     {
       "articleId": "gnews_67e2cb1bbdf6af52",
       "headline": "EUA registram primeiras mortes por sarampo em 2026 - CNN Brasil",
-      "headlineTranslated": "US records first measles deaths in 2026 - CNN Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T13:59:38+00:00",
@@ -449,13 +488,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "米国、2026年に初の麻疹死亡者を記録 - CNNブラジル"
+      "sourceName": "CNN Brasil"
     },
     {
       "articleId": "gnews_dea3c1530ca4147d",
       "headline": "Surto de sarampo no Brasil acende alerta para vacinação de adultos em Lajeado - Rádio Independente",
-      "headlineTranslated": "Measles outbreak in Brazil sparks alert for adult vaccination in Lajeado - Rádio Independente",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T12:46:00+00:00",
@@ -469,13 +507,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Independente",
-      "headlineJa": "ブラジルでの麻疹流行により、ラヘアドで成人への予防接種に警戒が高まる - Radio Independente"
+      "sourceName": "Rádio Independente"
     },
     {
       "articleId": "gnews_a94e1284d4af6a6c",
       "headline": "Lulinha teve três negociações frustradas no Ministério da Saúde, diz PF - tmc.com.br",
-      "headlineTranslated": "Lulinha had three frustrated negotiations at the Ministry of Health, says PF - tmc.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T11:52:23+00:00",
@@ -489,33 +526,31 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "tmc.com.br",
-      "headlineJa": "ルリーニャ氏は保健省で3回の交渉で挫折したとPFが語る - tmc.com.br"
+      "sourceName": "tmc.com.br"
     },
     {
-      "articleId": "gnews_4031ce7087e089b8",
-      "headline": "Homem asfixiado e morto na rua estava em surto pela perda do pai - Alagoas 24 Horas",
-      "headlineTranslated": "Man asphyxiated and dead on the street was in an outburst over the loss of his father - Alagoas 24 Horas",
+      "articleId": "gnews_67b74eabea6f8bba",
+      "headline": "Piauí confirma 13 mortes por dengue e quase 12 mil casos - Notícia da Manhã | CV Play - CidadeVerde.com",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-25T10:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3dqMFVnOEhWUG1QM0ZmMVJKMHB3bWYyaTJOM1dkZm5MYURHOTRpd1lLWEdydDNfQmM0cG1HejUwSFQ2YWh6SXEtd1paTkRtMzZMNlFQbVJVc2FkUWJvc0gxdGpsb1dwQkxKakhLS2lXN2JYUmk3dmZDM2w3ZVBxdEt2RXliYzdMRG5PVENrZmR4cjBtdDNGSkhuU0c4aksxVll0X09PNlRmY1ZrVXU2eNIBsAFBVV95cUxPQ3dqMFVnOEhWUG1QM0ZmMVJKMHB3bWYyaTJOM1dkZm5MYURHOTRpd1lLWEdydDNfQmM0cG1HejUwSFQ2YWh6SXEtd1paTkRtMzZMNlFQbVJVc2FkUWJvc0gxdGpsb1dwQkxKakhLS2lXN2JYUmk3dmZDM2w3ZVBxdEt2RXliYzdMRG5PVENrZmR4cjBtdDNGSkhuU0c4aksxVll0X09PNlRmY1ZrVXU2eA?oc=5",
+      "publishedTimestamp": "2026-08-25T11:03:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEtKSGVIREJ4a3R2bWdiajlsMTFIYXF5dVhVMkpibnZkdnR6V0tyakRmb3N3NnVtb2lvYVdTM3FmNWR1SXRydFB3UEhCeHdrQ3RKZzZvQTFFZ01NUHZPcXdzV3lzM21ka1I5enVKUWUxcWN0UmtOMElaYXhxeXFqRGVtcW1zM0pYeEw2VFFGMUtibVk4SENJOUljbl8?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Alagoas"
+        "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas",
-      "headlineJa": "路上で窒息死した男性、父親の死で激怒＝アラゴアス24ホラス"
+      "sourceName": "CidadeVerde.com"
     },
     {
       "articleId": "gnews_372bb47556a246ad",
       "headline": "El Niño acende alerta para dengue, problemas respiratórios e desidratação, alertam autoridades - 18horas.com.br",
-      "headlineTranslated": "El Niño raises alert for dengue fever, respiratory problems and dehydration, warn authorities - 18horas.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T03:23:43+00:00",
@@ -529,13 +564,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "18horas.com.br",
-      "headlineJa": "エルニーニョ現象でデング熱、呼吸器疾患、脱水症状に警戒、当局に警告 - 18horas.com.br"
+      "sourceName": "18horas.com.br"
     },
     {
       "articleId": "gnews_e0e5b10a11b65b11",
       "headline": "Especialista alerta para combate à dengue o ano todo - ES Brasil",
-      "headlineTranslated": "Expert warns about fighting dengue all year round - ES Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T03:10:12+00:00",
@@ -549,13 +583,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "ES Brasil",
-      "headlineJa": "専門家、一年中デング熱との戦いについて警告 - ES Brasil"
+      "sourceName": "ES Brasil"
     },
     {
       "articleId": "gnews_165fbe0a7f746dfb",
       "headline": "Casos de sarampo no Brasil alertam para a importância da vacinação - ACONTECE EM PETRÓPOLIS",
-      "headlineTranslated": "Cases of measles in Brazil warn of the importance of vaccination - HAPPENS IN PETRÓPOLIS",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T03:02:39+00:00",
@@ -569,13 +602,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "ACONTECE EM PETRÓPOLIS",
-      "headlineJa": "ブラジルでの麻疹患者、ワクチン接種の重要性を警告 - ペトロポリスで発生"
+      "sourceName": "ACONTECE EM PETRÓPOLIS"
     },
     {
       "articleId": "gnews_ccf752518a75f425",
       "headline": "H5N1: o que é a gripe aviária, que já matou milhões de aves e infectou humanos? - Exame",
-      "headlineTranslated": "H5N1: what is bird flu, which has killed millions of birds and infected humans? - Exam",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-25T00:03:12+00:00",
@@ -590,13 +622,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Exame",
-      "headlineJa": "H5N1: 何百万羽もの鳥が死に、人間にも感染した鳥インフルエンザとは何ですか? - テスト"
+      "sourceName": "Exame"
     },
     {
       "articleId": "gnews_eb45ad6fa7c12aa5",
       "headline": "Febre do Nilo: SP confirma primeiros casos no Estado; SC registra morte - Correio Braziliense",
-      "headlineTranslated": "Nile fever: SP confirms first cases in the state; SC records death - Correio Braziliense",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T23:42:00+00:00",
@@ -610,13 +641,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Correio Braziliense",
-      "headlineJa": "ナイル熱：SPが州内初の感染者を確認。 SCが死亡を記録 - コレイオ・ブラジリアン"
+      "sourceName": "Correio Braziliense"
     },
     {
       "articleId": "gnews_bcbb6f7b1ea94ba4",
       "headline": "Febre do Nilo ocidental: o que é a doença e entenda os casos registrados no Brasil - tmc.com.br",
-      "headlineTranslated": "West Nile fever: what the disease is and understand the cases recorded in Brazil - tmc.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T23:01:03+00:00",
@@ -630,13 +660,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "tmc.com.br",
-      "headlineJa": "西ナイル熱：病気とは何か、そしてブラジルで記録された症例を理解する - tmc.com.br"
+      "sourceName": "tmc.com.br"
     },
     {
       "articleId": "gnews_18df374d49f37bc7",
       "headline": "Eventos climáticos extremos impulsionam surto de doenças gastrointestinais em Goiás, alerta especialista - CBN Goiânia",
-      "headlineTranslated": "Extreme weather events drive outbreak of gastrointestinal diseases in Goiás, expert warns - CBN Goiânia",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T20:45:58+00:00",
@@ -650,13 +679,12 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "CBN Goiânia",
-      "headlineJa": "異常気象がゴイアス州で胃腸疾患の発生を促進、専門家が警告 - CBN Goiânia"
+      "sourceName": "CBN Goiânia"
     },
     {
       "articleId": "gnews_52a19c668763f126",
       "headline": "Ceará passa de 11 mil casos de dengue em 2026 e 34 municípios estão em situação de risco - Repórter Ceará",
-      "headlineTranslated": "Ceará exceeds 11 thousand cases of dengue in 2026 and 34 municipalities are at risk - Repórter Ceará",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T19:14:30+00:00",
@@ -670,13 +698,12 @@
         "Ceará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Repórter Ceará",
-      "headlineJa": "セアラ州のデング熱感染者数は2026年に1万1千人を超え、34の自治体が危険にさらされる - セアラ記者"
+      "sourceName": "Repórter Ceará"
     },
     {
       "articleId": "gnews_79523e972aaebcd8",
       "headline": "Por que a gripe aviária atacou o úbere das vacas? Cientistas encontram explicação - CompreRural",
-      "headlineTranslated": "Why did bird flu attack cows' udders? Scientists find explanation - CompreRural",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T18:58:00+00:00",
@@ -691,13 +718,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CompreRural",
-      "headlineJa": "なぜ鳥インフルエンザが牛の乳房を襲ったのでしょうか?科学者が説明を発見 - CompreRural"
+      "sourceName": "CompreRural"
     },
     {
       "articleId": "gnews_87638dff5e1caa09",
       "headline": "Goiânia reforça ação de combate ao mosquito transmissor da dengue - Portal GO 020",
-      "headlineTranslated": "Goiânia reinforces action to combat the mosquito that transmits dengue fever - Portal GO 020",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T18:35:30+00:00",
@@ -711,13 +737,12 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal GO 020",
-      "headlineJa": "ゴイアニア、デング熱を媒介する蚊と戦う活動を強化 - Portal GO 020"
+      "sourceName": "Portal GO 020"
     },
     {
       "articleId": "gnews_c17f9ae00f2aa16d",
       "headline": "Dengue avança 172% no Ceará e 34 municípios entram em alerta para risco de epidemia - Mais FM Iguatu",
-      "headlineTranslated": "Dengue is increasing by 172% in Ceará and 34 municipalities are on alert for the risk of an epidemic - Mais FM Iguatu",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T18:21:38+00:00",
@@ -728,17 +753,36 @@
       ],
       "locations": [],
       "states": [
-        "Ceará",
+        "Pará",
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mais FM Iguatu"
+    },
+    {
+      "articleId": "gnews_14081e8245d2ffdf",
+      "headline": "Goiânia instala 15 mil armadilhas contra Aedes aegypti para conter avanço da chikungunya - Diário da Manhã",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-24T18:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV25teS1lMGhSNkZ6SFNxX2U1NTcyMVM2Y2VkLWxWMlAxbzZWeDEtMGpVYTZwZG5Uck80aGNTU3FzTTBrR2ZjaEtuVjdfMkhPTWt0amRzczJjNmNfTVVObUtOQ1ExdHNHWUlqM05FTzcwdkFyemxRZ3hERWFIcmh6VDE3czlhbjdRLUZRbFkzdWZ6Qm56Q2dYblNqWkFmakZyYWxFWDhkNXhwR0wtYmgxV29vR3ZXR1Vya1lvS0pn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Mais FM Iguatu",
-      "headlineJa": "セアラ州でデング熱が172%増加、34の自治体が流行のリスクに警戒 - Mais FM Iguatu"
+      "sourceName": "Diário da Manhã"
     },
     {
       "articleId": "gnews_5b941131a193eb22",
       "headline": "Austrália confirma primeiro caso de gripe aviária H5N1 em um mamífero local - Terra",
-      "headlineTranslated": "Australia confirms first case of H5N1 bird flu in a local mammal - Earth",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T17:47:00+00:00",
@@ -753,13 +797,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "オーストラリア、地元の哺乳類でH5N1型鳥インフルエンザの初感染を確認 - Earth"
+      "sourceName": "Terra"
     },
     {
       "articleId": "gnews_6f91ab7cd657b259",
       "headline": "Sarampo acende alerta no Brasil; vacinação é principal estratégia para conter transmissão - Revista Let's Go Bahia",
-      "headlineTranslated": "Measles raises alert in Brazil; vaccination is the main strategy to contain transmission - Let's Go Bahia Magazine",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T17:44:00+00:00",
@@ -770,17 +813,16 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Bahia"
+        "Bahia",
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Revista Let's Go Bahia",
-      "headlineJa": "麻疹はブラジルで警戒を強化。ワクチン接種は感染を封じ込めるための主な戦略です - Let's Go Bahia Magazine"
+      "sourceName": "Revista Let's Go Bahia"
     },
     {
       "articleId": "gnews_1a2929f228d3c906",
       "headline": "Casos de dengue aumentam 141% no CE e 34 cidades têm 'risco de epidemia' - Diário do Nordeste",
-      "headlineTranslated": "Dengue cases increase 141% in CE and 34 cities have 'risk of epidemic' - Diário do Nordeste",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T17:00:41+00:00",
@@ -794,13 +836,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Diário do Nordeste",
-      "headlineJa": "西欧諸国でデング熱感染者が141%増加、34都市で「流行のリスク」 - Diário do Nordeste"
+      "sourceName": "Diário do Nordeste"
     },
     {
       "articleId": "gnews_4a7ff7361b95dd0c",
       "headline": "Dengue, zika, chikungunya e Oropouche: veja como se prevenir em Roraima - Portal No Ar!",
-      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: see how to prevent it in Roraima - Portal No Ar!",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T15:36:54+00:00",
@@ -808,22 +849,21 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya",
-        "Zika",
         "Dengue",
-        "Oropouche"
+        "Oropouche",
+        "Zika"
       ],
       "locations": [],
       "states": [
         "Roraima"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal No Ar!",
-      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：ロライマで予防する方法をご覧ください - Portal No Ar!"
+      "sourceName": "Portal No Ar!"
     },
     {
       "articleId": "gnews_9b0ca4a17b72c3ad",
       "headline": "Goiânia começa instalação de 15 mil armadilhas contra o Aedes aegypti - Jornal Opção",
-      "headlineTranslated": "Goiânia begins installation of 15 thousand traps against Aedes aegypti - Jornal Opção",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T15:31:00+00:00",
@@ -837,13 +877,12 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Opção",
-      "headlineJa": "ゴイアニア、ネッタイシマカ対策に1万5千台のわな設置を開始 - Jornal Opção"
+      "sourceName": "Jornal Opção"
     },
     {
       "articleId": "gnews_783fe89cc94abbab",
       "headline": "Saúde de Treze Tílias alerta para recirculação do sarampo no Brasil e reforça importância da vacinação - Rádio Tropical FM 99.1",
-      "headlineTranslated": "Saúde de Treze Tílias warns of the recirculation of measles in Brazil and reinforces the importance of vaccination - Rádio Tropical FM 99.1",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T14:46:00+00:00",
@@ -857,13 +896,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Tropical FM 99.1",
-      "headlineJa": "サウデ・デ・トレゼ・ティリアス氏、ブラジルでの麻疹の再流行を警告し、ワクチン接種の重要性を強調 - ラジオ・トロピカルFM 99.1"
+      "sourceName": "Rádio Tropical FM 99.1"
     },
     {
       "articleId": "gnews_7052ce234c77c698",
       "headline": "Piauí chega a 15 mortes por dengue em 2026, aponta Sesapi - GP1",
-      "headlineTranslated": "Piauí reaches 15 deaths from dengue in 2026, says Sesapi - GP1",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T14:23:35+00:00",
@@ -877,13 +915,12 @@
         "Piauí"
       ],
       "dataSource": "Google News",
-      "sourceName": "GP1",
-      "headlineJa": "セサピ氏、ピアウイ氏は2026年にデング熱による死亡者が15人に達すると発表 - GP1"
+      "sourceName": "GP1"
     },
     {
       "articleId": "gnews_8ba2744e17843ac5",
       "headline": "Gripe aviária H5N1 é detectada pela primeira vez em mamífero na Austrália - Portal Agro2",
-      "headlineTranslated": "H5N1 bird flu is detected for the first time in a mammal in Australia - Portal Agro2",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T13:45:09+00:00",
@@ -898,13 +935,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Agro2",
-      "headlineJa": "H5N1型鳥インフルエンザがオーストラリアで初めて哺乳類で検出される - Portal Agro2"
+      "sourceName": "Portal Agro2"
     },
     {
       "articleId": "gnews_90800bdbb04245ce",
       "headline": "Palmas adota nova tecnologia para combater dengue, zika e chikungunya; veja como funciona - Gazeta do Cerrado",
-      "headlineTranslated": "Palmas adopts new technology to combat dengue, zika and chikungunya; see how it works - Gazeta do Cerrado",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T13:15:19+00:00",
@@ -912,8 +948,8 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya",
-        "Zika",
-        "Dengue"
+        "Dengue",
+        "Zika"
       ],
       "locations": [],
       "states": [
@@ -921,13 +957,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Gazeta do Cerrado",
-      "headlineJa": "パルマスはデング熱、ジカ熱、チクングニア熱と戦うために新しい技術を採用しています。仕組みを見てみましょう - ガゼタ ド セラード"
+      "sourceName": "Gazeta do Cerrado"
     },
     {
       "articleId": "gnews_88e34b0b9132b455",
       "headline": "Sarampo volta a preocupar nas Américas: entenda os riscos e a importância da vacinação - Muzambinho.com",
-      "headlineTranslated": "Measles is once again a concern in the Americas: understand the risks and importance of vaccination - Muzambinho.com",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T13:08:04+00:00",
@@ -941,13 +976,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Muzambinho.com",
-      "headlineJa": "麻疹はアメリカ大陸で再び懸念されています：ワクチン接種のリスクと重要性を理解してください - Muzambinho.com"
+      "sourceName": "Muzambinho.com"
     },
     {
       "articleId": "gnews_d9a6c8514bd8ec9c",
       "headline": "Caso inédito de gripe aviária H5N1 em mamífero é confirmado na Austrália - CompreRural",
-      "headlineTranslated": "Unprecedented case of H5N1 bird flu in a mammal confirmed in Australia - CompreRural",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T12:51:32+00:00",
@@ -962,13 +996,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CompreRural",
-      "headlineJa": "オーストラリアで前例のない哺乳類のH5N1型鳥インフルエンザ感染者が確認 - CompreRural"
+      "sourceName": "CompreRural"
     },
     {
       "articleId": "gnews_f9771af491c595d8",
       "headline": "Dengue, zika, chikungunya e Oropouche: saiba diferenças e riscos da automedicação - Roraima em Tempo",
-      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: find out the differences and risks of self-medication - Roraima em Tempo",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T12:26:00+00:00",
@@ -976,22 +1009,21 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya",
-        "Zika",
         "Dengue",
-        "Oropouche"
+        "Oropouche",
+        "Zika"
       ],
       "locations": [],
       "states": [
         "Roraima"
       ],
       "dataSource": "Google News",
-      "sourceName": "Roraima em Tempo",
-      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：自己治療の違いとリスクを知る - Roraima em Tempo"
+      "sourceName": "Roraima em Tempo"
     },
     {
       "articleId": "gnews_4b76d2c35cf39400",
       "headline": "Dengue, zika, chikungunya e Oropouche: saiba diferenças e riscos da automedicação - Ceará Agora",
-      "headlineTranslated": "Dengue, zika, chikungunya and Oropouche: find out the differences and risks of self-medication - Ceará Agora",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T12:20:24+00:00",
@@ -999,22 +1031,21 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya",
-        "Zika",
         "Dengue",
-        "Oropouche"
+        "Oropouche",
+        "Zika"
       ],
       "locations": [],
       "states": [
         "Ceará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Ceará Agora",
-      "headlineJa": "デング熱、ジカ熱、チクングニア熱、オロポーチ：自己治療の違いとリスクを知る - Ceará Agora"
+      "sourceName": "Ceará Agora"
     },
     {
       "articleId": "gnews_49f932b7f9e2d54b",
       "headline": "Sarampo volta a acender alerta no Brasil e vacinação segue como principal forma de prevenção - Nill Junior",
-      "headlineTranslated": "Measles raises awareness again in Brazil and vaccination remains the main form of prevention - Nill Junior",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-24T11:04:03+00:00",
@@ -1028,8 +1059,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Nill Junior",
-      "headlineJa": "ブラジルでは麻疹への意識が再び高まっているが、予防接種は依然として主要な予防手段である - ニル・ジュニア"
+      "sourceName": "Nill Junior"
     }
   ]
 }
