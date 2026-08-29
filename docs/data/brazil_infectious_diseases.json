@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T19:56:03.600726+00:00",
+  "generated_at": "2026-08-29T00:32:35.728365+00:00",
   "date_range": {
-    "start": "2026-08-26T19:56:03.600726+00:00",
-    "end": "2026-08-28T19:56:03.600726+00:00"
+    "start": "2026-08-27T00:32:35.728365+00:00",
+    "end": "2026-08-29T00:32:35.728365+00:00"
   },
-  "total_articles": 57,
+  "total_articles": 54,
   "state_summary": {
-    "São Paulo": 18,
-    "Brasil (estado não identificado)": 17,
-    "Goiás": 10,
-    "Pará": 14,
+    "Brasil (estado não identificado)": 16,
+    "São Paulo": 17,
+    "Goiás": 9,
+    "Pará": 15,
     "Paraná": 1,
     "Roraima": 1,
     "Rio Grande do Norte": 1,
@@ -17,17 +17,36 @@
     "Santa Catarina": 1,
     "Sergipe": 1,
     "Pernambuco": 2,
-    "Mato Grosso do Sul": 1,
-    "Ceará": 1
+    "Mato Grosso do Sul": 1
   },
   "disease_summary": {
-    "Measles": 29,
-    "Dengue": 15,
+    "Measles": 28,
+    "Dengue": 14,
+    "Leptospirosis": 1,
     "Zika": 3,
     "Chikungunya": 4,
-    "Doença infecciosa (não especificada)": 13
+    "Doença infecciosa (não especificada)": 11
   },
   "articles": [
+    {
+      "articleId": "gnews_8730a3b78cacdef2",
+      "headline": "Brasil mantém ações de resposta ao sarampo e reforça importância da vacinação - MINUTO MT",
+      "headlineTranslated": "Brazil maintains measles response actions and reinforces the importance of vaccination - MINUTO MT",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-28T20:33:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM015cWhDajlxWDhzRUtvZ0s3dzFPUjhzZGQwVS15WHF6TVprVWFYQnF4TGlZLUVGOG51Z192T2FQNnQyWjYtRC1qSURieWI3MmJJR3p4ckkwMzE4Y2ZyTWx3SlRnUUZSVUFUT2NHbzBBaWdZVVB6cE5nYm5ZNV8wOXY3cWk5bklyQmM3aER5YXpkVW04UHczQXVoUVEzeWNWeXppUWFnWnlGdml2?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "MINUTO MT"
+    },
     {
       "articleId": "gnews_2c339eec23ab7a18",
       "headline": "Sarampo avança em São Paulo e preocupa autoridades sobre cobertura vacinal no Rio - ErreJota Notícias",
@@ -45,27 +64,7 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "ErreJota Notícias",
-      "headlineJa": "サンパウロで麻疹が感染拡大、リオでのワクチン接種率を当局が懸念 - ErreJota Notícias"
-    },
-    {
-      "articleId": "gnews_a42d6a995151daa3",
-      "headline": "Brasil mantém ações de resposta ao sarampo e reforça importância da vacinação — Ministério da Saúde - www.gov.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-28T18:58:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb0lxaW51NmpkVkthLVFLdkhlVklmVkVPaFpIbElUTVozVlB4T0RET2YxYUpiMm9ramdjVGhUQThVWWR5Vm5RcklkeDJGa2ZsWGxLZGxJcEdpTHVuVGw1dVR3WFliZnNpa0xTMFRTOGNJRkk4UFZQVDV4WDhKcVlVNHNQSWtBaDdUaXNhR2cxT3hmRGM3OW9RUUZ6VWM5QVY2ZThPem14YlFOYkxMZ0ozTXQzSnZUbEhNT1psdFdCVUpsM2F2ZFpPQTdHVkNRNEVyVUxMZFVLTVc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "www.gov.br"
+      "sourceName": "ErreJota Notícias"
     },
     {
       "articleId": "gnews_596e0e10769075e1",
@@ -104,6 +103,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal PaNoRaMa"
+    },
+    {
+      "articleId": "gnews_57e888697faccc09",
+      "headline": "De leptospirose a problemas respiratórios: SUS alerta para doenças relacionadas ao El Niño em cada parte do Brasil - SCC10",
+      "headlineTranslated": "From leptospirosis to respiratory problems: SUS warns of illnesses related to El Niño in every part of Brazil - SCC10",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-28T17:58:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdE45Qm8xTUZ5Wnd5TEpFUGxMUTVlUDJyMHF5VGdqbzlDOTd1elBNaUF1NUdyUHJ1RktCN2JwN2c2R2FOazlOc1pUTlItbklDTFhWRk1DSlE2Z05RcVZhUEZfM0lSYTU0SjJiTFJFNEI2WEdqeVpDdkswY3BjRlNQc3lzdDJnTHpVTGplWkNnanNWbDU0MVFvS2hZQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Leptospirosis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SCC10"
     },
     {
       "articleId": "gnews_03e005ebdf04c3ec",
@@ -153,17 +171,16 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXZ2UEdfU2paSUVlZVAtSlQ3TU9rMUNBak96c3Z0bG8tbW1EQ2RCTm9TZGFKX1pfTk1KNk9SNDVUNk5IdVpERzlad1JMeTVrOXZQdGNFbW1NejN3cnllWDBEZ1N1SjBmUUQxa3hUbnp0UV91TkY0WmlZVWFSdll3NU9xVEphaW0zOElNb21yQVNYUmZkN0kxMnVIN20tVEpJVnVKX2VB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Dengue",
         "Zika",
-        "Chikungunya",
-        "Dengue"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal O+Positivo -",
-      "headlineJa": "ゴイアス州では暑さがデング熱、ジカ熱、チクングニア熱の感染爆発を引き起こす可能性がある - Jornal O+Positivo -"
+      "sourceName": "Jornal O+Positivo -"
     },
     {
       "articleId": "gnews_4db8371a90bb3dbb",
@@ -206,7 +223,7 @@
     {
       "articleId": "gnews_8e991ca9c562068c",
       "headline": "Lobista tratou com ex-chefe de gabinete de Lula sobre tentativa de acelerar compra de kits de dengue, diz PF - Folha de S.Paulo",
-      "headlineTranslated": "",
+      "headlineTranslated": "Lobbyist spoke with Lula's former chief of staff about an attempt to speed up the purchase of dengue kits, says PF - Folha de S.Paulo",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-28T02:00:00+00:00",
@@ -225,7 +242,7 @@
     {
       "articleId": "gnews_1323f253c3eeb7c9",
       "headline": "Hospital público do RN tem surto de bactérias e oito mortes entre pacientes - ICL Notícias",
-      "headlineTranslated": "Public hospital in RN has bacterial outbreak and eight deaths among patients - ICL Notícias",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-28T00:49:41+00:00",
@@ -239,8 +256,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "ICL Notícias",
-      "headlineJa": "RNの公立病院で細菌感染が発生、患者8人死亡 - ICL Notícias"
+      "sourceName": "ICL Notícias"
     },
     {
       "articleId": "gnews_d1616afc3b77f290",
@@ -259,12 +275,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Superinteressante"
+      "sourceName": "Superinteressante",
+      "headlineJa": "国内で蔓延し、1人が死亡したウイルスについて知っておくべきこと - 非常に興味深い"
     },
     {
       "articleId": "gnews_e1b078ab14696b4a",
       "headline": "Sarampo de volta ao Brasil? - Cristófoli Equipamentos de Biossegurança",
-      "headlineTranslated": "Measles back in Brazil? - Cristófoli Biosafety Equipment",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T22:02:22+00:00",
@@ -283,7 +300,7 @@
     {
       "articleId": "gnews_0e405ddba3aca6c1",
       "headline": "Três novas infecções foram registradas na capital; pacientes não tinham histórico de vacinação - PDNews",
-      "headlineTranslated": "",
+      "headlineTranslated": "Three new infections were registered in the capital; patients had no vaccination history - PDNews",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T20:26:06+00:00",
@@ -297,13 +314,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "PDNews",
-      "headlineJa": "首都では新たに3人の感染者が記録された。患者にはワクチン接種歴がなかった - PDNews"
+      "sourceName": "PDNews"
     },
     {
       "articleId": "gnews_a9eb6e407987876a",
       "headline": "Surto de sarampo em São Paulo alerta Curitiba para necessidade da vacinação - Bem Paraná",
-      "headlineTranslated": "",
+      "headlineTranslated": "Measles outbreak in São Paulo alerts Curitiba to the need for vaccination - Bem Paraná",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T20:23:00+00:00",
@@ -331,9 +347,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSUw1cGhoUkpZLXM4UVNabllJZXg2LUdDOUQycTE4cVlqeU9Jdk5kLUl4dEFUNktjQkJmaTcwWkhuaTJMQkpmQmpESWFtb09QMk5mNkR2Y25Cd3puSDQyNFdYVlE2cGRrNjR2QXN1TnMyNHluLWJjQTNPNkk2Wk1BbVFoRWRuSHBTa2VROUdoWm5mN0ZFbnZkMDhyT0pzQnZxMXgydWxKaGtXUk56QUtwWVh5d1FYZUVmeVlyaE5qZWpsVTYwTGN2M0cyUjBJMnZqVTNoT2ZwVGpuQzFIckJ2b0Z5ZTBoeTc3WUJxc3dLb9IB7wFBVV95cUxNSUw1cGhoUkpZLXM4UVNabllJZXg2LUdDOUQycTE4cVlqeU9Jdk5kLUl4dEFUNktjQkJmaTcwWkhuaTJMQkpmQmpESWFtb09QMk5mNkR2Y25Cd3puSDQyNFdYVlE2cGRrNjR2QXN1TnMyNHluLWJjQTNPNkk2Wk1BbVFoRWRuSHBTa2VROUdoWm5mN0ZFbnZkMDhyT0pzQnZxMXgydWxKaGtXUk56QUtwWVh5d1FYZUVmeVlyaE5qZWpsVTYwTGN2M0cyUjBJMnZqVTNoT2ZwVGpuQzFIckJ2b0Z5ZTBoeTc3WUJxc3dLbw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Dengue",
         "Zika",
-        "Chikungunya",
-        "Dengue"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -345,7 +361,7 @@
     {
       "articleId": "gnews_c27f048cff32f918",
       "headline": "Hospital público do Rio Grande do Norte tem surto de bactérias e oito mortes entre pacientes - redeutv.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "Public hospital in Rio Grande do Norte has bacterial outbreak and eight deaths among patients - redeutv.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T19:50:00+00:00",
@@ -359,12 +375,13 @@
         "Rio Grande do Norte"
       ],
       "dataSource": "Google News",
-      "sourceName": "redeutv.com.br"
+      "sourceName": "redeutv.com.br",
+      "headlineJa": "リオグランデ・ド・ノルテ州の公立病院で細菌が発生し、患者8人が死亡 - redeutv.com.br"
     },
     {
       "articleId": "gnews_94495d4878ba6d9f",
       "headline": "El Niño pode acelerar ciclo do Aedes e agravar cenário da dengue em Goiás, afirma SES - Jornal Opção",
-      "headlineTranslated": "",
+      "headlineTranslated": "El Niño could accelerate the Aedes cycle and worsen the dengue scenario in Goiás, says SES - Jornal Opção",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T19:36:00+00:00",
@@ -378,7 +395,8 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Opção"
+      "sourceName": "Jornal Opção",
+      "headlineJa": "エルニーニョはヤブカのサイクルを加速させ、ゴイアス州のデング熱シナリオを悪化させる可能性があるとSES - Jornal Opçãoが指摘"
     },
     {
       "articleId": "gnews_3910bc2cf2b76506",
@@ -435,12 +453,13 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Mais Goiás"
+      "sourceName": "Mais Goiás",
+      "headlineJa": "エルニーニョがゴイアス州で警戒を強化、デング熱感染者の新たな増加が加速する可能性 - マイス・ゴイアス"
     },
     {
       "articleId": "gnews_1347440691c40dad",
       "headline": "Sarampo volta a preocupar após explosão de casos nos EUA; veja sintomas e riscos da doença - Jornal Opção",
-      "headlineTranslated": "Measles is once again a concern after an explosion of cases in the USA; see symptoms and risks of the disease - Jornal Opção",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T18:39:00+00:00",
@@ -454,7 +473,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Opção"
+      "sourceName": "Jornal Opção",
+      "headlineJa": "米国での感染者数の爆発的な増加を受けて、麻疹が再び懸念されています。病気の症状とリスクを確認する - Jornal Opção"
     },
     {
       "articleId": "gnews_0affa95be23052f1",
@@ -473,12 +493,13 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "ND Mais"
+      "sourceName": "ND Mais",
+      "headlineJa": "サンパウロで麻疹が拡大、感染者数は26人に達する。ワクチン接種が必要な人を確認 - ND 詳細"
     },
     {
       "articleId": "gnews_1ce56960e901134c",
       "headline": "São Paulo chega a 26 casos de sarampo em 2026 e reforça alerta para vacinação - Rádio Manchete Rio",
-      "headlineTranslated": "",
+      "headlineTranslated": "São Paulo reaches 26 cases of measles in 2026 and reinforces alert for vaccination - Rádio Manchete Rio",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T18:18:00+00:00",
@@ -498,7 +519,7 @@
     {
       "articleId": "gnews_d0769cdac9c30401",
       "headline": "São Paulo chega a 26 casos de sarampo em 2026 - maringaatual.com.br",
-      "headlineTranslated": "",
+      "headlineTranslated": "São Paulo reaches 26 measles cases in 2026 - maringaatual.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-27T17:46:00+00:00",
@@ -512,8 +533,7 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "maringaatual.com.br",
-      "headlineJa": "サンパウロでは、2026年にはしかの感染者が26人に達する - maringaatual.com.br"
+      "sourceName": "maringaatual.com.br"
     },
     {
       "articleId": "gnews_f36391977d809291",
@@ -532,7 +552,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Estadão"
+      "sourceName": "Estadão",
+      "headlineJa": "SPでは麻疹が進行中: 症例数の増加がいつ止まるかを予測することは可能ですか? - エスタドン"
     },
     {
       "articleId": "gnews_fa542c93ae645692",
@@ -551,7 +572,8 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Diário do Grande ABC"
+      "sourceName": "Diário do Grande ABC",
+      "headlineJa": "サンパウロでは、2026年にはしかの症例数が26人に達する |ディアリオ ド グランデ ABC - ニュースと情報 - ディアリオ ド グランデ ABC"
     },
     {
       "articleId": "gnews_f92885a5fe2de323",
@@ -582,15 +604,16 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbS1lMlVjbG95WHJkRWNTNHRacUIyYkxSa0JOQ1hyYk1KQ3pXdzZWbDZacjBQaS0ySVdTMV9kWnljVWpUNS1zazFxbTZLdnFMUlh3bXRNQnhWVm9DYVF1U0hMXzhTVkF6ODNOVXVIZ1lxZ2xxV0RvTFRGclFvTV92V2JOekxPLXBmeHdkLXEzN1NhWFJxYTdkdUpBNTM4OGVLRXNnMzRJTjVFdzZtUFJjRm5QZnBsVkNKVzFqLXEtSE0wWG1FeWRBOWl3TThFUQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
-        "Dengue"
+        "Dengue",
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "CBN Goiânia"
+      "sourceName": "CBN Goiânia",
+      "headlineJa": "デング熱とチクングニア熱の感染者数はゴイアス州のエルニーニョの影響の一つかもしれない - CBN Goiânia"
     },
     {
       "articleId": "gnews_329375c7b9a851be",
@@ -609,7 +632,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "MINUTO MT"
+      "sourceName": "MINUTO MT",
+      "headlineJa": "デング熱との闘いはEDLの導入によって強化される - MINUTO MT"
     },
     {
       "articleId": "gnews_992997d08bf28d07",
@@ -679,9 +703,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObGdPdWZjeHY3NU9jRUlCUWNQZlowdWU1eGJTN0hlVGdGYWtKalpqR3V6Ykw4OHRjbTVIb0xsOFJ2LWZBeDVrR1RUOTlxbk10LWU1eWRZVEdUQVZzcldvZXlpbEtEeUE2eUVDaFRYU3Z6bmlpRzk0OW5tdWc2TGZCM2pGYlMzWmNfQktJUDB6UVVEOHZodFpEWUVhU0hxdHJnNFQ4VmdxRlI5MEFsVE1yLTVEYUI4Vmp6eEczdTcxdFp2T2U1UGtnY2Q2MFotX0NfV3hJSG1ZMlFoRU0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Dengue",
         "Zika",
-        "Chikungunya",
-        "Dengue"
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -726,7 +750,8 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "band.com.br"
+      "sourceName": "band.com.br",
+      "headlineJa": "麻疹：SP州で確認された感染者数は26人に増加 - Band.com.br"
     },
     {
       "articleId": "gnews_31ca67bbd1f3d29e",
@@ -742,8 +767,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Sergipe"
+        "Sergipe",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Aracaju Magazine"
@@ -762,8 +787,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Pernambuco"
+        "Pernambuco",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco"
@@ -782,8 +807,8 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Pernambuco"
+        "Pernambuco",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco"
@@ -1058,82 +1083,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "SpaceMoney"
-    },
-    {
-      "articleId": "gnews_14560c0eb63f0393",
-      "headline": "São Paulo mantém vacinação contra sarampo até 1º de setembro - Folha de S.Paulo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T23:08:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHZsUkJ2Q25BcmhUQTNWTmR4dmdNUEZlUGdkZElVUURnYXNIS1A5VXZSWF9tTkp6UUtlNWhhU1IwZnJkanA5UHJKVXRNWDYxSWx4bDZ6Ul9tZHJQZWJaeTh5b3BiR2xiS1Y2NEhVLThKaFFuRzZNb3cwN3lQQXRjaEd6Rlpqbks2bWU5YnlZSzVLUHRhejdGbUx2N0hXQ05Ua0Ziamk2U18xTnZabG5zaV9YcC1KT2otdlVoMkFR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de S.Paulo"
-    },
-    {
-      "articleId": "gnews_1b2c2cff38a4107f",
-      "headline": "Casos de dengue aumentam 125% no Ceará - G1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T22:32:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGlsOWthdGJXWER2V21Tbm9YdGg4SlItS2FfX3ZBVzRqTkZfUnM0cWVaLVRBejJKeEdTLXVQOHhiSGdfSWE3Wk9hN1BUWjFjVmtRMnF4Ykx4aWtLdzdPOWMtaGxQUWRnLVNXcnJqakZ3S1c1QVEyUHRXbW8wd1ZkMG1KRUFIc1psVklBclB2bm9XTG8yU0lBVFV3eGtCZzFTdnphS0U2TGo2Mkp2eEdnTTZMQWpHYnItUUphRNIBvAFBVV95cUxOUGlsOWthdGJXWER2V21Tbm9YdGg4SlItS2FfX3ZBVzRqTkZfUnM0cWVaLVRBejJKeEdTLXVQOHhiSGdfSWE3Wk9hN1BUWjFjVmtRMnF4Ykx4aWtLdzdPOWMtaGxQUWRnLVNXcnJqakZ3S1c1QVEyUHRXbW8wd1ZkMG1KRUFIc1psVklBclB2bm9XTG8yU0lBVFV3eGtCZzFTdnphS0U2TGo2Mkp2eEdnTTZMQWpHYnItUUphRA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_05db89c02534a066",
-      "headline": "Jovem é imobilizado com taser após fazer mãe refém durante surto em Aragarças - Mais Goiás",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T21:14:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLVpsbzdQX1JGSTRCQy1TOGU2blFHZnR2NE9salhmc1J3SVF5R3VpMUNFdWNCR2xudEN3LXU4UHpTVkF4YlBxc0UwblROejhqcm8wcHNLeGIxbWRKUXFwSEl0RXV2ZmxRYnFLV05VNXBmYnVYeTJkdnEtX1I0dFhuNllOczhaZVRLeDg3ajBsakZSVGVGWmZOcnZJeEhEMU50TDNReHVDUTNwc05HNW53ai13dGJiUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Mais Goiás"
-    },
-    {
-      "articleId": "gnews_11abdb3cdbeb91e3",
-      "headline": "Febre do Nilo Ocidental: o que é a doença que voltou a preocupar o Brasil - MEON",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-26T21:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3VxN29qUHdVVDZOQzBVMVpXWnF5QXBhNkJxREgyeUIyc3MzaDhRY0hkb3F6OXcwNWVGUDF4MkhLQ3R3MzRWeHR3Q0MxUEpkd291WEN4MktrRUJia0t3Y2cxNEp1azQ2aEZ3ODBPM2RyX1FaSzVSSE1lb3BReXZNTFBkSDYtdUtyeFR3d3pvclMxd1VNbEF6UnY4MlZEaTVRS0JseVlNa2dlb01EWUR2aWhR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "MEON"
     }
   ]
 }
