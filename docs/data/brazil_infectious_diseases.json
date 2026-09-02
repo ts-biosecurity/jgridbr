@@ -1,29 +1,68 @@
 {
-  "generated_at": "2026-09-02T12:36:07.266772+00:00",
+  "generated_at": "2026-09-02T19:22:15.436530+00:00",
   "date_range": {
-    "start": "2026-08-31T12:36:07.266772+00:00",
-    "end": "2026-09-02T12:36:07.266772+00:00"
+    "start": "2026-08-31T19:22:15.436530+00:00",
+    "end": "2026-09-02T19:22:15.436530+00:00"
   },
-  "total_articles": 17,
+  "total_articles": 20,
   "state_summary": {
-    "São Paulo": 4,
+    "Brasil (estado não identificado)": 11,
+    "São Paulo": 3,
     "Tocantins": 1,
+    "Pará": 5,
     "Santa Catarina": 1,
     "Rio Grande do Sul": 2,
-    "Pará": 4,
-    "Brasil (estado não identificado)": 7,
-    "Goiás": 1,
-    "Piauí": 1
+    "Goiás": 1
   },
   "disease_summary": {
-    "Measles": 8,
+    "Doença infecciosa (não especificada)": 4,
+    "Measles": 9,
     "Dengue": 4,
-    "Doença infecciosa (não especificada)": 3,
-    "Meningitis": 1,
+    "Meningitis": 2,
     "Influenza": 1,
     "Avian Influenza": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_1d2ba97072be0590",
+      "headline": "Secretaria de Saúde confirma infecções na capital e mantém vacinação ampliada em três distritos da zona norte - PDNews",
+      "headlineTranslated": "Department of Health confirms infections in the capital and maintains expanded vaccination in three districts in the north - PDNews",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T18:55:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVc1TkFCRGRxYWo5OFFoOW44LW00d2trZFhEamxpUEZua1Jhc1Z3NEpvUlBpb2ZKT0N5d0JSU2o3LW1HNUIwVUV0Ry1yUkw1MHBESTA1U1pFbGNIellzMVMzTjdULUlOdk10eTRVV0dWVVFZWDlIM21talp5YW5Ia0FNejFHVVMyYTVQQjY5S1VXTURpWmZ4aHJSSk9yY0pZWXNWVG9GN1bSAa4BQVVfeXFMUEkteE9aTnUybk4zejFFNlRpdG5qcWxGemU0OHlvZUdFWmY1eXFWenZRdnRxT1FuUmFhUEg3YmN3a0t4eUIza2pRZEY3ak10Tk9CeGZOZ3lvbl9GVEVFZ2tQUDFrN1JzNlJLekM1ZmQxLXdtckliNHVFM0txbkN4S0FqTm1qa25MUnExSjBfdHZzYk05bHdFeHdTM1FQWVZnTm1BdlBaTEE0LTBPZVlB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PDNews",
+      "headlineJa": "保健省、首都圏での感染を確認、北部3地区で拡大ワクチン接種を継続 - PDニュース"
+    },
+    {
+      "articleId": "gnews_cecca677d410a957",
+      "headline": "Brasil inicia testes em humanos da primeira vacina nacional feita com tecnologia do RNA - bra1.com.br",
+      "headlineTranslated": "Brazil begins human trials of the first national vaccine made with RNA technology - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T12:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFktLW1TUklNN0NWNHJuT1RBVW50ODVtT3FsSzI5SjVWNjBPT2xPazRPc0RkenFMTXpETEo0VUNpZDBNaVRBc2d6S0tmRllabXFkWDBlVGV4c3o4RkNnakx1dTJrb3NRUnhOS0x4WnVLT3VzbjBZVTY1OURiWVRMbXR4ZnkxZmFaa09WVTZTNHNqT0oyYmdnRzFTVWE2Nm9TSTNNa0ltQzRTdlhycEE5MElGNWtldlZIYlFaSVhtTUR0X0UxUUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "ブラジル、RNA技術で作られた初の国家ワクチンの人体治験を開始 - bra1.com.br"
+    },
     {
       "articleId": "gnews_a08e3f69e2f09451",
       "headline": "São Paulo confirma 28 casos de sarampo até o momento; maioria dos pacientes não tinha vacinação completa - Francês News",
@@ -41,12 +80,13 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Francês News"
+      "sourceName": "Francês News",
+      "headlineJa": "サンパウロではこれまでに28人の麻疹感染者が確認されている。ほとんどの患者は完全にワクチン接種を受けていなかった - フランスのニュース"
     },
     {
-      "articleId": "gnews_b8d9ffb9d872e240",
-      "headline": "Dengue volta ao radar em Colinas e no Tocantins: veja sintomas, sinais de alerta e situação da doença no Estado - diariotocantinense.com.br",
-      "headlineTranslated": "Dengue is back on the radar in Colinas and Tocantins: see symptoms, warning signs and disease situation in the State - diariotocantinense.com.br",
+      "articleId": "gnews_6f6eb181aa3b4c67",
+      "headline": "Dengue volta ao radar em Colinas e no Tocantins: veja sintomas, sinais de alerta e situação da doença no Estado - Diário Tocantinense",
+      "headlineTranslated": "Dengue is back on the radar in Colinas and Tocantins: see symptoms, warning signs and disease situation in the State - Diário Tocantinense",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-02T12:06:56+00:00",
@@ -60,47 +100,28 @@
         "Tocantins"
       ],
       "dataSource": "Google News",
-      "sourceName": "diariotocantinense.com.br",
-      "headlineJa": "コリナスとトカンティンスでデング熱が再び注目を集めています: 州内の症状、危険信号、病気の状況をご覧ください - diariotocantinense.com.br"
+      "sourceName": "Diário Tocantinense",
+      "headlineJa": "コリナスとトカンティンスでデング熱が再び注目を集めている：州内の症状、危険信号、病気の状況を確認 - ディアリオ・トカンティネンセ"
     },
     {
-      "articleId": "gnews_e92a6fc7ee58b49d",
-      "headline": "São Paulo chega a 28 casos de sarampo no ano; 20 não tomaram vacina - tmc.com.br",
-      "headlineTranslated": "São Paulo reaches 28 cases of measles per year; 20 did not take the vaccine - tmc.com.br",
+      "articleId": "gnews_e288b44659bc7d7f",
+      "headline": "Sobe para 28 o número de casos confirmados de sarampo no estado de SP; capital tem 90% dos casos da doença - G1",
+      "headlineTranslated": "The number of confirmed measles cases in the state of SP rises to 28; capital has 90% of cases of the disease - G1",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T11:51:45+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRndUclJndnV1eXROYlQ1eFhYc2ZIdUlBTm5KVFFkVXZ4VHpXZjFCSzBta21zcXhaVVhLelZfZTQ3anV6Q2Y1NnRwRDhzdFIxcFNrdVlha0dMZ0szMWxmS05iV2JFQWo0QXlZX1BCNGFPbkFsQUFhOVRwMjBoYWd5cndSY05fbUJo?oc=5",
+      "publishedTimestamp": "2026-09-02T10:37:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYU9tdXBmSGg5VlNxNmNKRUFPRVBYa2kyN1ZtQ3NQblFjd2ZCVXIwTkx4bm13bUR4Q2RURjRzMWhWMFBuUkhmNVNTcnpmTmxKdWpVRGdGTUxndDdzOWdabGZnczVzN2VPWXBBRGM3OWJTTV9YYkR3dnRlZ3JmV3p2UmpnQ2dBNzBrYjFxN2c2a0JURkN3TERYUWN3MEJqZ0hRUHROQTBpTHBJVFZ2WndZb0JsTVJndjlnQVFFWmtkS0p5dXk4NHpWLWRFV3NwY3lDS0FFeWVNbFFIb0g2S25RVmNYOFVqZDBhZDNscC05dXVpUWVJdVJzVjZ6TlFzQXPSAY4CQVVfeXFMUHV0QnZrR2EzLVFWS0RONVFSRzQ0QldrdXRmcExrXzVZejlEYmQyWFhETkt0Zjh4YU1YU19oM19Eb2JFMGptb28tcVBSaGdhaUljdmpQdGEyNXFVMzJRUERRcG94ajR5S0pTUE0yVFNzUHBOQXpEY3dLV3hNWFFORDY1ZjhNNDZlTWxqVWROS0NUQ0IzYjNFZ0hXcTRqMk8wNXhRM1pWenRRYnZWN251dlBYNkF6S0pqald3N2lmU3lQVjdiZkFfVzdTSE83bUx5RmxZbDRPS2Ywb01WVFVMMTdTSGVzalhSVmc1Nm94S1ZwckZMRVhPZVNWUTg3am5tYUpEdE1RSWgxSHQ4RTNR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "São Paulo"
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "tmc.com.br",
-      "headlineJa": "サンパウロでは麻疹の発生者が年間28人に達する。 20人はワクチンを受けなかった - tmc.com.br"
-    },
-    {
-      "articleId": "gnews_d18a1c9019b8eade",
-      "headline": "São Paulo chega a 28 casos de sarampo em 2026; 25 são na capital - Portal Tela",
-      "headlineTranslated": "São Paulo reaches 28 cases of measles in 2026; 25 are in the capital - Portal Tela",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T11:51:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2hTN01kaTdJZm9VZXdNWXhzUGt3ZWp5Z1YyZjdEMnp0VGFveU9JRzhieWxWYTRiTDFVRW9SWkxubGhybnJxU3RDeFJlOHhRbksyODNuX0d4bG5sMlY1WU9GdTlwVjBEYWszdFhlZ1BSQ0VIZnFvRjUzY1lPbWxaUWo0dTNNY2pSZHRGNHZMdFNXZ1VnUG5aVmdFTTRLRkNrR0ZWSTNYekhoUEhRcUJRS3NLeGlNcHpabFE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Tela"
+      "sourceName": "G1",
+      "headlineJa": "SP州で確認された麻疹症例数は28人に増加。首都では感染者の90%が感染 - G1"
     },
     {
       "articleId": "gnews_01d2ee1c09bc3aaf",
@@ -123,25 +144,45 @@
       "headlineJa": "サンタカタリーナ州ではネッタイシマカの6万2千件以上の発生を記録し、デング熱に対する警戒を強化 - sctododia"
     },
     {
-      "articleId": "gnews_779ec446daeeb928",
-      "headline": "Secretaria Municipal da Saúde alerta para risco de retorno do sarampo em Porto Alegre - radiocaicara.com.br",
-      "headlineTranslated": "Municipal Health Department warns of risk of measles returning in Porto Alegre - radiocaicara.com.br",
+      "articleId": "gnews_5d8564eb078ae5f2",
+      "headline": "São Paulo confirma dois novos casos de sarampo - Jovem Pan",
+      "headlineTranslated": "São Paulo confirms two new cases of measles - Prime Time Zone",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T01:34:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd09tRFhidG9KSTUwNHBCd0xiS2twcWk4bHM1RVlCZWpBcGQ2bGx3YWVrY3pnOWdEdFNNQ0ZtcmptNjc4VGt5bGlxOUpjRmtVQjB1Y2ZiX2hwMmpHdkpwdXFQdEZEamZsMENUVTNKWFF0WG1DUUhxekF3RjBKTWdhYmlsRTI0bkh3VmZSbmhPbFpLbmY0dlZjMWc4QmNxdlVqVWwySDFWZW5CVU5sNXdELTh4cGQxT0pvREE?oc=5",
+      "publishedTimestamp": "2026-09-02T01:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEJqam16RXZLYnNPVkxkSFNkanNRRUJqNHhNdDVTeDRJVUxmMmtCQ3haeEs4T1pkYW50cFgtX0s4TnZub1pQdmpfYjVlbEpsRndnZ1k5NmZzSFRKSElaVFN5NkJSRDJqaGVkci04elFqcXYtQldoXzZqdnFpT2VFaGg1Yw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
-        "Pará"
+        "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "radiocaicara.com.br",
-      "headlineJa": "市保健局、ポルトアレグレで麻疹再発のリスクを警告 - radiocaicara.com.br"
+      "sourceName": "Jovem Pan",
+      "headlineJa": "サンパウロ、麻疹の新たな感染者2名を確認 - プライムタイムゾーン"
+    },
+    {
+      "articleId": "gnews_c0e9801db4d9acdd",
+      "headline": "Secretaria Municipal da Saúde alerta para risco de retorno do sarampo em Porto Alegre - osul.com.br",
+      "headlineTranslated": "Municipal Health Department warns of risk of measles returning in Porto Alegre - osul.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T01:39:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbE1PTXNUZFdzRU1pS2RJNUVCZ1ZXRVA0WlRvc3l4TGRCR0Q3YUxUdEZLZWp4Ym85c2o1Z2tXc3E4YkdjTnV4cXBHYzZyOURXVEVJQVcwQlRoSG41ODI1YzlVVjRKc0RvRUZwQmVIVTdrWlgzcTBFYm5uUGdHSXZlQm1KOEp5Znc0VVRLdjNXMTcwRVBxNFMtdW9lRGdHa2FYTWRGemtUNjZOMmZSd21B0gG0AUFVX3lxTE1UYzJnM0VFcUFrMGRzS2V1VWpMZVg0bF9WOVYxYWEzRF93a0wtNDJGT2gtUGxKNlZSR0NDbVh2VGRXWnJVRUVNcUVmWU1EaThISGtCclJrX3JGQ3NHQ05vX3FtbE5kRTZXSjZ2Q3dKT2g3elQwdEl5THFqWDlQcDZEWmZRV0hvSTZMd0FNakxBNUtpejhtQ3Bfems3bndZOWc4WGdPbDc2QTVqeThWRV9BeGpXLQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "osul.com.br",
+      "headlineJa": "市保健局、ポルトアレグレで麻疹が再発するリスクを警告 - osul.com.br"
     },
     {
       "articleId": "gnews_7deb10cfc22d63bc",
@@ -239,12 +280,32 @@
       ],
       "locations": [],
       "states": [
-        "Rio Grande do Sul",
-        "Pará"
+        "Pará",
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Correio do Povo",
       "headlineJa": "疫学監視がポルトアレグレでの麻疹輸入症例のリスクを警告 - コレイオ・ド・ポヴォ"
+    },
+    {
+      "articleId": "gnews_aedd6a29ae81edb4",
+      "headline": "Brasil reforça ações contra o sarampo e importância da vacinação - AMM | Associação Mineira de Municípios",
+      "headlineTranslated": "Brazil reinforces actions against measles and importance of vaccination - AMM | Minas Gerais Association of Municipalities",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-01T16:35:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGxLZnowclhGNm8xai0tQzVjYTNweWlUSjlFa200eWpFN1hOTDJKZDFfQmtjeDdJQmtzMzVCRFVtNGdKc1VLNk9QMVFZVWx6Ri1UVWFkYkdZMF81OERCaFJ1SE5NOEx2VERSUHNXYXRFOVhQOUV6aERhWmRpRHpqbXpkbHZSc2sxRkkzdEFNRnN1S1FWYnhTbnNKdnV2c3M?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "AMM | Associação Mineira de Municípios",
+      "headlineJa": "ブラジル、麻疹対策とワクチン接種の重要性を強化 - AMM |ミナスジェライス州地方自治体協会"
     },
     {
       "articleId": "gnews_f51b9b5718f66f99",
@@ -264,7 +325,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Blog do Amarildo",
-      "headlineJa": "髄膜炎：ワクチン接種は、この最も深刻な形態の病気に対する主な予防法です - Blog do Amarildo"
+      "headlineJa": "髄膜炎：ワクチン接種は、最も深刻な形態の病気に対する主な予防法です - Blog do Amarildo"
     },
     {
       "articleId": "gnews_9a554b6fa5f9d7d2",
@@ -285,7 +346,7 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CompreRural",
-      "headlineJa": "鳥インフルエンザが農場に到達していなくても、鶏肉はより高価になる可能性が高い：飼料、労働力、戦争により請求額が増加 - CompreRural"
+      "headlineJa": "鳥インフルエンザが農場に到達しなくても、鶏肉はより高価になる可能性が高い：飼料、労働力、戦争により請求額が増加 - CompreRural"
     },
     {
       "articleId": "gnews_a2f4bdcc65cced74",
@@ -308,6 +369,26 @@
       "headlineJa": "ソロカバの2回目の麻疹ワクチン接種率は81.5% - Jornalcruzeiro.com.br"
     },
     {
+      "articleId": "gnews_79938dd79da3e974",
+      "headline": "Meningite meningocócica pode evoluir rápido; saiba como prevenir - GZH",
+      "headlineTranslated": "Meningococcal meningitis can progress quickly; find out how to prevent it - GZH",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-08-31T22:51:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamVocy16aE5nNDk4Qnh5WlhWX2g3Y0ZtX3kwYzBqTjE1TmVOUTZzbmVXek1hQVZzZ0ljaE8tNnN4NUU3UjcxQUw5bHpXRDQtV0JKa21RRVNjdm9OUmQ1dlhYR3p5WENieG5uMnB0RzNydlFjcjRnVTZNLXdZSU5zc19EdU93ajY1RC1hRDlsMy03Yk5YUWtfamZrSjkxZ2lKSTJGVjdQT3JtVEV5SWpMSWpkckFfWjdQcUFXejBZNzVwU1N2OWJDX3J5Q1AwNDBWR2tGZmIyM0UzZGJJV0kwYlpYM05mMDdsOUp1MU15cw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "GZH",
+      "headlineJa": "髄膜炎菌性髄膜炎は急速に進行する可能性があります。それを防ぐ方法を見つける - GZH"
+    },
+    {
       "articleId": "gnews_1b5ff413474f2ecd",
       "headline": "El Niño muda o cenário da dengue no Brasil: o que calor e chuva podem provocar nas próximas semanas - Revista Oeste",
       "headlineTranslated": "El Niño changes the dengue scenario in Brazil: what heat and rain could cause in the coming weeks - Revista Oeste",
@@ -328,9 +409,9 @@
       "headlineJa": "エルニーニョはブラジルのデング熱シナリオを変える：今後数週間にどのような暑さと雨が引き起こす可能性があるか - Revista Oeste"
     },
     {
-      "articleId": "gnews_ddea464d51662bd0",
-      "headline": "Dengue: vacina Qdenga reduziu risco de internações de adolescentes de SP em 88%, revela estudo - folhape.com.br",
-      "headlineTranslated": "Dengue: Qdenga vaccine reduced the risk of hospitalizations of teenagers in SP by 88%, study reveals - Folhape.com.br",
+      "articleId": "gnews_cafbaa8ceba87bbf",
+      "headline": "Dengue: vacina Qdenga reduziu risco de internações de adolescentes de SP em 88%, revela estudo - Folha PE",
+      "headlineTranslated": "Dengue: Qdenga vaccine reduced the risk of hospitalizations for teenagers in SP by 88%, study reveals - Folha PE",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-08-31T19:34:19+00:00",
@@ -344,28 +425,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "folhape.com.br",
-      "headlineJa": "デング熱：QdengaワクチンによりSPの10代の若者の入院リスクが88％減少したことが研究で判明 - Folhape.com.br"
-    },
-    {
-      "articleId": "gnews_4e40d328ceab2f5d",
-      "headline": "Multivacinação termina nesta terça (1º) no Piauí após mais de 212 mil pessoas imunizadas - GP1",
-      "headlineTranslated": "Multivaccination ends this Tuesday (1st) in Piauí after more than 212 thousand people immunized - GP1",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-08-31T12:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbkQwa295dThhUUFEMEpONFJuQnlGalQyTXBYMm5UdVBCYnJCWk9tZUJha0hWSjg0RDZRSmVqM2d6U0VXSFFwb3VuSmtOMDJMX0NYZHZsT0FDZFJGUnFLdWpoUUVqR3cwYTd6Mlk2czFrZ2VNbG5WUlpVMlBFaW1fRzZITjVRN1BFd21VMnJtc2FmTmZGMHgtUktLc09sRkkwSHJyVGhoOGtLUzFCX3B4NElLbVltWlZTUTVLQWhnZ3ZWODBTLVpyV0lkTFZoZ1ZMNjVzczVuWXFoLVVoT1HSAeMBQVVfeXFMTnNUTC16NGhyUXlRNzlmWE44V0x4bmtUZlBYUmZORXF0SzF1NXd2c0NIS0lFZUVab1FyWXV6Ujh3UTEtenc5R09qemhpTDBNbmJvdFlkaHVuMXkyUDNNRmdyeGMyVmx3Q294WWNjZDF0Q2xia2k2dEtJTkdUOVBPRFdvYTljRmRSUDJTNUdyUkQ0aW1VcjZTSng3SlJ4dDJFTjFwZW9Ucnk3VDJzREtqeTlSTWkzT21TQm9DRUxLZlRidk9GZEJDdWtJeWV1UnpyM3dLUmVfelNkZFFuZzVHYXVJUW8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Piauí"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GP1",
-      "headlineJa": "ピアウイでは21万2千人以上が予防接種を受けた後、今週火曜日（1日）に複数ワクチン接種が終了 - GP1"
+      "sourceName": "Folha PE",
+      "headlineJa": "デング熱：QdengaワクチンによりSPの10代の若者の入院リスクが88％減少したことが研究で判明 - Folha PE"
     }
   ]
 }
