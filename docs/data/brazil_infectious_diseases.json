@@ -1,43 +1,227 @@
 {
-  "generated_at": "2026-09-03T12:38:14.334336+00:00",
+  "generated_at": "2026-09-03T19:16:25.357943+00:00",
   "date_range": {
-    "start": "2026-09-01T12:38:14.334336+00:00",
-    "end": "2026-09-03T12:38:14.334336+00:00"
+    "start": "2026-09-01T19:16:25.357943+00:00",
+    "end": "2026-09-03T19:16:25.357943+00:00"
   },
-  "total_articles": 11,
+  "total_articles": 24,
   "state_summary": {
-    "Alagoas": 1,
-    "Pará": 5,
-    "Rio Grande do Sul": 3,
-    "São Paulo": 3,
-    "Brasil (estado não identificado)": 4
+    "Pernambuco": 3,
+    "Pará": 6,
+    "Tocantins": 2,
+    "Brasil (estado não identificado)": 4,
+    "Mato Grosso do Sul": 2,
+    "São Paulo": 8,
+    "Rio Grande do Sul": 2,
+    "Sergipe": 1,
+    "Santa Catarina": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 3,
-    "Measles": 7,
-    "Meningitis": 1
+    "Measles": 15,
+    "Dengue": 6,
+    "Doença infecciosa (não especificada)": 3
   },
   "articles": [
     {
-      "articleId": "gnews_4b01664a27ed87ac",
-      "headline": "Brasil avança com vacina de RNA mensageiro; veja o que a tecnologia pode representar para Alagoas - Alagoas Alerta",
-      "headlineTranslated": "Brazil advances with messenger RNA vaccine; see what technology can mean for Alagoas - Alagoas Alerta",
+      "articleId": "gnews_dfd9d1cd5842e4a2",
+      "headline": "Kennedy Jr. ordena exclusão de registros de mortes por sarampo na Pensilvânia - Diario de Pernambuco",
+      "headlineTranslated": "Kennedy Jr. orders deletion of records of measles deaths in Pennsylvania - Diario de Pernambuco",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-03T09:22:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcnB2azc1QW5KUWM1dkxSNkw0WVhlazI2bjhJbGo5T3FhbFBCQUNPYTloTVNaeVotWFFhWTMyeWFGZ1N3a1ZWMXpTY3VQdnh3U2pmUG9veVNBUjRTemdkbVpFNzdHQnlGUk4xeXdGWDgzSGtzcnRpNmdPN3VvVm93RHpCNWEtLXFHQ0R3T1Rla2dydTdvWlpRazNhU3ZXVmNaQ2RCM2lXSzMwVmlrQnJ6dUsyV0lialhjUTJfM0hyYTB0a3Y0b3hubTFpVndMdUZxdDZF?oc=5",
+      "publishedTimestamp": "2026-09-03T17:02:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMTNlSkpnVndTRVNvZ2lZQzgwMzFFem5aNlpmc1JaWnBSazkzNGZnUzNfQ3hJUkpFaXJyalE1SnJMY2JBem5BUHlhNjVWeUlidzBpM3ZVN1NXTmY4aXJ0UWZ3UVpEMVhnRkFOVzl6SHl2WGhPdkF2MjZGd2o5eGRnVEdoZW0zalB2TDl5SEdlUXl4WU5URGtramxDdm9HU29oSjI1NG9fZW5TbTZyOWp6MWtXbEw4bGJjZnhILXBDQ1NjVHRfMGhsMklKb0JKTmV2RWVNV2N5ZUY1Ty16bXhB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diario de Pernambuco",
+      "headlineJa": "ケネディ・ジュニア、ペンシルベニア州の麻疹死亡記録の削除命令 - Diario de Pernambuco"
+    },
+    {
+      "articleId": "gnews_fc6243a104ddbbaa",
+      "headline": "Pernambuco registra terceira morte do ano por arbovirose e alta de 38,8% em notificações para dengue - Folha PE",
+      "headlineTranslated": "Pernambuco records third death of the year due to arbovirus and a 38.8% increase in dengue notifications - Folha PE",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-03T13:17:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2R1N3l0RHlia1plRjBMU2JTVElpNmRhN0xnUkZsbmhWODlYbXlJVC15akQ5V0RpZ0lHN21XVWJsVGdGUVhsUTVHNDZVdktWTkVfT1dWRVdETTN6SWgwWWVNTS1wR28zN1J0MzB6Z296a1JLWmVXRFZzMS1lbUZRY0NIYWNnbTRJcTBzMG9uY0dURER3a3FHSkVzZE12NXV6SXBYZE1ObjZwX0JSd1Nv0gGzAUFVX3lxTE9XdFVPZlNuVDZXN1diSG9idEg1dTJwMEk4bXVjQi0zdUtqMTVNLTZpbmFoeV9wTk96b0swR0NDNU1KTF9NVERTOTNoVWN0Z0wxM21jUkZZUDNjMjY3ZWxMZlBXSUlhNmstSFF0bDNFNzhyVWlwVmpETXZySWNEUHdkbTA3N0lrTWlQMjNkLVoxUGpTOWdya09ISXIxM3UxdUR3ckNnS0ZvUFlZSnVLQjRhVW9z?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha PE",
+      "headlineJa": "ペルナンブコ州、アルボウイルスによる今年3人目の死亡者とデング熱の通知数38.8%増加を記録 - Folha PE"
+    },
+    {
+      "articleId": "gnews_82dcd785bdb3099e",
+      "headline": "SES confirma terceira morte por dengue em Pernambuco, em 2026; vítima tinha 93 anos - CBN Recife",
+      "headlineTranslated": "SES confirms third death from dengue in Pernambuco, in 2026; victim was 93 years old - CBN Recife",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-03T12:51:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWhZaEFrYThfU24yMS1CbGJ0QnNGNmVDN1g5eVFUbEhRYTVRd2h2S3pjMFFsaTl6R19zOFhSdkk0RmxqUlFhOWFCNmFJdTdmdWU3SDBiYjJZenVXd1lrVmQ1Vld5NDFGdHRaRjFyOTk3dHNLTDN0OU5xcHltYnZwdG1fY3BQdkJWd2xWVlBueTZVN1gxOTR5d0tHbDNjOFZJQThyZkFvTGZ2aXNEYTVzb3lkX1ZSTHRscGk4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CBN Recife",
+      "headlineJa": "SESは2026年にペルナンブコ州でデング熱による3人目の死亡を確認。被害者は93歳－CBNレシフェ"
+    },
+    {
+      "articleId": "gnews_2369bbdbafb1a78e",
+      "headline": "Palmas registra aumento de 880% nos casos de dengue - G1",
+      "headlineTranslated": "Palmas records an 880% increase in dengue cases - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-03T11:33:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2JoVE8xSlU3M3o4aEJtVThvY2VMcnhFSk1LdFRBX2RpNmUzekpZMkRPc1QwelByZTVIRkNoek5YaEZ3dWdPVWszX2hOTnM5TE40bFM4M1FyeWhGT2JKQzZhNW4xSUtla3Ffb3lsc2p3dlgtaGxyQ3M5aUd4a3BCNVB0V0hWRlcyZWJtbGo4cUxqa0o2WGFmLUN1NXEzdmU0V2lHTV9zMGJnRjFOSWF3S3dOSDAtcm5lX0ctSEJObHlYNkNFM0pUUE1B0gHYAUFVX3lxTFA2dGR3RTlDSkhzaGx6VWFvRXJ5VXhTNWVidEpCVDlvenhlX0tnSG9LUDltOFFJaDdWbEJaekZLQ3R1SnZqVDVNMm13Xy04VmJueXpQSktsVFpHSGItUWdpMTNyTTU2OTJCeGFCeUhNXzhPSWlxS18xSXJEV0RWcFFOOXVJbGFod1lzbmJXa0xJVVREeHp6cWI4R0g4Tktvc0tRQWhtQml1VzJRbDRtOWt5NjkyV0dxSTZSLUxsM3BTMUZpTTVHeGRyd0hiYk9yT0I5NTVHUlg3Qw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "パルマスではデング熱感染者数が880%増加を記録 - G1"
+    },
+    {
+      "articleId": "gnews_9994c66d0a7015f6",
+      "headline": "Petrolina registra 710 casos prováveis de dengue e quatro casos graves em 2026 - pretonobranco.org",
+      "headlineTranslated": "Petrolina records 710 probable cases of dengue and four serious cases in 2026 - pretonobranco.org",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-03T11:30:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2xFYmZvb1FDLUNRNng3dGt4X25vSXdZOVF6VWpLcWxxOElKZUhrRHRZMTExdTNKMTZpR1BmLVl0TWZtb1JTRU9Hd3VCRkI5bkVIWEhsNFdaUHZGdklYVDR4ZFhwOUE0Vy1ITGlDSlg5Q1Zqb2FPQ2VLbU1abXptcERDeGc3N3ZuVmd0UkFiY2JUeHd6N0FzOXZxQ3NpRVJ0Yk9QYkhCMms2NFdIQnhvaXZwXzM3QWM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "pretonobranco.org",
+      "headlineJa": "ペトロリーナは、2026年に710人のデング熱感染者と4人の重症患者を記録 - pretonobranco.org"
+    },
+    {
+      "articleId": "gnews_11814eb38bc09fdc",
+      "headline": "Filho esfaqueia a própria mãe durante surto em condomínio de Campo Grande - Portal SGC",
+      "headlineTranslated": "Son stabs his own mother during outbreak in Campo Grande condominium - Portal SGC",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-03T06:31:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDk4Q1dZeTlPRWV2OERHS3ItWlZubVlCdmp6eWM2Y3oxQnJKTjRDTzVuNnE0a1JqRW84MW1iX0d3aW5aVWVtb2RjVERHdEhUeWdCN01OOWNuR3dJdXVXS05GVzBGclJzQVJCdjFkcldQR3B3cW9ZVHp0RlVzZlVUUXdTOWRPYjdHRVg3NDRCTkFzZzBDVklEWGsySG1Uem9tUXQ4V1h1VjlCSEJxcXc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
-      "sourceName": "Alagoas Alerta",
-      "headlineJa": "ブラジルはメッセンジャーRNAワクチンで前進。テクノロジーがアラゴアスにとって何を意味するのかを見る - Alagoas Alerta"
+      "sourceName": "Portal SGC",
+      "headlineJa": "カンポ・グランデの集合住宅で感染爆発、息子が自分の母親を刺す - ポータルSGC"
+    },
+    {
+      "articleId": "gnews_c78f3150b0085253",
+      "headline": "Dos 28 casos de sarampo em São Paulo, vinte são de não vacinados - DOL",
+      "headlineTranslated": "Of the 28 cases of measles in São Paulo, twenty are unvaccinated - DOL",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T20:08:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWR6LUlVcTlfWUxTOEpJbWdKblRrZ2FpbTVSbjg2eTV5TUpyOThReGhDZEtxRUh5NTB3YThVaXJZclRqUi1iTk9WOFBXSUJLR1JBVUVTV3lTOGprNlFOc01EbVo3TnVhdWJNeDlOOTJmVFlDMjZqRW9TSV8xYlV2U0pEVTNhWHVnUTVuQVAxMlo2UGlmaVV0d1hpblNaTFV5M0UzNnB1a1jSAbABQVVfeXFMTmx6b3VhWHJxMVdiUVZsX3lTMlYtcnRVVGxRRnVsMnYwbWNsSU04bVFSbEFORDFxZTJVY2VESm1Ka2JDeUF3R3dyalFtWjFja21QZmdwLTRaZmF4S09SckV0OXE0dXN2d1U5ZUN4dWZjd0tLTWJQeWFHaVMySlB5NWl1STBNN29XNHNpazFCYnZjbjZ6Rm01UHJNbTIxTG9pbG9Wc3U5ZG00NWhyVnhkTFY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DOL",
+      "headlineJa": "サンパウロの麻疹患者28人のうち、20人はワクチン接種を受けていない - DOL"
+    },
+    {
+      "articleId": "gnews_7f1a2feac3459de7",
+      "headline": "Casos de sarampo chegam a 28 em São Paulo - Jornal Panorama Minas",
+      "headlineTranslated": "Measles cases reach 28 in São Paulo - Jornal Panorama Minas",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T20:02:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMml2eHpuaThOdFRyS0pSeFNDcHpKLWlPcXc4czhJWlpHTTZvak5lSVJ0NXlmM0NQa0tFNzc1Um9ILUNhZ0xaWkhmQk0zdWZMZ0U3ZkFzMUREZ3NiQUMtVmRrb1NOMjkwaTcyMkJhd2JfbUc4d3h0clg2a3BteE8xalByMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Panorama Minas",
+      "headlineJa": "サンパウロで麻疹感染者が28人に - ジョルナル・パノラマ・ミナス"
+    },
+    {
+      "articleId": "gnews_1b6d7f67ce083d0d",
+      "headline": "Casos confirmados de sarampo chegam a 28 em São Paulo - Agência Brasil",
+      "headlineTranslated": "Confirmed cases of measles reach 28 in São Paulo - Agência Brasil",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T19:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0MxS0Rva2dqZGxvemRWY0VaMkd4Tmc3TmY4UUdhQ1NmenhBeEk3RWxWd1FlaXlZdXgwSVFfeHVQNUtMNHNDZVpmLTE3MWdiOUU5dFJhX1B6RjFCai15SDJyRWsxdnBHOHFwbEZzWXZJYlgycmxVUG15cDNtdGpPZmcxaTF0cF9NaWEtdWU1aWdrblQwRlNNai1IeVVMSFNmUXhHVFZKMFpuUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil",
+      "headlineJa": "サンパウロで麻疹の感染者が28人に確認 - アジェンシア・ブラジル"
+    },
+    {
+      "articleId": "gnews_43f56aef68f3eebe",
+      "headline": "Filho esfaqueia a própria mãe durante surto em condomínio de Campo Grande - G1",
+      "headlineTranslated": "Son stabs his own mother during outbreak in Campo Grande condominium - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T19:00:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjVBdWtnQ0I4TmxDLVNZS2lFS28yU1I2RUZJbjNkNjFyX0VkeTNfWTVCUWUtT1ZjNXc3ekRDOTc4Q18yZndGamVsOFRWOFcxV2RGNWhsdk5TT3JQbFZpVy05T2UwRklROGJZdlBaamJzNG9aTUNYVlZnb0FXcEN4LVYyaElKLWVVdTBwdXc1MWt3ekxfbHVPSkMxUTg2NFBFOGxfTDNxcWRJQkFUdXJFblhvaWVVN0c2SE02VlkxdFR5T1I2MExHeFFHeUxRdkZwdFB3MWh3aEFuaUFE0gHcAUFVX3lxTFBONUF1a2dDQjhObEMtU1lLaUVLbzJTUjZFRkluM2Q2MXJfRWR5M19ZNUJRZS1PVmM1dzd6REM5NzhDXzJmd0ZqZWw4VFY4VzFXZEY1aGx2TlNPclBsVmlXLTlPZTBGSVE4Yll2UFpqYnM0b1pNQ1hWVmdvQVdwQ3gtVjJoSUotZVV1MHB1dzUxa3d6TF9sdU9KQzFRODY0UEU4bF9MM3FxZElCQVR1ckVuWG9pZVU3RzZITTZWWTF0VHlPUjYwTEd4UUd5TFF2RnB0UHcxaHdoQW5pQUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "カンポ・グランデのコンドミニアムでの感染爆発で息子が自分の母親を刺す - G1"
     },
     {
       "articleId": "gnews_e8a4c31d93793631",
@@ -61,24 +245,65 @@
       "headlineJa": "ポルトアレグレ健康監視局、輸入麻疹症例のリスクを警告 - スル21"
     },
     {
-      "articleId": "gnews_73b11221ba4ac82a",
-      "headline": "Casos confirmados de sarampo chegam a 28 em São Paulo - Notícias ao Minuto Brasil",
-      "headlineTranslated": "Confirmed cases of measles reach 28 in São Paulo - Notícias ao Minuto Brasil",
+      "articleId": "gnews_3dc979c7f17a33ae",
+      "headline": "Casos confirmados de sarampo chegam a 28 em São Paulo - Aracaju Magazine",
+      "headlineTranslated": "Confirmed cases of measles reach 28 in São Paulo - Aracaju Magazine",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T17:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm9ESEM1Qml2Mjd0TEpjQ2dfZ1kzcmxxczMxQ0JNczFuRlBJWVRCLVZ5ZWNrcGJ0YkxBOTJlNUZzZE9ZcGUzUDhLcU9nQ1hGX2oyOE1FVUFPOUJJMFFGOUs5ZHlrUWFRbnBqaTZraWZLaUQ2c21uZi05b2ZiTGdSa1I1ZzJxdnE4MTBMWjRNMlBFQjdVZjV6MkFVZnhhMjBFcm1iaGxYYw?oc=5",
+      "publishedTimestamp": "2026-09-02T17:51:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzAwQTBtOGkzbDVQcGxnVmVKVjJ4RkVaQWRXbGxRaW9QT0lPa3RMaU5VSEpBX2gwSEx2WVQ0UERfR1dHc1BzVWV6RWJnMzVST2JKZkhUS2EwejlXc3JDV0htbHZmbXVnOUFGNHdaREduRnZ5c3JpR3lwakNsR1Z4cXlSTUw1UU5VRnlfakVB?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
+        "Sergipe",
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Notícias ao Minuto Brasil",
-      "headlineJa": "サンパウロで麻疹の感染者が28人に確認 - Notícias ao Minuto Brasil"
+      "sourceName": "Aracaju Magazine",
+      "headlineJa": "サンパウロで麻疹の感染者が28人に確認 - アラカジュマガジン"
+    },
+    {
+      "articleId": "gnews_59daad36d0acd003",
+      "headline": "Casos de sarampo sobem para 28 em SP; capital tem maior número de registros - cnnbrasil.com.br",
+      "headlineTranslated": "Measles cases rise to 28 in SP; capital has the highest number of records - cnnbrasil.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T14:39:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclVWOWgtUkdIRWJicjBUek9KS3hwMnBhckpKRzdnRlp4cHhJU0gxU015a0pTdElLbWc3U2hFcWZmUGFSdVM1Zkxfa24yUGJKTFpmRGFySGtIVENJRmpzVlRqX09seU1lbmFQMHczUnNtV1J4QmpwYWwxMmliTkpLQXlDLXV5NmV3X09XTEFscmRRZlR0Yk1VMU85UnNiSUR6ME1NN3puNFBvMnd6UmI4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "cnnbrasil.com.br",
+      "headlineJa": "麻疹症例はSPで28人に増加。首都は最も多くの記録を持っている - cnnbrasil.com.br"
+    },
+    {
+      "articleId": "gnews_cecca677d410a957",
+      "headline": "Brasil inicia testes em humanos da primeira vacina nacional feita com tecnologia do RNA - bra1.com.br",
+      "headlineTranslated": "Brazil begins human trials of the first national vaccine made with RNA technology - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T12:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFktLW1TUklNN0NWNHJuT1RBVW50ODVtT3FsSzI5SjVWNjBPT2xPazRPc0RkenFMTXpETEo0VUNpZDBNaVRBc2d6S0tmRllabXFkWDBlVGV4c3o4RkNnakx1dTJrb3NRUnhOS0x4WnVLT3VzbjBZVTY1OURiWVRMbXR4ZnkxZmFaa09WVTZTNHNqT0oyYmdnRzFTVWE2Nm9TSTNNa0ltQzRTdlhycEE5MElGNWtldlZIYlFaSVhtTUR0X0UxUUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "ブラジル、RNA技術で作られた初の国家ワクチンの人体治験を開始 - bra1.com.br"
     },
     {
       "articleId": "gnews_e68ffc2901882fe7",
@@ -101,13 +326,93 @@
       "headlineJa": "サンパウロではこれまでに28人の麻疹感染者が確認されている。ほとんどの患者は完全にワクチン接種を受けていなかった - francesnews.com.br"
     },
     {
-      "articleId": "gnews_83d6bf1a5895f890",
-      "headline": "Secretaria Municipal da Saúde alerta para risco de retorno do sarampo em Porto Alegre - Jornal O Sul",
-      "headlineTranslated": "Municipal Health Department warns of risk of measles returning in Porto Alegre - Jornal O Sul",
+      "articleId": "gnews_6f6eb181aa3b4c67",
+      "headline": "Dengue volta ao radar em Colinas e no Tocantins: veja sintomas, sinais de alerta e situação da doença no Estado - Diário Tocantinense",
+      "headlineTranslated": "Dengue is back on the radar in Colinas and Tocantins: see symptoms, warning signs and disease situation in the State - Diário Tocantinense",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-02T01:39:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbE1PTXNUZFdzRU1pS2RJNUVCZ1ZXRVA0WlRvc3l4TGRCR0Q3YUxUdEZLZWp4Ym85c2o1Z2tXc3E4YkdjTnV4cXBHYzZyOURXVEVJQVcwQlRoSG41ODI1YzlVVjRKc0RvRUZwQmVIVTdrWlgzcTBFYm5uUGdHSXZlQm1KOEp5Znc0VVRLdjNXMTcwRVBxNFMtdW9lRGdHa2FYTWRGemtUNjZOMmZSd21B0gG0AUFVX3lxTE1UYzJnM0VFcUFrMGRzS2V1VWpMZVg0bF9WOVYxYWEzRF93a0wtNDJGT2gtUGxKNlZSR0NDbVh2VGRXWnJVRUVNcUVmWU1EaThISGtCclJrX3JGQ3NHQ05vX3FtbE5kRTZXSjZ2Q3dKT2g3elQwdEl5THFqWDlQcDZEWmZRV0hvSTZMd0FNakxBNUtpejhtQ3Bfems3bndZOWc4WGdPbDc2QTVqeThWRV9BeGpXLQ?oc=5",
+      "publishedTimestamp": "2026-09-02T12:06:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObkE3VUUtR1FJaGQzcnltYmtYRHVpZTZNeFk0ZDIyV3FESWUyTjZtd1JtUkJrVmxCY0pUNXNwNVdCZjdWUHJGX092bkFGTkpjZkVPRmxKbm1uSEtCVmtyR0VIdWdvVmNnUVhXeUdrbUFTQ2dwbWJaT0dtcVdGUmxWVXk1dk01REprX0djRFdfbVZQRnN5S1JzcG1ZZ1lQcDllb0psTUpxNVNOd2czdkNQR0l1QkF3X09aWkJWY2twMjg5QWNtWjZBM2FHbk1sWmRpRkdHYndEeDJWRDRHV2tjQTBCTWcxOGJkQW9z?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário Tocantinense",
+      "headlineJa": "コリナスとトカンティンスでデング熱が再び注目を集めている：州内の症状、危険信号、病気の状況を確認 - ディアリオ・トカンティネンセ"
+    },
+    {
+      "articleId": "gnews_64d5aa96c27e9d33",
+      "headline": "Casos de sarampo chegam a 28 no estado de São Paulo - SBT News",
+      "headlineTranslated": "Measles cases reach 28 in the state of São Paulo - SBT News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T11:33:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2NESDdrSzhaMGxDMXk0UTJ3bFdQbHJlMDFISDNPLTgzeWtiQVcxakVXVkN6NDhCQlNLSWR3blFRMjFjUFVMck4zZmRlS2dyQV9hTTdVTndGZU5MZXJOWF9PbG1KNHhjQTVEeTI1dDJhOC1qVFQxcUxKNXJnbDdqMWVveGJGQ3JTVFVtazIzWFpzcEx4b18w?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SBT News",
+      "headlineJa": "サンパウロ州で麻疹感染者が28人に達 - SBTニュース"
+    },
+    {
+      "articleId": "gnews_e288b44659bc7d7f",
+      "headline": "Sobe para 28 o número de casos confirmados de sarampo no estado de SP; capital tem 90% dos casos da doença - G1",
+      "headlineTranslated": "The number of confirmed measles cases in the state of SP rises to 28; capital has 90% of cases of the disease - G1",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T10:37:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYU9tdXBmSGg5VlNxNmNKRUFPRVBYa2kyN1ZtQ3NQblFjd2ZCVXIwTkx4bm13bUR4Q2RURjRzMWhWMFBuUkhmNVNTcnpmTmxKdWpVRGdGTUxndDdzOWdabGZnczVzN2VPWXBBRGM3OWJTTV9YYkR3dnRlZ3JmV3p2UmpnQ2dBNzBrYjFxN2c2a0JURkN3TERYUWN3MEJqZ0hRUHROQTBpTHBJVFZ2WndZb0JsTVJndjlnQVFFWmtkS0p5dXk4NHpWLWRFV3NwY3lDS0FFeWVNbFFIb0g2S25RVmNYOFVqZDBhZDNscC05dXVpUWVJdVJzVjZ6TlFzQXPSAY4CQVVfeXFMUHV0QnZrR2EzLVFWS0RONVFSRzQ0QldrdXRmcExrXzVZejlEYmQyWFhETkt0Zjh4YU1YU19oM19Eb2JFMGptb28tcVBSaGdhaUljdmpQdGEyNXFVMzJRUERRcG94ajR5S0pTUE0yVFNzUHBOQXpEY3dLV3hNWFFORDY1ZjhNNDZlTWxqVWROS0NUQ0IzYjNFZ0hXcTRqMk8wNXhRM1pWenRRYnZWN251dlBYNkF6S0pqald3N2lmU3lQVjdiZkFfVzdTSE83bUx5RmxZbDRPS2Ywb01WVFVMMTdTSGVzalhSVmc1Nm94S1ZwckZMRVhPZVNWUTg3am5tYUpEdE1RSWgxSHQ4RTNR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1",
+      "headlineJa": "SP州で確認された麻疹症例数は28人に増加。首都では感染者の90%が感染 - G1"
+    },
+    {
+      "articleId": "gnews_01d2ee1c09bc3aaf",
+      "headline": "Santa Catarina registra mais de 62 mil focos do Aedes aegypti e reforça alerta contra dengue - sctododia",
+      "headlineTranslated": "Santa Catarina records more than 62 thousand outbreaks of Aedes aegypti and reinforces alert against dengue - sctododia",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T03:17:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHY5OUxDX0I4UnU5M2RGc0JyNHV0WGdGaUh2WXFsbWtiaGU0T0xmS3U4WG5vZGtBZ0pUTm1aaVU1OHVxc3FCQ1dueHJva2tRTlAzZDlGb055cFQzeUZLSFVBc1VidC1JQXFVeWE1ZjRBczdvYnJKSmpsanY0a3Y4TFlYTXlzNXpjTFZoV3NweS1GY0dRSlJUcEZoRTVoNjN5QUFyRzV1bW83VlVYYXlLZjVReXNUQnoxY05B?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "sctododia",
+      "headlineJa": "サンタカタリーナ州ではネッタイシマカの6万2千件以上の発生を記録し、デング熱に対する警戒を強化 - sctododia"
+    },
+    {
+      "articleId": "gnews_6c9f2457488d4cc6",
+      "headline": "Secretaria Municipal da Saúde alerta para risco de retorno do sarampo em Porto Alegre - Rádio Pampa",
+      "headlineTranslated": "Municipal Health Department warns of risk of measles returning in Porto Alegre - Rádio Pampa",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T01:34:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONFdzdjVpQmJkcERLaDd4d0lLbWJPMlh6OTNueGFuNkdHTGE0UVBrNUg5enJsNExyeFY1R3RyR19KeGtndE5qRFlZUEhwNFdLaEJ4MGJNWmsxS0Nyc0Z1d01iTU5SZDhBVVBYX1hYbU40cWxISUttaVpzcjM2QTRIVmlaTzFzU3RmT3dhVzNWcEEyNEliYnVxbUI2ZFBYWVVnNUR0eUdSd194YzVQQ2tMb0oxREs0dWs?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -118,8 +423,48 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal O Sul",
-      "headlineJa": "市保健局、ポルトアレグレで麻疹再発のリスクを警告 - Jornal O Sul"
+      "sourceName": "Rádio Pampa",
+      "headlineJa": "市保健局、ポルトアレグレで麻疹再発の危険性を警告 - ラジオ・パンパ"
+    },
+    {
+      "articleId": "gnews_e1e475110444e05f",
+      "headline": "São Paulo confirma mais dois novos casos de sarampo e total chega a 28 - O TEMPO",
+      "headlineTranslated": "São Paulo confirms two more new cases of measles and total reaches 28 - O TEMPO",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-02T00:22:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDN3c0o0bkNQa29hT3Y4RE9oU2kwTnVtTkpHVUduU295eWw1d3c2a0pnSnpxMzNvRE8xeXlVRThSSjZkSU8zNVpmdWZiTXplUjBBdFZ5UUhQeW1iM0FyY0pyOVkwV2N1dHd4RGFjLUdqVDk0OXFocWJKNW5NUHZiamVwQTZrLXZKY0dwdGNrUF9kQW5PcUpNOUttcXF3aDVPdndVTHMyUDNrZk9QVGNVaXJ3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O TEMPO",
+      "headlineJa": "サンパウロ、新たに2人の麻疹感染者を確認、累計28人に - O TEMPO"
+    },
+    {
+      "articleId": "gnews_bb73a6154f2337ed",
+      "headline": "Estado confirma dois novos casos de sarampo e total chega a 28 - Jornal da Região",
+      "headlineTranslated": "State confirms two new cases of measles and total reaches 28 - Jornal da Região",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-01T22:02:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUFyaklRdUUwWnhXbU90WUpsVGVoY0RDZzluODZUUkszNWticnJRUE9oOEhYb09FRzA1TTV6OHFMSHdLU09fc2VIZnltV1dXclVzaHBLSk1lWUg4NDdiT255dkhMOFFDVEJoUlVhMW12UmJRaE9leGtNbGt2WFk5cW5UQVB4NDdyUkphcXdTZ2Y5MGdfcGtj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da Região",
+      "headlineJa": "州が麻疹の新たな感染者2名を確認、累計28名に＝ジョルナル・ダ・レジアン"
     },
     {
       "articleId": "gnews_7deb10cfc22d63bc",
@@ -135,17 +480,17 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
-        "Pará"
+        "Pará",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "correiodamanha.com.br",
       "headlineJa": "ペドロ・トゥーリーニョ氏、サンパウロでの麻疹の蔓延を警告 - maildamanha.com.br"
     },
     {
-      "articleId": "gnews_d6bfc774188b6635",
-      "headline": "SP confirma dois novos casos de sarampo e total chega a 28 no Estado - Terra",
-      "headlineTranslated": "SP confirms two new cases of measles and total reaches 28 in the State - Earth",
+      "articleId": "gnews_a846d42a043eef82",
+      "headline": "SP confirma dois novos casos de sarampo e total chega a 28 no Estado - terra.com.br",
+      "headlineTranslated": "SP confirms two new cases of measles and total reaches 28 in the State - terra.com.br",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-01T21:24:00+00:00",
@@ -159,89 +504,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "SP、麻疹の新たな感染者2名を確認、州内合計28名に - Earth"
-    },
-    {
-      "articleId": "gnews_56619129f8030541",
-      "headline": "Porto Alegre: Vigilância alerta para o risco de casos importados de sarampo - Agora RS",
-      "headlineTranslated": "Porto Alegre: Surveillance warns of the risk of imported cases of measles - Agora RS",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-01T18:14:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTNtbzhOUzBWcjJpWHJ1cEdOaGd3UGo2bW5oZmpIcHlqaENGZXhuc0RrSkFBSW5nS2hJQmhqanlsaUU4S1RRZXZxRWdkd3FuQW9WeHc2cTFMamdMVzNCVjY2QXYwaVVRVEw5UWRoTTFtSWJsTGlEOFFzMGFROWQxdEhhNy05WVF3VERldzZmcHc3MEQxamV0dDMwdk4wMDlqZ2pNRzB2c04?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Sul",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora RS",
-      "headlineJa": "ポルトアレグレ：麻疹の輸入症例のリスクを監視が警告 - Agora RS"
-    },
-    {
-      "articleId": "gnews_f9e6f6febd1376cf",
-      "headline": "Campanha Nacional de Multivacinação termina nesta terça-feira - Agência Brasil",
-      "headlineTranslated": "National Multivaccination Campaign ends this Tuesday - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-01T18:13:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblZuQVA4N3V0THc5eW1oTk1INVMzM2U4OHVOQkVWYURuMkwxVDhpaUVzY2xqWjJka1NCbFY2cFVpandwa0ZQaWNqS1MwcWhvS2VwTndyTzFXOENjWjNzUDZaSlJyMlBmMzZKWlZCekZ5RzRFVVBNTnlkdGhSblhkRlplME9Jc0VQSk15OEdzOU5nZDFGcVMtWUVDbVZPVnU3MHl1S3lSd2ZWWVo4U2d2TU5JTGdEenM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "全国的な複数ワクチン接種キャンペーンは今週火曜日に終了 - Agência Brasil"
-    },
-    {
-      "articleId": "gnews_f51b9b5718f66f99",
-      "headline": "Meningite: vacinação é a principal forma de prevenção contra a forma mais grave da doença - Blog do Amarildo",
-      "headlineTranslated": "Meningitis: vaccination is the main form of prevention against the most serious form of the disease - Blog do Amarildo",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-01T14:04:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1gxaS1ScnI4UThGWHZHblpfb3MtOTgtRkZfT1czZklmU211a3hzN2kwSVp1Y1BTWWdWQWdwbU9TQkNHbkZFbEk0UTVrYkVsek1JNUhGZjZIaUQ1NzhELUdfcTdyS3JsNFkybUsyUllkb1B1TFJjbmNJaElka25TY1g1NFRxRmtPMmp4NllNc3RQNnFLWXNQbVhMU0czUDNUeU5ORG9RMU5rQnFXdHNlSkdEZVEwM0R6VVA0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Amarildo",
-      "headlineJa": "髄膜炎：ワクチン接種は、この最も深刻な形態の病気に対する主な予防法です - Blog do Amarildo"
-    },
-    {
-      "articleId": "gnews_fb6c8cf222038f74",
-      "headline": "Campanha Nacional de Multivacinação encerra nesta terça-feira (1º) com mais de 8 milhões de doses aplicadas - www.gov.br",
-      "headlineTranslated": "National Multivaccination Campaign ends this Tuesday (1st) with more than 8 million doses applied - www.gov.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-01T13:15:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRHNZN3hyMk5oS3Jzck5Pby1YdGM3blp4OHB3RjhsVDItektUOTl1QXJCY05idUlXUEhXaE1qSnVnZzhfRXZSUm9VUWdlTTZYSWxMaUV2cVBkWVpZSmltZjVJRXMxUFN0ZjVBMHZXc29kd3RVRW1PWGw4VVVzY3QtNDBaeXBLODFYRWo4bmFDV3dweXJKTEpOU1c5NnpmYjR4QWxIbnlRZmhXdE1ySTl0UmFUX1FQNWVBYkhrcXl2R193eGRVOXROQnp5MW82alQ4d1pHMnVPQWQ5MUM2QjhXdFpEWEg1T0lraVphQkZCOHVrTnRfS1ZRdUZrT3VVN2xO?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "www.gov.br",
-      "headlineJa": "全国複数回ワクチン接種キャンペーンが今週火曜日（1日）終了、800万回以上の接種が適用される - www.gov.br"
+      "sourceName": "terra.com.br",
+      "headlineJa": "SP、麻疹の新たな感染者2名を確認、州内合計28名に達 - terra.com.br"
     }
   ]
 }
