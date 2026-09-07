@@ -1,35 +1,73 @@
 {
-  "generated_at": "2026-09-07T03:41:24.691706+00:00",
+  "generated_at": "2026-09-07T14:01:02.998151+00:00",
   "date_range": {
-    "start": "2026-09-05T03:41:24.691706+00:00",
-    "end": "2026-09-07T03:41:24.691706+00:00"
+    "start": "2026-09-05T14:01:02.998151+00:00",
+    "end": "2026-09-07T14:01:02.998151+00:00"
   },
-  "total_articles": 9,
+  "total_articles": 10,
   "state_summary": {
-    "Pará": 3,
+    "Pará": 4,
+    "São Paulo": 3,
     "Paraíba": 2,
-    "São Paulo": 1,
-    "Brasil (estado não identificado)": 2,
-    "Ceará": 2,
-    "Mato Grosso do Sul": 1
+    "Mato Grosso do Sul": 1,
+    "Brasil (estado não identificado)": 2
   },
   "disease_summary": {
-    "Zika": 1,
-    "Dengue": 7,
-    "Doença infecciosa (não especificada)": 2
+    "Measles": 1,
+    "Dengue": 8,
+    "Doença infecciosa (não especificada)": 1
   },
   "articles": [
     {
-      "articleId": "gnews_faa5bd8d031df7d0",
-      "headline": "Paraíba registra aumento de casos de zika e dengue e secretaria alerta para prevenção - ClickPB",
-      "headlineTranslated": "",
+      "articleId": "gnews_e26eeab3d4497e56",
+      "headline": "Sarampo: Entenda por que os casos dispararam e os riscos para os não vacinados - Terra",
+      "headlineTranslated": "Measles: Understand why cases have soared and the risks for the unvaccinated - Terra",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-06T20:32:19+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TUWl6OVpsTk9NMVlGb2g1RjcxTGtrME5QdEpzVzV4R29MN1p2Sl9vX0xWZ0kzYXRwMFBGMzJWUzlYMWN4RUpubkxOdm9XTmFuUlMzdEs3dVVnR280cFFFRGUyUjMyYUdwUXZlMFF3eUs3QQ?oc=5",
+      "publishedTimestamp": "2026-09-07T12:46:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMml0ZDY3SmQ5cTVmbmhQM2k1Ylk4eFFBTkRGaDh5N0xCQmlwT1Y2OWZfZzhSOHVpdWxFTTlkQkRfcXR2a0pLT29Vdi1jdU93Y1o4ZTVaRmRBN2o2cHIwTDV4SFU5RjY5MnV6bC1MdVRHU2pjUmg5TExrRjVYaDZKbXA3clJaMGx5R2ZFVXl2Y05tUl8wYUVwT1d2UFVta0w5TWtvVUU4VmxVU19HdFhFeUpzQmZwMHhfZzNzbHBVZjVkdzRLckFpcXBKSTkyTUlaNXd4NktfdHBkRTlrSlFpaHk3QXFQWlFVYkxhS2tjS20wNHRuQ3ZpVGVmTUU0a0ViVXAxd241QQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Zika",
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra",
+      "headlineJa": "麻疹：感染者数が急増している理由とワクチン接種を受けていない人々のリスクを理解する - Terra"
+    },
+    {
+      "articleId": "gnews_0f816b210eae8d87",
+      "headline": "Estado de São Paulo tem 81 municípios em epidemia de dengue - liberal.com.br",
+      "headlineTranslated": "State of São Paulo has 81 municipalities experiencing a dengue epidemic - liberal.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-07T11:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUjZ4Y3NFRjJGUi1tUDFYcE1qdGJFR1ZtRkNMY3VQYkNIVnZEdjkwTXhlOGVMREswTDlvdXBOenJUblpXOWM4NDdsdVoxTHRxOWVYcUpxR0tTb1FPak0xQkRSSmpQcWVRSS1GWHhVVF9EMzBKOEZoUmwxbk8zYjhRUElXX29NUGhteWtvZFN3Z2lSOTloTWFmSXhUcWo0OU03dWhTUEp0VnRSNHc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "liberal.com.br",
+      "headlineJa": "サンパウロ州では81の自治体がデング熱の流行に見舞われている - liberty.com.br"
+    },
+    {
+      "articleId": "gnews_e49b6c3bc2cd6201",
+      "headline": "Paraíba registra 6,4 mil casos prováveis de dengue e 14 mortes - THMais",
+      "headlineTranslated": "Paraíba records 6,400 probable cases of dengue and 14 deaths - THMore",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-07T11:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2J0UFVUdkxFdl90V1lnUmxOc0QwUHZOQkNnSno4XzVSU0RhcFlnckFBR0pNaWl1Wmg4NzM5VE41d1dhT2hRV2lpa0hCckdBSS1QLUs0clMzemI3eWhYbmNwOHZ5c1BlWFpHQWN3dEtVRS1idUxURU5mX1lkLXZVdmFzYnEzWDNKN3hhN2JNNkdma1JfRlM1Q0daTDIwWEZ6RnhGck5wT1I?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
         "Dengue"
       ],
       "locations": [],
@@ -38,12 +76,33 @@
         "Paraíba"
       ],
       "dataSource": "Google News",
-      "sourceName": "ClickPB"
+      "sourceName": "THMais",
+      "headlineJa": "パライバ州ではデング熱感染の可能性が6,400人、死亡者14人を記録 - THMore"
+    },
+    {
+      "articleId": "gnews_ec0efdc051b80c7e",
+      "headline": "São Paulo tem mais de 58 mil casos de dengue desde o início do ano - BOM DIA SOROCABA",
+      "headlineTranslated": "São Paulo has had more than 58 thousand cases of dengue since the beginning of the year - GOOD MORNING SOROCABA",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-06T18:24:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVZWUk1vbTZwMGlWZDR1bENYNVJZU2drRGRTdF9PMEVMaGxiV3hPU3JOZlNncGlfS1d0ZWt5SXhtNWpKcGRmSkpJdzVON2N4R0szcmlMcmEyUTh4ZmhRU3A5a1BWMjN0dnVIbUZKSnNkRk1FYk42cmZNSjRLdDJwNlBfNlJGTkpWOHJYT0wybEh3YVM0ZVdBR1hfQWlMZVdSVl9IRzR1N0xNbzNrVm5oVA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BOM DIA SOROCABA",
+      "headlineJa": "サンパウロでは年初以来、5万8千人以上のデング熱患者が発生している - おはようソロカバ"
     },
     {
       "articleId": "gnews_2660691983afe7f5",
       "headline": "São Paulo tem mais de 58 mil casos de dengue desde o início do ano - Agência Brasil",
-      "headlineTranslated": "",
+      "headlineTranslated": "São Paulo has had more than 58 thousand cases of dengue since the beginning of the year - Agência Brasil",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-06T17:43:00+00:00",
@@ -57,12 +116,13 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Agência Brasil"
+      "sourceName": "Agência Brasil",
+      "headlineJa": "サンパウロでは年初以来、5万8千人以上のデング熱患者が発生している - アジェンシア・ブラジル"
     },
     {
       "articleId": "gnews_1fcdd6e9e955fdd8",
       "headline": "Paraíba chega a 6,4 mil casos e 14 mortes por dengue em 2026; municípios terão que reforçar vigilância - WSCOM",
-      "headlineTranslated": "",
+      "headlineTranslated": "Paraíba reaches 6,400 cases and 14 deaths from dengue in 2026; municipalities will have to reinforce surveillance - WSCOM",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-06T15:22:23+00:00",
@@ -77,12 +137,33 @@
         "Paraíba"
       ],
       "dataSource": "Google News",
-      "sourceName": "WSCOM"
+      "sourceName": "WSCOM",
+      "headlineJa": "パライバ州では2026年にデング熱感染者数が6,400人、死者数が14人に達する。地方自治体は監視を強化する必要がある - WSCOM"
+    },
+    {
+      "articleId": "gnews_6ecf7855bc6018df",
+      "headline": "Vacina da dengue no MS: sem casos graves após suspensão - Campo Grande News",
+      "headlineTranslated": "Dengue vaccine in MS: no serious cases after suspension - Campo Grande News",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-06T14:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY21kUlVSNzRzbC1PRTRzWnZhclF3LTJmQ29hcE5icm91NzJRNUlnUTIyUGFpLW1XMWt4N21qWmpJT0pFLVlnWHBmS3NPRzVrb1BRWEtxQ0ZUd21oSmxrUTY2eG1mRlJ2QlVvV2xnSi1EbU1fOHVFc2hoY3FOSXRCQjFBazBTeGdtT0hIN2FWeHF6M1BOOUlEazJuZll1T01MVXh4cEdIaUU2MHBZLWJjWjRXZFkzbndvTllaNUNR0gG-AUFVX3lxTFA4RU5xeENxRVhfZUJsRUpfNDdPNFNpWEZYVFB2WENjcTJtRmtDSlYxRk9DU0NPOUxnSFNYTHVhRmxKc0x2TVJGQ1Z0bkVCSzVxTmFSUXBoZWROOVU0UG9rVUpTYjBuSW1fM0dIVjNCUFd6c0pXYWJLX1o5Ri1uSjFsUFVNQzFaTnoyZmNpRTBVN1ZERHNsbDJPakZydkxFWC12RFZGenNLMTg3VTdYbDB0MjEzRXBJc1gwS2haOEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campo Grande News",
+      "headlineJa": "MSにおけるデング熱ワクチン：中止後も重篤な患者は出ていない - Campo Grande News"
     },
     {
       "articleId": "gnews_3761dcca44a6e256",
       "headline": "El Niño aumenta preocupação com a dengue - CNN Brasil",
-      "headlineTranslated": "",
+      "headlineTranslated": "El Niño increases concern about dengue fever - CNN Brasil",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-06T14:05:33+00:00",
@@ -96,12 +177,13 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CNN Brasil"
+      "sourceName": "CNN Brasil",
+      "headlineJa": "エルニーニョでデング熱への懸念が高まる - CNN ブラジル"
     },
     {
       "articleId": "gnews_2dd311911a155dda",
       "headline": "Drones ampliam o olhar das cidades contra dengue, mas Belém fica para trás - Coluna Olavo Dutra",
-      "headlineTranslated": "",
+      "headlineTranslated": "Drones expand the view of cities against dengue, but Belém is left behind - Coluna Olavo Dutra",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-06T13:28:17+00:00",
@@ -115,12 +197,13 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Coluna Olavo Dutra"
+      "sourceName": "Coluna Olavo Dutra",
+      "headlineJa": "ドローンはデング熱に対する都市の視野を広げるが、ベレンは取り残される - Coluna Olavo Dutra"
     },
     {
       "articleId": "gnews_5a9ec8fa64699508",
       "headline": "Brasil testará 1ª vacina nacional de mRNA e mira terapias contra o câncer - Exame",
-      "headlineTranslated": "",
+      "headlineTranslated": "Brazil will test 1st national mRNA vaccine and target cancer therapies - Exame",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-06T11:46:20+00:00",
@@ -134,64 +217,8 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Exame"
-    },
-    {
-      "articleId": "gnews_be1298c7a044374f",
-      "headline": "Febre do Nilo Ocidental: saiba mais sobre infecção rara que já tem casos confirmados no Brasil - cearaagora.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-06T10:15:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWpHWHRXcTFPTGR4MlZRYUNUckJMNjgxTlBsVTNNaXBqRkZXLUY5N0RBa2RGUlRZR01jQmVzckUwYWk4akh2bHBtNk9BOTJGT21TcW9TZlF6VFBndU5GUHQtR1dBV0VKZzVaZi1KWnZPd1lXYlRjZ0c2QUdJbmNMVGZDZGt5UFYyVjRGUEdHWktiS0oyRndtUkczdFlwQ08tZUxtbk5DQjNhQ1NfX3dSUUg5YkJmUjRuZjUyRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "cearaagora.com.br"
-    },
-    {
-      "articleId": "gnews_6ecf7855bc6018df",
-      "headline": "Vacina da dengue no MS: sem casos graves após suspensão - Campo Grande News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-06T05:06:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY21kUlVSNzRzbC1PRTRzWnZhclF3LTJmQ29hcE5icm91NzJRNUlnUTIyUGFpLW1XMWt4N21qWmpJT0pFLVlnWHBmS3NPRzVrb1BRWEtxQ0ZUd21oSmxrUTY2eG1mRlJ2QlVvV2xnSi1EbU1fOHVFc2hoY3FOSXRCQjFBazBTeGdtT0hIN2FWeHF6M1BOOUlEazJuZll1T01MVXh4cEdIaUU2MHBZLWJjWjRXZFkzbndvTllaNUNR0gG-AUFVX3lxTFA4RU5xeENxRVhfZUJsRUpfNDdPNFNpWEZYVFB2WENjcTJtRmtDSlYxRk9DU0NPOUxnSFNYTHVhRmxKc0x2TVJGQ1Z0bkVCSzVxTmFSUXBoZWROOVU0UG9rVUpTYjBuSW1fM0dIVjNCUFd6c0pXYWJLX1o5Ri1uSjFsUFVNQzFaTnoyZmNpRTBVN1ZERHNsbDJPakZydkxFWC12RFZGenNLMTg3VTdYbDB0MjEzRXBJc1gwS2haOEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Campo Grande News"
-    },
-    {
-      "articleId": "gnews_a2dc01b20e151097",
-      "headline": "Dengue: Ceará tem mais de 13 mil casos confirmados em 2026 - O POVO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-05T11:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHllRG9SaEtaV0VEdzB6UDVQSmwyakhtdXRTZDR5dWJaQndPdHBOWklhYWJ3WnJjd0U3dDJ4RWJmY1FKODR4TjdJclF1dDB4M0dEWHU3NWpzT21NN1FfMGFrSXJxa1ZZdDRycEM5SGpjb3E3S25XWFVveXFyOENBOHFUQi01TnZteTNvcmVJSTRjQXZzM2NKY1ZoNVpVaVpmTFdyWWZGR3dNU3R1V2RQa3R4U3JpTTdQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O POVO"
+      "sourceName": "Exame",
+      "headlineJa": "ブラジル、初の国家的mRNAワクチンとがん治療を対象とした試験を実施 - Exame"
     }
   ]
 }
