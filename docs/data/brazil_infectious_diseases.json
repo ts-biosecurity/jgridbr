@@ -1,32 +1,203 @@
 {
-  "generated_at": "2026-09-09T12:46:15.215366+00:00",
+  "generated_at": "2026-09-09T19:14:04.806872+00:00",
   "date_range": {
-    "start": "2026-09-07T12:46:15.215366+00:00",
-    "end": "2026-09-09T12:46:15.215366+00:00"
+    "start": "2026-09-07T19:14:04.806872+00:00",
+    "end": "2026-09-09T19:14:04.806872+00:00"
   },
-  "total_articles": 20,
+  "total_articles": 22,
   "state_summary": {
-    "Brasil (estado não identificado)": 12,
-    "Sergipe": 1,
-    "Pernambuco": 1,
-    "Pará": 2,
-    "São Paulo": 4
+    "Sergipe": 3,
+    "Pernambuco": 2,
+    "Brasil (estado não identificado)": 11,
+    "Pará": 4,
+    "São Paulo": 2
   },
   "disease_summary": {
-    "Dengue": 10,
+    "Chikungunya": 3,
+    "Dengue": 11,
     "Doença infecciosa (não especificada)": 5,
-    "Chikungunya": 1,
+    "Meningitis": 5,
     "Zika": 1,
-    "Meningitis": 1,
-    "Measles": 2,
-    "Avian Influenza": 2,
-    "Influenza": 2
+    "Measles": 1
   },
   "articles": [
     {
+      "articleId": "gnews_d6dfe4a99b46ca14",
+      "headline": "Casos de dengue e Chikungunya estão subindo em Sergipe - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T18:46:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZml4ZG9vdXozWUhza2xNa0dYXzNodUV1eFJIa2FtUTFEUE90MkJTem9fSVo1ejhxVGFUXzZyVTNsTktIcGxIaWJZY1VWN3R1V3lUb2h2ZXkzclJZZFlkUUg2QlBjelIwaDYzQ3g0TUI2MGZnOHRTOHRrVWswRjdCd2ktUk5idURzcklqMHQzS1p3N1hYcFhTcmFLTVQ5elAtaVc2V3VLQzc1UmU1RTJIdWZfUFpVanJuaksxbW1Db0h3VFIxNVp30gHWAUFVX3lxTE5RYUJSN1ZwUGE3dnFBOXBNbnRqQnBqT1ZkZ21BdUphd3U5clFIelBDSlBXbW5HSWlVeVhQNDU1TkwxQ0ZKLW5nV01acElHV3ZqVjUzOVlwcVk0d253WVlQRU5HelNXeE9kQno2VWRMMWt2OERYYkF3SFdLNWM3NXh2b3Q2NkpMYW5LazdqaTlxc3ZlNW0xd2s3YmJ0TUJhUUI2ZjhTOVBKa0M2dlhjQnhHUWtGb3lMZTdzd0Q4YzZmSHBfaEtHWmV4Q3dCT0JsWEIxazg0alE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_b01c09666e445edd",
+      "headline": "Registros de dengue e chikungunya aumentam em Pernambuco em 2026, segundo Secretaria de Saúde - Diario de Pernambuco",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T18:03:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkNuUnJsWWRieTdTV0lZb2lBTDhUa3RGc0tqVE9BbFYyOHAweERWUmtpSUp1MnprWGVSTzRjTkw2OEVCT3JhTEJpekg2WUxRQXk2bFd1MDNiamVuVkMxMDRqQ20weDlxQ0c1MFlUS25BSjJENnNvWm93ZDlRYmF2MzZpS1VGcy1OZzhHU0szQ1ZZbzU3dTNySXJla0V2UDlhWFFUWWRFSm9LN1ZCVkZ3SGZQVVdlRHpubEtsSXpKOGQwQXF0cjg1a21FbGxqQl9KMzlISF9GM1FqLVZ5YUF4SXdMaFZ6TFpLWEVxRDNMSGl1MzR4T05F?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diario de Pernambuco"
+    },
+    {
+      "articleId": "gnews_5b5f4c5d4686085c",
+      "headline": "Mudanças no clima ampliam risco de arboviroses em várias regiões do Brasil - Folha de S.Paulo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T18:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmlXbFFsQjZnSEJycnNpN1NNSV8wMUc5RF9WWUtkaEU3ME1oX1pyY0NRaV9tY3pEQVZuUHZnaXVyaFNNQV92ZF8yZGRrQU11LTNvZHRnMVRpcXNtd0VySGdVRzl1eHRuM3pEVUp3LVNDek1jUklRSktMWkdabnZRUjFueGhQd1FRMERZWUdhbHdEQV9vWk9TcTI3TlpFVEE4MG1NODNOZFpQNDFvcVlWeldXQXdQNmlfQ2g0TEVwTGJncjRia2ZoeEJKTlBEOVBJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha de S.Paulo"
+    },
+    {
+      "articleId": "gnews_1cdd3dec2c468033",
+      "headline": "Anvisa Amplia Vacina Contra Meningite Para Bebês - Taktá No AR",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T16:08:25+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3BxUExhYzNqLVZ1UEhuLTE2bjhYSktnNGhxRWhUTHJuN2NidlRwOEFnOUxyeWt6MU1hQXpGVkNEcTNEenk5b0dCc081MVR6SWFsZzFEa0c4ZHdXUmI4LTVuWFNGc1p3b19BcEpKQXJBeXNxbi1WZXRPMHdlUGM3dXU3SQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Taktá No AR"
+    },
+    {
+      "articleId": "gnews_cddbfbca7ad06b9f",
+      "headline": "Anvisa autoriza vacina contra meningite para bebês - noticiasdoplanalto.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T14:00:50+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEZxc0VqR3ZOalRKa2NfRXBaSlYyUlMwcXo1UlY3azJ0clRZa0NGVzUtbVk0Y1dtM0Q2RWNnME80bkpRQnZDQWZwNU82TVotcmJHWUNCYW5lemNwRUNaZUctVE9JTG9OTGVsVE1Md0ljZXlwMHlMYUl6OXBWZFNsU0tDWGVOR3B6NU84LUFn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "noticiasdoplanalto.com.br"
+    },
+    {
+      "articleId": "gnews_9bfbf312220727bc",
+      "headline": "Vacina contra meningite passa a ser indicada para bebês - Aqui Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T13:46:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmtMT0swTGI3SFpEankyU2h0cDJJMEkzX1IzMllBaXJoNDBXQzlMNlNVVWd1OWpvYU5QUEJMM1JCNk5wcmI5Ry1jWWFxcnZlR2lFQ0o1d2VIZVNVTlVhOGZmYVh5MXl0dVpHcjdPNHlodEZNRkl0dUpmcFFqSE9WYy1qVF9HaVZCSlBXOW1WRVVHU1R4ZXpmdjg0Q21CTElmUG1tcmpMdjZlNklLSXc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aqui Notícias"
+    },
+    {
+      "articleId": "gnews_00b1dc0266d6f7e8",
+      "headline": "Casos de dengue e chicungunya aumentam em Sergipe - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T13:10:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGZkVlgzS24xbktwQnctSDIzQm4yMEY0Y2tzUV96RWJaX2RtaThWRUNESEhRcURIOURIWUp1UGs4S0EtREtuYVJlRzl0SF92ZkVXa2RMTENDSExUZTZ6TG1vQnV1Sm9TVlJneWl3V1RUNGJTUnJib3o2aHhiZDZFWnRRSHhOd2t5WG1IUHppVHl3UDlIak41RnZqWGFTRGtWckdHVGVRWkk5MHRnNWxHWGJRYTEzZUxzQUdHMHpsYi1xNzlwUzBQRW9TZmZGUU85Z3fSAdIBQVVfeXFMTkhmZFZYM0tuMW5LcEJ3LUgyM0JuMjBGNGNrc1FfekViWl9kbWk4VkVDREhIUXFESDlESFlKdVBrOEtBLURLbmFSZUc5dEhfdmZFV2tkTExDQ0hMVGU2ekxtb0J1dUpvU1ZSZ3lpd1dUVDRiU1JyYm96Nmh4YmQ2RVp0UUh4TndreVhtSFB6aVR5d1A5SGpONUZ2alhhU0RrVnJHR1RlUVpJOTB0ZzVsR1hiUWExM2VMc0FHRzB6bGItcTc5cFMwUEVvU2ZmRlFPOWd3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_2523805288ea3c71",
+      "headline": "Cidades do noroeste de SP têm maior incidência de casos de dengue - jornalmetropolis.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T12:54:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWJBanNvUXpqZTFyOFBzMmJBbUVTRmNZb2pSYW45SnhaMDdsYTlDWTY0Y2czX0ljU0hKNFNmT3ZXSzJaYmVYRmZHYThLZWJVd2lRWU9LanJmVTN5VXByRHlXd1dKNWtfX3NKa0djb2hXMXM4MW5sTnBJUGRqNGFUQnpDdXRaR2JzUDExSDNHRkJGX01ad1M2NkZyRUJxR1RQUkwzZDdiWmFYVUMzSE5rekVwaU5sdU41RVpZVjRTLXlYQ2g3Q0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jornalmetropolis.com.br"
+    },
+    {
+      "articleId": "gnews_34c32fd221adf1f9",
+      "headline": "Anvisa amplia indicação de vacina contra meningite - Agência Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-09T12:54:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3JIZGtjWlVLYkEtWURHdXhHNEl4MkFkMElEQ1RHYnFZYVhld3ZoT3BIUGhCV1huZndzdlYtTGo5eWVJdzdWWDhKek9XNE0xeFowUEVhV0tjLWVMenI0c0NPWXhLRzgzdWV6TDZoVlZxMzRGVjNfUW5ManNlczF2ZEY2REtZTFR6RGppaDNvUzYzOEw3MElsT3lkRWt0Uk1DQXdpUkdjS2g?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil"
+    },
+    {
       "articleId": "gnews_b68ee74cce0aa38e",
       "headline": "Cidades de SP entram em alerta com alta incidência de dengue - Rádio Itatiaia",
-      "headlineTranslated": "Cities in SP go on alert with high incidence of dengue - Rádio Itatiaia",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-09T06:05:08+00:00",
@@ -40,13 +211,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia",
-      "headlineJa": "SP州の都市はデング熱の発生率が高く警戒中 - Radio Itatiaia"
+      "sourceName": "Rádio Itatiaia"
     },
     {
       "articleId": "gnews_5aa16b8b5398c7ce",
       "headline": "Campanha de Multivacinação: 109 mil doses de vacinas são aplicadas em SP - CNN Brasil",
-      "headlineTranslated": "Multivaccination Campaign: 109,000 doses of vaccines are administered in SP - CNN Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-09T05:13:58+00:00",
@@ -60,13 +230,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "複数ワクチン接種キャンペーン：SPで10万9000回分のワクチンが投与 - CNNブラジル"
+      "sourceName": "CNN Brasil"
     },
     {
-      "articleId": "gnews_505423999ae61dce",
-      "headline": "Cidades do noroeste de SP têm maior incidência de casos de dengue - Aracaju Magazine",
-      "headlineTranslated": "Cities in the northwest of SP have a higher incidence of dengue cases - Aracaju Magazine",
+      "articleId": "gnews_e05b81935742cf4e",
+      "headline": "Cidades do noroeste de SP têm maior incidência de casos de dengue - aracajumagazine.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T23:28:50+00:00",
@@ -80,13 +249,12 @@
         "Sergipe"
       ],
       "dataSource": "Google News",
-      "sourceName": "Aracaju Magazine",
-      "headlineJa": "SP州北西部の都市ではデング熱症例の発生率が高い - アラカジュマガジン"
+      "sourceName": "aracajumagazine.com.br"
     },
     {
       "articleId": "gnews_92e5861a37e380f8",
       "headline": "Cidades do noroeste de SP têm maior incidência de casos de dengue - Agência Brasil",
-      "headlineTranslated": "Cities in the northwest of SP have a higher incidence of dengue cases - Agência Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T21:28:00+00:00",
@@ -100,33 +268,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "南太平洋北西部の都市ではデング熱症例の発生率が高い - アジェンシア・ブラジル"
-    },
-    {
-      "articleId": "gnews_632dc778f89f7142",
-      "headline": "Quando o clima vira aliado dos vírus no Brasil - terra.com.br",
-      "headlineTranslated": "When the climate becomes an ally of viruses in Brazil - terra.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-08T20:51:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR19ENGRFd0VKS2hzb1p2YUFKcEJQZERJYkxoY1llRlJBWjNFWXdYLXhGbndmcUl3VEE0TmZxalJob2FSNTVJR2lQaTBRM0FxS0pyd1g3MjJfZGNEeWF4amVmYmJ5d0sydG9YaVJRZ2NFRnRONXZaWnBYTjVPOHljX2Q2ZC00LUp3aUZsVmQ4ZjlkWWNNMkpPMEZCV0QxbUwtelI5LWE1OXFTeUFsQ19GYmpob2JGZEhTVmkxQmtGWmJWMWdwWGxDTDFDYUNEdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "terra.com.br",
-      "headlineJa": "ブラジルで気候がウイルスの味方になるとき - terra.com.br"
+      "sourceName": "Agência Brasil"
     },
     {
       "articleId": "gnews_18cb6334370a3af6",
       "headline": "Cenário sanitário do Brasil é estável, mas exige vigilância - CNN Brasil",
-      "headlineTranslated": "Brazil's health scenario is stable, but requires vigilance - CNN Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T18:52:34+00:00",
@@ -140,21 +287,20 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "ブラジルの健康シナリオは安定しているが、警戒が必要 - CNN Brasil"
+      "sourceName": "CNN Brasil"
     },
     {
       "articleId": "gnews_8b797af20783b4d6",
       "headline": "Recife amplia ações de prevenção contra dengue, zika e chikungunya em setembro - CBN Recife",
-      "headlineTranslated": "Recife expands prevention actions against dengue, zika and chikungunya in September - CBN Recife",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T17:36:23+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaktZaVFUMFlTQVVSNi14dWF3YlM4ak9rUG54RzRpZU9LcnRGUVY0WUhWaE96b1kxcVY2b3pNSG9sSDU1c1c2MU9EeXpEeDduTzl1Z2tJaWNzalg3QXluVWNmVy1kREZ3WVVMTjNtV2ZOaldzUFNRbUF5VlV4Y0tDc19ZVGxsdmpLMTBvREdiN0hpalBkX0JfT05JV01IaHRaS3ZGZFluWjdUTG1xVHNfMW1yeUk0UQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Chikungunya",
+        "Dengue",
         "Zika"
       ],
       "locations": [],
@@ -162,13 +308,12 @@
         "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "CBN Recife",
-      "headlineJa": "レシフェ、9月にデング熱、ジカ熱、チクングニア熱に対する予防措置を拡大 - CBNレシフェ"
+      "sourceName": "CBN Recife"
     },
     {
       "articleId": "gnews_06ff8542d0fe051d",
       "headline": "Surto de dengue persiste e Santarém prorroga emergência em saúde - CNN Brasil",
-      "headlineTranslated": "Dengue outbreak persists and Santarém extends health emergency - CNN Brasil",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T17:32:38+00:00",
@@ -182,13 +327,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "デング熱の流行は続き、サンタレン市は健康上の緊急事態を延長 - CNN ブラジル"
+      "sourceName": "CNN Brasil"
     },
     {
       "articleId": "gnews_cafd4d4d738365ad",
       "headline": "Meningite: quais vacinas protegem contra a doença e quais são os principais sintomas? - O Alagoano",
-      "headlineTranslated": "Meningitis: which vaccines protect against the disease and what are the main symptoms? - The Alagoan",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T17:02:00+00:00",
@@ -202,13 +346,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "O Alagoano",
-      "headlineJa": "髄膜炎: この病気を防ぐワクチンはどれですか?主な症状は何ですか? - アラゴアン"
+      "sourceName": "O Alagoano"
     },
     {
       "articleId": "gnews_35f832bb3cda461f",
       "headline": "Criança com doença autoimune pode tomar vacina contra o sarampo? Veja quando há restrição - Jornal Correio",
-      "headlineTranslated": "Can a child with an autoimmune disease get the measles vaccine? See when there are restrictions - Jornal Correio",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T16:14:58+00:00",
@@ -222,13 +365,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Correio",
-      "headlineJa": "自己免疫疾患のある子供は麻疹ワクチンを受けられますか?制限がある場合を確認する - Jornal Correio"
+      "sourceName": "Jornal Correio"
     },
     {
       "articleId": "gnews_b7019fedf7c407ad",
       "headline": "Jovem morre em Pará de Minas após surto, ataque a familiares e confronto com a PM - Folha do Povo Itaúna",
-      "headlineTranslated": "Young man dies in Pará de Minas after outbreak, attack on family members and confrontation with the PM - Folha do Povo Itaúna",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T13:23:00+00:00",
@@ -242,13 +384,12 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Folha do Povo Itaúna",
-      "headlineJa": "パラ・デ・ミナスで若者が集団感染、家族への襲撃、首相との衝突で死亡 - フォーリャ・ド・ポヴォ・イタウナ"
+      "sourceName": "Folha do Povo Itaúna"
     },
     {
-      "articleId": "gnews_bd816c94acaabd5b",
-      "headline": "Dengue: São Paulo registra mais de 58 mil casos de dengue desde o início de 2026 - Brasil 61",
-      "headlineTranslated": "Dengue: São Paulo records more than 58 thousand cases of dengue since the beginning of 2026 - Brazil 61",
+      "articleId": "gnews_2c04b83e63f6fac0",
+      "headline": "Dengue: São Paulo registra mais de 58 mil casos de dengue desde o início de 2026 - brasil61.com",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T03:04:00+00:00",
@@ -262,13 +403,12 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "Brasil 61",
-      "headlineJa": "デング熱：サンパウロでは2026年初頭以来、5万8千人以上のデング熱感染者を記録 - ブラジル61"
+      "sourceName": "brasil61.com"
     },
     {
       "articleId": "gnews_762c3fd383502b68",
       "headline": "Dengue: São Paulo registra mais de 58 mil casos de dengue desde o início de 2026 - mauricioaraya.com",
-      "headlineTranslated": "Dengue: São Paulo records more than 58 thousand cases of dengue since the beginning of 2026 - mauricioaraya.com",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-08T03:04:00+00:00",
@@ -282,13 +422,12 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "mauricioaraya.com",
-      "headlineJa": "デング熱：サンパウロでは2026年初頭以来、5万8千人以上のデング熱感染者を記録 - mauricioaraya.com"
+      "sourceName": "mauricioaraya.com"
     },
     {
       "articleId": "gnews_72620e65e1fa6594",
       "headline": "Estado já soma 42 óbitos pela doença; há 30 mortes em investigação - PDNews",
-      "headlineTranslated": "The state already has 42 deaths from the disease; there are 30 deaths under investigation - PDNews",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-07T21:27:28+00:00",
@@ -302,130 +441,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "PDNews",
-      "headlineJa": "同州ではすでにこの病気で42人が死亡している。 30人の死亡者が調査中 - PDNews"
-    },
-    {
-      "articleId": "gnews_7ee0ab0bc10bde76",
-      "headline": "\"Língua\" eletrônica pode detectar gripe aviária em 6 minutos; entenda - CNN Brasil",
-      "headlineTranslated": "Electronic \"tongue\" can detect bird flu in 6 minutes; understand - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T18:07:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmdoVGhJakFOa093VnY2R2NlT3ZNbjFkSlJmUHRtQ1A1VTlMM3Z1VzBEZkF6dS1Hei0yNzZoOE51NmJfcXZCTTZrN1gtYmViTVU4eWRjN1VpLV9LcGlKcG44d1NPdF9HRVE5NmRBTEVpdUZwUnRYVGRpZExkczRiM0dyR09kdHpJNXlqYVFOUDlsU2NpbEJIS0tDc2hndU40WWhydE40Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "電子「舌」は鳥インフルエンザを6分で検出できる。理解します - CNN ブラジル"
-    },
-    {
-      "articleId": "gnews_22048ff12c38bca2",
-      "headline": "Dengue em SP: estado tem mais de 58 mil casos e 42 mortes em 2026 - CNN Brasil",
-      "headlineTranslated": "Dengue in SP: state has more than 58 thousand cases and 42 deaths in 2026 - CNN Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T15:51:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGEyUVpQbGprNVpjYUJOclhoOVo1UFRNREdIcnFiVXVqN1VHUGJUNXZXLURTS3VNVWhlWGQ3VlFubXdLQzd5aTBZaGhyVGU2bTdpY0VVVkxESW85ajF3WjJhTlVrMXFYT2p5MXhvVTk2MTdLSmZuWjFvNG9VZlNBbmtkMGpNc0kwRGlyc0RHSlNya09kR2RfalZMYjJKcHowTkE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil",
-      "headlineJa": "SP州のデング熱：2026年に同州の感染者数は5万8千人以上、死者数は42人 - CNNブラジル"
-    },
-    {
-      "articleId": "gnews_ee5e102436bce907",
-      "headline": "Descaso com os animais marinhos no Uruguai pode disseminar gripe aviária - Blog do Juares",
-      "headlineTranslated": "Neglect with marine animals in Uruguay could spread bird flu - Blog do Juares",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T15:19:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREd1QW1HbXdLanlxWW9OdTFsUFFYMEVjbTZmRU1DTER4ekowbmFDbkJtMU5mWXByaUFzRnRJQm5FUGlLOC1pNkVZYnhQZWlLTmlkejNCb0Q2VGRhV2pfNjNxRkZJZUNoTmFNQkZHbTlVU0w0V2RSeWlGbHNoZVFMT2t4ZVUtblpndXZDQzNwWmxoeXB6Q3MwVFZuR3FFNTlIdy1ERGRERGN0alpOU0xBY3BIRmpoZGFQRzJUMdIBwgFBVV95cUxQQkRRLTBocFJLRDRSMmRVSDVTemRBUjFKZENjdWFtZ2RWcVhySTIwTmtLNVZubF9UVS1nR1hONElSUWZkaVBUS1dtaUNTM0NkbDVSOU5QTGpCNS14RG5yLWRCRnBHUWs4R2dMV1FXa19tdlhHeFNXTlFZYmJVSWNOTHkyU3c2QUdEcy1Ic21vS1gwRkpFcjNONDFYTUFCdUxPREF2ZDJadkJvTzdaTFQ1dFROelpGdjRCZlhtUkJxYXZ3Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Juares",
-      "headlineJa": "ウルグアイの海洋動物への無視が鳥インフルエンザを蔓延させる可能性 - Blog do Juares"
-    },
-    {
-      "articleId": "gnews_5aaa1d569dc051cb",
-      "headline": "São Paulo registra mais de 58 mil casos de dengue e 42 mortes em 2026 - Agência Brasil",
-      "headlineTranslated": "São Paulo records more than 58 thousand cases of dengue and 42 deaths in 2026 - Agência Brasil",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T15:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTNQOVZVT28xRmRsUWF4bVJ3MWJmMEgzdks2ams5MVFpbVhxTTJWZUZ0czdpMVhWOXdvQjkxQms0QjRlYkJMbmFYaVd3MW5LTnpaclJqM2FPUjhvS3VaNzFJZFZJTzlGYmhVRW02ajRQRWlUbXNyMWF2MWVBYnNrN0E3aE91SXhKelVQSFoyR1VadlhNYUVFQnl2ajBiSEZfOTZHWlZablZfd05tN2VsYTA2TVF5cTRJNE9hX1RGQWlVLWpwcWV5ME1vTEpnOGFYbTNIVW9icHlXbE9T?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil",
-      "headlineJa": "サンパウロ、2026年に5万8千人以上のデング熱感染者と42人の死亡を記録 - アジェンシア・ブラジル"
-    },
-    {
-      "articleId": "gnews_8bbd15fa6008defd",
-      "headline": "São Paulo já registrou mais de 58 mil casos de dengue em 2026 - Impactto News",
-      "headlineTranslated": "São Paulo has already registered more than 58 thousand cases of dengue in 2026 - Impactto News",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T14:15:36+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkVWUUxiTU9UcVdFQlRaN0ZMWTZrdWZIQkptMzVaRUY1S0toVDZlOG1XZUFfQzZEeGRBQkVPUlMxV1lGU3RUd1NUazRjR3RzVHltaVlZSVhxTHdfbUhDWVFTU1VVcDlYUjh6NXI1dWdMM1lTVUw3SDVQRk8takhoc0d0cEtZUFcxMk1VbjVRdTVoc0k1X3dLTHNCVExzdWpMVkE5UWM5TXM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Impactto News",
-      "headlineJa": "サンパウロでは2026年にすでに5万8千人以上のデング熱患者が登録されている - Impactto News"
-    },
-    {
-      "articleId": "gnews_fb3d69b8756b4bb6",
-      "headline": "Sarampo: Entenda por que os casos dispararam e os riscos para os não vacinados - terra.com.br",
-      "headlineTranslated": "Measles: Understand why cases have soared and the risks for the unvaccinated - terra.com.br",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-07T12:46:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMml0ZDY3SmQ5cTVmbmhQM2k1Ylk4eFFBTkRGaDh5N0xCQmlwT1Y2OWZfZzhSOHVpdWxFTTlkQkRfcXR2a0pLT29Vdi1jdU93Y1o4ZTVaRmRBN2o2cHIwTDV4SFU5RjY5MnV6bC1MdVRHU2pjUmg5TExrRjVYaDZKbXA3clJaMGx5R2ZFVXl2Y05tUl8wYUVwT1d2UFVta0w5TWtvVUU4VmxVU19HdFhFeUpzQmZwMHhfZzNzbHBVZjVkdzRLckFpcXBKSTkyTUlaNXd4NktfdHBkRTlrSlFpaHk3QXFQWlFVYkxhS2tjS20wNHRuQ3ZpVGVmTUU0a0ViVXAxd241QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "terra.com.br",
-      "headlineJa": "麻疹：感染者数が急増している理由とワクチン接種を受けていない人々のリスクを理解する - terra.com.br"
+      "sourceName": "PDNews"
     }
   ]
 }
