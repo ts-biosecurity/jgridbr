@@ -1,37 +1,212 @@
 {
-  "generated_at": "2026-09-12T12:00:22.606954+00:00",
+  "generated_at": "2026-09-12T18:18:22.362488+00:00",
   "date_range": {
-    "start": "2026-09-10T12:00:22.606954+00:00",
-    "end": "2026-09-12T12:00:22.606954+00:00"
+    "start": "2026-09-10T18:18:22.362488+00:00",
+    "end": "2026-09-12T18:18:22.362488+00:00"
   },
-  "total_articles": 56,
+  "total_articles": 58,
   "state_summary": {
-    "Brasil (estado não identificado)": 17,
-    "Amazonas": 20,
-    "Sergipe": 1,
-    "Pará": 8,
-    "Distrito Federal": 2,
-    "São Paulo": 7,
-    "Goiás": 5,
+    "Brasil (estado não identificado)": 16,
     "Amapá": 1,
-    "Pernambuco": 4,
+    "Amazonas": 27,
+    "Pará": 9,
+    "São Paulo": 8,
+    "Alagoas": 2,
+    "Sergipe": 1,
+    "Distrito Federal": 1,
+    "Goiás": 5,
+    "Pernambuco": 1,
     "Mato Grosso do Sul": 2,
-    "Mato Grosso": 1,
-    "Espírito Santo": 1
+    "Mato Grosso": 1
   },
   "disease_summary": {
+    "Measles": 40,
+    "Dengue": 9,
     "Doença infecciosa (não especificada)": 8,
-    "Measles": 34,
-    "Dengue": 12,
     "Meningitis": 1,
-    "Chikungunya": 5,
-    "Malaria": 1
+    "Chikungunya": 2
   },
   "articles": [
     {
-      "articleId": "gnews_dc56c774ec4e379f",
-      "headline": "Febre do Nilo volta a preocupar o Brasil com 04 casos e uma morte - Rádio Acústica FM",
-      "headlineTranslated": "Nile fever once again worries Brazil with 4 cases and one death - Rádio Acústica FM",
+      "articleId": "gnews_b0f3f4ffa52a85f4",
+      "headline": "SARAMPO SE ESPALHA NA CAPITAL; SÃO BERNARDO SEGUE SEM NOVOS CASOS E VACINA BEBÊS NESTE SÁBADO - tvsaobernardo.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T17:01:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjVtSEl2MHlrYVNNS09oVEtncmtwcy0tbmlqdlJ3RmxiZmhLTi1HT0t0WkZTelo2NEladl9KUzhsMGtqZWQtSGJ5aXhOZ1c2bmxXZ1hEUXNqVjlWeWZzaGlGVnkzNGtXQU9QS3BSZnBNYXZfVE9nQ0loQ2xvWnZKc0d3VmdINDM0NFdETWcyQVkzRVFyY3plREQwSTBYamxnMTZqMzNPcDFVdzhiRHhraWVrQWxqc1ZGSUVJ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "tvsaobernardo.com"
+    },
+    {
+      "articleId": "gnews_4d5c54b7f66918dc",
+      "headline": "Prefeitura de Macapá reforça combate à dengue e retoma borrifação no Loteamento Amazonas - Diário do Amapá",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T15:14:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmd2VlM4UEpZc0xQb1p1eHJRenRheTFwSngwTi1XNWZfU0FLR0pPNEgwOGJGTFhweHdrVGszRjg1eS1GRzZzWVpUcktVSGJEQ1MzajU0T2ZHbHdBLUlfZk1vLTduMHBCSERGUVdZOENWc3dsbndkaFlwdEQ5UXlQSW1sd0VJeHJjRjBTMHBRdzBUb09DVlA4R3ZYV3BDRWhRVXZkazF6OHYyZC1QcFNiTnRGWWlEMmJkUjl5d3dDMWZmMnRDSjZpY1VrRnRRNVBsTkt6S2hB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Amapá",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Amapá"
+    },
+    {
+      "articleId": "gnews_1ca93bf145821a2a",
+      "headline": "Amazonas confirma três casos de sarampo; outros dois são investigados - Midiamax",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T14:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXV2Vm1Eb0VRR1ZpUGduaVR5ejhHZ0ZiQmlRTkpoM1FlWUJOSGxZMmtoNWVwQUJzeHA3c1E5dFRSQlA2V1R0WHUxRmhQcVJkOW55eDVxTzFXaWpTQmtMMm84YnlUUmpBVjRtcmVNTW9nQ2kzQ2RSbFV5NjFTdkRweHJ3WWhET0R2UG9VMWY1UkdpdFFIUDdab2xxaXEzcmliaDIwMQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax",
+      "headlineJa": "アマゾナス州では麻疹3例を確認。他の2人が調査中 - Midiamax"
+    },
+    {
+      "articleId": "gnews_4aed0547b7963a65",
+      "headline": "Estudantes de Mogeiro ficam entre semifinalistas de programa nacional com projeto contra o Aedes aegypti - ClickPB",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T14:41:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TM0lHMlBHdzV5WWNWWUk3d1d2WFBqc2ZoekROcHQ5cHgzVWZSRWhJVXhaR1J1bTlFRGdiY0FOQmdJQ2JCM2dMZGJSX1h6bVl2N3EwWUw1b0wyazRiTXNybFByVWtTeFR1SmVkYTR6am1NelEwNUhPQWxzZzRoUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ClickPB"
+    },
+    {
+      "articleId": "gnews_887864562ae08b6e",
+      "headline": "Amazonas confirma três casos de sarampo - SBT News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T14:04:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWMwOW5hS2FRS3hvVmF6SHRhdzR5SjRzWllsZDI1aVp2cFF6aUpoQjg0MUc4ak5CY3Fid0w5LXNTTTlSSjljeVVlMTJ1a2VJSFdoU3ppLUJ4OVBNei0zVEZUa2NNcVFvR2huVlk1ZE14by1mdkhHNzlHS0JQV0VfX0tPSTBDRl82?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SBT News",
+      "headlineJa": "アマゾナス州、麻疹3例確認 - SBTニュース"
+    },
+    {
+      "articleId": "gnews_2ca815fdeba856d7",
+      "headline": "Semsa emite alerta contra o Sarampo em Manaus após casos em Tabatinga; atendimento e imunização - Portal Você Online",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T14:03:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGpyRmo4cWlibFRqREswaHZWMHR5enE5dFVEZHFKZ2hPdnh5Uks5clNQSUZILVF6bUdWeFlwOXVPRS1DLW1tOUoxVnc4NUxTd1ZkUzhXWXZzbVpPUE5Id0w1M20yY1dxYi1fQmRXd1VPcWxMNE9IY3Utc2R2QWFPQi1BUUdHbFNPVndNNEhqQV9jNEtVRjFEMUZpY1JZRHE4akJGOWtzNUtqakVBakN2V0lTLXltcmtUZ2c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Você Online"
+    },
+    {
+      "articleId": "gnews_fe30963966c9fa81",
+      "headline": "Surto de diarreia em Pará de Minas já atingiu quase duas mil pessoas - Rádio Santa Cruz FM",
+      "headlineTranslated": "Outbreak of diarrhea in Pará de Minas has already affected almost two thousand people - Rádio Santa Cruz FM",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T12:56:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHRDbGRrQkVUVWZ6R0xfa21kNmZfdFdZMk9OTVFXVGdHZGRKQnhsbENHcF92ajJOaXYxbWt4cTFlTjhIRXFFU0VDcHF2ZVk3ZGg4a25rVXZCcjFOa0NybUVJMDhTWUNtUk4wNDRrVzdlaVI4bDE2bDlBaXRoTDZGN0NnRHJsUTNUaXQyV0hzOE11RUJ5eWFRT3lfR2d5b1BJb0lQTnN3ZVczeHRFNWMxd0xfaFljanNoX1BGdlJLcHFzblNNWE1WcTlsejdEQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Santa Cruz FM"
+    },
+    {
+      "articleId": "gnews_c334ff271a40697e",
+      "headline": "Após três casos de sarampo no Amazonas, Manaus emite alerta para reforçar vigilância contra doença - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T12:42:56+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX3VZUzRyTzBmbldJcWIyNWcxcHRXc3dCbE5uSVpwZkRWd0Z5ZWV6NFk2MWNOaXBaUDFhRkVnYmVwRzh6NUR4ckVieUVRTE1TT0Q0UWpMdjdIMDhFLXdBU0hzX0FaVzgzSW9nUEtVQ2hELXhOWHpVbC03a09LTGwwSWRJdEVrdUo3WGU4NXQyWU5CNHZQcWtYdHZkbVhKUHJmVERRci1hREcxTzVBWDhQeFBaY05RV1RUWV8wdUxZWVdfLXY2elpMNmEyNktkSnN5U0Rnakk4UTB0RmYzMzVlRURrcks3dEZZbV9n0gH6AUFVX3lxTE52aGt0OUFqU1ZvcUhELW43a0tnVTFIR3NDWHBIT3RNb3VQVThRaXdLOGFJVF9rOThIMXZQSlA3X2o1M1NtdVNNME90VFhjX2U3UU9nZWJPM1lvT2RUVzQ5bGM0ZEFOVXJabFhBTWRvZFhqTDRUY3NUQWFzMkxvUnc2NVBYVWUyd2NlcHYtTF91WDBkZ0M5M0VQZ0dTVGVOR1VZQ3JfUWluQUVBOGFaazlORWVmX1BoLTFGLWNuM2REOXRFakpxTWhJVWhxVnQyM3IxUm5DUWNXejJid1ZOdmxPX0Z0SDAxZHh1Yjg4QkJZR19ZQnNLZV82cFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_98b0e3aa32013cbb",
+      "headline": "Amazônia confirma 3 casos de sarampo em cidade de fronteira; 2 seguem sob investigação - bra1.com.br",
+      "headlineTranslated": "Amazônia confirms 3 cases of measles in a border city; 2 remain under investigation - bra1.com.br",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T12:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzhmY3VCYlZMNzhuYjNES19wTFlhV2ZlU2xZam1SMWRBd2ZSeDRsMnJkTGtYbmxoRC16dEFJVXNldF9nMHA2QVNJQk1rcTBSUk5nLVlVal9CTVlfYzVWVEhFM1o2X1N2aEF1R2hLcUY2WmxFSU8wM28ydF9aazBHandQQU0xY01IeEdsd2Y4Z0Q2bGF3UVAyWjFQeExaejJxZmYwOGJ2WDV1ck5idjJCZTBQZHBXbnQtbkJBdC1fUHhHcDZR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br",
+      "headlineJa": "アマゾニア州、国境の都市で麻疹3例を確認。 2人は引き続き調査中 - bra1.com.br"
+    },
+    {
+      "articleId": "gnews_a94da0ff36cec722",
+      "headline": "Febre do Nilo volta a preocupar o Brasil após 04 casos e uma morte - Rádio Acústica FM",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-12T11:36:11+00:00",
@@ -45,13 +220,73 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Acústica FM",
-      "headlineJa": "ナイル熱、感染者4名、死者1名でブラジルを再び不安に - Radio Acústica FM"
+      "sourceName": "Rádio Acústica FM"
+    },
+    {
+      "articleId": "gnews_cca0afb08e4629c4",
+      "headline": "São Paulo e Amazonas têm casos de sarampo - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T11:11:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1dGaWY1NVhaSHl5ZnV1VjE3ckZzR3E4NnBiNjUtS2tPcFFwdXFOcUx4V3p3VlpLMzZWelcwR1VBTHM3eDFFY0NhSEc0cURUMDZDSlY2LUUyMm9ZOXA4Zm9nSzFrRmxmcXdQTzdlT2U5bGg4VzBkY0xGQnJLdy1NUWZKUi1GcENhU3hKNDhQUHRzVDFxOVczd1VIcTlMY0XSAa4BQVVfeXFMUHUxNjduVEM1c2Y0VXZmZi1OVnlwN1dsTkVEX2puZTZzN0FtQmFwQ25uc091TERCQUc0NkFOa05Xc01IeHgxRkpodXVqU3BYbUZ3ZUZJcVhKLURkMm96Q1lYRm50bXFOdVgtajI2U1RfcFNMNVE1eHJCRDBnMGl0enF3QWk5WUVvdUVRM21pTUdzV01oSUdSdExyV1RmS1A1a3NSOERHZTMxc29oOEJn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_7e7cd72b6d5e6aff",
+      "headline": "Amazonas confirma três casos de sarampo, diz saúde - gazetadealagoas.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T07:00:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1BDenRjbV9aaGJvSW9FMlFIVGlvM1pVbHRlbTlGSnRSOUExUjk1SjRHSDdaV1VYMW9UaDQwRXFGbUh2cXVPNFo0SWIzSWEzQmxzeFBsNGhBQl9yUzBXa2RWZUlIX1ZHaUtmZE5ObmpFdlZ2bDF2dXktVDdHUURmSDlwQkxLa3hNcjNkMmxNa3VQV1ZucWFRODZTeUkxdElxMmfSAaoBQVVfeXFMTkR2NXUxRHg3ZUJZdC1CSk9kRWU0dFM3ZVZnYVdLOHY4RkRmTUV0RGozT1dUSWpGZWQ0RnBIM0RNbkRudXRiWkJ2bkRpQWMySC1xVi1uQ2h2QmJjQThQSWF1MjZMWHJfN2xXNDFsa09NRENfbnBoRmJjNUx2ZFVrRThMUEFXMnkxcTlyLXYzaEdBcWxmYVBJMW82MHF0cjMtczZNb0RPcVoySnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "gazetadealagoas.com.br"
+    },
+    {
+      "articleId": "gnews_982a65677db4bd09",
+      "headline": "Amazonas confirma três casos de sarampo, diz saúde - gazetadealagoas.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-12T07:00:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHY1dTFEeDdlQll0LUJKT2RFZTR0UzdlVmdhV0s4djhGRGZNRXREajNPV1RJakZlZDRGcEgzRE1uRG51dGJaQnZuRGlBYzJILXFWLW5DaHZCYmNBOFBJYXUyNkxYcl83bFc0MWxrT01EQ19ucGhGYmM1THZkVWtFOExQQVcyeTFxOXItdjNoR0FxbGZhUEkxbzYwcXRyMy1zNk1vRE9xWjJKd9IBqgFBVV95cUxORHY1dTFEeDdlQll0LUJKT2RFZTR0UzdlVmdhV0s4djhGRGZNRXREajNPV1RJakZlZDRGcEgzRE1uRG51dGJaQnZuRGlBYzJILXFWLW5DaHZCYmNBOFBJYXUyNkxYcl83bFc0MWxrT01EQ19ucGhGYmM1THZkVWtFOExQQVcyeTFxOXItdjNoR0FxbGZhUEkxbzYwcXRyMy1zNk1vRE9xWjJKdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "gazetadealagoas.com.br",
+      "headlineJa": "アマゾナス州は麻疹の3例を確認、保健当局が発表 - gastadealagoas.com.br"
     },
     {
       "articleId": "gnews_283bc7c5801a2bb3",
       "headline": "Três casos de sarampo são confirmados no Amazonas - G1",
-      "headlineTranslated": "Three cases of measles are confirmed in Amazonas - G1",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-12T00:08:12+00:00",
@@ -65,13 +300,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "G1",
-      "headlineJa": "アマゾナス州で麻疹3例が確認 - G1"
+      "sourceName": "G1"
     },
     {
       "articleId": "gnews_2f1e13760c005fca",
       "headline": "Amazonas confirma três casos de sarampo; outros dois são investigados - Aracaju Magazine",
-      "headlineTranslated": "Amazonas confirms three cases of measles; two others are being investigated - Aracaju Magazine",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T23:24:00+00:00",
@@ -106,13 +340,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Panorama Minas",
-      "headlineJa": "アマゾナス州、ペルーとコロンビアとの国境にある都市で麻疹3例の感染を確認 - ジョルナル・パノラマ・ミナス"
+      "sourceName": "Jornal Panorama Minas"
     },
     {
       "articleId": "gnews_8cb749ee7f49bdc3",
       "headline": "Amazonas confirma três casos de sarampo; outros dois são investigados - Diário da Amazônia",
-      "headlineTranslated": "Amazonas confirms three cases of measles; two others are being investigated - Diário da Amazônia",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T22:00:00+00:00",
@@ -126,13 +359,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Diário da Amazônia",
-      "headlineJa": "アマゾナス州では麻疹3例を確認。他の2人も捜査中 - Diario da Amazônia"
+      "sourceName": "Diário da Amazônia"
     },
     {
-      "articleId": "gnews_b91dcee585ad734a",
-      "headline": "País soma 36 registros da doença em 2026; casos no Norte têm origem no Peru, que enfrenta surto - politicadistrital.com.br",
-      "headlineTranslated": "Country has 36 records of the disease in 2026; cases in the North originate in Peru, which is facing an outbreak - politicadistrict.com.br",
+      "articleId": "gnews_cbb9ebeaa2fdf8cb",
+      "headline": "País soma 36 registros da doença em 2026; casos no Norte têm origem no Peru, que enfrenta surto - PDNews",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T21:51:22+00:00",
@@ -146,8 +378,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "politicadistrital.com.br",
-      "headlineJa": "同国では2026年に36件の感染記録がある。北部の感染者はペルーで発生しており、ペルーは感染拡大に直面している - politicadistrict.com.br"
+      "sourceName": "PDNews"
     },
     {
       "articleId": "gnews_36207d3aeed4ea71",
@@ -166,8 +397,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Santana FM",
-      "headlineJa": "ブラジル、西ナイル熱の4例を記録 - ラジオ・サンタナFM"
+      "sourceName": "Rádio Santana FM"
     },
     {
       "articleId": "gnews_950149a950ab2333",
@@ -187,13 +417,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Prefeitura de Manaus",
-      "headlineJa": "マナウス市庁舎、麻疹監視活動を強化するガイドラインを含む疫学警報を発令 - マナウス市庁舎"
+      "sourceName": "Prefeitura de Manaus"
     },
     {
       "articleId": "gnews_7779d773552c5632",
       "headline": "Amazonas confirma três casos de sarampo; outros dois são investigados - Acessa.com",
-      "headlineTranslated": "Amazonas confirms three cases of measles; two others are being investigated - Acessa.com",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T20:39:09+00:00",
@@ -207,13 +436,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Acessa.com",
-      "headlineJa": "アマゾナス州では麻疹3例を確認。他の2人は捜査中 - Acessa.com"
+      "sourceName": "Acessa.com"
     },
     {
       "articleId": "gnews_cc81a225b73a2e4f",
       "headline": "Amazonas confirma três casos de sarampo e investiga dois - Jornal de Brasília",
-      "headlineTranslated": "Amazonas confirms three cases of measles and investigates two - Jornal de Brasília",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T20:03:29+00:00",
@@ -228,13 +456,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal de Brasília",
-      "headlineJa": "アマゾナス州、麻疹3例を確認、2例を調査＝ジョルナル・デ・ブラジリア"
+      "sourceName": "Jornal de Brasília"
     },
     {
-      "articleId": "gnews_bf2e86acafbd9c56",
-      "headline": "Três casos de sarampo confirmados em Tabatinga, Amazonas, com origem no Peru - Metrô News Jornal",
-      "headlineTranslated": "Three cases of measles confirmed in Tabatinga, Amazonas, originating in Peru - Metrô News Jornal",
+      "articleId": "gnews_1eca33adc893bc8c",
+      "headline": "Três casos de sarampo confirmados em Tabatinga, Amazonas, com origem no Peru - metronews.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T20:01:00+00:00",
@@ -248,13 +475,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Metrô News Jornal",
-      "headlineJa": "アマゾナス州タバチンガでペルー発の麻疹3例確認 - Metro News Jornal"
+      "sourceName": "metronews.com.br"
     },
     {
       "articleId": "gnews_9f85955c165ab35b",
       "headline": "Amazonas confirma três casos de sarampo; outros dois são investigados - panoramagocomunicacao.com.br",
-      "headlineTranslated": "Amazonas confirms three cases of measles; two others are being investigated - panoramagocomunicacao.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T19:47:00+00:00",
@@ -268,33 +494,12 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "panoramagocomunicacao.com.br",
-      "headlineJa": "アマゾナス州では麻疹3例を確認。他の2人は捜査中 - panoramagocomunicacao.com.br"
-    },
-    {
-      "articleId": "gnews_09b01cf91694f121",
-      "headline": "Casos de sarampo em Tabatinga alertam fronteira e vigilância - IstoÉ",
-      "headlineTranslated": "Measles cases in Tabatinga raise awareness about borders and surveillance - IstoÉ",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T19:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xRTZYaFh3OTVZZk5hU21WUzRFT0xaVmtOV29CcHNpT1haWXMxVVp4ekZxTHdEdDVuNlFDR29DaTdkTS1OTjZocnJIMTQtQ2UySmJnRzVIZkZoQzVFU0ZySnZsWWQ2c2hrTDZSWUQ0YWg5M1U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "IstoÉ",
-      "headlineJa": "タバチンガでの麻疹症例により、国境と監視についての意識が高まる - IstoÉ"
+      "sourceName": "panoramagocomunicacao.com.br"
     },
     {
       "articleId": "gnews_ecd6eefb606cae78",
       "headline": "Ministério da Saúde atualiza número de casos de sarampo no Brasil - Blog Antenado",
-      "headlineTranslated": "Ministry of Health updates number of measles cases in Brazil - Blog Antenado",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T19:36:52+00:00",
@@ -308,13 +513,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Blog Antenado",
-      "headlineJa": "保健省、ブラジルの麻疹症例数を更新 - Blog Antenado"
+      "sourceName": "Blog Antenado"
     },
     {
       "articleId": "gnews_796343311b938615",
       "headline": "São Paulo confirma mais dois casos de sarampo e total chega a 32 - CartaCapital",
-      "headlineTranslated": "São Paulo confirms two more cases of measles and total reaches 32 - CartaCapital",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T18:41:00+00:00",
@@ -328,13 +532,12 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "CartaCapital",
-      "headlineJa": "サンパウロ、麻疹感染者さらに2人確認、累計32人に 写真1枚 国際ニュース：AFPBB News"
+      "sourceName": "CartaCapital"
     },
     {
       "articleId": "gnews_b5465c5b004dab63",
       "headline": "Goiás tem 103 mil casos de dengue e avanço do DEN-3 preocupa com retorno das chuvas, aponta SES sobre avanço da doença - Jornal Opção",
-      "headlineTranslated": "Goiás has 103 thousand cases of dengue fever and the advance of DEN-3 worries about the return of rains, points out SES on the spread of the disease - Jornal Opção",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T18:26:00+00:00",
@@ -348,34 +551,12 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Jornal Opção",
-      "headlineJa": "ゴイアス州のデング熱感染者数は10万3千人、DEN-3の進行で再び雨が降る懸念、病気の蔓延にSESを指摘 - Jornal Opção"
+      "sourceName": "Jornal Opção"
     },
     {
-      "articleId": "gnews_ba27cc01b8a8a6b4",
-      "headline": "Prefeitura de Macapá reforça combate à dengue e retoma borrifação no Loteamento Amazonas - Blog de Rocha",
-      "headlineTranslated": "Macapá City Hall reinforces the fight against dengue and resumes spraying in the Amazonas Subdivision - Blog de Rocha",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T18:03:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnRYRThWeDJZUEdtaDRYUV9RZTdfVV9MUWpvVG9FLUNkN1k0WnZyeEllTWVmc2ZUWkdValQ3eVZKTUtaSUtrajE3SGg2VUZoTVVpQVVsX0QtQ2RfUjdwRWVSNGRwS3k2X3d6TUhWS0NVNVZiM1RXZ09UbERmU2M2WlBIVjBKNlhQM3h5ZXRiZmJQamd0SndHLW9hbEZtRmRsdXJPYmNobVdUVmt3YmtSTlAxT1ZqVElaX3lMcw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas",
-        "Amapá"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog de Rocha",
-      "headlineJa": "マカパ市庁舎、デング熱との闘いを強化し、アマゾナス地区での散布を再開 - Blog de Rocha"
-    },
-    {
-      "articleId": "gnews_478246450929b2f7",
-      "headline": "COSEMS/SP, SES-SP, Ministério da Saúde e OPAS avaliam estratégias de controle do sarampo em São Paulo - COSEMS/SP",
-      "headlineTranslated": "COSEMS/SP, SES-SP, Ministry of Health and PAHO evaluate measles control strategies in São Paulo - COSEMS/SP",
+      "articleId": "gnews_573e92f2f3ae77f5",
+      "headline": "COSEMS/SP, SES-SP, Ministério da Saúde e OPAS avaliam estratégias de controle do sarampo em São Paulo - cosemssp.org.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T17:12:20+00:00",
@@ -389,13 +570,12 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "COSEMS/SP",
-      "headlineJa": "COSEMS/SP、SES-SP、保健省、PAHO がサンパウロにおける麻疹対策戦略を評価 - COSEMS/SP"
+      "sourceName": "cosemssp.org.br"
     },
     {
       "articleId": "gnews_6634d470c391f14e",
       "headline": "Manaus reforça vacinação contra sarampo para viajantes - Portal Valor Amazônico",
-      "headlineTranslated": "Manaus reinforces measles vaccination for travelers - Portal Valor Amazônico",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T16:21:42+00:00",
@@ -410,8 +590,7 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Valor Amazônico",
-      "headlineJa": "マナウス、旅行者向けの麻疹ワクチン接種を強化 - Portal Valor Amazônico"
+      "sourceName": "Portal Valor Amazônico"
     },
     {
       "articleId": "gnews_f58e9efa2e637f8f",
@@ -435,7 +614,7 @@
     {
       "articleId": "gnews_77d922695fedcc2f",
       "headline": "Meningite: vacinação é a principal forma de prevenção contra a forma mais grave da doença - Estadão Blue Studio",
-      "headlineTranslated": "Meningitis: vaccination is the main form of prevention against the most serious form of the disease - Estadão Blue Studio",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T15:46:53+00:00",
@@ -468,13 +647,12 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Terra",
-      "headlineJa": "ワクチン接種記録が不完全な乳児は、SP州での麻疹の32例目となる。ワクチン接種を受けられる場所を確認する - Terra"
+      "sourceName": "Terra"
     },
     {
-      "articleId": "gnews_7e151b4a0bf1c8a5",
-      "headline": "Dengue muda em Goiás: tipo 3 já representa 53,8% das amostras - Mais Goiás",
-      "headlineTranslated": "Dengue changes in Goiás: type 3 already represents 53.8% of samples - Mais Goiás",
+      "articleId": "gnews_fc734179b2395e47",
+      "headline": "Dengue muda em Goiás: tipo 3 já representa 53,8% das amostras - maisgoias.com.br",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T15:03:30+00:00",
@@ -488,13 +666,12 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Mais Goiás",
-      "headlineJa": "ゴイアス州のデング熱変化：すでにサンプルの53.8％を3型が占めている - マイス・ゴイアス"
+      "sourceName": "maisgoias.com.br"
     },
     {
       "articleId": "gnews_313a4fe1bb282254",
       "headline": "Sarampo: novos casos são confirmados em São Paulo e no Amazonas - Veja Saúde",
-      "headlineTranslated": "Measles: new cases are confirmed in São Paulo and Amazonas - Veja Saúde",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T14:50:31+00:00",
@@ -514,7 +691,7 @@
     {
       "articleId": "gnews_50872a7c911c6ca6",
       "headline": "Tabatinga registra três casos de sarampo e reforça alerta sobre sintomas - Portal do Marcos Santos",
-      "headlineTranslated": "Tabatinga records three cases of measles and reinforces warning about symptoms - Portal do Marcos Santos",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T14:42:24+00:00",
@@ -533,7 +710,7 @@
     {
       "articleId": "gnews_2777c299ea888027",
       "headline": "Dengue avança em Pernambuco e casos graves chegam a 668 - Tribuna Online",
-      "headlineTranslated": "Dengue advances in Pernambuco and serious cases reach 668 - Tribuna Online",
+      "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-11T14:07:30+00:00",
@@ -548,25 +725,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna Online"
-    },
-    {
-      "articleId": "gnews_b915d719069e96d9",
-      "headline": "Sarampo é confirmado em três pessoas na tríplice fronteira entre Brasil, Peru e Colômbia - juruaonline.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-11T14:02:39+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRE1JamhrTEJmbFdwUExxc1NtVDJlazE4QlQ3WHJDdFFCWWpUcll1WDFfcXdteUpJNS13NWJ3QUl4QUVqWm80NjNsbzFvaVlYeTZkTTZsTHBrS3Z2cjZmZVFYdktSVmdXWTNqd2tDVElPaHc3TFpHV2RYTmQ5cVA3aVI1di1Ham52SGR0ODB0dEJ1cGVHS21JMmdteElzbDE0YlFmLWllaE1EQm9GZm5USGs2ekl1dw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "juruaonline.com.br"
     },
     {
       "articleId": "gnews_32bce6474e1bc404",
@@ -607,8 +765,8 @@
       "sourceName": "Portal iG"
     },
     {
-      "articleId": "gnews_e88b6f1fc0904828",
-      "headline": "Amazonas confirma casos de sarampo e intensifica ações preventivas - portalvoce.com",
+      "articleId": "gnews_b23a08b0bfcb7e3f",
+      "headline": "Amazonas confirma casos de sarampo e intensifica ações preventivas - Portal Você Online",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -623,11 +781,11 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "portalvoce.com"
+      "sourceName": "Portal Você Online"
     },
     {
-      "articleId": "gnews_dec67c242f600a6a",
-      "headline": "Chuvas fora de época elevam risco de dengue e chikungunya em Goiás - Expresso 360 |",
+      "articleId": "gnews_3755949ec445879b",
+      "headline": "Chuvas fora de época elevam risco de dengue e chikungunya em Goiás - expresso360.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -635,15 +793,15 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd25tQ3JBbnJuWFFDMVgwc0t6cy1HWk5EcHVtMFA4dFhUTlNuUzUxWktjNnZvb21POXBQSGhJT0kySHhNTmRXcE5iVzByWkpYaFlnWGR4QnhJRmVFWjFDajAtYjhjSGRjQmhkbzJVZzN1MnpaV29WVjZRV2VFRWswQzJCTlhWdi1pRUQ0Wi05S3hPUEYwUlpNSGtR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
-        "Dengue"
+        "Dengue",
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "Expresso 360 |"
+      "sourceName": "expresso360.com.br"
     },
     {
       "articleId": "gnews_2f761f8861adadee",
@@ -817,8 +975,8 @@
       "sourceName": "G1"
     },
     {
-      "articleId": "gnews_6d4a8451c8adefa1",
-      "headline": "El Niño forte aumenta risco de dengue, indica Fiocruz - Valor Econômico",
+      "articleId": "gnews_9ff315b25c9044b2",
+      "headline": "El Niño forte aumenta risco de dengue, indica Fiocruz - valor.globo.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -833,7 +991,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Valor Econômico"
+      "sourceName": "valor.globo.com"
     },
     {
       "articleId": "gnews_d3bcd7e9ab8ce1d7",
@@ -868,9 +1026,9 @@
       ],
       "locations": [],
       "states": [
-        "São Paulo",
         "Mato Grosso do Sul",
-        "Pará"
+        "Pará",
+        "São Paulo"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande"
@@ -889,9 +1047,9 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
+        "Mato Grosso do Sul",
         "Pará",
-        "Mato Grosso do Sul"
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "A Crítica de Campo Grande"
@@ -946,8 +1104,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOVAydDhHbWd4cHVENTBxSTJVaEd3S3ZSNW1xRmE5QnlKbG4wOUNTSl9vdG4xVzRmNEU0bEJsYTg0ZkYtRGlFdWRFcGhubW13Wk1uTnJhZ3ZwVnFaTUg0SklmYjVkUjdBQ2EwQWpQT3VkNWJ3Y292TTBPZkxSalpzN0s4anNsTy1ITDZKY0lEekgzbDN3aVR6Z04yd9IBoAFBVV95cUxQZjZYT2tLUjFRMzZsQTJVd3NWR2lKWGJBYnFlWjA5X0JLU1I0b0hZdElJS0Y0QUZGOW9VMXRvS2xndXBJNWFQNjc1ZWRQU1ZEdnAyUUdfVC1rZTVNT0N5VjItTnpRWGhjY2ExX1NzLVFMRDEzQ0RxQWxWanlBM0VweV9XeklFc2RhNmQwQldjN0hkeUJJNEZfeGQzWmt5cVpz?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
-        "Dengue"
+        "Dengue",
+        "Chikungunya"
       ],
       "locations": [],
       "states": [
@@ -993,143 +1151,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal A Voz da Serra"
-    },
-    {
-      "articleId": "gnews_df83e3d581d6f571",
-      "headline": "Pernambuco registra aumento em notificações de casos de dengue e chikungunya - Blog do Erbi",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T17:09:27+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0tubVQ5bmhKTS11VHZYUml4UWdNSmZSUEVWZ1UxOVJuWE5wVHUyMHR4TDZzNHc4ZVA4M09kVDhzbGFLODlIOTNPYll1OVpJMzdZb2J2YWRwSkk2NWpYTG1LSmQ3T1V0RFVSbjRSNUowdG1RZDR1MnRZU0t2UmU1TVhxWXJ6U2ZsdUh1XzBtdGlXRmFTQmUtZTBzSzRvcGlob2ZNRld3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Blog do Erbi"
-    },
-    {
-      "articleId": "gnews_ce71bb474bc38d9c",
-      "headline": "Marataízes tem 12 casos ativos de catapora após surto chegar a 129 registros - Jornal Espírito Santo Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T16:01:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS28yRkNtdlowSFdmMEVwaEpTV3IzMjN3SlZ1enRUQURVc0dWWDI0blpYaUlLeHc2RElMb3RKNEVnZ3YySUdXUnpiVGVxdE5pUDd6NGtrRDh2d0lFS0Mxc1AzcEhEbEJxWkdyYy1WRUlTUm1CVGwxTld0M2dzV1FnRV85RkVGcTMybFM2b19vYlVHMGRtcEpZUTFOVTJQaVk1Y2t2YW9aSWtzVU1WSkVZSHpnbUxIdy04UVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Espírito Santo Notícias"
-    },
-    {
-      "articleId": "gnews_b32056a890ee2f4a",
-      "headline": "Três distritos de SP retomam vacinação contra sarampo para pessoas de 6 meses a 59 anos de idade - Jornal de Brasília",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T15:27:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX2pPTDZtNjJkU3RLb241OW5SWHIxMzV6eFNyejlaUUJ1bUFBTmJRVWlvS3pqLVBDbFI0ekMtZUk1U1NkV05JRnlWNmtLRjdQOXFtM1JMYUxNTmhYMzd1SkVBQ3hEMEhRWFpqWlc1UXBnR3RuNnYxLWFVY19HVXZIT1hmX0F6VnQ0czRRNkFlOS05Tl9Ka2FjNDhfTFJjaXBrM1RScnBtRnRBc3o5dHJlQlhyZWtqMTZ6T3ZTLXpyNmVSclZXclljdEZ0OGhvMmhDYkYtQ042MElqcWxXSEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Distrito Federal"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal de Brasília"
-    },
-    {
-      "articleId": "gnews_3bd685a5b7d7d83a",
-      "headline": "Preventing malaria’s spread in Brazil - Harvard T.H. Chan School of Public Health",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T15:11:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtOTFyOFJqbW9BMHJYQjhCd0dNcHJKcXFyUm92eTlHWk5tYmp3NnhUNElFX1BDQTJEYTA5ZjBUclZCNU1FSEdJRG5YQnRnWEwxeWVCLVhBblNmSDdLRnlMMmY1anhpVFBidkotazZpTUVjOFlpY2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Harvard T.H. Chan School of Public Health"
-    },
-    {
-      "articleId": "gnews_8f3cbf97d10ad899",
-      "headline": "Pernambuco registra aumento de casos de dengue e chikungunya em 2026 - CBN Recife",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T14:16:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVg0QUY1Ml9rLVl2N1pQMEM3UUdLTHRsVV8tNjdKTFlVM3lMQzJibF9SdTdPSVdNdW1jY2Y1akIyNDE5bkZya21qWHNqWGVySk1KZUFzck82bHl2MFlkNURmZUhoTmVXSm4tZE5NcjAxbTdmWVJqc0Z6eFBoWS03S19DY2NiNEhpcUE1N2FYRDdxQlpqR1RmTkxHR01yR1U3eFZtY200ejNiRlF2VmZ2LVFhTzczMVpoUkk3T1ljSQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CBN Recife"
-    },
-    {
-      "articleId": "gnews_67374de6ccab054e",
-      "headline": "Sesa investiga possível surto respiratório em hospital de Linhares - ES Hoje",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T12:37:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBseEZ3Skh3UW5ld3E4RlZoMmFkbHg5OXhpUVFBNUR2YWpxMWEzNlh0Z2VrZHB5c1ZoOEZTUlZQMHFIRmE0dmE1LWtydzJBamdEQWd5M21hei1xZldvMTFVTzA1eDNjRzBhUThTWGFScWR4NlZ4elpnTTBxMjF3TXhQZ2RHbmp3NVg5cHAzZzI3Qy11M3lLeTVFUzJRWVJTaFpma0JQcUdfRGw5WjQxMDJ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ES Hoje"
-    },
-    {
-      "articleId": "gnews_afaf63a5958efa02",
-      "headline": "Pernambuco registra aumento de casos de dengue e chikungunya em 2026, aponta Secretaria de Saúde - Terra",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-10T12:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONjF3QTVrUFVpNTVROXJpVnBFQUx1Mmpfa3d0MGpHV1AzT2JrNFpHZS1La1ByNXVUNmtmQmdHTFlNeTlWSjgzZmZOVUctYmJvVmpyb3Jhb3J1V1Q3SmZxQVc3UmxLbERBVkMzSVhGc0ZGQ3JfZkhzenVkSnBFcTdZRElET3QtWkdYNWtMR1dTbGcwZk9Jek1aZGRydEFsYmhWT2RXaTJDclVFTDhkcHM1blE1WHNQelBMNXMxUFRuYk5feHVmUTFqVFFZWjB1V01sWFVkMkNRTjlwbVUycktIWDJMS2ZRVkdEWXJKOTZyNUswbGoxRGRkS3JXaklhQW9obkoweDYtVjh0LXZlVm1mWDhwZ3JFbHJOb0E?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chikungunya",
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Terra"
     }
   ]
 }
