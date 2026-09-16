@@ -1,33 +1,295 @@
 {
-  "generated_at": "2026-09-15T19:40:19.350953+00:00",
+  "generated_at": "2026-09-16T04:02:30.692093+00:00",
   "date_range": {
-    "start": "2026-09-13T19:40:19.350953+00:00",
-    "end": "2026-09-15T19:40:19.350953+00:00"
+    "start": "2026-09-14T04:02:30.692093+00:00",
+    "end": "2026-09-16T04:02:30.692093+00:00"
   },
-  "total_articles": 27,
+  "total_articles": 44,
   "state_summary": {
-    "São Paulo": 4,
+    "Bahia": 1,
+    "Pará": 11,
+    "Brasil (estado não identificado)": 13,
+    "Amazonas": 14,
+    "São Paulo": 7,
+    "Rio Grande do Sul": 1,
+    "Acre": 2,
+    "Paraíba": 1,
     "Goiás": 2,
-    "Brasil (estado não identificado)": 9,
-    "Pará": 5,
-    "Amazonas": 8,
+    "Alagoas": 1,
     "Tocantins": 2,
     "Sergipe": 1
   },
   "disease_summary": {
-    "Measles": 19,
+    "Avian Influenza": 2,
+    "Influenza": 2,
+    "Measles": 30,
+    "Dengue": 7,
     "Chikungunya": 1,
-    "Dengue": 6,
-    "Meningitis": 2
+    "Meningitis": 2,
+    "Doença infecciosa (não especificada)": 3
   },
   "articles": [
     {
-      "articleId": "gnews_163b9009e519b2db",
-      "headline": "São Paulo confirma 4 novos casos de sarampo; estado chega a 36 - portaltela.com",
+      "articleId": "gnews_fa4dfa28107928f8",
+      "headline": "Bahia prorroga estado de emergência zoossanitária para conter avanço da gripe aviária H5N1; veja os prazos - Bahia Notícias",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-15T19:16:36+00:00",
+      "publishedTimestamp": "2026-09-16T03:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ1NLRE5vREhaQkJCTWxVaUVLYW1JYnpiQ0d4Z1VtZkNpMVh0OXl3RE53Yks3UjgtTVZWSDBXOFJNMHMybmtVQ2xyYlRsblRWNXR2RHBySHVLZ2NqOUdPMzdGcEx4dWpiV253Z2pLanJoWWt2Qjk3M2dIREJMbDlvMHFZLUxvWjJPZ2xvV1pWSG95T0hJNHEwUWs4QzMzc2dDR3pjbmhPTDg2RlVTanNKcEQwblI4VkVBaUhpbEY0aVZjUnJqMGMtRE9HZi00N2JpWlBJaDlMZEpUbVZ3eHpfYnUxU0lvdXRtM1pkY0dwcw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia Notícias"
+    },
+    {
+      "articleId": "gnews_b44769f8969b6c74",
+      "headline": "Bebês com diagnóstico de sarampo não tomaram vacina - jornalcruzeiro.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-16T00:39:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkVGbjhJeU9lTGpsZDFqaVNGbkpjQnRWMmJfVjNZdGNuSHF4LWtNYS11dlBrMU1vdElkN0FzdVdyQ2l1VTJmYVBkTlo5TXhRTEV5Z2FJaTZPUHdEeUVybVdONDE5V2FLSnAtbks1MGkyZURpc3R0VlNOdGdzTDF4TzVETHVhLTA0RkhiVFNtY3dRRWNjRVk1VlJIdGc2T0ZQX2RHazMwLWdoU2ZVX0F2THJIcnVXMVZyUHfSAb8BQVVfeXFMUFNyYndHaWw4U21MQU40bXdObDVmd25Bc3M4ODRKVm5yUjNYcm4yQ2VkWFdQckh5ZmNLT3ZvVGhYNFdUaWRnUXVraHlVRXFyM09GWVd5cXFDNFY3MGRMMWNrcEM0ZXF6RXhtMnhRaTBGZjI3Z2dmZEhjNER0RUdlQ2FUX2x3WnFBMkFfS0VNa3RlOFpVcXgxY3h0OFFaQUdLTTM5QXNsWHZFUWNGbDRnMVl2S1NNRk5VNE9BR2gzRlE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jornalcruzeiro.com.br"
+    },
+    {
+      "articleId": "gnews_a9d54d0b72dbc44b",
+      "headline": "Amazonas confirma quarto caso de sarampo em Tabatinga - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T23:17:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmlGQTk5Ykw0c0NRVFU0NkNNUGZhUnNHbFRudU9NTDM0dU9RY2NVZ0lxWXk0cloxcjF1LUNUT0xBRlhJZERYTEc5SjFqOTBjT1FZbWR3TXZFOUdSOC12MzdiMWtaTWFrTkZwQ0JOR1o3LUpRYUJ6blYwTXY5S0ZkcmhKbUpUeXZpQTNYdjEwRTVORFlpa3o1bTJiU1dtc0RKTDYxUEdOR1VoMFh1ZGUtb1lacm56aWN2R3U5eDNIaW92VnE2dkNpay1QNENJZ3JQZURpctIB1AFBVV95cUxQTmlGQTk5Ykw0c0NRVFU0NkNNUGZhUnNHbFRudU9NTDM0dU9RY2NVZ0lxWXk0cloxcjF1LUNUT0xBRlhJZERYTEc5SjFqOTBjT1FZbWR3TXZFOUdSOC12MzdiMWtaTWFrTkZwQ0JOR1o3LUpRYUJ6blYwTXY5S0ZkcmhKbUpUeXZpQTNYdjEwRTVORFlpa3o1bTJiU1dtc0RKTDYxUEdOR1VoMFh1ZGUtb1lacm56aWN2R3U5eDNIaW92VnE2dkNpay1QNENJZ3JQZURpcg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_7bc0592953988540",
+      "headline": "Tabatinga confirma 4º caso de sarampo e reforça vigilância no Alto Solimões - O Chefão da Notícia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T22:32:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXdLeld3UjNsZmVSYkYyYlhjQnEwQlBuWDE0b05jb1A0MnBPMEUxMjhIMk8zY2JGU1BHbF9BUWVjdEZDdVhLM21SRXBINVUwOVhRYzlkTmZQbjU4bnBRTGM4TXNqUmdTT1kyQlM2ajdrNEVsQklmbWsxeU9yamFRaXVlSmZoMWpETnpUVWFkX29NSXZnSzN6cm9ZRkNjWGdkcDN4MnpxOXM0UkpoOTRPSnB0R2I?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Chefão da Notícia"
+    },
+    {
+      "articleId": "gnews_03f62b3b4562c396",
+      "headline": "São Paulo tem quatro novos casos de sarampo; total chega a 36 este ano - Francês News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T22:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTgxaDVsUmdMek9hWHZpSEMtc1p4RHZIeER0Ql9PVGJFN1UwZC1CakNMZFc4N1RKMmxBeE9zTkNjVXpQZW1qT1V3RklCTFVKMDNidlgtNVFjY0N1b3BBeklQQ3BtYUFoOTZZY1kxYXpJNnBLcVo1WUU0UzJQMmNxZW16eEphWnMxblpTVzdRSmV0amlCVVlLN1ZMYnd6a0tzbU5JTGlrRERxY0c2UWNZSUVCdkJZMFAxdGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News"
+    },
+    {
+      "articleId": "gnews_c63a079cdfbcdcd7",
+      "headline": "Amazonas confirma quarto caso de sarampo em Tabatinga, na fronteira com Peru e Colômbia - Grupo Jota Sidney",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T21:51:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZXYwMnBJeHBmQlk2b2RHVEZldUx3eVRqQ3pseGY0R18wWDlPWVZSUzZGRDdZdjNKRDhjc0dwNVFBcXQ5QnhTQVBGV05OZndwMjRSQ0lSWUp1ZFdsX0xjLWpGZ0s3OHdmUDRQdDJCUF9uX0pIbFVxVU5hc1lJc3ZhTDM5bFRtN2dGLUt1NklDZDE0X1Z0WUJvTjQ1ZDVfdlJfYXkzbERmSXRGQjhCMWJ6dHM2LUNDMVF5aXRPY2dhOV9MQ3djemdudEFPLXM5TVBobTIxeTEyWWxSWUJ1SExRMkFlRWRuQ1dhSHlXUnJlbC1faGxseWVUY0RHdjFxd9IBgwJBVV95cUxQaVBWYTQzSFpQT3VUenh0R2NZUW11LVdqNlBWMGZvcmloYURVR1cxQTB3R3VrdVR1bi1ERTdEcmxOS19zMFRNeV9IVzdiMVhlMHllZUdYdFQwcFpkblBaZzA5c21HU0hTOW5HUUw3VHRLclY3dzZ5czlPcW5RM19EdkF2SmdQTVJueFVoVXRoN3Fmelg4cVI4MV9uWjQ0U3ZyVDJJVFpHY1BpTDNjNWlieksyQ25VVURDUV9FT3dDanFIQWFzUHF4aThYQ04tZWQ5MnBKdXJYRC10Mk9DYjFiZDJvdDU0NkhTcW5jYUFVWEpZYWpTSmFLYUpDUzItSGVwaUI4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Grupo Jota Sidney"
+    },
+    {
+      "articleId": "gnews_32fc8ae795f9c49d",
+      "headline": "Porto Alegre: Butantan busca voluntários idosos para estudo de vacina contra dengue - R7",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T21:17:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQczVVUF9xTmlzTFZ4RWNFaEtMSm4zNWpiMk12a1VnejVFdV9aSjBEZEczcVdpU05zZWNVMURubGM0N01qWDZqUTAzdkhJdmhPZmhXOEhTa0ZxeFZNQnNDdHZnV3pQWHFKZFcybzZGdVFDU2JfZFhmdjZ1MGpRU3lYck5SM1h4d01PSkRmWkJPRlB2dGl2eUFhbjlmS05Pd2VycXN1OW5TWEtWckVjeHZwTlVjeWhPejYwZ2Y1Y1hfWGdzNnN1VDhBQWRTS3FqNjlzcDJZYVZ5Zm84LUlJUWR5LXV1MXp1dFk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Sul",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "R7"
+    },
+    {
+      "articleId": "gnews_dc41bdc8d7f5cf09",
+      "headline": "SP chega a 36 casos de sarampo; epidemiologista explica importância da vacina - Rádio Itatiaia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T20:52:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0NUeUdpQUVFTE5taVBHVm1YOUdWckZfbHJ0YWdBT2hKSExmaDlRMjA4SVVwX3hmT2JORDVEZWxRcDdoSGxjX1lHamRRa2JLUDlUbWdvX0MxeXNkRUs3NmY5UWNIQVpMMEtUbDg4ZUNkRjFGRTBENWtHTlVqbGl2LWI0bWtZOEQzN0kwLUg0OWhRQUpWYWNyeHhlb0lfTkp5b3N2NDQ0UTZCd2VKU2xmMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia"
+    },
+    {
+      "articleId": "gnews_d04d5a00441ba180",
+      "headline": "Amazonas confirma quatro casos de sarampo em Tabatinga; todos os pacientes são peruanos - Portal - Rios de Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T20:51:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG5LNGhEaFJxZEFXRWZOSUZ4aEY5cFBlRzBUNzVMSW03SlQ3T3MyU3N3TXEtTTJPWms5NG9BNjFYbFlodnE5T3M0aHB4SXhyWXVCNFJkcTc2UGliNThGNjBuNmxJcW04eW93UkZnajExazJKb1B4QnNTZFlVay0xWEMyaG1TUVF1NERkMjJxNWdwdW8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal - Rios de Notícias"
+    },
+    {
+      "articleId": "gnews_88f720d555cc8f33",
+      "headline": "Após Amazonas confirmar casos de sarampo, Sesacre diz que monitora cenário - ContilNet",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T20:39:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnZpeFBaWGV6T1VTU1dUc0tQUVpZeTM0Qi1mMjFKcW5QNGtBa3pBNHZ1VHRBOEk0X1NRM2lPSm1mblo1LUNSdml4SjR6cll2aVBLRk1XMVBfOWFFOHQ2ckhBbkVFeXA0dHZOcDdCaEp0dEl4ckZ5TEZiZ2FuMTBrYnIyd1ZYU3JUeVNVTlNib21CY3A0bFBOQlA0ek5qeUpFaVZFamdJblRRVnRzc2hnMUFNX0ZuR2NsTUJBY3VxU1hNeFdSMDJPZdIByAFBVV95cUxOMnZpeFBaWGV6T1VTU1dUc0tQUVpZeTM0Qi1mMjFKcW5QNGtBa3pBNHZ1VHRBOEk0X1NRM2lPSm1mblo1LUNSdml4SjR6cll2aVBLRk1XMVBfOWFFOHQ2ckhBbkVFeXA0dHZOcDdCaEp0dEl4ckZ5TEZiZ2FuMTBrYnIyd1ZYU3JUeVNVTlNib21CY3A0bFBOQlA0ek5qeUpFaVZFamdJblRRVnRzc2hnMUFNX0ZuR2NsTUJBY3VxU1hNeFdSMDJPZQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ContilNet"
+    },
+    {
+      "articleId": "gnews_34dad23fc3d9c472",
+      "headline": "Após Amazonas confirmar casos de sarampo, Sesacre diz que monitora cenário - ContilNet",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T20:39:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1JOZ3J0d2hDUTctbjYxb1BXMk10QXI3eGlFdThldlgtcFNRdlg0OHdWN055UmNTdDI0d1hQRmlwbDF1aFJVZmEwaEM1VWpfb2Zwb282NlJKYU0xQXc3dWlvaDJUZFYzTnhHUlNxOEZuZG56Q2t6NDZMekxrSU5YQzd0TGlWZHFEYjNHNm52dzVCTHhYVWE2RWd1QVhoWWE0SVk4Vllsek5WYWJraUlscGE5dFVXcWVZcTBvNGZxZGZyWlnSAcgBQVVfeXFMTjJ2aXhQWlhlek9VU1NXVHNLUFFaWXkzNEItZjIxSnFuUDRrQWt6QTR2dVR0QThJNF9TUTNpT0ptZm5aNS1DUnZpeEo0enJZdmlQS0ZNVzFQXzlhRTh0NnJIQW5FRXlwNHR2TnA3QmhKdHRJeHJGeUxGYmdhbjEwa2JyMndWWFNyVHlTVU5TYm9tQmNwNGxQTkJQNHpOanlKRWlWRWpnSW5UUVZ0c3NoZzFBTV9GbkdjbE1CQWN1cVNYTXhXUjAyT2U?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Acre",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ContilNet"
+    },
+    {
+      "articleId": "gnews_4f3de73171047de4",
+      "headline": "Operação sanitária monitora aves em 27 municípios contra gripe aviária e doença de Newcastle - afnoticias.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T19:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDJ1ZXNaNmNVVjRCZjZUQkVSb2tpYjZSa0Z3Y0Fhc1VzRk53ekNEU0s4U0tIS0dJWFRxbm5LekNNeDRHcVlVNGJvSUVCekhmTVE3ZEtsai1tR3BMLU5maDJpN2duZ1hJaEZFbDc1NGhQM3NQWVdmVW9lVFpPWHYwc1VFQzRod1hEVGhJejhGV2JhTzc2RERtcmpwbUY4cWMxZHVza3liOWk4VG05cjJFRmN6S002Vkl4LUZSZzBMZGxuOEU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "afnoticias.com.br"
+    },
+    {
+      "articleId": "gnews_039c9493fdb38e16",
+      "headline": "Alunos da Paraíba chegam à semifinal de concurso com sistema de controle de cisternas e à dengue - Inforchannel",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T19:33:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQck9GUlRzUjRrbzVBdUJnOExKVHd1clh6VEtoOEhIMThxRl9hV0lFRlFrbjBsOFlfM0g1SDFiZVVKVGl1eDgwbXcwei1iWDc5S0trUG0wTE54OFh6OUFxdnhmSUJrcF9fMUFMdDFKS3VmX3JxVGVhNmItbUNBU3hSS3dramMxQV95Y2tuOWtZbzRycjloRzdwamdKNmt6dGF6VjVBUkdEVXRvdEc2aFN6dUdWODVKU3REaHFPa2lWdzBCSnJFbTd3NXUwaklJM0NLYVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Inforchannel"
+    },
+    {
+      "articleId": "gnews_9a9b1d397b0ae6a2",
+      "headline": "São Paulo confirma 4 novos casos de sarampo; estado chega a 36 - Portal Tela",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T19:16:01+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVduMzBpUWN6aFFKTkN1V2UxYTFZUjB3YTdGNV9yZWp0Sm5IXzdTRGxLZnhlUlE5ZmdLOEpKUFlxMVlLX2Vzb0ItY1FLUTgxNnh3WDJ0bmRDVm9iQUpEd0RGQXlVc0g3NjJPUUV5cm5JLWVLaEUyZWFqVFBpY0xqdEtZTmRhYl9QZlFkcDdBby1vdkgyMy03ei1mcko5X2ZmX3hiZnpVZXJmTlE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -38,7 +300,7 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "portaltela.com"
+      "sourceName": "Portal Tela"
     },
     {
       "articleId": "gnews_b05fb4afe9f1f5e7",
@@ -59,25 +321,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "R7"
-    },
-    {
-      "articleId": "gnews_32d94e6678d00adf",
-      "headline": "Bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP - Correio Braziliense",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-15T18:11:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmVlV0FncS1XWGRaRzdOaFU0QUVBSnlQeDBrUmdRLTNyaTZSREdKS1lybVVrTkNoZ3NMMUFPYjZwNU84QU50dUd1bDRud0lOY0FtZW9XamJhSnRLekc2ZUV2ZF82YllwOTJMR29zdmZzT1hINXJkZ1U0d2V5c0pqVFg3M2FBM09qNVRubmZRSkF5c0ZTU0xIRFh1dXA4aE9SeVRTNy1JaWtWOGNHWGdQcXZZWndFSy1CbmphTm9CdHNBWXZKYmVSTGhuNU5WcHQ5c3l3YWRn0gHbAUFVX3lxTE1fTndCbDFsWXczMUVkelNlbFByVTdsbEN2MjZMVHRSbzVnLVktTjBVekp1dDZyam53WW9ZdC1pTmdYRnFkYXlvTE81Q1g3bmdHZFRRY3l1eUtTOUY4MzRhVHdKZXNzS2ZZN3ZPdTQ5ZnZfWkg5RW5sS3dKb3NHOW5tdkdBUjhGVFVodHpxcEVBcWo3T3JOR29aejgzT3ZOek1VczRSOFZqWW9DMUJoNU5sZG16MldTcVZWVC1QR2xaVWJiYzFqaU9aakUxZTNmcjQ1N2FSSGZ4SVdlMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio Braziliense"
     },
     {
       "articleId": "gnews_1e94eb724f9f0d77",
@@ -118,6 +361,44 @@
       "sourceName": "A8SE"
     },
     {
+      "articleId": "gnews_adb80acae0a58d19",
+      "headline": "São Paulo chega a 36 casos de sarampo no ano; 26 não tinham vacinação completa - liberal.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T16:18:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHZJVVJXQlBxMVFKTDJwUVR3dzBZek5md2h4SHI1SFE3TmxlclJDTHdWTktXMlN1Mjg5S1dNcG40Um9JcTdMajBFa3Bqc1NLX1dxUHBqNGplUEJyX1NkbDFKSTEyblh5RE13SE1PUEZuY0p3bFZsRmpuVHhNb3NqN0ZvQjN6eGxfVHZYQTE0Y2ZwdlNCTVJyTzJoQ2F1SnNBTkZHSnZ2ckE3RWF0ckZEZlFkY3VxMnZvMmRwUmYyX0ZBaDA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "liberal.com.br"
+    },
+    {
+      "articleId": "gnews_f7f46939f40366fa",
+      "headline": "Mais dois bebês com esquema vacinal incompleto são diagnosticados com sarampo em SP - terra.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T15:57:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQejVUNmpUaDVER1RMWVJzckJnbXVQM0ZxeWFQN0lsTnJ4NG9wR1ppTFRWajdVZ2diVFM3ZVhTLUFxZHZhNm9MNmpoYmJDQWRrekJaZi1IekZUMmpWcUlvc090bXBvR1d3RGh6Mm5JTUJMSWdIZUtOREZRTUgxbzhtb08tWnNVUUwteDNqUG9WU0s4VHVHazFzQkhwMnNkOHJka0RpcllOYmZMSm5iQnp0YkNSMDVpWHpRVG93N0x5SE9PQl9kV0VURER5cmlJUzN1eXVockN1ZEVBdmRzeEZ2MkJKZjdfVTlOMGp0V29lUEpJOHEwY180UXc3WW1vX2FXZl9UeVlWWGhMdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "terra.com.br"
+    },
+    {
       "articleId": "gnews_7485c509f3e90efc",
       "headline": "São Paulo de Olivença inicia vacinação contra sarampo após casos em Tabatinga - G1",
       "headlineTranslated": "",
@@ -156,6 +437,25 @@
       "sourceName": "Panorama Farmacêutico"
     },
     {
+      "articleId": "gnews_a3c252c342bb547b",
+      "headline": "Saúde de Sul Brasil adquire microscópio para reforçar monitoramento do Aedes aegypti - rco.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T13:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVpCVkdUNEtxOURfMmJFbG5IaURuTmdOQWw2aGR6ODZjdDBtc0h3UUYzc0ZaX0ZaYk55S05UY3NnQUd4YnV0U0JIcWRPQ0QyMWtQZGNoVW5xSTAxOHZTcXBKeE9fREJmMU5aVGowVmlBeVNFbVhaendVYkYtVG1Wc2UyOFczTTJ4MkhiMUZodWYtNThtVUQwekRmeHN3UUtPUUZSUHZQUEJFM1o4WC1Ka3RaeHZVWUw0ZVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "rco.com.br"
+    },
+    {
       "articleId": "gnews_7ff991ce7ca4fee5",
       "headline": "São Paulo e Amazonas confirmam novos casos de sarampo em 2026 - Portal W&G",
       "headlineTranslated": "",
@@ -174,6 +474,28 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal W&G"
+    },
+    {
+      "articleId": "gnews_125d4c0db9b0a675",
+      "headline": "SENADO FEDERAL - Novos casos de sarampo confirmados em São Paulo e Amazonas em 2026; Comissão aprova subcomissão para desenvolvimento de vacinas. - Repórter Maceió",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T12:33:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNjdrMXpLdmQtdlRKUkEyMExKQkZxZ1NWR2c2UlZzeEl6UkRnMUh3MnBERjlPY3JZeEVlYTN2WUllbHpoblFVUzk1LTVlQnZxR2hhWkR5b3Q0aC1hX01vcVR2S21mNEE3Smo4NFo5T0hKWTlJMFFZbHRHSHNUYWl3WnZuSnAxSndHX0RLWURPaGFBRzd2NWdMZVFJNURrMnE5aW45Y2EtNk52QnB6NUhnOUdQUGNtQ1V4M1BHMi04OHd5SHpOTzU0RWRuWDJVWG5yTlBSa25oM29ydThGMkZsQ0NDTG1hSjhYaGs3VmZ6S3FUMWZhMGsxdmJ1YUNNVmlocUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas",
+        "São Paulo",
+        "Amazonas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter Maceió"
     },
     {
       "articleId": "gnews_4eb59eaa7286579a",
@@ -196,6 +518,25 @@
       "sourceName": "Jornal Panorama Minas"
     },
     {
+      "articleId": "gnews_491eb0188360fe8e",
+      "headline": "Qual A Diferença Entre ENDEMIA, SURTO, EPIDEMIA E PANDEMIA Zionist (lmSFFGcKxl) - Unisba Media",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-15T06:05:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXVHdxTElLRTluNFZuc05TQkNTc0I4Rm0wMGxlYjVXVUF6ZnpSRXZHV2ZWbVh3LWYxWUw4UVRSRWlPODJ0U3NCSTRodi1qZzBPWHQ5RDFjdXk1RnhMbUdSRmhMZlZwUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Unisba Media"
+    },
+    {
       "articleId": "gnews_d2fcecef802b5936",
       "headline": "Casos de sarampo no Brasil acendem alerta às autoridades na área da saúde em Sergipe - A8SE",
       "headlineTranslated": "",
@@ -215,8 +556,27 @@
       "sourceName": "A8SE"
     },
     {
-      "articleId": "gnews_e2da56f050de1097",
-      "headline": "País tem pelo menos 36 casos de sarampo confirmados, em São Paulo e no Amazonas - Senado",
+      "articleId": "gnews_060d8af30e6b726a",
+      "headline": "Imunizante contra 20 sorotipos de bactéria causadora de pneumonia e meningite é disponibilizado para novo grupo etário na rede pública - PDNews",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-14T22:24:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUI3OHpfZzQ1dng3NTZ2bnBHMG5ua2o2cjQwX2laYnFoR3R2UG9TMDcxaVY4bXN6YWt6c3N4eWg1UkNPMnAtMkxUQUlzVml2cEF3WXdlLUo2VHBEb1IxYVJWLXhENTFIQkx6d0dMZFRUYlV1bUlkLW1aM283bEZERmVfT3JONTJCOERiZlJxWS1SUVBoT2VjVDlTNUtHaE02SGZnUUlfb2hxMENVSzM2LXJBaC10Tm15NGxNLUZ2TVJlZ9IBxwFBVV95cUxQYUI3WGUzcmZJVTIwcDRZSEYyRXF1MzZNaHBfTkxjNU9wUXNKVjhzSjlSdXozMWR0VU13dUtvVjlVTXFwX3VwWUFBUmQ4NTdkN1NIQ1UwMFhSclc3cDkzeDlFc0tUSlZmbkI2LXV4ZmlVRkptMFdfSXVJbk40S3UwQlhXU1VGanRlc0RZN3ZzdjgtdDJZTUppc21JZUtDSHRuY1p3TnBLZFlJYlAtbHRIQTJsLUtidEJKNXJCYW41QmhOTzJveVlR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PDNews"
+    },
+    {
+      "articleId": "gnews_a8ceb6895c546eaf",
+      "headline": "País tem pelo menos 36 casos de sarampo confirmados, em São Paulo e no Amazonas - senado.leg.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -232,7 +592,7 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Senado"
+      "sourceName": "senado.leg.br"
     },
     {
       "articleId": "gnews_2ff85b46c282de38",
@@ -286,8 +646,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Amazonas"
+        "Amazonas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "instagram.com"
@@ -312,8 +672,8 @@
       "sourceName": "afnoticias.com.br"
     },
     {
-      "articleId": "gnews_907409a9e63d8cf0",
-      "headline": "Goiânia mantém rescisão de médica após caso do CID da dengue - maisgoias.com.br",
+      "articleId": "gnews_e0747fe46f10dbe4",
+      "headline": "Goiânia mantém rescisão de médica após caso do CID da dengue - Mais Goiás",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -328,26 +688,7 @@
         "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "maisgoias.com.br"
-    },
-    {
-      "articleId": "gnews_8d1d8fbf791f722b",
-      "headline": "Estudantes de Mogeiro (PB) são semifinalistas do Solve for Tomorrow com sistema inteligente para monitorar cisternas e prevenir focos da dengue - Samsung Global Newsroom",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-14T19:43:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVFdyd2J3M3ZncHVad0dsY3EwOWxKU2U4cTR3R0JtM2w3c0NlcV81M1hOcWx4QUVVdGozeGtXdU9aYk5VTFlQREZha3RoQXZCOXphQjFCLWw4Rk5kQ1ZJLUp1TmlhVjNGU2NPNWpuSDk1ci01X0w5c1NHbHJFZHhxQUk4cjcteWR6a0tVVkZQVXR6Z3lsV2ItTWNaLXVnSm1DcGp4bllGeUVYOXN3U0kxQ3RLM295VEpDWmJKWmsyQzk3WkNrSG5CUDQtRGQ3cnQ5MmNrajBxMUt1aVUzR3ZKZjYzR1dqa0JWdTFfZFFpTGZsMmV3aGxzd2pNRHZUZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Samsung Global Newsroom"
+      "sourceName": "Mais Goiás"
     },
     {
       "articleId": "gnews_f66607657089c520",
@@ -388,8 +729,8 @@
       "sourceName": "Biored Brasil"
     },
     {
-      "articleId": "gnews_059a9a6f198d83bd",
-      "headline": "Ações de prevenção ao Sarampo são realizadas em Tabatinga, Amazonas - EBC - Empresa Brasil de Comunicação",
+      "articleId": "gnews_14b8081cd694c215",
+      "headline": "Ações de prevenção ao Sarampo são realizadas em Tabatinga, Amazonas. - EBC - Empresa Brasil de Comunicação",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -502,8 +843,8 @@
       "sourceName": "O NORTÃO"
     },
     {
-      "articleId": "gnews_c56d2aff449fca32",
-      "headline": "Período de chuvas alerta população paraense sobre riscos de contágio da dengue - cbnamazonia.com",
+      "articleId": "gnews_799a3ad4da1e68ab",
+      "headline": "Período de chuvas alerta população paraense sobre riscos de contágio da dengue - CBN Amazônia",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -518,26 +859,26 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "cbnamazonia.com"
+      "sourceName": "CBN Amazônia"
     },
     {
-      "articleId": "gnews_204a90f53cb2f9d8",
-      "headline": "SUS imuniza mais de 1 milhão de crianças com a nova vacina Pneumo 20 contra doenças graves como pneumonia e meningite - jbritonoticias.com.br",
+      "articleId": "gnews_c9afae240f3beed1",
+      "headline": "Pará de Minas se prepara para celebrar sua padroeira amanhã: saiba o que funciona na cidade - Rádio Santa Cruz FM",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-13T21:00:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmhlWlY4MjNGb3dPckZydS1lbDdHSV9jUmhSbDRrOXRFTkdkN1RrZ0VMQXpRZGRBQWsxWVhnOVVhQjVFNmppRzlTMFBwZ19PWHhMSDdmc3V1dkZJR201UXc3OHU5ei1RVUFSZWs2QWo3eTJ3ZTBSd2tGdzJ6NW5tUjNhY2dKZVpGNE5ycEUzUjh0N2J6T1RTY2k3elgwNFdsaDFEUkdLSmxYOGRhbWdOYkhEQ0thNGlGOEFfa0g3azg2MjQ3OVJ6enI4dDBSUm1qM2dYbWJkSDh1SmdReThaQ3NmTkprUGVyUUdXeg?oc=5",
+      "publishedTimestamp": "2026-09-14T07:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42amJaaW9EUFVGeFRPQWxHeXBSM1RjVXgxR3NWXzV3ZkQtaUgySTJsMWlSUGNtTklXbHRJZGtKY0lTbVJtSkRxempRelRERGZrWjRIcFpWOC11M1Z4?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Meningitis"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "jbritonoticias.com.br"
+      "sourceName": "Rádio Santa Cruz FM"
     }
   ]
 }
