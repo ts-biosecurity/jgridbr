@@ -1,24 +1,199 @@
 {
-  "generated_at": "2026-09-21T14:53:19.846698+00:00",
+  "generated_at": "2026-09-21T20:24:01.142326+00:00",
   "date_range": {
-    "start": "2026-09-19T14:53:19.846698+00:00",
-    "end": "2026-09-21T14:53:19.846698+00:00"
+    "start": "2026-09-19T20:24:01.142326+00:00",
+    "end": "2026-09-21T20:24:01.142326+00:00"
   },
-  "total_articles": 6,
+  "total_articles": 15,
   "state_summary": {
-    "Brasil (estado não identificado)": 1,
+    "Brasil (estado não identificado)": 7,
+    "Pará": 4,
+    "Santa Catarina": 1,
+    "Paraíba": 1,
     "Amazonas": 1,
-    "Pará": 2,
-    "Bahia": 1,
+    "Bahia": 2,
     "Mato Grosso": 1,
     "Roraima": 1
   },
   "disease_summary": {
-    "Dengue": 2,
-    "Measles": 2,
-    "Doença infecciosa (não especificada)": 2
+    "Measles": 6,
+    "Doença infecciosa (não especificada)": 5,
+    "Dengue": 3,
+    "Yellow Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_373acf977d1fba92",
+      "headline": "10 perguntas e respostas sobre o sarampo - drauziovarella.uol.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T20:02:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbERjYjQ0YmlqNDhCUl9OWDVIZkRBVWVvaHVNQVYwTU5ESlFVUkhITmstR0hBdGU1NXZQU2FUQ3htUVZMY3dadkNJRGZLcGZod3Nsa3ZMN09YWXBhZXZVTl8wczZmM2xwSnBWclJuZ3lPemU5ZFhVc3J6ODV4b1J2M1U0VEdkWEJXN0FhdGtVUmpUdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "drauziovarella.uol.com.br"
+    },
+    {
+      "articleId": "gnews_097d91925c0e8602",
+      "headline": "El Niño: Opas emite alerta sobre impactos do fenômeno na região das Américas - VEJA",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T20:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnJfTVdkSWFGS3Y2NXdwQ2RqTjdkT1hxR3BYR1JLQkJNVHoyMjk3QUY1SWQtLS1fUER3NkM5bjRGYlhEMkFQMDFXX2lDQkZYTXJsb2dLWHpCT3pmNlNsTVBYTXlnMktoampkWEs5M2lQeWhYTFp1SmJnVllmV2NTRWNQQXBZM2RhbEN6ZWJiZjh6LXNZeXJKNnREdF9XS09xYlJxdlZiTEZiTFFI?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "VEJA"
+    },
+    {
+      "articleId": "gnews_6c72d4436188cae8",
+      "headline": "Santo André Amplia Vacina Contra Sarampo Para Bebês - ABC Agora",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T18:28:21+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVWnM0ckJzYjR1RUI2czlJWFJCOWNwX2RObEtuTXJNV28tVmpyREp2MXFQNEtuYXhPRWtJMEdNX3JYREhydVpUTFFnOEJvbVl2cDdOTjh6Mi1iUWEtcGtsMVAtNzJJZmQwa2FxREdVWUJRR2tkV1ZRUGRCUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ABC Agora"
+    },
+    {
+      "articleId": "gnews_e9f93aea4767f1b9",
+      "headline": "Santo André, no ABC Paulista, começa a vacinar bebês contra o sarampo - PÁGINA DE POLÍCIA",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T18:15:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0dpanVkRXFmRmdOR25mYlZvVDhvbXBzSC1fQlQtS2xJQzV3U2xsQU5WalA1QkVTb21pLWI0SVVNcDFGTXpoN1BHMGhOcDE0VzMtYU9HYVQwMkRJbDBGeTZla0FQcll6LVhtZGxCTjF4cHBnUFl6bWZoRFFCRnZLV3ZMUWVWQ1A2VGk3TVMyaEc4ck0yc1RWWmVCN2ZuUEFNdTljU1d1U3hna0duQUpneXJlTEpCd1FV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PÁGINA DE POLÍCIA"
+    },
+    {
+      "articleId": "gnews_2e6e9de126943500",
+      "headline": "Santo André inicia vacinação de bebês contra sarampo com dose zero da tríplice viral - Metrô News Jornal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T18:04:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUxVcGk1TFd1TUpsTXBHNjJfZ0JLczFqZGc5Tl9KZ0IyU0ZfNXh5R25SN0JIQ0w0YkxqTlgzXy1lNmJTZDY1ZW9HQ1p0TFRqZURwS2c2cXlmcmlETW5rQXpKYnh4Y0p0ZHB1NndYUmN5UDl1dThNbmpKTzBiZ0dnRjdMbDNZSVFKQjJvSm5ONVg3alFPVkZTS25fOUN3eVlTZk4xNGxtMkM1aTByOU9v?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrô News Jornal"
+    },
+    {
+      "articleId": "gnews_6c2fe0356b63b59b",
+      "headline": "Palhoça registra período sem novos casos de dengue após reforço das ações de combate - Santa Catarina em Pauta",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T18:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkY1X2pNeDQzcTNVS0ktQThRSUpMdUR2VVZva3ZBclNBRmRXYzZ1Zm5vMkNxN1JUOWxDSmZJT0hTaGsyYnE2SUpJTWpCRjJhVFZ0X0FXT0hoZnVSdFNoMUtaMzJvNjFJa21Ea1V5b3ZkV3pZcE02a2pSbzRUWjAxZFhFN3NfTm9ZN3lhQ0ZROGNyV1FOU2g2TW5NWjBmVU0taFp5VzNtekFMWGtSWF9fSjRiWklBVnQ4OXlYSjBqMC15OVFVV2FmcWNhb2JQbC1xM1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Santa Catarina em Pauta"
+    },
+    {
+      "articleId": "gnews_2ba692cc7c03f631",
+      "headline": "Super El Niño: mudanças climáticas exigem planos de contingência municipais - Rádio Tropical FM 99.1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T17:27:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDNVVzZIYWNvUnNVQ1ZvVVoyTXB3c1NCckhleEdhZmwtLWUyOEV2U3Y1dUtDTjVpb0RxUVlMOC1SbGZmajFtc3liZlVnZmQ2WENWRXEyRm50ZHFpVFVESGt1YnM2Mm12bDNNSS1CTTI4SWdxY0VyV1F0NThka2wwaDNUaERJVUJ6dWNfMTFWM2VnLU0tMkRMWHdDMW1MRFgxOVdpOTBfU2E4X0pkdGNr?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Tropical FM 99.1"
+    },
+    {
+      "articleId": "gnews_eed3e7949608fa5e",
+      "headline": "Países que exigem certificado de febre amarela de brasileiros: veja a lista completa - Estado de Minas",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T15:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczdCaURMbW43eTZjRmtWanFPQ2xIeGQ0T0VYQmR0TV96STlDM0xnTG8zeTlhcXlXSS15YTRub0lUOVNwRkRiQldmUXZvTHRVMVYwYk1YU0I1XzNMTDUxRlQtWUx5cl8tc01SNWg0TlBkbFBxZ3dhLXNuWkJ0R2syR1lPRUxxZ1lPYWRHMTRqVGdrM21EekxlNG5Lc0UxT2xJaloyOWNOZjQzeWFRaHVGck9TRFJGWmtMNURKT2liQ0xZVUxzLXlhOUdOVWRkVXfSAdQBQVVfeXFMTkZ4SjRtVUkwd2EtcHg0dGxaWUQzNEwtTjEyeWVJYzY0RTJEWm53U2tCUm1MUGRKNkpCZnVlSGZYbUUxRTAwUHVvbkhzdnR6NUF5OHdEREotTDVKNGRycFNmc0JkUkZ0dlBOcEVxc1B1LTB2eDA1aFpGT0xIVy1vcFZzUWJmVG1GdzlIVlVDSXpmVHpHUEJJc0FCb3BNcUtRVngxY3JjR1ZkSFMzckVOMnFkWV9JMkpMcHFfYnFHaERmTmM1X3UwZnRiZkVzLXBfR2hFX0c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Yellow Fever"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado de Minas"
+    },
+    {
+      "articleId": "gnews_a804c87f3b6f0c7f",
+      "headline": "Mulher suspeita de vandalizar estátua de iemanjá em joão pessoa é identificada pelo mppb - Portal Sertão da Paraíba",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-21T13:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0lQY3pkRlI2czZOTGNYdDFWSlBuN2JhNC1VMTJSaWNjVDVySmVlUzVpM2lqcGVZTFd5V0o4a21wN0ppTE9nMThCWGNQRE5GWHdsX212aXZVM1locERXYTFTbUY5R3FmSDNzZHA2LWVuWmNnYXVoamc1RUE0aXhBcmE4bUJpUVJSYnZ4RFVzOWlzMzd5YnpRckVFc09rRzhQTkRSVG5JTHJQRW5QeFVQS1NsM0hpSFJHMEdwR21ZS1RUUWduMFFlRHI1Yw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraíba"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Sertão da Paraíba"
+    },
     {
       "articleId": "gnews_70ff3da111c0b33c",
       "headline": "El Niño forte pode elevar risco de dengue no Brasil, aponta Fiocruz - Jornal Noroeste",
@@ -44,7 +219,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T09:18:36+00:00",
+      "publishedTimestamp": "2026-09-21T09:19:15+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnNUWjc2REMtVkhkVlNSeUhKVGx4NW1TVkNXaGZyQ1hwYmtOWG95clFtcHl6Umg5akxiOHVmUHg4RkkzZXlrdUdZTlhfLWhCX09haXo2S1Q1S0VBSkJvNDZYR1Rndm90cmVfQVcwN3lpOFlGSl8zeEJyMUtqX185aUNVbGR3SWlPbFVXRVRpd1dsUGpWaHVQamUyN3Ftc2FiMlkw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -52,20 +227,20 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Rádio Rio Mar"
     },
     {
-      "articleId": "gnews_c6059bfc285a998a",
+      "articleId": "gnews_19ef57644c60791a",
       "headline": "Vigilância sanitária investiga surto em resort na Bahia - Correio do Povo Penedo",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-09-21T08:21:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0J4REtRZjZ6UURsN0w5Sl9lbGlwZWpkdmI4bTZjbXVHcER1cHkwalVVeWFwSTJpZnBxS0JoVHNtZ0d6YXZSRVlMUXBWLXBnbkJicnF6aG1yaUVaTzA2RFVMSGV3Nmg2WVZfd0Jsbm5qUGpDYWlJbTBGR3JwWHJkZFBCZUdCSENUaVByellhcXdlclM1WDJzdFdHYUxLbXhPLWRYNjZZd3dkaUx3RWc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlcxU3BtUlNMejFpY3p6TkZUZUUwR05laEU5RF83STA5Zmt1SFhLaWxHczIzOGRQZUpTaWZ0bHRWTm9VdlJ4OW43b1hRR3lLb0RoMUgyQVEwRGljdGhYUWtfU0QxLTBfZkRxYVpxTXVMZzZhNDRtRVBUU0pJcVg1MVdkSzFWc04yZWRZZ1pvQUc4THdLZmdYTGh2V1RxOTJwSXU4SXRtM0FJNlFqT3c?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Doença infecciosa (não especificada)"
@@ -78,8 +253,8 @@
       "sourceName": "Correio do Povo Penedo"
     },
     {
-      "articleId": "gnews_d9c44dbe69a09073",
-      "headline": "Febre do Nilo Ocidental: diagnóstico preciso e informação são os principais aliados para conter avanço da doença no Brasil - trbn.com.br",
+      "articleId": "gnews_0792b042b5202639",
+      "headline": "Febre do Nilo Ocidental: diagnóstico preciso e informação são os principais aliados para conter avanço da doença no Brasil - Tribuna da Bahia",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -91,10 +266,11 @@
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Pará",
+        "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "trbn.com.br"
+      "sourceName": "Tribuna da Bahia"
     },
     {
       "articleId": "gnews_04a574042ba12921",
@@ -116,8 +292,8 @@
       "sourceName": "HiperNotícias - Você bem informado"
     },
     {
-      "articleId": "gnews_2c43578291cfe552",
-      "headline": "Sarampo: Brasil registra novos casos e Roraima entra em alerta - folhabv.com.br",
+      "articleId": "gnews_9a049471067033fe",
+      "headline": "Sarampo: Brasil registra novos casos e Roraima entra em alerta - Folha BV",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -132,7 +308,7 @@
         "Roraima"
       ],
       "dataSource": "Google News",
-      "sourceName": "folhabv.com.br"
+      "sourceName": "Folha BV"
     }
   ]
 }
