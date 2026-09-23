@@ -1,27 +1,63 @@
 {
-  "generated_at": "2026-09-23T03:59:44.678161+00:00",
+  "generated_at": "2026-09-23T13:23:59.722706+00:00",
   "date_range": {
-    "start": "2026-09-21T03:59:44.678161+00:00",
-    "end": "2026-09-23T03:59:44.678161+00:00"
+    "start": "2026-09-21T13:23:59.722706+00:00",
+    "end": "2026-09-23T13:23:59.722706+00:00"
   },
-  "total_articles": 15,
+  "total_articles": 13,
   "state_summary": {
-    "Goiás": 2,
-    "Pará": 5,
-    "Amazonas": 3,
     "Brasil (estado não identificado)": 4,
+    "Sergipe": 2,
+    "Goiás": 2,
+    "Pará": 3,
+    "Amazonas": 2,
     "Rondônia": 1,
-    "Santa Catarina": 1,
-    "Sergipe": 1,
-    "Bahia": 2
+    "Santa Catarina": 1
   },
   "disease_summary": {
     "Measles": 10,
-    "Meningitis": 1,
     "Dengue": 2,
-    "Doença infecciosa (não especificada)": 2
+    "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_1d185f5acafadb05",
+      "headline": "Viajantes com destino a países com casos e surtos de sarampo devem atualizar vacinação - Portal No Ar!",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-23T12:16:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVNlekZsS3NrTTlydlpJbk1pcktLdVRlX2g3ZnZNMGFaUWRMQ3BHbl9jTWRQOGFqSVlzVnE1VTdhMEVLcVF0UFB0blRiR1ZvcDNxREhUQW5FYnV6MzNJQm93ajlyd0kxLWRNamY3VHg3bWhNS25FQWpMSHJFSHVvRFRRbXlqZ1hVTlRsNGdnLUVOOTJMUE84Yk1kVm1HTmJ2MkVoZlB6TkUtY0pwTVhXU3ZrUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal No Ar!"
+    },
+    {
+      "articleId": "gnews_7a0f4946b0578eed",
+      "headline": "Aracaju reduz número do mosquito da dengue - Destaque Noticias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-23T08:28:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3p5em1NMV9NNU5fOHY1LXhuT1dHOHF6bWtWN1BBblByM3hQNFJTNzZDWHpOVWlGU1dkWTVNa2Fjc1NTTTh4ekN3TzQwaGNnWmVkbUpwRzdTUlphRkJIOVRvbF9tVVlrUmJlb2dyTkFyS0dCMFRuemctb2hIXzdsU0RXa1lIUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Destaque Noticias"
+    },
     {
       "articleId": "gnews_f8fa562628fe6b74",
       "headline": "Em alerta para sarampo, Goiânia reforça vacinação de trabalhadores da saúde até sábado - Jornal Opção",
@@ -43,8 +79,8 @@
       "sourceName": "Jornal Opção"
     },
     {
-      "articleId": "gnews_3dc34b000999fb2c",
-      "headline": "Amazonas confirma cinco casos de sarampo em Tabatinga - Tefé News",
+      "articleId": "gnews_4514c6dc83bf39cd",
+      "headline": "Amazonas confirma cinco casos de sarampo em Tabatinga - tefenews.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -59,7 +95,7 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Tefé News"
+      "sourceName": "tefenews.com.br"
     },
     {
       "articleId": "gnews_4f7a5df74c46c0b7",
@@ -101,8 +137,8 @@
       "sourceName": "Diário de Goiás"
     },
     {
-      "articleId": "gnews_5becd63244e9387b",
-      "headline": "Opinião | Mudança na epidemiologia da meningite reforça necessidade de rever prevenção no Brasil - Estadão",
+      "articleId": "gnews_991b952ab4c09694",
+      "headline": "Opinião | Mudança na epidemiologia da meningite reforça necessidade de rever prevenção no Brasil - estadao.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -117,7 +153,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Estadão"
+      "sourceName": "estadao.com.br"
     },
     {
       "articleId": "gnews_41316d13000b9aa3",
@@ -232,84 +268,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Aracaju Magazine"
-    },
-    {
-      "articleId": "gnews_70ff3da111c0b33c",
-      "headline": "El Niño forte pode elevar risco de dengue no Brasil, aponta Fiocruz - Jornal Noroeste",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTBxUkl3WTVqT1RwdnpTc2JHa2c5ZFZyU0t3b0FOVG5OeDRBTVlqbmFwRWptMkk4MngwQ3hpS2dBOUhxU2M2R2FrNnNOaG9lVms5dmRVdW9LSklTVzJPQmlKQ3c2VHRSUE0wSmtVbThjMjQtV2dfZndBTEJwSkxVQVBodkF1dlVuZS1zbXlLWFRoVlhKUFBYT2VEb0RnWVhjc1ZDeFd6bVBKdlJPZmlR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal Noroeste"
-    },
-    {
-      "articleId": "gnews_61589276e8e538fb",
-      "headline": "Baixo Amazonas intensifica vacinação e alerta para prevenção do sarampo - radioriomarfm.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T09:19:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnNUWjc2REMtVkhkVlNSeUhKVGx4NW1TVkNXaGZyQ1hwYmtOWG95clFtcHl6Umg5akxiOHVmUHg4RkkzZXlrdUdZTlhfLWhCX09haXo2S1Q1S0VBSkJvNDZYR1Rndm90cmVfQVcwN3lpOFlGSl8zeEJyMUtqX185aUNVbGR3SWlPbFVXRVRpd1dsUGpWaHVQamUyN3Ftc2FiMlkw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "radioriomarfm.com.br"
-    },
-    {
-      "articleId": "gnews_c6059bfc285a998a",
-      "headline": "Vigilância sanitária investiga surto em resort na Bahia - Correio do Povo Penedo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T08:21:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0J4REtRZjZ6UURsN0w5Sl9lbGlwZWpkdmI4bTZjbXVHcER1cHkwalVVeWFwSTJpZnBxS0JoVHNtZ0d6YXZSRVlMUXBWLXBnbkJicnF6aG1yaUVaTzA2RFVMSGV3Nmg2WVZfd0Jsbm5qUGpDYWlJbTBGR3JwWHJkZFBCZUdCSENUaVByellhcXdlclM1WDJzdFdHYUxLbXhPLWRYNjZZd3dkaUx3RWc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio do Povo Penedo"
-    },
-    {
-      "articleId": "gnews_0792b042b5202639",
-      "headline": "Febre do Nilo Ocidental: diagnóstico preciso e informação são os principais aliados para conter avanço da doença no Brasil - Tribuna da Bahia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T07:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUjgwdkxjcWJXUzJ4U2ZsaWtaV0pDOVZKZXI2ajY5NXNtMVA3NmJfaUpBY2l4NnZqOElFeU8xRmotZXA5QWpKVnh2Y1ZsRWhzbVB6UllvZHVuNEZhTERqQm9wWU9wMjVmajcwT2lrMU9ObmNoTWlidE9JTUdXR21RelV3TzMwMEM4Q09kR0cxYVY1Y0Z1bjI3MnpCVjFyd2g3Y0x5QWlGMXBUYXNqVlc0UnVzdGVFN2tzeVVNTnhOSXU5YjZFa1ZQTHBGWjJMSGFKeXZoZmhQRHQ2U3ljRGZxZGltZVduVWpwR3BkcDlpMGZBTU0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna da Bahia"
     }
   ]
 }
