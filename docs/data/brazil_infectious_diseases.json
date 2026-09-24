@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-09-23T19:38:33.255979+00:00",
+  "generated_at": "2026-09-24T03:53:37.279045+00:00",
   "date_range": {
-    "start": "2026-09-21T19:38:33.255979+00:00",
-    "end": "2026-09-23T19:38:33.255979+00:00"
+    "start": "2026-09-22T03:53:37.279045+00:00",
+    "end": "2026-09-24T03:53:37.279045+00:00"
   },
-  "total_articles": 13,
+  "total_articles": 11,
   "state_summary": {
+    "Brasil (estado não identificado)": 3,
     "Pernambuco": 1,
     "Bahia": 2,
-    "Brasil (estado não identificado)": 4,
     "Sergipe": 1,
-    "Goiás": 2,
     "Pará": 2,
-    "Amazonas": 2,
-    "Rondônia": 1
+    "Goiás": 2,
+    "Amazonas": 2
   },
   "disease_summary": {
     "Dengue": 4,
-    "Zika": 1,
     "Chikungunya": 2,
-    "Measles": 7,
+    "Zika": 1,
+    "Measles": 5,
     "Meningitis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_7e6d8006f1e2f41a",
+      "headline": "Flórida confirma primeira morte por dengue em meio a surto da doença - URB News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-23T21:35:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUMxMVl5cHhxdFNwOVRkaVVUM2ZaSmVyTldJWUVWWldCRlIzY0JmQUtZVmMtOTR5dWpWNWpPaFJPWldmdGRfbDY3Y2F3X29kcmZtbWo5Q3c5eDRxR0M5MV9fOEdZMkhoUHJUbzhCSkhiV0VidXlFdF9EYXk5WTF0RTVLcmtGNmNRRmg3a3lPVlBCNWlBdzd6dWhTMVVHMnlVVDd2UGZn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "URB News"
+    },
     {
       "articleId": "gnews_992ce6d2b6f00c66",
       "headline": "Pernambuco registra aumento de 35,9% nas notificações de dengue em 2026 - CBN Recife",
@@ -52,9 +70,9 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMkpESklBYVFycUs4M1JJZ2lPbWpBVFpuV3hJc1FiUlZMQWg1a3dwODFHcHRnZHhULS1Hcmd4QkFoZ1JxX3AwVllZMVA3N3dxN0hBVjI1azJOaTJjX1Jkc0JyblpCNVp1NGFiZ1NMMVBxSkxMT2J2cVNnZU50b3pBSUtFLUx1MmZPbWlMaDM4WHFDcEx1YXpUcHRGdmNTWGc1aVhqUGJjQnJVVEdQWU93c0tBcG0tR0pteFdON01GQXhaWExYYXk4Q3FCaGoza2hTUzhWS0FqVFlOWC02Um1F?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
+        "Chikungunya",
         "Zika",
-        "Dengue",
-        "Chikungunya"
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -83,31 +101,12 @@
       "sourceName": "- Bahia Economica"
     },
     {
-      "articleId": "gnews_7aefed163a5199fb",
-      "headline": "Prefeitura de Sinop mantém ações preventivas e casos de dengue apresentam redução - MINUTO MT",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-23T14:02:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlNKOF9sbnZpZW1CTnJDMTFqUkVjY3JDN1l1cDE1U0htWkgza1Y0Y25jOXhJQ2U4cF83NVNBdm1GWHh1Qk52Q3QtdjRidEdrLWw0THRnbG5leTZ5WEdJZDJfNVg5YndlREtXdHNMNTlWMDlaSEVOa3otZVFCeWJ5WC0xN3BzN0NxcGwzS1E5Q2tkWEdUVkRfeHVJR2ZLb3QxWlBOTHFvX1d5VWRrb2g4SGlfcDczUElqa0hHRg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "MINUTO MT"
-    },
-    {
       "articleId": "gnews_1d185f5acafadb05",
       "headline": "Viajantes com destino a países com casos e surtos de sarampo devem atualizar vacinação - Portal No Ar!",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-23T12:16:15+00:00",
+      "publishedTimestamp": "2026-09-23T12:16:16+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVNlekZsS3NrTTlydlpJbk1pcktLdVRlX2g3ZnZNMGFaUWRMQ3BHbl9jTWRQOGFqSVlzVnE1VTdhMEVLcVF0UFB0blRiR1ZvcDNxREhUQW5FYnV6MzNJQm93ajlyd0kxLWRNamY3VHg3bWhNS25FQWpMSHJFSHVvRFRRbXlqZ1hVTlRsNGdnLUVOOTJMUE84Yk1kVm1HTmJ2MkVoZlB6TkUtY0pwTVhXU3ZrUQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -140,8 +139,8 @@
       "sourceName": "Destaque Noticias"
     },
     {
-      "articleId": "gnews_257e31e7bec241c1",
-      "headline": "Em alerta para sarampo, Goiânia reforça vacinação de trabalhadores da saúde até sábado - jornalopcao.com.br",
+      "articleId": "gnews_f8fa562628fe6b74",
+      "headline": "Em alerta para sarampo, Goiânia reforça vacinação de trabalhadores da saúde até sábado - Jornal Opção",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -153,15 +152,15 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
-      "sourceName": "jornalopcao.com.br"
+      "sourceName": "Jornal Opção"
     },
     {
-      "articleId": "gnews_3dc34b000999fb2c",
-      "headline": "Amazonas confirma cinco casos de sarampo em Tabatinga - Tefé News",
+      "articleId": "gnews_4514c6dc83bf39cd",
+      "headline": "Amazonas confirma cinco casos de sarampo em Tabatinga - tefenews.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -176,7 +175,7 @@
         "Amazonas"
       ],
       "dataSource": "Google News",
-      "sourceName": "Tefé News"
+      "sourceName": "tefenews.com.br"
     },
     {
       "articleId": "gnews_4f7a5df74c46c0b7",
@@ -211,8 +210,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "Pará"
+        "Pará",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Diário de Goiás"
@@ -235,44 +234,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "estadao.com.br"
-    },
-    {
-      "articleId": "gnews_7884a728cd1f9edc",
-      "headline": "Brasil investiga casos de sarampo; saiba como se proteger - tudorondonia.com",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T22:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTY5UUJ4Z1RydERremI0SU1PQ2pEYlNZUFEwT0FZZGhWSVpzOUpPbzNMMjZQMFJnTWNodDc1QUJCUmo0Y0hVaV85QkJHUmZHc0otMml6U213aXc0OS0xeFpBRzNEVTdFZ3RVV0NUTEFtYms1ekxkbHAyTUEyNklaYnJ2enJwTjk2NGN5RzgxYUMyd3RBcjIyX1UwZmNpdlNESC11NFdpMjAzU0k?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Rondônia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "tudorondonia.com"
-    },
-    {
-      "articleId": "gnews_373acf977d1fba92",
-      "headline": "10 perguntas e respostas sobre o sarampo - drauziovarella.uol.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-21T20:02:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbERjYjQ0YmlqNDhCUl9OWDVIZkRBVWVvaHVNQVYwTU5ESlFVUkhITmstR0hBdGU1NXZQU2FUQ3htUVZMY3dadkNJRGZLcGZod3Nsa3ZMN09YWXBhZXZVTl8wczZmM2xwSnBWclJuZ3lPemU5ZFhVc3J6ODV4b1J2M1U0VEdkWEJXN0FhdGtVUmpUdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "drauziovarella.uol.com.br"
     }
   ]
 }
