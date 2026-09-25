@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-09-24T19:57:19.168101+00:00",
+  "generated_at": "2026-09-25T04:08:23.739651+00:00",
   "date_range": {
-    "start": "2026-09-22T19:57:19.168101+00:00",
-    "end": "2026-09-24T19:57:19.168101+00:00"
+    "start": "2026-09-23T04:08:23.739651+00:00",
+    "end": "2026-09-25T04:08:23.739651+00:00"
   },
-  "total_articles": 9,
+  "total_articles": 12,
   "state_summary": {
-    "Brasil (estado não identificado)": 4,
-    "Pará": 1,
+    "Brasil (estado não identificado)": 5,
+    "São Paulo": 1,
+    "Pará": 2,
     "Pernambuco": 1,
     "Bahia": 2,
     "Sergipe": 1
   },
   "disease_summary": {
+    "Leptospirosis": 1,
+    "Influenza": 3,
+    "Measles": 3,
     "Avian Influenza": 2,
-    "Influenza": 2,
-    "Measles": 2,
     "Dengue": 3,
     "Chikungunya": 2,
     "Zika": 1,
@@ -23,16 +25,34 @@
   },
   "articles": [
     {
-      "articleId": "gnews_0dee87790c5adc3d",
-      "headline": "Gripe aviária: Biossegurança nas explorações não é suficiente, diz estudo - Veterinaria Atual",
+      "articleId": "gnews_7e7247483a0def0e",
+      "headline": "Casos de leptospirose em SP somam 347 em 2026 e 42 pessoas morreram - CNN Brasil",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-24T13:00:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KUnRpRGhSeXRzVzJkQjdtTUExUVMta2NZU2lBeDhVSHpyRGRFS2hwRl9kbkJXQ2M1eW9nclYtUzJnSER4VEZ6WWRmeW1QRTl6a1k1dE1EVHI3NFVnNWFzcHg1Ulp2VTg?oc=5",
+      "publishedTimestamp": "2026-09-25T01:16:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelltSWk1a295NG55V0ROR19XQWZSdUdjVFRjRjFoZnZMNm1QZlJpNU52cVB3cWl0WnFJOHJUY0NaYjBpa0NuVWpyZk9YMTQ0QlRnSW1kYWc0NFB1bnVma2xRdkRZeGNMZjZsMmJJcEw4WFlNMzdfSUJFdjBjVHlGdFBDYndzSTZVTnVDVHZjTXYyZ1JKU3Y5MkFueFNvUVV4MWdCYTJaMzV5TG9RZ2NGb19rNVBUZWtR?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
+        "Leptospirosis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_032f7c5727571641",
+      "headline": "Dois idosos morrem em lar onde foi detetado surto de Gripe A em Estremoz - Notícias ao Minuto",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-24T22:39:41+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVJJVEhySjcwZURQdDlCTzNjMVdILW90MEhOclk3em1waDNlUVcxUDZqcWUta1FkQl81TWlzMk1wNk5kTTIyRVZiZ3I1SlU4RUtER2JpQzI5U21QUTkxZkg2R0tKNnpXc3RjVlpJcndGbERJR3NncmtiTHVYbXRFYTBFckJKTW9hMVh4eU1zeW43aU5DNXpBVXRsY2NuWlVYamlIbklsaHVXREN3b29tYTllWm93dlFmSFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
         "Influenza"
       ],
       "locations": [],
@@ -40,7 +60,26 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Veterinaria Atual"
+      "sourceName": "Notícias ao Minuto"
+    },
+    {
+      "articleId": "gnews_b9894d38ce62ff08",
+      "headline": "Homem não vacinado é o 37º caso de sarampo em São Paulo - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-24T21:43:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVpQMEZfTVd4R0hWVURSdGtNMkdjQkJmZmVSUlZBUUxMX2lDOVRfWXBWTVdYZ2w3VzBHdHRDYXVtQmtfQU9SZXEyTVBzbG9zVFZUUnFoUnBQdllzcm5VLWZyS3VfLTZEbndLNlpBVkNkM2lXeEpYTEZOVGdsWTlzVVRzSW5WV0gycU5zMjU1VEc2Y3dTR1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
     },
     {
       "articleId": "gnews_38b00367eba06938",
@@ -52,8 +91,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVVwM1VGQXZic2h3c2ZRWk5ub0txRnRVYXZWWWdkU3lvNWNLUGZlZm9MMTFlelV4MWtoV3FBSG52M0JTU0p0SnFwaWViUWtPMUdYcFdaOUd4ZEFzXzJ5WVBvelRkX1dLU3ZMV0JENnZpZFBMdGNIQ21ROGU3YmFHX0t5RklEd3hNNkhBNmtTT2ZuS0xaUUlWNGtLblFkMjFrUUJBTVVka29iOXhJdHJqeFNiN2lrQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -61,6 +100,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CompreRural"
+    },
+    {
+      "articleId": "gnews_9d78daac297896d4",
+      "headline": "Biossegurança nas explorações não chega para travar gripe aviária, conclui estudo - Agroportal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-24T12:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVk9CbTdxdXFVZk1TV3RPTHRmem1mWmQ5WFFlM0lENmdiT3lEM1JPUlRXaWlkRXBJWDZ2dHlxYWIzRktVbmdiZTVTdTRoQmQtQmJfVUZYVGJDRWRSVGlaejdGVnJfUU9GTDdtV2w1ZDJ5djI0em1FTmRYTUhLNEhKRHp5S1hTWkFIZUVEdXBJQndKcjQyczJSUFBHVDR4Z0llYTJaZ3N6N2xrUHc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agroportal"
     },
     {
       "articleId": "gnews_bc65fc9e32dad426",
@@ -122,8 +181,8 @@
       "sourceName": "Jornal Correio"
     },
     {
-      "articleId": "gnews_16326044d5f9c022",
-      "headline": "EL NIÑO PODE AGRAVAR CASOS DE CHIKUNGUNYA NA BAHIA, DIZ ESPECIALISTA - bahiaeconomica.com.br",
+      "articleId": "gnews_0f792cd526ce4617",
+      "headline": "EL NIÑO PODE AGRAVAR CASOS DE CHIKUNGUNYA NA BAHIA, DIZ ESPECIALISTA - - Bahia Economica",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -138,7 +197,7 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "bahiaeconomica.com.br"
+      "sourceName": "- Bahia Economica"
     },
     {
       "articleId": "gnews_2284dd87f3d15deb",
@@ -179,8 +238,8 @@
       "sourceName": "Portal No Ar!"
     },
     {
-      "articleId": "gnews_7a0f4946b0578eed",
-      "headline": "Aracaju reduz número do mosquito da dengue - Destaque Noticias",
+      "articleId": "gnews_90d4f43a4fc959b5",
+      "headline": "Aracaju reduz número do mosquito da dengue - destaquenoticias.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -195,7 +254,7 @@
         "Sergipe"
       ],
       "dataSource": "Google News",
-      "sourceName": "Destaque Noticias"
+      "sourceName": "destaquenoticias.com.br"
     }
   ]
 }
