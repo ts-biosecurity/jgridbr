@@ -1,24 +1,62 @@
 {
-  "generated_at": "2026-09-25T19:59:10.888345+00:00",
+  "generated_at": "2026-09-26T04:13:16.389145+00:00",
   "date_range": {
-    "start": "2026-09-23T19:59:10.888345+00:00",
-    "end": "2026-09-25T19:59:10.888345+00:00"
+    "start": "2026-09-24T04:13:16.389145+00:00",
+    "end": "2026-09-26T04:13:16.389145+00:00"
   },
-  "total_articles": 11,
+  "total_articles": 12,
   "state_summary": {
-    "Brasil (estado não identificado)": 7,
-    "São Paulo": 2,
+    "São Paulo": 3,
     "Pará": 2,
+    "Brasil (estado não identificado)": 7,
     "Bahia": 1
   },
   "disease_summary": {
-    "Influenza": 3,
+    "Measles": 4,
+    "Dengue": 1,
+    "Influenza": 2,
     "Leptospirosis": 3,
-    "Doença infecciosa (não especificada)": 2,
-    "Measles": 3,
-    "Avian Influenza": 1
+    "Doença infecciosa (não especificada)": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_1c6645a61ea36470",
+      "headline": "Estado de São Paulo chega a 37 casos de sarampo confirmados no ano - liberal.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-26T02:17:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2FFSmk5TEVsd3lIdDd4c3hMaFlrUHM3Mkh1ZzV3VzBjMW9Wc2NpU2MxemJlVTVnUW01bTBoU3FXZ1NDSVlGc2hBTDB0Qm83aFN1T01HV1pka1hYaWF3R0h1MlVNSmNuOFEtVHRUd2s2eVctRWRlbHhNb0ZfWW5HS3VDb2w3OUFmSHQ5ZmJ0Q1FoU3o1Q3BTcEcwWExQcktaWmdkbGc2QUpoQmNFYjBkVXFOS0g?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "liberal.com.br"
+    },
+    {
+      "articleId": "gnews_ac08d3c849f5b4d8",
+      "headline": "Municípios se reúnem para traçar estratégias contra a dengue diante de mudanças climáticas - radiofandango.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-09-25T17:03:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2EzZ00zX1QwX3VkTVpKVUN1VEdpVkFaLThaVVpBNVdTelNIWGFZamw3b1Q4X1F5a09LUVJWOGNjM1BzTTBkMUlLdjFuSDhVcGdHRGZxZkxfYWFOVEY2UWF5cDlsajUyb0tPOEZqa2hzTkNqMWZMdFZYb0RkS0dqaFVRdmZkckViall4bDRibXp3YVBfR1U4ZzdJRkpJMXFLNjdKbDN0aDFIU1NiTmdLWmdmMUNodC10dHBVZEZFcmZGbUlZYW1iSDE5a2hUNGdK?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "radiofandango.com.br"
+    },
     {
       "articleId": "gnews_29ada25e54940b8d",
       "headline": "Surto de Gripe A em lar de idosos em Portugal deixa quatro mortos e sete hospitalizados - Folha PE",
@@ -90,15 +128,15 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Bahia"
+        "Bahia",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Expresso"
     },
     {
-      "articleId": "gnews_d04489c8975e25ce",
-      "headline": "SP registra mais um caso de sarampo e agora são 37 no Estado - A Tribuna",
+      "articleId": "gnews_29327da1644d4284",
+      "headline": "SP registra mais um caso de sarampo e agora são 37 no Estado - atribuna.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -113,11 +151,11 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "A Tribuna"
+      "sourceName": "atribuna.com.br"
     },
     {
-      "articleId": "gnews_c7aa0d0aed7e50da",
-      "headline": "Leptospirose soma 347 casos em SP - Valor Econômico",
+      "articleId": "gnews_a94852d807757d26",
+      "headline": "Leptospirose soma 347 casos em SP - valor.globo.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -132,11 +170,11 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Valor Econômico"
+      "sourceName": "valor.globo.com"
     },
     {
-      "articleId": "gnews_798d8b86e33f23fa",
-      "headline": "Casos de leptospirose em SP somam 347 em 2026 e 42 pessoas morreram - cnnbrasil.com.br",
+      "articleId": "gnews_7e7247483a0def0e",
+      "headline": "Casos de leptospirose em SP somam 347 em 2026 e 42 pessoas morreram - CNN Brasil",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -151,11 +189,11 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "cnnbrasil.com.br"
+      "sourceName": "CNN Brasil"
     },
     {
-      "articleId": "gnews_a00b36dd02be87e1",
-      "headline": "Dois idosos morrem em lar onde foi detetado surto de Gripe A em Estremoz - noticiasaominuto.com",
+      "articleId": "gnews_032f7c5727571641",
+      "headline": "Dois idosos morrem em lar onde foi detetado surto de Gripe A em Estremoz - Notícias ao Minuto",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -170,11 +208,11 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "noticiasaominuto.com"
+      "sourceName": "Notícias ao Minuto"
     },
     {
-      "articleId": "gnews_d42efccaf2c06261",
-      "headline": "Homem não vacinado é o 37º caso de sarampo em São Paulo - cnnbrasil.com.br",
+      "articleId": "gnews_b9894d38ce62ff08",
+      "headline": "Homem não vacinado é o 37º caso de sarampo em São Paulo - CNN Brasil",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -189,27 +227,7 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "cnnbrasil.com.br"
-    },
-    {
-      "articleId": "gnews_38b00367eba06938",
-      "headline": "EUA propõem cortar de 90 para 28 dias restrição comercial após surtos de gripe aviária - CompreRural",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-24T12:51:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVVwM1VGQXZic2h3c2ZRWk5ub0txRnRVYXZWWWdkU3lvNWNLUGZlZm9MMTFlelV4MWtoV3FBSG52M0JTU0p0SnFwaWViUWtPMUdYcFdaOUd4ZEFzXzJ5WVBvelRkX1dLU3ZMV0JENnZpZFBMdGNIQ21ROGU3YmFHX0t5RklEd3hNNkhBNmtTT2ZuS0xaUUlWNGtLblFkMjFrUUJBTVVka29iOXhJdHJqeFNiN2lrQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CompreRural"
+      "sourceName": "CNN Brasil"
     },
     {
       "articleId": "gnews_bc65fc9e32dad426",
