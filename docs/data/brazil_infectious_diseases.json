@@ -1,29 +1,51 @@
 {
-  "generated_at": "2026-10-02T00:45:32.856809+00:00",
+  "generated_at": "2026-10-02T08:18:02.611392+00:00",
   "date_range": {
-    "start": "2026-09-30T00:45:32.856809+00:00",
-    "end": "2026-10-02T00:45:32.856809+00:00"
+    "start": "2026-09-30T08:18:02.611392+00:00",
+    "end": "2026-10-02T08:18:02.611392+00:00"
   },
-  "total_articles": 32,
+  "total_articles": 35,
   "state_summary": {
-    "São Paulo": 7,
+    "Pará": 14,
+    "São Paulo": 9,
     "Paraíba": 9,
-    "Pará": 13,
     "Piauí": 1,
     "Brasil (estado não identificado)": 8,
+    "Mato Grosso": 1,
+    "Mato Grosso do Sul": 1,
     "Rio Grande do Norte": 2,
     "Goiás": 3,
     "Ceará": 1
   },
   "disease_summary": {
-    "Measles": 14,
+    "Measles": 16,
     "Dengue": 12,
-    "Doença infecciosa (não especificada)": 5,
-    "Zika": 1,
+    "Doença infecciosa (não especificada)": 6,
     "Chikungunya": 1,
+    "Zika": 1,
     "Yellow Fever": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_112db9170acb7792",
+      "headline": "Sobe para 40 o número de casos confirmados de sarampo no estado de São Paulo - Rádio Itatiaia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-02T01:26:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHB6Sk9pOEhSWnR6WmJBUmdzLVJsZmstZDFTenJEQ2s2NzFzVDcybXJsbUg1ZmVyQ1oxd2xaTjhCR0p0dl8xTHV5NlFQdnNnR0NJN1V4Yk1Zalc3ZVZDN0xhel9RVGZBeVF2SExiZTJDZ3B4TmxsRTdJN1ZOWUhWVUNZeXNJeDJlU09MQ2hyYUJCSnZHZm80clZHN20wcG9IbkxJdGNQRDBkWHJVc0xUSVNQYW45aEdjRlctZjNlX2Q?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia"
+    },
     {
       "articleId": "gnews_c944adc5282bd890",
       "headline": "São Paulo chega a 40 casos de sarampo em 2026 - JC",
@@ -42,6 +64,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "JC"
+    },
+    {
+      "articleId": "gnews_4b53f14990a4efe1",
+      "headline": "São Paulo chega a 40 casos de sarampo em 2026 - Estadão",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-01T19:36:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2RsajA5cEgzbVNZR0xOcm16dTZiamRabzA5djNqS256NjFvNVZTZUFnMXFQR2cxZmNMak53RmVJZzJUZ1ppZXVLdWowT3Q5TlJlMWhBUzJPMVgtNndUYXhUUmFZNGVKX1c2aU14ek52RGdLMW13Wnd3RnNjVnUtS0liNTVMSDB0WGlWM0xzUU1lVzJhazBxbGFfMEg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estadão"
     },
     {
       "articleId": "gnews_9e1c261f8bfaa0ab",
@@ -82,8 +123,8 @@
       "sourceName": "Sociedade ON"
     },
     {
-      "articleId": "gnews_0e69dd8555277052",
-      "headline": "Paraíba chega a 7,2 mil casos prováveis de dengue em 2026; número cresce 12,5% em menos de um mês - thmais.com.br",
+      "articleId": "gnews_af4e39896446203b",
+      "headline": "Paraíba chega a 7,2 mil casos prováveis de dengue em 2026; número cresce 12,5% em menos de um mês - THMais",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -95,11 +136,11 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
-      "sourceName": "thmais.com.br"
+      "sourceName": "THMais"
     },
     {
       "articleId": "gnews_4e9127ca93aab69d",
@@ -134,9 +175,9 @@
       ],
       "locations": [],
       "states": [
-        "Piauí",
+        "Pará",
         "São Paulo",
-        "Pará"
+        "Piauí"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Piauí Hoje"
@@ -180,6 +221,45 @@
       "sourceName": "Diário de São Paulo"
     },
     {
+      "articleId": "gnews_51b2beffe9eea3e5",
+      "headline": "Sarampo: SP chega a 40 casos da doença e monitora situação - SBT News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-01T13:23:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmp2R25CRGhTRGR0MEpLN2ZLWWVpU2lIVEJ1NjRQUFVEd3NVZjQxbDhoYnd0S0RhNDZRZDhYVEhqZG5oQkVYNFV1NVVkTXA1SkxsNlZocjFmdHJfRnVnSWpMbC1FRl9fUWJTUDAwUjZEWlNnTWZJLWh1ZDBoMmxNM21SbDdERVctTl9qbWYzQlNwenU1VmdtTmk2bUd4c28?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "SBT News"
+    },
+    {
+      "articleId": "gnews_a24efcda1fdca35e",
+      "headline": "Mais de 12 mil ovos do Aedes aegypti são encontrados em cidade de Mato Grosso do Sul - capitalnews.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-01T13:05:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa1g1UkpMYU1kT1Rmd2dtSk16VjRqb3hZMko0NDMyV2ZuQl8wODgxQkg4T2o0RHNHTFd4SXhmNmF5NEdHTDFpSDdyV2o2Y3hGUnFRelVQUUNvQkpQLXRIOG9wdkFlZGtudWFMcm43QWEzaGUzZ0hPejZ2SHJFam4zbF9ZN19namRmODhKS2RDTXpUTW5zN3Rnd3BQV1AyNHpRYXV3MGU1S0w4OVZtMHI5bW04ZUtHdlpRQnZTZVBxdEE3MWw0UXlDQ2FYby1fTVZnTVVPaXR1R0dRcV9mNklyYVowTU0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "capitalnews.com.br"
+    },
+    {
       "articleId": "gnews_562aeb3cdbfcaca2",
       "headline": "Dengue já provocou mortes em Camalaú, Monteiro e Sumé; Paraíba registra 14 óbitos em 2026 - Paraiba Mix",
       "headlineTranslated": "",
@@ -193,8 +273,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Paraiba Mix"
@@ -213,8 +293,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Diamante Online"
@@ -252,8 +332,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Repórter PB"
@@ -329,30 +409,11 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Paraíba dia a dia"
-    },
-    {
-      "articleId": "gnews_c446b859005e096b",
-      "headline": "SP tem 40 casos de sarampo em 2026 e reforça vacina - noticiasdoplanalto.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-09-30T22:57:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU253Vl9nc1k4anM4TmhhbHNkS0tlWXdHVU5Rd2lSUW5UY0J3enpBSE5pbWNEa3pGb2c5UVcyN18yRVB2RUZnZkhaR2JFc1ZFRTVTa2s0RmhLeUpXSDR4c29kUWJCUHVfbkFTRmNZMjJYUzZXNmJzNGx1SFBPTVpBX2JiUVBMLXRrSlA0Y2pJSQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "noticiasdoplanalto.com.br"
     },
     {
       "articleId": "gnews_f683b8135bf51781",
@@ -368,8 +429,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "ParaibaOnline"
@@ -394,8 +455,8 @@
       "sourceName": "Grande Ponto"
     },
     {
-      "articleId": "gnews_7e21a9acae193b3c",
-      "headline": "Compras de frango e mel do Brasil pela União Europeia podem ser retomadas em curto prazo - portalmarcossantos.com.br",
+      "articleId": "gnews_f195c326f098b42e",
+      "headline": "Compras de frango e mel do Brasil pela União Europeia podem ser retomadas em curto prazo - Portal do Marcos Santos",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -410,11 +471,11 @@
         "São Paulo"
       ],
       "dataSource": "Google News",
-      "sourceName": "portalmarcossantos.com.br"
+      "sourceName": "Portal do Marcos Santos"
     },
     {
-      "articleId": "gnews_f764ea1cb1ffb41e",
-      "headline": "Com casos crescentes de dengue, moradores de Ivinhema terão de intensificar limpeza de terrenos - Midiamax",
+      "articleId": "gnews_7cecf55e949ed9e8",
+      "headline": "Com casos crescentes de dengue, moradores de Ivinhema terão que intensificar limpeza de terrenos - Midiamax",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -445,8 +506,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal da Paraíba"
@@ -465,8 +526,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Sertão da Paraíba"
@@ -485,8 +546,8 @@
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "G1"
@@ -501,8 +562,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHM1MHk2RHBGUm1jYmpKMlVUMmFpY2VkSW9ERzA3RWFCVk1jQ2ZlODZhbGp0d1l0YjAzNmVLTURnNi1yMDVkc3FHNWM0NkU2LWpiUDVFZUZVWWFYRWlnbm5uVTFfczJZek94dnRzR1VxUjdVcm15T09RTFNRb01tRkRkT1NuTmJERzM0cnZBczZ5OTA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Zika",
         "Chikungunya",
+        "Zika",
         "Dengue"
       ],
       "locations": [],
