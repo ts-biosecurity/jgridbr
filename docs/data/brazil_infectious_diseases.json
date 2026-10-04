@@ -1,46 +1,27 @@
 {
-  "generated_at": "2026-10-04T01:20:04.817625+00:00",
+  "generated_at": "2026-10-04T10:11:18.863590+00:00",
   "date_range": {
-    "start": "2026-10-02T01:20:04.817625+00:00",
-    "end": "2026-10-04T01:20:04.817625+00:00"
+    "start": "2026-10-02T10:11:18.863590+00:00",
+    "end": "2026-10-04T10:11:18.863590+00:00"
   },
-  "total_articles": 10,
+  "total_articles": 8,
   "state_summary": {
-    "Brasil (estado não identificado)": 3,
     "Goiás": 1,
     "Bahia": 1,
-    "São Paulo": 2,
+    "Brasil (estado não identificado)": 2,
+    "São Paulo": 1,
     "Rio Grande do Sul": 1,
     "Paraíba": 1,
-    "Pará": 2,
+    "Pará": 1,
     "Acre": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 2,
-    "Dengue": 4,
     "Chikungunya": 1,
-    "Measles": 4
+    "Dengue": 4,
+    "Doença infecciosa (não especificada)": 1,
+    "Measles": 3
   },
   "articles": [
-    {
-      "articleId": "gnews_23f64ced21109e05",
-      "headline": "Morte por peste bubônica após vazamento em laboratório no Brasil: quarentena emergencial - bra1.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-03T23:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeVp5bHdqeC1PcmVJaGlxUGxzaVFqbXlyREdkWnB2SlkxUFZHT0lheHlJclp4Q0ZQMk00ekozSW9BbU5QYlUxSTVrZlBPb1Jqd1RJVy1XS256ZEduVk11Rm03Z0xMVU56Sld6NXhtTm1iTlFGTU1sajJtOUoyMUZYY0dzSjl4RFFRZG9ubGp1M2lEQVhYUTRMTlRPbEl2TVgyREI1TFg5bEU4dFNpUmJHZUdFT0oxcXh1ckE5RS1ST09Rd0hxZ0I4?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "bra1.com.br"
-    },
     {
       "articleId": "gnews_2b5176f5f38cb003",
       "headline": "Goiânia registra 33 mil casos de dengue e alta de 351% na chikungunya em 2026 - GYN Noticias",
@@ -51,8 +32,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzFSNFlnUjVYeXlSQU9LWHFNVXRaRXNMcERTVjlwTEJ6QUV0QnN4bHNNV1VCaG1vWlVneFh3WjBLUUtFYUFKa3oyX0J1QThFUl9aMHJMeXFCTjJ4LS1vemRmRVoyQmVMVE9LQlAtcWNYa3BERXVmNGplLXp2aWVaU1pIU2Vuem42VUphbFNURXBWYW9Nd2Z2RUh4a09aQUdCLW1kTEw1ZUxnTm9rTWhwQ2hfSkNjUllrT1g2Vw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -194,26 +175,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal V1"
-    },
-    {
-      "articleId": "gnews_112db9170acb7792",
-      "headline": "Sobe para 40 o número de casos confirmados de sarampo no estado de São Paulo - Rádio Itatiaia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-02T01:26:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHB6Sk9pOEhSWnR6WmJBUmdzLVJsZmstZDFTenJEQ2s2NzFzVDcybXJsbUg1ZmVyQ1oxd2xaTjhCR0p0dl8xTHV5NlFQdnNnR0NJN1V4Yk1Zalc3ZVZDN0xhel9RVGZBeVF2SExiZTJDZ3B4TmxsRTdJN1ZOWUhWVUNZeXNJeDJlU09MQ2hyYUJCSnZHZm80clZHN20wcG9IbkxJdGNQRDBkWHJVc0xUSVNQYW45aEdjRlctZjNlX2Q?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia"
     }
   ]
 }
