@@ -1,46 +1,104 @@
 {
-  "generated_at": "2026-10-06T00:46:04.297382+00:00",
+  "generated_at": "2026-10-06T08:18:06.930799+00:00",
   "date_range": {
-    "start": "2026-10-04T00:46:04.297382+00:00",
-    "end": "2026-10-06T00:46:04.297382+00:00"
+    "start": "2026-10-04T08:18:06.930799+00:00",
+    "end": "2026-10-06T08:18:06.930799+00:00"
   },
-  "total_articles": 20,
+  "total_articles": 25,
   "state_summary": {
-    "Pará": 4,
+    "Brasil (estado não identificado)": 16,
+    "Rio Grande do Sul": 1,
     "Goiás": 1,
-    "Brasil (estado não identificado)": 12,
+    "Pará": 4,
     "Bahia": 4
   },
   "disease_summary": {
+    "Measles": 7,
     "Dengue": 3,
-    "Measles": 3,
     "Meningitis": 7,
-    "Doença infecciosa (não especificada)": 7
+    "Doença infecciosa (não especificada)": 8
   },
   "articles": [
     {
-      "articleId": "gnews_29a14005e95baa96",
+      "articleId": "gnews_56e7f7539d08565f",
+      "headline": "Nova York declara estado de emergência devido a surto de sarampo - Metrópoles",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T07:57:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1ZxRVlDeTlfbGFYTlJqRHpCalFtOG1BUFB2cHpLZllPaWlRQmE0eGYxM05kZE1kNDMyQ0E0YnpPVE5mZElveVgyVS1uWmRteTNSMDVlcG5yS1VsMm51MzhJeG8tbjVIT3VDWW90NlZEenYxcC1hTjBxTjJSX2c1eWY0UXNvcDJHNXd0NUdHRU1kSDgxUnlkTUFoeVFPZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrópoles"
+    },
+    {
+      "articleId": "gnews_c8c1f544a54c5fb5",
+      "headline": "Campanha de atualização da vacina contra o sarampo prossegue até o fim do mês em Porto Alegre - Rádio Pampa",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T01:30:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMDhzdjNET3FvNDZIbGIyTi04NUNBRXBJZ0N4Xy1BLVM4bGZZLUo0dXVHOTFVeXZvbThpQTM1cWZBbkYzLV9jak1RM0J1TFMzdUZwaUVzcUNYRXlxRlFWWGxzZkJzMVRtY041M3JRbGJkZFkyekRvSVVUWncwMWRZR29qSGJhTllwc3k2QTZqUHdCeU5xUmIxeW9oTDNGRVRqNk8yOU9zS1pGYlN6Y3RiSG9tbVhTUUhiZF8yUzVrdERzVlhS?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Pampa"
+    },
+    {
+      "articleId": "gnews_88127b0670adc758",
+      "headline": "EUA: Nova York declara estado de emergência por surto de sarampo - olhardigital.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T01:26:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3puajFvUm1JM2lfVlAxVGtDLW5Fb3NyX1EwUVg5U203clZHdkk3SUJUV05paS1LZTRXX25GRXpxcmhaVm5DQXRJS01xR2hYdUZUbG1MSEpXLWVOYlVEMW9uUlNTMnMtLXgwTEZYcWYxRVpHUVVBeE9fWWt6RVVobXJpeDNweUF5azRXTXczMlJSVUd5RlZpVXJzdG0zN2pBazlIQ2RxT003dUgzd29MUzZnNzlWakdDT1dKXw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "olhardigital.com.br"
+    },
+    {
+      "articleId": "gnews_3618b7f7e64d6343",
       "headline": "Goiás em alerta para possível avanço nos casos de dengue - G1",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-05T23:20:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1Y3XzJMWUMxOVFvYkdIWU1UVXhkMkI4S3dTUjdKWDRZMXBqcXVQWER4MXgzbTN2ek1ha3RGcDFUam1mMXpVWkpFX2FwSkEzd0RpZ2plM1E4aXFOSlo0bF9hVkNZZVp1eUFXR0R6MFM0NS05NVBkTzk5VFRjM0QwYTlscmR2aEZEdUtfVHliUm55eTZKTUhBSGl5bHdZMHFVNTNnRTJjTlREbDhGS3lqcnJlY1daYTQxaHozQzk0SXYxcTUt0gHTAUFVX3lxTE9Bb3FtOG1RR1hzMlJGWXphNGZqd25oSzdnSEdyV0tCckpScmhIWm1CRUhYMGlzQldXVjlSZ01pS2t1QVI4X0RCRk1lQjdBdGVXQTRxQlpHT28wQUpFUFBrWVhDMngzTlFTUERpUEZlN0tLcTB0Zmpvd1BnYzVNLTh1aHZDYm1rd3pPbFVEM0pvMHBmTUZBWEg2dnVrUlZiZERkSkN1V0kyRzZmTUlnMEZLSTVvdmdya0xoSVRMSmE5WGtBMHJoX25BZVBkLXFNTGJFV0U?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQW9xbThtUUdYczJSRll6YTRmanduaEs3Z0hHcldLQnJKUnJoSFptQkVIWDBpc0JXV1Y5UmdNaUtrdUFSOF9EQkZNZUI3QXRlV0E0cUJaR09vMEFKRVBQa1lYQzJ4M05RU1BEaVBGZTdLS3EwdGZqb3dQZ2M1TS04dWh2Q2Jta3d6T2xVRDNKbzBwZk1GQVhINnZ1a1JWYmREZEpDdVdJMkc2Zk1JZzBGS0k1b3ZncmtMaElUTEphOVhrQTByaF9uQWVQZC1xTUxiRVdF0gHTAUFVX3lxTE9Bb3FtOG1RR1hzMlJGWXphNGZqd25oSzdnSEdyV0tCckpScmhIWm1CRUhYMGlzQldXVjlSZ01pS2t1QVI4X0RCRk1lQjdBdGVXQTRxQlpHT28wQUpFUFBrWVhDMngzTlFTUERpUEZlN0tLcTB0Zmpvd1BnYzVNLTh1aHZDYm1rd3pPbFVEM0pvMHBmTUZBWEg2dnVrUlZiZERkSkN1V0kyRzZmTUlnMEZLSTVvdmdya0xoSVRMSmE5WGtBMHJoX25BZVBkLXFNTGJFV0U?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "G1"
     },
     {
-      "articleId": "gnews_9f65167b927ec82c",
-      "headline": "Nova York declara estado de emergência após aumento de casos de sarampo - itatiaia.com.br",
+      "articleId": "gnews_d8c1f657eee930bc",
+      "headline": "Nova York declara estado de emergência após aumento de casos de sarampo - Rádio Itatiaia",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -55,7 +113,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "itatiaia.com.br"
+      "sourceName": "Rádio Itatiaia"
     },
     {
       "articleId": "gnews_9ed7dc0a317e21b8",
@@ -77,6 +135,25 @@
       "sourceName": "Agência Brasil"
     },
     {
+      "articleId": "gnews_c657701f5be8db8f",
+      "headline": "Nova York declara estado de emergência devido a surto de sarampo - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T21:39:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnRiZi1mMWdZUzZWamtLVEZpMVA5b1lFUERPY1B1eGFLbFY0Si1DWThrQTZlbGxXNGhVQ3BNQkU0VlkxYVR3SENuNEx4THZhZWFMaGF0Z3RRdkdZWVZZcTIyLUxTVmRnT0lKcUhhc1dvY3ZPS3RURzFRLXlQQ1VIUm9SYWI4YVZiT0lGeXZhVTRCa1pMd0hBLWcwWV8taXBnaDdkemVzSlZiNGFo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
       "articleId": "gnews_ce8cba7c604f4830",
       "headline": "“Chegou a hora de agir” : 5/10 – Dia Mundial da Meningite 2026 - Biblioteca Virtual em Saúde MS",
       "headlineTranslated": "",
@@ -96,13 +173,13 @@
       "sourceName": "Biblioteca Virtual em Saúde MS"
     },
     {
-      "articleId": "gnews_ee45b5cf0f30f234",
-      "headline": "Meningite na Bahia: 305 casos registrados; saiba como prevenir e identificar sintomas - Portal Salvador FM",
+      "articleId": "gnews_ecd6242afa92c45b",
+      "headline": "Vacinação e diagnóstico precoce são essenciais contra meningite, alerta infectologista - letsgobahia.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T19:51:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzFaa0czM1hSN3BQeHlYWFA3dXdUSlNZN2dKMnFiWkNad2QyV0NVeVk2NEFaelEwQ3dGVS1mRDQxUjQ5b09jN29TSjd1SGF6NVJCQzBFb2t0eDhGY0hzVkhLSG5oc3VDQnAwTlVsMVdaVUNKa0pMMEFocXpVUHpNenpOZzgtZDI3UE84a1NYVkhoT245OUFvb0djYjRwSUphSGlTVjJhRzB1Z2IzWm8xcXNxTWtKWllrNEFR?oc=5",
+      "publishedTimestamp": "2026-10-05T19:40:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTB2aExfRmZMOEdiQmlOWHlOVXdPS1ZINm9RaUFoOUs4ZlozLXljdjVxclNJSmFBXzBFZHJCLU9aajNxd3RpSGdtVDBodWhIdjh6Uy1aaVpfaWVSUDdIY1VvaHNPZ3N1VE9IdVRTc3gzc0RRYWR0R0YwNjlWUF9sVEIyLTJmay1YNU1RUjlEN1RqUy0wMG1rR1hCbnZFcGJTbjF4UE5zLXdkSm5tRlQ5OE1XNnVlME1ENWcxdDdneXJLSXd5?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Meningitis"
@@ -112,7 +189,45 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal Salvador FM"
+      "sourceName": "letsgobahia.com.br"
+    },
+    {
+      "articleId": "gnews_99563df770707afb",
+      "headline": "5 de Outubro – Dia Mundial de Combate à Meningite - Prefeitura Municipal de Quatis",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T18:10:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYThQYU44WnpCajU5SWN2X3FjdzlQaExaVW03R040eHk3S2pheWJGeTRZQnJBdXozVU5QMmREcG1CZURQTGk3WFY1ZVhDNGdDWnNEWjFSZ3hMOFFXZHNJUGFnLVRCYm1JNjY0ZEpjNXhyNlpzSUR3V0FGU24zSUlsMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura Municipal de Quatis"
+    },
+    {
+      "articleId": "gnews_52a1f98904dad344",
+      "headline": "Anápolis inicia a liberação dos Wolbitos, do Método Wolbachia | Notícias | Saúde - Prefeitura de Anápolis",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T15:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcHU3QVFFWEtEd1ljTVF4TUh6eEpaaldBMy0zV2JicU84M0FEX0Nad0VhenhuNFp2VmZBVlpwMHBOQUcwcUtOU0JFSWxiNXplZk1WZi1FX2lRMnV1WnRaTDhFRUZIeU54YVJpWXdoczN1QTBPODhuNkhodDRIbS1uOWVEbExDeVhacWhVMG1OOFNKV3lwNkR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prefeitura de Anápolis"
     },
     {
       "articleId": "gnews_de640b16a7ac7d5a",
@@ -172,25 +287,6 @@
       "sourceName": "www.gov.br"
     },
     {
-      "articleId": "gnews_99563df770707afb",
-      "headline": "5 de Outubro – Dia Mundial de Combate à Meningite - Prefeitura Municipal de Quatis",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T14:08:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYThQYU44WnpCajU5SWN2X3FjdzlQaExaVW03R040eHk3S2pheWJGeTRZQnJBdXozVU5QMmREcG1CZURQTGk3WFY1ZVhDNGdDWnNEWjFSZ3hMOFFXZHNJUGFnLVRCYm1JNjY0ZEpjNXhyNlpzSUR3V0FGU24zSUlsMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Prefeitura Municipal de Quatis"
-    },
-    {
       "articleId": "gnews_a96e83063e98d893",
       "headline": "Funcionária de laboratório na Rússia morre após pneumonia de causa desconhecida e autoridades adotam medidas de contenção - Diário da Manhã",
       "headlineTranslated": "",
@@ -210,8 +306,46 @@
       "sourceName": "Diário da Manhã"
     },
     {
-      "articleId": "gnews_9aff671eaca65a15",
-      "headline": "O que já se sabe sobre médico paulista que saiu correndo de motel, entrou em surto pelas ruas de Salvador e faleceu em seguida - Brasil 247",
+      "articleId": "gnews_6a9b2671352dd8f8",
+      "headline": "Mosquitos da dengue avançam e aumentam os casos pelo mundo - Correio do Povo Penedo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T13:45:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHR5ZkQ4YVZPd1dxSzJNTHRmcXBFUHplc3BVRC1wWE9la1p3UENDNWdEQW9hNXpTXzRPcEdXRVg4clNvRlZ1c0h4R0hMVFVkX1pITGRDakp3SmtKNWFReG42WFFPQmQ5bHJOS0h1ZWFWX1VuTWJ4c3FlRC1YeDFiMzAwQnRRUlRNMVc1NUhhZWxieDJKbzFYOW5VUmJPelNPcl9MSXNaUUViTmxsMEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio do Povo Penedo"
+    },
+    {
+      "articleId": "gnews_85d92dfe4f32d21a",
+      "headline": "Hospital na Sibéria entra em quarentena após infecção misteriosa - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T13:17:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXJOMGhleUtPMDVSRUhRX3QwTXhVSy00aTZwaGlKalJPZXduNGYxQkVkY3J5YTdwbDJQclA5eUJ4Y3FwT1RNZ2k1UV9ZWGxPZVFpUlpVUDRBb1J5VTNHS0pqcFRyNnRlRk1uSmVPSS1iQkw0b3pxaGNwbzBOa1RXWWdhbjdfZzB4Rk5Tb2FvaXVFaU16aGR5WmtvblhrVm56VmI2c25lSnU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_4b7c8f68273b88a6",
+      "headline": "O que já se sabe sobre médico paulista que saiu correndo de motel, entrou em surto pelas ruas de Salvador e faleceu em seguida - brasil247.com",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -226,11 +360,11 @@
         "Bahia"
       ],
       "dataSource": "Google News",
-      "sourceName": "Brasil 247"
+      "sourceName": "brasil247.com"
     },
     {
-      "articleId": "gnews_3bc7e1d015d6fc3b",
-      "headline": "Meningite: pesquisa aponta desconhecimento sobre risco - belem.com.br",
+      "articleId": "gnews_533956b9212cd7ac",
+      "headline": "Meningite: pesquisa aponta desconhecimento sobre risco - Belém.com.br",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -245,7 +379,7 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "belem.com.br"
+      "sourceName": "Belém.com.br"
     },
     {
       "articleId": "gnews_0ae55598f3a6332d",
@@ -286,44 +420,6 @@
       "sourceName": "bra1.com.br"
     },
     {
-      "articleId": "gnews_85d92dfe4f32d21a",
-      "headline": "Hospital na Sibéria entra em quarentena após infecção misteriosa - CNN Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T10:17:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXJOMGhleUtPMDVSRUhRX3QwTXhVSy00aTZwaGlKalJPZXduNGYxQkVkY3J5YTdwbDJQclA5eUJ4Y3FwT1RNZ2k1UV9ZWGxPZVFpUlpVUDRBb1J5VTNHS0pqcFRyNnRlRk1uSmVPSS1iQkw0b3pxaGNwbzBOa1RXWWdhbjdfZzB4Rk5Tb2FvaXVFaU16aGR5WmtvblhrVm56VmI2c25lSnU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil"
-    },
-    {
-      "articleId": "gnews_7bdb6715ecade9be",
-      "headline": "Mosquitos da dengue avançam pelo planeta e aumentam casos da doença - O GLOBO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T07:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXNGeTZRZnJQQ1E5OXo5RTgtdm1CY2xiNjF3Sm9pMzQxOHI3Z2FyOW5sSktLblpCU2x2aEZZUS00RGNaNkVvQkpRbGFCSElOSmdtR0FuajdncEk2ckNDX1R4WFh1N0ZmS3BZT29LR2YzV3BIelB5MFZhZkpBWDJ5MjhJRkdxMkdBaEVtWXV2aEpRWU9Qb3BEYjAtY2xrZ0haNmxqZHJQTlF3UnhkMWJsVVNhMVhXRG9xNTRsc2ZFUXjSAc8BQVVfeXFMUExoQ2VybmsxT01jSXJhajQ4amhfQjdsbWdDSFJVVHN6RGxpRWtMN2U0Q0RpaXBSSjB1YlhRWjlBWndmNjdXaXFUMVdKNzdKcUdEMjRPU2xEN1o5bUZPYlVpQ000dmNxOWE2SW5Td05GdjFqbmkwV2xfbm9XbHV3eS02QlM4MnZCM29PUVhTclNDQ0NocnpQWlJEajl4QzIwdWpaUDZuVGpMY3hfWmRWNUZtOEh2YWk3XzZWNlktLWtIYWhhU1VsalB0ckk2S1pZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O GLOBO"
-    },
-    {
       "articleId": "gnews_4b15cdfb8ee31e27",
       "headline": "Apenas 19% dos pais no Brasil sabem que meningite pode ser fatal - CNN Brasil",
       "headlineTranslated": "",
@@ -343,12 +439,12 @@
       "sourceName": "CNN Brasil"
     },
     {
-      "articleId": "gnews_d62b9a1537cd1c89",
-      "headline": "Pesquisador em laboratório russo de pragas morre de infecção \"desconhecida\" - CNN Brasil",
+      "articleId": "gnews_01c193906d8b3806",
+      "headline": "Pesquisadora em laboratório russo de pragas morre de infecção desconhecida - CNN Brasil",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-04T20:35:44+00:00",
+      "publishedTimestamp": "2026-10-05T03:36:33+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzFTeFoxc24wd0FNZG1Sa193WXNNNUo2UUMzVmVsWEptM1VtOUtNc3NRdUZNTVRXYk9WU20zcDI4NFM1UTBMTVNHNDEwZ0ZjaUpjcUgzaWpLRGNyZWhQeVBaT3lzMzlhWFBhTVluTXRiT0wtUlBRb1lPN2FhbEtmTDdmcEFyOXhSb2lfY1JVSlM4QWdlRWZMV2Qyd2x5TnhHN3ZHWGJESVRRMlJETDZDUXFsS0Q2b0l1?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
