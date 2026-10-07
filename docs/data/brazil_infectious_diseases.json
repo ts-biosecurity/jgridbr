@@ -1,29 +1,343 @@
 {
-  "generated_at": "2026-10-06T16:25:11.940265+00:00",
+  "generated_at": "2026-10-07T00:48:02.189178+00:00",
   "date_range": {
-    "start": "2026-10-04T16:25:11.940265+00:00",
-    "end": "2026-10-06T16:25:11.940265+00:00"
+    "start": "2026-10-05T00:48:02.189178+00:00",
+    "end": "2026-10-07T00:48:02.189178+00:00"
   },
-  "total_articles": 38,
+  "total_articles": 54,
   "state_summary": {
-    "Brasil (estado não identificado)": 25,
+    "Goiás": 4,
+    "Pará": 6,
+    "Brasil (estado não identificado)": 38,
+    "Bahia": 6,
     "São Paulo": 1,
     "Pernambuco": 1,
-    "Bahia": 4,
-    "Goiás": 3,
-    "Pará": 5,
     "Rio Grande do Sul": 1
   },
   "disease_summary": {
-    "Doença infecciosa (não especificada)": 11,
-    "Measles": 15,
     "Dengue": 5,
-    "Meningitis": 7
+    "Measles": 22,
+    "Influenza": 7,
+    "Avian Influenza": 7,
+    "Meningitis": 8,
+    "Doença infecciosa (não especificada)": 12
   },
   "articles": [
     {
-      "articleId": "gnews_66d14ae2f45b2dc1",
-      "headline": "OMS monitora suspeita de morte por peste na Rússia - UN News",
+      "articleId": "gnews_50045ee634617247",
+      "headline": "Anápolis vai espalhar ovos de Aedes pela cidade para combater a dengue; entenda a estratégia - Mais Goiás",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T22:11:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlhd0tlRWozRFhCdEVTOVdNM0lpRW5tSERrbVU1SjQ0bkNpNlZBc0I2SEtvMVhkYU1MM2ZyOTUtVE9KSkZRREVQX0FHbFpRSkt4MDBWaG0wX2pGdU1pRW1NcWhRc042Y2laNnMxOEtvQUd3d2RlSUtoeHhGdGRsQWc3WkpGSEl3NmtOb1o2WjdEdnVDN0lhNVNoNGlybUs1M2p5RUlwUUNyRml3SXRiNklNYTM4aFdXblVWREhMYTJKNnFEYTNuYy1uN2cxMm9TVVZQRw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mais Goiás"
+    },
+    {
+      "articleId": "gnews_5ac311c5ff1a3ed1",
+      "headline": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas - Governo Federal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T21:56:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcEduMElvYzN3TXEwSWNxTDkwX3hxSWF5RUZQTlpiRUY5QUpRelRyU0RnOVNZRjJyVDFGQXNOZVhqelg2OHdqR1dXaE1JamhHOXVRWjY1Y3paUnpITHFZOEdENlJ2VGdRUlBYT2FLQUxWY1JrSndjLWNFZFh4Yy04MnlCT2VXWll0UUg3b0c3Uk5hejRBU0NTWjdxRko2UzlnZllQMHlULU90dTNaQnBmQUdEQ0pKLTBUaldGVC16ZFN6T1Q0TWswSnptODlFV3lROWwyQ1dvOWVpRVJ3NnRsQl9WT1Y5N3A2dVhXSWZoVmVudmJv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Governo Federal"
+    },
+    {
+      "articleId": "gnews_6bec9dc8440de055",
+      "headline": "Gripe aviária: RS confirma novo foco e reforça medidas de prevenção - abc+",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T21:27:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUl5MGJLNzBaY3E2LUpiTGtDU3hxdm1TaUVfTlRyVWMtVVNzMWQzYlBTR0hFb0szSXdhVWR4NWVnNGlzbHVNTzgta0ZvU2s0VjBESkNacF9sMEg1enlwam9hNW83SjNCVnBtTFNKcXdFd1RQVEtsRC11aUt3QjB1SFQyMTFGT0xXaUx3S0JId1MteEs0ZzlITE01ZE1mbHpuZXJjbmthQno1MU5XRS1TVXcxZlFBNzA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "abc+"
+    },
+    {
+      "articleId": "gnews_fe12ea680dec7487",
+      "headline": "Meningite pode matar em poucas horas, mas só 19% dos pais sabem disso, aponta pesquisa - Canguru News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T20:28:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWF91d2RQM0NORkxyQl80NVYwUDgxNTJIY0NGNWlMNkFwOE9FeGpVVFFzSF9jSFYyeU9iOXVwNkc0bE5WZml0V2theXd6Tl9xVjZ3bENCMzU4RGNvSlFCdjN4VXduT1c5RTVvQ1JISGlfcFdxT1JXRU1LUzlFWF9IbUsxd3MyVDJmX3FvNXgwMUI5RTVmSHp1cGN1QVN5NTVwM09jMVRWRm9WY0l5eGJULQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Canguru News"
+    },
+    {
+      "articleId": "gnews_0b154cc24738f833",
+      "headline": "Caso de gripe aviária é confirmado em aves de subsistência em Selbach - GZH",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T19:45:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeVNZVXltWGk3ZENOSWJuU3JGbk1MeGRfRWIwUWV5UE9FM0RDS2U2QU56SzItYWJiV2I1YUVBNl82c0ZEY0VJMXdxTXdLcldLcTlkY1Uyd0FCSjNSTHNsQkpILWczdnpzbTdrT1owN3IyZGhCalEwZk9HVVp2MHVlZnpRUDV2Z3I2M18wNW8zbWIzQm1UQ1R0WkFXU1J6OUE3Q2RhV2NaRmtqQUNPcEkyNk9GdVBEdFl5RzBtMUpVbkxRbjJvSVpmTzY2VmZURmhDUDNjTXVUMmFSSkxqNE5zNkF6anItU282cWxWejl2bDlycHpodkpIVVBZWmMyQU9qdTFiM05hZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "GZH"
+    },
+    {
+      "articleId": "gnews_3a9c36328b582790",
+      "headline": "Gripe aviária é confirmadas em aves de subsistência no RS - Rádio Acústica FM",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T19:41:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGd1MXJHdW54WlBGcF9Hcm5oSDBrOVlvbmZjODVvYXhPY0VBQ2dRM2JpY1FOcTVzcWpHRTh1ZEpGcmxRVUJnSmVaVVJCMC1XREFWbUxRVHlGUnViamFxZzhzaGxWQ05aTlE4M05QQm9GaFhHVHZjS1FqVkI3N05HOUFvMjdSa1hZS2cwdQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Acústica FM"
+    },
+    {
+      "articleId": "gnews_0022df6082d70188",
+      "headline": "Gripe aviária é confirmada em aves de subsistência no RS - Leouve",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T19:29:03+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdENMdFhrLVJ3RlR4UHhQbklXcjh3TVlxU3NKOXRiTGF6eEpSUW5SVXZWdVU0YldXQ3YyY3QwYS1xMXJtcUVjNU5NQ2dXcG1jd3VHNTBZOFZvNEVINU41NnBWVmJFc0pELTM2Y0xHWjhJUUNNdEx6cm1Bd1lQR2I5WGMydi1SaFdtVGdKeUZQR1NRb01TaVNLdE93?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Leouve"
+    },
+    {
+      "articleId": "gnews_f5289835dff25f70",
+      "headline": "Novo caso de gripe aviária é confirmado em aves de subsistência no RS - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T19:06:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGZRNXdkTEFNcTVmczMzbUp6UGhrUVV2T1VNWXdvMWd5VDVLVU1TMDY5eUE0eDFxRGVuMlRKcGNkekFGTGQ2Ri1DR2FVZ2JiUEZnLVZqenZHeGMtX1RQMktvSkZDbEs0cnM0RU9PenM2NWpyZ0M0RnBkcUJwU2QxLVl5OFlQNGpRYUNCcVNR0gGcAUFVX3lxTE5tY2dhczB2dERPTUdlc0lLanRhQTBVVmJycWtOMXdjaUNtRXlnZnNzZ2E2Wms4bF9BbVliMmlENnRyVFk1aW5WckJIMEx3VmpSMkhLNnRJbFN1alZvT3FRS1RQSVplaDdaVnZsSVN2dzVtTk1hR2FrUkhpRDJnTWRXeV9Ld0lXQ3hvTEJQWFNIRXBsS09HS0M5WUlscw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_51c24635a87fa656",
+      "headline": "RS registra caso de gripe aviária em aves de subsistência no município de Selbach - avinews.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T19:05:11+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uaHF3cFpzVEI3V1JhYnhHS2YtTEhFeExGUHFfUGM0V3JHaW1HTlUzTW9CaHMwLXdua0JPLTVLMnhvUm5VbjJMdlNTYlNQaDh2bDR6VEVFU1dmckV0X3U5TnlQSkpCeUdQY2w3NlVHOTBaRE9WczBYSUVoMFJhQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "avinews.com"
+    },
+    {
+      "articleId": "gnews_9e20beb5ac30d577",
+      "headline": "Sarampo volta a provocar estado de emergência nos EUA; como está a situação no Brasil? - Costa Norte",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T18:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXpiNlFBWWhzYTFrN1Eza0N6ODdjbGtVSnlEWG1BY1NQeEJnOFhPdHJsWnBBRWJLZ1lJcWdCaTcwMTg4Rjd2ZWw5NW93UFlaOFlBVDRyU2tKSThRTFVTWGVxU3JDMGRTb281WV9sbWdMcWNMNlg0eVJPbF96Nm1wajAzQmVDNDFDWnd1bWhISHZoTWZITVhVaWhHUl8yVEZMSnFhRVBVV2hCZmJaR01QUk9UMnZlVDg2dEpWNkZZNNIBxAFBVV95cUxQeXQwVXVxcHpKd3dJbkR4elp3QlpHcjNYVjQ3SUFfekhNa1VFWTVET01TRzRYOV9pYmlneFl5Z25jZWVEdm1fSWdWbXZQcDRweEpLMVFVUjNnWkJIQjFhVkFyYzBVSGVCWkxGVi1DUzkwMU9TU1g1TUNxckIwNk1paDAzeGJSLVR6N1REeVZ4ZVRLZXgxanoyeXFrY0U4UkdKcU80S291MlBxaENOcWpfUnc2SjgxVXo5Y1VmVWtYUC1QeGVQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Costa Norte"
+    },
+    {
+      "articleId": "gnews_82b50f56cae05627",
+      "headline": "NOVA YORK PASSA POR SURTO DE SARAMPO E DECLARA ESTADO DE EMERGÊNCIA - - Bahia Economica",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T17:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFlSc2huT3N0YUJJS1JLM2FDeFV5Z01haXFnSUNsRGd5cHdzblpRR0pFQXNEbWNMSkpDbmpQSkVsUVZ0R0R0N2RHYnJmaHJONlJlWnRGamtGdnNXX0s3VE9lV1IwLWE0dWR0bHM4V1h3eVdkRWFoT1d4Q05xZE5OSFBQMDd0UnlDRzZidGkwd1Yta0VsTW9hSnhCbEdYTElPTXMyb05QYXBJcndtNEhwYVR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "- Bahia Economica"
+    },
+    {
+      "articleId": "gnews_0ccdd3a15f475530",
+      "headline": "Selbach registra caso de gripe aviária em aves de subsistência - Canal Rural",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T17:38:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEUxSlpnZS1uVURuSVpQc0RHd0tEbHlpVHNPNHdQemV5Nzc2ZHc4ZjVTZWpEOFRKWGU3bGVkYVd2UGo1Tlh6cmpuWnQ3bFVIdVJTTFJBeEFoV05leVpmN3lfMlZzWDdhSWltY0hvcnhaZ1doeGg0aGQxR19LM3RJRTZ2Z3hfVW8yNUtVcVZqamwyTE5kT3pCVXprQW5UMTFRS0d0UE1UaFBiNTQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Canal Rural"
+    },
+    {
+      "articleId": "gnews_76f1e0be2284f67f",
+      "headline": "Brasil tem 50 casos confirmados de sarampo - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T17:04:18+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDZJNllHOVN6bHVkMjBETE92eWQwMFVvc1pNb3AtX2ZVNnZFc2xTSGh6X19JMFNpNkplU2dnb1dBMzFMWU1PeE9rZXIwb1drRmhrVGRRMm15dTBEQ2RNMWdaVjVlVEFfQ2dCeU5XT19xYk9oRDRKcFNfcnZsSWhPOXhVTDRvYzdOWjRwTG5UVU8yQVhoeFUzRUxISF_SAasBQVVfeXFMTlNWOGktRFpUd0FCR0E3a3FCNThnUVVteUctR2xUY2NIUkJJWjhDS3NnaDctVzZ1bTdzTmdldW1TUkJFNnh5QVJpbENEcEtQMGJIY2xlMDJTWEF5VmRXeDh5YTVXWWN5R1dycVNYRWgwNkk0WTZPODdvR3lqMlBjRU4zdWVENEotcmI2bDRiUzVpQlo2RHFzVVdpeTcwcl83eFZnTm1Pa3FxLXZN?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_58c30d44d8615f81",
+      "headline": "Pensilvânia supera mil casos de sarampo e registra cinco mortes em surto - Rádio Paiquerê FM 98.9",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T17:01:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXNGM3pOa3dXT2N5cWd2a2JTYWFxdFg4MXBOYmo0NDd6cXktN1ZGbjhQTXkxSEg2aGFKZmNESmFrRjJ4cnJGdnhfeXdRTTgzQ0NoNk8yNHpxTjBnOFNIc1hBWUUyaEt3QVRrVUtiaFM5aGtqZ2JJMklSelZfOGFUUU00c292Z0c1RXR1bXdGTjc2WWx3SERJM0x4NkN4TURO?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Paiquerê FM 98.9"
+    },
+    {
+      "articleId": "gnews_a0d9cefaa6645f54",
+      "headline": "Rússia diz que não foram detectados novos casos de peste na Sibéria - Agência Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T16:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTJQbnZRVEZ1MXB0RUNDdnJRcnZid2lVOVFRSjlzb293dkZ5dW41M0VwdlU2dklMZVZJQkNlVm1ZeE9OazgteEV0cGlzamkyR1RyY3JwQ2pPVzliRkFjcEdkNllSUmtNMzFpV0U5QnFJdTY5MVJxdmhtSjJLM0NhRmxXMU5QcFpJX2ZqZlVSU1pjU2xlUy1aVk1oY1hrZjc2VDJkRUtCSHJDd2xvNUxsU2JRTE14RWZYSldjNTJsQ3dPZnRFYUNYZzJ3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil"
+    },
+    {
+      "articleId": "gnews_8124d138357bcfc9",
+      "headline": "Surto de sarampo é declarado por autoridades de saúde em Nova York - Bahia Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG1kcXhKaEFZaFZFMVV1d0VXMm9RdWkxakp5aWlYNlJ1QVg0ZTV6ajVNcTVMN0ZUUnF6UENEMUZreWFTVTA5RGZEQUs4UW1OcnFGaW1YNG13WkZsNE1ORkRDQkRnQnNhWkRMdXpGOWRlSlNXd1FZbzVzaWhTZjNZVWJQd1lJeXZyR0hkQ3RzU25hbFBueUpqRUxiZWRvMDV5eDRacjlRWERucGtLd05BRzdkQ2lxUEhvSkpEc1g5Y1Y?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia Notícias"
+    },
+    {
+      "articleId": "gnews_4c1c9bfe5a46a05a",
+      "headline": "OMS monitora suspeita de morte por peste pneumônica na Rússia - UN News",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -77,6 +391,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "viva.com.br"
+    },
+    {
+      "articleId": "gnews_6a76276cae18c811",
+      "headline": "Nova York declara emergência após avanço do sarampo e amplia vacinação - Rede MRio",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T13:58:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWRxbTFUd19ESVBsRUZDMkhBaV9RM19BbjN0SS15NnNOU3VUT0lWM2VoMy0wLXB1cFRxQmYwU0Z1UWt0ZnBIYWYxMnViS1o0cjZtVHEtVVBJQjNHcHhYWThtbGVjRjFwMWlCdXlQYjgxMjlseW9rZEFFZzEwa0lqaXlTblpyRXFpRVl4SzNBOVlVU2ZxNnNGMGNVdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rede MRio"
     },
     {
       "articleId": "gnews_bfb0be34f5b16edc",
@@ -210,6 +543,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_ed6393865e0b5604",
+      "headline": "Morte de técnica em laboratório da peste na Rússia gera quarentena - bra1.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-06T11:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUxFSTNtOUp6ZVRfaldvR1FhNkhDRTZ4MlVQSlF4NkV1TmhwVDlXZ1JTMGVubDdpUG9KRnVHYy1DcWoyeHlwV0VFUFdWcXdLV1lpRklSN243Qm9QZ1pjZktXemVHeXBZREhqcV9ISmdXdi0wY25mUENuSER3b2FSUUlPNjltNVJ6bFBubmtRYVRZVjZUUWVlVlRHeTJhTGFOWml0Wkk2QmZHQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "bra1.com.br"
     },
     {
       "articleId": "gnews_e22853dd3011ab78",
@@ -499,6 +851,25 @@
       "sourceName": "Prefeitura Municipal de Quatis"
     },
     {
+      "articleId": "gnews_90ef44986c03343c",
+      "headline": "Pesquisadora morre após possível vazamento em laboratório russo - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-05T18:05:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWI2SG5iR2ZQOGpJc1ZlSElsTnp0TEE5WW02T3hMdW8zYVRSV0g1aW5LeGhhMEtpZnljdS1ZRDAtVVRQZzFnNVg3QVZ3T0NGN21keEdydXlGZHNRdURhS1FsYzZOUGtpZzNiQ3k2c1RRV1J3YWtpdy1RNGV5R3EzaGlPb1M5VlZKbm1oclpHalM0cHZMR0NIOTYtRDhWaXdqQ0lCVExweU1Gdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
       "articleId": "gnews_52a1f98904dad344",
       "headline": "Anápolis inicia a liberação dos Wolbitos, do Método Wolbachia | Notícias | Saúde - Prefeitura de Anápolis",
       "headlineTranslated": "",
@@ -573,25 +944,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diário da Manhã"
-    },
-    {
-      "articleId": "gnews_6a9b2671352dd8f8",
-      "headline": "Mosquitos da dengue avançam e aumentam os casos pelo mundo - Correio do Povo Penedo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-05T13:45:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHR5ZkQ4YVZPd1dxSzJNTHRmcXBFUHplc3BVRC1wWE9la1p3UENDNWdEQW9hNXpTXzRPcEdXRVg4clNvRlZ1c0h4R0hMVFVkX1pITGRDakp3SmtKNWFReG42WFFPQmQ5bHJOS0h1ZWFWX1VuTWJ4c3FlRC1YeDFiMzAwQnRRUlRNMVc1NUhhZWxieDJKbzFYOW5VUmJPelNPcl9MSXNaUUViTmxsMEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio do Povo Penedo"
     },
     {
       "articleId": "gnews_85d92dfe4f32d21a",
@@ -699,44 +1051,6 @@
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil"
-    },
-    {
-      "articleId": "gnews_01c193906d8b3806",
-      "headline": "Pesquisadora em laboratório russo de pragas morre de infecção desconhecida - CNN Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-04T20:35:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzFTeFoxc24wd0FNZG1Sa193WXNNNUo2UUMzVmVsWEptM1VtOUtNc3NRdUZNTVRXYk9WU20zcDI4NFM1UTBMTVNHNDEwZ0ZjaUpjcUgzaWpLRGNyZWhQeVBaT3lzMzlhWFBhTVluTXRiT0wtUlBRb1lPN2FhbEtmTDdmcEFyOXhSb2lfY1JVSlM4QWdlRWZMV2Qyd2x5TnhHN3ZHWGJESVRRMlJETDZDUXFsS0Q2b0l1?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CNN Brasil"
-    },
-    {
-      "articleId": "gnews_90ef44986c03343c",
-      "headline": "Pesquisadora morre após possível vazamento em laboratório russo - CNN Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-04T16:40:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWI2SG5iR2ZQOGpJc1ZlSElsTnp0TEE5WW02T3hMdW8zYVRSV0g1aW5LeGhhMEtpZnljdS1ZRDAtVVRQZzFnNVg3QVZ3T0NGN21keEdydXlGZHNRdURhS1FsYzZOUGtpZzNiQ3k2c1RRV1J3YWtpdy1RNGV5R3EzaGlPb1M5VlZKbm1oclpHalM0cHZMR0NIOTYtRDhWaXdqQ0lCVExweU1Gdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
