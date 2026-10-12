@@ -1,30 +1,52 @@
 {
-  "generated_at": "2026-10-12T00:52:38.063292+00:00",
+  "generated_at": "2026-10-12T08:32:04.112943+00:00",
   "date_range": {
-    "start": "2026-10-10T00:52:38.063292+00:00",
-    "end": "2026-10-12T00:52:38.063292+00:00"
+    "start": "2026-10-10T08:32:04.112943+00:00",
+    "end": "2026-10-12T08:32:04.112943+00:00"
   },
-  "total_articles": 21,
+  "total_articles": 22,
   "state_summary": {
-    "Brasil (estado não identificado)": 13,
+    "Brasil (estado não identificado)": 14,
+    "São Paulo": 1,
     "Tocantins": 1,
     "Espírito Santo": 1,
     "Distrito Federal": 1,
     "Sergipe": 1,
     "Acre": 1,
-    "Pará": 2,
+    "Pará": 1,
     "Bahia": 1,
     "Alagoas": 1
   },
   "disease_summary": {
+    "Malaria": 7,
     "Dengue": 4,
+    "Influenza": 1,
+    "Avian Influenza": 1,
     "Measles": 8,
-    "Malaria": 6,
-    "Doença infecciosa (não especificada)": 3,
+    "Doença infecciosa (não especificada)": 2,
     "Chikungunya": 1,
     "Zika": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_e136be6bd5b38940",
+      "headline": "Vacina brasileira contra malária será testada - Costazul FM",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-11T20:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM1ZyVWxrVGg3WlRENlBLZkQ2bUNtdFdTWldhdDJlTXAweWMxQ0dVNGRTNVAzcmQ5bkEzQ25PSk1GWXRmUDRDWWdDOEJRVFh1RTNybldWbVZSTXFna0F1RU81cENFUzFUQ3pCRmxpNUtIVHBq?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Costazul FM"
+    },
     {
       "articleId": "gnews_4b65bafb96bfdcd7",
       "headline": "O que o relatório da dengue diz sobre Papanduva - Jornal Liberdade",
@@ -43,6 +65,45 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Liberdade"
+    },
+    {
+      "articleId": "gnews_964084ec52b6f02d",
+      "headline": "Foco de gripe aviária em Selbach é encerrado após vistoria em 70 propriedades - CLIC EM FOCO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-11T18:29:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdkJPTEZ3R0k4TWlQWTI2c1JhUVpmWHNDS2hEbVlkbFM1NTJmZ054ZkgwX2QzV3cycWpqLVdHTUJwZTByZkFaQmZLcjhGSlJYZ1drd3lxQjZEU0MyOWVFYUtiRUExQXJDNy14c1gzUURET1BMUURpRFFseGg1NXFPWmtkN0MtUGFVc0w0a21pU0YyeXNWa3JXQXViOTFFTXNVN1hSRzVKaXVNLURvMGxRcmVpeFhvckItVjd6VXVIMFA0OTlCQ2x2X2Nn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CLIC EM FOCO"
+    },
+    {
+      "articleId": "gnews_45366d28adb8d63e",
+      "headline": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira - Guarulhos em Destaque",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-11T15:44:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRU5mRFluSWZHTDVPLXJsX2tWNGFKZGxiRlJjTnRFTWNyTHR1ZFlJNWJpLU03Y09DTndnMkxBYWhDUU1pRHM0UFJmeGNKdXRZdXg4ZUtwbDU3T2NDMXp4aVdHVGJDTEVlc1ByUkd2WVFNZXh0aTFwNi1OcnNLdzc1SUh0V2cycnNCSjVWbjBDRVZaYVpld2NoV0F5YVd5TjZnWENoa2FtblNEalJSSFhLQldB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Guarulhos em Destaque"
     },
     {
       "articleId": "gnews_477f4eceff24b95b",
@@ -216,25 +277,6 @@
       "sourceName": "bra1.com.br"
     },
     {
-      "articleId": "gnews_187e469e6743801d",
-      "headline": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira - Folha de Vilhena",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-11T10:17:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3h4OWFDaUQtWGJXQzY1aFppSl8wdjhRdS03WF9tblpRSGlZbG9nZnc1M3RkTjZnY3R4OUxMUjhrY1RJcm4tU0hhcTJxMy1yTWc1bG5DcXNDUGF3aFlVNERLYndzMWEtTk9KZ3lpMjg0d3oxb0wtbTI5TlZYZXdwNUI3WUlsWUlNb29ZYll3Y2NhcG53c3ZpTGF3emd0UXZ1QmtVTHVTUlZQYVU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha de Vilhena"
-    },
-    {
       "articleId": "gnews_f332c1b66a44a4f5",
       "headline": "In Brazil’s Leprosy Heartland, a Hidden Web of Neglected Infections Comes to Light - Bioengineer.org",
       "headlineTranslated": "",
@@ -309,6 +351,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Juruá Online"
+    },
+    {
+      "articleId": "gnews_9523dd80cafcbda4",
+      "headline": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira - iBand CE",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-10T22:37:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEZDSlNFVlQxU2VXRjN1aHd1YmhHbllvcVVlU2pNNDZZWVRuUHBQWDJhbWRiTl93S3R1NFZ3UWlRU0J4WkRyVEMwd0VheS1vdE1MaEpfcjR0Qlk0NlJwVG9CN1lPN25RRHVpbjUxTmRnVGpjanpzaE52WHhYd21jcjFjWWxyZkVzM1kyZTExQUtNZ1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "iBand CE"
     },
     {
       "articleId": "gnews_2d818cb8e20458fd",
@@ -388,44 +449,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CidadeVerde.com"
-    },
-    {
-      "articleId": "gnews_8042f6e0edecf594",
-      "headline": "Human Mobility Undermines Brazil’s Push to Eliminate Amazonian Malaria - Bioengineer.org",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-10T11:08:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjBXNUhDV24zTnlfX1J3NUVqVXJyU0FOcDBBdW1PalZDQ0ZiTGZPcm9ieGVxUWZ0ZmFhMmtobTBuSTlhdDdWUUhHRmJ6b0JPVy1GMXh0X3JZTDN3UG9aYjRSWnlhdnRxa0pnSXV0T2xBY1huOEl0bUg2Z0VBT3FtTHp5RVR6SjhiaE9tZzlMcUlSckN6NDV2aVhR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bioengineer.org"
-    },
-    {
-      "articleId": "gnews_a346143ed9cd142b",
-      "headline": "Quase metade dos municípios está em alerta ou risco para presença do Aedes aegypti - Brasil 61",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-10T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGctRzJJYmRsZHhjMFFxUlVudlVFNE42ZFdidklfSURuSU9YVUxhUERhZjZfSTBqZmFsRnI4eGJNa29YYXVNNG1rRjZMd1lZZFZnaUJXR19yRWxzenpRaXFtdjE4a3c2WE1pYi1LNnpnS181Q1JSMmNsOVR3a21tUy1XbHlocVRUTk96Q3plZHJQWGI4R2pVaTlvTkFDaVhSZ3NEM1o0Nmg5WndIYl9DbjQwckZFSHFI0gG-AUFVX3lxTE85a0RGVWxkeERpT3hMSnJvTlpsNUpwYVZMX2hpSXpSelFVckJuSTFKZVdTdWphMWc5TWNfN0ttN1BjWWczMzJwVUcybExEZ01jQkY0a3RNVHdrMzBmemh4MnJycjExMVp6aVlDNjRkdW84Vy1ISndCNEM2U0pibEJfV2ZWVHhRLW5SZi1rek5QVzNBdUdYNFJjakQ4YkR1bFFFRTZ3RFE4UjBjQmRiQmFPaS1iTExDTGx3c1R3ckE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Brasil 61"
     }
   ]
 }
