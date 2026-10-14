@@ -1,39 +1,117 @@
 {
-  "generated_at": "2026-10-14T00:38:59.458473+00:00",
+  "generated_at": "2026-10-14T08:17:59.845146+00:00",
   "date_range": {
-    "start": "2026-10-12T00:38:59.458473+00:00",
-    "end": "2026-10-14T00:38:59.458473+00:00"
+    "start": "2026-10-12T08:17:59.845146+00:00",
+    "end": "2026-10-14T08:17:59.845146+00:00"
   },
-  "total_articles": 40,
+  "total_articles": 44,
   "state_summary": {
-    "Brasil (estado não identificado)": 19,
+    "Brasil (estado não identificado)": 20,
     "Pará": 5,
+    "Rondônia": 2,
     "Paraíba": 3,
+    "Acre": 5,
     "Mato Grosso do Sul": 4,
     "Mato Grosso": 4,
+    "Pernambuco": 1,
     "Goiás": 1,
     "Piauí": 2,
     "Alagoas": 1,
     "Amazonas": 1,
-    "Amapá": 2,
-    "Acre": 4,
-    "Rondônia": 1
+    "Amapá": 2
   },
   "disease_summary": {
-    "Dengue": 11,
-    "Chikungunya": 5,
-    "Measles": 17,
+    "Measles": 19,
+    "Dengue": 12,
     "Doença infecciosa (não especificada)": 6,
+    "Chikungunya": 5,
+    "Meningitis": 1,
     "Malaria": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_2dac2dc19356c972",
+      "headline": "52 casos de sarampo no Brasil: doença pode ser evitada com vacinação - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-14T06:34:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkdnb25jU3c5Q2EtNm9BTjMxMllrcjA2UW4tUVN1ZHBPZHMta2tudS1lSm9HbmE1ci1mWm0tdDJ5OVBmN05BVnJQVTJ6LWU2QWxkaUVySHd1X3J2RzNRX2EzZjZIQkJ2d1FfbjkxRjhzN29leUhwbVd2M3UtbE81RWxxckxVcGNCZnhPd2g3SGFEWDNMV3VtZVpQLWc1Zkd0ZXpralNn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_109b16a1231bc7e8",
+      "headline": "São Mateus se prepara para possível alta dos casos de dengue - TC Online",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-14T01:15:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTE3ejBPbkdJa0tYQ1VBN2ZLdEZrZThNc1NYUHdLOVliMXhuR2VIZTlSWTFPTU9SNnlJYkhnU1MwSzVOdHRTb1RiTjNZT0U3bk1hSk93LWdEWktqMW12Wjh2cjBGcXI5b0J0ajlCQ2xnWU9ZTlVxMmJUVVdaclYxeDJwSWRLMTk5cmZZempn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TC Online"
+    },
+    {
+      "articleId": "gnews_aa4caa1ec554d41c",
+      "headline": "Sarampo volta a preocupar autoridades nas Américas e reforça alerta sobre vacinação infantil - jornaltribuna.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T23:36:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOalEyQjZxU1BqX3N0QWNPQ1BCNVhTZE5iOW0yR29GeWptR1J1WUszR2EzaHQ2c1M5M25kcmI3enllQms2aTV3SDJoeUFZMlp0anFBVWI3OHliOEJsUEN5ZUhlQmVXWml5enFOU1JPUkRwRVhYZXBLR2swdzFtVzFlbnRIRElkOXJDZHQzRFJLNVF1REc3ckVkamZhNXVCR1h1SWY3ZVRxWmtKUVUwSWZFclp0NU00Q3hXTTJNSDFBQ2JzQXhFYjBMYThpbmRzdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "jornaltribuna.com.br"
+    },
+    {
+      "articleId": "gnews_5fce6e35e521555c",
+      "headline": "Dengue em Rondônia : Mais de mil casos já foram confirmados e uma morte é investigada - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T23:36:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNektsUXctZ1QwRDVBei1VYWJtU3A4YU5ydnFwN3EzTEpFa3hvdEZxSjItMDZyclpKZk9mVV9FbzdBN3JEM0xaazFxM3I5a2tsT29YOWhGMHFQUlVTcnNUM0hERjF0ZWh6eEdxWXlzN2dnMmJfRXNZWkptOFZ4U1lvdUYzTUtfTnQwZThySVViT084RC0xZUNjU1BfczRjWUpRN2RTYVo3dE4wRXczVXBXVVRPcjNNX3ZPM1NmV2F5MFlnYzA4TjZXR2JFTDN0d1Q5Z2I1MFllLUVaYktlTDM0ZDV4cnJMdlNPejFmS25wM3haM1EzQzFNWE9yQzdYdW1BUWfSAZACQVVfeXFMT3VBUlAzdUZqdlRYVVNtRmotRm1NcWg2bllTTFRZVFZNTWQwQjVfTnV5YVk0UzRMemtFcHNLOU1MbmotQjU0YTEyTHdQdEJyX3lfNnFoQmlBbmZNeHh0TlV2WC1rTGtjcm5ZTXJ1OFNvWVFORkQtZGJaeEFnVkhaeUhkenk1Q3lBWTFaTkZhRkVKVXF6UmxEbk1zR3dFQ2JtdkxiV1dIMThqYjlMNWZTZ3lOLXdkLWlkY0I5TU85V3JPS1dUZUR0QkRLQkFBb09HQUxYSUo4RVJaQXk5WFA1UmpwMEgwMGRaTGRDMDg4ZEF4U2VVUnhoTkptRV8zQnhVODZkQU42YmVLeTdSRWtSclk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rondônia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
     {
       "articleId": "gnews_5cd8d659f03780c8",
       "headline": "Casos de dengue em Vilhena - G1",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-13T23:34:27+00:00",
+      "publishedTimestamp": "2026-10-13T23:19:32+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHNTYVJkSEg3akp6TlhuWHpuSm1ySFl4MlViT01PZkMzVDczU3dQQWpNLXpoNUZVc1RQTzlySXNqYmw0WTUyZFg4Smlpa0hnODVQN3RrdElQalRIbVJkX2RiUm9nNWFXTjNsNlUwNFNXOE4wUVVUdGJTNnpwY1F1d0tyV1lmby15ZXhUNHUzdl93VDRKTHBMT2hQaWIwMzNOeTJpVW1NQ2UyNktobWRFYzl4UHFUQdIBxAFBVV95cUxPQzhpZFVlWlR3TW5ZRGppOU5YZHg3RUJHQlhQOGk1a0RoZEpTcmQyUEFmNjNlSzdSRXdrWFF0OWktZDRiV28xbWNmWVB0c0cxMnltWXJZTU15OGlIWkRaNmdsVmtvZmJrS3JmeGxHeVRHbllnZXJyU2VacmlCS2xnVEdpYmR4UG1FOUdNLUllbUdEVHRuSHRRenhqc0hEWWFZa2t6d0FTRmhRR0RwNG1sRTlQWE9ISDRBVDVJR1NkbzkxUFNW?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -87,6 +165,25 @@
       "sourceName": "G1"
     },
     {
+      "articleId": "gnews_c43465f594057c2f",
+      "headline": "Quem lê acredita! - Repórter PB",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T22:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV0t4WFpLb29NM0xDYnd5LTBCblVmNE1Nb0NnZDU4UlFRU0FNem0zVi1YVk5ha1lXeENqS0dnY0VtVk9TUVJzRVY3WEJUV0ktNlVyVmFRd1NBbXh6YmZkWkRyUnhncURFYU1MUDQ4WjZydmppMFV6WWZDdU5WazE1U0NzZTlrenRHQlhDU0FQMmJYa21HNmZnZm9GbHFqT1ktWnpoajF1UjBkX1NZWTRxWFhPQjNDZVRRZTNKa0ROY0ducE1SMkYtYmRuSXc2eFBlWDRmQUY4Z3ZQSzFEd2tOM3E4azdfN2FPTGN6SzVHY2NTdGRfcTFqMlpreWVEZzRtS1c1ZlJIZWxDMi11bk91Vm1tVXF6QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Repórter PB"
+    },
+    {
       "articleId": "gnews_87e60684c6f9cbce",
       "headline": "Dengue já matou 14 pessoas na Paraíba, aponta levantamento da Saúde do Estado - pb agora",
       "headlineTranslated": "",
@@ -127,6 +224,25 @@
       "sourceName": "Outbreak News Today"
     },
     {
+      "articleId": "gnews_b6b94c34ddd42cde",
+      "headline": "Mulher com meningite viral deixa Fernando de Noronha e segue sob observação médica no Recife - Francês News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-13T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbm1rd3c0VXNtN1g2SkdPVWNsUmJ1S0RqTFVuaTAwcE1FcjZZaEFmTmtUMGZNQUhBR0dCejN6VTBOVG85eFNIVDNnTmZhcTRlREtTeXh5bDVLOVV2TVpfNTd0aGhRUmVuMExZR1NzSUtRQnZUMGZJa3pveWpuZmhSODZYeU5CUE01Z3NLbXM2MEtjcktaU0VMMFRONWhBS0NRaUtRV3g2RDUzVk1HdF9MNjd4VnlkOHZPVjJkZ2FsSEtLLXB6NkRETWxNaVdlc0JBbHBFRF9fTWw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Francês News"
+    },
+    {
       "articleId": "gnews_1f57858d26bb3e72",
       "headline": "Vacina contra sarampo pode faltar em Goiânia, conforme SMS - O Popular",
       "headlineTranslated": "",
@@ -165,13 +281,13 @@
       "sourceName": "Diário do Nordeste"
     },
     {
-      "articleId": "gnews_679303d6d62bf759",
+      "articleId": "gnews_19e57c064128c5c1",
       "headline": "Vacinação contra o sarampo em Teresina: baixa cobertura vacinal acende alerta na capital - Portal O Dia",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-13T19:43:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbzhTcGlUUDZWS1QwNkdjMkdnZDE5UmhYd3duTzZCRk5TMUlCb1RCRjRhU2pUZXQ5bjZuUHJ4NkJiR3RIWW02MzU4M3g3NWg3cWZwNzFNa0hOd3N6NU5mc2JrZzh2d3lyeDNXRXRVdmF1QVJPRjFDX3NrZXdjdWdiZ1pEdGdzOUR5NDkyWGRTcWZSU01OdVJLd2Fub3RMWUs5UDhTOUYwLXNnSklrd0hoelNmWWM5SjRKWjdsM1llYW0yMXJFcTVnSjVIcHd3eU5hNmh5Sl9jTjc4RHNFMXdEYlN3?oc=5",
+      "publishedTimestamp": "2026-10-13T19:39:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFA4N01OcnJwWV91OVl5V2VCXzBWUGJ2MVFqamlMLTIwclBKYlRyWUFtaExHdUVab0VBbVBiZFV6OFhXRU9BR05hWGdwX0RrT1NfdXJJdkhQcXVfSWZfQ25qZjVOcGlIUFJxT2d4OEF4d3F3STdRbXh2QlE1ckFGMXU0SUlKSVdmeEhwWGVTendXaW9QM0tXTFVxUERqNU5EVkxIc2NYaGpBcFMwLVdZYzd2ZDJIbWpnRGhOZXc1U2pwWDdMZWpTS0xRbXMtZmoySGU2eg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
@@ -431,25 +547,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Idest"
-    },
-    {
-      "articleId": "gnews_1cd8c043a3a0d319",
-      "headline": "Governo de MS leva Vacimóvel para atender comunidades ribeirinhas em ação social no Pantanal - ArapuaNews",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-13T14:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3A4MnhCRzFHOWZQRlJoZzRpdU9VcjNlQ0tQX3NlVDZrUll1OWdvX1RGeTdPTEM2WVR3VUltZ2Jjamx6NlMweDQtandBbzVUalF0YUdDNjZpSDFVNV92NjBCRF9Tb09Ib3FkWTlTY1ZyWDRoQ011SkJrQlZkR1hlZzJ5NkhxcjA5dHI5UENwaHp3RjAtdkdWeXAyRzh4Zzc3d1lUVWpVTEhIaTU2c2xxd2lIME1aU1pyeGJZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ArapuaNews"
     },
     {
       "articleId": "gnews_1d2ce98f4cd6c42c",
@@ -774,25 +871,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_0bec69ce6ef6e1a1",
-      "headline": "Dengue: casos prováveis caem 70% no Brasil em 2026 - Brasil 61",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-12T07:20:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWZFNllvSktHc2d1V0FaTU81QmZVLTAyMWdhdm1vbXBxNG11QWFRV2U3WnFTRHZsb18yR0RONlVaWkJxSzRBek41ZFB0ZVNXaU45UTZFQU53VXl1bTlFRURkMkxZTHR5eHQyX0R0eDFkSVA1Z0NhbTRsUmJfc3FsMUtYOUtWYnJoUzh30gGQAUFVX3lxTFBqZFQ3b09zMUtYX1NtQkEzYWxKX1Rudzl1MzdSOW9FLVpLYXdKSVNZdlc0Yl9ubE1ZQmtYMXBoVk5QR0hQRlpTdVJEMTlSSW5pbWxXaE8ycmVLa21PdHA0MWFqTzJNQjhISFhZZVF1a2Ixajh2dFp1SXNwbVBMSzhIY1pwYkctendQX0hQbmhoWQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Brasil 61"
     }
   ]
 }
