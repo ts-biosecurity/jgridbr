@@ -1,37 +1,74 @@
 {
-  "generated_at": "2026-10-18T08:15:17.328755+00:00",
+  "generated_at": "2026-10-18T16:19:15.631213+00:00",
   "date_range": {
-    "start": "2026-10-16T08:15:17.328755+00:00",
-    "end": "2026-10-18T08:15:17.328755+00:00"
+    "start": "2026-10-16T16:19:15.631213+00:00",
+    "end": "2026-10-18T16:19:15.631213+00:00"
   },
-  "total_articles": 34,
+  "total_articles": 27,
   "state_summary": {
-    "Brasil (estado não identificado)": 7,
-    "Acre": 1,
-    "Pará": 8,
-    "Paraíba": 6,
-    "Amazonas": 5,
+    "Acre": 2,
+    "Brasil (estado não identificado)": 8,
+    "Paraíba": 5,
+    "Pará": 4,
+    "Amazonas": 2,
     "Goiás": 5,
     "Alagoas": 1,
-    "Mato Grosso do Sul": 4,
-    "Mato Grosso": 1,
-    "São Paulo": 1,
-    "Ceará": 1
+    "Mato Grosso do Sul": 2,
+    "Pernambuco": 1
   },
   "disease_summary": {
+    "Dengue": 9,
+    "Malaria": 1,
     "Tuberculosis": 1,
-    "Dengue": 10,
     "Doença infecciosa (não especificada)": 7,
-    "Measles": 13,
-    "Meningitis": 5,
+    "Measles": 9,
+    "Meningitis": 4,
     "Chikungunya": 3,
-    "COVID-19": 1,
-    "Malaria": 1
+    "COVID-19": 1
   },
   "articles": [
     {
-      "articleId": "gnews_5545b1c7cc45e397",
-      "headline": "Shorter Drug Regimens Boost Tuberculosis Preventive Treatment Completion Among Brazilian Children - Bioengineer.org",
+      "articleId": "gnews_daa08409eeb49897",
+      "headline": "Menos de 20% do público de 10 a 14 anos completou vacinação contra dengue no Acre - O Juruá Em Tempo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-18T13:54:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEdEX2JsV3FRX253WXdZYmdDejFwSDRiOGZrV0ExZWk4OHdFc2J4SEVRSmYtdnpOa0c5S1Y5d2RUVjNLeWVRMEJEUFFqMktYblREUFVmbUhLZU9TSXpLVHNqV09rLUJUV0NKNnhCRGt5ak1vbWpGc1FfajZHZk1uOElrR1JvcGdPUENjRkhLanFFWFV6azUzenVkQUVCekE4YTBsVXNSQ1JzdHdKV1hMM1hxOVRFNkRzSXc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Juruá Em Tempo"
+    },
+    {
+      "articleId": "gnews_f421c9db61277ab5",
+      "headline": "CTVacinas da UFMG avança no desenvolvimento de imunizantes contra dengue e malária - Rádio Itatiaia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-18T10:50:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjEzZ2JzWEhJMVpWWlBKVTlnLVlrNkNLbm9NUzc2Yk1ubEdXQ2xVckNIS0xIWUQ2S3JMOUZlejdISkQ2ZlhfUUVaUFVOWTZLVHU2SGlkLWlSTmc3ZmZURXhXQ1doS3hFR0NIa2RnWnlWQU1ZV2dqYTZ1aF9Pb1hZWDNtbTZjSmY0NFc3Q0NBd1Q5TVVyWmdqLVZwMmhXRmkzNG9oWGlCN1J0OFhRTXJnSkxPU3FFazZq?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia"
+    },
+    {
+      "articleId": "gnews_0500590564d66474",
+      "headline": "Shorter Drug Regimens Boost Tuberculosis Preventive Treatment Completion Among Brazilian Children - bioengineer.org",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -46,7 +83,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Bioengineer.org"
+      "sourceName": "bioengineer.org"
     },
     {
       "articleId": "gnews_b54d3aa127b07878",
@@ -134,13 +171,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUJlT1NSbFAxczNqM29oUGlHUFBxM0dtTzlISDZjWlFoNG5DTFQyU1g0WXdBVEQzdFVBZnBiMzhVdF9QcWRNc1ItdTBpbVdsV2g0Q0sxRDVGMGhTV3dTQi1hNWU0MU5EUFo0TGVtd1dDU0RTTTFOODF4M1ZvSlBYM0NMRGZEUFBQcWFXT29wUkV0S0hZdWxSdkR1dkM4MjZfRURyN2VWdThBNm9tSEtQTFhDejVsWEpHNm1aYg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "Meningitis"
+        "Meningitis",
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Parlamento PB"
@@ -174,13 +211,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFU1VEUyamRqby1hNnBOUHN6QWRqWHhXdGh4T0dheHdtS2ZfbHE4OFFJSk8wLUpsdVl5WkhxV1ZFTGxQcXRmLTJEend5d3dlZVRaV1FOZXhsQTdsMXFSMmZEVnliTzh4WXdMTDM3TW94VlZ0dlQ2cWNrTkdnMm1Tag?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "Meningitis"
+        "Meningitis",
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "ClickPB"
@@ -195,13 +232,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOW5fQTFzYzJiS283ZjhUM0VCWDRVSFk5SjNGSnVnU1NFU18xUU94cnZwRWkwSWRKZnpCcllEdWN5ZHh6LW1WbFAxYjdkUTh1Y2ZKY3FsekZudnB1SkNOVU1CTVYyT2sxTTRpb2xJWUNGdFE4TVlqbXFJWWFCUWd2dWxKNUFoRWVZdHNKZkZfcWxEVUdURHFibmxTNk5qZmp1bFFTdHZaRk05UHpPLTFMMHI4WDlRblRrSklkWUpvU2lFRV9XUlQtMtIByAFBVV95cUxQOW5fQTFzYzJiS283ZjhUM0VCWDRVSFk5SjNGSnVnU1NFU18xUU94cnZwRWkwSWRKZnpCcllEdWN5ZHh6LW1WbFAxYjdkUTh1Y2ZKY3FsekZudnB1SkNOVU1CTVYyT2sxTTRpb2xJWUNGdFE4TVlqbXFJWWFCUWd2dWxKNUFoRWVZdHNKZkZfcWxEVUdURHFibmxTNk5qZmp1bFFTdHZaRk05UHpPLTFMMHI4WDlRblRrSklkWUpvU2lFRV9XUlQtMg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "Meningitis"
+        "Meningitis",
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal da Paraíba"
@@ -350,8 +387,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hQkpmS3lVdzRBS21Fd2JXdVlsWTJMOHd5UDdnMk9nUW00Q2kwQWpta2U0Qnk0eU5abFZXdWMzdXZQTzQtZzlNMmVvcW92ZmZLWVVsb2RNUFN2M1V1eTJoUkVTRnJEX0VOMmRJbDVTVjlZZ21fNGpybC1B?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "COVID-19"
+        "COVID-19",
+        "Measles"
       ],
       "locations": [],
       "states": [
@@ -437,23 +474,23 @@
       "sourceName": "Jornal Opção"
     },
     {
-      "articleId": "gnews_af3ea5ae8301df8c",
-      "headline": "Secretaria de Saúde de SP alerta para vacinação contra sarampo antes da temporada de cruzeiros - Rio Verde News",
+      "articleId": "gnews_a0d8ec546ffac0ab",
+      "headline": "PM que matou mulher em possível surto em SP é solto após audiência de custódia - Diario de Pernambuco",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T18:43:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLXV4MEpqY003bUd0Vy1WNFhvcHFfVWdUaUk0VTBXRjJybjNlbU9kLVh2WGhRUE00YjdEYmd0QnpsZmRKbmhwbU01cEtxN093eUx6TlZJRERrNVViZTh1STBuTzd1V2Q3UGNaY3pCQnQ3R2JBZ3NGanhMcDhQOVo2cUNCWFd6dFRUMURyNERPdHYxNExxR2hBOFJZaXg3Z2laRnlWOEdUN2ZveWRRVFFhUFdTT2VWbEcwbHhVRXZxU1l4RjhkbHU2TmRaVDJNbVBCT25V?oc=5",
+      "publishedTimestamp": "2026-10-16T18:35:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnZvV2Y0NFNiU3QySF9kQ1ZwVDNYZ3dhZXhkTG9jMTJfd0htdGJmQ19mSEpTWUFyM3M2QVp0ME9oWUItSHBhamQwYW9lVTdVSVA4RXB5cjR2cVZJSUV2QVBqak9TR1pCTXRKTUZsckVpczFHajJMdlZsZy1HZkdsOVZGNGxDOGUwQ1YyOEV1Mzc1aDRhZkdXRjVVSnd4RlpRTFJBQWxHUEdqM2ZNLUxuYTNRUWViWmIxRUJSaEpSUUZMZ09TbzllZHR0NlBULXJJMnY1Y1FFcUxVdTJBZHRycFRkSQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rio Verde News"
+      "sourceName": "Diario de Pernambuco"
     },
     {
       "articleId": "gnews_67e5a93f0e6e74df",
@@ -513,180 +550,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Goias.gov.br"
-    },
-    {
-      "articleId": "gnews_bb417de691e25046",
-      "headline": "Mora em prédio? Estudo em Manaus acha ovos de mosquito da dengue a 10,8 metros do chão, a altura de um quarto andar - Revista Amazônia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T15:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdG1NanVpazBuX1NkMExMV3NDMENHY3FwUXFFTXdkQlUyYTZvYTZ3cGtPZ2Z5UFhqWEZTYWpjbXd2NlJ3eGNSaGZNRWc5SUh4Z0l5Tm9HTHhXRkpmOG9IaklDaEF0a1ZhdVMwRlA2RVBhb2lrWl9SVzJndXhacVNVLXc4OA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Revista Amazônia"
-    },
-    {
-      "articleId": "gnews_352366e9c0494692",
-      "headline": "Casos de sarampo quase dobram em uma semana no Amazonas e chegam a 17 - Juruá Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T13:32:42+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGdCTDJieHJ1MUloOHdlc1FVNGtLdElMdUVkbDRMMDJOUmJHcDFzWEdfdlkwUmg3d0dXTkc3OU1EbkpoM21oUWNkQlJ6bUw4MTBGUkRjZHZ2YjVEOFR5Q2hNM3JfU0RiNm1sYVRHbHVwRXEyNmdRQVdQTnRuVEN4WU5BSEs4ZjkwN3lSaThNWFZDUUdHSWlOSHh3djdtUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Juruá Online"
-    },
-    {
-      "articleId": "gnews_dd721caeab63ddd4",
-      "headline": "Alerta no Amazonas: casos de sarampo quase dobram em uma semana e chegam a 17 - O Juruá Em Tempo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T13:14:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONC1JdGkwY3hvOUt3aXliY01SSXNRX3JmbzBDdHNseHhXdFVHSmNTTVp6T3oxZGNialhvQ0k4RjBZWXR3Q2x2YlpsRU1GSWNOTTN3R3ZJenUzckJGR1RJSElDdTQ3ZmNTa25GYXp6bU1xUFdMUmhWeTJHZmhzNnNCNmhPTkx3b2lwWVd3WVRTOW15ZXNCTUxCT0pGb21aV1hIR1dkOWpZS3ZHVjBnVDJic0N1MG9hemM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Juruá Em Tempo"
-    },
-    {
-      "articleId": "gnews_cdc4dcb7dc2508cd",
-      "headline": "Mato Grosso do Sul libera segunda dose da vacina contra dengue para público de Dourados - Capital News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T12:50:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSmdKYTY4dXFlNHZxLVF3TjV0UFVhNXNCcXlOUUUzMUtmb1ZSMV9nRHZ6TkZTSDBQTzVRVUl1alI4SU9rMFoxcTE3MzlZVkNHY1gwb3R2X2RMWmo3MlRvR2hNTDNEX09TcGNEOEJZd00tZ0RWVjBKNmYxa1JvT1pyZWJLOWgyblYyZ0JheW41UFpwUTlDYi1Gal9tZWVoVFJDR1M4WGpGYnhtUGxnaEdyYk1ZM3JpYW11QUY0N0w2TTBXdGhVMm9OWC0wRjY5c0lMR2V2Wm1Yc1dOczFoMVV3WWIzb2RGQnM?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Capital News"
-    },
-    {
-      "articleId": "gnews_d8f880fd69c689b8",
-      "headline": "Vacina brasileira contra malária vivax recebe autorização para testes em humanos - Diário de São Paulo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T11:50:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVRRbHM3MktwRldOc2d4OUwwVlczUm1WLVBvbnZMeDdFSHc0OG1uNWphWUx4d2xiNGFYYXgwVVBOMXdTODhtWHhRV1hfTG5DSWtOUU1LbWR4N2FFTmUxQ01JVGpTdHVXVEQ2Ui1XMERhTV9ZUEtpYXBIcWJEaW9JOXZNdzZfS2JhQWF0OTYzbUJQSThYQ2U3VUxQX0dSOUZ3X2xvWnJ6MlprZ2lEbmF2ODhOc0VURk9UbkFicHB6c3BWZ9IBxwFBVV95cUxNYmo2cXNJUVJ0Z25EVFFSRWJBcTRJc2x2d19xSjVyYnhFWi1qZURaOFE0NnFTNnZUSHVhSFFsbHNYQUlPczZmT3Rhd1g4MFVJYjExVWppLTFyMmdVcFhNOGFPMEhhTUdVcDh4M0tCc3NmUjg4SnMzNURQWGZoMENPdDZyenhhUTBRVFNfRFZsRlo5a1NKdzVNazVLOHdLY18xck9ySXhCblJSU2s5ZGcxakNJR29xLWNBakhhM0trTGVzTk9pNWZv?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário de São Paulo"
-    },
-    {
-      "articleId": "gnews_653a565504c98ccd",
-      "headline": "Quem tomou a 1ª dose da vacina contra a dengue em Dourados poderá completar o esquema em outras cidades de MS - HoraMS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T11:22:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTQtMG5CbmdYS1RjaG9VSHBuaS1DclpVWXlhd3ZqLW5SWlEyRmRxVzViTHBrWDdSVG9ORElRSElrdWttTmRDYzRhNFAyNWxGdWJKQW0zOU1EMXFoUXZzcnVwTV9UYXQ0M2ItdEF0TEY0Y1AzZHRJRl9LeVU3NUZVM25n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "HoraMS"
-    },
-    {
-      "articleId": "gnews_df7db99c35bdb1ad",
-      "headline": "Casos de sarampo sobem de 10 para 17 em uma semana no AM - Tefé News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T10:50:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjRYZUpTTXN2VVVhQ3lZc3RXTEtta1ZoeDAtMGl5b3A2TzZjaVJUN2NXVjBBdEpIX19HVkVxTWxHWnphYnFaODBfREtROTRmNFFDc1E2eVZIZFJsR1lSRXp0c1pvMDl5V2l3WGphRWFoUHhtTUswa1Q2aDlkU3pFOVJ2a1RnY1B3REQ0QTN4WWxjXzg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tefé News"
-    },
-    {
-      "articleId": "gnews_3b0c2c8d63cc191f",
-      "headline": "Fortaleza inicia vacinação contra pneumonia e meningite em idosos - URB News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T10:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2h3eE04V0VtR0NDUVlXV0NyS3R5MXBmLUU5dHVRWTdvSnlLVkZEX3EzZHBWdlVhTWtLdHpMZlVQd3lKZUF0UDcxU2VTQ3dyaHJrQ0RxeWl1bU9RNlRMVjZ5SUR1TTlrSjRrcHEwNGpaUmtrQmpQYkpBQ3o1SENCUTZhMVBXOXNzRkNlM21jMjdya0pYdmVGcmpyMDZvZ2g2blE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "URB News"
-    },
-    {
-      "articleId": "gnews_84cbf32dfafff026",
-      "headline": "Dia D oferece vacinas neste sábado em João Pessoa; veja locais, horários e quem pode se imunizar - THMais",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-16T09:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHFpRXF1Q0lXeFRmZ25TdnhId3A2cHZJbUphN0d3RjJoV0t1SXhmc0RTTFh1ZUVQNnNJMVF5VmZ1TmVWR1dYRDRkRHkwV28ycExSRS11VF9rYWhLd2RvNG9XWkJ6TzBId2lVRF9teFF4VTZMMndEdkFHRnQ5Z0pUdHNFYm03SlotZndnaG1xc3JPR0lULXp2RDlCcUFUX0szQzBGanRrMHduUFFZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Paraíba"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "THMais"
     }
   ]
 }
