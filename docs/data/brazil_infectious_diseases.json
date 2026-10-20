@@ -1,42 +1,156 @@
 {
-  "generated_at": "2026-10-20T00:41:08.254117+00:00",
+  "generated_at": "2026-10-20T08:17:01.056994+00:00",
   "date_range": {
-    "start": "2026-10-18T00:41:08.254117+00:00",
-    "end": "2026-10-20T00:41:08.254117+00:00"
+    "start": "2026-10-18T08:17:01.056994+00:00",
+    "end": "2026-10-20T08:17:01.056994+00:00"
   },
-  "total_articles": 22,
+  "total_articles": 31,
   "state_summary": {
-    "Brasil (estado não identificado)": 5,
+    "Santa Catarina": 3,
+    "Goiás": 5,
+    "Brasil (estado não identificado)": 10,
+    "Ceará": 5,
     "Pará": 10,
-    "Goiás": 4,
-    "Ceará": 4,
-    "Santa Catarina": 1,
     "São Paulo": 1,
-    "Paraná": 1,
+    "Paraíba": 3,
     "Amazonas": 1,
-    "Paraíba": 2,
     "Acre": 1
   },
   "disease_summary": {
-    "Dengue": 15,
-    "Doença infecciosa (não especificada)": 2,
-    "Meningitis": 2,
-    "Chikungunya": 4,
+    "Doença infecciosa (não especificada)": 6,
+    "Dengue": 17,
+    "Meningitis": 3,
     "Zika": 4,
-    "Measles": 3,
+    "Chikungunya": 4,
+    "Measles": 4,
     "Leishmaniasis": 1,
+    "HIV/AIDS": 1,
     "Syphilis": 1,
     "Malaria": 1
   },
   "articles": [
     {
-      "articleId": "gnews_3d674002f3e60a08",
+      "articleId": "gnews_28ad0f45a9a77473",
+      "headline": "Brazil: Newcastle Disease Outbreak in Santa Catarina - PoultryMed",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T06:56:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kbWFVUWNwLU9UNGtSblRnaXVuaWFCWndLN1E0aEMyOVo1ZHpObXNjdVhJVzk3Sms3U1FhX2xuRXhJMnhvV0w1aUdsNUJjR0FsVy14dW5Taw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PoultryMed"
+    },
+    {
+      "articleId": "gnews_a44e19399eeb091e",
+      "headline": "Goiás intensifica combate à dengue e reforça prevenção ao Aedes aegypti - Arroz de Fyesta",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T06:10:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUR3clZ5VmRsbFhHLTdHTzlWazVjMlM5Mlp0T2JBaDBNZ3M5WmNMNTFJalJXOThjZlhBcHNINlRoQ21HOXZqQThvaC1uRG51MEFjblVrY2dlQW9iZEJGNE1ueWhSa1pOZjBEWVVxRVpNMVJDUEgwTG51aDdrYXNzYXdBY3dmcjFURFJ6SlRIX1pjalpFYy04ejAyXy1RN0IyWFhYQ1k4aHhEMEJY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Arroz de Fyesta"
+    },
+    {
+      "articleId": "gnews_cc08b6e5f9a1d037",
+      "headline": "Mexico suspends Brazilian poultry imports over Newcastle disease - Sharjah24",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T05:35:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSE9NV1JkRnRXZkEwalBDUFl5aUFfeUJFcjlJRDVJR1dVdERYM1JBQVVOemEzdURKczk3dlZySG5saWFOcTdGTXBLSFphcEoweDlrcndHbkl0VlVvdWtCQjdLVy1yLXpWczRLdHNqOW5IMjJqQ3l4WGhlUnlNUDlnNV9JNnFjakRBdVROcHpMazNhWHlZUkdTVFljejgtUHZNdU1HeGpIektCeVJW?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Sharjah24"
+    },
+    {
+      "articleId": "gnews_b845cd5c346758d5",
+      "headline": "Os números alarmantes da dengue no Ceará - O POVO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T04:15:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWNsUE12cXNlWDRuQjBqRHRRM21RWmx5WkZZQmVjdl9lczRYUTdPZXplX0NMQjNoeUJMZGFGa1ZqajBvMTFJOVYyOElTU05NOHJBMEc0WS1jUkdqNXptVUNEdEg3OHpVXzVFRno2TTcyc2M3OWxmQXBqQ2dOR2ZJVTNhTk9OWGNOdDdLR2Z3LXNLMU51NzltLUtRUHVrT19vc1MyM3dn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO"
+    },
+    {
+      "articleId": "gnews_8aa0fafe17e67a1d",
+      "headline": "México suspende importação de frango brasileiro após surto de doença de Newcastle - Correio do Povo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T03:23:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTk9KLWxiVlpEYUFsX3lhWUsycmljSkxUbTd6b1hDeDFGTEtMemlpcGZPRk1hbXRUQmtlWGViVUI2S3RFU3FTNXgtdkhrZ0lYZGhPWTdZLTdQNVJkN25PWW5vdjBqOXVTbHg4MktQSXBScHo5VXlMYnJHZUoyaGlPaG9zajlNWjNITGtRbzVsSTExLTcyMVhwUHFQdzJXX0VZOHhWRWVIVDc5M01XdUs5UkJCMHNHNVFJUUpnRnJYMGxSdWlBMkpyVHhjRlg4NlR6aVpiTVB6aTJoZ2R4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio do Povo"
+    },
+    {
+      "articleId": "gnews_976bf6e0575f5733",
+      "headline": "\"Primo\" do Aedes aegypti põe ovos a mais de 10 metros do solo, diz pesquisa - O POVO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-20T00:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGFOajlmSU1JNk82Wml3VFJLRVBEQUNhdHY4eFh2aXRjVGF6S3kwM3loOWFQeXd0LWVPbjBCZVZNVzFHWTR6dG14N1BLUEswMHRzcGF3a1RUVG1NX1dOSWVvTlkyU0Z1My1wa01JYnpfeGw0VXA3clJUZHZaM3l4RUI2LWFwdTRjTlVKbUR5M05DYlljbU5LWUZKdFJvTUNOQjBfdlA0LTNvSU5rVDNLVjZDZWNQdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO"
+    },
+    {
+      "articleId": "gnews_446031389e632934",
       "headline": "Catalão participa de mobilização estadual contra a dengue - Prefeitura Municipal de Catalão",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-20T00:30:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHoxbFhVRnJpVlFzUVJZbkF4MkxGUnhOQThxZElNbkgyMWdpa3hsOTNWWmNfWmI3TUtlek1IYTF5dll5WXdpV0dGbXVFS1YwenByTnItYUhxQjR4SWtDb2xZREpFX3pwZXVRSkZ0Z0ZQalc5cWtJTEVQQW1EOEw4TWE0XzNxWExCSTI5OHlfblZWZXRLRVU1dzNUZmJhR1U?oc=5",
+      "publishedTimestamp": "2026-10-20T00:30:19+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDVVMXRvUE1MRWRkdk1HeUY3NF9ieGpSbVpwN2Izd0puNUVTWG4xTE9pNThkSHhpVi1hY3ROZER0emNhdGFFY1g0MV9lTVhuOUJLcWJUNmlyb2o2WnRDeFhhaDZoMkIzaDFtT0pZNENjd05sVS1ZZ3ppc0NQaklDVWN6RGJzN0wtdGNvNU41OG8wX3RKSV9SX2N1TlhxaTRoWGFzVg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -87,6 +201,25 @@
       "sourceName": "CNN Brasil"
     },
     {
+      "articleId": "gnews_21ab0d4c8063c1d2",
+      "headline": "MS amplia público-alvo da vacina contra meningite de forma temporária - Pix News MS",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-19T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVpBMGc2Ry1mRzV6RC1SdVE0NmpOQlN0V2dZaUlObVdkLVhvc0FlcVNuUmdxX05USW9XOFI2LTFSM29rTGFGN0pUX3ZhOUFUektrTW40d1B0VzNrVlM3SHdaTDJ3WWJWX0RGcmNJbnE0T3B0RlJxMUhVZ05ib0M3ZS0yQTJjZmU1MFdPWFdGTE45SjNoQ1NybWVZUWdXMWJjcDM1c3NlUTBWOU9tUXZvaXZIMV9GNlFsMnUySXo0dw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Pix News MS"
+    },
+    {
       "articleId": "gnews_b8c9edb7204dfec4",
       "headline": "Governo de Goiás fará protocolo e terá Dia D contra dengue, zika e chikungunya após alta de casos - Diário de Goiás",
       "headlineTranslated": "",
@@ -96,8 +229,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzUxWkNBYW9HWXNfcmYyVEJHUndHTHMzWmdvVE9XYll5VkNfSVFnU3RMZEFBbDY3Z1U0NGlvOFNkVmY0YTNQZFMtU1l1REZHV1FXTTRYWlNJdlZuOVprWklPSlBSU2JqVFVSZkJhMC1aeXJDa0YtQjk2Zy1UbUJfVmVWdm16NDZmcjh3SWEyQVVIZzFneVp0Y3A2Z2tBS2lmQ2RuYUc3UndLYmJzelNIRkZYWlg1bTE5WTRoY1BxenJ1WDZydUp0VmkyVDlDdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
         "Zika",
+        "Chikungunya",
         "Dengue"
       ],
       "locations": [],
@@ -117,17 +250,36 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUpPVmFublhidUFCcGVLZTE1VjlQMVJhUHBNYkFTWmlaVm9JYVlmZ0tvclI4a3lIUkZiMTdXeWZMVnhxbEpMWTVDdDVGYnFadndiYUc2blBEOW5tZEZ0SVE5NldmRV8ydF9xUS1nVDNWWGRURUJ3YndQbkFXbkJ6S0FKaHQ2bU1LR3lvTGJ4UUpIMnJXd3VPdHl1T3hrQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
         "Zika",
+        "Chikungunya",
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Transmissão Política"
+    },
+    {
+      "articleId": "gnews_e04fe9fa798e5d75",
+      "headline": "Florianópolis reforça vacinação contra sarampo e HPV durante o Dia D da Saúde da Mulher - Informe Floripa",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-19T20:21:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTE5XYTlScnBLMmZEUUdNX282OHZBRkh6Vl9MOEJpLW9KXzZ5MTc2LWpuWWJHcFRDQktUVkdTZzdDVmdmSE9vTkdpdXZfUm45b0tTZmxuZjhrZ3pHUGhkbU9RTWRRenJVVjBQeExWVzdHNDFrVHFndlhsQ25EVWJlbVNianM4SHJJRmpxVUdOU1VJV2t1aE5CRG42aFZPTU9tTW1mR3RCcVYtcjZpWk9IdnhfNGVMZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Informe Floripa"
     },
     {
       "articleId": "gnews_4e073ead8d6ecd64",
@@ -139,14 +291,14 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmswSHo1VXdsbE4yblR4Y3VsSi1USjB1WVlRdVlBUlhDOGoyRVNnRVRTNmx0LTU3Rm1SVlhUQ0pFalNsSE1EZ2RUNmQzMFd4RWFTaFZDU3RYTjVmaW84LWFyM0RBbmRjOE9vWXJ6OU1XbUtGTVF1RlJrMUFldzFTeTZlMWcyUzE5dTY1MFVJeEJkTWpr?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
         "Zika",
+        "Chikungunya",
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Planalto"
@@ -172,8 +324,8 @@
       "sourceName": "URB News"
     },
     {
-      "articleId": "gnews_0c0d807136cda1a6",
-      "headline": "Goiás mobiliza para o combate ao mosquito da dengue, zika e chikungunya - Goias.gov.br",
+      "articleId": "gnews_e3d34d6d31076ad5",
+      "headline": "Goiás mobiliza para o combate ao mosquito da dengue, zika e chikungunya - Governo do Estado de Goiás",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
@@ -181,17 +333,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkRYaEI2U3BOXzAybVBoRFdSNHpJcEVwYlR0Y2RBT1J1QTRfcXU5YWs3THBsd2ZmN09zRHJyaHRfMElEb3RfdXJRY3hxUGNGZVd6dEE0ZERGRmllMFFiWDZ6YnBiaG80N2txdTcwT3g1TVNMMHdOWUlFaHIyUmZvbHk5R1pZOTJGcldSaUN5cE5hXzlGQW1V?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Chikungunya",
         "Zika",
+        "Chikungunya",
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Goias.gov.br"
+      "sourceName": "Governo do Estado de Goiás"
     },
     {
       "articleId": "gnews_a4e104e3be964e3d",
@@ -231,26 +383,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Ceará Agora"
-    },
-    {
-      "articleId": "gnews_52b9e9bd28729a19",
-      "headline": "Cascavel começa a liberar Wolbitos em 17 bairros para combater a dengue - O Paraná",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-19T17:50:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUVPaE55OHpFY1NaaW9kUXU5VXNUUENMUXUwSkd3TVJlM210TEh4NHRET1lVNzZGVkY3M3daQmlYdWdQbWlLRGlwYXB5elN6OS1fNURkYWNRRklWMk1maWY5eEpWUEl2cUJBbzJpV2UtUnl3Z2xQX2kwVXp1ZGNPbUVsdVl2Sk43V1NERWJRaFBSaFo2bWhJOWRwblYzcjFyVlNNWTgwWHAzOFB0aF94UmZ5bklza3E5Y0c3OWl2dTZnYU5NNG14emtFOA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Paraná"
     },
     {
       "articleId": "gnews_7057744a6d4e8e7a",
@@ -319,8 +451,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0d0S1YyQW8xQ1NjR0dsZm0tLThka29jZFpJeTI1WEJ3YldoTmR2S083ZFVsWGktQk9UTjBHMU5CWG9LM1FJMjRRMlMxTGo0eGlUZVQ5cFBrM01lZXMxQ1h5aTd4QlVhVVkxSHEzQXI2QlZ4VG1CbXFtN3JrQjhJLVJOWVI?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Leishmaniasis"
+        "Leishmaniasis",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -328,6 +460,45 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ArapuaNews"
+    },
+    {
+      "articleId": "gnews_d84f951372b7c6e1",
+      "headline": "Paraíba registra queda no número de casos de dengue no período inicial de 2025 - Paraíba dia a dia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-19T11:58:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTdfYlZjRmRvNlAwUklsRUhNMWtHeUhWdUwwOWRmMTUwX3RsSXB1ODNhTi0xd1dQX3llSW9SZWZDTC14dHhoVFJ4N0pnYXhoQXh0NVRUcnpZYVhheThUN3JHa0x1WUdDbHQ5UjF1SWZTRVNuODBZQkJteXhxWFBRRkxReUUtVG03NlNIT19PZEoxSi13RDRBODBTVVFyZnV2UjMtVG5iT1lfS2ctRUdUVw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Paraíba",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Paraíba dia a dia"
+    },
+    {
+      "articleId": "gnews_d52de76b50ffd96b",
+      "headline": "Pulmonary cryptococcosis in non-AIDS patients - www.elsevier.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-19T09:08:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcEtqX1JUeDRNNkdESktGcUloRVU4eVVGSUlkcEllZXBQcTFTNW5KOU1lRTdTV2NMV0lTYWxHcEJuMF9nTndBbW5EMUdiUS13Z0I4b2JBWnVQeUgzeFBCT0tKdEpBMktpaU1vWDd4OVg1RF9oeWdKR0NMN3kyVlJfT0U4OW5abXRrUmlZQTZ4TmVMMzVQcTZHQzJoaGJNNXNVQWFEWVE5QXItbnF0aVN4WTFIaHJMb1p4Y0NMbTBEWWxnRkxfeEgzRzIzSU5ndWU2bDZPSTRXNDRsSXE4QXZWQm1iMEhfbS1p?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "HIV/AIDS"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "www.elsevier.com"
     },
     {
       "articleId": "gnews_e0ec2636748839f3",
@@ -381,8 +552,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "REDE BRASIL DE TELEVISÃO"
@@ -416,13 +587,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON196M25mZ3E5Nkh4XzVTVEliY3VVTElqaUlzeGFuc3FhejIwamtPWU82NjZncXZPekFRT0l5S3NIUENicHVaaEduTGh2dV90STBDS3VaOGpYTDI3VDVyQ0oyX0lidWpFejlFaHhTejJQNXNGUUFhbmRCN3dtNUR3M29OOW5CU3NkY0liQm9WdzloZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "Meningitis"
+        "Meningitis",
+        "Measles"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Paraíba"
+        "Paraíba",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "ClickPB"
