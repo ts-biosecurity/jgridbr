@@ -1,33 +1,71 @@
 {
-  "generated_at": "2026-10-25T00:44:00.890960+00:00",
+  "generated_at": "2026-10-25T08:15:47.724903+00:00",
   "date_range": {
-    "start": "2026-10-23T00:44:00.890960+00:00",
-    "end": "2026-10-25T00:44:00.890960+00:00"
+    "start": "2026-10-23T08:15:47.724903+00:00",
+    "end": "2026-10-25T08:15:47.724903+00:00"
   },
-  "total_articles": 51,
+  "total_articles": 47,
   "state_summary": {
-    "Pará": 20,
-    "Bahia": 2,
+    "Brasil (estado não identificado)": 20,
     "Mato Grosso": 2,
-    "Goiás": 3,
-    "Brasil (estado não identificado)": 21,
+    "Pará": 19,
+    "Bahia": 2,
+    "Goiás": 2,
     "Rondônia": 1,
     "Alagoas": 1,
     "Mato Grosso do Sul": 5,
     "Espírito Santo": 1,
-    "Ceará": 1,
     "Pernambuco": 2,
-    "Acre": 1
+    "São Paulo": 1
   },
   "disease_summary": {
-    "Dengue": 9,
-    "Measles": 28,
-    "COVID-19": 6,
+    "Dengue": 11,
+    "Measles": 23,
+    "COVID-19": 5,
     "Doença infecciosa (não especificada)": 7,
     "Yellow Fever": 1,
     "Chikungunya": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_e811d756f9749201",
+      "headline": "Dengue em Balneário Camboriú cai 99% com tecnologia Wolbachia - Gazeta do Povo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T01:34:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXdleTFjRGxaanBXbWt5a3Y2QnhQRWVIRnZqanl4OS05SHpVYlE1NUhVOWtVZWRxWFR5ajFMTl90TWhLWXZUeUVUYzdhSHVlZGgtb29vcko0TTRvZVVURFNXS3E5RUc3ZWpKX0JDcmJ6RnJlZ1VWNDcyVWVPLU9Ya2xkSjUweGszNlZSa3VGWmRHdFcxVmhOSHNBU19uMnRoa08ySU4zVTRYWlRSblhEM1BoZXlxVTZsZWFv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Gazeta do Povo"
+    },
+    {
+      "articleId": "gnews_3d5fedbb4db03a1a",
+      "headline": "Baixa vacinação deixa Brasil em alerta para novos surtos de sarampo - O Mato Grosso",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T01:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkhDN09qdkR0RmVUbUZSU0hncjhCZld0NEFwSVRsZ0EyUnpJRHB3Qk1YMmN6TUZRVVNaTXVLYTVCYUNyM0N3WGtUenUxeERGbHFjUG9BMDd3VldxTDl3MTByTk40NVYxZzFYeG4xWnlIc3pUQV96UlNOU0YzV3R1Wmh2TkxJdXdnZUdwQXNQLThWQ1dTbEJn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Mato Grosso"
+    },
     {
       "articleId": "gnews_d1dc56f9300dc4d7",
       "headline": "De 7 mil para 12 casos: o recuo da dengue em Balneário Camboriú - Gazeta do Povo",
@@ -67,26 +105,6 @@
       "sourceName": "Bahia Notícias"
     },
     {
-      "articleId": "gnews_3d5fedbb4db03a1a",
-      "headline": "Baixa vacinação deixa Brasil em alerta para novos surtos de sarampo - O Mato Grosso",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-24T19:06:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkhDN09qdkR0RmVUbUZSU0hncjhCZld0NEFwSVRsZ0EyUnpJRHB3Qk1YMmN6TUZRVVNaTXVLYTVCYUNyM0N3WGtUenUxeERGbHFjUG9BMDd3VldxTDl3MTByTk40NVYxZzFYeG4xWnlIc3pUQV96UlNOU0YzV3R1Wmh2TkxJdXdnZUdwQXNQLThWQ1dTbEJn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Mato Grosso"
-    },
-    {
       "articleId": "gnews_2a44c28c4cdee86c",
       "headline": "Surto de Covid-19 atinge 108 detentos na CPP de Rio Verde - Mais Goiás",
       "headlineTranslated": "",
@@ -104,6 +122,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Mais Goiás"
+    },
+    {
+      "articleId": "gnews_a353dcad13a42d5c",
+      "headline": "Guindaste cai nos trilhos e atinge trem da linha 15-Prata em SP - Correio Braziliense",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-24T18:07:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDdNbkNVVFdxQkpKTGdSNDdJNVFmQ1RTR1FGelhKczM1VVJ1RnZ5UERkZTN0MVpoTjIyMmhtUXR6ZG1NeWhCM19JcGR6SkppcnJZOXBtSHNxRm1ZQVd6S2QyeUFyNHB6TlhtdDlDMW9zOUY0RlNVZURCbTQ1MnJnUE53OThVMUtPeWdYQ294eXBzREdrQkV5MlpLcVo1aU5fX3A5cXpRVkFyWnNmX0pSRFBlakhnN2VpY0F5WkppZUhpUXltRnhMNdIBzgFBVV95cUxOS1FwNDdfMUU5X0J3RGJpdEc4Um4tMWJDbkFsWWVncFRfc2VUSUR4WnhyVTVEblVjWk5pRHNxVWpsWk5jcHYxQlU3VHZ0WlZ3UWI1azV5M0JfTTFWTFpER054UDc2X0hCcmRianViX3RleThyQmk0OXk0UjFZallkOWV0dlBFUmdoc0Yxa3gwMURtcktMZ1ViUjl3cmI0TURPMEhXMVpxbkNQWFFHQWtWWWNHU3dMcGxLcC12RWVPQVFURFk1M3k0OHhKekFDQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio Braziliense"
     },
     {
       "articleId": "gnews_bbde925d7e311384",
@@ -144,25 +181,6 @@
       "sourceName": "Tudo Rondônia"
     },
     {
-      "articleId": "gnews_80a7dd0e66b07692",
-      "headline": "Baixa cobertura da segunda dose contra sarampo preocupa autoridades de saúde - Plox",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-24T13:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVJyeE1hVjBsQVN3OC1mTDhVcGVYVkdLcjVSRC1KSVN2X21xMEUwd25fZ1NSR01MU0JHZXYzR0N2NzlsSTRVYXJReXlFTmM5Zm9mM29CbkNnRlVLZjFFTzA2aVRRUlU3QVBGQ0RYd2NlNER6WGtTclo3YS0zeEc4dQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Plox"
-    },
-    {
       "articleId": "gnews_2e2891f25eff67e9",
       "headline": "Baixa vacinação deixa Brasil em alerta para novos surtos de sarampo - Rádio Itatiaia",
       "headlineTranslated": "",
@@ -201,25 +219,6 @@
       "sourceName": "Fala Você Notícias"
     },
     {
-      "articleId": "gnews_7c1afd031000e647",
-      "headline": "Sarampo avança nas Américas e preocupa o Brasil - Correio do Estado",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-24T10:10:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXJYdTdta25iT3JTYTc0a290aFBFSXhJTFg3UV9QY3F2UXdvLXZOQzkzMkRpZDV1eEtjaU5FTzJlbEVhd1l3cWQ2R3VvOTA3c1Y0enh6WUo2S1loRExBeHNBNDJOVG1qZkMtRzg2d3lzRnZXNEdaTDFVT3U2bTRfUWVPXzlROXZidzZyWnpUTHhxQ1lQZFNyVmdDcl96NkZkNU5BRGtKXzljMFFVeDFIckpn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio do Estado"
-    },
-    {
       "articleId": "gnews_1189d80edf5cdcda",
       "headline": "Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença - CNN Brasil",
       "headlineTranslated": "",
@@ -252,8 +251,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "082noticias.com"
@@ -352,25 +351,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Bioengineer.org"
-    },
-    {
-      "articleId": "gnews_bfaa52e2c7d63b66",
-      "headline": "VÍDEO: homem em surto é flagrado ao quebrar vidro de prédio novo no Sagrada Família, em BH - O TEMPO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-23T19:56:09+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkVTcXVHZjlIUFhHd2Q1YU92X3NzNjNMLUhWSy1wZDRnU2g3ZVBNTmxxa0dVbHV2d2cyNGZUeHVzWGNLMm42cW5feTdDSFFwOWc2WldnWU9kOFhEUDN1dG1mYW9ncDVoYjNXX3J1MndyeUoybDZGMWpRUHZMU0JPbENZSnZNOE1KQ3FUdnR6VVVad3FQY0lEbHFtTW1rcF9yMU1hamwxWTFUX29EZmJ3ZWlOa0padGs0a3NpOFFkdEtpbG9YSVRTSVQ1TUFGQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O TEMPO"
     },
     {
       "articleId": "gnews_587c3ad799419410",
@@ -519,8 +499,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
         "Mato Grosso",
+        "Pará",
         "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
@@ -632,8 +612,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzV0UG5MOVgtTnpGQTFNcHdiTTJnby05NDI3czEzcENadWp0a1FJeXp0NXFxME82MlhpSkVvTGRyN3FVd0hBWk9EXzNYeFdWYWtLdHU2dWtQVVFRVlFsNlp3U3NQSy0yR0J4V0w2NndSWWU4dFptUnE5bmNHMWJkNFk4cENmQzZzYk1LMUx4alpnRDczLXhyb1NldFdORVAwaG5Sc0JhbkJRcUNfclhFVFh3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -641,25 +621,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "REDE BRASIL DE TELEVISÃO"
-    },
-    {
-      "articleId": "gnews_81b2f368828b0817",
-      "headline": "Ceará tem uma das maiores coberturas vacinais contra o sarampo no Brasil, aponta levantamento - Ceará Agora",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-23T14:35:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2RhMEFicEw3SFJvMVd6dXFxbzcyU2ZIdXlKX2RzRGJFXzNkLXhNeWtfaDYwUENQVXl2TmptSW9KenJQeVliSlJJSGxhc1UyMTZoOVMzb0hiMXNuUTkzY2JIVWpHb3BiUGtnWWhVU0tiaUJjYmVDN0psTWZZbXM2Q1NQMkFwaFV6SFBWVXN6NlZ6bEp0bzZPTlk2UW1mRjROVGZwVGpWM3BlNW00M3BacmFKNllaUVp0MTZZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Ceará Agora"
     },
     {
       "articleId": "gnews_9d42a5992707e8f6",
@@ -694,8 +655,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Pernambuco"
+        "Pernambuco",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Blog do Erbi"
@@ -835,43 +796,24 @@
       "sourceName": "A Crítica de Campo Grande"
     },
     {
-      "articleId": "gnews_bc705cc30944b22f",
-      "headline": "Surto de Covid explode em presídio de Goiás, infecta 109 detentos e Justiça proíbe visitas - G5News",
+      "articleId": "gnews_af8868cfa292505d",
+      "headline": "Confira os 26 bairros com maior risco para dengue em Campinas - Hora Campinas",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-23T12:30:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanZ1cWVQSl8xYUVnUnVfSnlMRDA0bGJWSko1Szhkb09RQ2cwQ1VpaVdPMU1MN0pneUdnSEVvbW5vcGVNZFNTVUFlemNVeFZxSFF6QkVHeTh6eDllbXJkZ3dWY19GSThkaVd3bE4xNUpJMFNrNnI0Z1Njb0s0b1NKM2xnVlFXSXNsb1NIcWJrd3ZUUHlfR3gzakFrdnl2THlkajQyZzAyTzdScWhQb1gwUFpqeFB4aTFvbGQwd0JqblM1Mk8yY3dzdw?oc=5",
+      "publishedTimestamp": "2026-10-23T11:32:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFA3ZDhVZktLVXBrMHl5SldXd3JMWlc2bWJ6aEFjQkZJWmJGc0VkaWlPaGNOR1NVTWFEeWh4ZXV3ZVExckx6d0dVWmdOSDJZRDljc3FMZXJxMERhaUx2cEcwWC0xdnlLbEU2LWJJanVSTktOcmdLQ1lzQ1kxR25pN2hHX0o1QlJhWk5CNE1YZFFpSDBJaWJkd3otUFRuYnBnV1hySzhHUHdGNWs?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "COVID-19"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G5News"
-    },
-    {
-      "articleId": "gnews_ce5bae195a2f72a6",
-      "headline": "Surto de sarampo nos Estados Unidos reacende alerta para uma doença que muitos acreditavam estar no passado - O NORTÃO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-23T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdktrYV90czFFSmNxWXlqUDVMbUVBME5lWXhIbGlURm94LXh2LWtjTTZ1aWltaEdpNTNiUk83MDhxV1lZUTlCQkRmRUYxTGloNnB6eTl5QXZoWlNxeU9MNTdhbmJMbU9SQmZSSWFreDdoN1g3UmJxX3R0T2dOYzAydg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Acre",
+        "São Paulo",
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "O NORTÃO"
+      "sourceName": "Hora Campinas"
     },
     {
       "articleId": "gnews_8574473b118a6c6d",
@@ -987,25 +929,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "O sul-mato-grossense"
-    },
-    {
-      "articleId": "gnews_400e58e96f1fb021",
-      "headline": "Sarampo: MS reforça alerta para vacinação após avanço de casos em outros países - Idest",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-23T06:50:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUM0c2h6NkhlQkRjWVhjT1M0Q3hEckl2QTBfM0thLUpmNTkycXFxTzc1UHVDY1dfNzRjM3k1UEhBb3YwR2FoTGxid1ZXZUVuR0VxVmRFVi1sRDUzcFBwNC1JV1lfSFB0MnB5V3Z6UGJTQk9kbDVmZzhuZTdkLW4yaVI3Qkx0VFBfSjhtM3pFdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Idest"
     }
   ]
 }
