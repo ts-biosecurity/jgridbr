@@ -1,41 +1,173 @@
 {
-  "generated_at": "2026-10-27T00:41:25.968787+00:00",
+  "generated_at": "2026-10-27T08:18:19.283564+00:00",
   "date_range": {
-    "start": "2026-10-25T00:41:25.968787+00:00",
-    "end": "2026-10-27T00:41:25.968787+00:00"
+    "start": "2026-10-25T08:18:19.283564+00:00",
+    "end": "2026-10-27T08:18:19.283564+00:00"
   },
-  "total_articles": 60,
+  "total_articles": 67,
   "state_summary": {
-    "Brasil (estado não identificado)": 44,
-    "Amazonas": 1,
+    "Brasil (estado não identificado)": 48,
+    "São Paulo": 2,
+    "Sergipe": 1,
+    "Amazonas": 2,
+    "Pará": 8,
     "Rio Grande do Norte": 1,
     "Mato Grosso do Sul": 2,
-    "Mato Grosso": 2,
-    "Pará": 6,
-    "Ceará": 1,
-    "Espírito Santo": 1,
     "Bahia": 1,
     "Rio Grande do Sul": 1,
     "Paraíba": 1,
-    "Pernambuco": 1,
-    "Rondônia": 1,
-    "São Paulo": 1
+    "Acre": 1,
+    "Pernambuco": 1
   },
   "disease_summary": {
-    "Hepatitis": 1,
-    "Dengue": 25,
+    "Chikungunya": 6,
     "Doença infecciosa (não especificada)": 20,
-    "Measles": 6,
+    "Dengue": 30,
+    "Hepatitis": 1,
+    "Measles": 5,
     "Influenza": 2,
     "Avian Influenza": 2,
-    "Chikungunya": 4,
-    "Oropouche": 4,
+    "Oropouche": 2,
+    "Leptospirosis": 1,
     "Yellow Fever": 1,
     "Meningitis": 1,
-    "Leptospirosis": 1,
+    "Malaria": 1,
     "COVID-19": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_24acd3bc288203b9",
+      "headline": "MS já registrou 10.817 casos confirmados de chikungunya neste ano - TáNaMídia Naviraí",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T08:01:06+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDllSTN3Mm01Y0M2dHVjOFE5ZThPOHRyWExadnktTkJSNk9kR3AzY2Y1M1N0S0pOMHJBRnZDUG1PaXNtQ3VtdUVsdkFZbzlUSHZ4b3Z0eTF2S0RmQjRhenlSZ0lseTBDcGhGcFF5UkRmUWRmWHJQclBzZ2g0Wm5OT0g4UU9BZnlzeDVjdFNDZGxjY012eERBMXRJdlc5UFljQTNRUDNyTjVmUFhtMHFPSEg1N0daQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TáNaMídia Naviraí"
+    },
+    {
+      "articleId": "gnews_6c9297f1c0c2e6c0",
+      "headline": "Hantavirose: São Paulo registra quatro casos e uma morte em 2026 - Brasil 61",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T07:25:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2NFdFBmQTJJcDZwWXRibjVHbFdGRTZtWlNtd0tybWlrVEZwcWlLSXdqQ19uWWVtVXJrWURpQ2xBd2Vha1VoSjlfM2lFUkRFT3V2djFZd2FGUlpyOW1iZU5DaFYtaHdTcDhXSUQwVmxCUXdhNEVRSVlpdkFvNGoyUjdSNE14bG53NVY3OXIxR3U3Yjg3MUpfazRHMWFvbEXSAaQBQVVfeXFMTk1XX3ZDWFctdFQzRlJuMUdpbE5KX3FsVXpEQkpVbkZPbE5wU0R0MWZzazM4TnM0eHhhZzRWaldzOG5HMEVfckh5ZUJiaUlrWnFvUm9WNVVyYVY3OHVDTjVYUUJIUFNta3Q1d04zb29rNElMNXF1RkNZNlBoN2xKaVJEcVhOSG0yYkdlck90R1gwYkttQlRXT0JycEhOQ09ibnJ5dzg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Brasil 61"
+    },
+    {
+      "articleId": "gnews_3900f7b66d87c45c",
+      "headline": "Dengue: 3 milhões de adolescentes ainda precisam completar vacinação no Brasil - Rádio Itatiaia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T06:05:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTNyMDBBWldPdWt4Skt1NU9TUHBKLTNIMmRRTUNDQzlCaWV6b0c4ei12UWFtV2lJdUo0Sm9oNEt0NGUwcFpKcE8zdFdSWFVVcFlzb2FEdFpBTGNLRFVRZE0wankxQnA3YWItQi1nUHBIYnh2d1lGQW9qS0VrZ1hORGhZWkdqMVlXTlVnbHBreVFBTWRPeFF6ZVExQWp5R2x2MDVqN1B6dmI1REJjdzhQb1hiN2hMVm00aTQ4UklUVFgtZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rádio Itatiaia"
+    },
+    {
+      "articleId": "gnews_998129952179c01e",
+      "headline": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - Colatina em Ação",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T01:34:20+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFE1bmUydHpDQmJIakRCZE02dXVKX1hCSXBNRThZMFc3MFVFUHZjaUR0NVBFV1dRMHBOeVFPa05kNmNfZHRsNzhoNldvak5kRklhUjFIdzA2SDh4QnNGRDl3YkZHbGN2NnVBMXBCaWRIUnl5VVhFMkd6bUhMc2xORjhfTlRTVTM2YUsyT2xnQmgzby0wM3dsY2NMbEZZVGdoMTNvNXV0dUU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Colatina em Ação"
+    },
+    {
+      "articleId": "gnews_49ae706ee1e2e5fb",
+      "headline": "Mais de três milhões de adolescentes estão com esquema vacinal incompleto contra a dengue - Taktá No AR",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T01:30:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzBiWmZYaEs2SW5DWm5NZlp4MGZoVWo2THRFWS01ZFlqQ0ZWSE9GUkJiR2ZqZk90cFlVc3lBNFJTd1BMS2JuRV90MDJTOHktMVhPTGF0X0k5NUlJbXB3Y1VyaEZrYlp1WDl3dDRjRThZd0loM2ljU29GenhxaWhabjZGMXNJX2RDUkhIUGVJbFh2cUVEel9uQTY4TUhBLUJEakR6VTJvMGZ2azdsQk9oMjhiRXZCWG1heVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Taktá No AR"
+    },
+    {
+      "articleId": "gnews_b9cdc4e346d16961",
+      "headline": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - Aracaju Magazine",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T01:23:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeG5VdnVFeTFJeHFOYWdDaDltNDhkUjN3TjlxalFSTndCRDY0WUNfU1FCQ0VMRFRNZWMzdDVVZElvN1FMU0NHeE1UdUNRTFg5RFpXTEgzNkEzNkRLT3ZEZ1BQWlhjUEdoWFFkc2tVT0c2SFhEVjVpbHJ0X2pUUnBFN3Iyd0k4MTlpQzJKRllwMERxVUNkNE5YMURvbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aracaju Magazine"
+    },
+    {
+      "articleId": "gnews_a6b98fa22ae63a84",
+      "headline": "Mais de 3 milhões de adolescentes não completaram vacinação contra dengue no Brasil - Primeira Página",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-27T00:45:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHRLLWV2aDA4THE4RGZqOGo0MkFjQ1hCSi1HbFdXNDJOdTZDa2VvUU5GMTk4TG54ZzFQUDRZc2dVLVRNTlFWT3ViRU1BSTFucEJ4UEdMSHFaeGptX2dBQ05LMzBkSUEzWFBqd2w1NlBNOEk2M2VHMG9qVkpsemVKYWRnbWxiZnQ4clZOcUJTdkZhZUN6YXVncWZYUmVBT25EZzUyVjRjN1JtVDdXUDZ6dVduU3JBVnRIa1lUSTR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Primeira Página"
+    },
     {
       "articleId": "gnews_f57894a0e2052e02",
       "headline": "Hepatitis E Accounts for Small Share of Suspected Acute Hepatitis in Brazil - Bioengineer.org",
@@ -56,6 +188,25 @@
       "sourceName": "Bioengineer.org"
     },
     {
+      "articleId": "gnews_cf6216497fe23719",
+      "headline": "Milhões de adolescentes estão com vacinação contra dengue incompleta - Amazonas1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T23:46:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNG9rYnI4NzNZcDVxVGtDVkl4dW8tUTVsWkZOZ0FMSEUxYkRXWEc4bnlFOU92cWRyODg2XzNBbk5Qa3pCdERWemNOM0YzVXNiWDRqcXo0eWZ2bzkzZHFoOHp1bWo5Tk9maTFmNUJJOGtRR0lZZU1hdS1WTnBSSmlNMFY2ekZHMFBBd0wwSlNINEFRd2pZWFpFM2tR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Amazonas1"
+    },
+    {
       "articleId": "gnews_48597a5ed6fc9d7e",
       "headline": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta - portal do amazonas",
       "headlineTranslated": "",
@@ -73,6 +224,44 @@
       ],
       "dataSource": "Google News",
       "sourceName": "portal do amazonas"
+    },
+    {
+      "articleId": "gnews_723fd37ca3b876ff",
+      "headline": "El Niño e altas temperaturas acendem alerta para casos de dengue - REDE BRASIL DE TELEVISÃO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T23:27:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWt4ZmYyU24tcnZ6QXZKVi1WdU1GTTJiZFFXcWtiY2k1RDl3S0UwT1hEMG1zTDVsbDJ5RFVkZDNESTNIOF9jZXJ3RnV4N2Z3WGdDZ3VFWjUzWHB2Z1JYQzd0V2N3YWp2N2Q5X2FCRXJtMjh0X3Z4RU1IdTZ4NEthLTAtZUkyLTBONkxFbVR2M1ZvYV9ZMWdnb1hPdGNIa00?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "REDE BRASIL DE TELEVISÃO"
+    },
+    {
+      "articleId": "gnews_80158484047dc104",
+      "headline": "El Niño e calor intenso aumentam alerta para dengue em Belém; saiba como se prevenir - Estado do Pará Online",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T23:02:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTk0zT25TeXNKMFlvT1R3ekJzNmtURVpUTlhpeE9yWUJrYzV2YkprcFBrb2Rpd0tDeXV6X2tRdVhtbjBwT0NsalZ5d1d1VG1qYUJkLS1BS09MaWNQRkcyZGlrOWprc2c1TjI3Y2RMbm5iWHlkU2lVQzVFYVpNNktlS1ctV3J4eUNNeVRUajU1UU1UdTZUazZOc2V5aDhQQ2R6aVVKeDJkOEozZHhSbGJHdjk2ZVE1UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado do Pará Online"
     },
     {
       "articleId": "gnews_594fb3cd3c531c54",
@@ -170,6 +359,25 @@
       "sourceName": "Rádio Metrópole"
     },
     {
+      "articleId": "gnews_bbacb61d7c32c3cf",
+      "headline": "Novo boletim: MS já registrou 10.817 casos confirmados de chikungunya neste ano - REDE BRASIL DE TELEVISÃO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T21:59:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVBWN29ERlJBa2o1aHZHRU1NUG1xa052SDl5ZXZwNDV5bHM1SndBS043aU1ndDNPdndOVHJuQzRLZnRuemlTWmVhci1sVVRlU1FrSWlXME1NMjl3a2ZEdXJaa09TNHB6S3ZZdG5HcV91SWlYUk9yZ2pka3U3NGs1NWRKd015NmZ0bElyeU9Xekd5ODdQRlNISFhCQmNFVVo5UVhiUnNtM09FU0otMGJxNktlZnl5RFE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "REDE BRASIL DE TELEVISÃO"
+    },
+    {
       "articleId": "gnews_03206af4ce0fc2b7",
       "headline": "Mais de 3 milhões de adolescentes precisam completar vacinação contra dengue - O Imparcial",
       "headlineTranslated": "",
@@ -206,26 +414,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal 98 FM Natal"
-    },
-    {
-      "articleId": "gnews_e0309250b115715c",
-      "headline": "Ameaças do Vírus da Gripe Aviária Crescem em Utah Sem Ações Adequadas - boca.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T21:41:22+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVZWZFJ5M3p4ZlRUUEVUMWU4Vjhfa2RfUzBXZWxsZXBqYXJKbW1IVldjWnNMdUJpUm9HTGxCenNXMEYyTEczQ2lzMDNKUVBidlJPZHRuUWNNYnIwNEVScDZOdTkxd3E4YmtyUlI2d2F5eUdyR1psbWxDNlkyYm83RA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "boca.com.br"
     },
     {
       "articleId": "gnews_73b87e09749612de",
@@ -305,13 +493,13 @@
       "sourceName": "CNN Brasil"
     },
     {
-      "articleId": "gnews_618b528b6ed7d92c",
-      "headline": "Novo boletim: MS já registrou 10.817 casos confirmados de chikungunya neste ano - A Gazeta News",
+      "articleId": "gnews_88cc3dafc5c0def4",
+      "headline": "MS registra mais uma morte por chikungunya e ultrapassa 10 mil casos confirmados - Midiamax",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T20:55:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0pkZzZPdW90U3hZWGlVUUpPR1ZZOVlFWHRmbnU2RFBFNzdUenlaQ3V1X3l3b1Nybm9PNnBBc3paRnQwS0xJRjdOWG5mSHd1QUItd1RWTl84T1N1YzBPUlZRa1RyT1ZNSUZmazJ5NlVxRVNBaE5fbnlvTVIxQ3FWaFJPQ3Z3eUhMakRhY0VZVktEZWlieTBvNEpPakZ2OV9TZDFydXhwNHFneEFtQm9sVW15bHpOR3NtNWdxbGNB?oc=5",
+      "publishedTimestamp": "2026-10-26T21:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzc0VlYtTUQydnVBTjRjVnRPNlFvVlJoeEIwRHVGRXBHWEliX0g5alZRemFfY0dGbmJSSGM5cjdOaTZOMUVadnRxWXB0cy1LdkwwTzFiNldBbC1kZGxDNUVRMXAyZ0NhQmVZSkxtaDFYZTc3ZndhYThpdTQ3S0FZRHg1LWZQblJVTTlITTYzck85VGRwWlFSLUVTZ3d2cXBsODczN01fcWtMcUdxTG9N?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya"
@@ -321,65 +509,45 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "A Gazeta News"
+      "sourceName": "Midiamax"
     },
     {
-      "articleId": "gnews_71dd722ef185af47",
-      "headline": "Chikungunya provoca 31 mortes e ultrapassa 10,8 mil casos confirmados em Mato Grosso do Sul - Página1News",
+      "articleId": "gnews_559bc136b6c9d429",
+      "headline": "MS tem 31 mortes por chikungunya em 2026; Dourados lidera casos - Campo Grande News",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T20:36:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWE5ZXoxQzJhSkFObW1ZVlFCZ2NXN0NDa3pBRTg2SWlEWUJRdjVRaHJqdlgzd2tXNEl1ZGpDRUsxMHBjbHZ5SmFnMjdPWWlBUl9xeHhqcHg4R2xmeEpnODBLa0dHX2o0MjJWOWVjYlRJeU1qWERHa3ZXYU5GN2pXQlA5UVlzWWFkRDlxVkV2QzZwTkVrM1lQR29keEJITnlpc3UxME1xNmU0T1M4SWFfM0dlXy1QZXBKMWc?oc=5",
+      "publishedTimestamp": "2026-10-26T20:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3BCQUMySy1mWW13akwtTTBIOWpvd3hWREpJQUJsWTVfRWh3WnIzTk5rbDlhd09JMWZNZW9QSmkxOWkyWnJMWWZ5aldIS2FJRzRJdWhEQk9lMVZub0xlQTRkUGVEWW4wOWJsQU04YlNRSENKZHFkVFNXdVJJZG9aTVEzdm9tUTk2Y09MSWhGQnVVOUF1MXlneXRxT0Nsb1E1QUI5Z05pT2ppNzhuVE5obkRMWlF5d1pfTTI3ZlV5NnFvWEtx0gHEAUFVX3lxTFAzcEJBQzJLLWZZbXdqTC1NMEg5am93eFZESklBQmxZNV9FaHdacjNOTmtsOWF3T0kxZk1lb1BKaTE5aTJackxZZnlqV0hLYUlHNEl1aERCT2UxVm5vTGVBNGRQZURZbjA5YmxBTThiU1FIQ0pkcWRUU1d1Uklkb1pNUTN2b21ROTZjT0xJaEZCdVU5QXUxeWd5dHFPQ2xvUTVBQjlnTmlPamk3OG5UTmhuRExaUXl3Wl9NMjdmVXk2cW9YS3E?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Chikungunya"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
-      "sourceName": "Página1News"
+      "sourceName": "Campo Grande News"
     },
     {
-      "articleId": "gnews_465b035a7320f603",
-      "headline": "Estudantes De Marabá Desenvolvem Armadilha Inovadora Para Combater A Dengue - Portal & TV Gurupi",
+      "articleId": "gnews_530f6fe08672ff42",
+      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Folha do ES",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T20:21:50+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQOGo1SVEwNDdaNk1kRXE3SlNxcmFhTk45bjFsLWdKYnM5eFpkYTR5QnhkS0RWcmwzOXZqcUdDMzU4MEdrbjBlVkpwUkVMUWJDdUxhUjRXNmlKRVh0bkJtdDQ4c3MydFlSalRwa0VfRFM?oc=5",
+      "publishedTimestamp": "2026-10-26T19:42:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUThjMWdnSHFrbGRFU3Awc0N1QmxjcmhfNE5LcTRVczhiMzlUbUppalNkM0s5QWxXdG56UkxRVTVRZzdjWlgyX1ZaTEhYc2UtZVY1MGtyMjR1eVJSN3ZpRFoybXJTZTYyanNQajZfNnhfOU1fLXhwN1lFUXJJVXI0Q1VTUkFNUlhuME9vS2hwSnJaQ3ZRU2c?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal & TV Gurupi"
-    },
-    {
-      "articleId": "gnews_b43c76b93a625f4a",
-      "headline": "Ondas de calor aceleram ciclo do mosquito da dengue e ampliam risco de transmissão - Ceará Agora",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T19:47:40+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0JaQUhhZVJQb1R5V2NVSGVWRGFFeU1xQVNGSE1uaWF1MUlWVmFQMHNtc2VxOWZYd3QtOTF6ZFRVQ3lxcUFSS2NXS25HX19ZLXNWbDU3d01pelNnazRJYnJOa292c0U0SGtkQWFBSG5lWVVuWWRLcWRsTHV2QjNvWTY4VE1QTURsQkItZXd2bHNvTWc4UkFVMGNJOExxUDlsUmZOa09QNEJvb1BmUlE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Ceará Agora"
+      "sourceName": "Folha do ES"
     },
     {
       "articleId": "gnews_bc37c87449e09f39",
@@ -401,50 +569,12 @@
       "sourceName": "Hojemais.com.br"
     },
     {
-      "articleId": "gnews_530f6fe08672ff42",
-      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Folha do ES",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T19:33:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUThjMWdnSHFrbGRFU3Awc0N1QmxjcmhfNE5LcTRVczhiMzlUbUppalNkM0s5QWxXdG56UkxRVTVRZzdjWlgyX1ZaTEhYc2UtZVY1MGtyMjR1eVJSN3ZpRFoybXJTZTYyanNQajZfNnhfOU1fLXhwN1lFUXJJVXI0Q1VTUkFNUlhuME9vS2hwSnJaQ3ZRU2c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha do ES"
-    },
-    {
-      "articleId": "gnews_6bb6c5254e9bbd53",
-      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Folha Vitória",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T19:21:51+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnNhQkZtNEZnQ2hBMmNObExnRzZidHppa1RlVGRpUjF5RGdUNGR4REVtVWZVZ1pkeGpFU19TdXhxeVJaRGcyUktXTjRuNWFxcjQ2T1dEa3dyY2tFTm51bGMzdDZ5cEZjd3VUdmdMZ25CMFlPblZGMkdEYUtMYkpRMU9YUzZiREJlTnZsYXMxS2xYMUp4MXUwT0JOVDlsYjVvdFczSFo0bndkd0E?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha Vitória"
-    },
-    {
       "articleId": "gnews_57aec19b7ab10760",
       "headline": "Febre do Oropouche ou dengue? Veja a diferença dos sintomas - CONEXÃO MT",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T19:01:01+00:00",
+      "publishedTimestamp": "2026-10-26T19:00:26+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OY3lVZmNvN25KR091VS1NQXUyOVNrVEtNR3A3WjF0VXNKRWNRNUVDVGp3cnd1UDNsdzVoTTFLVy1IVVYzaXlYNDN1dXpDbE4wZE5wWVktcDZsRHFuSEdpZGJmZ1draWdIeFNkT2xETVFVdHlDdWFmZTJ3?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -516,63 +646,6 @@
       "sourceName": "Idest"
     },
     {
-      "articleId": "gnews_e4ff811b9086b5db",
-      "headline": "Mudanças climáticas ampliam o risco de doenças infecciosas no Brasil - Aqui Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T16:49:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTlVKNndqZzlLRHBJMjMyM3gxUlNzV2M5YnZFZGpQM0JGaElkc0ZoQjdnOW1wckhJZzBNSlVnYS1nZERzaWZBQjh4R0xrNzI2OG0xU2RjMUV6UEFwV1N5cGhJN0E2c25Xcm95a1NOdmZDeVZLZUY1NmNMWnhCYlJ4YVgyUlV6ajAyd05hYmNOX0V6RktFZjZZZjE1TFgzTE0xM25QT1pIMW12Vm82ZXhMdGxITnh2dUFxN056Z0RR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Aqui Notícias"
-    },
-    {
-      "articleId": "gnews_52fc47af0142c2e0",
-      "headline": "Mudanças climáticas ampliam o risco de doenças infecciosas no Brasil - Aqui Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T16:49:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmVkaXFKa0dXaXRHalZCVFVmRXRkaWZURUw5OEQ3VEhrM3ByVGprbVBDVXRycklJQ2llaU83UGhRVUZ5N1M1MnotZ2loX2lLV3RfdzQyc3VTTGpEeTZGYkNCd3J4enFPS0djQlZRb3Y3bmZ1enJtN3daeDJRd2Z0LWxFUXhGZF9XSDJlWW00SEdwelp0NkgtZVBtYmpUMmgtRFpZdEVKNnJ5bUl6VnY2OGhKaHFCWE9ncWw1Y3ZvVQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Aqui Notícias"
-    },
-    {
-      "articleId": "gnews_7bb0cb6314572158",
-      "headline": "Como as mudanças climáticas favorecem doenças infecciosas no Brasil - Olhar Digital",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T16:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTW5ETzY3Z0hVRk5jRmFwZjVLMm1aUHBaeDRQclZDT0tTWmpqMWxxMXFTNm1HM3pqamF1NlRoMDZhUkNsaUZpZUgydlcyYl8wb3hXbWlJWE1LYTQzeEFLZW1fYXVtRHE1d05BX1dhNHVlbEk4MzBwb1FkcW5NRFlaejd1WXlwbm5UQmRTWkVfOG9KSFM1QjFvT1ZsM3dMbTNfdm5tODBCX25mQmRaSmZ4T3cyQ05lNTVMSVFWWFBjTzB0UEZqSjBUS0hB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Olhar Digital"
-    },
-    {
       "articleId": "gnews_2aeea245fd781a58",
       "headline": "Mudanças climáticas impulsionam o avanço da dengue no Brasil, aponta estudo - CNN Brasil",
       "headlineTranslated": "",
@@ -592,6 +665,26 @@
       "sourceName": "CNN Brasil"
     },
     {
+      "articleId": "gnews_24f81e20c7a962ac",
+      "headline": "Gripe aviária atinge fazenda e veterinária descobre que não existe vacina aprovada para os animais - CompreRural",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T14:43:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0dyVWtPQklCWXIxSmNKMnFyWFVSdmVNcjIzTUZ3TDJMa05EZ193aUltWHRBUF9jMXpfb2oxaGZ4SHp3UG9SSUd1dERld01pLUJZRHd5NlRJVl9yQkFUQ2czcS10NGhGREhpc1hRUFhCdFRuWkFIQVI3azdNWEJVY0NiRFljN25qazc3MVU5STRhNlZBX0FoNFNKR0xqSktkcUhaSmZGZ2ZOS1piYVhpUnJzUWJ1YnYxRVJEXzhHdXBIY19sOXUyVXEta0s1QjQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Influenza",
+        "Avian Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CompreRural"
+    },
+    {
       "articleId": "gnews_94837d8457049b7b",
       "headline": "Surto de hantavírus em navio reacende alerta conhecido no Pará - Revista Amazônia",
       "headlineTranslated": "",
@@ -609,6 +702,27 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Revista Amazônia"
+    },
+    {
+      "articleId": "gnews_ccd8bc355627efe4",
+      "headline": "Dengue, Oropouche e leptospirose estão entre doenças favorecidas por mudanças climáticas - noveen.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T13:41:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRktxRjVIUG0zUk9OeVRmc2pmZU1aSUlQWTZzNFBYVXliX05LeW1XbDluaFJFWmxOMXBsOUtuVGROaklES1UwcFhUN0ZYZXBCSVlRUVlOQ3JkUjYyMTdpa1hyTEpSeW5vVWhHc0dieU80TnV0WkJXTmZIU3dQTUhqbzB6WWs3WTN2UHI2ZVBTNzhqM1Z5MlR4eTc3eXVocWtIV0ExZ1QxeUM4UTcxdldyTkhXY054WnNFcVZWdEY4ZktQSmZk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Leptospirosis",
+        "Oropouche",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "noveen.com.br"
     },
     {
       "articleId": "gnews_d1fd8483b6b387ef",
@@ -687,6 +801,25 @@
       "sourceName": "newslab.com.br"
     },
     {
+      "articleId": "gnews_4ef7a153b70ed1fd",
+      "headline": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira - O NORTÃO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-26T10:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwNElxNFdFcEFCNGc0Tnl6ZTg0bE91YmFFZkhqRDN1bWRidkNVV1FoRk9WSHo3dWhqRFVDTDdEQ3hya3E3SHY3WUxMVXhZYUtqdTlzWVRHQnBhSkNVVDd4QUd4cGZLNURXN2llTVhyZU1hZW9qNUF1MmMxQmY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Malaria"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O NORTÃO"
+    },
+    {
       "articleId": "gnews_45f3ac1078e187d2",
       "headline": "Mudanças climáticas impulsionam avanço de dengue, vírus e fungos resistentes no Brasil e no mundo - Região Noroeste",
       "headlineTranslated": "",
@@ -738,52 +871,49 @@
       ],
       "locations": [],
       "states": [
-        "Bahia",
-        "Pará"
+        "Pará",
+        "Bahia"
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna da Bahia"
     },
     {
-      "articleId": "gnews_b266cb95d9bb5d00",
-      "headline": "Dengue, leptospirose e Oropouche: como o clima influencia a expansão de doenças - Rádio Itatiaia",
+      "articleId": "gnews_fe5fa21cb81e49a1",
+      "headline": "Fiocruz aponta avanço de doenças infecciosas em 54% do território brasileiro - Правда.Ру",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T07:04:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzJGNEFNX1UteWkweFZyVGl1TUtxRXR3VDNPRXhpQ0JUcC1oSnFvdEkweXZ1eUR4Q0xnMDNpU1ZiMWhxbkVLQnlHdjR6WWR4NFkzbG94M0N5WFQ0ajVqUzh5Y0xMLXUyUkJkdEd0TUdDT0k3Y3M5dEgwMDlqeU9JWUZ6cGJyVDM1eFVRQkc5ODBJWmlVQnFLRkxaU2s2dGxPbnIySjQ5T0NwSF9uOWI3QzkyTklfd0p4NXJwWFdGTHZfZw?oc=5",
+      "publishedTimestamp": "2026-10-25T23:49:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3NxS0FYNklyZjRpd2g3ZEg5Tm9lUjNERm5hMDZ6VUUzVm1SQ04wbGJLQ1duTkxZR1JRWnh5ZDdIYlVNdGNRWExWV0NYbzNMaWpRUXBwX29iR051eGp4T3ZwZk9LN1lDWW1raUszT1VpSG5ubTNBM05kSk9HN2dhdEFqQQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Oropouche",
-        "Dengue",
-        "Leptospirosis"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Itatiaia"
+      "sourceName": "Правда.Ру"
     },
     {
-      "articleId": "gnews_ad0e951e5c7ff075",
-      "headline": "Mudanças Climáticas Disparam Doenças Infecciosas no Brasil: Dengue, Oropouche e Fungos Perigosos em Ascensão - jornaldearuja.com",
+      "articleId": "gnews_90916373bea43d58",
+      "headline": "Mudanças climáticas aumentam casos de doenças infecciosas no Brasil, aponta estudo - Portal do Zacarias",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-26T01:47:57+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUF9GWlFoRWVDN3VMVl9qQWNHdzFjajdNNmVuZFgyejJYX3lIRnNqWTNYWHZKQ3hpR1pYVEFSd05OdGpWcEJXWEE4V3V6REJ1dXptUTRUb2ZXVUtMS0U3V1FyU3JjaC1yRlBEdVFnOVNuMW1CMmJzRlVQWmpGQzBTLUJZVFUzeEkzMnhYMGo1ODI0dHV0a3JiMURXMnJFTmhUZWhsS0VEcUlic0ZHMHZXcWEwRVZnWGp0LWdjd2k0NURVVXZiUWVQM1RMV3pLQQ?oc=5",
+      "publishedTimestamp": "2026-10-25T22:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTJMVWFsV3UwWUprci02SXdJUW5zQTBCUmtJTWtHd1pjdzZQeUFITWI0Ymc1V0oydGdHMmNieWNpdEw3NWJpTkZhb3RIM2hMbXZkZVBFTzhhSVRpWm93V3VvYlVpUHlZUHBJVUU4QnZtLWxBRThXNFk2ZXVYSHVyNl9PWmszOEZHSnZEYzcwd081bmVwcU13UlFxZUFFcGJjVW9fXzBkQWVJMWJUeHMyajZaMG9ZdkJvcUl3eVU4X3FLWTRWS0Vz?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Oropouche",
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "jornaldearuja.com"
+      "sourceName": "Portal do Zacarias"
     },
     {
       "articleId": "gnews_0ca5b527a4f67c3d",
@@ -803,6 +933,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "n3news.com.br"
+    },
+    {
+      "articleId": "gnews_cccea3166a22b813",
+      "headline": "Mudanças climáticas já levam ao aumento de doenças infecciosas - Muvuca Popular",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T19:00:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjdZNDV0aXhpc0p4SW1XSVBTZ2p1d20zc1o2Vi0tZHpCTU01UVN5TEJnYVJqVm55cExHa2pSQ2FuX1hjbnpTZ0EtQlZreFNzNmgtdHFWQkplYmRZS1JhMTBucmx1cjhVWWR3NTAzN0pnSDNFbWZXNzFtRVkwaTR0OXlEZkQ1T3F4UDE3Yml2eVY2V1hvR2FPOXpuZTUxdk9PdE5SbkNsNEwyajg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Muvuca Popular"
     },
     {
       "articleId": "gnews_7c814e1dafa8e814",
@@ -843,43 +992,24 @@
       "sourceName": "Agora RS"
     },
     {
-      "articleId": "gnews_dcbfe235d2d3566e",
+      "articleId": "gnews_9174fb6d6f28f0af",
       "headline": "Prefeitura de João Pessoa chama atenção para importância da prevenção contra o sarampo - REDE BRASIL DE TELEVISÃO",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T17:11:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmNQRjN0X3ZzOVVCNUJCaFo1OHpqUzlORUZlSkgzVEc2V1pQdG1oZ3IyMGxiTlZHS201QV84RkFpSHZwV1NDU3RXNlNPbWxVci1VMkpPS3pnMDhROXJUV3NtbkNZMWhLUVlTa01UVHVnSWhfQ2lXME5pQ1NWSTNsR3N1UTZmTXpfMFA3Rmd3b0VIZmE4aGhSb0NiVlNSVTlTT0V2ODJhSjNQZ1Z2VkU0VGtWS2NtbHpKZXphaFpTTjJCdw?oc=5",
+      "publishedTimestamp": "2026-10-25T17:11:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa25rSkVWTmMxVGs4VnNHWWhfSnJMODBTU292Z3BZN1cxNFFTSlFETEk1aVlQUlo5SXo4MGQtYnBYckVTek8zSWFBQzZTYk9zVTZ6ZF8ybEJXUU1mdUp3ZjVVaWxVb2ZGRnJ1ODlUSDRZMDFtS05NV2lvd0xJSHNWcm9fY1FxYXRaUHVNSkhWaHlqa2FHMjdpNTdla0VqS3ZXTTRkM2JrSmZ0Z0F6dnVwazFMLXBWejdGMjY1LQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Measles"
       ],
       "locations": [],
       "states": [
-        "Paraíba",
-        "Pará"
+        "Pará",
+        "Paraíba"
       ],
       "dataSource": "Google News",
       "sourceName": "REDE BRASIL DE TELEVISÃO"
-    },
-    {
-      "articleId": "gnews_bc0b3afd9c7afe95",
-      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil - UOL Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T15:36:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzgwMG9rTmxQN1VPb25zaGRhMDVHT2Z5X2VQUmoxY2FJX3M3blVsYm9NaFhQNEVqM1NPSXFZazcwM2xUd2wxVEx3QThvTURieUd6WGcyZjlNWWJFTWdFdnp2cFpQMTZhcklDTmVjVThXM3JRZWYtU1ROMHZSY0dpTVBWTVFUajVuYUVrSjU1YWx0RnhqMjRxdC1ETl9tMWRMS2MxVHMwSjZFY0Y2M1BPd3dfSmRQWnc4N2JLc24zMGhxMTR1UU5jbDBfY2N2TlpkMTE0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "UOL Notícias"
     },
     {
       "articleId": "gnews_7760ef52081bc450",
@@ -899,6 +1029,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Studio Notícias"
+    },
+    {
+      "articleId": "gnews_29936eb75d047852",
+      "headline": "Mudanças climáticas favorecem avanço de doenças infecciosas no Brasil - AcreOnline",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T14:12:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUdOOUdwR1V5dERyeDlXUUE0NFlUVmdLN1ZYYlhEeVNFX1l3YXByVnI1Zmg5RlR3eG1QbEtpN3lLSTNyZGdDY0xRdU9qYUdhRjBYSHozVWU0VzBHTGZhWU5uZHg2a0R0c3hHUXZrS2E4aGpXN0pDNk5vWUgxem1MakhkaWkzUFJWTTE4MjJXUVN6LTV4NWIyVVBLYTNLR3B5SzFEbkc4a3RMVEhXYl9n?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "AcreOnline"
     },
     {
       "articleId": "gnews_9ba4ddec64593f6b",
@@ -977,25 +1126,6 @@
       "sourceName": "Hojemais.com.br"
     },
     {
-      "articleId": "gnews_9bc18f17b23f9544",
-      "headline": "Aquecimento global e eventos extremos impulsionam proliferação de vetores e adaptação de fungos perigosos - PDNews",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T13:38:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHd3bzdjR1AxbWtRSFFrYUtUa2xVeDBXMnRTcGc4LUhSOGFDYkZCaHJXMXFoMzNwT2FLOFNVZ1IyUmU4MHFaVFFuWE94VXRjVEE3QUQ3cUhnNC1obHo0VkRLSXQ4TFVrRmU2NE5IWFc3WkJsVXUzTnJfMlJVLTE3czc3YnRNa3RyZl9QZkJjV2U1RGFYa05EV3c5aDcyNThodGNaM0ZRY9IBrAFBVV95cUxNaW1heGowWHZmc1haS3c0ZEdOblRiNVNEejE5NEpGa1J6d002bFlVcnMwU0QzSUM0SkhXSTFmdXY1OTA3eFFXbVBRVHZfNjNMdmg3UlZMUmtIcjJLMzZVNi14blQ2MnNjVTNnd2xfODJOcTc0VDF3aGRvRXB5YTdTbnI1bVJyUm9iUUt4Qm8wVDlJckJQTjJZbTd1QzhsTFpyYndpbldFVEt2aW94?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "PDNews"
-    },
-    {
       "articleId": "gnews_131f24064e02c746",
       "headline": "Mudanças climáticas ampliam avanço da dengue no Brasil e doença já atinge mais da metade das regiões do país - Pernambuco Notícias",
       "headlineTranslated": "",
@@ -1015,24 +1145,23 @@
       "sourceName": "Pernambuco Notícias"
     },
     {
-      "articleId": "gnews_a88057f5826ec0a4",
-      "headline": "Mudanças climáticas impulsionam avanço de dengue, febre do Oropouche e fungos superresistentes no Brasil - News Rondônia",
+      "articleId": "gnews_c8fde43c909cf11a",
+      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Portal 24 Horas",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T13:20:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTl6YUhjTmhRLVVNYlVpV1ZzMnJKOWJzQncxU2lBaVNrR210OS1uQ19hak9pbDNGN1RpNDQ4RmViUUFOX3E5UGZtYWlIUVJFeVdDLVFERTBJUE1oNkFpaWJRWTdhVFdvUjVidW1CSTJWSWM3Z0QyTGNRMzdRYnl5ZVQ0UXpaa2wxQTdWR1JKRVlXRmZzVVVJRjlKcGZBejVxT09qQVYwUm9fQzdpdEhwU204RG5QNHFzTmhGUklkYXA5NkhKSDhnNk5Xb2xwWVlTelR2YzlGV2RPclRCanlHSEVOUQ?oc=5",
+      "publishedTimestamp": "2026-10-25T13:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXBJLW85cFZfR1FJRXZMZmpRTU1tc1lkdGZ6VW9BX25DRlpGeFF1LWZCQzc4RkJ3RGVqRXUtMjFvOGg2VkwwTXhRUjBGU2NDVTJUaVgxSzY2SU9vTWhiUXRMQlRXX1g2Y21BSGpXWTh5NXRuOUhHZVBJam9MTGVQdi1sWUhKeVJnUmM4ZjFLMEZDRzZvN2xpcUNEcHVQdUpuZFFtR2R1bDRVVy0tbXFoMjJJU3J6NTdZeDdrd3k5MA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Oropouche",
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Rondônia"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "News Rondônia"
+      "sourceName": "Portal 24 Horas"
     },
     {
       "articleId": "gnews_373255583e2e7a21",
@@ -1071,6 +1200,44 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Gazeta News Guarulhos"
+    },
+    {
+      "articleId": "gnews_e615049ece49e48b",
+      "headline": "Aumento Das Temperaturas E Fenômeno El Niño Elevam Riscos De Dengue Em Belém - Portal & TV Gurupi",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T12:40:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ESnFUU2laYXJtMmFFaWl4bkV1RDMtRHIxci16X2kzMHp2X3Y2ZGNRQjlPTlMtQWhZeC0wdGtNM1AyQW5udFNMSS1aZTYwRWVtUEdoZmtJWWVMbS1adC1nUTFvTzYtNm92YmdzLUlDZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal & TV Gurupi"
+    },
+    {
+      "articleId": "gnews_018a09dc1d26084a",
+      "headline": "El Niño e altas temperaturas chama atenção para a dengue em Belém - O Liberal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-25T12:11:04+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2tkNWRVV3hUY2FBeGdsS3hYYVpjeXZjOURRalp4QU1fbHBselNKSllrdVhfYmpUV213X3paVVBLdEJXQXNjUzI0QWdwdzFhQnFIV3BmelBHcEhpM3hDQzh1RnF3VWFicElJU1VSQlFhRkVoM0xSX1J1aHVQc2RObUd5bUM0YjA5b2l5bjBQeTlyUERrVkVPS08tODF1eFNHcHNZWDlZUlFydw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Liberal"
     },
     {
       "articleId": "gnews_fc6d4fdb2ef07cb0",
@@ -1139,8 +1306,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2NQSVB2bXVzbXczcEVraktSSlY5NWNVOFpCYXlqYzVFWlV1T3FGaWNuOXMzcXFYSkszTjdsaThMdEN6Q2pnTWRDS3VDX0JGNGcxR1RBWURBcUFhZDAyNHF1dTh4dmdrdnhFMkhvaXZCYkFfamFxZkpqc01EWE8wanV4cGx6bzdLOVBLUHB1NTJZLWdOTE95dW83YmRLQ2lqTklUOEdxSlR6Q3pSNlFYSUZMSU1qTWJiQlo2N0hzSGV4bWdsc1RQdUJfNjJSYUpWOWdJYQ?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles",
-        "COVID-19"
+        "COVID-19",
+        "Measles"
       ],
       "locations": [],
       "states": [
@@ -1148,45 +1315,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "O Liberal"
-    },
-    {
-      "articleId": "gnews_e811d756f9749201",
-      "headline": "Dengue em Balneário Camboriú cai 99% com tecnologia Wolbachia - Gazeta do Povo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T01:34:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXdleTFjRGxaanBXbWt5a3Y2QnhQRWVIRnZqanl4OS05SHpVYlE1NUhVOWtVZWRxWFR5ajFMTl90TWhLWXZUeUVUYzdhSHVlZGgtb29vcko0TTRvZVVURFNXS3E5RUc3ZWpKX0JDcmJ6RnJlZ1VWNDcyVWVPLU9Ya2xkSjUweGszNlZSa3VGWmRHdFcxVmhOSHNBU19uMnRoa08ySU4zVTRYWlRSblhEM1BoZXlxVTZsZWFv?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Gazeta do Povo"
-    },
-    {
-      "articleId": "gnews_3d5fedbb4db03a1a",
-      "headline": "Baixa vacinação deixa Brasil em alerta para novos surtos de sarampo - O Mato Grosso",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-25T01:30:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkhDN09qdkR0RmVUbUZSU0hncjhCZld0NEFwSVRsZ0EyUnpJRHB3Qk1YMmN6TUZRVVNaTXVLYTVCYUNyM0N3WGtUenUxeERGbHFjUG9BMDd3VldxTDl3MTByTk40NVYxZzFYeG4xWnlIc3pUQV96UlNOU0YzV3R1Wmh2TkxJdXdnZUdwQXNQLThWQ1dTbEJn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Mato Grosso"
     }
   ]
 }
