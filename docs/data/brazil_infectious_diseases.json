@@ -1,29 +1,69 @@
 {
-  "generated_at": "2026-10-31T00:26:58.840135+00:00",
+  "generated_at": "2026-10-31T08:10:27.291273+00:00",
   "date_range": {
-    "start": "2026-10-29T00:26:58.840135+00:00",
-    "end": "2026-10-31T00:26:58.840135+00:00"
+    "start": "2026-10-29T08:10:27.291273+00:00",
+    "end": "2026-10-31T08:10:27.291273+00:00"
   },
-  "total_articles": 43,
+  "total_articles": 40,
   "state_summary": {
-    "Brasil (estado não identificado)": 19,
-    "Pará": 13,
+    "Brasil (estado não identificado)": 13,
+    "Pará": 12,
     "Goiás": 1,
     "Sergipe": 1,
-    "São Paulo": 1,
+    "Pernambuco": 10,
+    "Rio Grande do Sul": 1,
     "Minas Gerais": 2,
-    "Pernambuco": 7,
-    "Distrito Federal": 1
+    "Distrito Federal": 1,
+    "Piauí": 1
   },
   "disease_summary": {
-    "Meningitis": 14,
-    "Dengue": 16,
-    "Doença infecciosa (não especificada)": 7,
-    "Measles": 5,
+    "Mpox": 1,
+    "Measles": 2,
+    "Meningitis": 8,
+    "Dengue": 24,
     "Avian Influenza": 1,
-    "Influenza": 1
+    "Influenza": 1,
+    "Doença infecciosa (não especificada)": 4
   },
   "articles": [
+    {
+      "articleId": "gnews_4f16ddb9045b699b",
+      "headline": "Casos de mpox aumentam sete vezes no Rio em dois meses; capital está sem vacina - ncnews.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-31T00:06:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyNUt2Y21QQXlldW9DekNwM1JsNjJxbnppTnRjdm1pTHAtazZXTWJMZXV4N01YbWhlVmJyWmd6TW5hcTd4QVJ2aXp0VFc0SEZnQ2lFdTJGRVhleE9VeXR3eld5YTB4OUVKTUY0ZXBlOWx0UQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ncnews.com.br"
+    },
+    {
+      "articleId": "gnews_7c175cc4f4db44ed",
+      "headline": "Complicações do sarampo podem afetar cérebro, audição, visão e pulmões, alerta Saúde de SP - O Mariliense",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-31T00:05:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkF4WmlNcGFOYzdWTXRvbVFlVnNiSHkxRnhXYVRrYnZIM2FCMUJpNENjYTR1YUVRVWVjS3NCMWljUUN1R1ZjamNvSkFSY0h2Z1JTazFUU2hNT3UtT0F2Sk9CaHFGNC1zczFiaEVqaWIyalpZYnVySU5nSFNvbTR6YzhrOVkxNVNEcV9hbzJJcVBrWHQ5TjRyR193SldHeUprbmo1ZW9Ta2p3MXNwV2ZmQnRHNEpNdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Mariliense"
+    },
     {
       "articleId": "gnews_cad8e57f56d9e6d9",
       "headline": "Vacina contra meningite: apenas 67% dos adolescentes estão imunizados no Brasil - Pais e Filhos",
@@ -68,7 +108,7 @@
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T20:50:20+00:00",
+      "publishedTimestamp": "2026-10-30T20:55:21+00:00",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96RFAwWVFhelRPVE1fMFhOWEItTEV6VmpqeUVwR2VjUHIwR1Q3M3JzYXRiV21LRkloTGVvdHRWVlRXdEJrb19jcUpicUxodUNZVnE4YjBnSUtJNW1lSmprMzIzSFp6Znhyb1JWdm94UDRUNkxQaVNJcEdNV0lFZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
@@ -100,25 +140,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Opção"
-    },
-    {
-      "articleId": "gnews_5b1babf2d5f7fd18",
-      "headline": "Brasil enfrenta restrições ao frango após surto em SC - Portal AZ",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T18:09:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0Z1SzlSLUZjZFF1bm5Ibzc1bUdCTTc1WTZUa2VHcEJWWC1kbkt4Z05VTXMxajAwUnVDYkVVcE50TW5YdkEzd0pPM0wzSFJYYlpweTU3bzVpRWxlTy1KNHZZeUtNUExKSWV1bFdWVEs0QmVQTXFMd3g4QWxoUlNENm9oZ29Ob21yTHRpZzN0b1R2MllwLVhDU0RvYk1Bb3c4MXp2TtIBqgFBVV95cUxOT1ZtSU9rck5ieGdFcUNZV3RvZjNZUzZzclUzYUlPMDR3X2M1ZFRjNExkVi01MFFhd1U1ZXFkMjNfbkpnQlVmOXVYVFd6c1RHUmlIOXFtRFNMTTZIYXVXdGRZQmhiNDNsUkgyWGdUMmJVb3g1SnRLRUpDamZCbU5BNmpIcG1zNmxva2JaYVJfam1IUDlneGxCN1g5ZVFBdWtjb0ZTN3dDMEJ5Zw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal AZ"
     },
     {
       "articleId": "gnews_b160d3833b9737de",
@@ -153,20 +174,20 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Sergipe"
+        "Sergipe",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Prefeitura de Aracaju"
     },
     {
-      "articleId": "gnews_a386bdef34d2a7bb",
-      "headline": "Vacinação contra meningite para pessoas de até 59 anos termina neste sábado no Rio - Rádio Manchete Rio",
+      "articleId": "gnews_2b2c6ada55516b46",
+      "headline": "Vacinação contra meningite para pessoas de até 59 anos termina neste sábado no Rio - Rede MRio",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
       "publishedTimestamp": "2026-10-30T14:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzdQLUluSFQ3Q3VYNHFMYm04dDVyaEUwSzAyQTJPNUt1U09zbFZmdEpSSDY0d1I3b0NLM2lvanF6WEtIZlZXSEJDZWZFM09iREd6ckRvMFhRdjVqMDdBZUJzZTViZ1E5dFVKWi16MW9JaVNfVWdjMkhxLXhRbDdiRkFydG5QWE5mUDNnbzVGYVR0RDFNRDdIOGRpV3Rlb3JLNHhJeXZDRVlzd1lLTFVj?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFhhZkdjc1BPMlljZjB1ZUVHNV9oZXJCNDlJR3dOTU5SekxNNFRkN1lOSzRaTzlYTGJfMGZUVXktSkxVeDljWE52dF9tZHVHS1dwVmtMOE9telhfdlFCcEtDcnJGMkxlWHhCTS1tNmM2cllSWjRleV9uLWVFeEVrLU1pcmZETlhkdG5lTVdJUG9xLUdyVGlZRkF1SExTVWVsWFA2MVo0amQwVUE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Meningitis"
@@ -176,45 +197,26 @@
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rádio Manchete Rio"
+      "sourceName": "Rede MRio"
     },
     {
-      "articleId": "gnews_cf020e5b7b13a28b",
-      "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Hora Campinas",
+      "articleId": "gnews_4b323f5f55b241e4",
+      "headline": "Pernambuco confirma 7ª Morte por Dengue. Notificações crescem 31,2% em relação a 2025 - Blog do Carlos Eugênio",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T13:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGl5X0FXSzNSb3hKQ2NkOENIcGRoZUxWU0Z2UmNMUnEtaUxJOHRORUhMV1BpOUhMN0I5RmRPTnlpZ0RZV3g3S292ZmtuWUxCeDRMQl80U2J2SEd4REpjblhlLUxPLVltZ0JBNWlrSWZjY3FIUXlOVTVNLUhHdzNGOUxpWmlpcTI3WGpaMjRFU1czVmJJOE1VZkRqS1BSdw?oc=5",
+      "publishedTimestamp": "2026-10-30T11:10:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzlTNVBEcW9IYkJWTEV2aGtFUnlCeFdhVkdYY1FpYWJRYmhYY3RyRnYxNUhMX093SElGV2I1MG5tMTQtb1ZpcC0yV1RsbjBFaHFHTUVMVXl5SVRRRWgyVFY4SlBFU1Etd2NHXzhuakpUdDJLb3VfYmQ4cjFrdmMwMW9YZnFGak9UUk01TE5XYkZLanRLSUk0ZlZlclV4UEtGRXVFS25vV3FleFFZLUFDbzlaNU5FMFpidWt5OHRBZw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "São Paulo"
+        "Pernambuco"
       ],
       "dataSource": "Google News",
-      "sourceName": "Hora Campinas"
-    },
-    {
-      "articleId": "gnews_807c3937fd57b9e0",
-      "headline": "Bronquiolite preocupa 60% das gestantes e vacinação pelo SUS ganha importância no Brasil - Página1News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T12:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDhYT3h6MUozLVdyTFU5azdoM1k1TVd6NWFwRjRfS3R6X3dlUmlnTkNJZHNFSzF1bjBOQVlJT2FrUDhoSVFxMTBoSGRRS25XUWZ3QnpibUxMd2I5VW9tZDZhY0hsUXhyU28zZjRqOHRMVFVGY0lGZ0RZWVg0RzRhYzl2YnQzcVBDX1p0YjZFV0RNMFF0ajhGenUzMXBwNExZcXYzZ2l0NS0zdmpYM3BMYWhOelZXQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Página1News"
+      "sourceName": "Blog do Carlos Eugênio"
     },
     {
       "articleId": "gnews_e1d1cacc252dba99",
@@ -237,23 +239,80 @@
       "sourceName": "Notícias Agrícolas"
     },
     {
-      "articleId": "gnews_2efcee52491a000e",
-      "headline": "SA to keep buying chickens from Brazil despite disease outbreak - The South African",
+      "articleId": "gnews_098e0583ff9ff28b",
+      "headline": "Brasil tem quase 4 milhões de doses da vacina contra a dengue sem uso; entenda o problema - BossaNews Brasil",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T06:48:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUkxMVBWUE9PT2JGRlowbThXRjhWMmx3dTItS1NXU3JPUFFtVHNfTzctemtac1dPZy1tVXJRalJhUWc0Tm5RN01UcWF6RHlZNkdGZ0tjdnlNdmRwSEhwcTRiZ1RYU25TWmQ1WjR6S1FkZmZ3QTFfNlcwR0tjck1teV95UFFJSnZOQklJZHNIZHo4QmZaeXpaUjRFSjhONDFFUTUw?oc=5",
+      "publishedTimestamp": "2026-10-30T09:51:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEQ0THMzT3BjdHZOS0xuT09MRFRUWGFicUdSSnlTcm0tbzN2S1ZUdjNHUDdlN0dYckFjX0VTWTJQNC16QUNXd2htWFJGQmpFWjdGQU03Um1YbDA3MWNMUVBQbU1tMk9uNENtblFrbXl5MDB3Vmk2cXdEb0ZzMkxXZGdRNXBNeXNTcDFpRFcxbF81OXBoWDNNaE9YTFctcW1IUU9Ma1ZzWjlLOGQtdkpEZ0dOZjc?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Doença infecciosa (não especificada)"
+        "Dengue"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "The South African"
+      "sourceName": "BossaNews Brasil"
+    },
+    {
+      "articleId": "gnews_91c574b218173516",
+      "headline": "Pernambuco confirma sétima morte por dengue em 2026 e registra aumento de 31,2% nas notificações - Blog do Waldiney Passos",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-30T09:04:55+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1NlWlN5d0ZWcHFqNmNtQnM5U1BNRzMyazk3R3pHcTJvakU4bWNSSE1ONVpOVkhta3FzbkswbU1JcnJDbmU4Q2lFT1VWLVp5bUphYjhmRkdCZ0xQRHNUS2xFT1VxZl9xcEdJRm5XeFpjM3g5YTR5VGF6eUFhM0xjRzRRQjR0VWp6WDdZcGpBWnBuNjJSTlJuc0FTd1lWX016R2dXQmhCcDdMU0RRS3VOamxQcU5GMHEzbnNYRk0xcmRTX0k?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Blog do Waldiney Passos"
+    },
+    {
+      "articleId": "gnews_f94d0c1ada37d2d0",
+      "headline": "Como casos de dengue despencaram 95% no RS após alta nos últimos anos - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-30T06:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjR6MDV2S3YxaXN5bWphU1BQZE5jUmFGekQxUFdPclRxMVNNRFk2TVZobEhMa2ZJR2tuZ3dvaVdRMjEySHZrTmJUdUtVVVYzSEVBWU1lcmpmY0tCS1lnQzZ2YVdqM2ZNaVBzR0pvYXZacTI0eUl4Y1NzYjJCUG9abWVUcnh1Wno4dHZfczdpMWZFakpxVUN1clBGX3hCSkFzelFhMzJMMTh2ejJDRkRkRWxseWJsNERsQ0dHZE5xSmtSMWNTbkVlOW5JVWF6aGhMaXh0bFAzU2dmZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_a6ccc9d085f2b39d",
+      "headline": "Pernambuco confirma sétima morte por dengue e registra alta de 31,2% nos casos notificados - Portal Fala News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-30T05:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFVzWHJjeV9DOEROTGc5MmNFSFZjRnVVa3liQzUybkFTcXpwX1ZnYzNTUWEyLWxDYzcwSGFxLTE5aWZSbkk3eHFwSC1iRVloWW91Z00yRGhUMGhIYkN0X3o0YnBhaDlMRG5JcERMRlVnUDFzMXNoeTJ2WWlmVmY2aUpmU1VaaXg5d1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Fala News"
     },
     {
       "articleId": "gnews_b914d46643edd6f7",
@@ -275,23 +334,42 @@
       "sourceName": "TV Sim Brasil"
     },
     {
-      "articleId": "gnews_1add365efd0fe45a",
-      "headline": "Sarampo pode se espalhar antes das manchas; vacinação é principal proteção - Rede Onda Digital",
+      "articleId": "gnews_da3a4fdc35099fb4",
+      "headline": "Casos de dengue caem 95% no Rio Grande do Sul - G1",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T00:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LXzBpd1BFRmQ4bGo1ZS0wSms0U01kQ2NjcEVGbEljUno4VFJCZExxYzJKT0FyRGhBbVdOZk1uY0NVNF90SmFXbUttMmRDem83VEJORFI4QTk0VDFLYklHeWVJelpWTm5GTzh6eWpHN3JJUmFqV1d1eTRQYVBoTWs?oc=5",
+      "publishedTimestamp": "2026-10-29T23:52:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWFVclBwb2JkRDdXWXl5amhGRUw2TEJzblJPUWVZYzllVnl6UmJmb245SEtFek9wLXRFZ3N5cjRHWGR0dGdQM2pEdFc5SVdaTDNXUnR0akkxNDRfZ1h0Ylp6dm9tSVB6ZElIclktdGtiZFU3RTBBakVGVUtPeWN5dHZNZWhuTVUxal9HUVY3RzlkdkpzclU1Y2R5aVVRUWV0SnZZUy02YnlYaTRRZGhQSmtWTENsNU9hR3N5anUzTjRqRktEaGfSAdQBQVVfeXFMTXkwRDVINWtEaUpicVlPNkFpcnBWdHlOVXFjOE9lMDd4ZkdoWlBVcDVsdUV2VWpVdnBwNUNjRUladm9RcUE5OTY2Ni1FZE0zOWhFbjNnUWJ2UE14Z2ljeGpGai03eUhwOTlBclFEM1FkTnE3NTVQSm1OR2dxRGFXRDdRb3dlbGRNS3ROZU5nTDNrOURCcDA1Qzk4TGVRZjdvMm5pSjMtdzhseXpzOEgxYlUtczNhRHNHdVY4Yk9yV0dRMnVIV1ljazFUUWNtRjhYMzNGcEM?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Measles"
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Rio Grande do Sul"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rede Onda Digital"
+      "sourceName": "G1"
+    },
+    {
+      "articleId": "gnews_ac9b6a9897028415",
+      "headline": "Pernambuco confirma sétima morte por dengue e registra alta de 31,2% nas notificações https://www.terra.com.br/vida-e-estilo/saude/pernambuco-confirma-setima-morte-por-dengue-e-registra-alta-de-312-nas-notificacoes,b4db8bb2fe54d4 - Aliados Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-29T22:53:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNME1sbnY1OXJ4bWNiT3Z0RUYzdXVNTnU2Ym8tdG83enpqcUlWWGVrcDdtaGYtVUVGajBxUE5KMzVsOWU5eGZFbzVfcEg2VDF6UUVEaF9mRnJiQzdZUERiazFxV21OOTVtbURyeWZkUkFaakZDdEZGSzM3YnlSNndtclRHbUNtVEJ4YTBHVllQRTJsbFZmU05qNXJleV9GcHNma1k3UWhIT2RBOEt0S1JUbVNhVk44a0MwYV9Gc29zRi1uMlBvSVdhRnFKN2JFd2lNV3NHVzZnaDE1WnBxQ3NmM3Z1aVpENXdmYTAyaTZwVjFhYW1RTXQ0S2R6MzdjQmJIUmxxdHlab2ZDclBPcXVkRnhiOVppRWVGRmtHTnZIOGNtdjlzU0ZtOERvYkFJbEhsdk9KektjYUx0ckhaQl9fMjlmTVk1OFJ3MEY1TkdQWGdudkg5ZXpvYUJwZ05qZjhkTEFGZkNqXzlRMG1WeXFZOFNFSWRjRTRVbHhRdjVRM0ppWDhrNWI0c3BR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aliados Brasil"
     },
     {
       "articleId": "gnews_6a0efc3c9dac6fae",
@@ -311,25 +389,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "band.com.br"
-    },
-    {
-      "articleId": "gnews_b19b53441464b325",
-      "headline": "Cobertura da vacina contra meningite atinge 67% entre adolescentes - O Cafezinho",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T22:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkl0Q3pKeWRVMHBjYWFTNFpQc0paQU1Pek5sb2xlOHBWdkJBNmFTVmptNUdCOVJ4ZXhLczY3cHlqYWZlSkZFRG90TnA3ZDVTaWlfX2drTDJfY0k0VnJvS0V6aFh5X0M2Q2pFRERIUjdsV1ZoWVp3cktlS0luWUwxODRSaFVnNDhLRUFnbHJoOWxXRUlnU0VjNVRnNkY1VnhKOXh4MVNvb9IBrAFBVV95cUxOUmxqeVR5LVdwTE9QWl9GQTFncllCRnN4SmVGQ0VBUm5wZEt3MTRCR1BwNjl4VjdtX1ZneDJtVVN0Wmdtb2l1RDNZbmMwRlU5dDQyWFFkMzFxVGZOMndCRk5Od0Z3djV0TVhwNm5udEJFcHJuMjRZd3d3Zl9vWnIweFpjTmRSOU1Qdk9XT0ZhYk41OEx1QktBMTBWVHkzMF9xaEVLa01EVXRCS1dK?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Cafezinho"
     },
     {
       "articleId": "gnews_02057fb7406d3e2c",
@@ -389,23 +448,23 @@
       "sourceName": "Rádio Cidade 99.7 FM"
     },
     {
-      "articleId": "gnews_e42882a929dce486",
-      "headline": "Ministério da Saúde cria painel para acompanhar vacinação contra meningite - Portal N1N",
+      "articleId": "gnews_ebf988cbec2754b7",
+      "headline": "Brasil avança na vacinação infantil, mas manter doses em dia é essencial - AmazoniaPress",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T18:37:14+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnVhYzlCM0pMU0xERU1LZHNGYy12aDBsTVJJRGphbTdxSWxtUDl2TFpTX3B6NkFGdEswOFFuVGVfY2NiNjYwTXpJQThoLVNEeUszMUdMWDZ1RVpMRlF1cnk3YkUtUjB4UWxKazY4bjIyRUVlRzF1V3I2UW03M29fSzJ3MVlWdjJpMGNXY0N0TDBHSEtjSU9JSTNDcWtrQjA?oc=5",
+      "publishedTimestamp": "2026-10-29T19:00:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNek1yNmNDajQ5ejRxdlluSzdBZ1lGLXJfSlFTUFpTQ1E5MU5COXJPTVFuY0xPYXA0T2hCUWdNVDQ4OElWbVBKaVl3eXVkVTdUVHVvNWExaTNyZUVlejJuVEFPQ0s1dnprLXFlTTV0NzU0R2FwdHNnTnBvbWNYRHZybnZRUTFmNTFHcEI2RkEtQ2ZoRlVfWlJpTWEzRlpiLXl6RUpV?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Meningitis"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Pará"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal N1N"
+      "sourceName": "AmazoniaPress"
     },
     {
       "articleId": "gnews_09b8cdc9f83ae06f",
@@ -427,44 +486,6 @@
       "sourceName": "PDNews"
     },
     {
-      "articleId": "gnews_8f7229be05f392b0",
-      "headline": "Brasil reforça vigilância contra sarampo após recorde nos EUA - TV Sim Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T18:27:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3ZKREZQM0NlUm5WcHAtWF8zQ1o1UDBrYjVtVzJ6MG5DeElfR25BbGpsYUtGS1N1aXZmSUVZLUN5TUpuTkhYY1VQdHlvRlRsV2lHNk02ajZISFFTSjM1bUpTWjUwUWoxOEkwNExTMWl6WE1idmZNNEQ1Qlk3NjdzNnh5bE9KNEF4VzJVZ1NFTnJOWWZIa1JoY0F5SUxRMEF0d0VrRnRHMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TV Sim Brasil"
-    },
-    {
-      "articleId": "gnews_10df7832cfd42306",
-      "headline": "Pernambuco confirma sétima morte por dengue e registra aumento de 31,2% nas notificações - cnf.net.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T17:51:30+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHhoOExPS0NicFpkVThiOFNUNkVGMFVBd05QVU1NZjF1RG1ORDJZNXJzV0JhcER0eWV1dGFGYnk0VTdIWHhyRWNER3ZWQ2pyTU91SEQ1Mm9heVFod3FLbFdGakw5b2kyNWFnYUtpRm1UWlRPOEIxUzhTZnZkT3pNLTd4N0ZMWEtKVXBBTDN2WUN0M09hUWM3T2dEUFpuNnhWdE9pMG1RRlEwWXAxWXVSOEdySHRQZFpr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "cnf.net.br"
-    },
-    {
       "articleId": "gnews_f44da1c361b85359",
       "headline": "Pernambuco confirma sétima morte por dengue e registra alta de 31,2% nas notificações - Terra",
       "headlineTranslated": "",
@@ -484,23 +505,23 @@
       "sourceName": "Terra"
     },
     {
-      "articleId": "gnews_5d905d78bd7dea41",
-      "headline": "Apenas 67% dos adolescentes estão vacinados contra meningite no Brasil, alerta Ministério da Saúde - Portal do Zacarias",
+      "articleId": "gnews_91862588730bfcc7",
+      "headline": "Turista dos EUA toma vacina de graça no Brasil e economiza mais de R$ 2.000 - UOL Notícias",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T16:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFpkNHR3cGFNQ0ZPeHpFM2hOTkVpZnJOdjRGTmpYS01PRi13Yk1QZndHWFFxZG9zNGZKd09Nd2xXTGlxSS1nemlNQnVPbWRJM2hSbWE4aGNWOGxYaUFQZGIwR3UxcjFhWUU3b1dwTGNaTl9fZmtiMFVJcHJld19lWURJN1ByakRJc1ZRRUlqV19fRml2VXgxQ0F1LWxZLUp3TjcyTTItSHhZWjEwNjlySTRob3FrZHZ6bGZiS0NMQlo3d0xrcFBQQmx3NWVUNGlTUTg3NUE1VEdMbG04?oc=5",
+      "publishedTimestamp": "2026-10-29T15:23:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWxIcHc4ZlRnWWZPeEtfUk9BeHExYkZEY295Skp5aUY1alNJV0t0ZTR1aTJlTG5BeS1IN2wtdmpTNHYxcVo3d3NSclJtTmZxTWN5bm9tOHRNVGpQcGljUWo5TTZSdVNpVHV4b256VXpRSkZnbFNkdEpBNHBuLTlQbllMSVdaa2pWLW1RZHhDY3I1T3VVaElFaUdsQ3hTNVNBbWxKQnZuSElJemh2QnRfLUpJMlF6N0ZyZ2I3SlFZSG5FZWRYZ3MtMmw4WkFDeEhVY2xNUFdUQWFNa21LNDZmMg?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Meningitis"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Portal do Zacarias"
+      "sourceName": "UOL Notícias"
     },
     {
       "articleId": "gnews_e9598273c3d2d8d0",
@@ -522,6 +543,25 @@
       "sourceName": "Francês News"
     },
     {
+      "articleId": "gnews_bb06284b4b23f3ff",
+      "headline": "Notificações de dengue crescem 31,8% em Pernambuco e ultrapassam 52 mil registros - Jardim do Agreste",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-29T15:03:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWElsOFFxUTVnS2RFRExVblhVM2lLenFDUzM2NVdPMUFqeXQ2eC1vU29QWXByQXN4YXFIWXcxQjVWTVFxRy1JdWhiOTVZOFh2Z2JZaGtYc0hiRnpQWGJKYlFrbmlxV0FidEJRcnNEb1pGOGd3eW5wOVJfeE9pNkhrZTVpbHhxdHpsVER4LWFXRUFDeGswSG44NUJtNWFVU3Y1djFnMU5TT0J1SHVZR3NnYg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jardim do Agreste"
+    },
+    {
       "articleId": "gnews_4153e6cf4763387d",
       "headline": "Minas Gerais já registra 52 mortes por dengue em 2026, diz governo do Estado - ncnews.com.br",
       "headlineTranslated": "",
@@ -539,6 +579,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ncnews.com.br"
+    },
+    {
+      "articleId": "gnews_6e7fe28a2d606dbc",
+      "headline": "Quase metade dos municípios avaliados no Brasil está em alerta ou risco para dengue - Varginha Online",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-29T14:29:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjZNS1NKRlFkRTJCYXFKcFdoMnV4ZVFrZ3JxcDh2T01wSF9MN1RPb3NNQVVORUpDLU0zOE5qd0tBZnlEcHlYUmItWFV1Umd2R1F4Y2E2NFh4d283djRiY2ZBWFFNZFRfMEF4N1liNEx1ZUgybWhvbDR2UWJqVHg5QnpkRXRzTFlCQlNZWG40UXNQbGc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Varginha Online"
     },
     {
       "articleId": "gnews_afa67f28540f5669",
@@ -579,25 +638,6 @@
       "sourceName": "TV Nova Nordeste"
     },
     {
-      "articleId": "gnews_58a8e37dd31b8ace",
-      "headline": "Vacinação contra meningite atinge 67% e ganha painel nacional de monitoramento - ncnews.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T13:43:37+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vNjN0aWRwZ1BUZk85Q2VCaGpGcDRzOHR3cXJ4VVVLWkZaZ0pUQ3Z3dmM3SkRKVEFyMURYVGg4Um83RVZnRjNveEJUbDB5REw0SUVSM21LUEVTaUhMeG1pNGNoTENQOEg1bkN0WUxwQk92ZUJORm9laQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ncnews.com.br"
-    },
-    {
       "articleId": "gnews_bd5283c07c261401",
       "headline": "Governo Lula disponibiliza painel para monitorar vacinação contra a meningite - CartaCapital",
       "headlineTranslated": "",
@@ -634,6 +674,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Diario de Pernambuco"
+    },
+    {
+      "articleId": "gnews_0dc19a80ee145759",
+      "headline": "Piauí registrou 14 mortes por dengue e mais de 19 mil casos prováveis em 2026 - RevistaAZ",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-29T12:51:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckpfWFZEVU80b29vVDdVbU1kYWFxRzhRLXd6MmtHZ2xrcXVSSmI3N0w1TFhKWnEzVXpnRTl5Ym1uYWo5YWtSMDFlaTJVWGJPUnlScXlkbHFMTE9EZUZvVXJJX000OExvZVBfUkJMdjQ5MUdZT1ZXTE5SLUlldWNLdlZyVXNZRTJWcC1FLUJCV3lDdENUWDFKRTVLZHJDLUpSemRBTVVqY05OVG8?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Piauí"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RevistaAZ"
     },
     {
       "articleId": "gnews_e30a9fc12330e83a",
@@ -693,25 +752,6 @@
       "sourceName": "WebTerra"
     },
     {
-      "articleId": "gnews_6b244844256ab01a",
-      "headline": "Nenhum estado brasileiro atingiu a meta de vacinação contra o sarampo entre crianças - BossaNews Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T09:57:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1h3VmVNZDFnaGhqWVFrR3MwN0RvX2pucnZ5VzNEeG9UNXNSaHRtN3NUMklPX3lMLWZEQ0hBZEVrbThPR0FhclhpMkVna0dBb0lkU2dqaWdjc1E2MkcwcHJ5bWZYa3JZWllzYVFLaWJhWGN4SFpwZUtzQUhMX2hNNTg0cUlVLWFRUHJTek5DSmhGdG5XYWNGZ2NKT3NHaU1HQkFKTFJxMzlLZms2LWo0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BossaNews Brasil"
-    },
-    {
       "articleId": "gnews_c055fa1e25a56337",
       "headline": "Operação Cemitério Seguro intensifica combate à dengue em Belém antes do Dia de Finados - Cidade 091",
       "headlineTranslated": "",
@@ -748,101 +788,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "SABC News"
-    },
-    {
-      "articleId": "gnews_6eb389d084c537a5",
-      "headline": "Vacinação contra meningite atinge 67% dos adolescentes no Brasil. Ministério da Saúde lança painel para ampliar cobertura da vacina meningocócica ACWY. - www.portalviu.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYTFSWmZ1cmQ1cWphdmZXbE9ZZmVqRnhIeUl4NkhVd3JIREp2d0NIZlltQkZud3FPUmhOMW9qOW5mM1FDaGR4eDZkdkhxTHh6TllTUDB3Yi1JWWN1bEtEdjF1ODVyTXdrVDJjYWRnT3dQR01lMG0xRVhDdEk4UlluOGZOZHFMVTE0czZEbGt1enByWDN1VUJrNVU4NDhTV3YzcG9fekdRLVhHZ1VYZlVoT0VRbm5FV3JrdlEybkIzd1pJYmZ4ejdwYkFwbHJMekxTT3NUM0Q2RlBUVk5UNkV6LWdNNS1oeDhjcy16bjNRZ0k?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "www.portalviu.com.br"
-    },
-    {
-      "articleId": "gnews_abd2e3c52e95684c",
-      "headline": "Saúde no Estado - Pernambuco confirma a sétima morte por Dengue em 2026 - Jornal O PODER",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T07:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXJiMnl1b0pqOW5zVDZZUGVWY0NnSUVYcUVZX2lXMFktazdkb0xrRlp1MERIRWE0T1lac28yQzB5X0hueDFUcER4X1RScmRrQWRxd0JFQ21RVW9JS2dKX2VGMFhLYkVQenNWOVpUZjk0YVBZU3pqcWdKX1Y4VElvQUpRLVNjOHlZcmhzWGRwWGgxeUl2UVM4M29FSkw4Q282RVhtQjZueG5yaXlOak9r?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal O PODER"
-    },
-    {
-      "articleId": "gnews_34c99548f3129f17",
-      "headline": "Brasil precisa prestar atenção aos surtos de sarampo mundo afora - O GLOBO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T03:09:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLVVvaHJFMnpCUmIwT2xYOHNzQXJaMWdqcjNQNXN6aGtBb05oZUs4MnJXeGF3alZjcUVaNXlQRF9xbmpYTERnRlE5VzVtLUFZLTNmZTRXMlFHNEdfY1RWeFJBVU1rWUxRd0lSeGk4aTctTk84WG9WeEwyal9TTDlTamdCeGE0b2EtWmJEa3A3Q0txSDB4WEUxTkQtMVZfVWZybG5uWURQeGUxMWhZNHRwX1lRZjlhZG1scHhncjZUeWV3S2wyUThR0gHWAUFVX3lxTFBJMDdoM1VLMUpVUjhpX0liMXhweFhiaWdUY1B1TTdnTmxJSkdoMWdXVVVpVHVCYjBYY3UtTFNUajgtMUxpbUFaY190YThMUk9nYWxiTXBKU2RHcFhOenNzbkxqbkF0c1Ric2s1S242NVdRcmpydTEyN1lBRXp3bVhIdU5za0hhbTNNMzNRTU9nMDRZemZTN0NjOUQyRm1qSVJhNUpXalAxSndLc2JaZk1OUGNHRlBlU01rMmJHcXZId2lPRVZIbFVJTWV3NTgwelhRTGp3eXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O GLOBO"
-    },
-    {
-      "articleId": "gnews_340c0125c14864cf",
-      "headline": "Jogando em casa, São José Basketball cai diante do Unifacisa - Surto Olímpico",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T01:19:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjhmUXNjSGVvLU92bmlMa0luSUpLNlRRWE5YSVVfdkd3R1ZCOWVpRjNCYzRIc2s3SXJ1LWFiVW5SdWZQY2dWYTNKUHZhSTd4UVprSm43aF9Udlh3MnpGS0RwZm9UdFU3RnRCWFJyYlduRzRxdXJaNVVnMWN4REZKeHpwU01zb3hfSmlLZjEyZld6RThBOW5tWF9Ecw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Surto Olímpico"
-    },
-    {
-      "articleId": "gnews_43d495e670612f00",
-      "headline": "Painel de saúde monitora vacinação contra meningite em adolescentes - Agora Litoral",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-29T00:45:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFRjV0NKRnN2MFl6ZUQxb1haYUw5TWRKMXIyZG1uNTQ4dnJ0ZXd3eTM4SXgyNGFYQW5QbHVmWDdDUlJHbDJfdkNvX1NHR2l5UVhDdHl2ZlNWb3ZieTA0ck9Dd0xBV2ROelJqS3hoZ3NUYmdHSmF2cU9xeFN6ZS03bW5wTHRCYXVWWmJHRzgxSExBNUZyTkxldXFoY21TQXlzS2JtTkUwQW10Q1U?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora Litoral"
     }
   ]
 }
