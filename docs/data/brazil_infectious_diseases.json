@@ -1,30 +1,70 @@
 {
-  "generated_at": "2026-11-01T08:10:50.829656+00:00",
+  "generated_at": "2026-11-01T16:12:49.596795+00:00",
   "date_range": {
-    "start": "2026-10-30T08:10:50.829656+00:00",
-    "end": "2026-11-01T08:10:50.829656+00:00"
+    "start": "2026-10-30T16:12:49.596795+00:00",
+    "end": "2026-11-01T16:12:49.596795+00:00"
   },
-  "total_articles": 27,
+  "total_articles": 29,
   "state_summary": {
+    "Pará": 12,
     "Brasil (estado não identificado)": 13,
     "Alagoas": 3,
-    "Pará": 10,
     "Bahia": 1,
+    "Maranhão": 1,
     "Piauí": 1,
     "Santa Catarina": 1,
     "Sergipe": 2,
     "Goiás": 1
   },
   "disease_summary": {
+    "Dengue": 14,
     "Measles": 3,
-    "Meningitis": 8,
-    "Dengue": 10,
-    "Influenza": 2,
-    "Avian Influenza": 2,
+    "Meningitis": 7,
+    "Oropouche": 1,
+    "Avian Influenza": 1,
+    "Influenza": 1,
     "Doença infecciosa (não especificada)": 3,
     "Mpox": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_f03dae9ec57af1ec",
+      "headline": "Saúde alerta que imunizados com a vacina da dengue devem voltar para receber 2ª dose - Enfoco",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-01T14:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NPeEpna3EyU2kyZ0wySUh2bk9PZjFPd1dhWDk1T3RiR2dDUWhFX3dvd0pLQmtMSHNoSmJDcGd4bU5TLVF4emxQd1JnMnpZSFgteUZYOE9QbU5JYkN3eVAtRE5iSWROdHNDOVhtQ0M1Y2Zudlg2bHhGMnBWVWJaQXA2TE5sV2FaYWlnS2xVQTRxMUpfdS1ZS2pUdlpzT3lEbHlGNFdYa0JHYncxRDJPbVZIQmZfODJOZWlYV29uUWU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Enfoco"
+    },
+    {
+      "articleId": "gnews_70012a77a895204a",
+      "headline": "El Niño acende alerta para alta da dengue no verão; doença mata 9 vezes mais que acidentes de trânsito - Terra",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-01T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOaFRZdFFEUmYtZzB6Ml9Td3NXb2Z6bW8yYmIxVlA4c2JvSzVqSmdzTVRabzVyYjF1ZHhFRE5pa3hQZndZUVNQcHNMbm1GWmFtc2RJNFhwdDNrcG10OG1nUVRZTmg3RWg2YzdHTEx3ekdNcWl0UFRXNXZCTE1Fek9HUFZUeHpHSGozaTc1WmM5OHdzOEZXcl8zZ09sQTZHX0EwVXpIZjViNlU3M2tkMHdMbnl3VW8yZFRFckZqWXk1Y1cyQWwtR2wtNHVxRG83VzRSc2dvWGtvVFJ6LVNHc1FzekFSUlhTelJIbVRGTUVZUG5Cdmdhbm9LS3RyYk9GcEV0NUNRR2lPSUhKYWlRX3BkMTlLQXFFU3pMMDlWaA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Terra"
+    },
     {
       "articleId": "gnews_bb40ea8773c46359",
       "headline": "SAÚDE. Negacionismo impulsiona sarampo nos Estados Unidos e representa ameaça ao Brasil - Claudemir Pereira",
@@ -62,6 +102,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Metrópoles"
+    },
+    {
+      "articleId": "gnews_ab06444cd8d133c2",
+      "headline": "Mudanças climáticas impulsionam avanço de dengue, Oropouche e fungos hospitalares no Brasil - Muita Informação",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-31T22:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHczRmh5aXoyUzYtclhLLUxOSk5tNG9EbUlHQ29yX2M3dER1am5qU2Y2UVVEYU1QckpSOHR0Q1NRYk42N0VaRFBvNXI1cXBNTE95ZWhxWk5yOFE2RzRFQUNsQ2ljOUdKU3NzdldUZ0ZnSGZGbklUdW1vZlllWFdKdmtOd2kxSnJtTWtEY1B5OWsxZHhGa2RkcmFQS2xwWHB1VGRIdGhUNmJ3SzBsYXVZcnVXekJTcTBCZC13bmdLYXMwOE1jN25JbzBxWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue",
+        "Oropouche"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Muita Informação"
     },
     {
       "articleId": "gnews_2af0bb2947919272",
@@ -111,8 +171,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVWdXOVMycEFvQ2dqVnhoTEg1b3ExUEVNbDI5RFVrY2hLbmJOX3N3V0Rhb0RSemFLT3Itd3FiVVY0WklMUjFTVEtSMHRkZklGYnZHaWFwRHBXX0FBN2h5OC13bk9BbjhfNjJ2Q1lVSkVPcGFzbkhXZjhSMkJQXzBlOGZHeXY4QW1JZjN4VVlWdkRUa3RhX1VtbTBzdG96YkxZZE5mRGQ3T0p4OWZNcU5BMzcwd21QRjJxRUVCQXlrOG82blozM3J5NzV0YnpWeklZTzE0UlJnaDVmdzhWWFE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -135,11 +195,30 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "O Alagoano"
+    },
+    {
+      "articleId": "gnews_8a894dfe4e3e141b",
+      "headline": "Dengue pode ganhar tratamento específico? Cientistas estudam anticorpo contra o vírus - BossaNews Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-31T16:45:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGYwbUVncDFTcmc2QWZySVBWSkFBQmlGX2pUU01HUUROR3QwZ0NsY3F5Z1Z3LVctSUdVRWpNSnJkSmZmWEJwTThoSGJwMl8tSWJYSmdUQU9rZjBxSy1VMnBoZC14UE9ubHY1NWlvZy1ncEJqUlZFNG5lamtISmZKbU5XNktBWFpzY0NpMU5FdFp5Q1UzaTE0Nzc0OGJUWnlhTGRZRTg4ekhwYnN0MVZj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BossaNews Brasil"
     },
     {
       "articleId": "gnews_93fa3a07d22c1133",
@@ -212,8 +291,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Alagoas"
+        "Alagoas",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Repórter Maceió"
@@ -274,6 +353,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tribuna do Agreste"
+    },
+    {
+      "articleId": "gnews_e9d5124bd03b56b2",
+      "headline": "Os cemitérios de São Luís terão horário de funcionamento estendido e programação especial para o Dia de Finados, celebrado em 2 de novembro. A medida busca facilitar o acesso de familiares e visitantes que pretendem prestar homenagens aos entes qu - Instagram",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-10-31T11:05:26+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsWDM2YjI5S2FGbDQ2T2d1NHlWX19SSlFsX0R2X0lQOGpOenRIcW9zOHJNanJnVTBCMlhodUU0SDQtUWxiUnE1Mmp6RW80T3dtb1hud2ln?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Maranhão",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Instagram"
     },
     {
       "articleId": "gnews_ec56622027c42e9f",
@@ -423,8 +522,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Goiás",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Jornal Opção"
@@ -481,69 +580,11 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Sergipe"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Prefeitura de Aracaju"
-    },
-    {
-      "articleId": "gnews_2b2c6ada55516b46",
-      "headline": "Vacinação contra meningite para pessoas de até 59 anos termina neste sábado no Rio - Rede MRio",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T14:07:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFhhZkdjc1BPMlljZjB1ZUVHNV9oZXJCNDlJR3dOTU5SekxNNFRkN1lOSzRaTzlYTGJfMGZUVXktSkxVeDljWE52dF9tZHVHS1dwVmtMOE9telhfdlFCcEtDcnJGMkxlWHhCTS1tNmM2cllSWjRleV9uLWVFeEVrLU1pcmZETlhkdG5lTVdJUG9xLUdyVGlZRkF1SExTVWVsWFA2MVo0amQwVUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
+        "Sergipe",
         "Pará"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rede MRio"
-    },
-    {
-      "articleId": "gnews_807c3937fd57b9e0",
-      "headline": "Bronquiolite preocupa 60% das gestantes e vacinação pelo SUS ganha importância no Brasil - Página1News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T12:38:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDhYT3h6MUozLVdyTFU5azdoM1k1TVd6NWFwRjRfS3R6X3dlUmlnTkNJZHNFSzF1bjBOQVlJT2FrUDhoSVFxMTBoSGRRS25XUWZ3QnpibUxMd2I5VW9tZDZhY0hsUXhyU28zZjRqOHRMVFVGY0lGZ0RZWVg0RzRhYzl2YnQzcVBDX1p0YjZFV0RNMFF0ajhGenUzMXBwNExZcXYzZ2l0NS0zdmpYM3BMYWhOelZXQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Página1News"
-    },
-    {
-      "articleId": "gnews_e1d1cacc252dba99",
-      "headline": "EUA confirmam primeiro foco de gripe aviária em granja comercial de Iowa desde dezembro de 2025 - Notícias Agrícolas",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-10-30T10:29:23+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZlFKTHRJU3p0NGx4SXVxU0E1RF9vTkJVZ1NwRWJ2Y1FNb0E0YlZmeUVlQkJNREFRRkNnNmRzdEQ5T2JjMndSTUVBd0pIdy1Ha0U0dHdZam1kS3BOUzk2RHJxTERucm1Xb3oxbVBKTDdjQXItRlhaNGdZbVEyQndJRUdTMVU4Mmxpc1Jfakd6YTNEYld1VjA1dVd1SFBzQ1EtLVRNTG5BamlTZzduMUFmM1luemtxZG94S3NBUmVDNkhocFZqaGFMV3NmaGFaWnBiOUJWX0ZnSTJNUXcyUnRFbFZvQVdRV24wTVhvVmpySl9QU0drakdR0gH8AUFVX3lxTFBEaG1LRUZsQTl1RWtSM3Y2bmxEQUVBQkUteWtIWGlTbTh5UGg2eHAtbVpQQWJ5VVFFcWRXQkI4Y0RFUTAyYVhLM0ZmVy1uVWd1VHFFY0ludmVaRThKUXJIb095QVctanpoSjRwSWxidDFGUnVBcHZQaWR4cUtvN1A3WDJUNHV3MmdzTTNNaHZaal9NM0FTT1dBTzRtMkhSaUhkRGc3WjVxZFE2UkRyZWZabndVSG5xYmg3TVFuajZYa1p4WmZSZmxWXy1RazdwZFJtT3N1U0Z3U2V2MGtvZm9aQ2ZNR2dmcTY2V0syYjRWWjFzWk9XdGU2ZllNNg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Avian Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Notícias Agrícolas"
+      "sourceName": "Prefeitura de Aracaju"
     }
   ]
 }
