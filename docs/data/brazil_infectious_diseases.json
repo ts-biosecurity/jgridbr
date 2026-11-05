@@ -1,40 +1,372 @@
 {
-  "generated_at": "2026-11-05T08:13:21.890359+00:00",
+  "generated_at": "2026-11-05T16:18:06.722129+00:00",
   "date_range": {
-    "start": "2026-11-03T08:13:21.890359+00:00",
-    "end": "2026-11-05T08:13:21.890359+00:00"
+    "start": "2026-11-03T16:18:06.722129+00:00",
+    "end": "2026-11-05T16:18:06.722129+00:00"
   },
-  "total_articles": 78,
+  "total_articles": 74,
   "state_summary": {
-    "Brasil (estado não identificado)": 37,
-    "Pará": 15,
-    "Sergipe": 5,
-    "Bahia": 1,
+    "Pará": 17,
     "Amazonas": 8,
-    "São Paulo": 2,
-    "Santa Catarina": 7,
+    "Brasil (estado não identificado)": 36,
+    "Pernambuco": 1,
+    "Tocantins": 1,
+    "Sergipe": 6,
+    "Mato Grosso": 1,
+    "Roraima": 1,
+    "Bahia": 1,
+    "São Paulo": 1,
+    "Minas Gerais": 2,
+    "Santa Catarina": 3,
     "Espírito Santo": 1,
-    "Alagoas": 2,
+    "Alagoas": 1,
+    "Paraná": 1,
     "Piauí": 1,
-    "Minas Gerais": 1,
-    "Paraná": 2,
-    "Goiás": 2,
-    "Paraíba": 1,
-    "Pernambuco": 1
+    "Goiás": 1,
+    "Paraíba": 1
   },
   "disease_summary": {
-    "Measles": 33,
-    "Dengue": 31,
-    "Mpox": 2,
-    "Doença infecciosa (não especificada)": 9,
-    "Chikungunya": 1,
-    "Zika": 1,
-    "Avian Influenza": 2,
-    "Influenza": 3,
+    "Measles": 30,
+    "Dengue": 29,
+    "Chikungunya": 2,
+    "Tuberculosis": 1,
+    "Avian Influenza": 1,
+    "Influenza": 1,
+    "Doença infecciosa (não especificada)": 10,
     "COVID-19": 1,
-    "Meningitis": 1
+    "Mpox": 2,
+    "Zika": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_744b02b92b9003d9",
+      "headline": "Prefeitura de Manaus realiza ‘Dia D’ de vacinação contra o sarampo e alerta para casos no Amazonas - Portal do Lobão",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T16:12:10+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmlNRzJzTUI1YVlpampQMzNoREtlbkg2NWhVaGpCVVczbHFvRzRZaGp5aTBYZWJjMG56Wm5FNGREMVd1VGo2akRPY3Nia0h0aFFqNXpoa0dPWlVIUmlqTGpCXzdqWlZweGpzSklncWIxZnE5bE1LOXBkX0JCcWt6WnRIcnE3dHcwVFV4eF9veUhHaHhlUFBXX2ExcENqMUxyWGdHRjZ0empzOGhBZFlxYk5mX2xHOGNtdkZRcVBtUWJqWkVj?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal do Lobão"
+    },
+    {
+      "articleId": "gnews_9d282261caac9b58",
+      "headline": "Amazonas amplia vigilância para identificar possíveis casos de sarampo e rubéola - Portal do Zacarias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T16:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHhWd2RnQ3o3bzJzcC1MNGpOWFRFSS1fdDI3TUxLZkg4OGhseXhYTXdURm9aTkJ4cFpkbTlmeXEzcW05Ykt2OWZJYUhuZDZwZ0tsSkZocEFCR0tHSThFMTRSZmhPaEM5Z2FRd0JBd0hNWkFuR1RMYktEa09uU2NTc0FnTlJOeWZFbUxXUnFJVl8yMmFhR2I2emc2amlIZ0lWbXhLY2paMEVaX3JNU20tTXYycm4zTDJkcjhKbVZsbm5Bb1Vh?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal do Zacarias"
+    },
+    {
+      "articleId": "gnews_e1f8141c96d9c791",
+      "headline": "Brasil pode ter 2,8 milhões de casos de dengue em 2027 em cenário grave, diz Fiocruz - R7",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T16:01:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnhiY2dSQVROalh1ajRUU1p0QnN3cElCNkU1UkVOWXpRM3BkT181SHdqU1B4NW1oOXpZT0hScTRpWl80RXpqanVnYWFVTF96aHZWREVRMm04UVVmcXp2OXEwSDRqdzMzVlA5TkZ6Y2pzWkQ1OE9pVVU5N2l1cmZxSlF5UTRQSnA4NjFtQkRzUjR1M1RjWkIzYVJDbVRXTk5VcWswTlVPeUItUVdqbnUyLTFvWkhRZmE5WHRDVjdXZ21BdmI3UkUwdjVTaTEzQktk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "R7"
+    },
+    {
+      "articleId": "gnews_9dc3190685ca5603",
+      "headline": "Casos de dengue no Brasil podem subir até 40% em 2027 com impacto do El Niño, projeta ministério - Mix Vale",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T15:23:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnNab3hqeUwtYWxxdE93SW92UzBqc2ppeUMwUldaWTF0bmtFUnNFZy1hSWRXU1VfV2c0akRVamhDSkNEQ3QyczRYMXpEeExGVkg2N2pGSTlPcG55d1pXZTF0Nmpld0NlYm1xU1ZKM21rY2hXYXdEQWxWaFpPSDZtSkdGdFdrUmE5UlAtRmQxRmFxTF9ibnZKb1JYcnRmSVFFSTF5OWV2TE9tMEIwVWRPdHpYWS1MdHA5ZkdJYnhwVGVYcV9KdkxBRElyX1BPZw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Mix Vale"
+    },
+    {
+      "articleId": "gnews_b8ab505522d26894",
+      "headline": "Pernambuco registra mais de 53 mil casos suspeitos de dengue em 2026 e confirma 737 casos graves - Pernambuco Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T15:02:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTmxnOXdXS1YxSTFqVmN4RUNxYjZGVkxEcWhaSzBYVFE4ZUs1VGpoUUk0OXRMWmV4NmF0STRFUTBTR1Ayc24tbDBwZnVlREV6b29fdmRTdmZFdVZsMEp4TW5ERHBvWUpaZ0U0akRUTm9CX2prZl92VjZHVDVKQ3JKbU1BTUdMdDVFcGxNMy11MzZ3NnNqdHQwZkoyb2ZDbWdsejFJSTdabzBJWGgxVGFRbE5TcnBNeFA5b3BULVJWRm5TZUQ5a0U2QnZHTQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Pernambuco Notícias"
+    },
+    {
+      "articleId": "gnews_ea57b4baf2d0a38d",
+      "headline": "Ministério da Saúde prevê alta de casos de dengue em 2027 - Jornal do Tocantins",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T14:55:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzFQVk9jSm5CeDlfSUdXTFRzcFdDbXoyX3htYnB6TjVqaWFmVGZCUzZxNV9EcjdmZnpBSlJoeFFqb2xrSVI3TExGTTg3di1aMHNiS3JrMDlJVzktWXZ3dkJFMzF1MmdoSEZoekV3Vk5SVUU3SVVxX1JMR0k1QU1yS1c2NlNsdzJBdFM3QkpBcTdpaXlQeFA2VkxTUXBkX05LVmMxQXM5clIxMDNwd1FFTDRR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal do Tocantins"
+    },
+    {
+      "articleId": "gnews_6f28dd833af23de5",
+      "headline": "Amazonas mobiliza municípios para identificar casos suspeitos de sarampo e rubéola - AM POST",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T14:42:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2FscUFBcjdpakZ0Z1pnOHNpUmZ2ZnplUkwybE1hUUdteHZ2R2NGdGc0Qjc5Q25kQmtULUNTd0dSV3YwMlhRZHVUR3FBeUZBNjBuU1JuR3ZUUDliZVNOVE1pQWpPY3NOMmRacks3RHo1MWF6ajRSdGR3dFNTckVYdFp6aHNtc3dlN2V0LTdxbXdfRGVsb0RQU3NGcmp1TEdKSTNRM19MZnVMek00OFNPaTBLRlg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "AM POST"
+    },
+    {
+      "articleId": "gnews_e2b84bc9dffd522e",
+      "headline": "Saúde prevê alta da dengue e busca retomar vacina Butantan-DV - BossaNews Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T14:06:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVdaU29kVk9GbzlNZmZpT04tSktyU2ZEUkxGM0F6Qno2U3I4aFAyRFg4aldYekQ2MzRBWlh5aFY1RTFjdWRlay0xekJtdGNFZXl3V0NpZHFhWG5Sb09YZGNvMjdRVi1nRkFHcWppQWZOYTRjVTYtejUzV0dhNlpscG9MVFRVcHpBNE1uaHJSdjI?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BossaNews Brasil"
+    },
+    {
+      "articleId": "gnews_608d2ee08194db76",
+      "headline": "Maracaju registra cinco casos positivos de dengue e chikungunya em outubro - Hoje Cidades",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T13:55:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2ZwTm42NFlXa3Q5bFViMTNTTlFOdXhMMjRMeUNXRnM2cXJVS0ZhajlocU44MjVWbXNSMW91QU9DVm5qTUhEVzFwUURjaDU2Z1FJV0lkTTBIOENQeXRjMFlZVjVfQkJIVk0xTHJOdDU1MFlSTFVodk1mSmZNRFVDVlRLZmtNcEUzMGdsRGdNVzFZMHJuVkYtaW90cThvTkx2Nk9qdQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Sergipe"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Hoje Cidades"
+    },
+    {
+      "articleId": "gnews_7bf529e9c83ca987",
+      "headline": "Amazonas reforça ações contra o sarampo com a implantação de comitê de operações - Portal Mário Adolfo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T13:47:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlV0RUlIUjhfLUdBRjJvQkVUdUY4YWN2QUxtbjhJdnRfQUpuSC1vQ1pUcEJlRjVVeWtCVTJ6MDhjd01kY3RGanpRQ19ZaEFaMEhkeDhDWXZPU1A2SGNSMEZidGlXdjBMX1lzS0ZLZjY4LVdFczRjclJQVWtiU0hVWTI4TnNaamN6YkVDX0lKRTNIMzdJZFVLU3Q2X2pqV1I1Ml9JeXZsd2Jrd25USnFmWGtTVEF6czJzY1E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Mário Adolfo"
+    },
+    {
+      "articleId": "gnews_dcaa0f92c9b5737d",
+      "headline": "Embrapa researcher urges Brazil to monitor bovine tuberculosis in humans - Dairynews.today",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T13:35:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUm5ZUU1lVjVnRTJKVUFVM1N5clBTQ25pcjRhRUc3aGVHZEJXeG5OMHJtbGJ3RnpvdkYtS1dXNmpmdTZDdDdNSThyTUJZeVpoS2NzOW5Wdk40NzB5eklpakZJTi1XczI1MlctODdOcF9ROVZzcVdZdVU4YlBSczJ0THRwQkNSeUc4ZkVqZVlyTDB6X2JMNkJzSi1RV3FCMVpHZ0tPUGlJMVh5MmNtNjhWUjJ5UVNjVFJKQi1DMWZB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Tuberculosis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Dairynews.today"
+    },
+    {
+      "articleId": "gnews_66cb04f2d9e2f789",
+      "headline": "Gripe aviária mata morador dos EUA após contato com gado infectado; 33 rebanhos têm casos confirmados - CompreRural",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T11:32:58+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3hIUFdDZkExSDh3X0t4cUpGYnZrQVhhSnJXTFhLMGdPRl9ZdUs3N0dCRmRuWEhOX21MNDFPT1NVdTRQZmlYMHpJdTJ2RUdQUWI5dzdJLURXLURuM3FTV3JURWk1UWlfb2Z1eU52bUFoT1psNUNQNC1xd0g0Q2MwaTdMRHJyYmNpSFNuR3EtVUw2emh5UzA2dG5OQlV6MjV4aXF2Vm1FOUFhTEo2aFBRcEdSZ0ltektGSVhnYmVEZFBLbHYzckE0Ng?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Avian Influenza",
+        "Influenza"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CompreRural"
+    },
+    {
+      "articleId": "gnews_4a713a2620866bee",
+      "headline": "Ministério da Saúde projeta alta de até 40% na dengue em 2027 - TV Sim Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T11:30:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXRRLW1ka0kxN2RndGh5bjdfMHRBQjZOeWN0NFhGR1k1NzZyQTJTRFNOOEVfZEUxOF9rS2k0Q0lrU3oxZDkxNTM0SVFwLVFkQ0ctY1RhMkduMFhMSWJNbXFYTmFjbm5uYnBJODFBblpUODVHVklyLVNvV19yZWVvZ0VJc3JueTZ5Y2VJY015bjZsSW5NU2RnamFnVGVELUw2dEYyeVlyT3h6UzRYdFVjUkhR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TV Sim Brasil"
+    },
+    {
+      "articleId": "gnews_63257ca9aef41ff6",
+      "headline": "Livestock Biosecurity Solutions Market Size Report, 2033 - Grand View Research",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T10:38:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVJjYVprNWo2d1d5bU9lX285dV8xVnpRNVRpeHpHa3czWVZpSDNPT01CMHJkZnJsQjBhT3BNRm1xMzhTeVJqeGlYQ3pMeFdtNTNxZmk3VElRcVNTWUdkSUNlSEZzX1M4aVJYdm5Pam1JQ2xmVW9iakc0ZWRwMktvZGRNaE5SQjdpUUd6SThfVzJRUWl4RWJ2V2JjbVZHQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Grand View Research"
+    },
+    {
+      "articleId": "gnews_f071e9a85f3687ed",
+      "headline": "1944 – Governo anuncia extinção dos Baianinhos e do banditismo no Sul de Mato Grosso - Midiamax",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T09:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTE93V2ZlVVQtY3A1cklBUFBXU1JwVVJEQ3pyaTN4Wk4wYkwyUmN3OUhsYjNpSjdsbm9XdnhYM2RwX0FxcHZBS0E2Ui05cXNqT3lCN0FaZHlUcnFZdUdYSGItWnlMRTNKME4zSXQ2emU1NExLNWxBaFJ4dzVtRnFlaG1lM1FudmJJbXZsVHppeU9yZzlUOC1mNHljeWVPZEFmZDlFZjNEanZ4Y1Q4SDVFbkxrb25zeGMy?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax"
+    },
+    {
+      "articleId": "gnews_57ca2d9e61ebf5f8",
+      "headline": "São João da Boa Vista acumula 584 casos positivos de dengue em 2026 - Jornal do Parabrisa",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T08:10:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42OVBScXZsaGRtY0ZMY0tHRERQWVlodUtaN3dsdklEQUpTVU5mbzJKX1B3d1ZlOWl1UzVfMHQySlowamlFZnBlcXp6UmpYeXluVUc5Sl9YblFFbjg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Roraima"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal do Parabrisa"
+    },
+    {
+      "articleId": "gnews_78a3e5c62f85bc24",
+      "headline": "Foz do Iguaçu vistoria 4,7 mil imóveis para identificar focos do mosquito da dengue - Prensa Mercosur",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T07:59:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjRSd2JyUjd1S0YtcGlNTzVDcGZXbUlPQ1FCQ0ExWEV2d2xDM3ItUzVTZGZuMThoZHB6cFo1dnJMcTY2ZjdSVWhIeXZ1T01iNmduRElmRTRIUHZ0clVaSFJWQVk3UjdvZmREclNnU25uSEpYel91aEFkemtMZUR2RG1VWEVDYkt0Y1ZMWkFNTHNOYldPOXp6c010TmMwajdFTFFQc2NYb2xlR1I4V0YtQ3YzOVl1cHpkRVBzWURR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Prensa Mercosur"
+    },
     {
       "articleId": "gnews_f2b7b2cd9430fc9d",
       "headline": "Campanha de vacinação contra o sarampo em BH busca ampliar cobertura - band.com.br",
@@ -55,13 +387,13 @@
       "sourceName": "band.com.br"
     },
     {
-      "articleId": "gnews_6ff4e5be3713a936",
+      "articleId": "gnews_52f5ad289534584d",
       "headline": "SC reforça vacinação contra dengue para adolescentes de 10 a 14 anos - Portal do Holanda",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-05T02:14:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGlrdVk2emlGa2o0M1dWNFZVSjJTcjNxNm4wZy16eGh3dDhDOGhDaHI2dTRiQmUtY1JhZGZIYkdZV0xPVnhROG40NTdqemZRWXdZb29ZamxGX1c4SjYwcFhyLXRLUXluV2dGZkV0V2JfdEtZdmYtUUk5bGtpcWU5TFpqT2M0akhXWVIybVJfdkhJT3UwOGx0YS1pdkNLcXllc0RSS1JnN2Roc1RKVTJfeGNFMlgzdUhkVnlYTDljZw?oc=5",
+      "publishedTimestamp": "2026-11-05T03:14:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmNiMnpUbk5DWllIZUhtV25XRzRzS0Y3T3M2QmZId1VXVFlKTWxJX0Y0dVRSRUVwWjV0S0d2cDMwTEJ5a2tKVzkzWjN2YjV4ZXhKOFlNU3RUWElSMEJObk1qMXdwc1pXYTcyQ1FRV1ZMOGo3aGQyNklpNGNWMVAxTXVFYUJGc1VFYVQ2bUhaendRYk5sVVVqdkhTUVdhTTZFTjBpbTRHT1Y5SUVKZHA4aDJIQjYwS3ZS?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -91,6 +423,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Imprensa 1"
+    },
+    {
+      "articleId": "gnews_3cfb1acd70336d4c",
+      "headline": "Fãs relatam casos de Covid-19 após shows do BTS no Brasil - O Liberal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-05T00:02:42+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzhELUJTUzZETmdlNDlGSDJuVHJqMFptUEVCTVQyTjFyLUFYbXNCZUs2bFNJenZNT2dqTkk4bGdjblo3VTU4dVhYelAxeHlPbEt4T0RvMlpJc29ONmduaUZNLVExZjlqbTZXeTdYNmJya3Z5cUpEem5DSzF3OE43Q3hvSFJadGhZNXN0Rk5WUkpkZkZFbFZRVk5jd3VkT3U3NEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "COVID-19"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Liberal"
     },
     {
       "articleId": "gnews_4567058ab511b7a9",
@@ -125,8 +476,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Portal do Zacarias"
@@ -183,8 +534,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "D24AM"
@@ -207,25 +558,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "AM POST"
-    },
-    {
-      "articleId": "gnews_484208218b2e677b",
-      "headline": "Governo de SP leva ações contra sarampo e fiscalização de álcool e tabaco ao GP de Fórmula 1 - REDE BRASIL DE TELEVISÃO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-04T22:10:17+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEdacE9wdk5mQ3g3M1RVaDctNlc2dDRCOXJQM3ZZcWlOcTVoMWk4NlhVRF9tTC1IZi0tYTZuS1ZCZ0Q3Z05YMlhmWk9IYjc2dXRuRzRTczg2YUwtaTdHeUh2RVZLejB2SzZBeW5LVE1QR2s3cUpFdzlpVlR3ZEp1R2htN1pPbnRVODhtNzBBZnB4TzVOWjZabVo5N1F3Xzlhd3lxUGNwZGpVMDlYc29sdW50U2p6UGpjU2lGQWdzemRhaEZy?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "REDE BRASIL DE TELEVISÃO"
     },
     {
       "articleId": "gnews_ffd73631f9d20e9c",
@@ -283,27 +615,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Estado de Minas"
-    },
-    {
-      "articleId": "gnews_236d614c0923a8ab",
-      "headline": "Comitê é implantado para reforçar ações contra o sarampo no Amazonas - Portal do Marcos Santos",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-04T20:59:02+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTBMMzNzbVBPN1JWUlBPeU5kX3FxLWtqZmpybkNvNzFGMFdreWZmeWxYd0ZmUDY5OVgxNkFhWEkxQ2xaQ0NrWjQ1dFV6MTY1QVNTLW84U0oxQUZ4dlhTUzNacEJZTnlTVFVHMVd3YlhJdmhMQ081QUs2dWd6ZnRCdXFMQ0hDcFpueXJSQUJaMEVjTWJ0Sm1taG9DZUJMN2FyUFJySGFURy1rSHFjTXRMbjFyTy1hWENVRHc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas",
-        "Pará",
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal do Marcos Santos"
     },
     {
       "articleId": "gnews_14d4e6e396dcbedf",
@@ -458,25 +769,6 @@
       "sourceName": "CNN Brasil"
     },
     {
-      "articleId": "gnews_67202bc4754b63e0",
-      "headline": "Ministério da Saúde projeta alta da dengue em 2027 e quer voltar a usar vacina do Butantan - Repórter PB",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-04T18:47:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1ZxeUpBVGRiYXg5SngxZDE3elMzcXNkRkNUQ0JuYmN5WThZUlJpejRDVVJ3d1czaWdEX0tRRHFvVjdWUjZSSDRsemRmeEM0c2ZVU3dZd3pxUHl2XzRUV1hPNGdXcDJFeFY3Q3FNOG9peHo3dnBnWUw1dEZoX2ZJYkFwMmJFcnZFTHU5bEk3aU1IWEVlY1Brb3JtUnM3MXpwaWp0T3hhT0h0bVl4YlJFeWFzbDlERWk1QldPa3RoZmVwQi1lbS1idFNkSmlIVmozVHJybUtvV1ZBWGhpZFpKVVhnSVpIcXN6N2Y0NGJR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter PB"
-    },
-    {
       "articleId": "gnews_05c6475ef7702d0d",
       "headline": "Brasil registra 665 casos de Mpox em 2026 - DOL",
       "headlineTranslated": "",
@@ -494,6 +786,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "DOL"
+    },
+    {
+      "articleId": "gnews_a336618a71e46a73",
+      "headline": "Clima para amanhã em Belo Horizonte: calor pela manhã e chuva forte à tarde - Portal do Holanda",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-04T18:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb29qQjZ0NEdVeS1adGRGSVJpVE9LMUVOcTVzZXljSmFBM0ozREs2VGppazhRVHB2UjBySVhtSzNpSzdWZkpDQVhRMy1PSDJxX0E0TnR3NjktQ1lVdWI0ZlZkV1lQSm5vNWl6WGRFekxhQ2ViN3hic1Q5Vll0MDJ5d0hfckw3Zm9KT0FEelUycm1qMzY0cDhsTGpVT0tTYmwxTVZYRGRKRlZUM19NRHJYVnBpbW8zZDBTY25VMUxZQWpIRUtWdUI5TA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Minas Gerais"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal do Holanda"
     },
     {
       "articleId": "gnews_806db3cde6110141",
@@ -630,6 +942,26 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Correio do Estado"
+    },
+    {
+      "articleId": "gnews_01012a1ab9a77d51",
+      "headline": "Paraná implementa método Wolbachia em Cascavel, Ponta Grossa, Cambé e Londrina - Fiotec",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-04T13:47:59+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajgzNEVNVVk0NldULU5GMm92aTNiZE1EYzJGb1pWaUY2VWdNbUMxRXpYTjJJbzZCa19JVXVEcDg0Q01Ga1FMblVtOG52dEhMZmkwMUFZZ2tadnVWV1VNd3JLaE1tcDRYZHhBc1MzYzVjRlJzTTEyVEtSS1c4Umd4RTlPR2lzRzE3Wm5sTEtGUWhJNEZOMm1DQXBFbWliS0FXTWUwQlFleU9DRDF2aHhVZU5pUlFnT2tsRDg4QmZka1JjM0NfcVE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Paraná"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fiotec"
     },
     {
       "articleId": "gnews_5beb39f3b032c86d",
@@ -860,46 +1192,6 @@
       "sourceName": "Prefeitura de Aracaju"
     },
     {
-      "articleId": "gnews_e6bfbdc8d8b43b17",
-      "headline": "Gripe aviária causa morte de morador do estado de Washington nos EUA - Prensa Mercosur",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-04T03:19:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVZmQlY2U2g5ZXc4Ri1vYnEtTTBOb1prNTFkWUtVOWx6VWliYXZuTm0xZkdvbmZoZHFncUJocFlQU2o2bExETGw1QmtmVmc2TEdkQmNyNGVXcXpYbmZKc3hra2x2U05USjBacnVFTmVWNC1udlJubFJXRXVXelpBTjB6WnA4b1RHMG05aWwxZzZlTlpEbElEZk1RSDV3R2xHOXVfY1l2dWFyOWc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Prensa Mercosur"
-    },
-    {
-      "articleId": "gnews_b1df1b705ede458c",
-      "headline": "Quatro cidades do Paraná soltam mosquitos com bactéria que bloqueia a dengue - O Cafezinho",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-04T01:52:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmVFZHk0NFdFR2FDeDZENkNwZHExTGY2ZGYwcFpub0FMc3ZqQ2VMYm5OaWpvRGRiUE9FRGstb0pBQnktRWMtczZObjVTejdUWm8yM2xwVjVPT3JZdnAyUHpXOUp5X0dKWUhscTRNcDZ5WGhiLW1LdDdPeXdBYXZfTHJQTG5IS1RMY2NSdGhFMjhJenNmZkFqeVI5eUQ5SFR2UFZzVE14ek9oTVhja2diNk8yeWZEd9IBuwFBVV95cUxQVENDNkt4NnIyclo1UlQxbG9ONEZOVDB4VXJhUXd3bEVxZ1VlWTdBNUdJZDlabXNMeHNjTWU3UWlQSWp4MmpvQ0NfLTZpTjBaa3k3Rnh0eXRUYkRVQl83ZnpmSDA0N3czcENBekw5YXEtVEV0TnJmMU90OTZjY0pJLUxNNTBCVExYZkpOUFZBbkViODRQTjJNcGRBN2NwU1BIUE5xOVpCcnRFUTE5Y1FWZHplZkpyQlo4VEFZ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Cafezinho"
-    },
-    {
       "articleId": "gnews_bb062e9e1ea7be86",
       "headline": "BOLETIM – Saúde reforça importância da vacinação contra a dengue em Santa Catarina - Real News",
       "headlineTranslated": "",
@@ -936,6 +1228,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "BH 24 Horas"
+    },
+    {
+      "articleId": "gnews_90c132b054f32781",
+      "headline": "Temporal Trend of Acute Flaccid Paralysis Notifications in Brazil: An Ecological Time-Series Study, 2016–2025 - Cureus",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-03T22:55:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlBXSmJnYVQwUFVja2JUMnZFR0VPN2h1aXZqRlQxVC1MS2NTNUx3X2NodnZzSHlPaVh3T0ZvVVhXaHREYkZuOEZ3LVNZdHBzUWJneGFUVURmblJLaHMyZENaVDB3eDdiS2t3aVlBVXZsTHhyWWxjU3ZmSnJ5RllVenlNQW9nOExuYW9EYlU0TlVfNU1LM3I1UGNnQy1MYXhJckZIY1pYcmFBY0NBWVNBWnFUS090cEQxSUJjYkhiQzVYQnhIejFybFNic2U1QTZ1aFRhbzUxanc0R1dqU1hV?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Cureus"
     },
     {
       "articleId": "gnews_ac5b094824e2f4e6",
@@ -1072,44 +1383,6 @@
       "sourceName": "Portal RBN FM"
     },
     {
-      "articleId": "gnews_a892afc8beb70c8f",
-      "headline": "Mulher joga gasolina na própria mãe e tenta colocar fogo nela durante surto em Goiânia; veja - G5News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T19:28:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkh2aXJyVHFfQVJiLWYxMTJFWUNYcHdOZ2xwdFZsZEhCdFU0MVI1cE9kdXMxdzhIS0lESU15cVJKYnN2dWF1dUJzbEhWUE1mejByUjhYaG9xYVlXSjJwYXBGc2NqeG1pNTVFVEFFOFdoeVJvY0RjN1hJXzRvUXc1S3BsQ1ZSdlFTZ1VrQ01wZDZxSGlEQ0RqQlRBbXB1V2dsWC05cWZyc3dVSEEwbU5YLWZKNm9ob2lIWGxVbzBvNFdXWVE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G5News"
-    },
-    {
-      "articleId": "gnews_374fca843f76219c",
-      "headline": "BOLETIM – Saúde reforça importância da vacinação contra a dengue em Santa Catarina - Grupo Portal de Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T18:48:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmg1SU54bi1FekVwNzFzRWhEUGlzaEdTdjdfbG1jbElOVVoyTW1LVE9WUHdpSGsxeVFBNXhlVjltdnpGZFY4Vld5WlRETFdYSWJYdG9sdExIcjRIeU5yWHNLa21XMHpScEFKejlmMTN3cmlZWFAtMkRETnFmMW53TkNxVFc5RVR4UEhEaEJvbWNGYmJrMlVVVVFjSEx2UUlTSmhfSjN1MHZiSHNGMWhuc1FwM0dMaFItTUE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Grupo Portal de Notícias"
-    },
-    {
       "articleId": "gnews_5cf9de79987544a9",
       "headline": "Amazonas reforça vacinação contra o sarampo em municípios da tríplice fronteira - Dia a Dia Notícia",
       "headlineTranslated": "",
@@ -1184,352 +1457,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Impactto News"
-    },
-    {
-      "articleId": "gnews_cc90dcd4d8595cda",
-      "headline": "Paraná implementa método Wolbachia em Cascavel, Ponta Grossa, Cambé e Londrina - Agência Fiocruz de Notícias",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T16:24:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEI1Q2ZHSlJrMlFHMnJub2hkT2FxMC1SdjAyNEZqaUN5Wkl1QVA1NlpYYm0wamhwbFJxbWpzbzJRcHJpdWhkeUNBNkhrVm1ONlk1eVIyeFE0STg2OWh0RDFSWHp2NUNoaUVzSFBjbUZvNHozYnFhejVXMWowcDVmODZXZm5kRHNEcDdqbW4xVGMtWTkzUDNQODRxdWk1cGxrWjRxajV3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Fiocruz de Notícias"
-    },
-    {
-      "articleId": "gnews_eeae3f77126d607b",
-      "headline": "Dengue pode atingir 1,7 milhão de pessoas no Brasil em 2027; veja como se proteger - Diário Sul Maranhense",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T15:15:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXRUQnI5MWQ5SkxuVlY2MEhzVmR6bXU2YzB0a2p0QVZuUjJUSkUtREJxMGY3RFpscFVMS2lRUzVkd28tcktsQzhDV2dmcDZpTDFLVlV1ME5YbXcyeEFCcFlpY01zRll4b0tadm12NkFlYUpzVzIyY1J0YWVWazZsVmtKM3h0emQ0c0lpeE4yN0Z0X1NJaE1PX1ItUHJ5SG5HRkI4bUU4SUhfMnM2Y1JOYVROSVpkbVBKWENsblpWX1FfMUVXYXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário Sul Maranhense"
-    },
-    {
-      "articleId": "gnews_2c2d68cc3d639dbb",
-      "headline": "Amazonas reforça vacinação contra o sarampo na tríplice fronteira - Portal No Ar!",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T14:45:47+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczZobC1IZjd1Y3hQSm1WMGE5QlRWYXNCOHIxMUVHVFVzOHBfZDdjekpZb05XNHhqd0w4cFEwU3VBR2F6TGk2ZmF3VjVscWRnSXFJRWIwZTQzZ19LbVdWbko5RlYzS0F4TEdLQ00zbmhMdzctQklzcURPNDU0dWJnTTVnUi1PaVZ1ODg4bnFDa0xGb0I0aE1v?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal No Ar!"
-    },
-    {
-      "articleId": "gnews_6995b4827918eb13",
-      "headline": "EUA registram 1ª morte por gripe aviária em 2026; Brasil tem 188 casos - TV Sim Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T14:42:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTlVRnN0X0MzaVZkekpfMWwzU3dUdmk5Q3huTy16U3RPa3U4LXEtTVFiMDhKcGppbmJlS3FjWWhuLXhRNGFkM0R1VzNZU3hQRkxyTnd4OWpQQnB5MDhIeDVJRUxVSGdOQ1FMUjhuV3AtY2x0UUk0VEtFdURyd0lyeWR5X0c0ZTFIYnR3LUc1NVdWY3JaUER5QnpGbkd0Z0dMRUlFVHVEVVI5QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TV Sim Brasil"
-    },
-    {
-      "articleId": "gnews_a327486e54eddfc4",
-      "headline": "Itaperuna promove vacinação contra sarampo, Covid-19 e gripe - Rádio Itaperuna 96 FM",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T14:35:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjR1WUVldEIzdzJtWTVGTkczdmxtSUtPN0lGNEVrcjg0TUhycWxjOTVXMWdncXFlV0dVNDhYZnk4bGEydnV3MmVDdWhfNjBvRzBhNldsazhpc203WU55OEhrMjg0MnJqS00xOGFoM2JaLWV4dEJ4RWVZS05NY0NfSjhhWnh2Sm1mdElDUE9WLXZuR3QzSy16UEJIZ1ZWWWt6WGJndVEyaEFGTGd4RnlQaEswRDBHWFoySTkzSmVhSFU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Influenza",
-        "Measles",
-        "COVID-19"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Itaperuna 96 FM"
-    },
-    {
-      "articleId": "gnews_f23ece868ac7ab72",
-      "headline": "Vacina contra a meningite vai voltar para pessoas até 59 anos? Veja como fica imunização a partir desta semana - O GLOBO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T14:13:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZXVNVnVLbGhsOTJrbmtJR0l5dHZvdTNRVUNIeVEwQXpmd1hjZGxQeVRwbDlCSkRhdU5zVXpDWWowdjRvNU02Y2lNT3gycHZQXzRqYTJDR2doWGxZOWN5bEFFc3BlZ3RBM0lQTjk5U2l5VXFOQjEtZE5WUmRMbTJHVWVLUVlzSkpxRXBhUzd3YnI2b19oUEZHMlhZaTRiUGRZUmtSd2pNZ0dva0pfcnNvazkwbVc1N2s4RWxCWWw4STdGZk9tYW9fR2NXWHlMMkUxZWVHSFlrX19iODVwMUs3aHFuUzd3QlNPbGh1THpxYlBrWURDbGfSAYQCQVVfeXFMTThOX0RLVkVoWDR3ZUliQlRTb25jODFpSVhfQ0hoZXVUalZGSkE4bFRFak9YRkM5Q0JSV3BLWjhYSFRNSlhYYXhXNGVPU3FoY1Frd2hUVFlqbEhkU2Z2VUpVLW9qMjNfUVNUeFEtUnVxWTRsVUJOTWR2UEo5SVN2WHlLYnRBZU01ZW04d0tNeHMzQlpWTU1RN3F1UjNnb3Q2cFlTMkQxUGhKR2dzeFQxVHVoSDgwMHJweTBTTmcyWjZMeVlhWGw2OTkyZi1LbDVOaWhhTkVHRnp4SHpCUTFMVHpGZldBaUFHUnEtaVJCdlBwLVhLRDMxOTJNMUkxdVo5TElWNG8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Meningitis"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O GLOBO"
-    },
-    {
-      "articleId": "gnews_f23ba727b90bef19",
-      "headline": "Vacinação é aliada na prevenção contra a dengue em Santa Catarina - ND Mais",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T14:10:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3FfUlhCSTNNa09FeUI0X1RkcndyUWU0cHh0bXZGSXFvcXFMZVhLeVVYeFVNMWtBMmlnMS1kYU5SLXBhMFBxZmVQcFNaR1hCMDdKTXpQYU9yODllT3R1QjlmbmhuSDlyWk1ZRjk4UVJsVzU3dmVEVloyMGFWZVNpRE41eUxqSDJKaUhZek8xRzJ0VGZNeW0yS0NR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ND Mais"
-    },
-    {
-      "articleId": "gnews_731d6d53a7b21b3b",
-      "headline": "Adolescente em surto morre após ser esfaqueado pela mãe - Alagoas 24 Horas",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T13:36:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTFiVEZZVXRjdVZYZ21fWXpJSTZUaXd2UEJNZ3JicEZCOUI2MkRDVXhJOWFQU0prVHNXMlZlazFCRHhOQ3FxcVBoQkRCdXBSUi1ha3VRUGJfM3VMMXdmOU52X2JwTmEwZnpFRGRvVldobDRQRVRSalVPMHB1M1VETi1ydjE5QnYzNHBMd2VnLXpDMkFRa1pJM3A2VUgxQk3SAaQBQVVfeXFMTklRZ2M5NDRUTVRvd1V1QllVbjZpN3JSWmFzOHpGMk4tMjhxWVY0ZUhScFgzSzFRRkxUbzZWYzRWWE1NV29aUWJwS01yX0VKUnNPdFc0TjdPOFZfZ3lmVzNIUnNSSzlRajhNWnlXanI1bDdaYWJ5UEdWcEhSYUVWVFgtMS1haExLc1ljYmxMRTJQM2tYWnhKTVdqRktQQmdqRnlwcWY?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Alagoas 24 Horas"
-    },
-    {
-      "articleId": "gnews_75560aa29e64ff4a",
-      "headline": "Dengue em SC: vacina tem baixa adesão e Saúde faz alerta - sctododia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T13:28:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjFkQ0R1ZmJPTEhCRmJ0ekFkTjl3WlpLVXlmTFljTzZibmhEeTJ0VG9tTnVvbUF4VUxTUmg2VUM2SFZseERzR1F2NEY0SGV4bXVRQnRNSl8xUl9zXzVCWjc5NWY2UW5NaG9tbE9aSl85eWJ3dEt4TGhROXRwYUxiQmgwNUpBM0tnWEE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "sctododia"
-    },
-    {
-      "articleId": "gnews_c8374f20980d245b",
-      "headline": "Amazonas registra 21 casos de sarampo acelera imunizações; onde vacinar - Portal Você Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T13:01:59+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUM3cEo1OW9wbGJUZDBuZXpaekN5bm9KOFBtYzVQSXppeTJTS0wtZGJGb2FaYm9FU3ZnTFAtWUhfNlZDRk14ZEJJVXFWTkpYOVdaSHNGV2dCZ0tJc3F0bVZQY0M4dVdYSUxaZnZQLUgxQ2tnLWcxYk5xdE04WDdkX0kxWUlNQXdORk1CRUFFbUdfTG13X0RmYTZR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Você Online"
-    },
-    {
-      "articleId": "gnews_105e579278246f50",
-      "headline": "A 50-year-old mystery of vanishing frogs reveals a hidden killer - Science Daily",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T12:53:32+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VODI5RzdiS05oOVowOUhRVExUay0wYmVqNXRCUnN2SlNnVTlfenZhdkdvbFBoTkp0eUExakgwRm1BY29KUDhZWlhvMk9nRUZ6MXg0TV8yNEVXakcxS2Y1bjViSENwRzJPQlNwTFlqRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Science Daily"
-    },
-    {
-      "articleId": "gnews_44d9662944df9bfa",
-      "headline": "Santa Catarina reforça vacinação contra dengue antes do verão - Agora Laguna",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T12:42:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2FKWVZwcm8tdS1sV0s3MzJYd1daQ2hQWG5FbmpMUkpCZmVqdGEyR3hnN1lTOUhRaWd2NV9rbC1TbFhsRlpqVS1TeGtSbXBaa09Fb04wejlfemJ6aV92NW5MS2syT3RKdWdUU05YeXp6SndFMVRXcV9VeU5UN1F2d2o1djR6SzNleW1RU3Z5NHczX3hkYXYzMk8yQVd0QQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora Laguna"
-    },
-    {
-      "articleId": "gnews_4327384c343145c8",
-      "headline": "Baixa cobertura da segunda dose reforça alerta para vacinação contra a dengue em SC - Rádio Mirador",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T12:40:12+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjBEOU9KWlhBcFljNXdXdW9Gc2g1YS1GTVhyeWc3aUMxWVd1UGtzWHFGXy1jMTcyY21pQzQ5WDBkTkZzeWxTRDc0QkdFaTZJSnlyZ1lWRXZ4WEtrNnhRemYwU3hmMWMyWTNOc3hsN25sc3VGS2lCQkZVRkRjY2JpSHh1SzByVG9Wa25QRDh1NnlzU2J5VldkTHdvN1k0QUUwRkplTGhKSlNwcXFxUEpfNEhR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Mirador"
-    },
-    {
-      "articleId": "gnews_77b1902b52a21a1d",
-      "headline": "SC registra cobertura de 27,45% na segunda dose contra a dengue - Rádio Centro Oeste",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T12:39:30+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclFYSlJUOXVOMEpsMFlfSGJpQThBTFFMZWxrSG9wWGtYTU1ha1N5cTBsc1NYUGR2SmloenVEVzA2VGduN3M4dUVuLXBZM2dnS0NRNUNZVUFTcC1NUkJaYWpkVDd6MjRiLUt6by11azMweW5SOUFhZnJGeUU3NFZZOXNhazR5MTdWQ0pLdTY3WnRvOGw1cEFZZGZlUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Centro Oeste"
-    },
-    {
-      "articleId": "gnews_0832ebbe6f330947",
-      "headline": "Saúde reforça importância da vacinação contra a dengue em Santa Catarina - Rádio Araranguá FM 95.5",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T12:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPek9lUzRxOXA4WmtFQ0ZzQmlLd1NvT3FhMllQLVZibGlDWmhhcWlQVWd6YkdzS2ppdmNwenprSEpGZkRzXzFLS0RQTkwxc09WazBnMk5zUkdFSTdiclYwTFF0ZTZFNVF0ZjJ6UXk4LVVPbE5mYU96MHRXT3F4QVBtcVV1WXItRFpleUI1UFpsalhla25YSlg4anZCMGpLOHI4eS11M2Jn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Araranguá FM 95.5"
-    },
-    {
-      "articleId": "gnews_34f7a7cac51a5230",
-      "headline": "Amazonas intensifica vacinação contra sarampo na fronteira - A Crítica",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T11:37:30+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEpiaVFFR0o0dERxMGlRWWE4OGVkQmZPQzBOS25WRTdQbUVEMTRNdjlxWGU3bGltbTFjUHBPMmZHbHJ2UVBTcVBUbk1wV25WS05oQnZWbk5kQW1uWm5HNU1wQW9vVkthazBKaVR0enc3ZzRTUDN0VEdna21pWU9yRE4wZEU2b1haR2RBN1hSV3NYTGhE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Crítica"
-    },
-    {
-      "articleId": "gnews_854cf5fe7bb3e95e",
-      "headline": "Aumento das temperaturas contribuem para o avanço da dengue no país - TVTEC Jundiaí",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T11:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFZmVXJhOTlyYWZGXzk3bGVCVkNkVXdMQ1ZTY1Ytb3BHTWNTTnJoX1JlQ2RfZ21zVmg5WVVpRHR3N2NXZ25EOUNjTVFjMXQzampWUUR0N1lNbXF1aTdRZ3YxOVRhY2dzeEdpaGpnYVNNZEM0aU1GSU1yNEFVNHZhSEpZc2tEYmt2MnpfMkZhVTdSWUluUG5felF2cFpJRUpUdThYNlVLMXR6aDY2aVZsM19n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TVTEC Jundiaí"
-    },
-    {
-      "articleId": "gnews_228b07bda90d45ab",
-      "headline": "Nova York registra primeira morte por sarampo em 30 anos - Diario de Pernambuco",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-03T09:44:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjJFVURVTzhiSUVVQjRsVTh2MEZ0WS14NFpqYzhGOVJSbnFwT0pKZjRsVHNlX1F3Tml5a2I1OGh0dnpUdk1nclVXOGdZaUs5SVpaNTdyNFk2bWRGNEVHQ1RhaWgtcC12Nl9YeVB0aXRPZUdXVFl6enotNGc0T2phTktiYnFiMldxTXRWbHM4NGppOE50ak9uZ1JmVnlMTWhsWXVOT2c4SVRKMUtEWjFIam8zQy0tVnNBMGlueEpVSQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pernambuco"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diario de Pernambuco"
     }
   ]
 }
