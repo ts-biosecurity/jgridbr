@@ -1,36 +1,155 @@
 {
-  "generated_at": "2026-11-10T00:33:20.938555+00:00",
+  "generated_at": "2026-11-10T08:13:12.897357+00:00",
   "date_range": {
-    "start": "2026-11-08T00:33:20.938555+00:00",
-    "end": "2026-11-10T00:33:20.938555+00:00"
+    "start": "2026-11-08T08:13:12.897357+00:00",
+    "end": "2026-11-10T08:13:12.897357+00:00"
   },
-  "total_articles": 109,
+  "total_articles": 111,
   "state_summary": {
     "Brasil (estado não identificado)": 49,
-    "Pará": 43,
     "Amazonas": 22,
+    "Pará": 46,
+    "Santa Catarina": 1,
     "Rondônia": 1,
     "São Paulo": 3,
     "Distrito Federal": 2,
     "Roraima": 1,
-    "Bahia": 8,
-    "Mato Grosso": 1,
+    "Bahia": 7,
     "Mato Grosso do Sul": 4,
+    "Mato Grosso": 1,
     "Acre": 1,
     "Minas Gerais": 1
   },
   "disease_summary": {
+    "Dengue": 57,
+    "Measles": 28,
+    "HIV/AIDS": 1,
+    "Meningitis": 1,
     "Doença infecciosa (não especificada)": 7,
-    "COVID-19": 1,
-    "Dengue": 54,
-    "Measles": 29,
-    "Mpox": 13,
+    "COVID-19": 2,
+    "Mpox": 12,
     "Chikungunya": 5,
-    "Chagas": 3,
+    "Chagas": 2,
     "Avian Influenza": 2,
     "Influenza": 2
   },
   "articles": [
+    {
+      "articleId": "gnews_5570dd897e9fca91",
+      "headline": "O mesmo clima pode ditar destinos opostos. E assim floresce a dengue - Público",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T07:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkJyblp0YVYtQklrd2lkNUt1RnRSX2V1ekNhVC1FbGdKcDVBOVE3clhIVm1NOS1PN21EbUlZbzdBMC12X2E5UE1vcmFmMHl3Z1A0RzZEaXFpNTR4dnNyVUF2bEZYUFMtRXlUU2V4RTA0aTBHYmtKNXpEUDZVdWFaWFN0c29feXNWSzJzOGVyYTgyZ25lOEZkZjFKLTA1TGFRb1IteTlJN0VoUUV4?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Público"
+    },
+    {
+      "articleId": "gnews_066a9b3e84373040",
+      "headline": "Vacinação contra o sarampo mobilizou quatro municípios do Amazonas - Jornal Diário do Povo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T06:39:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWldIWmtHamExWkJwT0VoQVBwUk5mYjhNRGtMVlNRWHBIR2s1UXRwN2xZcjRVakZzSWUwSzRaT0wzbm9BR0dQX1lyNmNxdnNGM2RyNzdJaG4tdGZWazJveU1XZlFDQWZRQUM2a3pIdXRRaGtsN3VMVXFxcEU2UmVLaFN3eTI0d040RTdDeXJGd0d1OHlfQWlFQWhB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Diário do Povo"
+    },
+    {
+      "articleId": "gnews_29e10fcab392b851",
+      "headline": "Santa Catarina realiza seminário estadual para prevenir surtos de dengue - primeira página sc",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T05:25:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZnlWMDNlSEU4ZzJ1UG9OOEQtVXpXMDFuVnV2MFdDYW1QSkswbnhXeDlZMnpIclBlS1JnaFpNMy0yekRwYS1EN0w3VFRjRGxTZFlZSTdmTmwzanViNEpObkFuLWExYS05Qm5Lcjd2SFBSZ3R0SWVHbWZscUwtSW9PSHh0c0hhcWNMZnhUVzhSQmhrcURNTVZza3lyU2FrclZJV3A1QlljZnJfOFJTVXlFNTZFUHZIMjcxb3Q4VURUZkJBaXIxMkNWMFljTHMtek4wZElBTXpLSXZKejAySjFPS1V3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "primeira página sc"
+    },
+    {
+      "articleId": "gnews_39954d1c7b0d8841",
+      "headline": "Cryptococcal Antigen Screening Lowers Permanent Disability in HIV Patients with Meningitis - Bioengineer.org",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T04:39:01+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlpWa0VQLUxUd3czeVMwenJHT3JIbmx4YzJRQWNacWRyU2NJdEpNTGwwdjZ5WmdISkJOdTNrV1VudDhOZWNhNEo5YjVLSm9GSzFwc2JpeVdiX0lGYU9VUVpPQXBoRnQ3VU84dFNJX3Q5RktyUGg5U2xRcGg3amhFLS1tTFdlTGJDU3h3RUwxV2NiUTNVUTNrSFpaSnVtMHkycjRHWHhQbEVYeXJtZWpfU0FSMlM2Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "HIV/AIDS",
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bioengineer.org"
+    },
+    {
+      "articleId": "gnews_91016370f14f69ec",
+      "headline": "Saúde repassa R$ 524 mil a 3 cidades do AM para conter sarampo - TV Sim Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T04:26:38+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjk4M1RWekJXSkdzMGJwbXNKMVJTMFc5RkxmUXhqUzZEMk8yWHNmWFBsVTFFcEVTYktJNXlSd2NWMWV3Rkg2eHY0ekJzUUJWbUkzN3ZoeGlYSExhaTM4VkhCN1VDSXNEaFQ5SXJyYUVncTQ3M2xMcG9qRkJrUFhZU1JmdzZYbGVleGx2bVVuVzhJbm9kaERiQ1VjVDduS3Jid3MtSXVaczdkc2dFam1pVlpUbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "TV Sim Brasil"
+    },
+    {
+      "articleId": "gnews_88bca3f77d1d37fb",
+      "headline": "Brasil pode registrar 860 mil casos de dengue em 2027, aponta Fiocruz; pico previsto para abril. - JASB - Jornal dos Agentes de Saúde do Brasil.",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-10T01:08:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BNktRbFFhbTg4TzJNQjNIaHpnWTZkVU1uazdDZmJ0ekZEckw2RXZpdmJERklSQ25GS0VMSDVLcWdVMkpXTGJxVURlTGt4aFVxbHRsWERZUVAxMXlILWNTaERtWkZOOXRObkhv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JASB - Jornal dos Agentes de Saúde do Brasil."
+    },
     {
       "articleId": "gnews_79b0d4ba1d47da80",
       "headline": "Mudanças climáticas já causam aumento de doenças infecciosas no país - Jornal O Sul",
@@ -102,8 +221,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Correio Braziliense"
@@ -126,6 +245,45 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Real News"
+    },
+    {
+      "articleId": "gnews_026151985a03d40b",
+      "headline": "Dengue: SC prepara equipes para nova temporada de risco - Real News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-09T22:20:52+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ2YwdWNjaUN5WncxV1R0Z2hhY0l0YlNjN2JTalpoWG5UX2djZVo3SFRjSlloTFhVX3hKM3dtNF9RTnpMdkVNZE5tTDJZRVk2dnVuUEQyNkpuMUlEU1JKblJEMmtZVGxGVTdVUW5xX0JVTHdxeS1zT3dKdHdiTTRMTmRQWkZhSVl4dzJVMTNKYmNqZ1M4eGJ2Rk5NaVJaZnVhSUNtWV9mOXpVZzRPN1o3MFk1QS1idFU2MWwwQWtHSXZzdnBiMTRSTUtjX2NDaGw2Y29EcXRn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Real News"
+    },
+    {
+      "articleId": "gnews_373cd0c68751e205",
+      "headline": "Três municípios do Amazonas recebem R$ 524 mil para combater o sarampo - EM TEMPO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-09T22:07:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXZld190YWl5QUh0a1lrUkppLTRPeUlfN3ExVUlMbl9CM0tpNk9Jd2V0MWdvb0EtcFNHY2daVUJKMVRaYXBfV3Rfbnl0SXhFQ1VETjNaQWQxSWJqeUFyTUlBN1FJVXFTaWNBTjRJSnluaU9zLTM5b1B1bVUwWU5fQmZza3pZWUZPTmlRMk84UUI2a2FybmMw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará",
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "EM TEMPO"
     },
     {
       "articleId": "gnews_3544388df311b7d6",
@@ -166,26 +324,6 @@
       "sourceName": "Jornal Panorama Minas"
     },
     {
-      "articleId": "gnews_373cd0c68751e205",
-      "headline": "Três municípios do Amazonas recebem R$ 524 mil para combater o sarampo - EM TEMPO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-09T21:03:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXZld190YWl5QUh0a1lrUkppLTRPeUlfN3ExVUlMbl9CM0tpNk9Jd2V0MWdvb0EtcFNHY2daVUJKMVRaYXBfV3Rfbnl0SXhFQ1VETjNaQWQxSWJqeUFyTUlBN1FJVXFTaWNBTjRJSnluaU9zLTM5b1B1bVUwWU5fQmZza3pZWUZPTmlRMk84UUI2a2FybmMw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas",
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "EM TEMPO"
-    },
-    {
       "articleId": "gnews_0154bc74bf7a43cb",
       "headline": "Casos de mpox aumentam no Brasil; veja os sintomas e os cuidados para prevenção - Terra",
       "headlineTranslated": "",
@@ -218,8 +356,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Blog Jair Sampaio"
@@ -314,8 +452,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Nova Era News"
@@ -349,8 +487,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWtmb0N3OWZLS0NMNWV2bFRySVluemJJQ3NQdHRReUZabzlUTEFJWXRuRFlpX1YwUnVEN2ZFbkM0VmhlRnhMamZvaVlpT0hXLWtTZFJQdWw1bHNsU195Qzg0RVZLTkVVR2tpeHFYUHhIX0szOTVWQzNXLWlUbEQ3T09fZzlfOXZPOW1V?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -411,8 +549,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Rede Onda Digital"
@@ -470,11 +608,30 @@
       "locations": [],
       "states": [
         "São Paulo",
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Gazeta News Guarulhos"
+    },
+    {
+      "articleId": "gnews_4bab0635e6f7176b",
+      "headline": "Com mais de 400 internações em UTI, SP registra alta de casos de Covid-19 - Metrópoles",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-09T16:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR281Q3M5TEdHR0RBQzZfQU8xSW82S1RTdmRtanpmdWxRVVR3RkZnNHRrbGpFVGlLdW9sSklZejhCdWpWZGtNX2dMSUd6Q01mSVZ1Tl9oMi1RZlB6SUtJRzZpcTYzcXFrMTAtc1hLRWpQdDBOeVdmZVdFWm93S2NELVFjVVRDaTN6OWRBeC1aTlJZNVFQUGxhVW00ZTdXRk5fOG00RkV2b2tZcEJ6V3c?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "COVID-19"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Metrópoles"
     },
     {
       "articleId": "gnews_7c88c1c89b21b6c8",
@@ -490,8 +647,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Instagram"
@@ -529,8 +686,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "R7"
@@ -549,8 +706,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Impactto News"
@@ -588,8 +745,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Roraima"
+        "Roraima",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Folha BV"
@@ -608,8 +765,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Amazonas1"
@@ -685,8 +842,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Diário da Capital"
@@ -706,8 +863,8 @@
       "locations": [],
       "states": [
         "Bahia",
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Se Ligue Bahia"
@@ -726,9 +883,9 @@
       ],
       "locations": [],
       "states": [
+        "Distrito Federal",
         "Pará",
-        "Amazonas",
-        "Distrito Federal"
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "GPS Brasília"
@@ -743,13 +900,13 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZkhfbFFJS0U3bEoySXNqbXBremdRd3VyUDkxd2I0OXQ0aV9xQkRCNXRhRHRkTm5TRUs3TU9CNUtpSzBoMW9feVMxMzd0NlRad1g5Ng?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Mato Grosso"
       ],
       "dataSource": "Google News",
       "sourceName": "Aquidauana Notícias"
@@ -768,8 +925,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "REDE BRASIL DE TELEVISÃO"
@@ -807,8 +964,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "CartaCapital"
@@ -828,8 +985,8 @@
       "locations": [],
       "states": [
         "Bahia",
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": ":: Bahia Jornal ::"
@@ -867,8 +1024,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Metrô News Jornal"
@@ -906,8 +1063,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "Agência Brasil"
@@ -922,8 +1079,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHBqZFRQWjgzUXlUY2xpamZObk9ReFI1ZVNib01idU9WU3hTWExVRzUwMHhDYlNjaUVjbTU4SmN4Q09NQjRlOTVnVW9iOE81emM2MDFxZHVGNHpnMlVkQXFVU1FBajd6bFJqby1Hc2dYQ0c5cmtNUXdHUjVlTTU1Ni1YUVgtSi1iUzhLdFM1OVVPWmRPRlVRSzlmSE1ialY5NjFvX1MtbjBuRzJZU19JdkU2aDVLSGhQaGVSWGt2NkM?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -1060,8 +1217,8 @@
       ],
       "locations": [],
       "states": [
-        "Amazonas",
-        "Pará"
+        "Pará",
+        "Amazonas"
       ],
       "dataSource": "Google News",
       "sourceName": "G1"
@@ -1210,8 +1367,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQnJtY0kyVVhUMkhVRll3WEVjU3hCbFA1VWJlN0I1emRGSmMtU0JiaXFsYjNMWGV1MDhBMWRuOC1EdHZkZkI1MXUzTXhQcTVFakh3Q3JiWHdiSExfWHM5V2NMcVFuWW02SFV1dERrdENSTXdXdWhXUThOczlKZGYya3E2VUMxay1ia3J4NEdoSkNpQkswcXZqcFlDMA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -1230,8 +1387,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXNhc3BvQWc3VkVjMTNVcEQxT2Y4MUZZMDN2UFZaeUtFNUE3UW9pN1V0c0JDX3g5N1lwejJ2UldQQUJsdXdSdkVKOWs4VnhKVWo1QlNsMjBvMkRXc3FPYm52d1hhZFhLVjRIbktfYnh4anZVdmZSUkdCdG9QM1VrSkNZVjdkVmNPUzBZYmpvZ2pBbzJvWnE3cFFqSHd0c3RWYXhvQU91cWwtOVhIZG51MDVPcjhGVVFFYlpDSTVTbWVoc0pzdHFR0gHHAUFVX3lxTFA1WmtYQWdDNFdsZkE4M1RyNTlJOFBzNjkzMURFSHNFQWdlUnN0M1NITEZudmR0dU1pYVhBTGVWS3lRb3VOYkdHTElaMGZkV3NoUzVJbWhQMG5FYkxQQWhrUUlGaWN1b1FyRjFhTExGa3pvSHJYdzVSMEdEa194VnJkc0RaSjRKV1lOMjlLOGZJRF9SU0dUNGtXU0JiXzBzRDRtMkd1aE9qR3dyNXdHaXo5cl9fUjI3Q1ZRclJQQjZEMVM4Q0RrWVk?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -1258,25 +1415,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Por Dentro de Tudo"
-    },
-    {
-      "articleId": "gnews_e3b73962decd8847",
-      "headline": "Bahia descarta surto de mpox e mantém vigilância ativa diante do cenário nacional - Bahia Na Política",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-09T08:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWk1GaFVZWXpGWVhCYkk5Q2pIOTNJbXYwZGFtekJsaHJNLXFYVG83RmF1NmZYV2hTTEZtOS1PMXh1QWx0TGNTaHdnSktmaWRUVWtLb2RUekFIckJ0MGREREhiMGc1SjRjTXJIY2haOFhBb2dtcGppMWwyQnFyS3F0WG1Ddlc5TUtVODdTMGdWcndMc1RmcWZPNzZkUHJQZUhNM1FlYUo1dnowOS1mSkZSZkxhTQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Bahia Na Política"
     },
     {
       "articleId": "gnews_76a146852ebc5ce3",
@@ -1527,25 +1665,6 @@
       "sourceName": "Grupo Ceres de Comunicação"
     },
     {
-      "articleId": "gnews_2d05b1c17db85af5",
-      "headline": "Fiocruz projeta até 866 mil casos de dengue no Brasil em 2027 - TV Sim Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-08T20:04:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1d2cVlLck8wczNENDI2Y09uQ2VkR2NTV0Y5Rkx4WDZSTGhFVFBvaGtETm95ZGJweWo2d2pMYmIxWlBDbDBfMTdoWU5OcmhwZDl6OFg5bjJ2aVpVY1BQVzdYbFlEek4yY0RIRGpGam9xTmJLS1dXVThNRjJjS05MbzdkMlNBNVZaNjBaSVNNRnE3SjNWWjE3WVhuNWlQVW1FUjA5TkN1aFUyTm8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TV Sim Brasil"
-    },
-    {
       "articleId": "gnews_de40faffa7720f4a",
       "headline": "Fiocruz projeta 866 mil casos de dengue no Brasil em 2027 - Brasil 247",
       "headlineTranslated": "",
@@ -1658,25 +1777,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "primeira página sc"
-    },
-    {
-      "articleId": "gnews_200c3142aef493ee",
-      "headline": "Surto de Chagas ligado a vinho de patauá deixa uma pessoa morta em Óbidos, no oeste do Pará - Estado do Pará Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-08T15:40:43+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0k1aC1Hb2hDTTg2clBLTmN2LTlrQnpvS3k1N1RhcG1sd2dNOXg3ZXUyRFBCMTZvNG9RM2hRckZweS13cnBoeGxia3M0Q3E1UTVaYjhpSDdYTGxMdDJoRmxfSmIwVjBQVDJjSGh1VlZZX0MyVzZXWEhGc1JHbFhtZ3VxOGlxa0V1YV9DcEtITDJsbkw0NnN2ek9rRjhGckN2ekZYU2lpd2xnd044NXBoM0NlRHZzNWpMLWZfQTVRYw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chagas"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Estado do Pará Online"
     },
     {
       "articleId": "gnews_df6090b3122ef68c",
@@ -2078,63 +2178,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Folha de S.Paulo"
-    },
-    {
-      "articleId": "gnews_44ce82f9e7682f7b",
-      "headline": "Municípios da tríplice fronteira recebem mobilização contra o sarampo - Colatina em Ação",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-08T03:08:04+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbkgzTUx1RUhTNzlLUWxsa0w2ZGM0bWZfYnY1ejR4TGZKcUlIb2VfS1BJZkQ1NmVRanNyNFVwNkk1LWpkMHp5OV9pNjctN1VIZ2Vtdk9ZZWxoRk00SzRTelVHd1Ryc1ZKdGZSTzhOZXhsblR2aEtwc0VETG9pbFpMVm1IYjBxN3dXM0RtVnRkYU9LRTFsUkdrMWxQVnpxMURUOE1EeEY5bWJKUDZrWnpLaw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Colatina em Ação"
-    },
-    {
-      "articleId": "gnews_17182dbf4811dc7f",
-      "headline": "EUA registram surto de sarampo com 5 mil casos em 2026 - Tribuna do Agreste",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-08T03:05:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekZtM0NDZmpEcWJVamFNRnU5ak1jLU5uNGZ1SEhvV1R5NTNDX2lJMHJEbTIySktPNEdOMFZlM08tc01ubEJvak1tT3JESEpwOGl1RHVUUlg2RThQSG1qNENDSlBYRG1ua2VxTkZyWDdSb0p6ZXRocDZzNzE1ZzVMaXFiVl9ndHJVRVdDai1HRGdmV2pKazNIdUJFdTZhU01IVF93RFlUU2lXeXVTYW1FdjJQWGVIZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Agreste"
-    },
-    {
-      "articleId": "gnews_174c01f67fd5f45c",
-      "headline": "Manaus mantém vacinação contra sarampo neste domingo em duas unidades de saúde - Informe Manaus",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-08T01:14:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejZMQTR3cDhhTkxXWUZBemxQLVNTSTRLZHBucW1KS2hPdXhlZUJjcl9GU1dKdHFXbktoTEo2OW5peVVldnZGTDlUamtEcF95UmJoaFRrNFpONTluUFd6UnJmSkJwa1VJcGtKLWswT1dQY2VjZ1dxalptenlWVmtDNDNpbjIwTmgzdFF0SDJVSUh2OFNlVlZiQ0YzazVpODZGdWJFNlR2QVJPQl9qanFJRQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Informe Manaus"
     }
   ]
 }
