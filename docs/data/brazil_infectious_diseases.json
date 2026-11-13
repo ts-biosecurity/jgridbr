@@ -1,43 +1,523 @@
 {
-  "generated_at": "2026-11-13T08:11:54.635776+00:00",
+  "generated_at": "2026-11-13T16:15:27.621737+00:00",
   "date_range": {
-    "start": "2026-11-11T08:11:54.635776+00:00",
-    "end": "2026-11-13T08:11:54.635776+00:00"
+    "start": "2026-11-11T16:15:27.621737+00:00",
+    "end": "2026-11-13T16:15:27.621737+00:00"
   },
-  "total_articles": 87,
+  "total_articles": 81,
   "state_summary": {
-    "Pará": 23,
+    "Brasil (estado não identificado)": 39,
+    "São Paulo": 1,
+    "Amazonas": 3,
+    "Pará": 18,
+    "Bahia": 2,
+    "Santa Catarina": 9,
+    "Pernambuco": 1,
+    "Mato Grosso": 3,
+    "Mato Grosso do Sul": 6,
+    "Alagoas": 1,
+    "Paraná": 1,
     "Rio Grande do Sul": 1,
-    "Brasil (estado não identificado)": 38,
-    "Mato Grosso do Sul": 10,
-    "Amazonas": 5,
-    "Santa Catarina": 8,
     "Distrito Federal": 1,
     "Paraíba": 1,
     "Minas Gerais": 1,
-    "Mato Grosso": 6,
-    "Espírito Santo": 1,
-    "Goiás": 1,
-    "Bahia": 2,
-    "Paraná": 1,
-    "Amapá": 1
+    "Espírito Santo": 1
   },
   "disease_summary": {
-    "Dengue": 28,
+    "Measles": 17,
+    "Dengue": 17,
+    "Mpox": 11,
+    "Doença infecciosa (não especificada)": 22,
+    "Meningitis": 2,
     "Rabies": 1,
-    "Chagas": 10,
-    "Doença infecciosa (não especificada)": 21,
-    "Measles": 14,
-    "Meningitis": 1,
-    "Mpox": 6,
+    "Chagas": 6,
     "Chikungunya": 2,
     "COVID-19": 1,
-    "Influenza": 2,
     "Avian Influenza": 2,
-    "Ebola": 2,
+    "Influenza": 2,
+    "Ebola": 1,
     "Leishmaniasis": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_6997c31f149f0cb7",
+      "headline": "Reportagem - Especialistas explicam por que o sarampo voltou a avançar nos EUA em meio à crise da vacinação - RFI",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T16:05:22+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNkdaZVVLMnZTN1J0WGZGUXRrXzV2blhHZDhRUDdyV0NfWVlpZFpCTUpNeHZhel8zN29nRmNsMVN6WVRDc2FsdlR6OTRKZG8teEJKSzNLUV82ZDdWeVdiLW9zai1XZUVEcjFzMzNwQXN2eURXVnRsNV80WDlrdG1XZTBpbmo5QjUyM25nMHFvZXNOT3pWV2ZPYjc1cmt3VGNBOFhHWU9qNFJWeDZOb3VvS3FIUkhDTnlNYVpDenJDdHdiVjN4aUxKLW95bjd5TTVrZ2lGSWJlZFktc1NEdks3cVFsd1M3cXpndmJfLXBiVVFpU2tKRUJUVQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RFI"
+    },
+    {
+      "articleId": "gnews_897eee220e14273e",
+      "headline": "Amazonas capacita profissionais de saúde para reforçar combate ao sarampo - Portal do Marcos Santos",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T16:00:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0ZHN3FSWDJxcjB2LVhfWHRGQXdHRFFyWEh4RHN0aDBydlJTNDluQ2dfRFc2SWdBVTlhYjdMeUxLMnVEcktfRzQtUGZFbnVrS3FPM3NTcGpHemQ2SE9xRU9kelowXzhRdlE5cmVFa2FvX2RoWUR0bjJCR0dMMmVlR193THo1cGZSay13ZEtLRWJEZHhHa0tyTUFvZTF4VzZ0eWloQUtLNUktMEhOQi16bENLY3d3a0xXU0FPZEhkeEQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo",
+        "Amazonas",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal do Marcos Santos"
+    },
+    {
+      "articleId": "gnews_98f8f845e4bfc03a",
+      "headline": "Brasil pode enfrentar aumento expressivo de casos de dengue em 2026 - Crescer",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T15:42:39+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnNhLVhuQUhfN3pIWWNuMTlEUXNzd1FCR3pvZW9NTUhZRDJ6clNZa1h3R3BCWU9VTDVaUHlVSzVRMlBKdGVCQnNTNzlNdXkzRWJKX1VVSjltLUc5MmdnSVloTncycWVFSGppd0tZT3E5emRjYTkzdUpoR0V6eHZCYlhJcUpwdzNWNVBRZnR3OVRUOGVlLVVjQ0V5U3c3dUhweWl4UWtNN08tdTg3b3lGbmY5VzE5UWRxQnRVWEVqaTJtT3FEMC1R0gHWAUFVX3lxTFBNcWE2bVk3SWhNcFZidXpvUTJCQ2tMUzZUNDcwQUYxUkJGeFlrUmtSaWV1U3BEamJ0S1pDRkdnb3JJMjZzcndPR1d0UmRsSjh6WmN6S1ppOFZ3bXBBVlA5bzVpSllVSzNaLWNRZFhBN2kta19CSnB1WTV6YktfRzNmakRnenFYVUVfclNpbVdoTVROUlp4ZGozV3JOSUZGNjE5UDRKeHBkd1NKb25OZ2JfaDBTQ2RYcE1fTzRiODJFNUtWRVkzTWd1SUh2TGN4YzNjWmItZnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Crescer"
+    },
+    {
+      "articleId": "gnews_6caf303f9eb2df63",
+      "headline": "Surto de mpox na Bahia? Secretaria descarta e explica o que caracteriza um surto - Tua Saúde",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T15:02:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemNFNnN3UzRsR1BKVmFEUzJ4ZldOUTBsdTFPbVBLRjVoSWxicFQ4cXpsMzZ6OWNkclk4NnFfVHNJSXdhY082bV9HTFhmWW5kREFNeDA1N3RMNTVUUS0yNHFlWk1ERXpscGdiSG5LSHFRRmdyX2Q0SDVPbnR2RDFfZ29mU3hCUGR1am5PRERLOFhQV1BLanpzeWdtVUtxZzI2TUxVMGVuVG1RbzNSb1lyam9OSElIWTNRUF9wdnN3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tua Saúde"
+    },
+    {
+      "articleId": "gnews_940db4a72d4c5a80",
+      "headline": "ATENÇÃO GRANDE FLORIANÓPOLIS: moradores recebem alerta sobre sarampo pelo WhatsApp - Agora Floripa",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T14:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVlSeGw4TWtiNGJLSzUzVktzNXI0dm9OZFdfZGdyY0lNR3lRTG1mUEI5eUNvU0dZbzFOcUpQV2ttdVRGSG04ejA1cVlXYnRWTWxDZElJRHpsSUYxS1pybWc4eGYzdlNGRFpMei02MTlOdURfcWNlVENYMV83bDRsTWFINk1MRkplb0dzYm9MX1pHa3JDaG1uclZzTDhsUmQxRS01UVdWR3FibmFGOFhB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agora Floripa"
+    },
+    {
+      "articleId": "gnews_adc5062884ac25a7",
+      "headline": "Sarampo: em meio a alerta do governo sobre casos no Brasil, saiba onde se vacinar em Pernambuco - Folha PE",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T14:49:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkNaVlNwQy1JM0tDbW5KbDZ0cUxVaDAxSUdOU1ZLeU9hUXp1ek12V1pqR1NLMk1fbF9FLVM2ZVhOckY2RDZXWHRyVDVYNTNlZGstSWpBTkpfWC1lY3IzQXh0YkRQcW4wa1p6UTY1XzFveDN2WUVpWXo4cTc5Y3IxbWhERFpUYUtNUGUyUEp1dExrbWo3SEhhRTdYbG55bXBIajFfSEpRZFd0R3piNE11U3BiMNIBtwFBVV95cUxQTFEtT21fbGV3cWtZMGtmMVlnalBSQnI0b1RfbEg1SFpvYnNzUm4zN0lGM1N0OHlueDBDcTN4cFRhU28yME9relV5MTh1Nmw1bDE3d1lWdVk3aGRuLUIwbkN1SkhFeVJHNlF5M2ltaC1DQ2dwM0MyVmZvbWZMSko0MUxqalJNVHZXbGtUeDJJYmtNYkJTb005Q1lsVmtqXzVQenJhOUtxWU55eGVZM2JFZVh6OWhicVU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pernambuco"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Folha PE"
+    },
+    {
+      "articleId": "gnews_086c916fe3999754",
+      "headline": "Governo Federal envia alerta pelo WhatsApp sobre sarampo no Amazonas - Rede Onda Digital",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T14:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRCU3pQbXBETWJjTnNRVWhVb3N5NUlyVVNfclpHS0U1WmdOQkNwVHR1Z2tnanBRSDEwWERYZnJQMnMxMF94SlZ3bHdBNFE0TE1JX2dETDFaR1QxaDc5Q0JVclpidnV4RHZoWnhfNzRVZEV1U2xMVTUtWnIyamlGZExBR0NySW9jTHF6R2FTRzlodzc0QmJEaUlaTDlWU1VCUTJBRml0d0JabkJL?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Amazonas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rede Onda Digital"
+    },
+    {
+      "articleId": "gnews_c85d82976fe7e046",
+      "headline": "Jornal Midiamax. . Surto de sarna humana (escabiose) atinge ao menos 70 pessoas em creches de duas cidades de Mato Grosso do Sul. Também chamada de escabiose, a doença tem nome idêntico, mas não é igual à sarna animal nem pode ser transmitid - Facebook",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T14:19:54+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzJGaHItdDNPZUJ2QVBKM0lPWThpTXpaNW9JTzhoclllMmZKWnRiWVFGclRGNzdxclk5bFNaa0dfZF8wd0xQWmZySTFjbUduOW9nZ3NBNW9QbXFFVlNac2w1RXM1a0lwbm5VOXhKRzFDSGtibTVGc28tRGE5Y0diTEtUWFYwS200a0FxdVFaWWgyanNlVWI1ZVpJUnlkR1pBbmEwbVVSczZvbzdOTUlZWjNRWkdMOXpDWVZTUW5ONDIxb1VBbDE0RGV6dnpIV1FFTko3cg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Facebook"
+    },
+    {
+      "articleId": "gnews_280a8efe3cee0b2b",
+      "headline": "Homem desaparecido há 18 dias é encontrado debilitado após surto - Alagoas 24 Horas",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T14:11:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVBpeVFfeGVuWEhjLWIyNV9ZLTRLeXlMeThuQU9xY3p3c2t2QURjS01waTJYclBYVDkyLWZ0dFhNOWdUQ2tJcFU1YVFVZkR3VDl6bHdHY3VNdEVObzhIX09EQlpyMHAwVlVYanN1X0JBWUJWMWo2bTJvZ3FILVpZZXFSVkpyMzZydy1WTU0yMU5yTGNsX1Bhc2owSm5waFpTWTRBMXVaUnFldjjSAbABQVVfeXFMT3E2R2VDSGpSb2tUcEdMLTk1cnFoMm5aOFNDUEgydWJwbXpJSk1DRnMyaFUzRWR2Z0YtN3dJQ2RRV2ZoM0VLUGZyNjMzQ1BXcThPOG45Q2FkSkk2enJ3MVRiX1JFZzMtaVJ1RTl4WmFsTV8zZ3dlbzlPMFRUMzdwWlQwQjhQTUtmSlEycnZBczZ5TDdHZG1taUtjZWJRQkNzcE1aLW9WZUVaZHNKZjdsejY?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Alagoas 24 Horas"
+    },
+    {
+      "articleId": "gnews_847752c3ec117071",
+      "headline": "Surto de esporotricose avança no RS e já infectou 25 pessoas em cidade gaúcha - Litoralmania",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:52:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSjg5REdxcmZRSC1oRVZGRzZudF9vdEFZZnZ6T1Ayd3dtSU1Ca0t1Qy12eS12czJCYTlXeE9FcW5ycjRnZnduTEVyaGtMUGkyQkR4a19YM2EwQWdYdGFEVnFON3JaNEl4RWRTMndoaGVmQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Litoralmania"
+    },
+    {
+      "articleId": "gnews_00c8e9fb0a5115fe",
+      "headline": "Após surto de escabiose, aulas são retomadas em Formosa - Fala Oeste",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:36:44+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjlwMFpzWGMxcWtIMzBGMldmLXRYVmZleXJFS09Nc2NJZ09vTl9tc0gxcEljcVNyRDF1UXQwZkdlZTBSWTlGZEhHZi1Ja1VFVmx0Mmx6dXM0Y296TDc3ODlxUEdCREpldThXWUJiYmpqNXlBU1h4d0ZTWGRxaVIwams2ME1NeXVKQ0Q4d3FFLTZVVVl1S1Y3aHpn?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Fala Oeste"
+    },
+    {
+      "articleId": "gnews_34cfaabfff397940",
+      "headline": "Casos de mpox ultrapassam mil em 2026 e chegam a seis estados no Brasil - ipiaú on line",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:32:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGNqeXUwTzNIYzBTelBIbVllUFBVNDl1Q0VTRHJvdU5oWUM3VmN2S013N0hPY1VvOTRiVzRHQzN5NGhGeF9qajY2czBMZGtqX05yc3Z2MEdUazFLaDJJYzlQb1A5a0hhcGxqVlhQTkJWZE8zT0p4Z2FKRS13VVNoLW1oNGtwejRER29NU3NtaWEwNWczbjVpN1BWQldWSXZZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ipiaú on line"
+    },
+    {
+      "articleId": "gnews_7f5c1dd2a4676b18",
+      "headline": "Brasil Ultrapassa Mil Casos Confirmados De Mpox Em 2026 - Taktá No AR",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:25:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblNyVFhMRG9Ub01Ea0pnN3FDU2ZNWnY5RFBrVXJZWmQ4OFVjY3BsU1h6M2lFRlJCeXM5eXl5OUFvTGdCMlZqSmVSTE1PQ0lTaXRKSGdFZ2FJRmpSbEUwdGp1YnVFMzZad2FtZWpXdzRfa1g2YXZzSTdscTl3OW8wclA5QnFMa3JaZk5FYg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Taktá No AR"
+    },
+    {
+      "articleId": "gnews_3a6f59f68597a652",
+      "headline": "Os casos confirmados de mpox no Brasil em 2026 ultrapassaram a marca de mil, segundo a última atualização do painel de monitoramento da doença, mantido pelo Ministério da Saúde. De acordo com o painel, até esta quinta-feira (12), foram registrados 1. - Instagram",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:24:46+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xOEZIN09XeE45emphQWdESVMwaEJ1U2x6MlpBRVVBSmJJaDJ0R3RhdzYzb0NsbUZyazQyaGlVVTVXZnB1S2pwZ2s5ODJzOTJFRkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Instagram"
+    },
+    {
+      "articleId": "gnews_e09e5ab6c53f8ae5",
+      "headline": "MP-AM investiga surto de sarampo em Atalaia do Norte após cinco casos confirmados - AM POST",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T13:00:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVU1dUFhN0NFQm1RSjJTbENyWllxQ0ZmQXFiSFJ1UzI4bVZoamJpN2ExYWEwN1Zjd1JyT29ORmMyTTBiTDJRZTNYQzV2VjNPUmlfY2dJbXBmVTlLSXI2V2FDQzlnVHhLRjJIakI1TFVTdDcyOHRnZnlFMUNjY2Mtei1Camd4YmJKZml2ZHl2bFBSdlpVd2gzTWNhdGR1U2M3ckdhMzlwMmhxaU0wSU5QWVVWMA?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "AM POST"
+    },
+    {
+      "articleId": "gnews_f70c1c4c1c00bbbf",
+      "headline": "Alerta sobre sarampo reforça importância da vacinação - Imagem da Ilha",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T12:50:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWJ5VElvaVpVcDJQcTk1QjZvVWJBSmN5dWZFREZtc3RvclJOa1V1WUxFRnNIbUJMM0dCZ2J2ZVcwSkNOUHE2b1RCeTdCTzlQM0JMQV9aV1dPQkRocThzY1MtS25ZS2ZHcWl6dmhZQWhvUVRYS1VpQzBFVGNneTY1OHRMdnFFamNfcFhtU0I2UC1pSEluYm9IaEFpWQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Imagem da Ilha"
+    },
+    {
+      "articleId": "gnews_b4f1affcd463c1ae",
+      "headline": "Armadilhas contra o mosquito da dengue serão instaladas nos 72 bairros de Belém - RomaNews.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T12:23:34+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUhlRFp6a1pya2lvaGx4SDVzWFlPQTlvSUgzekpUOFZzWGtYT281UnNDNlhrRElNeDYxNXpHTzgtZEhXdDU1YVhZN21vTTB3aUlXWFBvVlkzVnk3LVgtblFNSHhyWFZOYUNBcnI1VmNmWUVONnRtMWJkY1dpd0c2OG1YcG9XTnRPMkNFQlh2amVjUkp0UTAtZ0tNSjRUMGVVR0dUUXFZaEh3cnNxRUNfQTVhS2tKUUNjWTRpbQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "RomaNews.com.br"
+    },
+    {
+      "articleId": "gnews_6b37caba34d4628f",
+      "headline": "Mpox ultrapassa mil casos confirmados no Brasil - Guararema News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T12:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnlWRWlmc1UzamdGNjNMTXd1NmFmYktXVnV2RGRNWmI4OEh2VDFEcXNtR3h6bjczdkVKX0hycEpFU2prUzN3Ym96eGlaSThLTlZBY080Zl9YSEU3cDVwbU5nYVlfUVlsVC10MGlSMlNmVVdWQ1FOSW9XRnJNTzFKWnpVYXFGek9jRkxv?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Guararema News"
+    },
+    {
+      "articleId": "gnews_001967922818671f",
+      "headline": "Mpox ultrapassa mil casos no Brasil; Santa Catarina registra 24 - sctododia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T11:49:30+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZno0eTUxTlJCbUQ1UktNNFVObkNHREwwbTRKYm5YVzRBZkIwaWpaMmd2dGFSSGlPWGJSaTZDaFNfR0VCcWxqbm9EOTJmODJfSlg3UmkyWVY5T3JMNjBWbkFQOWs4VnF1Y1NKQUw1OVN2bVRBUVBtQzJtQ281MXdfd3BLU2NpaDFvR3QyX0UtakxFdVk?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "sctododia"
+    },
+    {
+      "articleId": "gnews_693bf15c2a1db54d",
+      "headline": "Bactéria que pode causar meningite é encontrada em queijo e Anvisa determina suspensão de lote - Misturebas News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T11:16:02+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRU9xcGZaU1FlWVRWMzBLc3I0RVBVby02dHdMdWxzWFFCRDFSenZQXzljaE0wVmZiOEg0c0JrN0ZlSkltTWtYTHZJR3FUdGUzMmhTNXdiLVNERXVMUm40Vkc0UG9iS3JRcjZyYzZYLXQ1bFF3VWNLSjdPSHBfc1ZNVg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Misturebas News"
+    },
+    {
+      "articleId": "gnews_fdf4d571eb65f91f",
+      "headline": "Santa Catarina registra 24 casos de mpox; Brasil ultrapassa mil confir... - Portal Tri Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T11:00:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUdsclpjWl9uU19LUk1TWVRsOXZ2MG9obF9rbl9LWjBmZ2czb1hpdzZma1M1dVhNaTB4R1doU0wtdUVtdVlBYm50SUo3Smxja2RtUWtLcy1RUnh5cFY0SGQtdEJYMW9Edkx4SjRSZEJnd0NxWjN0UWY4amJfMUEzNTN0VWJqVXdPeFEyRjA2R0hjWFM1bUhtV0NqdW5sd1BSQW93Y2J5SEt3QWNzUXpWRERtd2FEcEdUcjE3Wl85YjJ2WF9YbXc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Tri Notícias"
+    },
+    {
+      "articleId": "gnews_b9aa81f0022b0ca1",
+      "headline": "Governo Federal emite alerta sobre casos de sarampo no Brasil e convoca população para atualizar vacinação - Pinga Fogo Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T10:46:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOGZTdHZmVGc0R2hNYllhbWt1a3RkdFpKZDdNQ1VvdlpzMUx3Q1lpdFYydVpYckFHYWYxS21zamRyOEROa0lkTGdxclpIRWc0NWZkMkpnVjgtOVd0V2I4cmJzam9EQ3g5ck41Uk5DRDB5c2wwa2xUbjhaU2FwMUxic1BiMzBOdEwzWVFMVnZtcUZpb3d0TWs0OG9JT1VyNWc1cGI2ZEJSQkFERjFHcS0zdUltOFVKNWhtd2NGS2FIZW5jY2VnQTdGb1h6Tjd2ZTZZV1lkVk04c1B3ajJ1?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Pinga Fogo Notícias"
+    },
+    {
+      "articleId": "gnews_004887a2289054ab",
+      "headline": "Mpox: Brasil ultrapassa mil casos em 2026 com RJ e SP na liderança - Tribuna do Paraná",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T10:07:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWRUUzhkVGxzOWVMQ25UNzBKcFllRkJKRi1GUktBNERkalRYcGZ1em91TEhYdnN2LTNIVXhyclBiaGRoQVJDR0JqekNwUVpURlNCUXJQRlpjS3JqeGQzLUdzN0RSZVhtcjFsN1UtOGgyNHpNeWtVVHc5WlV5Qk41bEFJcW5uSFJRYjlzaFBRMnhFWDZWanVtUXRIMGI4Zml5MzdMUTNGTWg5UHFCNG9F0gG0AUFVX3lxTE4tNnhQeWE5dzFpTGtXaGhZeXJkWlhFanowRnNXNWVQd2paMURxODFubWU5Unp4WWRiV2VHQk16VzNBYkV2UWl3SkJscUVBd00yMDVXLTdzU285VlVEZGtTRTRWWHI1bnNOQmg2ODdRV2E3MXRnZGU5N1k1MC1uQW9rejBKUXFTLThKM05CbkZaZURQTEdNTTNCUFgwa2xieHdVYlhRemVxY2tSOS01NUhvUGpweQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Paraná",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Paraná"
+    },
+    {
+      "articleId": "gnews_9cd186776de54adc",
+      "headline": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados - Agência Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T10:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkd4b0FHS09NTG5mMVNueU10V0ZHZDBkM1ZyWUhsWUFETVJRbzB5el9zd3BKN0lybXdwZnlfTTAxUHNOVG0tN2p0b1RoQ2Y3aTFiUUpLQ2kzSGU4R2l3S29GbDNBVXh1SDd6QXlCWkFtUDV2SUFmbm11cWJDNk95WXNKQXpwZHo5RG5zVV9OY21xV2JKT1lQOGRjeEhuS1VKMFNZVVhTVXp1R1IzMHo3V05ZZzMtYjRRZ3ZGNzV3YzM0QQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Mpox"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Agência Brasil"
+    },
+    {
+      "articleId": "gnews_7ed5ab79a64b0dca",
+      "headline": "'Estamos no início da era pós-antibiótica', alerta infectologista - Correio Braziliense",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-13T08:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmVGN08yVEl0TlVieU5Oc3FCaENnYy1WUElIT2c2c2lkLTB6Q2MxT0J2NzFFREVxSVVDOXFKYy1UV0JXWFc2aUhvY1dZT29DQ1hlQzQwRFRxa0hwTTVaZjNSUGlQNmpxLWhXbEEwMW9XaDZGM3l1S2FWSkhZX19SYk1iNldxb252aEpER2Nqc2F2MWtvUEFWYWRhUjZDU2N6Z09ZOGx1d3dMYUgtMUQwMWNrcXplNTRFR1QtV2ZGb3ZtalpIVUFrVXlDcmbSAdIBQVVfeXFMT21hdVFTbGppdThYa1h4ZTZab2YxcS1NLU1HQm9CSm9HVUptNjFQOUoxMUNrWXgyRWtRbHFCWExYNjhsWHlSZjRKcVl5YlZBUTkweFAtbm5tVzBrbnZWTjNMTjNTUGtMWVBVZmJ1WFZMaEU2MlZZcXdVZ2QtY3ZRRG4xeVRZN3B0QlpoUk9YRWxsclJ0cWM5V2ZNTW42anJyMVhUM3lnUC1PTmJwMjhkSGRGWDZjMllPczl2RjFOeUZ6OUFzMmc1SVg3X3BVakY0dkNR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Correio Braziliense"
+    },
     {
       "articleId": "gnews_5caf045303d1c7b1",
       "headline": "EDLs e ovitrampas reforçam o combate ao mosquito da dengue em Belém - REDE BRASIL DE TELEVISÃO",
@@ -133,6 +613,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Real News"
+    },
+    {
+      "articleId": "gnews_0e255ef5dca79ea4",
+      "headline": "Sarna avança em cidades da Grande BH, e capital registra 11 surtos; entenda - Estado de Minas",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-12T22:10:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeEM5aEY5SHNPUjQ0TlN5ZnM0VW1iZmJPZzJLSnRZNzVUb0ZsYm56NlpuTVJZLXRNaWg5TDBqdlVZRHJqc2p6dGpzWi1LRW1qMDlQbmREVkpDTklPZVpaUmJzTzM0QUs0em1Ic3FpU21zbTZ3MVdadEM5U3BiWWhEdUdFS2p0R25mX1I4U0xPNFpzRXdoWEYtaHVPdW43OFl5blJLbFlIYjV3aExfbVRfUVpKQWtOSm05QU1sYktVMmnSAcYBQVVfeXFMT1VCZ2FHM0M3LXo3VFotLVdCQnZ0YUp6YllFU0MtRGhoTlhMWkl3VndiLVBwaGl2S0xXZ1JUa1N5VV9remFETzM3YXVCVXJnM1pTb0ctTDBPYXdnb1hiRE9UdlFNakU1b0NrXzBrQXhtc3JZUE0xWkhrc3Z1TG5oUG5SV1VFYktyeXFQWi1YclFZVjNNMTNWVWF0UEhqbTFieldtUERuZlVoODlIZE5tSnY0MWtwNWpLbkRvaElvSF9lbWJ0cGVB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Estado de Minas"
     },
     {
       "articleId": "gnews_fb8795d885b9c951",
@@ -472,8 +971,8 @@
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Santa Catarina"
+        "Santa Catarina",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Canal Ideal"
@@ -574,6 +1073,25 @@
       "sourceName": "BossaNews Brasil"
     },
     {
+      "articleId": "gnews_a5e7fe2d3e4a91c6",
+      "headline": "Mensagem do governo alerta sobre vacinação contra sarampo - G1",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-12T10:48:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUS10d1FQZUZIU1RfQ25lNXBpSE80MjZyR1pTZ2FVRzhFVnBKMXJMTXptTnhUSmd2SFFHem94bERTYVBPbUNWcURXTWlySlNQSU9SSEhPd2o3OGhXOUhvMVh0Y2NrUlFqOXVXYVVhSkprWnhlUi1MVS05R2JFSmthbm03RVVrUWRUSmxxUnBhSU5CdFVwWThTeXk0dHFBeVFyRG0waW1yZ3l1Y3Yxa0ozVjdFWmljc2hkV0xGM0ttamhZUFFMZk82U3JPWdIB2gFBVV95cUxQd2ZMUWxqMmlRSkM1SHVOazhUSklRckV4Y1dXVXlFTmYxYmFpWVdtQTJnSEdSRmJCRE9jTm9LTkRSenNqSVlua0FsQUpBXzhldTJ5NEdvMEJzaXNKQzZ6SnZBRlNSZnJfTDAwb05aa2xNVXZtaGRzRWN0SUlYRE16ME5ObElmNGxscElHaEtCemF1YmFyY3MwT1FtNXo1X2xVcFJqNTFBNTdsNDRVYU9rZU12VzlzY0d2Z0oxWVd2YW92NDVMaGl0dk1FTTJ2WUxheG9iVzZqc2NtQQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "G1"
+    },
+    {
       "articleId": "gnews_8d82feb2261fca67",
       "headline": "Homem suspeito de matar mulher em corrida por aplicativo é preso e alega ter tido \"surto\" - JC",
       "headlineTranslated": "",
@@ -591,25 +1109,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "JC"
-    },
-    {
-      "articleId": "gnews_1297733c9fda2d6f",
-      "headline": "Mexico Narrows Brazil Poultry Ban to Santa Catarina Over Newcastle Disease - Global Agriculture",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-12T10:32:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3ZwU08tcWk5Nmx2T0dfZlhzM3hWa1VnamJKRy13ZUhrUXdISzhIZWNMZy01S2FNUmhTWENmeVBiZ0puMndIVHBaM3RUQV9GbzdkLU5nc1RPX28teVZuNHdJVzhfYXdqSkxzTzBtS3FoNWstZ2VubXZ1N3NMR0tISXFaM3QwclZxODA3ZDYybzFfYmZJWFFMS2xzR2RudzhiMHJHRGJ4NlRiMktDb2k5LTIwMS1NY1JHbDFPYzBuOFZCbGlVZy1F?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Global Agriculture"
     },
     {
       "articleId": "gnews_85837127903054f5",
@@ -640,8 +1139,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNldFT2ZXWmZQb1ZkTlV4ejhtV09IVFh2ZGFqNlZxRVhkV1gzQTRyUGNCeE4zcG9LczhmMjFDcHQ1aDAtc0pWdGprYTYyRHA3RnI5UXRHVUtEWkV3MmlFY2paVFBlb0JxWlJKdjdRNWs2RDhoQ01CWHk2SVF4cGRWMVZTcjhrUmp3TU51dGpCQWU?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -683,8 +1182,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Diário do Centro do Mundo"
@@ -718,8 +1217,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZjVoTHBlNklJYTUxcjdCVGJVelZ2bWt6TnBRSzEyd2JScUJ2WlFzdTdrRW9UZW80dFlOQ2p2Z0pCYjFXQml5LXVKVHgxTUdSWGwwbUtObzRqamdYWEowZ1hyeXViaFgyaVlnbWdadEU3cjNvckpqU2lHLW5LOU51alkzM2Iwdw?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Influenza",
-        "Avian Influenza"
+        "Avian Influenza",
+        "Influenza"
       ],
       "locations": [],
       "states": [
@@ -900,25 +1399,6 @@
       "sourceName": "Click Xaxim"
     },
     {
-      "articleId": "gnews_6a8112f87d8b872e",
-      "headline": "Goiás tem mais de 113 mil novos casos de dengue confirmados em 2026, contra 93 mil no mesmo período de 2025 - CBN Goiânia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T21:00:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR2FMZUFmRWxHa29GUjZmU0hZQ28xZ1BwejVSaktwckYzWGV2UDR0YjJXSU8tZFgtV2FuN1MwTUowQVpiVXpjUFJvemVEMk9qYWVSb0o5Y0hESXZRWWpqODR4Z3JnVHFINklxR083SGJfQi10SS1lMDZTUWtFaXNkcVF4eVRBRGJwSDZWTFBiVDh0cjNaRWZ1OFRRZjJmWkZBSXhRd1JFWHV2NVhLaFZ5R1g5VEVUUzJlRkM5WnZnam01emwtX0Eybk45R1FsVVVQb24xZXhzXzlIVGNxM2wtU0RfNlBnM3ZxLXM1Zg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CBN Goiânia"
-    },
-    {
       "articleId": "gnews_f019a427fcd2cd85",
       "headline": "Creche suspende aulas após 40 pessoas contraírem sarna em Mato Grosso do Sul - Capital News",
       "headlineTranslated": "",
@@ -932,8 +1412,8 @@
       ],
       "locations": [],
       "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
+        "Mato Grosso",
+        "Mato Grosso do Sul"
       ],
       "dataSource": "Google News",
       "sourceName": "Capital News"
@@ -956,25 +1436,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "A Província do Pará"
-    },
-    {
-      "articleId": "gnews_684a62dd62aacec7",
-      "headline": "SC prepara municípios para período de maior risco de dengue - Rádio Centro Oeste",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T18:41:15+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZuWlJqYnZVRlh4b3BPWXpZdnhUZXFiNW56a3hxLWRuZTE3bzF2NHlQRVc3Zko3b3R1UEp3blRJSHh3TlRBMFBPbGQ1YmZUR2cwMW93ellaX2hMZGgzQkEzcjI3bmEyUUpxeHVkUDFOVm9RX0RvRnljUHR0RkhXa0Z5SGR6WjBaNDgzYTBVOURHdFNUSDVtRw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Centro Oeste"
     },
     {
       "articleId": "gnews_337df30fbeba20c3",
@@ -1054,6 +1515,25 @@
       "sourceName": "Capital do Pantanal"
     },
     {
+      "articleId": "gnews_b31a23d3c7914aba",
+      "headline": "MSD lança vacina contra Newcastle e outras quatro doenças em aves - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-11T17:47:37+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU9GcnNBY0VFcGFHTkY3cDRzaVFzazlHTEZsYlhHZVlvNU1nR2JCYnhNZzBHcy1ieW9wOGFnbGFMeXFzM0hvMlRpcVNiZ1k3RXUzVHpCTEhKMFNlbjU3OUJLM3VVTHdndlBfMjl1ZDI1ZzNGQVZpVzYxaTZOWXhyT2pPWDJUUkIxclZLREdTSWhqd2pVbEdpN0VQY0J1QWhxRUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
       "articleId": "gnews_f8a70c3fdbb5bc82",
       "headline": "MS reduz casos de dengue, mas prevenção deve continuar, alerta SES - diariodigital.com.br",
       "headlineTranslated": "",
@@ -1073,6 +1553,25 @@
       "sourceName": "diariodigital.com.br"
     },
     {
+      "articleId": "gnews_9b5e5680814e978b",
+      "headline": "Com 70 infecções, surto de sarna humana se espalha por MS e duas cidades fecham creches - Midiamax",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-11T16:48:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3N0amlqYXF3N1NfcmdzM2ZlT0xBdHFGT1JvM1NOM1ZZWkNyclNxQ3Bma1ROcS1hNHVldkllUk1MLURDdzY0cWVUbFJYa1FBOUhQTTk3V09YZHFTanA3MTdSSFJnQi1GNnNwTVRZVkhKMk0xUTdBS3JMdlMxUXVacnl6cmFyYkNYeVg4Wm01MkF6UGw2UDN5YW55eHYtVTNESm5BWG1haElxWV9hTGpZ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax"
+    },
+    {
       "articleId": "gnews_b5e386038f538845",
       "headline": "Vacina contra o sarampo é oferecida gratuitamente pelo SUS; veja quem deve se imunizar - ANF - Agência de Notícias das Favelas",
       "headlineTranslated": "",
@@ -1090,623 +1589,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "ANF - Agência de Notícias das Favelas"
-    },
-    {
-      "articleId": "gnews_4c7fc10e5801db9f",
-      "headline": "Vespasiano (MG): aulas suspensas após surto de sarna em escola; veja detalhes - Diário do Estado",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T16:01:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW93Y2xrUW5PQWVKNkxnUnVuNThmTnhROEMtXzYxX28zT3d6TTFvQms4bE45THdlMlMxZ2s0dHNVYWo2TWhfQlgxUk1OcVBOVnA4Y2RHeGxTcUxaUnVUbzFOMzJDWUVCVG1FV3ljSUgwZzhtNjBKSVIwdkVMNFhPTV9DUm04YkpxWmRxLUxZeXhmbEs5a3dxREdZTVNHdXhlXy1XNVZ6aHNqdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário do Estado"
-    },
-    {
-      "articleId": "gnews_588c6aaa1510f64f",
-      "headline": "Corumbá lidera registros prováveis de dengue em Mato Grosso do Sul | Notícias de Campo Grande e MS - Capital News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T15:56:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeUdscVhRaTlCVVA4WEVia25CSWNMa0M5c0dJcmlfZFNUWEo3aVZ5YXk4QktzWk5MOXY2LWRDLXJFYnBQSVdBZmRGcnF5ZVpQZ2hkcV9TRlZGSEZST29PeDVYbEk1V1NCYm5vZ0xzNTZZZGhjZlloYTh3N2RoVkU5WURwNjhDdVRvX2VuOGhyc2xSUGdwVHhheUotSGNwRFJsRXJUdTQtU2Q5THVXdDQ2aUpYbU9iR3FicHlVYVlISXR3ZWNQbG1yMHpEOGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Capital News"
-    },
-    {
-      "articleId": "gnews_1e1f9ac477f76260",
-      "headline": "Sorocaba tem queda nos casos de dengue e nenhuma morte em 2026 - PORQUE - O Jornalismo que faltava - portalporque.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T15:49:27+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeU5JZnE2V1ctcXR6bEthSWhDdnRjeUwwY2NUVXB0ZXpjU2FVU1p6ZHhKLUFCRTZWZWJYUnZwaXpwNEpsa0tqMnd5RDE4ekV5ZU9rUEwzOTNramloeFZYMDNhd1ZMclVfWGh5Zmp6c29WbmJNWHJBZk9JektUazRLU29WWjhtaTl3VnBHaXNPNWtGRUNyOHVVeF82OTBIeEpRVE5FakY0UnhGRnpMY1hGRg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "portalporque.com.br"
-    },
-    {
-      "articleId": "gnews_adaa514bcdc538f1",
-      "headline": "Ministério da Saúde libera R$ 524 mil contra o sarampo no Amazonas - O Cafezinho",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T15:17:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWhmU2FYQVpjcFVqa0FCOTNTZUJHb0NETWhPaHc5Z0xLaGhzQ0cxNndKUFRzSWdfcXFWOVYyNVk3MDNyZDRyQWV3UnBnLTBvWkRqd005c3YwQ1BKY1lIUDRGcVphU0N4Qmxxc2xmeXk4Wi1ocFlVUU1IZkxEQVQyb1huN0x0SEpqR1N3aVFkdks1NFVsNmdwdmtOZzZqWlFiTldJWHowb9IBrAFBVV95cUxNTzgzR0ljTHJZdGp1SlFhdUI1dTRVYmsxbWtsZ0Nwc1g4X2c0UEJzV0JkdTB2T1cxUW1yZHBrSUI5a1dSZDA5VjF0TnRVSFd1a0FhYnU3NDdodjJJYk9lLUwxUXdjd0E3NkxRM3VXVzdvSjlhemZ4V1BOSDFyU3BNdFhlV0w0Tmx5aW9iQS1hWHZ4Vi0xYzF4bWF5NkVxeWcwQVlFNUg1LW1vdWw0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "O Cafezinho"
-    },
-    {
-      "articleId": "gnews_cbb838c096a5bacf",
-      "headline": "Creche pública suspende aulas após surto de sarna infectar 40 crianças e funcionários em Dourados - G1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T15:03:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcjdFM2xVNU1aUjZZWThyY3ItZFVEM3huVUhrYVJfdGxPZXB6c2NLTDNaejlFTlNDUFVJUmZYMzFYTFFPTkxaU1lfTlJiSlhEMll5M05sZmxLbV9ZR3l6anczRWpheGRmYTdVSlBRWlEwRElIdzN0Q3dHTW5SUU5YM1Z0Q0FydnoxNUtfaG5tbV95cmxLalh4eXdlZE9BNkRqMW9pc3FwMTQtcjVqRDBZd2FOX1daa0tFNjl6THpMeTNTeTIwZmN0VlR4dFZrVU9nbmJsMUJzMzV3X1BiSGhydkc1clQwX096Zi05VjBMZTNBMXZSa0YtMXR6REFudlNhQ2haWjJLeE_SAZcCQVVfeXFMTVd6UEZCQXBGRS1jdzJ3YVNNeTVrMzliRUZxcW5jQmhQbXpZN09kYk5sLUhpVU84cWxHUjBxZ2gtbTJ3NUREbVpuLUdvQmo2VHVEc08zbnROYkJ0YkhQRlh6VEhUbmpfdFhmRjltS0hSaVdxMkN1b21rUUZ2V05ldGxDY09IeC02WGkxYWQtYkJIRjA0cmNycDNCV3pFZ1pJZG1zQ3VKZl8zZmhlWF83LW5IX2pwTFFzdTRxZ3IydllmNVdGYzB3c3NQVmFaSHEzb1BkS2NKSFNYOVRqaDFMMVA5R2MyNDZHY3FTQmVJQ3pLeDd6LVhrdlB5ZnM5TzdEZHlKQ0NDQnRLc0ZvNE02eGdmb0tQTDBR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_94df95f589ad75b5",
-      "headline": "Ministério da Saúde libera R$ 524 mil para combater sarampo no Amazonas - Clube FM Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T15:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGZmcEtqRGFxT1dWYmx4Rng4Q1BTZEY5ZlAxeXBFTnB0RmJqOTA1YWdNQnFLQS1WS3hZYjZYUFUzNGdyX0tPQW1odW4xOWZvdUdFZHVhSWJabkE0d2lCcnA5a1BaZ2xBbmRWTmRuYTByR3o2STJRbkhzZGdoMXBoZUNTaEZWMW4tejhnSDZHNmJjcWRydVpVSXJsWUsxZlloWTNWUjBQVVBEelpMS1BrZW9JbzdsVi01cUxaTXVaSlFyelpy?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Clube FM Brasil"
-    },
-    {
-      "articleId": "gnews_a4e60ac8bb216b0b",
-      "headline": "Dengue registra queda de casos em MS, mas Corumbá concentra maior número de notificações - Folha MS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:56:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMUpRTWkwRmlGNU03NFdzaTRvZGRjVjk2NEJ6MVI2Z1ZKWnhqNkJjc1luY2pKamtEMWtlZk9SRW1uaDc0VDg5UVRUREhvb2dfUklqMFVWMUVvQ3cwSFBJQjFDY3MweEN3aW0zOFpfT0ZuRUZhRncySnh0c3NpOVhiN2VSOHhNMUU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha MS"
-    },
-    {
-      "articleId": "gnews_c7054e1454b9b0d4",
-      "headline": "Comitê de enfrentamento ao sarampo mantém monitoramento para coordenar resposta no Amazonas - Fato Amazônico",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:46:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXFteGh2UW9ySDJGVEExa1RhNzlPblBMOEtuTjNmczBNTU5qdW9sbExNenVOUG01WHd1Tk9iNjRXSDQ4NGY0eGJhM3FHRlhrajBPV2Q1QW05Q1ZNd2taM0RYaVNQc2dqTW0zQzBWS1RiWmt2Y25iNVVMS21wU2tJcS1MWWNVckhaQjdOc3Bmb010Z3dSMGphZVg0dzRlcTY4UGliQmE2WVpPRXBOX0JEU3hibjliUXZybDM0RGx3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Fato Amazônico"
-    },
-    {
-      "articleId": "gnews_50087f868be7e007",
-      "headline": "DR Congo suffers the worst Ebola outbreak in its history - voz.us",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:33:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcElUTFJ6a2QyT0tLX2RPTlkwa01mazRuVVl0elZpTXp3ODlBWVlzU1lCUGFZbFQ4ZmpqVkx2LVZoQWVCMklCMjVmNVllYlFySEFpWThhckdOZXd2RlNPeDRsLXRZMnZ2QVBMWUVJTnpZQXJCbWd0VEFoTUJPVUVXVUNFSXBFdHExdGVtUHlnaUYzblMxOURScUpDd2ZvUE1vTUFPdmxiM1o?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Ebola"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "voz.us"
-    },
-    {
-      "articleId": "gnews_b8915e65431c2e53",
-      "headline": "Surto de esporotricose em Guaíba - G1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:28:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUI3TXNMUElGMUZCbC0wVUNySlNNS1ZuM3owRXg0ODRJRWJJcDFOaU5oRTdNVThUcXl1SzZ6bEFkVXExUnB1NGF2T1RJcHkzcUI2VEtwTUZpd0NnT0puTHJYRXJEa2E1b004MUpPRE9hdTltUW9USXdmUWJncmM1ZmpxZWRZSWp2SHNwbGNxcUhFZG9ldllEanM1VHF3Q0NUTjlGbUlnTDIzcGs0aHhvRmYxTlJFVE1JYVBoR3Bn0gHMAUFVX3lxTE5PT1RVRndYd2hYSGlUUTZ2c2t4SUNveUFqT3VFNEpmQ0ZESWNoR0FfTEJVM09sVkg2S0c1anMzYWtpcmVKYl9seVJjdnlUcnduZHYxNXA4NHRDa2tnZk1SaU8xNTZnM1ByRnFYQjZvMklVQTlmYmg0VW5zSUxsOGMweWdpa1RMZ256X0VKTmFQWVdTdXFxR1V4a0VzYWxJUXFqdVBlOEdwS2RqN1lOaWs0cGZaTHdZS2dVQUdlUE8wdFBqZ1R2eENJd3J0SA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_b14a3c5f23fbeeb5",
-      "headline": "Dengue ultrapassa 4 mil casos prováveis e mata criança de 11 anos em Mato Grosso do Sul - Região News",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:24:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVBobzY4UmMzQm5XTWhrVWVnNnNQUnEyWXBKN1JkV3JnUE8tOFBkMEliQ0hqTzIzLXpkckxOTGJGeXlUU0lzV2dlejhUV01vVU5pNW1SRldYT25pSFUxNFYteW1BVXdlSEZrWkE5TnFIb2VNaER5RmV2U1U5dk4ybzR0TEptWWM0U3AzZnc5aEpKbW9HbEpTZVJLT1hFbU92cFI5MUllcl9xdHZTc0UtZHRaQS1rOXBVdmZLVm42c1M?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Região News"
-    },
-    {
-      "articleId": "gnews_463267d11b56ac43",
-      "headline": "Governo envia alerta sobre sarampo e recomenda conferir vacinação - A TARDE",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:21:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjdUaTNNdGJxTElwSzdheWE3Tmg1MEg2Yl9oVlVlZ19VOVVKMWJpWVFRbjhYRDRYU0taSzczdkNVOHJwMnVoZW9ocDVMU3N0OGRKUVp0dG1YS25qUnNRUG9kMEdGREZQWG04MkNYd2hJd1pzdFJzZHQ1RFlQdEE5VGEyOUl1WTU2VU9sSVJiZ1BXOXllMDVuTC03Y2kycmhKX3hj0gGrAUFVX3lxTE5XZUZfSmFKdmJFVWhEdVd5Y2lvOXYwam1YUFQwU0xZWVFVZFdTZTRJQ0F0WktnZ1llcjJ6X1VOUnJkUHZLdmZoV1Bmek1WcUpWRk5SSk53Z0hQWkdsMVRrZmoxbW5PWkRyZmFkaHl4TXZBUlAzSHVXdDlPQVF4bFUyZ25jV01HNzV1WTVpN0FPZDhaNGFfR2VTMTM0UjZoMjMxVmsxbE05anJYMA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A TARDE"
-    },
-    {
-      "articleId": "gnews_6fa96ae31f8e3f31",
-      "headline": "Bahia confirma cinco casos de mpox em 2026 e descarta surto; nenhuma infecção foi registrada no Oeste - Portal do Cerrado",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T14:07:54+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04ZWpKbGJ4b3VZUFhPV05wb1p4eUNfeG1saFBUS3p6TTdZTG1ZSFYwZEJsOVlDdlhINnhwWHpuRVZodTlLd0s1T2hrU3E5ci1hMFFiTlNKS2dIUFlTMV9scXVGcThRYXRV?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal do Cerrado"
-    },
-    {
-      "articleId": "gnews_980900444dd066c9",
-      "headline": "Vinho de patauá contaminado provoca surto de doença de Chagas no Pará e deixa uma pessoa morta - Juruá Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:48:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHV0bWotbjJhdUZxT1lLcnJZNGFOYlN0b2ZoRzZDb0p3OTRJU21ueTZBSWhjaDJZVzF1TEQ5NTFjT0tYcG9ITzBqVUJmS3VucmVOY0ItOEtZWVIxX0tpcTM1RlU4ZDRtMm5GMU9ZUkRRdzZuVXlvVHA0RHYyNm5XM1JtV05CUDJLM2hIRzVRNlVCOTg3cE9GYVdTTHVrUW5sTlRzUWRTM0hZaVZOemItWVRHMjYzVVAxWHJ3ZndYcw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chagas"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Juruá Online"
-    },
-    {
-      "articleId": "gnews_4372c5fc46d57867",
-      "headline": "Novembro Azul: Mato Grosso do Sul pode registrar 1.400 novos casos de câncer de próstata em 2026 - Hoje Cidades",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:27:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2NWbm1zZ1FtWnJ2ZDNzcUlQRHN3QnVKUVlFdkEzd2RHT25WM0w1M2JPQ2ZZRTZNUW56RHFGcUFsX2xMbU82ajktVVlmN0dsMnZRUngxdnE1WVQ3UXltS2FnNlF6dk9WQS13OFhLQ2Q0Xzh4TEJUUFB1S3VJSi0tcDB3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hoje Cidades"
-    },
-    {
-      "articleId": "gnews_b747aedd76de1079",
-      "headline": "MS registra 2,3 mil casos confirmados de dengue e queda na incidência em 2026 - A Onça",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:24:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdy1HRmN1dGZjalkxQ0RSazlDSzM0V1VlVEh2aVhTSHVMNFNYbGstajM2RWliVk8tTGRTNW1VMkNzclA4UHl1dERhM2w2TTdZM3ZtS1FpSmF1VGJXcVFCTXJnVU1DZHpOT3VpS08yOThxcHFLVnVBOURFbzBROGtyeHpWeW5qemczSVJxYWVjYVlnRF9sQndDeGVWTXBreTdzdzJrUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Onça"
-    },
-    {
-      "articleId": "gnews_2991b93f51ad7c25",
-      "headline": "Dengue apresenta redução em Mato Grosso do Sul, mas Estado ainda registra mais de 2,3 mil casos confirmados - Hoje Cidades",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:23:29+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sQ2R5R0cwNGhOS1F3S0psYXp5Q0NaQW9mbmJBczRDNk00VnNrU2NaWjRrMHk5MXJqRlRqWlFLRXpHTEZ4ejN0SmZFdE9pdWx6d01HOU9MUW90ampPZHBkUndqX3hLRE5YTTF5UVlPM3gtQlpYR21Hd09sMmFDUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso do Sul",
-        "Mato Grosso"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hoje Cidades"
-    },
-    {
-      "articleId": "gnews_cec424ecd2700e53",
-      "headline": "Reinfecção por dengue pode ser mais grave; entenda o risco - Tribuna do Paraná",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:23:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRjR3c5aXdXTUZZZTY3ZmI1WDU5dFZCZFVzWTdHTExubTFMNERPZDhoZUFmUjdaRFZTQjRYTnI3ZDJURjRqeHhCa1pYeS1LVDMyQ0xSekNheUtMQ09Yb05uVmVTX0ozQjc3d3JYdkFrVEZmVVdfWm5nUXBDSkx1YUFpMHdscFFvRVpnZkR0c0RndHBfeHRNV3luY2dNd2Y3WXNfMzE1cExXUEM0RWUw0gG0AUFVX3lxTE1YelRaWlM4ZWk4andlYnJseFh4TVM0MWRKVHl5UWxnMHhiRklZc0p0OVl0OWJaU3Q0a3lLak9YWGdoeUNhVDNpM01lbjhERjZUVnZTcm5hWllBaUtyQTJCVk9XYV9YeTU1S3FxbW5MMTRhUXB6bmUxSmlfNlBWbnZXV2M5WWxlX2t3ZGY3WmhNb0lEdXAxdTA4WHlubXA2dkxjUTliRTRqUm5pUXZ3cGkyb1RzaA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Paraná"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna do Paraná"
-    },
-    {
-      "articleId": "gnews_29f114295faca074",
-      "headline": "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará - A Gazeta do Amapá",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:22:55+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3R1QVRoTFVBYXBvLUp0TXJmLUlUckhoOWJraVFONDdvM2RmbzBEVUI0Mm1UcUQ5TTYwb01MUmY3R2hJR3BLVUMtU1pHMGVCc2RueERENjhRTHAtN1RnQkZRMXRodnRJeGUzSFB3dlEwQUNaSXdoRWtpZFNKenh4LUI4ZUU3RWpad3BxTGlUNE13enp1X1djV1NBVUlla3lrcks2dzluUEZldw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chagas"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Amapá"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Gazeta do Amapá"
-    },
-    {
-      "articleId": "gnews_389f41dd09928862",
-      "headline": "Casos de dengue caem em MS, mas Estado mantém alerta contra o mosquito - Jornal da Nova",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T13:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUNDcXNzbU5vb29wUDEtTC1reHZBUWdKMkNfNG9vSkNrbVpxZzFQLWVzT1V6bU9qNVZmLTBMUUJTUU5CQjF0ZXJYT0xueXBZMndDOEpvVGN5MWE0eUl2TE5fX3REa3dDTlh0aXhKSjlraG1iRzNUV3FGeFZOX3JtalZ4a2xKejYzN2NrS3BmbWFrZ010Z2pseFY4ZFNqLWRUOWRxSnlUa2JfRUVnanhmalpB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da Nova"
-    },
-    {
-      "articleId": "gnews_2f694ba509987e1f",
-      "headline": "Mpox: o que você deve saber sobre essa doença que está crescendo no Brasil - UOL",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T12:28:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0pZdGJia1huQlpIYVZ4dDE3X1NNWGNoU0RFdmZsWEZ0YzFPc0lsSmU3N3NCc1VRZ2lQTjJfdVpQczc4YjhWNDhjRTRBV3lhSlVnN09wNUJlM1d2Y2YxMDlwbDJjOWVBdTFMck1td0dDZUM3TjhtVk5jdF8taHJLU21XVVZ3TDBTNkJNUDhlOHFvNTY1Vk9SNTF2OFFlUjRqU1owMExhMUlscjIzaFgwbk1TUDZ2azBjZWxUc01CYw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "UOL"
-    },
-    {
-      "articleId": "gnews_c158fb565025d3cc",
-      "headline": "MS registra queda nos casos de dengue e Três Lagoas planeja ações de combate - Hojemais.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T12:25:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHk2ZENtd3pQVy1QR3ByaWVxdHhuUENqdlVnUHg3QUdBaFBjSXNPMzRZcUEtNkVZZmE0WTJTbXFITTB2SFEtQ3RfLTJQX1NmMWZzZWxGc1owRU93bS13OU1ENE1ldDBfZ1NqUEFpbEh2UmpPUE54aWdxSWZma3pTNl9SeE55UWpMN0RSbm4xUVNxOThIUGVOMThxVGNLSks1T0lQZ3RXQVhFYVZuY2pHZ1l3SDB2cHZsd1pkUDFTeUhtQUJVcWpiNTJB?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Hojemais.com.br"
-    },
-    {
-      "articleId": "gnews_05c7db18cc24475c",
-      "headline": "MS Registra Redução Dos Casos De Dengue, Mas Prevenção Deve Continuar - folhadoms.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T12:08:26+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHdmTnYyZU5uTF9hNUtSY0N4Z1dheVFpRFAtTnR3S1dqMklMSTNSQWYzLWdTb01pek5NR0NWemROSGtoVXFOZnQ4S1YxVTRHbUEyeVNWblVpZm9vSEtTMXRZMWQyMXV3XzZ0ZVktVk1vblNvc2YyZURISGg1TzVYVVY3VVZfdmxqcmlJVkRoQ1B0LXNvT3NSZ0p3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "folhadoms.com.br"
-    },
-    {
-      "articleId": "gnews_3304b43e3d3b7159",
-      "headline": "Casos de mpox voltam a subir, antiviral falha em testes e Brasil compra 25 mil doses da vacina - The Conversation",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T12:06:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkpNQ3NSVm5nN1RuRE5MckstTWNnMDhnNE85MjA5Y1p2MWpkdXo2VUNBaTREVUFCWlZ0SzZFYmFSNk1wR01fUXFndElTeEFWbS1TbUdRXy1EYXliVmlzTi1vdmlxeWF1cG5HeXBid3ROb0VKMWRELThzWXRFd3FSVFlEUGdHSF91RnlFYk5LaV9yNDdvdmhkTlV4ckJuTUhjMzNGYldLU1VZQUpFbVBlOEdkUWt5R1lOdnBnalRzWmNxNkU5bjI0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "The Conversation"
-    },
-    {
-      "articleId": "gnews_54aee73a7b20e826",
-      "headline": "Santa Catarina reforça combate às doenças transmitidas por mosquitos antes do verão - Ligado no Sul",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T12:00:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG5LVHlGOW9jSE5Hekt5UU53TzlzcGtERi1RbE1VSFh1MzRiWUk4d1hMQmM0WGl4eUk4RHl5b2w1NG5lNTZaYjVRZVlnWWp4UnM5MjhjQmNDM2NJMGhsZ0NobVRKVU0zU25nMi1YMUFwLUx5czZtcTBKYlNrQXpwZDJkNVhxOF8tMnR6eEtjUkExUFVROTh6ZVpobWsyVWdaM2dQTnpmb0IzVE5VdHpxcWtDX0N1SWVWVHZsc1B3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Ligado no Sul"
-    },
-    {
-      "articleId": "gnews_17a7839d1e07a95e",
-      "headline": "Amazonas mantém comitê de vigilância para monitorar riscos e combater o sarampo - AM POST",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T11:54:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWtmQnlHbmNXNE5WWk9tTktrMFJJMG1fTHN1STc4QlUzLWZYR0FLdFFKTkhTeVdtTlhJSkJnaFlueTR4TE9WbXZVajFyYmpuLUNMckwtT3hfVl9pa0RkVmNEbW1xd2ZQZm5IQXNLQmhYUWJDdDd1ZDE1UUVpSUY4d3d4WkVUNERUc3dmOGgxQlVrS1M1aGYyV0ZhS0MyLU1SSFRkeXZHTzZHR0wybERfdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "AM POST"
-    },
-    {
-      "articleId": "gnews_b305f9987b90e86a",
-      "headline": "Vigilância Epidemiológica realiza busca ativa preventiva de casos suspeitos de sarampo em Treze Tílias - Rádio Tropical FM 99.1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T11:35:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN09ZejRQSWtlamJmZ01pMW9ZdmRrOTFIb2RQaWhwMjRKVzJxNkJ4bm5fdm4tTHUzUkpsaTdyV0JGQWFXYUlHZkpncjRQNWJoZmpnWHNRdldVay1FMDF6RzNuNUxRTnlxWmVjQ2tBOVRDdUczalJIaGdRamp3ODVNZm1NeXpuMDhyQU1TVmtxaVJuTUJKNS1qVmpkckVGUGtPdm9hb0N4NGkyQ1M5bTBzTHJDRkFKNGQzN0xjcDZ3ZUJFYkdDWEU4Szc4eU1qNDBJYVdtcQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Rádio Tropical FM 99.1"
-    },
-    {
-      "articleId": "gnews_eec4325f2f442d86",
-      "headline": "Casos de dengue caem em MS em 2026, mas Corumbá e Sidrolândia lideram registros - HoraMS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T11:26:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4N01rcGdMQVFSbTVGRWU5OVAyYVBweUx5bEpFVmROLVcxbHgyZGFMR3RISGdlQjFLWXNjNzlOVzZPaW9xZU53N3JlRW12Wkk1TllJLURUdy1nVGxKMWdKYWpIRHhsMnRzbGtvQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "HoraMS"
-    },
-    {
-      "articleId": "gnews_2c2e8e5d3f10c13f",
-      "headline": "Governo garante a compra de 25 mil doses da vacina contra a mpox - Agência Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T11:18:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnYxdGFFLS0wZmd6V0wxNDZvT3M1aDlad254T0REU0ZOZFRQczl6dWFscjRCVHR2Tk1UbGlqNDMyNmhjcVJBeTZKU3dOM0ZTaFlOV1lGS1BHQjRwQ3NHZTBJSlV6Y3R2c2thS0oxVm5iTXl4dXk5NFBlU1dPZURweTRpS3RNLXdzMkx6T0QzelVtenJIdmtYOE85ejlkQzF0eVNoNm9UdzhxV28wV1BfSTVCY0hib1ZONm9YWEhtYnNsb3gwM1BJM2Q3NFZFeEU2?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agência Brasil"
-    },
-    {
-      "articleId": "gnews_cf9bffcff85e8ba8",
-      "headline": "Vinho de patauá contaminado causa surto de Chagas e deixa 1 morto no Pará - BossaNews Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T10:47:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTh1dVRFVjZ2Y3FPNWZhRE9EcWNzcS1tZmtEZkhWSXQwVlM2RGRkSFBENlVNZmFnRDNiZGQtUl9lLW1Dd0MwdXFZeHp1YzNsd3hrRHlGLU5xY0hXSXpDQTZBMnhsM3FJX0wyWk1KeTAtNHFkQWdVOWsxLTNMdTlGaTlCZ2F3LU1NbU1ydkJ1R2VReVZrcXlveGJWVkhBWm1C?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chagas"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BossaNews Brasil"
-    },
-    {
-      "articleId": "gnews_10095c21dc719c8f",
-      "headline": "Advogado e jornalista, Sidnei Pimentel morreu durante viagem a trabalho - G1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T10:18:25+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdllvOURiMkRZRGtlSFJ1N2ttX0JWbnJpcWVxb3lqX1lrTVBEbzkzcHFDeHdlal9SWEpLTFlkLTQ4bkFtUkFpbERXX2tJWXpXZ3hVMFYxRnJfYVgzbjI0eGFIcmdwcFZ1clNkNzZreTkybGNxZFZDYW1vUV9XalFwcmh1a29zMnI3UDlzbkFFSXRXUGRiV1daVzBUY2V6R1lKeVBHcENMQl9MdmNKc1FJTUptWWZGejJZdnQxTG1QNlozTmItNlVjRF84b0F1c0prb0JfZktiU3ZDTzdUR0RzWDZWa3l1aVhqd0HSAfgBQVVfeXFMUFc5RVpSWjNJUUJaOE9iNlI4SFFFRWd6dDEtbEVucDVnY0xiZWJrQ3Q0RmtDNXRrWFpHU1EtUnA5Tkh2M3FONVVjWE43NnhYOERqY0NHV1d3YnZLdTFEbzJmazFielBtS2lHRnd2aGlWME55MV9QSzJDVzVoR3hiQ0VKU2VldUlTTU1Gekc3R05OMlB4d2c4R1lPODRQZ3BaMDMxZVBWUEg5bGFIZ0FVT1ZTRVJWQUNpeF9paERjQ2lFWmhscDhXNU00VklQTzJ3dy1wRnF0d1AwXy1MZGJfcGNlVFRtZzVfbEpYV2owalV0YzNQZkRLSkE?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_6ee8a3533dac83b4",
-      "headline": "Vinho de patauá contaminado provoca surto de Chagas e deixa 1 morto no Pará - Metrópoles",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-11T09:37:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUhKMm9fWEVCUE1SdWR6ZURUTWk3UV9VXzU1SDdKN3F1LVg3TW00eFFuVzhFXzB2VXBKY3pTYnZ4RTRZYUVwOGxDcnpCTDU5dTFlNWtiUXV6WTRXczZyMGNieEU3cEpRX0JEZDBvcXo5ZGE4RGRSaDZtWkdXbTRQb3huU3R6N3g3NWtLa1Y4dk5tbVE1UlNXRXkweFpIVTVCdGdKNThDOTNNeFhnOGc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Chagas"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Metrópoles"
     }
   ]
 }
