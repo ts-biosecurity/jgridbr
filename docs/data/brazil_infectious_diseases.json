@@ -1,33 +1,91 @@
 {
-  "generated_at": "2026-11-22T00:29:01.754857+00:00",
+  "generated_at": "2026-11-22T08:11:08.655799+00:00",
   "date_range": {
-    "start": "2026-11-20T00:29:01.754857+00:00",
-    "end": "2026-11-22T00:29:01.754857+00:00"
+    "start": "2026-11-20T08:11:08.655799+00:00",
+    "end": "2026-11-22T08:11:08.655799+00:00"
   },
-  "total_articles": 48,
+  "total_articles": 43,
   "state_summary": {
-    "Pará": 11,
-    "Brasil (estado não identificado)": 22,
-    "Goiás": 5,
-    "Rondônia": 3,
-    "Paraná": 1,
-    "Alagoas": 2,
+    "Brasil (estado não identificado)": 20,
+    "Acre": 1,
+    "Pará": 13,
+    "Goiás": 4,
+    "Paraná": 2,
+    "Rondônia": 1,
+    "Alagoas": 1,
     "Santa Catarina": 1,
-    "Bahia": 2,
+    "Bahia": 1,
     "São Paulo": 1,
-    "Tocantins": 2,
-    "Piauí": 1
+    "Piauí": 1,
+    "Tocantins": 1
   },
   "disease_summary": {
-    "Dengue": 29,
-    "Chikungunya": 2,
-    "Measles": 7,
-    "Doença infecciosa (não especificada)": 9,
-    "Malaria": 1,
-    "COVID-19": 1,
-    "Mpox": 1
+    "Dengue": 28,
+    "Chikungunya": 3,
+    "Chagas": 1,
+    "Measles": 6,
+    "Doença infecciosa (não especificada)": 7,
+    "COVID-19": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_33a0c12a2f00622c",
+      "headline": "No Brasil, um mosquito modificado alterou a propagação da dengue na população infantil - Tribuna do Sertão",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-22T06:18:40+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQW5VWnVuZVBuZ09RMjdEbjhnZGxneTJ4SWNJc1hweTVTOU9HUTlTbm9xbzBwZldDNElicXdPOE9mdmhYaklWZHh2RGdYbjNjQnA3X0VtWnFSeTMycjZqMHlPdjJGNWl6eG0yOWl1QzhaaUY1SF9RcUtUY1Z5ZTFLREllUmlfMWd0N0M2V09iUXVwYVNwcUllemZaTENwOUlkdkFhQk9GUDdiNzhOUlg3emhFTnNyZ055bFZ1dkJNMC1rQXJTb0thRElYeDhSRVZpTUNqbHFuLUZRMEdVSkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Sertão"
+    },
+    {
+      "articleId": "gnews_1856f8ac69815214",
+      "headline": "Segunda dose contra a dengue chega a 19,6% no Acre - Acre Agora",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-22T05:22:13+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUpEU0NtOEtWTGpDeVdGXzN0WUxWM21peDFFcVo3VEwxNUhIUlhUcHMyZ3poTHhBRG9rU28teUltRnV5eEphRUd5SjVQOUVIc3kwYk8xODdDWkppWjdCeGVkYzJKd1lZcC1ualJ1bU9aWFdzX3JJTm5fZVRPX2kzWk1TaWFqVHZDbFHSAYoBQVVfeXFMTmFKRFNDbThLVkxqQ3lXRl8zdFlMVjNtaXgxRXFaN1RMMTVISFJYVHBzMmd6aEx4QURva1NvLXlJbUZ1eXhKYUVHeUo1UDlFSHN5MGJPMTg3Q1pKaVo3QnhlZGMySndZWXAtbmpSdW1PWlhXc19ySU5uX2VUT19pM1pNU2lhalR2Q2xR?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Acre"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Acre Agora"
+    },
+    {
+      "articleId": "gnews_f4cc4f1cebd0fc48",
+      "headline": "Mosquitos com bactéria especial reduzem em 69% infecções por dengue e chikungunya em BH - Tribuna do Sertão",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-22T01:40:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdkNNcnlNM0c2aWtwa1V6QTBLbHdzUzBEME9qWTUxUk1wMFVJdEdlZWhfOWZCYkxxQjBXdnM3NFRRYkJtR1BGVFVxaTRRV3psYm9aRlZxMWhVMWwzMWltZHFSc3ZIYWhjMEdnVVlxeGt0ZlB4bmZFVDFsOFpkQ2pkdkpFTV94R01aZkt0cGpVclJaOS15NGhkdzVFclpjVnZMM2RmSlBJZGl2ZlQtalE4NE9RXzdQQ1FxNzNNVEU3ZVlCZ1c0cnk2OU5Pa1psamR1ZktpNmNOTTlNSDN6amdB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chikungunya",
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Tribuna do Sertão"
+    },
     {
       "articleId": "gnews_0703b1ca8bd24589",
       "headline": "Belém e Santarém respondem por quase 60% das mortes por dengue no Pará - Portal Gurupí",
@@ -46,25 +104,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Portal Gurupí"
-    },
-    {
-      "articleId": "gnews_a042473430771dff",
-      "headline": "Mosquito ‘do bem’ corta em quase 70% infecções de dengue em crianças - Portal da Cidade - Mirassol / SP",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T23:22:16+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGlfSkxIWG1Mdll1bmFkZno3SlVLQkhwdkZVeTRkejlEa1lQSXk2UUQ5X1dHaFNraVN2S0dMMThwVHRub1A4R0d1TlBUN0plWVBfWFNlQ0xPQW53YXlTanNHaEpWMTZxazR4dTNiUk1vc2dSRzdwUUhhM2Y2UTNwNDJHbkFEeWd5d2tXbTVocFdUQjg4N0pQWTJUOGotOW0yN0dSeWRpWjNLUmxFNXZsMmloM09jcnM3VkkxWW1R?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal da Cidade - Mirassol / SP"
     },
     {
       "articleId": "gnews_dac81fd840391f27",
@@ -95,8 +134,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXM5am1FaFlTNVpzOVE3all1WnRwOFlUNlBWcUZudE52c3VocDM4RDNZSDB5OTIwa19GWjdfZGhELXFTQ21CdmtWNjk3MjNkN1FwTTY0dm5TVFg3dnZQbWhLRnowTXplbUsxS0FraXZlTHAyVEppXzRuQTcwRlZyYzJqTUJiWHpQZWd5MWt1WXBmT1NyOXphU1lkUzRaNElUYTRLUzRvWmVfc2xNTlRhUGFSVjR4LVAwclE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Chikungunya"
+        "Chikungunya",
+        "Dengue"
       ],
       "locations": [],
       "states": [
@@ -104,6 +143,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rede Onda Digital"
+    },
+    {
+      "articleId": "gnews_896feeff83b27f01",
+      "headline": "Surto de doença de Chagas deixa um morto e sete infectados após consumo artesanal de bebida no Pará - ncnews.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-21T19:47:24+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2kydzN3NWlERkFBb3FsSFI0NGUzdFh0Nnl4WXc2cm5TMjg4WXFfUkNXbko2eXFUNms5NnNUWDVqYTQtVzFzekhZb0NoRzQtTTM1NWxXcDQ2MkkwOF90eFBhV0F5SHd2MkZPSjAxZXBpdTBJaGUxR2F1S25EaU15MGtFblI?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Chagas"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "ncnews.com.br"
     },
     {
       "articleId": "gnews_c99de50de195fd00",
@@ -201,6 +259,25 @@
       "sourceName": "Repórter PB"
     },
     {
+      "articleId": "gnews_a042473430771dff",
+      "headline": "Mosquito ‘do bem’ corta em quase 70% infecções de dengue em crianças - Portal da Cidade - Mirassol / SP",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-21T17:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGlfSkxIWG1Mdll1bmFkZno3SlVLQkhwdkZVeTRkejlEa1lQSXk2UUQ5X1dHaFNraVN2S0dMMThwVHRub1A4R0d1TlBUN0plWVBfWFNlQ0xPQW53YXlTanNHaEpWMTZxazR4dTNiUk1vc2dSRzdwUUhhM2Y2UTNwNDJHbkFEeWd5d2tXbTVocFdUQjg4N0pQWTJUOGotOW0yN0dSeWRpWjNLUmxFNXZsMmloM09jcnM3VkkxWW1R?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal da Cidade - Mirassol / SP"
+    },
+    {
       "articleId": "gnews_1646d19cd886a476",
       "headline": "Cariacica registra queda de 75,6% nos casos de dengue - Prensa Mercosur",
       "headlineTranslated": "",
@@ -239,23 +316,23 @@
       "sourceName": "G1"
     },
     {
-      "articleId": "gnews_d7c4d93512f79a3c",
-      "headline": "Prefeitura de Jaru realiza mutirão de limpeza contra a dengue - Rondônia Dinâmica",
+      "articleId": "gnews_91c08acd3892770b",
+      "headline": "Quem são as vítimas do grave acidente na PR-471 - CGN",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T15:27:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdm5zWW80dXRhcjJPczFWYVFVQlNfRUFHS1M5aFhWVXpZWUZKTW5xa3RJYkhpMVZHUnAwVmZSMjJQcEJmdDFDVko0dUp3V0hBR1ZOaTF4VXpsOEtndURFcmxCbGdyTUstbXNCQ0ExVTFCa1RXMFFicDI1SGI2Z01IclB6aTMwS1dCaGlSZy10anFjRjJ6UUNrSFp3SUVuRWVLMERWeUtUWEhnZ1JuWVlJbDdFSjFST3FQRGhTSE40WUNsQQ?oc=5",
+      "publishedTimestamp": "2026-11-21T16:35:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnNFWWQxU29ZWDZsTG1zUzluT2thZWpJUUZwY3VfcGhWSG1ZVjhBemlwanBKQ0ZGbThybjRKdHE3YV8yclRscVZYS001cGJTLWNnQTYtSzhVeV9Mb2xzbWRua2x2a0hrdS1MRDdlUS02SXJUamtxUGpybkNiakNQZmxSa0JtclYwa1E?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue"
+        "Doença infecciosa (não especificada)"
       ],
       "locations": [],
       "states": [
-        "Rondônia"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Rondônia Dinâmica"
+      "sourceName": "CGN"
     },
     {
       "articleId": "gnews_5256f7a9f16885e6",
@@ -316,25 +393,6 @@
       "sourceName": "VerdadeOn"
     },
     {
-      "articleId": "gnews_46f418feb78f6547",
-      "headline": "MACEIÓ - Maceió Intensifica Combate à Dengue com Redução de Casos, Mas Prevenção Continua Essencial - Repórter Maceió",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T13:45:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0tTVXhmakYwQWFCQ2lFSWItRVloN2hpUmt5NjloLWNNNE1OMFBVclFLOGJnSWF2ZGZjZEMyeHBDSWZySEl3bjZEdmx5M1p4VU1lN09BZktzc1lkY2RYRGpHTTVtUWJvYl9wUlVKeVMybGItel93RTdjVFd3cTl2S25abE1yVV9wWnl0ZkxNNkVvek9QdTgybUNvWUFOd3V4OXdTYWNXaXVpQjdGS1NHSmpmS3I5T0hRR0Q1bUxGTDl3SldtT3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Alagoas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Repórter Maceió"
-    },
-    {
       "articleId": "gnews_923ba5a015c2e2e8",
       "headline": "EM VILHENA: Vigilância Sanitária notifica ecopontos e intensifica combate à dengue - Rondoniaovivo.com",
       "headlineTranslated": "",
@@ -386,8 +444,8 @@
       ],
       "locations": [],
       "states": [
-        "Alagoas",
-        "Pará"
+        "Pará",
+        "Alagoas"
       ],
       "dataSource": "Google News",
       "sourceName": "Prefeitura de Maceió"
@@ -431,25 +489,6 @@
       "sourceName": "Portal & TV Gurupi"
     },
     {
-      "articleId": "gnews_1ed855b3637a70d7",
-      "headline": "Escola Municipal Rondônia recebe ação educativa do Dia D de Combate à Dengue em Itaipulândia - Correio do Lago",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T11:56:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHRRanQtd3pnMlhNb2dtRUZfaTVnejJUa2JtLXp6OXZGUkJyNzJ1ZWZMNlUxRVFMT09ZcEZvcE03Y1ZBaXc1Nzlta05MWERBNjlVUjBMWlYzeW8tNXRzeFJSSUlWZFNKQVd4OE9uWldORlpTRzlCbTRUNFYzMUh2WThJV3RoYkNHSGNsR18tNkhPamZjUm1KQ0RKMTJscnh0RUYwbHJaOXhObXVoVjZIQ1NyX2xJMXBOeUk4MEhOR2hzUURHTzB2R1drY1cwUnJxOXlCVzlZX3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rondônia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Correio do Lago"
-    },
-    {
       "articleId": "gnews_0c008c50d9964a36",
       "headline": "Belém e Santarém concentram quase 60% das mortes por dengue no Pará - O Liberal",
       "headlineTranslated": "",
@@ -467,25 +506,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "O Liberal"
-    },
-    {
-      "articleId": "gnews_ed3b238e117ca897",
-      "headline": "Pep Guardiola visits Bahia in new City Football Group role - Sports Mole",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T11:00:31+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQczVDUVh0UmhObGItMUxkd0dwTVF2VE9UX0VhRGNpbU9iZHhnYUp2ZU9ZaTdwQzhpdFJRUkxuWUhOTktrUjdhOVJycTJzQTJ4ZUVZak9QbWtRZ3lrcHdSQmJKNkt4V0cxaGlfY1pnamtjUEJYSEx1RXhmeU5UOW16Q0VoUjZIMGMtMVNVdVVVdi1JN212SnN2V0RQV19GS0JVUENQelB5c19tcTBOQWV5dUVUcXFBU1ZLZEJIVlJ1cmRfTHBXX0N1anZSeU04U0FFdU0wUFBNZEdoQnFmMEwxYmFkR1lEMUpU?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Sports Mole"
     },
     {
       "articleId": "gnews_f6a40fa5e7663678",
@@ -562,25 +582,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "DW.com"
-    },
-    {
-      "articleId": "gnews_0ca0305b21626c94",
-      "headline": "UW Medicine: Gene-Engineered Malaria Vaccine Protected 13 of 15 Volunteers From Brazilian Strain - Tech Times",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-21T02:33:56+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON0IzbkF0MEhObXhVOVZ3eUlXSGtOU0dtM1RBMnBiNGw2T05jdHBTSUNsY2M4M0RRaDBvQ0dqWjRmWUZMSXlLN0RkOFEzWXo0eEtJdC1WT2VPVGNRQUJlUWJyeXRJemVCV0d1MmIxOHRXeXh4ZnpjNV91ZDRYZWhCcWRlc0I0Z0FUclhYMU9oYTZLbVM2SVlsVGpOZVVPYnZQc0R3VUNpRlQ2dTVLeXJBUF92cUtIQlVPdkRLU0NRbVJRM2dkWTlQTVNrVGtOT1JPa094UkUwd3Vsdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Malaria"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tech Times"
     },
     {
       "articleId": "gnews_bf716ba3d2275cdd",
@@ -699,25 +700,6 @@
       "sourceName": "Mais Goiás"
     },
     {
-      "articleId": "gnews_6272c8d99ab2701e",
-      "headline": "Dengue no ES: 100 mil exames e 200 aparelhos portáteis - Tribuna Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T19:17:28+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NcEE2dmZ3NTh3LTVITVlHMlFJaklKd3p6a3FSUWVHM2J1ZWdYSnJkRENTRTBVSUlGVDJPSTZ2N2lfS1hJRkxJdUVrdjFZNHVPcFVvcUltWmxvNEk2N1JiVEkzNFQxd0VQOVMzQmNyMlZwb2ZMZWxwcHNSZVROdw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Online"
-    },
-    {
       "articleId": "gnews_534fbf11e04d675b",
       "headline": "Casos de sarampo nos EUA se aproximam da marca de 6 mil - Agência Brasil",
       "headlineTranslated": "",
@@ -737,23 +719,24 @@
       "sourceName": "Agência Brasil"
     },
     {
-      "articleId": "gnews_7d771c1265d3552c",
-      "headline": "BRK mobiliza 25 colaboradores em ação contra a dengue em nove cidades do Tocantins - Surgiu",
+      "articleId": "gnews_546a4b7ead4e8575",
+      "headline": "Dia D contra a dengue terá mutirões e ações de prevenção no Paraná no sábado (28) - União Metropolitana Curitiba",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T14:02:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGRJWVZYSTFJYWdIY0JaSHlKS0MybFdPbzE2bGlqZ19QRFNRY0xCdDNzbzZoLUNwQlVqTzl5UlJXa1RhLWN2U3VIaGJqOXNvWEltaXY4cVpZUmpGekllQ0lLa2t1SGZwRmtWNmdjQU9oQXdlRktDZUZPTlJWbmZ6M2hGOWpYYWllYnlIWThRWnBxM2RheVVnR1piM3pRSkxKQnFpN3JpUW5PVU1ibTNqZkprY0ZCczA?oc=5",
+      "publishedTimestamp": "2026-11-20T16:02:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXZMMS1tcDlRdDBKWGpHQWVSa1V2T2RfZl84T3o0YWdVaWVUZTloejBxUlJQVFZJM3NkOE9XRGg5WTVNZUhFQjRqckc0TV9kT1hYV0VqSWg4aVBqTFVENm1KbWt6b2Y4dGI0ZjhLV1BWR3luU2ZqVHhrN2Y2MURIWmNBMHlkT3ZZbmJjQjhsU0UzcEcxV1lEeTBzTFowM0RQWHZwLVp1Ty1wVk5xQUFac3pQUy0?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Tocantins"
+        "Pará",
+        "Paraná"
       ],
       "dataSource": "Google News",
-      "sourceName": "Surgiu"
+      "sourceName": "União Metropolitana Curitiba"
     },
     {
       "articleId": "gnews_319397f5973ba51a",
@@ -794,13 +777,13 @@
       "sourceName": "G1"
     },
     {
-      "articleId": "gnews_1644706854c10f00",
-      "headline": "Cidades | BRK promove mutirão de combate à dengue em nove municípios do Polo Tocantinópolis - T1 Notícias",
+      "articleId": "gnews_d5316ffc3fb570db",
+      "headline": "Cassilândia realiza mutirão de combate à dengue neste sábado - REDE JOTA FM",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T12:05:18+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblktcFFCUDJQMktJbExvQlVadGNXX1ZRaXlYZEtRcUhXMWhWQnpVVDF2eFR3OVJJSVlXYjZ0V3REbHc1X2NMQVlRTnRyZC1KWmFMT3Z5cGdDd0w0Rk1xY0hXYzM3WGhVZWcyQUNoRDNXVDdSTnFTVGpIQUhEcm9nN0Z3MkIwTURpQnFCX0dTTEhQOTctbEZpM0puLXpoRWp6eGNzbTQxRGVwbDJMdWtKb2h1RW9tcURtbjNjY1F0M1c?oc=5",
+      "publishedTimestamp": "2026-11-20T12:05:53+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHdvM2VJZ3Zzb3lKUUx1SHZXVG1ZODByYTJhNFBFQWdteHVZb0hzZFp1TV9YVTFXVzljV3FMMlVuOXc5S2xDR25HdVlwX0lzLVNXZ3YwVF9hbS03eHIweXRsXy1GTUdIU0hURzZ2MDVUV1BrdTVuYWJIU0dVUXRhQW9QRWRtMHZheWdoWDNpblV1NDEtVThpZmNmS0tHZkZ3cl83ekhsSkR1YVJVMUJwZTlDenoxX2t1bF9VUG5qYk4tVi1ZWFVr?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
@@ -810,7 +793,7 @@
         "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "T1 Notícias"
+      "sourceName": "REDE JOTA FM"
     },
     {
       "articleId": "gnews_03610065c0626982",
@@ -868,82 +851,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Tua Saúde"
-    },
-    {
-      "articleId": "gnews_4fa9dacbdb73bc30",
-      "headline": "Goiás monitora casos de Mpox e descarta situação de alerta após primeira morte no Brasil - Diário do Município Anápolis",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T03:01:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzZ6anpBVVFad2psOUY3dzJVQzI3aGdrOHoxcVZkNGxJUlZudU1ZNVI3N0hXaUg5aENwM0NvdUppN2UtcGtKZk5nQVdEQWlNekRxQ2hpSTFzcjhERUtYUWFVaUV5cDVyTzVFS3F3cTdwbXdvWGRuQUM5UmtUVlJQVmdZNnUwNFd1V3ZGNllNa3RfQjN2MEdWMUlwT3dHTks0ckxIOV9vclk1NHNDMU9mUmU3aDAycnlTazRCT2c3QmpBUzZfUlpDVWlMX1c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Diário do Município Anápolis"
-    },
-    {
-      "articleId": "gnews_28b32ac82e16b8dc",
-      "headline": "Brasil chega a 70 casos de sarampo em 2026 com risco alto na região - TV Sim Brasil",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T02:06:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHh3eU5SNURsQlpDRVUyeHB5RzZwUHZ6b0hSZE1EQU1ER1FEWmxyRHJLd3c1TFJCMXc3Qm5SV1hnY2c4RlVmbDRaRGdGOTBIT3hJWnNxME5GRmtxZHpsXy0zUmlTamhzbHE1c2NRb2tSSFN3blhuVWpEQkZQMEVjdVdMWkFqMXN2MVNWVnhlSGR1cFhWZnVTdmY0a0R0OUJ6SlBWZ0M5aW0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TV Sim Brasil"
-    },
-    {
-      "articleId": "gnews_a1b78ad069c2b597",
-      "headline": "Washington Post. . A rare encounter with an isolated Indigenous group in Brazil’s Amazon has raised concerns about uncontacted communities. The Awá returned to the forest after receiving food. Their territory faces threats from illegal logging, poaching and l - Facebook",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T01:15:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWlZMEcxWGNRdUVFa3ZwR2EwTms4TjJHOENiampIUy14UXpNTWxQMGdsYWFCQ3Z1NXlpVEpNTlNsUWt1ZDFjMzdDMmxpcU5mMno3TDFVcnhjVHVnTUk3a0FlbHJ1UkZ2R21JZF9qV3dKckZxRm9fOVZHemdkZGxhaTNXNjVPeGFLUkx6OEZkcGI2TThtenZrRUhlRFlEbnZubHNyM0dNclRTYUhvRVpsRmRLaDk0cllqREtTZlZ3R1JSZ3ZZUm9CQTBBTnZRcklmVjFKZnoxejNqWG5S?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Facebook"
-    },
-    {
-      "articleId": "gnews_b89d86fc1e5ce94c",
-      "headline": "Pinheiros vence o Cruzeiro em casa pelo NBB com ataque distribuído - Surto Olímpico",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-20T01:12:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0pBVEx1dXA2UkhyUFRfTFhxYWtPYVYwMVgxUVR6c1VwRGotb1o3cGJFcUNhOGI0U01WN1loOXI3NmpLQXg0UVUwYTBrVG1RQndHeEhXdnJ1cFM2LVN5aGRaQU9GRVFNYnZnbGhELW83cE1ieVdfdzJzWUwyQWFUeWZDWTRWZVNhSkg5QzJNdkNOZGxmRXJxbg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Surto Olímpico"
     }
   ]
 }
