@@ -1,45 +1,670 @@
 {
-  "generated_at": "2026-11-27T16:15:16.758264+00:00",
+  "generated_at": "2026-11-28T00:26:42.078788+00:00",
   "date_range": {
-    "start": "2026-11-25T16:15:16.758264+00:00",
-    "end": "2026-11-27T16:15:16.758264+00:00"
+    "start": "2026-11-26T00:26:42.078788+00:00",
+    "end": "2026-11-28T00:26:42.078788+00:00"
   },
-  "total_articles": 89,
+  "total_articles": 88,
   "state_summary": {
-    "Santa Catarina": 8,
-    "Brasil (estado não identificado)": 34,
-    "Piauí": 1,
-    "Tocantins": 1,
-    "Sergipe": 1,
-    "São Paulo": 5,
-    "Alagoas": 1,
-    "Bahia": 3,
-    "Mato Grosso do Sul": 5,
-    "Amazonas": 5,
-    "Goiás": 6,
+    "Bahia": 6,
+    "Brasil (estado não identificado)": 36,
     "Mato Grosso": 4,
+    "Mato Grosso do Sul": 7,
     "Pará": 14,
-    "Espírito Santo": 3,
+    "Distrito Federal": 3,
+    "Ceará": 2,
+    "Santa Catarina": 6,
+    "Goiás": 3,
+    "Tocantins": 2,
+    "Alagoas": 2,
+    "São Paulo": 3,
+    "Piauí": 1,
+    "Sergipe": 2,
+    "Amazonas": 4,
+    "Espírito Santo": 1,
+    "Rio Grande do Norte": 2,
     "Pernambuco": 1,
-    "Paraná": 2,
-    "Ceará": 1,
-    "Rio Grande do Norte": 3,
-    "Minas Gerais": 1,
-    "Acre": 1
+    "Paraná": 1
   },
   "disease_summary": {
-    "Dengue": 56,
-    "Avian Influenza": 11,
-    "Influenza": 11,
-    "Doença infecciosa (não especificada)": 11,
-    "Meningitis": 2,
+    "Zika": 6,
+    "Dengue": 62,
+    "Chikungunya": 6,
+    "Meningitis": 4,
+    "Doença infecciosa (não especificada)": 10,
+    "Measles": 5,
+    "Influenza": 5,
+    "Avian Influenza": 5,
     "COVID-19": 1,
-    "Measles": 6,
-    "Mpox": 2,
-    "Zika": 2,
-    "Chikungunya": 3
+    "Mpox": 1
   },
   "articles": [
+    {
+      "articleId": "gnews_d62659c75ce822ce",
+      "headline": "Itapuã recebe mobilização contra dengue, Zika e chikungunya neste sábado - Portal Salvador FM",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-28T00:01:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0FwQkN5bTRsVlZzYkl1RU12YUxIYmF2S1hHdnJuM2kyMHg2SUh0dmQzU0FHMmVXZWJOWlExWTFEZlJva2IyUnVzU2kyWFdYRXNmLXdBVEcxSjRscGdMbWpLM1MyWkZ6TmtsNzh0bVlHam9PY1hrLXRmeWNDcUN0SjVFLU9VcjZBMjNWeUgtNFg5S0xXbUoxM0FOX0xubmI4Q09NM3lWSmdjaThpdWtzSXNILWM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Salvador FM"
+    },
+    {
+      "articleId": "gnews_a9ae92b35433f435",
+      "headline": "Vacinação de adolescentes contra meningite tem dia D no sábado - tmc.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T23:59:32+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLU1uUDBIRzRqTWlZcHFRQlltXzhxZW5nX0J3Z2VTdlZFY2szajJ3MTJHLWJPWjhfNk9FUEZjeXJuUEJuV2dPa1pMcXJRQjNqSHQ4OHhraU8zM1FfODlMbkZiLUE3ZEZFcklqZkpqMmYwOXZWZ3ZPNXlORHR4aHJLaTNSbjl6dkV4YWNzdFY1UWxGUnE3Nkd6R0xOd0Y1QnRldkU4SUxqc1RxVldwUHpUOFJWdkgtaXhmTGtGeThRWUlXZ3VNTjU1UTd0U2s?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "tmc.com.br"
+    },
+    {
+      "articleId": "gnews_6c0302cb7b476408",
+      "headline": "Salvador terá ação de combate ao mosquito da dengue neste sábado; saiba onde - Aratu On",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T23:20:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2lZbDN2d1VKdnZhU2VBWVdDSHFJWkhKUEdEMDltUEZBYV85OVlhUzdDQ1lUY2tWbVl4MENFdEdvenlMMGRPZmxJOFJCbW9lUzNnSV9kLUhJaENQcjdvcnp4ZlhndXhKMjBpVkRwRDdTWG84ZWYxeHlGNERjZXlrLXY3V1FoQkVMb2FnbHc1TGpiRUxRQ2NycU9BejhXcUJYWEtid25pU3Y?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Aratu On"
+    },
+    {
+      "articleId": "gnews_4450711396d65368",
+      "headline": "Verão no Brasil terá influência do El Niño e risco de dengue - boca.com.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T23:09:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaYTEyTlo2bEJWbkZWOFcyQjluZjZRYnRNc0swVnlQTFRXODZDN01ZcHY0X2xKOWVBYVZoUklfX2JReWVKV3NwWWNsMmo1MXJYZ2MtSVYtSWFNRHVNM1R6azlhU3d1QnBaZVBaMndLQnlwemh3LXlMT29n?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "boca.com.br"
+    },
+    {
+      "articleId": "gnews_d553e6a11bade720",
+      "headline": "Dia D de combate à dengue: ação educativa orienta estudantes sobre prevenção ao Aedes aegypti - REDE BRASIL DE TELEVISÃO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T22:48:23+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaEdjQ0wwQlg3S05jdGRnSU84eHhTc3BkaDJIOTNwQ1M2ZGFMdnFNci14OGtBdW1YTUlVVDlFTU1iamthQlY0dFNkT1lJREJwcFlDT1E3Sm53WG8xV3hEN19BeUhxQzM3MEVmcG5FTEk0SFlrajVKdXR5YVgtSkVhOW1NVlZ2WlMzT3RfUFRBLW9kaWtJdEllWGlURXNWRWZaU293M0xPVVUzQjVvSm1UMXNUeVNEbUJsTjN2cXNLRDdxSkVq?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "REDE BRASIL DE TELEVISÃO"
+    },
+    {
+      "articleId": "gnews_5879126668444624",
+      "headline": "Itabaianinha mobiliza população em passeata contra dengue, Zika e chikungunya - Imprensa 24h",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T22:07:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU2xxdlJLenRPQUp3MnVhS3hfaDl2MG11WG44dmN5YWo0R1V3RnBGZ0Q2dExERGVTa3dLblVzbzRSZUVuMERBWnVPZ3NncG5Wc0VyclNDVzlPR3FtaC1VVVRNZ09rZWhDSVBtZXFPWDg5NnhFenRIclp5NzNZeVFZb2NBaw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Imprensa 24h"
+    },
+    {
+      "articleId": "gnews_545490bda107726a",
+      "headline": "Brasil terá mobilização nacional contra dengue, Zika e chikungunya neste sábado - deolhonacidade.net",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:34:12+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblhBdUFybG9XdEdHS2N4d212RS1kTlk3ckFwaHYzOU5xNXU5MUc1VnNpd18zYXQ0V0lvR2JIaGJoOVhCWl9hUldOdDc5LVZ3dHBOaFZtRGNldS1JLWZYNGhvV2ZRYkJtd0ZlYXlTN1FKLXRnM0lPWDR6RkpfWGoyT0Izd0RPTEgxcGMxQmFyX2dfenBfaHVaWDQ0d3I4V0FITG5vQlJDaWFZUzRERnc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "deolhonacidade.net"
+    },
+    {
+      "articleId": "gnews_0e26035a2c8b8404",
+      "headline": "Casos de sarna explodem e Mato Grosso do Sul registra 69 surtos em 27 municípios - Midiamax",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:12:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUJvV0QwOTV4aGl0bng3Q3hyQnlVbzFYeEhrSVN1N3hKZmRzNGtsdURrSTQtM2JmTHZsUTI1WVVvbUVkOVJFX3Y3ZjU3RWRxU0k4Z1pfSmEwTUpLQW40bmFUMXk5UlBwUndnS0pvSTZEbFZ4RnppbTBKYi1RSElreWpjeUtLSC1oYWlDc2QweUNGdmZySDc0UXNaQ29uZTlOU2JpOEVXOXVjOHZ0WkxCYkdhOU5ndXM?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Midiamax"
+    },
+    {
+      "articleId": "gnews_8c81beb0dd112fef",
+      "headline": "SALVADOR REALIZA DIA D CONTRA A DENGUE NESTE SÁBADO (28); CONFIRA LOCAL - Bahia Econômica",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:09:45+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2hHUXRoNTR0Z1ltZThCc1VQeXM1UnFNSWhIb2lycS1lNThhbjVVdlRCeGZKbVEwREJKVXRCR1JteHdvWEN6REJ5ZGFOejZ3TzBBM3owdlpTTVZfeDNSa3RiNjVuZmlXa0QyZlRqZ0N1M1Y4Qk96OEsydjdMZ2tnMk9saU15NVNFanJYR1htR2RmMlBqUEpMTjhPVU1BTklvVTdLUlo1c01yQ0dhd01NR2h4Q1g?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Bahia Econômica"
+    },
+    {
+      "articleId": "gnews_1a3d3356e1ea07bb",
+      "headline": "Como prevenir a dengue? Veja cuidados para evitar a doença e suas complicações - O POVO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:08:17+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW1LUENUZ1lmbFVpRVRrd1p2WlNLQWxqRWZ3N0lOcm1haFFDUndwSHgzYzZUN1ZBMUdiUl9iVWVRSV9Ba19JclE4RThNYWg0dVNnWWZTRG5DYXBubWhWTWdrcTZuMTlRRjZWVHc3aFJFNnhYYUY5ZnZxcVJVTl9VSXRWOUlsUWdlTEpweXRSRE03YUdvQjhIandIMGN1Q0x2Q0ZZcHRnMzhkS0hQUFU5X183VDRBTXY1eFVjRXNMTUJCTXh2ZDBldkhaMXZPTzg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O POVO"
+    },
+    {
+      "articleId": "gnews_5525aa9fa42f030d",
+      "headline": "Em \"médio risco\" para casos de arbovirores, BH terá Dia D de combate à dengue - O Tempo",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:05:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXRIdUpVWFpsZmVMNldtWnFmc3RoUU9JeExsQ0d5bTRBZ0Zfa0g0dERVWFhHTkZubm5FeVg2RWtOUEdhYnR1MG9tT0RfaWdiYV95VTRqbzlhd0VzbUZ1MVAzWVNtbGlsOUF2WVIyRG9NQ0p4WEIzNzJqN0pwZFdFNlRhTFVBb2dZYXRqY2puUmZGa1Vac1V0QU9KTFNZUzRtbmtxMVZrMGxwNTZRSlE0SGdadXRPcWJUQ2ln?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Tempo"
+    },
+    {
+      "articleId": "gnews_8620d9daf822c162",
+      "headline": "Governo Federal promove Dia D de Mobilização Nacional contra dengue, Zika e chikungunya - www.gov.br",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T21:04:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOakE3Rnd1MVVrQmZMU0plYjNWRl8tZlNvLWxLdWkyeTJqdksyd3dYS2xJU3FUVUlFU0hVOVRpQ3cta3V6d2xTaHBKSFYxZC1Za3d0M0dSZXRyOWl4bmVjaEtjaEtLYTh6VExiTzJ6S05IZHZDcEFFUUlOYnRfTXJVUHZ4MnpVZU8zemhtcll2VjF3TkVfcmhlMHRKOE45dExuYTZXa2kyVUttWlNpNGVNZFRpNlo1Yl9iYTdMNjlVU0lZVmlEcFBEUy1sNDJQU0tyXzVSTFdjZ2Y2TVFKYmtCbEhUUkZYaFFx?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "www.gov.br"
+    },
+    {
+      "articleId": "gnews_b9beef3c62ec2a65",
+      "headline": "Salvador recebe Dia D contra a dengue neste sábado (28); veja onde será a mobilização - Alô Alô Bahia",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T20:38:36+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHR5b3JvUTA4bE1RV1psR2MwaHpFMG1rZXY4UFVjd3g1N3JyRVduY3JFd3FKOXhfaHhqVG41RXh6dE51UHhRWFNDaml2SUdnQUxMRl94bl85T0dnN0NXTkEtWTRvNHh1cmpiLUpTMHhVSl9QMHFncjRTNzJHa3ctSFllR29nb2ZtYTdQdGhLUHBURmwwcUNfRGZHdERWTl9laGlPdDJ1Ym1KcE1uZUpZMXIyU1MtcjNQbnFwRTE0WWV4Skx0RUE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Alô Alô Bahia"
+    },
+    {
+      "articleId": "gnews_74a7089c7bffa1de",
+      "headline": "Rio Grande da Serra realiza Dia D contra a dengue neste sábado (28) - O Grande ABC",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T20:30:08+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUs1Y3VQbTlza2Zlb0dtOW9sNlh2c1Vlb00wZTAyUXRDQ1RZaWV5VUIyQUlIMTVvSXVVcWhydnVLbDN1UTRfUWZKLUwwZ3RyVDVITmVYeEVTRHIzTVI2OU1jX2dDdV93aEk1MzI3MjNOcEdGMlVmMlljTlVRdG00dWZQY3NsMUY4QWxNWEJSMWxrMUpmdkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "O Grande ABC"
+    },
+    {
+      "articleId": "gnews_aad81a1b73e8ca90",
+      "headline": "RN realiza ações preventivas no Dia D de Mobilização contra a Dengue - DeFato.com",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T20:22:35+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWpYV0pWSFZYTGdKU193QzhMZGhTalhwWXhjVGlsRmxxQ25FRHppSmNCQjBIQzNKQVhBRkw5UDlzajlaQ3VreEI4dXAzMHJCVHZ6RVhVd0tRV1FfTEdNdGVibWRQbXJNY2tkMDZzV3RoRGtKbXhrWjFZcjhOVHotREtVWGtSUWpTbWdCc0ZOcTItdlFQcVRkbFNyblBUZFUweVI0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DeFato.com"
+    },
+    {
+      "articleId": "gnews_ba4022960a9c28cb",
+      "headline": "Mundo registra menor nível de mortes por sarampo em 2025, diz OMS - CNN Brasil",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:49:29+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWdrMWdfdWdvUE44bmxFUENlQnN6TDlxNTVLTjFFd21oOFBaNmYxMldvX1l5cGVPNVc1S3F1NzI2RTVPcC1QcjN0ZXYzUEozbG14MWNWUExONHNtV1JxNUplMkNtU1lfMk5VM0ktNms0YmIzMkVIaHhsYzFQbGdfV0V4UlpYVzA0eHVXUk1LdE5jVEtQSGQ2dGlqRTdxZVQtQ1NsbGhhVVVNWUp6?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_76d772728db14e38",
+      "headline": "Secretaria de Saúde mobiliza equipes para vistoria e imunização de jovens contra o mosquito transmissor no Distrito Federal - PDNews",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:41:16+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2tFTkt1eE03aTFINWp6VF83cURfNUw3MXg1V2FINGkyRUE4U2RWT19wX3lYX0gyMmJ2RXFDa1ZoRmxXNWpGa0I3VUNLZ21Qd3dOY1lab0pRRXdqRERpWU9JWDVpUWlQZ1NfSTdjV2M4cFBDLURhMEloUWN0b3c2UHR5ZjFZUUotcVJXdFZ6NjJkaXBpNmw3Tm1vTW00LXF4MU1mVk13dVJ0SW9GRDVKUFV6WHF3elg4V09XMkN5aVF0Ym1T0gHKAUFVX3lxTE1qdVJSVmU3cWJscFdWTnZYczB2dDRsVGZ4cFR5LU84MEx4RHlLNm1fRXpjbXZZeVltWWN5eDJwZU5aYnlZRHdSUV9BOFJ1blRrMnZYRkJPVVc2ZUJhTUJST0hrZWdhUnZ3VEFaeGI5V3plakhEbXNTU2xadktpUERPQkRxLUNlbjN2cVVoekRSOHRXSm9qWTA2clBxX1FSakwwSjBxcGhQUEIxOElyU21TU0dnYzJ3b2tCV3RfY0o3S0gwZHlfS2Jhb0E?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "PDNews"
+    },
+    {
+      "articleId": "gnews_c3d3e9f83def257b",
+      "headline": "Ponta Porã confirma casos de escabiose, mas Saúde diz que ainda não há surto no município - A Crítica de Campo Grande",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:30:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHRVRVo1Mzc2WHlYdFJkNFB6VzNBby11MER1N0ZmWmdiNmtldVZVOUxla2tvNEI3ZHFhSXpZNFBmb1NXalV4akZBeUU0MG5oRmtERm8xYmMtdEhWRTJ5anA5Yk5iNWRqelJTaWdUcnNELUFieHZydHdaQ1Z2eFFBaG5xbHA1N3gzQ3E5YWstRi1nQmYtY3ZNdWVLUURMZWRHQWc?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Crítica de Campo Grande"
+    },
+    {
+      "articleId": "gnews_642a141db70a1286",
+      "headline": "Casos de dengue disparam em Juazeiro do Norte e mobilizam ações de prevenção » - A Notícia do Ceará",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:28:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTVhWDZ0WXdYamE1UW5PcDhJMWZNVGlBOHNTLTZ6Q1lOam4zTzZpckNDSTRpSFIyYlBnWUVrN3I4dTJZRGFjSExIajFwbk96ZUpiNmxBaUZZeHpRX1RiWkdMVG9sODVub1VNQlUyR3BwMmtxVlJCYTY4U1ZBRFhjMG8xaFN1SWRYcGR3WVhHV0duZVdUeGlueHhuYkNNck85NzJJVlg4eEJLX2Z0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "A Notícia do Ceará"
+    },
+    {
+      "articleId": "gnews_b5f836b0b4086870",
+      "headline": "Salvador terá Dia D de combate à dengue, Zika e chikungunya neste sábado - Jornal Correio",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:23:51+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXFham1ib0hnbTJDMXRlRFNwQVZKRjZNcm1yWlRaVldoVmhib0NWRzJOWlMyV2tkSUh3QTh3MjNTZlpsRWFDaGRvMjZ4RTlLallfS3BMbV9SQVEyVTN4WlhLam80d0ZYRmQ0T05WS2V1U2kyblpGU2RpUVFHWnhCd1JFVE5jc0tjeUx0ZDJzNFlwVHhnRUMyTEFjc0tnTmpiN1ZuMGxpNk1EMkRqcmxmOWRkY1VwZnNnYnA1enFoUQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Zika",
+        "Dengue",
+        "Chikungunya"
+      ],
+      "locations": [],
+      "states": [
+        "Bahia"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal Correio"
+    },
+    {
+      "articleId": "gnews_2832cea3158261f9",
+      "headline": "Mulher transplantada tem 'surto psicótico' e foge pelos fundos do HGF, em Fortaleza - Diário do Nordeste",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T19:12:05+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTzhmZkotaDRlRVVjd0xEQlBIRmxSY1h0cFB1WW1hMXVfNm5DSjlPbC13eW80clRqX3BSaUNrYi1pZXozMjROd2J4czZVeTQzRkRHZkRYSHpiei05dXBsTDJ6azlWbTl3bzc1UTRjYU1pVGIwWXI4THVjb2QwblFyZXJTLVJpVERJRXgyNE5ZbUtGc1pBcERLQTNmdHRyN0VtYnRIZmE5TkQyY25NLUp0cGZHUnpJYW83Y0EtUUxaNTNORi1wRjdYaDY5OXNiYVNJNHhtbVg5Zw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Ceará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Diário do Nordeste"
+    },
+    {
+      "articleId": "gnews_0901c7cb8fe06586",
+      "headline": "Ação educativa na UFRGS aborda prevenção à dengue e combate ao mosquito Aedes aegypti - Real News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T18:40:15+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenVZekw3QTdScGNxY0dWeUt6OFIxYjdqR2xMVUNCb3MtYl9VTThxWVlydW93V2xON0o0cThvZTctSTJwQUN0RldicFg4UTY0WEl0cml6YTdBbFBMRm9VaFlvREVuY00zNW1pcmtxU3JOSkNlcXA0c3BZVkVTVDA3X3Uwa3BQbnJvTHJMR2J1X0dqdEtjalJ1TkRFdkdScmgxZXVQX09wQVN3RGQ0MFR3?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Real News"
+    },
+    {
+      "articleId": "gnews_ab6c42289dd04776",
+      "headline": "Casos de dengue aumentaram 34 vezes no mundo em 34 anos. O que explica esse avanço? - Exame",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T18:35:48+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGg0czEtbW1XSGhZS3dHRl9yOHpQNDkzVHU1d2tJbzdXb1h1eFRWTWo3c1p2bU5qRzFvSHRwRjgxSVNzOGFwWHlJZm84bUZyUFVBMmFRMnJWNFNZTXZvVnRTUnFhZWNBZ3ZHS1B1cVRKSWgxTmlvMWFOSDNUaTJScU43cVM1dURacWk1X2V0Szk5ZkV0dHZUVlppVHlRU0xpRUhlOVRrVlBrU3Fm?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Exame"
+    },
+    {
+      "articleId": "gnews_23282134f9627a52",
+      "headline": "Casos prováveis de dengue aumentam em Santa Catarina e reforçam alerta para prevenção - Rede Peperi",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T18:33:43+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2dCakcyTXZQd0x4cW5Yb3JPNmhUbzl6bFlZMkVhR1FUV1NGTXNmMjRUeVlpUTJIWEJoNnZiQjdpd0dZb18wNEhBY2VuQkw5Y09kLTcxQ0ptdjYxYk1YOE83b3RIS0ZQSHRLYTR6VE1ZVmRFcU9wUEt6TWdLMzRJM25IczdDVHhOZS1lcHppVDhrMVBJQVFDVkZBYzE3RVhQNzVaQUNvMXdDVHQ4QWY4eDZ3Qm5BS2pyeXppYXIyOTdsdw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Rede Peperi"
+    },
+    {
+      "articleId": "gnews_2d30b9c7e7cc07fa",
+      "headline": "Goiás intensifica combate ao Aedes com ações em municípios do Entorno - DF Soberano",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T18:22:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYW5vZmxldkZsQ2VzckxOeDZPMms3eVgzc0ZQMmRfWlFTcmtoRWpuTjljR0VTYTdIU2J2TWJ2N0VRV1Q0VzNidlBCSVJTX2NFbHNTLWpFeUNJUFRmNXAyajAxU1JtZkZ1WGRwVFhEclY2VjJ6ZlZVeE9XZ3RGbUFYRk9MWTRGcnhabm00bVNpSjBrWEZtMFJkdmdYdGpjY2hEZGNmM1JnQXp1WEI3MWtXc0ItNnJRVm16U29Vd1VvMkk1Q0dzSGhxbkhaNWtEb01kTGdQWnFQMVB5ZVU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Goiás"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "DF Soberano"
+    },
+    {
+      "articleId": "gnews_4afe9b3a3cbb477c",
+      "headline": "OMS alerta para estagnação do combate ao sarampo no mundo - Jornal de Brasília",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T17:57:57+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnZlVV9YcExvSmdRX3lObVZacmFrUU1ScTFIaVRUbzFRc0Jrekh3T19QRE5MYXVleEpUZlVWQ1VKd3AxUHJVRkNNTkUyVWhYMTFWc2VtenhxQnBjdW5qaGFKRDlkMTBOd09penVyQkRHVzRzSEx4dEtRcDktT05qQUZxNVpjcmhFelFnNXJHcWFXXzljQWIzVzFweFRXQmsxMmlZdlRSUGo?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Measles"
+      ],
+      "locations": [],
+      "states": [
+        "Distrito Federal",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal de Brasília"
+    },
+    {
+      "articleId": "gnews_77fad1a8c54d524d",
+      "headline": "Dia D contra dengue terá soltura de mosquitos em terras indígenas de Amambai - Campo Grande News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T17:45:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDd1clFpSDVNWU9hQThfcExqYVdBWUpHSU96MzVabUg2S2djbi1XS01kdXBFZXRKY2NrQUhsZk52anJPd19WWE9mRmJyRElJbFN2ZGtjYlBsczE3SWl2MWNjSUxLck82Nk9BVnBSQTk4NkxBVzNHMi16aTI2b2JKNDM4UHd4R3RhVkpEaWpfZmZCaUxxWmZNRFdfMEtvMzFSUmFKdE9GWk5kYjh5QkRLZDlVdHBkeHp1ck1PWXFRcklyS0F5eWxWRg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Campo Grande News"
+    },
+    {
+      "articleId": "gnews_eb2e71a1f754d312",
+      "headline": "Dor abdominal, vômitos e sangramento: infectologista alerta para sinais graves da dengue no Tocantins - Araguaína Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T17:38:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUTJONGtWWWpmeV93d0lpVzd6ZmpFZGFtU014VzV1WjV2U0pxSTczWDA0VDM0S1BJYVZ6TmtxMzQ2LW16SGxXNkJSM3NBY1VGaWpZNER4UVV2cjFQSFY1ZjdQTGR5b05kT2tvQ1JWUGZtUVlPc3VEYjhhS2pJNmxTWkEwNG50bVplQWtTRjNEQXI1bnc2NHYxVFQyYXNrZUk3aHJWZzk4dFpEVEJiOHFnZ0tYbHdMMXpvdDRmSXpuUGJ0bDFHYkpFZXFlTTJEMzhQN2toZ3prR1VXVVdWX093?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Tocantins",
+        "Pará"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Araguaína Notícias"
+    },
+    {
+      "articleId": "gnews_d582bc4010e01df3",
+      "headline": "Santa Catarina tem alta de 120% em casos prováveis de dengue e governo alerta - primeira página sc",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T17:28:07+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkVuWUZzd2RqdHdEZU9iT0ZVYzZVSnpNTF8tNUNpMTVnZUl4QWZXS2RDWTNmcWRVT28wOHZfYURCQWpxdWhseHUzZERIX2xUTmNGTFo2elcwOHRuRS01Z2tuZzh0UndncmRVVFItY2tCY0N0eHIwYWlFQXp1R1hENVpfbWhmaWZUbFVYVFhyWHczdHFMN2I5YzdFTUZCN2d1NlNXMWNTNUlXWlA0VEE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Santa Catarina"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "primeira página sc"
+    },
+    {
+      "articleId": "gnews_c6cf697141f1cdd0",
+      "headline": "SES comunica 69 surtos de sarna no Mato Grosso do Sul - JD1 Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T16:55:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMF9XR2d4NkEwcmFkUTRoVmlnLTFQV2l3QllaaVB6Zy1nVGliS283QVNzdjBkS1d5M2lOR2trMU0xWkFIWTA1TU9PTDNKOGJvRzBMLTVvcGJIajVpWkM4QTRVUkRtUXN3RGdZRXcyQmxaaEp6ZDhqWjk1MTNySEVxVzh3ZFltbUM5OXFJOHI2akw0ZzBTSWEzSU1YZV9kWWpwNzFSWUp2WQ?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Doença infecciosa (não especificada)"
+      ],
+      "locations": [],
+      "states": [
+        "Mato Grosso",
+        "Mato Grosso do Sul"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "JD1 Notícias"
+    },
+    {
+      "articleId": "gnews_b352bb50a21c2dbb",
+      "headline": "Maceió apura falhas na coleta de lixo e risco de focos de dengue - BNews Alagoas",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T16:49:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUFNTVRkMFJtVTZnaWxRN3YzYzVtN3N1M0M4U2VCWVdkUUc1MEk3RFVvdGxza0tQNDhBTENqa0hkcXQ0QnVqSjVBUVhHS0Z6bkZhbk1CMTJGeEIxMm5aanJQeG1NalhEV3NlWHd5U3hJaXZJV1pQckNiWVdCSTFOVWZRZ0lER1FDd1hlbHVHcmNQd0pieEtPeHJZWkFSQlAxdktmUWxkVVFVeGIwTDRXZHVES3NzN012VGF5R2pB0gHDAUFVX3lxTE5ubjNtR1ZsZGdvU000WjVIeHVQbTVqLW9rRFdVSTZPcWgwTnBTZVgtS2lJQnNOdEdPSmlMUHNZODVXUERWNkZ1dGQ2VENwQWtEUnhiMmJhWUNyMFNfb2pKbnFyS0VRYzJWWVY1c3VzRjdsY2xnc3NYakd4MURjSGdESm44WmVWQUZmZVpiWlRqOXJKeHVndndORUNZbGRWMkNWZHVieTUyYnluZENfTHJWMWc0bGhwc0ZGcnF2S1Q2bUxtbw?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Alagoas"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "BNews Alagoas"
+    },
+    {
+      "articleId": "gnews_e3107f47c418ba7d",
+      "headline": "São Paulo faz Dia D de vacinação contra meningite - Canaã Notícias",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T16:00:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGxTMVppM0VJZXlCaVlHTWswRmlMYnE1SGhNNDYyN3c0QjA0Z1A2UDhMNnRTWkVhWExSYlJXN1o1cDAzcEduaTUwbjR2dXUxelFBYXNXT1ZlLTFIUGttN0c5aHZIeVVrdXhvVWd3M00wN01iWWRPQzNXVi1BVkJlUXVrVWFwVFk0Sk05T19kM0VaWEc0ZlBhbDl0YmsxQXZvTXlQeg?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Meningitis"
+      ],
+      "locations": [],
+      "states": [
+        "São Paulo"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Canaã Notícias"
+    },
     {
       "articleId": "gnews_f869a9c5624e263a",
       "headline": "Casos de dengue aumentam 120% em Santa Catarina nas últimas semanas - Portal GCD",
@@ -117,6 +742,25 @@
       "sourceName": "G1"
     },
     {
+      "articleId": "gnews_1f70b989a5c84986",
+      "headline": "Ministério da Saúde promove Dia D de combate à dengue e lança campanha de prevenção às arboviroses - Governo Federal",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T14:52:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVF9Od0VFbU5QRElKSVh6ZGxKcjk1NEhybWdOVDNRcHZIaUQ4dGRPV2F2dHp1TTlUZnR1RlRuOHlYUWRaT3NWNW0wODc0aXdGM09EdzFDZUtKbmhjQVk4Ukl0dC1XMktVTmFzRThkS2t1N00wMFQyNkNYcE5jNmx0Vy10ZVBxLWpxSUVYTTdSNElVWVhZVmx1S2lKSldrbVZmc0dLUWZvcEM3c3AwaG50NlJTVjhVQmRtbms1OXFoaE90bThFMl9RUTRScXlkMk5kX3MtWFNpSGg2M3Zia0htU0JHOWk5X3NmS2M0RnhhOEc5Qk0?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Governo Federal"
+    },
+    {
       "articleId": "gnews_3de995427a50431e",
       "headline": "Sergipe participa do Dia D de Mobilização contra a Dengue com ação educativa em São Cristóvão neste sábado, 28 - Fan F1",
       "headlineTranslated": "",
@@ -134,25 +778,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Fan F1"
-    },
-    {
-      "articleId": "gnews_502de892a950bc6c",
-      "headline": "São Paulo reforça combate à dengue com Dia D de prevenção neste sábado (28) - Folha Metropolitana",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-27T14:13:38+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1R0YWdRNE9zbENibmhUQnQzWF9jdUZTLVpnY1hkNzdJTUlOT2pBenQxRmU5cEprT2NNLWs3NWtaZHAxWXV6bHhMRWRVX0N4OG9sOHBPZFM5UmZBbDBxWXFfd2w3NEYyVHVQNU9JRmNySGtQa1N3ZUt1dFl6ZEEyWGhMRk5VZGdtTUstYmVBRDgzYlZSZWNtbERhdGUxNG5rOHI5anp1S3RqbTRD?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha Metropolitana"
     },
     {
       "articleId": "gnews_acf313fdd19ee76d",
@@ -183,8 +808,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTBQSTlxbVZraVVfYy1QR29MVWFrWDFpOHhCcG1aaEVuWk9xMVExT3ZBZG9KRXZBa2VXV3ZHby05Vi1xVXRfM1dHTWNjbDFvYUk3dHBmNmhTaUUyVWZfV2RjVXBQeEtaeUlqSFAtOGx2TFBiTGg3YTJieXhXYW40QVlHQUJmU3NpR1lPY3NObTA0T2RrbUZsUTY5aXlVZFhLLTdPSzlpb1lGa09Pdk1n?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -213,25 +838,6 @@
       "sourceName": "G1"
     },
     {
-      "articleId": "gnews_98f2aa8e0d977502",
-      "headline": "Brasileiros brilham e vão avançando no Mundial Júnior de Surfe em El Salvador - Surto Olímpico",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-27T13:02:48+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3hZeGlkNFlMRUxaWk5MSUx2eGNqZEFvWDMzSjMtbzhfTk5YT0RoN0xQU0lLc2VGeU1tVllZV0hwbVpLN3ljanlsRHlNdkl0ZElQWlU3ZnZ4SFZjX3hQWHI4ZnNnM2pGSTBMUWNfcHBETmY4TWMxaW9XMkl5bkJwaF8tU2V0ZVlrS2hWT0xYMk1vUFBfQzFuSUxlbUJOdldkbUhpcml5NURtTTJSZ01NVnFSNA?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Surto Olímpico"
-    },
-    {
       "articleId": "gnews_1768e8e73784faf4",
       "headline": "Com 63 casos em dois dias, presídio enfrenta surto de sarna em Campo Grande - Capital News",
       "headlineTranslated": "",
@@ -249,6 +855,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Capital News"
+    },
+    {
+      "articleId": "gnews_1370f4cba67ea513",
+      "headline": "Dengue avança até 57 quilômetros por ano em direção ao Sul do Brasil - Jornal da USP",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-27T09:43:00+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFluazdvb0hZd3g4cHNJeGNqWjY2R214czZJOXlOd3Z1TGw2cVFTYnhNNzJYeElaWEY1VUp5Yk9Za0lPc0Jid2ZVWmNlMmxwYVNnWnUwWWZrODhESVdQNTY0QjJFVWs2ejQtNy01Vk12dW1kelZJZXpxellwYS1haU9WRW1wMFJKakFuZjRsRGd2ME1OVUxpS2dzRmRUVEFhQTNOQkJB?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Jornal da USP"
     },
     {
       "articleId": "gnews_1d36e6098657cc48",
@@ -279,8 +904,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaHI4NUlLb0gtMW5JbzVTU1FNMVp3cVMwcXBOOEtXbDFlOGtaQTRocFZBM04yR0JscHhuTTN1Z29XMWkzdWIzLVVOQlhudkVxaHhEWE1BMWpUb2w4azA3VkFlOHhlTXNIdGd1bS01Y2U5anlVQjRTRUg2Sldja3lWVi11eUhJTFp1Y1JCemJ4VEhCQlFBTU9zanBCVVU2WlMzbDlGTnB5bkpPeTRNOHlmaGZIeHZxc1B2aXpNaE1NSTdqQ1VDaXg3VnFNRm5nNEg1?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -326,6 +951,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CNN Brasil"
+    },
+    {
+      "articleId": "gnews_e2ad7ee1f4d3842b",
+      "headline": "Especialista do HDT-UFNT orienta sobre prevenção da dengue durante período chuvoso - Portal Serra Dourada News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-26T23:25:27+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDY4QlFJNzlTLUNkazhWOWdiVDBqQUpfU0hyQmY5OWhmZENsSkx5UC1PWHBmTUlBem93N2l6N1lRM0cyNjg5ZWJacDhCbldiWlNjc0dsZ05DMDNoR2xQaWN0ZnpwRmJ4NXBxMXNzb3VjVHp0UV9MRlBqV2N6X1k2OXR0NHFaeldENUktdGVUV1h0VmppTzdYS2JRcEY3eHBCWTdrTnN2Uy1CTktHQUhnZmJENV9ucjJrdXFZcl9fMmU?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Portal Serra Dourada News"
     },
     {
       "articleId": "gnews_fb14328e3c0cd1c9",
@@ -379,8 +1023,8 @@
       ],
       "locations": [],
       "states": [
-        "Goiás",
-        "São Paulo"
+        "São Paulo",
+        "Goiás"
       ],
       "dataSource": "Google News",
       "sourceName": "Goiás 246"
@@ -438,8 +1082,8 @@
       "locations": [],
       "states": [
         "Mato Grosso",
-        "Pará",
-        "Mato Grosso do Sul"
+        "Mato Grosso do Sul",
+        "Pará"
       ],
       "dataSource": "Google News",
       "sourceName": "Capital News"
@@ -492,8 +1136,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlVDZ0RscmNkVVZ3U0NCd1hxTkNXNEdua1lzSWNabktVamxhamozZ3lPbk92bmwxZG4yZ294VFdKa21Bb0xsdTRBZ2g4YVhnRDktU1l6blVzUXJEM0xGUGRFMHZTZzdRRjk4UHJnSjFQSzViZzhWZFJEamdod3FYMTJUS21GS3VmTVFrNGxISEdOZUVtd3RERHlvdGRpamttd0tjamVWTFI?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -512,8 +1156,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBcFJ2S09OMEpoUTI4czVVUGZPSURnZUZtTnNBRmhGeldBM0pQblNtNXg0TGRLUHotdzVZbW9FZXlhamVHekxJcEtiUUludVFFWXhsN2Nn?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Avian Influenza",
-        "Influenza"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
@@ -540,6 +1184,25 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Rede Peperi"
+    },
+    {
+      "articleId": "gnews_809aee6dbcb14b99",
+      "headline": "Dia D de combate à dengue terá ações no bairro Pajuçara neste sábado, em Natal - Ponta Negra News",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-26T19:27:47+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDVub2FhZS1DMEFVQk5welhMRkNvOUswLXoxZWlDRG1PVHgyQlNXMGZIV2lpdWRlUE1adEFkeEliRWNabzFZTWphcTVtbFgxdllBemt5alk5T1JKUG1JRnZiQzA3Q0FoVnN2NVJDNDdjWGkxMGdjMThKbktzc2stSXFib9IBiAFBVV95cUxNRW52NDJ3ajFtV0MwcWNoaXluRU9JeVpiaks2ZzhrM29CSkpPd21rc0JXanBCNnZpWktmX0huYW80MHlNN2ZIcnB5OTFUQ1FFSTFIRHZmRlFHWGUweGVnei0xZ1dtMHV3SXN0UnVJLXBIUW95ZFRvNXRtTTZzQmhvclFGTlR1dTBf?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Rio Grande do Norte"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "Ponta Negra News"
     },
     {
       "articleId": "gnews_3a2a91d068497a97",
@@ -656,63 +1319,6 @@
       "sourceName": "Portal SGC"
     },
     {
-      "articleId": "gnews_a5e826f27c3395c9",
-      "headline": "Dengue avança até 57 quilômetros por ano em direção ao Sul do Brasil - Jornal da USP",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T17:43:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQm1TSVYyMGlmMDN4TElNVHI2VlBnd21MWWwtWU5qM3FwX09PRWM1dFVrZGo4SUFBLWhaY081WGpITjlXS2d3VFVyU01HZEJPQ1NVQWJHYndIMENEWmdxYUR4OWRRX3NQZlNzODZWQlBBdVp2SVlORE1zbzZrQXgyZFN6SlpmaUFQd3FwMHlxY2Vza1VXeThxRWxKNHpucXJDam9n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da USP"
-    },
-    {
-      "articleId": "gnews_2eea47d1264378e3",
-      "headline": "Nilo Peçanha realiza DIA D com mutirão de limpeza e ações de combate à dengue nesta sexta-feira (27) - SulBahia1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T17:34:58+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVZMlRqbktNbGtjZ2FhNnhfVElUUkNmdWxNTE9XTkhPT3RSTXhYWUtCOWw1OGt4TkRmQjdDTm5JTEFGMjJXNUdMZERtSjBIcTFnZFhPNXh6aVpWbVRlS0hRaXFIUmQ4anY1UFJuamNfS2dnWnR3SHB3SzdRTzhuYnN6Ym85REdOUVlCdndTdnNEVGFOdXV4NHhWMF91WHdoOFMtdUpkSm44RW1qRUh2VXdaWlYyd0htaVRvTDZxNGhKZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Bahia"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "SulBahia1"
-    },
-    {
-      "articleId": "gnews_4d894b574f01cacb",
-      "headline": "Dia D: Governo de Minas mobiliza 820 municípios no combate aos focos do Aedes aegypti - folhadesabara.com.br",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T16:37:03+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDMwMEVuSEswS1QyVkhHeWxBOTVvZ29seWoxaWhrV3JBOEZGVFF5eno2WndvOTlZZXpKUUJ3VFNfNS1ESzFsdzhFN3MySHdPUVh0c2F4ZUFfOXpWa214VUxjdXBPbTRaY0JpREpIdW9jOWNHc0NrNEhSemtDdFZHV3hTeU5HM0hiUEsxNUdLTGlDSFNYWFFhX3F1ZUowUE5Pbzk5eDFVUjJDZ3pHVEp6OG11S2o5NHpqZFBvMExlSm9IaTc2U3c?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "folhadesabara.com.br"
-    },
-    {
       "articleId": "gnews_e9aa60f5dee93182",
       "headline": "Nova tecnologia contra o mosquito da dengue começa a ser implantada em MS - Idest",
       "headlineTranslated": "",
@@ -749,25 +1355,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "Band News FM Curitiba"
-    },
-    {
-      "articleId": "gnews_964b973c8b628978",
-      "headline": "Vasos e tonéis lideram focos do mosquito da dengue no AM - Segundo a Segundo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T14:50:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfcVJBaDhQMUJlU0Z3V1ZDcTZmTERjQ3d5cUpwYm1qYm1Tbkx5ZjlabklMdjVZOWU1eTk5WnNCQ2hBbXJvV0xtRUxCdktURVVqX2szOWtoQ21vSUlNRVBVZ2NhODRGZy11eDl0Vjl4VDlKM3ZxLWFxQ0NueTVyQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Segundo a Segundo"
     },
     {
       "articleId": "gnews_84416f2f0feb5154",
@@ -827,23 +1414,23 @@
       "sourceName": "Atualiza Bahia"
     },
     {
-      "articleId": "gnews_0c707b349b01e7b9",
-      "headline": "Nordeste e Venda Nova concentram quase 45% dos casos de dengue em BH; veja os dados da sua regional - O Tempo",
+      "articleId": "gnews_8a14f9be35985632",
+      "headline": "Levantamento aponta zero municípios em alto risco de dengue em Sergipe - Imprensa 24h",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T13:31:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMElNYUw1ZWdBajIwV19QTUN4V2hqdmFUMVVJcndHaC12MDl0RmkwVGN0RkoyRnJxSTIzUVIxQV92ajFCWmY5SmZEcl9YNnRIdEZTNW5OdnU2YUp1MTA0NWF3bTlhMEpBOEtBSGlwMjBHQ3J2YkpjTlBac042bGhNSllWei03TnJjNENVY1dlZk1kUTJzVjJoc0xSdDExWk0xckpBS3RpLVJOeGdOTEhySmR3aHVwRkpiMnhOYXQyTWV2dld6VHdFTHprX0toSjFFSVpLVWZ4WUJYdw?oc=5",
+      "publishedTimestamp": "2026-11-26T13:30:31+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3pBY29xTXZZRWllOEZIVUt5TG1FVW9mYlFLV3ZFS0dheENodXBIWXJCM1QwTVdTeFVLOTNCa0dGRk11V0ZUNUZMeTI2VG00TVU4TnkxaW9oWEc1UUlSQkFUNTNLRlJDZXpQVDNsVHEwcEFBd2N2RW1XVFpodWV0dA?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
         "Dengue"
       ],
       "locations": [],
       "states": [
-        "Brasil (estado não identificado)"
+        "Sergipe"
       ],
       "dataSource": "Google News",
-      "sourceName": "O Tempo"
+      "sourceName": "Imprensa 24h"
     },
     {
       "articleId": "gnews_a889b2b63d3240ae",
@@ -903,25 +1490,6 @@
       "sourceName": "Rádio Corredor"
     },
     {
-      "articleId": "gnews_3b73f2f2ee7ecbb5",
-      "headline": "El Niño pode aumentar casos de doenças no Ceará em 2027; entenda quais são os riscos - GCMais",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T12:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVURDcUp4MG5vMmUtaDFCZ2VGNGpfMDdLcXJwLWtWcUZ0Qm1yNEUyLXlnbk1Tb2hXOTVvS3U0X3NwRVhkZDFNTUZxeWNPX0o3YmwzR2hWd0ZxNWdMckJ1NWhPV3MwTURNUmlVbC1GUHg1SDVGSE8zSFhzcFRFbG92RWo3SlFqd09YMktvLTVmemZLLUtzVTlVMU54cDhOd2RvbG42RzlQOE95dW8zaXpTYU1nMURYTWI5c3pYbER6WlVuQk0?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Ceará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "GCMais"
-    },
-    {
       "articleId": "gnews_0589c247c0d7f571",
       "headline": "Aumento nos casos de dengue - G1",
       "headlineTranslated": "",
@@ -958,63 +1526,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "difusoramossoro.com.br"
-    },
-    {
-      "articleId": "gnews_dce1693063c7261b",
-      "headline": "MS adota tecnologia inédita com mosquitos estéreis para combater a dengue - Jornal da Nova",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T11:19:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFdHSFB0VnJfektMbmd6WFpUaXI5akZKVnhEWWJRdWNVVkw5c1M5QWFxX2k3ZFBWYTZXWHpSYlpMTkx1ckNfcTJrODlOcjhTcWcyN2pBZkZvX2s2clJEbllMUklLT0tTMGRCZTdxMUFoVFo5eU1xb1RBWWU3THZleUotcG9EbTZHNlR5NmpXV0x5bF9TN0I1MXZwN0JxcGRSRzJjeG9seWFOa1U2Qnk3TmxhVWJkSG8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Jornal da Nova"
-    },
-    {
-      "articleId": "gnews_45a52c5d29aa060b",
-      "headline": "São Paulo anuncia o fim do surto de sarampo - A Tribuna",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T11:11:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeC1fUnBZSVBzd2ZveE1TQWlzdWtZX0tvN28yclIwUjVISEpGb3dtVlNtT3NtYjJHRGh2M0tCZEs2VXJmMVVZR0gzUTB6WkptN05EMzY1SGxPeHRnY1VwT3dBeUlBazFucC1EZmNLaHctZ1lpVHVlMUtLUEt5bjNYOGNjeGQ3UV9sNVhrdjUwUXdWM3RLbWpnWHhQUnJCR0RacG9xbm9aRDR2Qlk?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Tribuna"
-    },
-    {
-      "articleId": "gnews_104ff87a12e1c702",
-      "headline": "Vasos de plantas, pneus e tonéis concentram 45% dos focos de dengue no Amazonas - Portal do Holanda",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T10:53:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFl0bWFGemJfQmdOazBQZGJXVUdZS0tqX3lLTDVZakRoVzRaWHpVdW5mTXg1Mk5LekFfcC16TzdQNjJ0ZmpFUUZsaXF5al9JbWFWM2RIb29EbTAxSTJfZzNhRVhMa05fQS14T3lDUS1zaWZadVAxb0hoRUN3dW1fclRhTDFQYU1TYUE1Mkl6ZW5ROU1ZNkVWYjNRdW0yeHFldFpyTFk4SVRxSkdLb2V2WmNBYmhnMnlHQkwzbnBR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Amazonas"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal do Holanda"
     },
     {
       "articleId": "gnews_d234fe7188f7f3dc",
@@ -1170,26 +1681,43 @@
       "sourceName": "https://www.businesstimes-bd.com/"
     },
     {
-      "articleId": "gnews_bed32b26ffcd2bd9",
-      "headline": "Governo de Goiás mobiliza municípios para intensificar combate à dengue, zika e chikungunya - Zap Catalão",
+      "articleId": "gnews_4fb15d6a4cfaa1fd",
+      "headline": "Gripe aviária em Aichi aumenta preocupação com o preço dos ovos no Japão - Portal Mie",
       "headlineTranslated": "",
       "summary": "",
       "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-26T04:22:46+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWJocGQ1TWpDSEJvbnRSN0Vtdm94Qng1SnlEaGVNZTJxVzJncGtSdE9BNXVpVzhjbzNDWjI0a1hja2s1cm1PeVotblNFbnZyOEUwZUlDdDdOaVk0c2czdWxfYlVhWGFzX3RweklRLThRazBYeTJYX3ZObTBBR1FxUWJVaFBnYXBUc2c2WDZPTTNWVTJVdzFpajN3aERpdjFaTDNMYmxhX3FNME9ZQm1HUUtxc2t5c3g0?oc=5",
+      "publishedTimestamp": "2026-11-26T02:31:09+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3IxR0VPVVZsT2FvMmlDMmIzM3NQWG1SSWxMNlFreXAyU2ZjQVVRYVBuTHJqZzg2aV9uUFdTS1o1SHBqSnM4RENoRU1mTU50T0FiSno3SmZiTEdheEF0clJEaE94cU4yZXFDc1dSTHhPNVh6MngwUFI2MFVvTXVaYldrOVJNUzVrY2dKLUx5LWY4MkJWNGl0aTNVbEhHbjVudnlHM0RwOFRDb2pwWGVaR2Nib2U?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
-        "Zika",
-        "Chikungunya"
+        "Influenza",
+        "Avian Influenza"
       ],
       "locations": [],
       "states": [
-        "Pará",
-        "Goiás"
+        "Brasil (estado não identificado)"
       ],
       "dataSource": "Google News",
-      "sourceName": "Zap Catalão"
+      "sourceName": "Portal Mie"
+    },
+    {
+      "articleId": "gnews_bc40a20de24aa0f9",
+      "headline": "Saúde realiza ação educativa no Mercado de Jaguaribe pela Semana Nacional de Combate à Dengue - REDE BRASIL DE TELEVISÃO",
+      "headlineTranslated": "",
+      "summary": "",
+      "summaryOriginal": "",
+      "publishedTimestamp": "2026-11-26T00:59:14+00:00",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbURDM0tBLVBiU0d0S3I0Q1hVczgtOG8zNU8xSVhTZjFNUWpFQ0VvT29Wb1JxSmxoc29DWk1tOVdGejNobnU1TjBRRklBNkNnQjhoenAxQkpUQWxOenJ4bTNZZDIzN2wycE9uWnVTc3RUcEtqUkZ6Q3VjeHY2V3ZzOEctRHFxdW1BQUN2RkdlWm01QnhmTDRaMTEybEJ0Tk5ENmlpa0QwU21WbVFPdlphS2xDRVVxV2w3LUNhWHNVZW1oZ0loRkE?oc=5",
+      "originalLanguage": "PORTUGUESE",
+      "diseases": [
+        "Dengue"
+      ],
+      "locations": [],
+      "states": [
+        "Brasil (estado não identificado)"
+      ],
+      "dataSource": "Google News",
+      "sourceName": "REDE BRASIL DE TELEVISÃO"
     },
     {
       "articleId": "gnews_4ee09db47c4f1f16",
@@ -1201,8 +1729,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUW1lLTQ0bVVyQ0I4cno2Y21kNjd3SE1nai1HRkU4bWFQazlOOUMxR2RZejV1U25QZDN4NUlfXzVZVThfQjR0enZvU3RuZGpRSWdPRnBwY21PbjVZWE0wY0NPVlB5RzhYWVRZX00zWmkwaEw2a0tuUWxDYVhZRWU4X0hKZHJ6Mjc3R2x0QWx3amFUajE0bjhuUk02LTFJd1pkalFXTTh3SlNLZlE?oc=5",
       "originalLanguage": "PORTUGUESE",
       "diseases": [
-        "Dengue",
         "Zika",
+        "Dengue",
         "Chikungunya"
       ],
       "locations": [],
@@ -1211,552 +1739,6 @@
       ],
       "dataSource": "Google News",
       "sourceName": "CNN Brasil"
-    },
-    {
-      "articleId": "gnews_9294cf36b77157a0",
-      "headline": "Inverno amazônico: chuvas aumentam a população de mosquitos e acendem alerta para dengue e outras arboviroses no Pará - Portal Guarany Júnior",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T23:57:41+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOXpDZHd4VlhuNVBDT3VtRjBwY29jTUhIUGEteDltVW5GT2FjM2ZWaG1PNzdBTnotTTJlNHJ3RElreGFIRGkyZXJaczFTd0VzV3BTQlZ4Q2ZVWHJmZWlRMjlSV2hONUs5R3VFLXcxc29WS1AzNXJpM1RqWERyMmtVaEJSVENMZHBoR2NFd1JlZGVKbTQ4SXFiQzRfUExPVFBtUVJzeUFKbEVqTm82TlN1X2V3VmxWNmxFUHBfN1hGaTdGZFJBY1lZOEM5TF9IYVg1cTMxcGUwS3hOeXdkSXd0ek5EM0hfX0V4UGZuaHhYeUQzcW8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal Guarany Júnior"
-    },
-    {
-      "articleId": "gnews_08aca42498709ca7",
-      "headline": "Casos prováveis de dengue sobem 120% em SC e secretário alerta para ‘temporada muito pesada’ com El Niño - ND Mais",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T23:20:53+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm1lMXpFTDBZSWVLcjJXUFE5TzNSc05QeE9GU1gwbDFmcVBsNnNyLVM1cFRINnFNSVp3WjZpbGNLNzM2bzk3VlV1Q19MWXZnMjhueVY5ak9hSkk0UExRLXdlbXRKRVpjczBJWFgwMHkyWkk1eGQ2UVdjMmJYNENNalZrQ3I5YTdmVTlCMUUzN1NjTE40UGNKVEY4NTFFV3NBcGozU05tT2Q0RzJ0blBIQ2g2U3NEeGd0dlI3Ri1JaEk0alU0MS1uQzV3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ND Mais"
-    },
-    {
-      "articleId": "gnews_6e5bb0a1a1b709a3",
-      "headline": "Estudo em Belo Horizonte aponta queda de 69% nas infecções por dengue com mosquitos com Wolbachia - Agora RN",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T22:57:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUTENZU1VnM0JQY0hTU1NfZTBPaE1QRmlUTVJwejNkSGtSQkpWbERoLU15cVlLOGl2VlJpRUhMRFFqaHhVdkR5a1A3bzBjeFA2UUhHYkFNWDNUNEU5YjhnQmVjQ29SQUhwYlZsVkc0YUJXZ0lIeTQw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Minas Gerais"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora RN"
-    },
-    {
-      "articleId": "gnews_069233a847029b67",
-      "headline": "Gripe aviária no ES leva Japão a suspender compra de aves - Tribuna Online",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T22:41:01+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ObUlUNHdWMnVnV1V2OG9QVkRBZjZIR2M4ZjJ1WGNTRUxWVDZjMnpfcjJZbzVrOG5xOFpFdGJURjlSMlhGdWZ0RlpRY1B0djdWVEVUQnBBOWhyMzRqdmpueXVUYUVOeXJzSTd2b2dR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Tribuna Online"
-    },
-    {
-      "articleId": "gnews_373163ef5313b05f",
-      "headline": "Dengue dispara em Santa Catarina: casos aumentam 60% e acendem alerta para o verão - Agora Floripa",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T22:29:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWt5X2NlNG9JTUZfWDUwY1AxZGZOVFp1eUtrYS1mVjByZVBFMmVhWlhoSDVvMVFGZmlaWlh5MmNVRjZETDJwbHdOSTRXcS1OUHhmQ3RoRzZHRjdjTHd3cFAtZjZJb19vVjAtU29OTXB1VFd2RUdTcXJvR1ZQZVdMZlFVaFN1aVVZVkZ3bnU3SHRrLWIxbUpZeFNBOUVudklkMkoySmJvcWMzOS1tNXc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Agora Floripa"
-    },
-    {
-      "articleId": "gnews_c48968ac5d005179",
-      "headline": "Japão suspende compra de aves do ES após caso de gripe aviária - A Gazeta",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T22:28:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG9BMTYzQnpLdkxyZWVFRl9mMy1UaFljZ01qSlFJQzlxYjJJanRTYkE1VGJwSkEwTUpuc0Y1X1VrNVNqOFpMSmhjSlNhR2E1MEZYc2tsN2ZvemRLX0x0RFpPaXVZV01YX0htNi1zeUVQSS1vRVYtZm5iM1VXaXhBMDBUeGh4Nm1BQXpydERLZTZ0c1IwbW9LM3dRUUNobDBSckdqcg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "A Gazeta"
-    },
-    {
-      "articleId": "gnews_50085aedb50f2cae",
-      "headline": "Gripe aviária em São Mateus é confirmada em criação de subsistência no Espírito Santo - CompreRural",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T22:03:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDRYdHdrRUJFTEZpVS1WdDF1d1g1TVdrYUx0eDMyd1ZucHdxRFhrU2dpcUZ2M0RhV21XSkZKVnZrZC1jb21KTEVJUWxENGgxZU5yNVRZVlY1UTZzSXhUZHVqa0N2US1LYTFaNWVQTUpHaEttWldybHI5VW1CR2I0My0yLTdQY3U1YUZoaG93My1qVmc2bXBkS0FVa3pFcWMxQlRjRGNrWk90Smx6QUFoVWZFekc?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "CompreRural"
-    },
-    {
-      "articleId": "gnews_fb0e8d30616b9ba0",
-      "headline": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença - BBC",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T21:13:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWmFHWWhvdWJoYndnenE5NUlrZ0EyTlMxN1pLbUc4RnFyMXg5azZLaTNKdDduM2tCc2s5OUhVb0Z0Tm5LSmdCaUlDX1l4WVlncWpmZE5LQU1rUlJuZ0FOLThWRdIBaEFVX3lxTE80NW1ubm1aTWc2NFNDU0xMOG94SGNISGczYkhrTGRSc0UyanozdkFpRzdlQ1NERG12MWdkT3NQd3Nma2E0MUZ3WHpBZm1mSGZfTVJ4eDdGX3NjT1RtbkVMekNUNjRZUkZp?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Mpox"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "BBC"
-    },
-    {
-      "articleId": "gnews_0482c6b4ab1defc7",
-      "headline": "Goiás intensifica combate à dengue e prevê ações de prevenção em municípios do Entorno - Foca Lá",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T21:03:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWJweTVvZHR0MkduQWFOMEJKUkVoNVU0R0R3ZzNrSWRzRlBzcVVEODhOOHhMWHhaWVF4U2RyLTZXUGJYVHNDQWtzRXRRLWZneFdhS3lpRkE4S2hfT0RuamR0T1d1bXhuZklkRkdsVEl4UkN2MG42emtuQjZYQVZsWUVQSWIzd3ZhREZRQmg4WFhvdl8xdGc3UUI1ZHBtOG04RVI5SHVuVkhlcFNyaXdGRm15V3h5enFQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Foca Lá"
-    },
-    {
-      "articleId": "gnews_10ff149cc4a3acf2",
-      "headline": "Caso de gripe aviária é registrado em São Mateus, no Espírito Santo - Canal Rural",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T20:53:11+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3B1ZTJFdjY3SDhMQkgtbHc1SENPVm8zR2I2cmxQV0JRYTVyaHFYS3dxbkJDMzJNbVVHVUswZmQ0ZGphRFBxYUxxc1BuR29xTTBjb3JrSTlhMnBUWXhudWhjeXhQWXQ4RlhOQ25XRFNzMjIzd0VMamZFaU1rSGdjWnM0Ymh0Rzk0Z0hiSlhtdXZfTUo4RXNvR2gzY0dCNXB1Qi01Rk1hZEhGQUptaFFr?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Espírito Santo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Canal Rural"
-    },
-    {
-      "articleId": "gnews_c31b126894d3cf4f",
-      "headline": "Condições favoráveis ao Aedes aegypti - Portal da UFRN",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T20:50:24+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RHMElGMkZrcHhmUUZiZXdXNlk0TmNRcUhWR1pleUt1WnA4bElqRVcxQ1FaY3lYcGhjcnRpc3IzaHRxeHltR1NZcng1VHRaQzZYSllDUU5rMzFXUFphUDVYUEtmbzRFc0poTzV6Sk1KQnZVdUlXN2g5M2phaTduejdCcWowWTN6eWx6M3NwMWg5eE1SbjBn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal da UFRN"
-    },
-    {
-      "articleId": "gnews_7edc5bf2a4ddee57",
-      "headline": "Gripe aviária nos EUA soma novos casos humanos e um óbito - Afya | Home",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T20:30:20+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbU5iWW9DWWZOYkI1d3VhajBTdUl4T0stY1FZTEVrNHRRMzFuWjhWWWJ3WHg1UUJJYWJtYW5Yb3RfSGVWTVk1V2UzN0VBbDFRRTdBX0ExU2tvNVhhNFp1MXpwb0Vsak00OTJPQ3ZRT2pZdFB6VU1ocFBKYkllSU1ZMWNPc3NUWVpzVjBhXzY5elNVT0FmNmxYYWs0dkRxUQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Afya | Home"
-    },
-    {
-      "articleId": "gnews_b6227dd8fcec46a0",
-      "headline": "Jornal Midiamax. . Além dos casos de sarna em creches e escolas de Mato Grosso do Sul, o surto atinge também os detentos do Instituto Penal de Campo Grande, conforme a Agepen (Agência Estadual de Administração do Sistema Penitenciário). O Estado j - Facebook",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T20:19:49+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmNYYTMyb2RGMFFkWXQ1azJTMEhaT1hycDVFWDQ2TVpXb2x6bG5JWFhvNzVHeWlCZldaV0Q3aXlvaC05M0p2N3IzUkhSaGpTX3ZyLUJJSDB0OUNiallWWExJVDhxc0lzM3NXUGhGRGQyNzdrYjVLZ1NPT2haSWxTVXYycWZKUlhSR096UlF3VUZreVBXRWJPWWJtSjNVZ2VMNU13YjVSU1NNMlJPWUhEQnFOb2tjS3g5T0N4V1NBMi1CRWZxcHV4ckZtMEQ0VVR6S2hFV2FtYlNNOXpP?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Facebook"
-    },
-    {
-      "articleId": "gnews_0b457ccf8f06b6ac",
-      "headline": "Gripe aviária no ES: foco em criação de subsistência é contido em São Mateus - Conexão Safra",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T20:14:44+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDU1NDFucW5VT1BMRmExclVoWVlRNU5uc1Nfb1FwQmpzSHdsekttRUtIbjhaR3dHZndpVTlxTTMwMFdHdlhwNC1DZFFaWnVMaFRjdTBHUE9ENDdGYmVrUHJwVmFYZVhsREh3TGZiVllwbXMwNUhQRUo2a05tYU82a2hRb0xuTGVVMDVKdjNKbG90cDNFUlFBNTJQakZUM0JWdmRHTE1XVXVvUjg?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Conexão Safra"
-    },
-    {
-      "articleId": "gnews_7a2494f840459106",
-      "headline": "Jornal Midiamax. . Mato Grosso do Sul registra 1.302 casos de sarna humana em 44 municípios. Nova Andradina lidera os registros, com 185 casos, seguida de Paranaíba, com 155. O levantamento foi produzido pelo Cosems-MS (Conselho de Secretarias - Facebook",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T19:45:34+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV21NZnliWUtSVW5wYi1xMTB5Sjc4LXIwWGVtaXMzUG1HUGlmYnJfZHVOaEY3X0RHQmFkbnJHVWVkbTVHSWZYMndSaGhBcjFaSzdUV3BVMTBwbWdrWmhhbUFnYjRVOGFJUE1xV3hBcEpxYmxGbXlabzV4dG43Qkk1Vy16WjhoS29lWTRkNGU1Ti1Nd2wzX3ZXTklZS05mQ1p0M3RsdHhadUUycnk0QTJuNlpNcXROUnltSTVMTUtDUjZMdmthUEYxbnBtbHpTZ3pQT0RkNUdqdHY0U00y?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Mato Grosso",
-        "Pará",
-        "Paraná",
-        "Mato Grosso do Sul"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Facebook"
-    },
-    {
-      "articleId": "gnews_1eebb2457ce81a8c",
-      "headline": "Gripe aviária: ES confirma foco e Japão veta compras - ES Hoje",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T19:32:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUU1LQ1dvYzdWOVhhOFNYRmtpZWpyNUVDMHFRUkdZZVgwNTlET3N6bzFGdFh1TV9iOWJkQ0ZmR190c1BoenNqLWRFVHpRS0ZfazEyR1h5RXpGRW1WQVFrMUtyRkFSRnJDQTNOZnh2N3pRVERKZjN6aU5nZ2d1YnFpcnNWcE5vQVc2UTg5ZHFn?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Avian Influenza",
-        "Influenza"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "ES Hoje"
-    },
-    {
-      "articleId": "gnews_4546b55a9a75ea77",
-      "headline": "Dengue dispara 60% em Santa Catarina e acende alerta para 2026 - sctododia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T19:21:07+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUllNmVaZy16NjJBT045MVR2ZXJ0RUN0OU55bk51OU5FTTZWb0FNV0RGRmt4UDc1Wkt1Nnl2TWhwWXNzSEJWV3JoRGN0ZzVmWlhwckEwa291b09aV19NYXVGRk1qQ29KSjFmb29WZjdDY2pvWVRXd3l6NG9JdE9PUFJaT2laZWNGelFxNkQtakZzQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Pará",
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "sctododia"
-    },
-    {
-      "articleId": "gnews_c1cd3f7fe3ac2595",
-      "headline": "Prefeitura de Goiânia espalha 16,6 mil armadilhas contra a dengue pela cidade - Fato Paulista",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T18:56:35+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyOHdnUzFpUUlOaEwwZmJnSm4xZWhUTVpFSy1UWUxXUENmMV9EQXlBenl2M0piUHZtd1ZyQmJ5UzAxbzJJS21ramRLN2tRRHFpT3hYOE5lNlg1cHB5VXZaeTFVVEtXbWVtR3hnZjJpaW9FaVJlZDFNa0JHZw?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Fato Paulista"
-    },
-    {
-      "articleId": "gnews_9cf997dae113a946",
-      "headline": "Saúde mobiliza população contra dengue e chikungunya, calor e chuva exigem atenção - REDE BRASIL DE TELEVISÃO",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T18:56:13+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGRQU0c3RGRURTIxRG52VnZ5RjBHenBpWUhjWmI1VklqWXFVUVhTTmhjMDM1OU04QU9kYjhtQjY0R085ZWFlN2k3MFpaX3BuSWlWRXk2MjhVcW9sQm9JRkI3cmJxN3hoY0JVQ0lKczJtT2dSeDhOM3VRY1lmb2tSZlU5UDdBbzlWY0F2WTI4aG8wM0NJTE9WczlMLWJjUjZLTTB1SGd0a1owZHphRzUyS3d4OGtjQQ?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue",
-        "Chikungunya"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "REDE BRASIL DE TELEVISÃO"
-    },
-    {
-      "articleId": "gnews_6fe9449cff9bbdcb",
-      "headline": "Goiânia instalou 16,6 mil das 25 mil armadilhas contra a dengue - iG Último Segundo",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T18:48:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFVFdDB6QVJqSUI3MklCTVJjTlZUU013NWdMNTZxU1ZwVVZ1d3MtU0lYcWdzOVhYQkhMZWVlcTVUZkNRM0FJQkZmRy1vdFZ6YjljX3Q4OWxaelJrRVdsS05Da0FmaDVhWkF6UER5R251NVRBLTV6MndHRjJuMklKcXh4ZzY4Sno5Vl9oTW1YM0d4NUNoZkNEYmp5UGpqendXbXhsdHFmRDhGSWs5ek83UUJrM1NuMS1feUHSAb8BQVVfeXFMT2lXWHNQdEgzUEUxQS1zQno2MGdmNXQ1MU91Q2N3dXZReG5vUWNveWdiQ0ZzQktfSm1WbWlBM1owUV9XV3JlZ09DeFFoUWpxUi1KaXNNZThGRFZacG9HdzBUc19YOW96eE5DMlNJczM2Ri1RSUM0ei1IcHdQN01HUzFMWW9YMmhUSGlMdTZaMjdoU0p6eDF3RklaWnJCM01ITkU3cVlfNnJNVDFFbFZfRHdoRlFtMENWN2dSUDB2Sms?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Goiás"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "iG Último Segundo"
-    },
-    {
-      "articleId": "gnews_269ba3a0fb7000de",
-      "headline": "Dengue: aumento de casos nas últimas semanas acende alerta em Santa Catarina - Governo de Santa Catarina",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T18:03:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmNldDQyV1RLWW9tX1AtWGR1ZTl0eTIwOUxibmxheGVkUmZQVWpXSDRQM2JKUm42UlA4ZVpGbm94VVpGaHRIVHB4OWdKZXVNN0hRM0xQT1RMX1pDQlZhZXRyeE1ZTHVzZTlNQkxxa0djZFpzckxsQnc3R0VwX2FKcnJKSnpCMEpzLUdWQ3VYUTVDLU5zS0VoUUVwT1FneTFtX1k2ZC1n?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Governo de Santa Catarina"
-    },
-    {
-      "articleId": "gnews_bfad2abfc49563dd",
-      "headline": "Cidade de São Paulo encerra transmissão de sarampo associada a casos importados - Afya | Home",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T17:52:21+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzFkQ19MTEtyQktKbFNQZEJ2TTk1dlFNdDM0X1dsM3pKYld0dm5TSlM1aXJOLVNoMFlJMWc5bW1tQTU2dGJ2UXVDcVM3THo5YUhDSVFvQ3FoTy1zeGc0SFhKNGJMcndCREdLaW84eE9Nek5wc0dadEZyYTZOWWtnMTc3aXVwS0JVNm1yZ2hkT2cyeU92LUJERmdITUU5QVdkQ0VzWFZSWUJXQ2Z4RENZbkln?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "São Paulo"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Afya | Home"
-    },
-    {
-      "articleId": "gnews_0f8550a476294cf3",
-      "headline": "Mossoró realiza Dia D de combate à dengue nesta sexta-feira - Portal do RN",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T17:24:33+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODloUEJSWXZKcUR3N0NhQ1BIM09XZFZYRk8xc2VLYTFYRVNfLXNqX2NEV2JNbWlpS1huZU8zQTN4VlE0Vjl3Y09TamhzRnpzQzdaZl9ZdkJmdEF5cDNhMm9yTXlVZVM5cGRDSExVVU1OSFR1NC01b1l5UE9FNDdNcnhxWnB3Z0JJTm9r?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Norte"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Portal do RN"
-    },
-    {
-      "articleId": "gnews_2e76bf0be29efaaf",
-      "headline": "Governo Daniel Vilela mobiliza municípios contra a dengue após registro de alta de 19% nos casos em todo o estado - Expressão Brasiliense",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T17:24:08+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3hhcEd1TGcxYUptMEhpQVpicEI3cWlLbVMycTF5MFgyZ0RxNkxVUGJZd1hVZl9SRlU4aVo0ZTB6SWJSMDJwbXlMUnhYZXR5Sk5nWnJUQXdaR1lTYXFsSkJPWk93RUJGWFh2d3FLRVpyempyNVZGMXBPR2pQNUlOcVh2eXZpaXhFc2xRd2g3YnYxWWlHQlBDZEQ2MW42UWNPSHB1dGFMelF1cHFxOTcxcUJtdWV3bEp2UDl2ZVg1TExQRUZSdGR4SEhYdjhQa2tTWkI4ck9NQXkyeU5jLTV3b1FRYUNHYWFrY2lWWnZOUkFkMEUy?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Expressão Brasiliense"
-    },
-    {
-      "articleId": "gnews_d014d2826ce9eba1",
-      "headline": "Imunização contra sarampo: baixa cobertura no Acre reforça importância da vacinação - G1",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T17:09:10+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEF0NFk3Mk03U1dSRGdlaWtjaU9RdzVaYzR0c0l0Qmhqckh0ME1pempiRkowaHBZMml1QnFkNElDM0Y4M3lQTVIxVThjWW1NUjdrRU50Mk56MFM2b2ZvS3FWcGJpbUsxVnA1eTNIZ1kwTmdaWlBUaEdNblNZczB5YW1jYXJpN1pTeVZ0X255bGFENjdPVGMzMms0ZkhuSHppMVBBMUdkMFFTM0p0N2xmVl9xakprdjdFZ2RhNnZ5UXZtSXdncjRfd0s1REdMUnZZaE1hRzg0N0RSUVYzV2tLVUY1czdNMWZDUlFsUUdNaDBEZ9IBgAJBVV95cUxNTVl1aTV5d0NnYjZUQ3hseXBpZXc3dWdmTS1PQWVZVEtDNzRxNmdjM2ZudXlHeVZueF9jTkpDYlFHY2VlZkVvdUtSN3cwMzJyTWVQM2xMU0JCME5DaFpnS3ZrT19nMk92THhoV1ZMMm5Ta3dROEk1dkNaQm1hM0JOX29oWjVzMENtTVd3MWxHNUM1b1VfQUlvVnBqMHZWS2l6U00yZVJkWmlRYlhvRVNPRGpIUjVjc0h3Sm1wY3RUMDlENF96RG81U2tFMDd0Q0Q1eFFJVWNaQ0xVWWpxR1owRjVsRWdvbkF6V2VuVkEtSE1wNDZvQ1N2eGNtWU5WaDZ3?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Measles"
-      ],
-      "locations": [],
-      "states": [
-        "Acre"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "G1"
-    },
-    {
-      "articleId": "gnews_d80fef172b5abbf8",
-      "headline": "Mossoró realiza Dia D de combate ao mosquito da dengue nesta sexta-feira (27) - TCM Notícia",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T16:28:52+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkQzMVZ3cHpkQ2JVSHg2emQ1R21mLTlOLUZpUVNYSml3d1FNYnNDRGY2NjB4Mi00OE0wN3pvcm1HbEJNclNuWGY0NkVuTUdCMnRxd3VxVG5lS0NOdFpDSkF2NUUyQ3QtT0Y2X0diY1FNTG1ibHdWZGI3WVQxNEFvY3I2TXpHSklaQ3ZCblc0ZGs0Z2RHanlVdjBzV0IzcjVlLWN2dXc0NFRCQlF6bzFV?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Rio Grande do Norte"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "TCM Notícia"
-    },
-    {
-      "articleId": "gnews_e0c0b15b6a7bda34",
-      "headline": "Comissão de Saúde da Alesc aprova projetos sobre saúde mental, dengue e atendimento à população idosa - Santa Catarina em Pauta",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T16:22:00+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGgyUkhJQ1dYZE1XSkFBZXFiMU5pMHF3YXQxYzhPSjZORUEzN2ZMX1JweEhEelR5Wm1qMWNVb2xFRDluRVJGeThLbGdvcHZCazFQdHBra0VCWG50bXMyWXhFLXpfNkN4RkxTSVFEcTZsbnhVenY4UF92bE5YcEw5Vy1BLVdVYVpvbHByaUNMVXJoVHpqdHprWmVyUDY3anAweVJyMDBLcjJtdldnLWZBeS1fb3BTanMxM2c4ZFVEVUxpMm9wYU9rakxCUDJJTHpxX3U4VW1JTVVqWEo1UXBEd2VTUVpHem8?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Dengue"
-      ],
-      "locations": [],
-      "states": [
-        "Santa Catarina"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Santa Catarina em Pauta"
-    },
-    {
-      "articleId": "gnews_beb3600f175c2e52",
-      "headline": "Sarna humana avança em MS e já atinge 44 municípios com 1,1 mil casos - Folha MS",
-      "headlineTranslated": "",
-      "summary": "",
-      "summaryOriginal": "",
-      "publishedTimestamp": "2026-11-25T16:20:05+00:00",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uLXcySjlWUGhyWTNxOFJrelRjcjlPdjNEcktVNF9RcHhlZU9UcHIxWUZyUU52VkxZYnN0MWFhWVJ5NEczdUp1RUhpT3hiSmtESVNRYk9VUlREYWs0V0xrZGxwSnRZa3V1Z3NfbjVZUkk3Vld4cW4tdmhR?oc=5",
-      "originalLanguage": "PORTUGUESE",
-      "diseases": [
-        "Doença infecciosa (não especificada)"
-      ],
-      "locations": [],
-      "states": [
-        "Brasil (estado não identificado)"
-      ],
-      "dataSource": "Google News",
-      "sourceName": "Folha MS"
     }
   ]
 }
